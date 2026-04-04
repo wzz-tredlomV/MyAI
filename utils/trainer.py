@@ -107,7 +107,11 @@ class Trainer:
             noise = tf.random.normal([batch_size, self.noise_dim])
             
             # 生成假图
-            fake_images = self.generator([noise, text_condition], training=True)
+            fake_images = self.generator
+            # 确保生成图像与真实图像尺寸一致
+            target_h = tf.shape(real_images)[1]
+            target_w = tf.shape(real_images)[2]
+            fake_images = tf.image.resize(fake_images, [target_h, target_w], method='bilinear')([noise, text_condition], training=True)
             
             # 判别真实图
             real_logits = self.discriminator([real_images, text_condition], training=True)
@@ -156,7 +160,11 @@ class Trainer:
             noise = tf.random.normal([batch_size, self.noise_dim])
             
             # 生成假图
-            fake_images = self.generator([noise, text_condition], training=True)
+            fake_images = self.generator
+            # 确保生成图像与真实图像尺寸一致
+            target_h = tf.shape(real_images)[1]
+            target_w = tf.shape(real_images)[2]
+            fake_images = tf.image.resize(fake_images, [target_h, target_w], method='bilinear')([noise, text_condition], training=True)
             
             # 判别假图
             fake_logits = self.discriminator([fake_images, text_condition], training=True)
