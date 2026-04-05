@@ -1,5 +1,5 @@
 """
-训练器 - 条件GAN训练循环
+训练器 - 条件GAN训练循环（简化版，避免 tf.function 梯度问题）
 """
 
 import os
@@ -38,19 +38,6 @@ class Trainer:
                  log_dir: str = "./logs"):
         """
         初始化训练器
-
-        Args:
-            generator: 生成器
-            discriminator: 判别器
-            text_encoder: 文本编码器
-            g_optimizer: 生成器优化器
-            d_optimizer: 判别器优化器
-            noise_dim: 噪声维度
-            adv_loss_weight: 对抗损失权重
-            fm_loss_weight: 特征匹配损失权重
-            ema_decay: EMA衰减率
-            checkpoint_dir: 检查点目录
-            log_dir: 日志目录
         """
         self.generator = generator
         self.discriminator = discriminator
@@ -81,11 +68,9 @@ class Trainer:
         # 损失历史
         self.loss_history = defaultdict(list)
 
-    @tf.function
-    def train_step_d(self, real_images: tf.Tensor, text_encoded: tf.Tensor,
-                     attention_mask: tf.Tensor) -> Dict[str, tf.Tensor]:
+    def train_step_d(self, real_images, text_encoded, attention_mask):
         """
-        判别器训练步骤
+        判别器训练步骤（不使用 @tf.function 装饰器）
         """
         batch_size = tf.shape(real_images)[0]
 
@@ -126,21 +111,21 @@ class Trainer:
             "d_fake": tf.reduce_mean(fake_logits),
         }
 
-    @tf.function
-    def train_step_g(self, real_images: tf.Tensor, text_encoded: tf.Tensor,
-                     attention_mask: tf.Tensor) -> Dict[str, tf.Tensor]:
+    def train_step_g(self, real_images, text_encoded, attention_mask):
         """
-        生成器训练步骤
+        生成器训练步骤（不使用 @tf.function 装饰器）
         """
         batch_size = tf.shape(real_images)[0]
 
-        # 编码文本（需要更新文本编码器）
-        text_condition = self.text_encoder([text_encoded, attention_mask], training=True)
+        with tf.GradientTape() as tape:
+            # 编码文本
+            text_condition = self.text_encoder(
+                [text_encoded, attention_mask], training=True
+            )
 
-        # 生成噪声
-        noise = tf.random.normal([batch_size, self.noise_dim])
+            # 生成噪声
+            noise = tf.random.normal([batch_size, self.noise_dim])
 
-        with tf.GradientTape(persistent=True) as tape:
             # 生成假图
             fake_images = self.generator([noise, text_condition], training=True)
             # 确保生成图像与真实图像尺寸一致
@@ -160,18 +145,18 @@ class Trainer:
             # 总损失
             g_loss = self.adv_loss_weight * g_adv_loss + self.fm_loss_weight * g_fm_loss
 
-        # 分别计算生成器和文本编码器的梯度
-        g_gradients = tape.gradient(g_loss, self.generator.trainable_variables)
-        text_gradients = tape.gradient(g_loss, self.text_encoder.trainable_variables)
+        # 计算梯度并更新（同时更新生成器和文本编码器）
+        variables = self.generator.trainable_variables + self.text_encoder.trainable_variables
+        gradients = tape.gradient(g_loss, variables)
         
-        # 删除持久化梯度带
-        del tape
+        # 分割梯度
+        g_vars_count = len(self.generator.trainable_variables)
+        g_gradients = gradients[:g_vars_count]
+        text_gradients = gradients[g_vars_count:]
 
         # 应用梯度
-        if g_gradients is not None:
-            self.g_optimizer.apply_gradients(zip(g_gradients, self.generator.trainable_variables))
-        if text_gradients is not None:
-            self.g_optimizer.apply_gradients(zip(text_gradients, self.text_encoder.trainable_variables))
+        self.g_optimizer.apply_gradients(zip(g_gradients, self.generator.trainable_variables))
+        self.g_optimizer.apply_gradients(zip(text_gradients, self.text_encoder.trainable_variables))
 
         # 更新EMA
         self.generator_ema.update()
@@ -182,7 +167,7 @@ class Trainer:
             "g_fm_loss": g_fm_loss,
         }
 
-    def train_step(self, batch: Dict[str, tf.Tensor]) -> Dict[str, float]:
+    def train_step(self, batch):
         """
         完整的训练步骤（D + G）
         """
