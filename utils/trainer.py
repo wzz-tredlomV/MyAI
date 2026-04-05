@@ -1,5 +1,5 @@
 """
-训练器 - 条件GAN训练循环（简化版，避免 tf.function 梯度问题）
+训练器 - 条件GAN训练循环（使用独立优化器）
 """
 
 import os
@@ -30,6 +30,7 @@ class Trainer:
                  text_encoder: keras.Model,
                  g_optimizer: keras.optimizers.Optimizer,
                  d_optimizer: keras.optimizers.Optimizer,
+                 text_optimizer: keras.optimizers.Optimizer,
                  noise_dim: int = 100,
                  adv_loss_weight: float = 1.0,
                  fm_loss_weight: float = 10.0,
@@ -44,6 +45,7 @@ class Trainer:
         self.text_encoder = text_encoder
         self.g_optimizer = g_optimizer
         self.d_optimizer = d_optimizer
+        self.text_optimizer = text_optimizer
 
         self.noise_dim = noise_dim
         self.adv_loss_weight = adv_loss_weight
@@ -70,7 +72,7 @@ class Trainer:
 
     def train_step_d(self, real_images, text_encoded, attention_mask):
         """
-        判别器训练步骤（不使用 @tf.function 装饰器）
+        判别器训练步骤
         """
         batch_size = tf.shape(real_images)[0]
 
@@ -113,11 +115,11 @@ class Trainer:
 
     def train_step_g(self, real_images, text_encoded, attention_mask):
         """
-        生成器训练步骤（不使用 @tf.function 装饰器）
+        生成器训练步骤
         """
         batch_size = tf.shape(real_images)[0]
 
-        with tf.GradientTape() as tape:
+        with tf.GradientTape(persistent=True) as tape:
             # 编码文本
             text_condition = self.text_encoder(
                 [text_encoded, attention_mask], training=True
@@ -145,18 +147,18 @@ class Trainer:
             # 总损失
             g_loss = self.adv_loss_weight * g_adv_loss + self.fm_loss_weight * g_fm_loss
 
-        # 计算梯度并更新（同时更新生成器和文本编码器）
-        variables = self.generator.trainable_variables + self.text_encoder.trainable_variables
-        gradients = tape.gradient(g_loss, variables)
+        # 分别计算梯度
+        g_gradients = tape.gradient(g_loss, self.generator.trainable_variables)
+        text_gradients = tape.gradient(g_loss, self.text_encoder.trainable_variables)
         
-        # 分割梯度
-        g_vars_count = len(self.generator.trainable_variables)
-        g_gradients = gradients[:g_vars_count]
-        text_gradients = gradients[g_vars_count:]
+        # 删除持久化梯度带
+        del tape
 
         # 应用梯度
-        self.g_optimizer.apply_gradients(zip(g_gradients, self.generator.trainable_variables))
-        self.g_optimizer.apply_gradients(zip(text_gradients, self.text_encoder.trainable_variables))
+        if g_gradients is not None:
+            self.g_optimizer.apply_gradients(zip(g_gradients, self.generator.trainable_variables))
+        if text_gradients is not None:
+            self.text_optimizer.apply_gradients(zip(text_gradients, self.text_encoder.trainable_variables))
 
         # 更新EMA
         self.generator_ema.update()
@@ -269,6 +271,7 @@ class Trainer:
         checkpoint = tf.train.Checkpoint(
             g_optimizer=self.g_optimizer,
             d_optimizer=self.d_optimizer,
+            text_optimizer=self.text_optimizer,
             generator=self.generator,
             discriminator=self.discriminator,
             text_encoder=self.text_encoder,
@@ -290,6 +293,7 @@ class Trainer:
         checkpoint = tf.train.Checkpoint(
             g_optimizer=self.g_optimizer,
             d_optimizer=self.d_optimizer,
+            text_optimizer=self.text_optimizer,
             generator=self.generator,
             discriminator=self.discriminator,
             text_encoder=self.text_encoder,
@@ -351,12 +355,20 @@ def create_trainer(config, generator, discriminator, text_encoder):
         beta_2=config.BETA2
     )
 
+    # 为文本编码器创建独立的优化器
+    text_optimizer = keras.optimizers.Adam(
+        learning_rate=config.G_LR,  # 使用与生成器相同的学习率
+        beta_1=config.BETA1,
+        beta_2=config.BETA2
+    )
+
     return Trainer(
         generator=generator,
         discriminator=discriminator,
         text_encoder=text_encoder,
         g_optimizer=g_optimizer,
         d_optimizer=d_optimizer,
+        text_optimizer=text_optimizer,
         noise_dim=config.NOISE_DIM,
         adv_loss_weight=config.ADV_LOSS_WEIGHT,
         fm_loss_weight=config.FM_LOSS_WEIGHT,
