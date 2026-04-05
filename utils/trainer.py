@@ -86,14 +86,6 @@ class Trainer:
                      attention_mask: tf.Tensor) -> Dict[str, tf.Tensor]:
         """
         判别器训练步骤
-
-        Args:
-            real_images: 真实图像 [B, H, W, 3]
-            text_encoded: 编码后的文本 [B, L]
-            attention_mask: 注意力掩码 [B, L]
-
-        Returns:
-            损失字典
         """
         batch_size = tf.shape(real_images)[0]
 
@@ -116,7 +108,7 @@ class Trainer:
             # 判别真实图
             real_logits = self.discriminator([real_images, text_condition], training=True)
 
-            # 判别假图（不计算生成器梯度）
+            # 判别假图
             fake_logits = self.discriminator([fake_images, text_condition], training=True)
 
             # Hinge损失
@@ -139,26 +131,16 @@ class Trainer:
                      attention_mask: tf.Tensor) -> Dict[str, tf.Tensor]:
         """
         生成器训练步骤
-
-        Args:
-            real_images: 真实图像 [B, H, W, 3]
-            text_encoded: 编码后的文本 [B, L]
-            attention_mask: 注意力掩码 [B, L]
-
-        Returns:
-            损失字典
         """
         batch_size = tf.shape(real_images)[0]
 
-        with tf.GradientTape() as tape:
-            # 编码文本
-            text_condition = self.text_encoder(
-                [text_encoded, attention_mask], training=True
-            )
+        # 编码文本（需要更新文本编码器）
+        text_condition = self.text_encoder([text_encoded, attention_mask], training=True)
 
-            # 生成噪声
-            noise = tf.random.normal([batch_size, self.noise_dim])
+        # 生成噪声
+        noise = tf.random.normal([batch_size, self.noise_dim])
 
+        with tf.GradientTape(persistent=True) as tape:
             # 生成假图
             fake_images = self.generator([noise, text_condition], training=True)
             # 确保生成图像与真实图像尺寸一致
@@ -172,28 +154,24 @@ class Trainer:
             # 对抗损失
             g_adv_loss = hinge_loss_g(fake_logits)
 
-            # 特征匹配损失（可选）
-            # 这里简化为L1损失
+            # 特征匹配损失（L1损失）
             g_fm_loss = tf.reduce_mean(tf.abs(fake_images - real_images))
 
             # 总损失
             g_loss = self.adv_loss_weight * g_adv_loss + self.fm_loss_weight * g_fm_loss
 
-        # 计算梯度并更新
-        gradients = tape.gradient(
-            g_loss,
-            self.generator.trainable_variables + self.text_encoder.trainable_variables
-        )
+        # 分别计算生成器和文本编码器的梯度
+        g_gradients = tape.gradient(g_loss, self.generator.trainable_variables)
+        text_gradients = tape.gradient(g_loss, self.text_encoder.trainable_variables)
+        
+        # 删除持久化梯度带
+        del tape
 
-        # 分离生成器和文本编码器的梯度
-        g_vars = self.generator.trainable_variables
-        text_vars = self.text_encoder.trainable_variables
-
-        g_gradients = gradients[:len(g_vars)]
-        text_gradients = gradients[len(g_vars):]
-
-        self.g_optimizer.apply_gradients(zip(g_gradients, g_vars))
-        self.g_optimizer.apply_gradients(zip(text_gradients, text_vars))
+        # 应用梯度
+        if g_gradients is not None:
+            self.g_optimizer.apply_gradients(zip(g_gradients, self.generator.trainable_variables))
+        if text_gradients is not None:
+            self.g_optimizer.apply_gradients(zip(text_gradients, self.text_encoder.trainable_variables))
 
         # 更新EMA
         self.generator_ema.update()
@@ -207,12 +185,6 @@ class Trainer:
     def train_step(self, batch: Dict[str, tf.Tensor]) -> Dict[str, float]:
         """
         完整的训练步骤（D + G）
-
-        Args:
-            batch: 批次数据
-
-        Returns:
-            损失字典
         """
         real_images = batch["image"]
         text_encoded = batch["text_encoded"]
@@ -238,10 +210,6 @@ class Trainer:
     def train_epoch(self, data_pipeline, steps_per_epoch: Optional[int] = None):
         """
         训练一个epoch
-
-        Args:
-            data_pipeline: 数据管道
-            steps_per_epoch: 每个epoch的步数
         """
         logger.info(f"开始 Epoch {self.epoch + 1}")
 
@@ -300,9 +268,6 @@ class Trainer:
     def save_checkpoint(self, filename: Optional[str] = None):
         """
         保存检查点
-
-        Args:
-            filename: 文件名
         """
         if filename is None:
             filename = f"checkpoint_epoch_{self.epoch}"
@@ -330,9 +295,6 @@ class Trainer:
     def load_checkpoint(self, checkpoint_path: str):
         """
         加载检查点
-
-        Args:
-            checkpoint_path: 检查点路径
         """
         # 加载模型权重
         self.generator.load_weights(os.path.join(checkpoint_path, "generator.weights.h5"))
@@ -357,15 +319,6 @@ class Trainer:
                          seed: Optional[int] = None) -> np.ndarray:
         """
         生成样本图像
-
-        Args:
-            descriptions: 描述文本列表
-            text_encoder_preprocess: 文本编码预处理函数
-            target_size: 目标图像尺寸
-            seed: 随机种子
-
-        Returns:
-            生成的图像数组 [N, H, W, 3]
         """
         if seed is not None:
             tf.random.set_seed(seed)
@@ -399,15 +352,6 @@ class Trainer:
 def create_trainer(config, generator, discriminator, text_encoder):
     """
     创建训练器的工厂函数
-
-    Args:
-        config: 配置对象
-        generator: 生成器
-        discriminator: 判别器
-        text_encoder: 文本编码器
-
-    Returns:
-        Trainer实例
     """
     # 创建优化器
     g_optimizer = keras.optimizers.Adam(

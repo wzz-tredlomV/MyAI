@@ -32,7 +32,7 @@ jobs:
           export OMP_NUM_THREADS=4
           export TF_NUM_INTEROP_THREADS=4
           export TF_NUM_INTRAOP_THREADS=4
-          python train.py
+          python train.py --data_root ./data --epochs 100 --batch_size 32 --export
       
       - name: Upload results
         uses: actions/upload-artifact@v4
