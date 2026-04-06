@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install tensorflow-cpu numpy pillow scikit-learn  # tensorflow-cpu 纯 CPU 版
+          pip install tensorflow tensorboard numpy pillow scikit-learn  # tensorflow-cpu 纯 CPU 版
       
       - name: Verify TF CPU
         run: |
