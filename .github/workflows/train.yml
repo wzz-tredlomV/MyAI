@@ -39,8 +39,4 @@ jobs:
         with:
           name: model-output-${{ github.run_id }}
           path: |
-            models/
-            *.h5
-            *.keras
-            logs/
-            metrics.json
+            ./*
