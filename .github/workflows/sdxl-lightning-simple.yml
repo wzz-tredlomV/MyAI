@@ -4,48 +4,146 @@ on:
   workflow_dispatch:
     inputs:
       prompt:
-        description: '提示词'
+        description: '提示词（必须包含质量词）'
         required: true
-        default: 'a beautiful landscape painting, oil on canvas'
+        default: 'masterpiece, best quality, ultra-detailed, 8k uhd, sharp focus, professional photography'
+      negative_prompt:
+        description: '负面提示词'
+        required: false
+        default: 'blurry, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name'
       steps:
-        description: '步数'
+        description: '步数（官方推荐4步最佳，8步细节更好但慢2倍）'
         default: '4'
         type: choice
-        options: ['1', '2', '4', '8']
+        options: ['4', '8']
+      resolution:
+        description: '分辨率（1024是SDXL原生训练尺寸，质量最佳）'
+        default: '1024'
+        type: choice
+        options: ['768', '1024']
+      seed:
+        description: '随机种子（-1随机，固定值可复现）'
+        default: '-1'
+
+env:
+  PYTHON_VERSION: '3.10'
+  HF_HOME: ~/.cache/huggingface
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+    timeout-minutes: 20
 
-      - uses: actions/setup-python@v5
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: ${{ env.PYTHON_VERSION }}
           cache: 'pip'
 
-      - name: Install dependencies
+      - name: Install System Dependencies
         run: |
-          pip install torch --index-url https://download.pytorch.org/whl/cpu
-          pip install diffusers transformers accelerate safetensors pillow
+          sudo apt-get update
+          sudo apt-get install -y             libgl1-mesa-glx libglib2.0-0 libsm6 libxext6 libxrender-dev libgomp1
 
-      - name: Cache models
+      - name: Cache Models
         uses: actions/cache@v4
+        id: model-cache
         with:
-          path: ~/.cache/huggingface
-          key: models-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          path: |
+            ~/.cache/huggingface/
+            ./models/
+          key: ${{ runner.os }}-sdxl-final-v1
 
-      - name: Generate
+      - name: Install Dependencies
         run: |
-          python3 generate.py \
-            --prompt "${{ github.event.inputs.prompt }}" \
-            --steps ${{ github.event.inputs.steps }} \
-            --num-images 1 \
-            --height 512 \
-            --width 512
+          python -m pip install --upgrade pip
+          pip install torch==2.1.0 torchvision --index-url https://download.pytorch.org/whl/cpu
+          pip install diffusers==0.27.0 transformers==4.38.0 accelerate safetensors pillow
 
-      - name: Upload
-        uses: actions/upload-artifact@v4
-        with:
-          name: generated-image
-          path: outputs/*.png
+      - name: Download Models
+        if: steps.model-cache.outputs.cache-hit != 'true'
+        run: |
+          python3 << 'PYEOF'
+          from huggingface_hub import hf_hub_download
+          import os
+          os.makedirs("./models", exist_ok=True)
+
+          steps = "${{ github.event.inputs.steps || '4' }}"
+          model_file = f"sdxl_lightning_{steps}step.safetensors"
+
+          print(f"Downloading {model_file}...")
+          try:
+              hf_hub_download(
+                  repo_id="ByteDance/SDXL-Lightning",
+                  filename=model_file,
+                  local_dir="./models",
+                  local_dir_use_symlinks=False
+              )
+              print("✅ Model downloaded")
+          except Exception as e:
+              print(f"⚠️ {e}")
+          PYEOF
+
+      - name: Generate High Quality Image
+        id: generate
+        run: |
+          python3 << 'PYEOF'
+          import torch
+          from diffusers import StableDiffusionXLPipeline, EulerDiscreteScheduler
+          from safetensors.torch import load_file
+          from PIL import Image, ImageFilter, ImageEnhance
+          import os
+          import time
+          import random
+          from datetime import datetime
+
+          # 解析参数
+          PROMPT = """${{ github.event.inputs.prompt || 'masterpiece, best quality' }}"""
+          NEGATIVE = """${{ github.event.inputs.negative_prompt || 'blurry, lowres' }}"""
+          STEPS = int("""${{ github.event.inputs.steps || '4' }}""")
+          RES = int("""${{ github.event.inputs.resolution || '1024' }}""")
+          SEED = int("""${{ github.event.inputs.seed || '-1' }}""")
+
+          if SEED == -1:
+              SEED = random.randint(0, 2147483647)
+
+          print("=" * 70)
+          print("🎨 SDXL-Lightning CPU - Final Quality Version")
+          print("=" * 70)
+          print(f"Steps: {STEPS} | Resolution: {RES}x{RES} | Seed: {SEED}")
+          print("=" * 70)
+
+          start = time.time()
+
+          # 加载模型
+          print("\n📦 Loading SDXL Base...")
+          pipe = StableDiffusionXLPipeline.from_pretrained(
+              "stabilityai/stable-diffusion-xl-base-1.0",
+              torch_dtype=torch.float32,
+              variant="fp16",
+              use_safetensors=True,
+              add_watermarker=False
+          )
+
+          # 加载 Lightning
+          lightning_path = f"./models/sdxl_lightning_{STEPS}step.safetensors"
+          if os.path.exists(lightning_path):
+              print(f"⚡ Loading Lightning {STEPS}-step...")
+              state_dict = load_file(lightning_path)
+              pipe.unet.load_state_dict(state_dict)
+
+          # 关键：使用 Euler + sgm_uniform（官方推荐）
+          print("🔧 Configuring Euler scheduler with sgm_uniform...")
+          pipe.scheduler = EulerDiscreteScheduler.from_config(
+              pipe.scheduler.config,
+              timestep_spacing="trailing"
+          )
+
+          # CPU 优化
+          pipe = pipe.to("cpu")
+          pipe.enable_attention_slicing(1)
+          pipe.enable_vae_slici
