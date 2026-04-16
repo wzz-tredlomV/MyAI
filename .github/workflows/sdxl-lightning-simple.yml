@@ -1,0 +1,51 @@
+name: SDXL-Lightning CPU (Simple)
+
+on:
+  workflow_dispatch:
+    inputs:
+      prompt:
+        description: '提示词'
+        required: true
+        default: 'a beautiful landscape painting, oil on canvas'
+      steps:
+        description: '步数'
+        default: '4'
+        type: choice
+        options: ['1', '2', '4', '8']
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install diffusers transformers accelerate safetensors pillow
+
+      - name: Cache models
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: models-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+
+      - name: Generate
+        run: |
+          python3 generate.py \
+            --prompt "${{ github.event.inputs.prompt }}" \
+            --steps ${{ github.event.inputs.steps }} \
+            --num-images 1 \
+            --height 512 \
+            --width 512
+
+      - name: Upload
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated-image
+          path: outputs/*.png
