@@ -37,7 +37,7 @@ jobs:
       - name: Install Python dependencies
         run: |
           # 关键：先升级 setuptools 和 wheel
-          pip install --upgrade pip setuptools wheel pkg_resources
+          pip install --upgrade pip setuptools wheel
           pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
       
       - name: Clone SD WebUI
