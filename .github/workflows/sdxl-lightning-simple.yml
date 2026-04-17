@@ -40,29 +40,25 @@ jobs:
           pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
           pip install ftfy regex tqdm
       
-      - name: Clone SD WebUI and dependencies
+      - name: Clone SD WebUI with token
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # 克隆主仓库
+          # 使用 GitHub token 进行认证克隆
+          git config --global url."https://${GITHUB_TOKEN}@github.com/".insteadOf "https://github.com/"
+          
           git clone --depth 1 https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
           cd stable-diffusion-webui
           mkdir -p repositories
           
-          # 预克隆 WebUI 需要的子仓库（避免启动时交互式克隆）
+          # 克隆子仓库
           git clone --depth 1 --config core.filemode=false \
             https://github.com/AUTOMATIC1111/stable-diffusion-webui-assets.git \
-            repositories/stable-diffusion-webui-assets
+            repositories/stable-diffusion-webui-assets || echo "Assets clone failed or skipped"
           
           git clone --depth 1 --config core.filemode=false \
             https://github.com/Stability-AI/stablediffusion.git \
-            repositories/stable-diffusion-stability-ai
-          
-          git clone --depth 1 --config core.filemode=false \
-            https://github.com/CompVis/taming-transformers.git \
-            repositories/taming-transformers 2>/dev/null || true
-          
-          git clone --depth 1 --config core.filemode=false \
-            https://github.com/crowsonkb/k-diffusion.git \
-            repositories/k-diffusion 2>/dev/null || true
+            repositories/stable-diffusion-stability-ai || echo "Stability AI clone failed"
       
       - name: Install WebUI requirements
         run: |
