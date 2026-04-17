@@ -36,21 +36,37 @@ jobs:
       
       - name: Install Python dependencies
         run: |
-          # 关键：先升级 setuptools 和 wheel
           pip install --upgrade pip setuptools wheel
           pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+          pip install ftfy regex tqdm
       
-      - name: Clone SD WebUI
+      - name: Clone SD WebUI and dependencies
         run: |
+          # 克隆主仓库
           git clone --depth 1 https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
           cd stable-diffusion-webui
+          mkdir -p repositories
+          
+          # 预克隆 WebUI 需要的子仓库（避免启动时交互式克隆）
+          git clone --depth 1 --config core.filemode=false \
+            https://github.com/AUTOMATIC1111/stable-diffusion-webui-assets.git \
+            repositories/stable-diffusion-webui-assets
+          
+          git clone --depth 1 --config core.filemode=false \
+            https://github.com/Stability-AI/stablediffusion.git \
+            repositories/stable-diffusion-stability-ai
+          
+          git clone --depth 1 --config core.filemode=false \
+            https://github.com/CompVis/taming-transformers.git \
+            repositories/taming-transformers 2>/dev/null || true
+          
+          git clone --depth 1 --config core.filemode=false \
+            https://github.com/crowsonkb/k-diffusion.git \
+            repositories/k-diffusion 2>/dev/null || true
       
       - name: Install WebUI requirements
         run: |
           cd stable-diffusion-webui
-          # 先手动安装 CLIP 和其他可能出问题的包
-          pip install ftfy regex tqdm
-          pip install git+https://github.com/openai/CLIP.git
           pip install -r requirements.txt
       
       - name: Download model
@@ -72,18 +88,19 @@ jobs:
             --nowebui \
             --disable-safe-unpickle \
             --skip-version-check \
+            --skip-install \
             > webui.log 2>&1 &
           
-          # 等待服务启动（最多3分钟）
+          # 等待服务启动
           echo "Waiting for WebUI to start..."
-          for i in {1..36}; do
+          for i in {1..40}; do
             sleep 5
             if curl -s http://127.0.0.1:7860/sdapi/v1/samplers > /dev/null 2>&1; then
               echo "WebUI is ready!"
               break
             fi
-            echo "Attempt $i/36..."
-            if [ $i -eq 36 ]; then
+            echo "Attempt $i/40..."
+            if [ $i -eq 40 ]; then
               echo "Timeout waiting for WebUI"
               cat webui.log
               exit 1
@@ -101,9 +118,6 @@ jobs:
               \"height\": 512,
               \"sampler_index\": \"Euler a\"
             }" -o output.json
-          
-          # 检查输出
-          cat output.json | head -c 500
           
           # 提取 base64 图片
           python3 << 'EOF'
