@@ -1,144 +1,88 @@
-name: SDXL-Lightning CPU (Simple)
+name: Stable Diffusion CPU
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # 手动触发
     inputs:
       prompt:
-        description: '提示词（必须包含质量词）'
+        description: '提示词'
         required: true
-        default: 'masterpiece, best quality, ultra-detailed, 8k uhd, sharp focus, professional photography'
+        default: 'a beautiful sunset over mountains'
       negative_prompt:
         description: '负面提示词'
         required: false
-        default: 'blurry, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name'
+        default: ''
       steps:
-        description: '步数（官方推荐4步最佳，8步细节更好但慢2倍）'
-        default: '4'
-        type: choice
-        options: ['4', '8']
-      resolution:
-        description: '分辨率（1024是SDXL原生训练尺寸，质量最佳）'
-        default: '1024'
-        type: choice
-        options: ['768', '1024']
-      seed:
-        description: '随机种子（-1随机，固定值可复现）'
-        default: '-1'
-
-env:
-  PYTHON_VERSION: '3.10'
-  HF_HOME: ~/.cache/huggingface
+        description: '采样步数'
+        required: false
+        default: '20'
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
-
+    
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Set up Python
+      
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: ${{ env.PYTHON_VERSION }}
-          cache: 'pip'
-
-      - name: Cache Models
-        uses: actions/cache@v4
-        id: model-cache
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget git libgl1 libglib2.0-0
+          pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+      
+      - name: Clone SD WebUI
+        run: |
+          git clone --depth 1 https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
+          cd stable-diffusion-webui
+          pip install -r requirements.txt
+      
+      - name: Download model
+        run: |
+          mkdir -p stable-diffusion-webui/models/Stable-diffusion
+          wget -q -O stable-diffusion-webui/models/Stable-diffusion/model.safetensors \
+            "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors"
+      
+      - name: Generate image (API mode)
+        run: |
+          cd stable-diffusion-webui
+          
+          # 启动 WebUI 后台（CPU模式，跳过模型加载检查）
+          python launch.py --skip-torch-cuda-test --no-half --use-cpu all --api --nowebui &
+          
+          # 等待启动
+          sleep 120
+          
+          # 调用 API 生成图片
+          curl -X POST "http://127.0.0.1:7860/sdapi/v1/txt2img" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "prompt": "${{ github.event.inputs.prompt }}",
+              "negative_prompt": "${{ github.event.inputs.negative_prompt }}",
+              "steps": ${{ github.event.inputs.steps }},
+              "width": 512,
+              "height": 512,
+              "sampler_index": "Euler a"
+            }' -o output.json
+          
+          # 提取 base64 图片并保存
+          python3 << 'EOF'
+          import json
+          import base64
+          with open('output.json') as f:
+              data = json.load(f)
+          img_data = base64.b64decode(data['images'][0])
+          with open('../generated_image.png', 'wb') as f:
+              f.write(img_data)
+          print("Image saved to generated_image.png")
+          EOF
+      
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
         with:
-          path: |
-            ~/.cache/huggingface/
-            ./models/
-          key: ${{ runner.os }}-sdxl-final-v1
-
-      - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install torch==2.1.0 torchvision --index-url https://download.pytorch.org/whl/cpu
-          pip install diffusers==0.27.0 transformers==4.38.0 accelerate safetensors pillow
-
-      - name: Download Models
-        if: steps.model-cache.outputs.cache-hit != 'true'
-        run: |
-          python3 << 'PYEOF'
-          from huggingface_hub import hf_hub_download
-          import os
-          os.makedirs("./models", exist_ok=True)
-
-          steps = "${{ github.event.inputs.steps || '4' }}"
-          model_file = f"sdxl_lightning_{steps}step.safetensors"
-
-          print(f"Downloading {model_file}...")
-          try:
-              hf_hub_download(
-                  repo_id="ByteDance/SDXL-Lightning",
-                  filename=model_file,
-                  local_dir="./models",
-                  local_dir_use_symlinks=False
-              )
-              print("✅ Model downloaded")
-          except Exception as e:
-              print(f"⚠️ {e}")
-          PYEOF
-
-      - name: Generate High Quality Image
-        id: generate
-        run: |
-          python3 << 'PYEOF'
-          import torch
-          from diffusers import StableDiffusionXLPipeline, EulerDiscreteScheduler
-          from safetensors.torch import load_file
-          from PIL import Image, ImageFilter, ImageEnhance
-          import os
-          import time
-          import random
-          from datetime import datetime
-
-          # 解析参数
-          PROMPT = """${{ github.event.inputs.prompt || 'masterpiece, best quality' }}"""
-          NEGATIVE = """${{ github.event.inputs.negative_prompt || 'blurry, lowres' }}"""
-          STEPS = int("""${{ github.event.inputs.steps || '4' }}""")
-          RES = int("""${{ github.event.inputs.resolution || '1024' }}""")
-          SEED = int("""${{ github.event.inputs.seed || '-1' }}""")
-
-          if SEED == -1:
-              SEED = random.randint(0, 2147483647)
-
-          print("=" * 70)
-          print("🎨 SDXL-Lightning CPU - Final Quality Version")
-          print("=" * 70)
-          print(f"Steps: {STEPS} | Resolution: {RES}x{RES} | Seed: {SEED}")
-          print("=" * 70)
-
-          start = time.time()
-
-          # 加载模型
-          print("\n📦 Loading SDXL Base...")
-          pipe = StableDiffusionXLPipeline.from_pretrained(
-              "stabilityai/stable-diffusion-xl-base-1.0",
-              torch_dtype=torch.float32,
-              variant="fp16",
-              use_safetensors=True,
-              add_watermarker=False
-          )
-
-          # 加载 Lightning
-          lightning_path = f"./models/sdxl_lightning_{STEPS}step.safetensors"
-          if os.path.exists(lightning_path):
-              print(f"⚡ Loading Lightning {STEPS}-step...")
-              state_dict = load_file(lightning_path)
-              pipe.unet.load_state_dict(state_dict)
-
-          # 关键：使用 Euler + sgm_uniform（官方推荐）
-          print("🔧 Configuring Euler scheduler with sgm_uniform...")
-          pipe.scheduler = EulerDiscreteScheduler.from_config(
-              pipe.scheduler.config,
-              timestep_spacing="trailing"
-          )
-
-          # CPU 优化
-          pipe = pipe.to("cpu")
-          pipe.enable_attention_slicing(1)
-          pipe.enable_vae_slici
+          name: generated-image
+          path: generated_image.png
