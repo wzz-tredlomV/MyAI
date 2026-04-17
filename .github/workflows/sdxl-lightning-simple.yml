@@ -1,7 +1,7 @@
 name: Stable Diffusion CPU
 
 on:
-  workflow_dispatch:  # 手动触发
+  workflow_dispatch:
     inputs:
       prompt:
         description: '提示词'
@@ -29,56 +29,104 @@ jobs:
         with:
           python-version: '3.10'
       
-      - name: Install dependencies
+      - name: Install system dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y wget git libgl1 libglib2.0-0
+          sudo apt-get install -y wget git libgl1 libglib2.0-0 libstdc++6
+      
+      - name: Install Python dependencies
+        run: |
+          # 关键：先升级 setuptools 和 wheel
+          pip install --upgrade pip setuptools wheel pkg_resources
           pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
       
       - name: Clone SD WebUI
         run: |
           git clone --depth 1 https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
           cd stable-diffusion-webui
+      
+      - name: Install WebUI requirements
+        run: |
+          cd stable-diffusion-webui
+          # 先手动安装 CLIP 和其他可能出问题的包
+          pip install ftfy regex tqdm
+          pip install git+https://github.com/openai/CLIP.git
           pip install -r requirements.txt
       
       - name: Download model
         run: |
           mkdir -p stable-diffusion-webui/models/Stable-diffusion
-          wget -q -O stable-diffusion-webui/models/Stable-diffusion/model.safetensors \
+          wget -q --show-progress -O stable-diffusion-webui/models/Stable-diffusion/model.safetensors \
             "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors"
       
-      - name: Generate image (API mode)
+      - name: Start WebUI and generate
         run: |
           cd stable-diffusion-webui
           
-          # 启动 WebUI 后台（CPU模式，跳过模型加载检查）
-          python launch.py --skip-torch-cuda-test --no-half --use-cpu all --api --nowebui &
+          # 启动 WebUI API 模式（CPU）
+          python launch.py \
+            --skip-torch-cuda-test \
+            --no-half \
+            --use-cpu all \
+            --api \
+            --nowebui \
+            --disable-safe-unpickle \
+            --skip-version-check \
+            > webui.log 2>&1 &
           
-          # 等待启动
-          sleep 120
+          # 等待服务启动（最多3分钟）
+          echo "Waiting for WebUI to start..."
+          for i in {1..36}; do
+            sleep 5
+            if curl -s http://127.0.0.1:7860/sdapi/v1/samplers > /dev/null 2>&1; then
+              echo "WebUI is ready!"
+              break
+            fi
+            echo "Attempt $i/36..."
+            if [ $i -eq 36 ]; then
+              echo "Timeout waiting for WebUI"
+              cat webui.log
+              exit 1
+            fi
+          done
           
           # 调用 API 生成图片
           curl -X POST "http://127.0.0.1:7860/sdapi/v1/txt2img" \
             -H "Content-Type: application/json" \
-            -d '{
-              "prompt": "${{ github.event.inputs.prompt }}",
-              "negative_prompt": "${{ github.event.inputs.negative_prompt }}",
-              "steps": ${{ github.event.inputs.steps }},
-              "width": 512,
-              "height": 512,
-              "sampler_index": "Euler a"
-            }' -o output.json
+            -d "{
+              \"prompt\": \"${{ github.event.inputs.prompt }}\",
+              \"negative_prompt\": \"${{ github.event.inputs.negative_prompt }}\",
+              \"steps\": ${{ github.event.inputs.steps }},
+              \"width\": 512,
+              \"height\": 512,
+              \"sampler_index\": \"Euler a\"
+            }" -o output.json
           
-          # 提取 base64 图片并保存
+          # 检查输出
+          cat output.json | head -c 500
+          
+          # 提取 base64 图片
           python3 << 'EOF'
           import json
           import base64
-          with open('output.json') as f:
-              data = json.load(f)
-          img_data = base64.b64decode(data['images'][0])
-          with open('../generated_image.png', 'wb') as f:
-              f.write(img_data)
-          print("Image saved to generated_image.png")
+          import sys
+          
+          try:
+              with open('output.json') as f:
+                  data = json.load(f)
+              
+              if 'images' not in data or not data['images']:
+                  print("Error: No images in response")
+                  print(data)
+                  sys.exit(1)
+              
+              img_data = base64.b64decode(data['images'][0])
+              with open('../generated_image.png', 'wb') as f:
+                  f.write(img_data)
+              print("Image saved successfully!")
+          except Exception as e:
+              print(f"Error: {e}")
+              sys.exit(1)
           EOF
       
       - name: Upload artifact
@@ -86,3 +134,4 @@ jobs:
         with:
           name: generated-image
           path: generated_image.png
+          if-no-files-found: error
