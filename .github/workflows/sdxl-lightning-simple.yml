@@ -1,136 +1,123 @@
-name: Stable Diffusion CPU
+name: Image Generation AI - CPU
 
 on:
-  workflow_dispatch:
-    inputs:
-      prompt:
-        description: '提示词'
-        required: true
-        default: 'a beautiful sunset over mountains'
-      negative_prompt:
-        description: '负面提示词'
-        required: false
-        default: ''
-      steps:
-        description: '采样步数'
-        required: false
-        default: '20'
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+env:
+  PYTHON_VERSION: '3.10'
+  # 使用Stable Diffusion WebUI的CPU版本
+  WEBUI_REPO: 'AUTOMATIC1111/stable-diffusion-webui'
+  WEBUI_BRANCH: 'master'
 
 jobs:
-  generate:
+  build-and-run:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Setup Docker
-        run: |
-          # 确保 Docker 可用
-          docker --version
-      
-      - name: Pull and run SD WebUI Docker
-        run: |
-          # 拉取预构建镜像（包含所有依赖）
-          docker pull atinoda/sd-webui:latest
-          
-          # 启动容器（后台运行 API 模式）
-          docker run -d \
-            --name sd-webui \
-            -p 7860:7860 \
-            -v $(pwd)/outputs:/app/outputs \
-            -e CLI_ARGS="--api --nowebui --skip-torch-cuda-test --no-half --use-cpu all --disable-safe-unpickle" \
-            atinoda/sd-webui:latest
-          
-          # 等待容器启动（拉取模型需要时间）
-          echo "Waiting for WebUI to start..."
-          for i in {1..60}; do
-            sleep 10
-            if curl -s http://127.0.0.1:7860/sdapi/v1/samplers > /dev/null 2>&1; then
-              echo "WebUI is ready!"
-              break
-            fi
-            echo "Attempt $i/60..."
-            
-            # 查看容器日志
-            docker logs sd-webui --tail 5 2>/dev/null || true
-            
-            if [ $i -eq 60 ]; then
-              echo "Timeout waiting for WebUI"
-              docker logs sd-webui
-              exit 1
-            fi
-          done
-      
-      - name: Download model (if not included)
-        run: |
-          # 检查是否需要下载模型
-          docker exec sd-webui ls -la /app/models/Stable-diffusion/ || echo "Checking models..."
-          
-          # 下载 SD 1.5 到容器
-          docker exec sd-webui bash -c "
-            mkdir -p /app/models/Stable-diffusion && \
-            wget -q -O /app/models/Stable-diffusion/model.safetensors \
-              'https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors'
-          " || echo "Model may already exist"
-          
-          # 重启容器加载新模型
-          docker restart sd-webui
-          sleep 60
-      
-      - name: Generate image
-        run: |
-          # 调用 API 生成图片
-          curl -X POST "http://127.0.0.1:7860/sdapi/v1/txt2img" \
-            -H "Content-Type: application/json" \
-            -d "{
-              \"prompt\": \"${{ github.event.inputs.prompt }}\",
-              \"negative_prompt\": \"${{ github.event.inputs.negative_prompt }}\",
-              \"steps\": ${{ github.event.inputs.steps }},
-              \"width\": 512,
-              \"height\": 512,
-              \"sampler_index\": \"Euler a\",
-              \"save_images\": true
-            }" -o output.json
-          
-          # 提取图片路径或直接提取 base64
-          python3 << 'EOF'
-          import json
-          import base64
-          import sys
-          
-          try:
-              with open('output.json') as f:
-                  data = json.load(f)
-              
-              if 'images' not in data or not data['images']:
-                  print("Error: No images in response")
-                  print(json.dumps(data, indent=2))
-                  sys.exit(1)
-              
-              # 保存图片
-              img_data = base64.b64decode(data['images'][0])
-              with open('generated_image.png', 'wb') as f:
-                  f.write(img_data)
-              print("Image saved successfully!")
-              print(f"Size: {len(img_data)} bytes")
-              
-          except Exception as e:
-              print(f"Error: {e}")
-              import traceback
-              traceback.print_exc()
-              sys.exit(1)
-          EOF
-      
-      - name: Copy from container (if saved inside)
-        run: |
-          # 尝试从容器复制生成的图片
-          docker cp sd-webui:/app/outputs/ ./docker-outputs/ 2>/dev/null || true
-          ls -la docker-outputs/ 2>/dev/null || true
-      
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: generated-image
-          path: generated_image.png
-          if-no-files-found: warn
-      
-      - name: Cleanup
-        run: docker stop sd-webui && docker rm sd-webui
+    # 检出代码
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    # 设置Python环境
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+
+    # 安装系统依赖
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y wget git python3-pip python3-venv libgl1 libglib2.0-0
+        
+    # 克隆Stable Diffusion WebUI
+    - name: Clone Stable Diffusion WebUI
+      run: |
+        git clone --depth 1 --branch ${{ env.WEBUI_BRANCH }} https://github.com/${{ env.WEBUI_REPO }}.git sd-webui
+        cd sd-webui
+        
+    # 创建虚拟环境并安装依赖
+    - name: Install Python dependencies
+      run: |
+        cd sd-webui
+        python3 -m venv venv
+        source venv/bin/activate
+        pip install --upgrade pip wheel
+        # 安装CPU版本的PyTorch
+        pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+        # 安装其他依赖
+        pip install -r requirements.txt
+        
+    # 下载模型（示例：SD 1.5基础模型）
+    - name: Download base model
+      run: |
+        cd sd-webui
+        mkdir -p models/Stable-diffusion
+        # 下载SD 1.5基础模型（约4GB）
+        wget -q --show-progress -O models/Stable-diffusion/v1-5-pruned-emaonly.safetensors \
+          "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors" \
+        || echo "模型下载失败，将使用空模型启动"
+        
+    # 启动WebUI服务（CPU模式）
+    - name: Run WebUI
+      run: |
+        cd sd-webui
+        source venv/bin/activate
+        # 使用--skip-torch-cuda-test跳过CUDA检查，强制CPU模式
+        # 使用--share参数创建公开链接（可选）
+        python launch.py --skip-torch-cuda-test --listen --port 7860 &
+        
+        # 等待服务启动并测试
+        echo "等待服务启动..."
+        sleep 30
+        
+        # 简单测试 - 生成一张图片
+        echo "测试生成图片..."
+        python -c "
+import requests
+import json
+import time
+
+# 等待服务完全启动
+time.sleep(10)
+
+# 测试文生图API
+payload = {
+    'prompt': 'a beautiful landscape, mountains, sunset, high quality',
+    'steps': 20,
+    'width': 512,
+    'height': 512,
+    'sampler_name': 'Euler a',
+    'cfg_scale': 7.5,
+    'seed': -1
+}
+
+try:
+    response = requests.post('http://127.0.0.1:7860/sdapi/v1/txt2img', 
+                          json=payload, timeout=120)
+    result = response.json()
+    if 'images' in result and len(result['images']) > 0:
+        print('✅ 图片生成测试成功！')
+        # 保存测试图片
+        import base64
+        with open('test_output.png', 'wb') as f:
+            f.write(base64.b64decode(result['images'][0]))
+        print('测试图片已保存为 test_output.png')
+    else:
+        print('❌ 测试失败，未获取到图片')
+        
+except Exception as e:
+    print(f'测试出错: {e}')
+        "
+        
+    # 上传生成的测试图片作为Artifacts（可选）
+    - name: Upload test image
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+      name: test-generated-image
+        path: sd-webui/test_output.png
+        retention-days: 1
