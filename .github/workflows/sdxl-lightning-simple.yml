@@ -1,147 +1,19 @@
-name: Stable Diffusion CPU
-
-on:
-  workflow_dispatch:
-    inputs:
-      prompt:
-        description: '提示词'
-        required: true
-        default: 'a beautiful sunset over mountains'
-      negative_prompt:
-        description: '负面提示词'
-        required: false
-        default: ''
-      steps:
-        description: '采样步数'
-        required: false
-        default: '20'
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-      
-      - name: Install system dependencies
+- name: Pull and run SD WebUI with pre-downloaded model
         run: |
-          sudo apt-get update
-          sudo apt-get install -y wget git libgl1 libglib2.0-0 libstdc++6
-      
-      - name: Install Python dependencies
-        run: |
-          pip install --upgrade pip setuptools wheel
-          pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
-          pip install ftfy regex tqdm
-      
-      - name: Clone SD WebUI with token
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          # 使用 GitHub token 进行认证克隆
-          git config --global url."https://${GITHUB_TOKEN}@github.com/".insteadOf "https://github.com/"
+          # 先在本地下载模型
+          mkdir -p models
+          wget -q -O models/model.safetensors \
+            "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors" \
+            || wget -q -O models/model.safetensors \
+            "https://modelscope.cn/models/AI-ModelScope/stable-diffusion-v1-5/resolve/master/v1-5-pruned-emaonly.safetensors"
           
-          git clone --depth 1 https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
-          cd stable-diffusion-webui
-          mkdir -p repositories
+          # 启动容器并挂载模型
+          docker run -d \
+            --name sd-webui \
+            -p 7860:7860 \
+            -v $(pwd)/models:/app/models/Stable-diffusion:ro \
+            -v $(pwd)/outputs:/app/outputs \
+            -e CLI_ARGS="--api --nowebui --skip-torch-cuda-test --no-half --use-cpu all" \
+            atinoda/sd-webui:latest
           
-          # 克隆子仓库
-          git clone --depth 1 --config core.filemode=false \
-            https://github.com/AUTOMATIC1111/stable-diffusion-webui-assets.git \
-            repositories/stable-diffusion-webui-assets || echo "Assets clone failed or skipped"
-          
-          git clone --depth 1 --config core.filemode=false \
-            https://github.com/Stability-AI/stablediffusion.git \
-            repositories/stable-diffusion-stability-ai || echo "Stability AI clone failed"
-      
-      - name: Install WebUI requirements
-        run: |
-          cd stable-diffusion-webui
-          pip install -r requirements.txt
-      
-      - name: Download model
-        run: |
-          mkdir -p stable-diffusion-webui/models/Stable-diffusion
-          wget -q --show-progress -O stable-diffusion-webui/models/Stable-diffusion/model.safetensors \
-            "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors"
-      
-      - name: Start WebUI and generate
-        run: |
-          cd stable-diffusion-webui
-          
-          # 启动 WebUI API 模式（CPU）
-          python launch.py \
-            --skip-torch-cuda-test \
-            --no-half \
-            --use-cpu all \
-            --api \
-            --nowebui \
-            --disable-safe-unpickle \
-            --skip-version-check \
-            --skip-install \
-            > webui.log 2>&1 &
-          
-          # 等待服务启动
-          echo "Waiting for WebUI to start..."
-          for i in {1..40}; do
-            sleep 5
-            if curl -s http://127.0.0.1:7860/sdapi/v1/samplers > /dev/null 2>&1; then
-              echo "WebUI is ready!"
-              break
-            fi
-            echo "Attempt $i/40..."
-            if [ $i -eq 40 ]; then
-              echo "Timeout waiting for WebUI"
-              cat webui.log
-              exit 1
-            fi
-          done
-          
-          # 调用 API 生成图片
-          curl -X POST "http://127.0.0.1:7860/sdapi/v1/txt2img" \
-            -H "Content-Type: application/json" \
-            -d "{
-              \"prompt\": \"${{ github.event.inputs.prompt }}\",
-              \"negative_prompt\": \"${{ github.event.inputs.negative_prompt }}\",
-              \"steps\": ${{ github.event.inputs.steps }},
-              \"width\": 512,
-              \"height\": 512,
-              \"sampler_index\": \"Euler a\"
-            }" -o output.json
-          
-          # 提取 base64 图片
-          python3 << 'EOF'
-          import json
-          import base64
-          import sys
-          
-          try:
-              with open('output.json') as f:
-                  data = json.load(f)
-              
-              if 'images' not in data or not data['images']:
-                  print("Error: No images in response")
-                  print(data)
-                  sys.exit(1)
-              
-              img_data = base64.b64decode(data['images'][0])
-              with open('../generated_image.png', 'wb') as f:
-                  f.write(img_data)
-              print("Image saved successfully!")
-          except Exception as e:
-              print(f"Error: {e}")
-              sys.exit(1)
-          EOF
-      
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: generated-image
-          path: generated_image.png
-          if-no-files-found: error
+          sleep 90  # 等待启动
