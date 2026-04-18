@@ -2,11 +2,6 @@ name: Train and Inference
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - '**.py'
-      - 'requirements.txt'
-      - '.github/workflows/train_and_infer.yml'
 
 jobs:
   train_and_infer:
@@ -19,9 +14,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-
-      - name: Upgrade pip
-        run: python -m pip install --upgrade pip
 
       - name: Install Python dependencies
         run: |
@@ -40,14 +32,14 @@ jobs:
           python inference.py --model_path ./saved_model --description "a red apple on a wooden table" --target_size 128 --output_dir outputs
 
       - name: Upload model as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: saved_model
           path: |
             saved_model
 
       - name: Upload one generated image as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: generated_image
           path: |
