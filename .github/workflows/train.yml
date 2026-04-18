@@ -1,15 +1,15 @@
-name: Train Model
+name: Train and Inference
 
 on:
-  workflow_dispatch:         # 允许手动触发
+  workflow_dispatch:
   push:
     paths:
       - '**.py'
       - 'requirements.txt'
-      - '.github/workflows/train.yml'
+      - '.github/workflows/train_and_infer.yml'
 
 jobs:
-  train:
+  train_and_infer:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,19 +18,13 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'          # 可按实际需要选择版本
+          python-version: '3.10'
 
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y python3-dev python3-pip
-          
       - name: Upgrade pip
         run: python -m pip install --upgrade pip
 
       - name: Install Python dependencies
         run: |
-          pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Prepare sample data
@@ -38,11 +32,23 @@ jobs:
           python scripts/create_sample_data.py --output_dir ./data --num_samples 10
 
       - name: Train model
-        run: python train.py --data_root ./data --epochs 1 --batch_size 2
+        run: python train.py --data_root ./data --epochs 1 --batch_size 2 --export
 
-      # 如需保存模型到 artifact，可解注释下面内容
-      # - name: Archive checkpoint
-      #   uses: actions/upload-artifact@v3
-      #   with:
-      #     name: checkpoints
-      #     path: ./checkpoints
+      - name: Run inference to generate image
+        run: |
+          mkdir -p outputs
+          python inference.py --model_path ./saved_model --description "a red apple on a wooden table" --target_size 128 --output_dir outputs
+
+      - name: Upload model as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: saved_model
+          path: |
+            saved_model
+
+      - name: Upload one generated image as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: generated_image
+          path: |
+            outputs/*.png
