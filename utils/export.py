@@ -48,9 +48,9 @@ class Text2ImageModel(tf.Module):
 
     def _tf_tokenize(self, texts):
         texts = tf.strings.lower(texts)
-        texts = tf.strings.regex_replace(texts, r'[^a-zA-Z0-9\u4e00-\u9fa5 ]', ' ')
+        texts = tf.strings.regex_replace(texts, r'[^a-zA-Z0-9 ]', ' ')
         tokenized = tf.strings.split(texts)
-        tokens = tokenized.to_tensor(default_value="", shape=[None, self.max_text_length])
+        tokens = tokenized.to_tensor(default_value="", shape=[None,self.max_text_length])
         tokens = tokens[:, :self.max_text_length]
         return tokens
 
