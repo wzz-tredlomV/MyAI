@@ -79,8 +79,8 @@ def main():
 
     print(f"正在从 Hugging Face Hub 加载 {DATASET_NAME}/{SUBSET} 数据集...")
     try:
-        # 加载数据集的所有 splits
-        dataset = load_dataset(DATASET_NAME, SUBSET)
+        # 关键修改：添加 trust_remote_code=True 以允许运行数据集自带的脚本
+        dataset = load_dataset(DATASET_NAME, SUBSET, trust_remote_code=True)
     except Exception as e:
         print(f"加载失败: {e}")
         print("提示：如果网络不稳定，可以设置环境变量 HF_ENDPOINT=https://hf-mirror.com 使用镜像。")
