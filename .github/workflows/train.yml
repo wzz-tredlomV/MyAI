@@ -70,6 +70,10 @@ jobs:
         run: |
           mkdir -p tokenizer checkpoints
 
+      - name: Download lccc
+        run: |
+          python download-lccc.py
+
       - name: Run training script
         run: |
           python train.py
