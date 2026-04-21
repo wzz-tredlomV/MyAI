@@ -13,7 +13,7 @@ from model import TransformerChat, create_loss_function
 
 # ---------- 配置 ----------
 CONFIG = {
-    'data_path': 'data/conversations.json',
+    'data_path': 'data/lccc_base_conversations.json',
     'tokenizer_path': 'tokenizer/bpe_tokenizer.json',
     'save_dir': 'checkpoints',
     'd_model': 512,
