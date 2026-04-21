@@ -27,28 +27,13 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Prepare sample data
-        run: |
-          python scripts/create_sample_data.py --output_dir ./data --num_samples 100
-
       - name: Train model
-        run: python train.py --data_root ./data --epochs 10 --batch_size 2 --export
+        run: python train.py
 
       - name: Run inference to generate image
         run: |
           mkdir -p outputs
-          python inference.py --model_path ./saved_model --description "a red apple on a wooden table" --target_size 512 --output_dir outputs
+          python chat.py
 
       - name: Upload model as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: saved_model
-          path: |
-            saved_model
 
-      - name: Upload one generated image as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: generated_image
-          path: |
-            outputs/*.png
