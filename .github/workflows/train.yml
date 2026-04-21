@@ -6,7 +6,6 @@ on:
     paths:
       - '**.py'
       - 'requirements.txt'
-      - '.github/workflows/train_and_infer.yml'
 
 jobs:
   train_and_infer:
