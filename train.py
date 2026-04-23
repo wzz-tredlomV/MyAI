@@ -1,10 +1,10 @@
-# train.py
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import os
 import math
 import torch
 import torch.optim as optim
 from torch.utils.data import DataLoader, random_split
-from torch.cuda.amp import autocast, GradScaler
 from data_utils import (
     BPETokenizer, ConversationDataset, collate_fn, load_conversations,
     PAD_IDX, SOS_IDX, EOS_IDX
@@ -13,7 +13,7 @@ from model import TransformerChat, create_loss_function
 
 # ---------- 配置 ----------
 CONFIG = {
-    'data_path': 'data/lccc_base_conversations.json',
+    'data_path': 'data/lccc_base_conversations.json',  # 请替换为实际路径
     'tokenizer_path': 'tokenizer/bpe_tokenizer.json',
     'save_dir': 'checkpoints',
     'd_model': 512,
@@ -31,7 +31,11 @@ CONFIG = {
     'max_len': 128,
     'val_split': 0.1,
 }
+
+# ---------- 设备检测 ----------
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+use_amp = (device.type == 'cuda')  # 仅当有 GPU 时启用混合精度
+
 os.makedirs(CONFIG['save_dir'], exist_ok=True)
 
 # ---------- 数据准备 ----------
@@ -53,6 +57,7 @@ else:
     tokenizer.train(all_texts, vocab_size=8000)
     tokenizer.save(CONFIG['tokenizer_path'])
     print("训练并保存分词器。")
+
 vocab_size = tokenizer.vocab_size
 print(f"词汇量: {vocab_size}")
 
@@ -61,12 +66,24 @@ val_len = int(len(dataset) * CONFIG['val_split'])
 train_len = len(dataset) - val_len
 train_ds, val_ds = random_split(dataset, [train_len, val_len])
 
-train_loader = DataLoader(train_ds, batch_size=CONFIG['batch_size'], shuffle=True,
-                          collate_fn=lambda b: collate_fn(b, PAD_IDX), num_workers=4, pin_memory=True)
-val_loader = DataLoader(val_ds, batch_size=CONFIG['batch_size'], shuffle=False,
-                        collate_fn=lambda b: collate_fn(b, PAD_IDX), num_workers=4, pin_memory=True)
+train_loader = DataLoader(
+    train_ds,
+    batch_size=CONFIG['batch_size'],
+    shuffle=True,
+    collate_fn=lambda b: collate_fn(b, PAD_IDX),
+    num_workers=4,
+    pin_memory=use_amp  # 仅 GPU 生效
+)
+val_loader = DataLoader(
+    val_ds,
+    batch_size=CONFIG['batch_size'],
+    shuffle=False,
+    collate_fn=lambda b: collate_fn(b, PAD_IDX),
+    num_workers=4,
+    pin_memory=use_amp
+)
 
-# ---------- 模型、优化器、损失 ----------
+# ---------- 模型、损失、优化器 ----------
 model = TransformerChat(
     vocab_size=vocab_size,
     d_model=CONFIG['d_model'],
@@ -81,10 +98,12 @@ model = TransformerChat(
 criterion = create_loss_function(label_smoothing=CONFIG['label_smoothing'], ignore_index=PAD_IDX)
 optimizer = optim.AdamW(model.parameters(), lr=CONFIG['lr'], weight_decay=CONFIG['weight_decay'])
 scheduler = optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=CONFIG['epochs'])
-scaler = GradScaler()
 
-# ---------- 训练函数 ----------
-def train_epoch(model, loader, optimizer, criterion, device, scaler, clip):
+# 新版 GradScaler
+scaler = torch.amp.GradScaler('cuda', enabled=use_amp)
+
+# ---------- 训练/评估函数 ----------
+def train_epoch(model, loader, optimizer, criterion, device, scaler, clip, use_amp):
     model.train()
     total_loss = 0
     for src, tgt in loader:
@@ -94,9 +113,12 @@ def train_epoch(model, loader, optimizer, criterion, device, scaler, clip):
 
         src_pad_mask = (src == PAD_IDX)
         tgt_pad_mask = (tgt_input == PAD_IDX)
+
+        # 新版生成 bool 掩码（已修改 model.py 中的方法）
         tgt_mask = model.generate_square_subsequent_mask(tgt_input.size(1)).to(device)
 
-        with autocast():
+        # 新版 autocast
+        with torch.amp.autocast('cuda', enabled=use_amp):
             output = model(src, tgt_input,
                            src_padding_mask=src_pad_mask,
                            tgt_mask=tgt_mask,
@@ -114,7 +136,7 @@ def train_epoch(model, loader, optimizer, criterion, device, scaler, clip):
     return total_loss / len(loader)
 
 @torch.no_grad()
-def evaluate(model, loader, criterion, device):
+def evaluate(model, loader, criterion, device, use_amp):
     model.eval()
     total_loss = 0
     for src, tgt in loader:
@@ -126,13 +148,14 @@ def evaluate(model, loader, criterion, device):
         tgt_pad_mask = (tgt_input == PAD_IDX)
         tgt_mask = model.generate_square_subsequent_mask(tgt_input.size(1)).to(device)
 
-        with autocast():
+        with torch.amp.autocast('cuda', enabled=use_amp):
             output = model(src, tgt_input,
                            src_padding_mask=src_pad_mask,
                            tgt_mask=tgt_mask,
                            tgt_padding_mask=tgt_pad_mask)
             loss = criterion(output.reshape(-1, output.size(-1)), tgt_output.reshape(-1))
         total_loss += loss.item()
+
     avg_loss = total_loss / len(loader)
     ppl = math.exp(avg_loss) if avg_loss < 100 else float('inf')
     return avg_loss, ppl
@@ -140,8 +163,8 @@ def evaluate(model, loader, criterion, device):
 # ---------- 训练循环 ----------
 best_ppl = float('inf')
 for epoch in range(1, CONFIG['epochs']+1):
-    train_loss = train_epoch(model, train_loader, optimizer, criterion, device, scaler, CONFIG['clip'])
-    val_loss, val_ppl = evaluate(model, val_loader, criterion, device)
+    train_loss = train_epoch(model, train_loader, optimizer, criterion, device, scaler, CONFIG['clip'], use_amp)
+    val_loss, val_ppl = evaluate(model, val_loader, criterion, device, use_amp)
     scheduler.step()
 
     if epoch % 5 == 0:
