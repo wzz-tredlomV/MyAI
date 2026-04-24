@@ -43,6 +43,9 @@ print("加载对话数据...")
 convs = load_conversations(CONFIG['data_path'])
 print(f"总对话段数: {len(convs)}")
 
+convs = convs[:1000]
+print(f"实际使用对话数: {len(convs)}")
+
 # 训练或加载分词器
 if os.path.exists(CONFIG['tokenizer_path']):
     tokenizer = BPETokenizer(CONFIG['tokenizer_path'])
