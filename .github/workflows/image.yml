@@ -27,18 +27,11 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: 缓存 HuggingFace 模型
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/huggingface/hub/
-          key: ${{ runner.os }}-huggingface-v1-4
-          restore-keys: |
-            ${{ runner.os }}-huggingface-
-
-      - name: 清理 HuggingFace 缓存（修复符号链接错误）
+      - name: 强制清理 HuggingFace 缓存（彻底删除）
         run: |
-          rm -rf ~/.cache/huggingface/hub/models--CompVis--stable-diffusion-v1-4
-          echo "✅ 已清理旧缓存"
+          rm -rf ~/.cache/huggingface/hub/
+          mkdir -p ~/.cache/huggingface/hub/
+          echo "✅ 已完全清理并重建缓存目录"
 
       - name: 安装系统依赖
         run: |
@@ -50,7 +43,7 @@ jobs:
           pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
           pip install diffusers transformers accelerate pillow
 
-      - name: 生成图片
+      - name: 生成图片（使用绝对路径）
         env:
           PROMPT: ${{ github.event.inputs.prompt }}
           STEPS: ${{ github.event.inputs.steps }}
@@ -61,20 +54,37 @@ jobs:
           import base64
           from io import BytesIO
           import os
+          import subprocess
 
           prompt = os.environ.get('PROMPT', 'a cute cat')
           steps = int(os.environ.get('STEPS', '20'))
 
           model_id = "CompVis/stable-diffusion-v1-4"
+          
+          # 使用绝对路径
+          cache_dir = os.path.expanduser("~/.cache/huggingface/hub/")
+          
+          # 打印缓存目录信息
+          print(f"📂 缓存目录: {cache_dir}")
+          print(f"🔍 检查目录是否存在: {os.path.exists(cache_dir)}")
+          
+          # 设置环境变量，让 diffusers 使用正确的缓存
+          os.environ['HF_HOME'] = os.path.expanduser("~/.cache/huggingface/")
+          os.environ['HUGGINGFACE_HUB_CACHE'] = cache_dir
+          
+          print("📦 开始加载模型...")
           pipe = StableDiffusionPipeline.from_pretrained(
               model_id,
               torch_dtype=torch.float32,
               safety_checker=None,
-              cache_dir="~/.cache/huggingface/hub/"
+              cache_dir=cache_dir,
+              resume_download=True,
+              force_download=False
           )
           pipe = pipe.to("cpu")
           pipe.scheduler = DDIMScheduler.from_config(pipe.scheduler.config)
 
+          print("✅ 模型加载完成，开始生成图片...")
           image = pipe(prompt, num_inference_steps=steps).images[0]
 
           buffer = BytesIO()
@@ -82,6 +92,7 @@ jobs:
           img_base64 = base64.b64encode(buffer.getvalue()).decode()
           with open('image_base64.txt', 'w') as f:
               f.write(img_base64)
+          print("✅ 图片生成完成！")
           PYTHON
 
       - name: 上传图片到 PythonAnywhere
@@ -93,6 +104,7 @@ jobs:
             -H "Authorization: Bearer $PY_UPLOAD_TOKEN" \
             -F "file=@generated_image.png" \
             https://wzzresurgam.pythonanywhere.com/api/upload
+          echo "✅ 图片已上传"
 
   cleanup-images:
     runs-on: ubuntu-latest
@@ -105,3 +117,4 @@ jobs:
           curl -s -X POST \
             -H "Authorization: Bearer $PY_UPLOAD_TOKEN" \
             https://wzzresurgam.pythonanywhere.com/api/cleanup
+          echo "✅ 清理完成"
