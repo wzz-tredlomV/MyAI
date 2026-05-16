@@ -18,15 +18,7 @@ on:
           - '20'
           - '30'
           - '50'
-      model:
-        description: '选择模型'
-        required: false
-        default: 'tiny'
-        type: choice
-        options:
-          - 'tiny'  # 最快，约30MB
-          - 'small' # 较快，约1GB
-          - 'v1-4'  # 较慢，约4GB
+      # 模型选择已移除，固定使用 v1-4
 
 jobs:
   generate-image:
@@ -50,17 +42,19 @@ jobs:
           pip install diffusers transformers accelerate pillow
 
       - name: 根据选择加载模型并生成图片
+        env:
+          PROMPT: ${{ github.event.inputs.prompt }}
+          STEPS: ${{ github.event.inputs.steps }}
         run: |
-          PROMPT="${{ github.event.inputs.prompt }}"
-          STEPS=${{ github.event.inputs.steps }}
-          MODEL=${{ github.event.inputs.model }}
+          PROMPT="$PROMPT"
+          STEPS="$STEPS"
           
           echo "=========================================="
-          echo "🎨 开始生成图片"
+          echo "🎨 开始生成图片 (使用 Stable Diffusion v1-4)"
           echo "=========================================="
           echo "提示词: $PROMPT"
           echo "推理步数: $STEPS"
-          echo "模型选择: $MODEL"
+          echo "模型: CompVis/stable-diffusion-v1-4 (约4GB)"
           echo "=========================================="
           
           python << 'PYTHON'
@@ -72,18 +66,10 @@ jobs:
           
           prompt = os.environ.get('PROMPT', 'a cute cat')
           steps = int(os.environ.get('STEPS', '20'))
-          model_choice = os.environ.get('MODEL', 'tiny')
           
-          # 根据选择确定模型名称
-          if model_choice == 'tiny':
-              model_id = "hf-internal-testing/tiny-stable-diffusion-torch"
-              print("📦 使用轻量级模型（约30MB，速度快）")
-          elif model_choice == 'small':
-              model_id = "OFA-Sys/small-stable-diffusion"
-              print("📦 使用小模型（约1GB，质量适中）")
-          else:
-              model_id = "CompVis/stable-diffusion-v1-4"
-              print("📦 使用标准模型（约4GB，质量较好，首次下载较慢）")
+          # 固定使用 v1-4 模型
+          model_id = "CompVis/stable-diffusion-v1-4"
+          print("📦 加载标准模型 (v1-4, 约4GB, 首次下载较慢)...")
           
           print("⏳ 加载模型中...")
           
