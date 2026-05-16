@@ -1,89 +1,130 @@
-name: Train Chatbot Transformer
+name: Deploy Image Generation AI (CPU)
 
 on:
-  push:
-    branches: [ main, master ]
-    paths:
-      - 'data/**'
-      - 'train.py'
-      - 'model.py'
-      - 'data_utils.py'
-      - 'download-lccc.py'
-      - '.github/workflows/train.yml'
-  workflow_dispatch:          # 允许手动触发
+  workflow_dispatch:
     inputs:
-      epochs:
-        description: 'Number of training epochs'
+      prompt:
+        description: '图片描述（Prompt）'
+        required: true
+        default: 'a cute cat sitting on a chair'
+        type: string
+      steps:
+        description: '推理步数'
         required: false
         default: '20'
-      batch_size:
-        description: 'Batch size (adjust based on available memory)'
-        required: false
-        default: '16'
+        type: choice
+        options:
+          - '10'
+          - '20'
+          - '30'
+          - '50'
 
 jobs:
-  train:
+  generate-image:
     runs-on: ubuntu-latest
-    timeout-minutes: 360       # 6小时，可根据需求调整
-
-    # 若需使用 GPU，请将 runs-on 改为 self-hosted 并配置 GPU Runner
-    # runs-on: [self-hosted, linux, gpu]
-
-    env:
-      PYTHONUNBUFFERED: 1
-      # 训练超参数可通过 workflow_dispatch 输入覆盖
-      EPOCHS: ${{ github.event.inputs.epochs || 50 }}
-      BATCH_SIZE: ${{ github.event.inputs.batch_size || 16 }}
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
+      - name: 设置 Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Cache pip packages
+      - name: 缓存 HuggingFace 模型
         uses: actions/cache@v4
         with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          path: ~/.cache/huggingface/hub/
+          key: ${{ runner.os }}-huggingface-v1-4-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
-            ${{ runner.os }}-pip-
+            ${{ runner.os }}-huggingface-
 
-      - name: Install dependencies
+      - name: 安装系统依赖
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libjpeg-dev zlib1g-dev libpng-dev
+
+      - name: 安装 Python 依赖
         run: |
           python -m pip install --upgrade pip
-          pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
-          pip install tokenizers numpy 'datasets<4.0.0' tqdm
-          # 若项目中有 requirements.txt 则使用：pip install -r requirements.txt
+          pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+          pip install diffusers transformers accelerate pillow
 
-      - name: Verify data file exists
+      - name: 生成图片
+        env:
+          PROMPT: ${{ github.event.inputs.prompt }}
+          STEPS: ${{ github.event.inputs.steps }}
         run: |
-          if [ ! -f data/conversations.json ]; then
-            echo "::error::Missing data/conversations.json. Please add your dataset before training."
-            exit 1
-          fi
+          echo "=========================================="
+          echo "🎨 开始生成图片 (使用 Stable Diffusion v1-4)"
+          echo "=========================================="
+          echo "提示词: $PROMPT"
+          echo "推理步数: $STEPS"
+          echo "=========================================="
+          
+          python << 'PYTHON'
+          import torch
+          from diffusers import StableDiffusionPipeline, DDIMScheduler
+          import base64
+          from io import BytesIO
+          import os
+          
+          prompt = os.environ.get('PROMPT', 'a cute cat')
+          steps = int(os.environ.get('STEPS', '20'))
+          
+          model_id = "CompVis/stable-diffusion-v1-4"
+          
+          print("📦 加载模型...")
+          pipe = StableDiffusionPipeline.from_pretrained(
+              model_id,
+              torch_dtype=torch.float32,
+              safety_checker=None,
+              cache_dir="~/.cache/huggingface/hub/"  # 显式指定缓存目录
+          )
+          pipe = pipe.to("cpu")
+          pipe.scheduler = DDIMScheduler.from_config(pipe.scheduler.config)
+          
+          print("✅ 模型加载完成，开始生成图片...")
+          image = pipe(prompt, num_inference_steps=steps).images[0]
+          
+          buffer = BytesIO()
+          image.save(buffer, format="PNG")
+          img_base64 = base64.b64encode(buffer.getvalue()).decode()
+          
+          with open('image_base64.txt', 'w') as f:
+              f.write(img_base64)
+          
+          data_url = f"data:image/png;base64,{img_base64}"
+          with open('data_url.txt', 'w') as f:
+              f.write(data_url)
+          
+          print("✅ 图片生成完成！")
+          PYTHON
 
-      - name: Create necessary directories
+      - name: 显示 Base64 到日志
+        run: cat image_base64.txt
+
+      - name: 显示 Data URL
+        run: cat data_url.txt
+
+      - name: 添加到 Job Summary
         run: |
-          mkdir -p tokenizer checkpoints
+          python << 'EOF'
+          import os
+          with open('data_url.txt', 'r') as f:
+              data_url = f.read()
+          prompt = os.environ.get('PROMPT', 'a cute cat')
+          steps = os.environ.get('STEPS', '20')
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as summary:
+              summary.write(f"## 🎨 生成的图片\n\n")
+              summary.write(f"**提示词:** {prompt}\n\n")
+              summary.write(f"**推理步数:** {steps}\n\n")
+              summary.write(f'<img src="{data_url}" width="512" alt="Generated Image">\n\n')
+          EOF
+        env:
+          PROMPT: ${{ github.event.inputs.prompt }}
+          STEPS: ${{ github.event.inputs.steps }}
 
-      - name: Download lccc
-        run: |
-          python download-lccc.py
-
-      - name: Run training script
-        run: |
-          python train.py
-        # 如果 train.py 支持命令行参数，请相应调整；否则可通过环境变量传递
-
-      - name: Upload trained model and tokenizer
+      - name: 上传 Base64 文件（备用）
         uses: actions/upload-artifact@v4
         with:
-          name: chatbot-model
-          path: |
-            checkpoints/best_model.pt
-            tokenizer/bpe_tokenizer.json
-          retention-days: 30
+          name: generated-image-base64
+          path: image_base64.txt data_url.txt
