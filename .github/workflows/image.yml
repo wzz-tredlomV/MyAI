@@ -1,7 +1,7 @@
 name: Deploy Image Generation AI (CPU)
 
 on:
-  workflow_dispatch:  # 手动触发
+  workflow_dispatch:
     inputs:
       prompt:
         description: '图片描述（Prompt）'
@@ -9,7 +9,7 @@ on:
         default: 'a cute cat sitting on a chair'
         type: string
       steps:
-        description: '推理步数（越多越精细，但更慢）'
+        description: '推理步数'
         required: false
         default: '20'
         type: choice
@@ -18,7 +18,6 @@ on:
           - '20'
           - '30'
           - '50'
-      # 模型选择已移除，固定使用 v1-4
 
 jobs:
   generate-image:
@@ -29,6 +28,14 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+
+      - name: 缓存 HuggingFace 模型
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface/hub/
+          key: ${{ runner.os }}-huggingface-v1-4-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-huggingface-
 
       - name: 安装系统依赖
         run: |
@@ -41,20 +48,16 @@ jobs:
           pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
           pip install diffusers transformers accelerate pillow
 
-      - name: 根据选择加载模型并生成图片
+      - name: 生成图片
         env:
           PROMPT: ${{ github.event.inputs.prompt }}
           STEPS: ${{ github.event.inputs.steps }}
         run: |
-          PROMPT="$PROMPT"
-          STEPS="$STEPS"
-          
           echo "=========================================="
           echo "🎨 开始生成图片 (使用 Stable Diffusion v1-4)"
           echo "=========================================="
           echo "提示词: $PROMPT"
           echo "推理步数: $STEPS"
-          echo "模型: CompVis/stable-diffusion-v1-4 (约4GB)"
           echo "=========================================="
           
           python << 'PYTHON'
@@ -67,94 +70,54 @@ jobs:
           prompt = os.environ.get('PROMPT', 'a cute cat')
           steps = int(os.environ.get('STEPS', '20'))
           
-          # 固定使用 v1-4 模型
           model_id = "CompVis/stable-diffusion-v1-4"
-          print("📦 加载标准模型 (v1-4, 约4GB, 首次下载较慢)...")
           
-          print("⏳ 加载模型中...")
-          
-          # 加载模型到 CPU
+          print("📦 加载模型...")
           pipe = StableDiffusionPipeline.from_pretrained(
               model_id,
               torch_dtype=torch.float32,
-              safety_checker=None  # 禁用安全检查加快速度
+              safety_checker=None,
+              cache_dir="~/.cache/huggingface/hub/"  # 显式指定缓存目录
           )
           pipe = pipe.to("cpu")
-          
-          # 使用 DPM 调度器加速
           pipe.scheduler = DDIMScheduler.from_config(pipe.scheduler.config)
           
           print("✅ 模型加载完成，开始生成图片...")
-          print(f"⏱️  预计需要 {steps * 2} 秒（CPU 模式）")
-          
-          # 生成图片
           image = pipe(prompt, num_inference_steps=steps).images[0]
           
-          # 转换为 Base64
           buffer = BytesIO()
           image.save(buffer, format="PNG")
           img_base64 = base64.b64encode(buffer.getvalue()).decode()
           
-          # 保存 Base64 到文件
           with open('image_base64.txt', 'w') as f:
               f.write(img_base64)
           
-          # 保存 Data URL
           data_url = f"data:image/png;base64,{img_base64}"
           with open('data_url.txt', 'w') as f:
               f.write(data_url)
           
           print("✅ 图片生成完成！")
-          print(f"📊 Base64 长度: {len(img_base64)} 字符")
           PYTHON
 
       - name: 显示 Base64 到日志
-        run: |
-          echo ""
-          echo "=========================================="
-          echo "🎨 生成的图片 Base64 编码"
-          echo "=========================================="
-          echo ""
-          cat image_base64.txt
-          echo ""
-          echo "=========================================="
-          echo ""
+        run: cat image_base64.txt
 
-      - name: 显示 Data URL（可直接复制到浏览器）
-        run: |
-          echo "=========================================="
-          echo "🔗 可点击链接（复制整行到浏览器地址栏）"
-          echo "=========================================="
-          echo ""
-          cat data_url.txt
-          echo ""
-          echo "=========================================="
-          echo ""
-          echo "💡 使用方法："
-          echo "1. 复制上面的 data:image/png;base64,... 整段内容"
-          echo "2. 粘贴到浏览器地址栏"
-          echo "3. 按回车即可查看图片"
-          echo "=========================================="
+      - name: 显示 Data URL
+        run: cat data_url.txt
 
-      - name: 添加到 Job Summary（可选）
+      - name: 添加到 Job Summary
         run: |
           python << 'EOF'
           import os
-          
           with open('data_url.txt', 'r') as f:
               data_url = f.read()
-          
           prompt = os.environ.get('PROMPT', 'a cute cat')
           steps = os.environ.get('STEPS', '20')
-          
           with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as summary:
               summary.write(f"## 🎨 生成的图片\n\n")
               summary.write(f"**提示词:** {prompt}\n\n")
               summary.write(f"**推理步数:** {steps}\n\n")
               summary.write(f'<img src="{data_url}" width="512" alt="Generated Image">\n\n')
-              summary.write(f"### 📋 Base64 数据\n\n")
-              summary.write(f"```\n{data_url[:200]}...\n```\n\n")
-              summary.write(f"完整长度: {len(data_url)} 字符\n")
           EOF
         env:
           PROMPT: ${{ github.event.inputs.prompt }}
@@ -164,6 +127,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: generated-image-base64
-          path: |
-            image_base64.txt
-            data_url.txt
+          path: image_base64.txt data_url.txt
