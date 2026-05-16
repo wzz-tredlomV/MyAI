@@ -32,6 +32,13 @@ jobs:
         with:
           path: ~/.cache/huggingface/hub/
           key: ${{ runner.os }}-huggingface-v1-4
+          restore-keys: |
+            ${{ runner.os }}-huggingface-
+
+      - name: 清理 HuggingFace 缓存（修复符号链接错误）
+        run: |
+          rm -rf ~/.cache/huggingface/hub/models--CompVis--stable-diffusion-v1-4
+          echo "✅ 已清理旧缓存"
 
       - name: 安装系统依赖
         run: |
