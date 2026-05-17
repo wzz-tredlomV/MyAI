@@ -1,12 +1,20 @@
-name: AI Image Generator + Daily Cleanup
+name: AI Image Generator (Multiple Prompts) + Daily Cleanup
 
 on:
   workflow_dispatch:
     inputs:
-      prompt:
-        description: '图片描述 (Prompt)'
+      prompts:
+        description: '多条提示词（每行一条）'
         required: true
-        default: 'a cute cat sitting on a chair'
+        default: |
+          a cute cat sitting on a chair
+          a dragon fly in the sky
+          a beautiful sunset over the ocean
+        type: string
+      counts:
+        description: '每条提示词的生成数量（用逗号分隔，与提示词顺序对应）'
+        required: true
+        default: '1,1,2'
         type: string
       steps:
         description: '推理步数'
@@ -27,7 +35,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: 强制清理 HuggingFace 缓存（彻底删除）
+      - name: 强制清理 HuggingFace 缓存
         run: |
           rm -rf ~/.cache/huggingface/hub/
           mkdir -p ~/.cache/huggingface/hub/
@@ -43,9 +51,10 @@ jobs:
           pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
           pip install diffusers transformers accelerate pillow
 
-      - name: 生成图片（使用绝对路径）
+      - name: 解析输入并生成图片
         env:
-          PROMPT: ${{ github.event.inputs.prompt }}
+          PROMPTS: ${{ github.event.inputs.prompts }}
+          COUNTS: ${{ github.event.inputs.counts }}
           STEPS: ${{ github.event.inputs.steps }}
         run: |
           python << 'PYTHON'
@@ -54,57 +63,155 @@ jobs:
           import base64
           from io import BytesIO
           import os
-          import subprocess
+          import time
+          import sys
 
-          prompt = os.environ.get('PROMPT', 'a cute cat')
+          # 读取输入
+          prompts_raw = os.environ.get('PROMPTS', 'a cute cat')
+          counts_raw = os.environ.get('COUNTS', '1')
           steps = int(os.environ.get('STEPS', '20'))
 
-          model_id = "CompVis/stable-diffusion-v1-4"
+          # 解析提示词（按行分割）
+          prompts = [p.strip() for p in prompts_raw.split('\n') if p.strip()]
           
-          # 使用绝对路径
+          # 解析数量（按逗号分割）
+          counts = [int(c.strip()) for c in counts_raw.split(',') if c.strip()]
+          
+          # 如果数量不够，用最后一个补全
+          while len(counts) < len(prompts):
+              counts.append(counts[-1] if counts else 1)
+          
+          print(f"📋 共 {len(prompts)} 条提示词")
+          for i, (p, c) in enumerate(zip(prompts, counts)):
+              print(f"  {i+1}. {p} → 生成 {c} 张")
+          
+          # 加载模型
           cache_dir = os.path.expanduser("~/.cache/huggingface/hub/")
-          
-          # 打印缓存目录信息
-          print(f"📂 缓存目录: {cache_dir}")
-          print(f"🔍 检查目录是否存在: {os.path.exists(cache_dir)}")
-          
-          # 设置环境变量，让 diffusers 使用正确的缓存
           os.environ['HF_HOME'] = os.path.expanduser("~/.cache/huggingface/")
           os.environ['HUGGINGFACE_HUB_CACHE'] = cache_dir
           
           print("📦 开始加载模型...")
+          model_id = "CompVis/stable-diffusion-v1-4"
           pipe = StableDiffusionPipeline.from_pretrained(
               model_id,
               torch_dtype=torch.float32,
               safety_checker=None,
               cache_dir=cache_dir,
-              resume_download=True,
-              force_download=False
+              resume_download=True
           )
           pipe = pipe.to("cpu")
           pipe.scheduler = DDIMScheduler.from_config(pipe.scheduler.config)
+          print("✅ 模型加载完成！")
 
-          print("✅ 模型加载完成，开始生成图片...")
-          image = pipe(prompt, num_inference_steps=steps).images[0]
+          # 存储所有图片信息
+          all_images = []
+          img_index = 1
 
-          buffer = BytesIO()
-          image.save(buffer, format="PNG")
-          img_base64 = base64.b64encode(buffer.getvalue()).decode()
-          with open('image_base64.txt', 'w') as f:
-              f.write(img_base64)
-          print("✅ 图片生成完成！")
+          # 对每条提示词生成图片
+          for prompt_idx, (prompt, count) in enumerate(zip(prompts, counts)):
+              print(f"\n🎨 处理提示词 {prompt_idx+1}: '{prompt}'")
+              
+              for i in range(count):
+                  print(f"  🖼️ 生成第 {i+1}/{count} 张...")
+                  
+                  # 随机种子
+                  generator = torch.Generator(device="cpu").manual_seed(int(time.time() * 1000) + img_index)
+                  
+                  image = pipe(
+                      prompt,
+                      num_inference_steps=steps,
+                      generator=generator
+                  ).images[0]
+                  
+                  # 保存 Base64
+                  buffer = BytesIO()
+                  image.save(buffer, format="PNG")
+                  img_base64 = base64.b64encode(buffer.getvalue()).decode()
+                  
+                  # 保存到文件
+                  filename = f"image_{img_index}.txt"
+                  with open(filename, 'w') as f:
+                      f.write(img_base64)
+                  
+                  # 记录信息
+                  all_images.append({
+                      'index': img_index,
+                      'prompt': prompt,
+                      'prompt_idx': prompt_idx + 1,
+                      'count_in_prompt': i + 1,
+                      'filename': filename
+                  })
+                  
+                  img_index += 1
+
+          # 保存所有图片信息到文件
+          import json
+          with open('all_images.json', 'w') as f:
+              json.dump(all_images, f)
+          
+          print(f"\n🎉 全部完成！共生成 {img_index - 1} 张图片")
           PYTHON
 
-      - name: 上传图片到 PythonAnywhere
+      - name: 上传所有图片到 PythonAnywhere
         env:
           PY_UPLOAD_TOKEN: ${{ secrets.PY_UPLOAD_TOKEN }}
         run: |
-          echo "$(cat image_base64.txt)" | base64 -d > generated_image.png
-          curl -s -X POST \
-            -H "Authorization: Bearer $PY_UPLOAD_TOKEN" \
-            -F "file=@generated_image.png" \
-            https://wzzresurgam.pythonanywhere.com/api/upload
-          echo "✅ 图片已上传"
+          # 安装 jq 用于解析 JSON
+          sudo apt-get install -y jq
+          
+          # 读取所有图片信息
+          TOTAL=$(cat all_images.json | jq length)
+          echo "📤 准备上传 $TOTAL 张图片..."
+          
+          # 上传每张图片
+          for i in $(seq 1 $TOTAL); do
+            # 获取第 i 张图片的信息
+            INFO=$(cat all_images.json | jq ".[$i-1]")
+            FILENAME=$(echo $INFO | jq -r '.filename')
+            PROMPT=$(echo $INFO | jq -r '.prompt')
+            
+            echo "📤 上传图片 $i/$TOTAL | 提示词: $PROMPT"
+            
+            # 解码并上传
+            echo "$(cat $FILENAME)" | base64 -d > upload_$i.png
+            RESPONSE=$(curl -s -X POST \
+              -H "Authorization: Bearer $PY_UPLOAD_TOKEN" \
+              -F "file=@upload_$i.png" \
+              https://wzzresurgam.pythonanywhere.com/api/upload)
+            
+            # 保存 URL
+            IMAGE_URL=$(echo $RESPONSE | jq -r '.image_url')
+            echo "$IMAGE_URL" >> all_urls.txt
+            echo "$IMAGE_URL" >> url_$i.txt
+          done
+          
+          echo "✅ 所有图片上传完成！"
+
+      - name: 在 Job Summary 中显示所有图片
+        run: |
+          echo "## 🖼️ 所有生成的图片" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          # 读取所有图片信息
+          TOTAL=$(cat all_images.json | jq length)
+          
+          for i in $(seq 1 $TOTAL); do
+            INFO=$(cat all_images.json | jq ".[$i-1]")
+            PROMPT=$(echo $INFO | jq -r '.prompt')
+            PROMPT_IDX=$(echo $INFO | jq -r '.prompt_idx')
+            COUNT_IDX=$(echo $INFO | jq -r '.count_in_prompt')
+            URL=$(cat url_$i.txt)
+            
+            echo "### 图片 $i (提示词 $PROMPT_IDX - 第 $COUNT_IDX 张)" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "**提示词:** $PROMPT" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "![]($URL)" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "链接: [$URL]($URL)" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "---" >> $GITHUB_STEP_SUMMARY
+          done
 
   cleanup-images:
     runs-on: ubuntu-latest
@@ -117,4 +224,4 @@ jobs:
           curl -s -X POST \
             -H "Authorization: Bearer $PY_UPLOAD_TOKEN" \
             https://wzzresurgam.pythonanywhere.com/api/cleanup
-          echo "✅ 清理完成"
+          echo "✅ 每日清理完成"
