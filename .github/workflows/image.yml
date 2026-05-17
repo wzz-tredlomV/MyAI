@@ -1,4 +1,4 @@
-name: AI Image Generator + Daily Cleanup
+name: AI Image Generator (High Quality) + Daily Cleanup
 
 on:
   workflow_dispatch:
@@ -9,11 +9,17 @@ on:
         default: 'a cute cat sitting on a chair'
         type: string
       steps:
-        description: '推理步数'
+        description: '推理步数 (越多越精细)'
         required: false
-        default: '20'
+        default: '30'
         type: choice
-        options: ['10', '20', '30', '50']
+        options: ['20', '30', '40', '50']
+      resolution:
+        description: '图片分辨率'
+        required: false
+        default: '768'
+        type: choice
+        options: ['512', '768', '1024']
   schedule:
     - cron: '0 0 * * *'
 
@@ -27,11 +33,11 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: 强制清理 HuggingFace 缓存（彻底删除）
+      - name: 强制清理 HuggingFace 缓存
         run: |
           rm -rf ~/.cache/huggingface/hub/
           mkdir -p ~/.cache/huggingface/hub/
-          echo "✅ 已完全清理并重建缓存目录"
+          echo "✅ 缓存目录已重置"
 
       - name: 安装系统依赖
         run: |
@@ -43,56 +49,53 @@ jobs:
           pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
           pip install diffusers transformers accelerate pillow
 
-      - name: 生成图片（使用绝对路径）
+      - name: 生成高清图片
         env:
           PROMPT: ${{ github.event.inputs.prompt }}
           STEPS: ${{ github.event.inputs.steps }}
+          RESOLUTION: ${{ github.event.inputs.resolution }}
         run: |
           python << 'PYTHON'
           import torch
-          from diffusers import StableDiffusionPipeline, DDIMScheduler
+          from diffusers import StableDiffusionPipeline, EulerAncestralDiscreteScheduler
           import base64
           from io import BytesIO
           import os
-          import subprocess
 
           prompt = os.environ.get('PROMPT', 'a cute cat')
-          steps = int(os.environ.get('STEPS', '20'))
-
-          model_id = "CompVis/stable-diffusion-v1-4"
+          steps = int(os.environ.get('STEPS', '30'))
+          resolution = int(os.environ.get('RESOLUTION', '768'))
           
-          # 使用绝对路径
+          model_id = "CompVis/stable-diffusion-v1-4"
           cache_dir = os.path.expanduser("~/.cache/huggingface/hub/")
           
-          # 打印缓存目录信息
-          print(f"📂 缓存目录: {cache_dir}")
-          print(f"🔍 检查目录是否存在: {os.path.exists(cache_dir)}")
-          
-          # 设置环境变量，让 diffusers 使用正确的缓存
-          os.environ['HF_HOME'] = os.path.expanduser("~/.cache/huggingface/")
-          os.environ['HUGGINGFACE_HUB_CACHE'] = cache_dir
-          
-          print("📦 开始加载模型...")
+          print(f"📦 加载模型... 分辨率: {resolution}x{resolution}")
           pipe = StableDiffusionPipeline.from_pretrained(
               model_id,
               torch_dtype=torch.float32,
               safety_checker=None,
-              cache_dir=cache_dir,
-              resume_download=True,
-              force_download=False
+              cache_dir=cache_dir
           )
           pipe = pipe.to("cpu")
-          pipe.scheduler = DDIMScheduler.from_config(pipe.scheduler.config)
-
-          print("✅ 模型加载完成，开始生成图片...")
-          image = pipe(prompt, num_inference_steps=steps).images[0]
+          
+          # 使用高质量采样器
+          pipe.scheduler = EulerAncestralDiscreteScheduler.from_config(pipe.scheduler.config)
+          
+          print("✅ 模型加载完成，生成中...")
+          image = pipe(
+              prompt, 
+              num_inference_steps=steps,
+              width=resolution,
+              height=resolution,
+              guidance_scale=7.5
+          ).images[0]
 
           buffer = BytesIO()
           image.save(buffer, format="PNG")
           img_base64 = base64.b64encode(buffer.getvalue()).decode()
           with open('image_base64.txt', 'w') as f:
               f.write(img_base64)
-          print("✅ 图片生成完成！")
+          print("✅ 高清图片生成完成！")
           PYTHON
 
       - name: 上传图片到 PythonAnywhere
