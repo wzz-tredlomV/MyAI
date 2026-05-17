@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 模型和数据（大文件）
+*.pth
+*.pt
+*.ckpt
+data/train/
+data/test/
+!data/style_bank/.gitkeep
+
+# 输出
+output/
+!output/.gitkeep
+
+# 日志
+*.log
+
+# 测试覆盖率
+.coverage
+htmlcov/
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
