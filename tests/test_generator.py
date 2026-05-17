@@ -1,12 +1,14 @@
 """
 测试矢量生成器
 """
-import unittest
-import torch
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
+
+import unittest
+import torch
+import numpy as np
 
 from src.vector_generator import VectorHandwritingGenerator, SVGRenderer
 

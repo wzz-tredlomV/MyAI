@@ -1,13 +1,13 @@
 """
 测试风格编码器
 """
-import unittest
-import torch
-import numpy as np
-from pathlib import Path
 import sys
+from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
+
+import unittest
+import torch
 
 from src.vector_style_encoder import HandwritingStyleEncoder, StyleBank
 

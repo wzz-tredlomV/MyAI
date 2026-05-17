@@ -11,7 +11,7 @@ import cv2
 import numpy as np
 import json
 from pathlib import Path
-from typing import Tuple, Dict, List, Optional
+from typing import Dict, List, Optional
 import warnings
 
 warnings.filterwarnings('ignore')
@@ -70,7 +70,7 @@ class HandwritingStyleEncoder(nn.Module):
     完整的字迹风格编码器
     输出结构化的风格描述，可序列化为JSON保存
     """
-    def __init__(self, 
+    def __init__(self,
                  global_dim: int = 256,
                  local_dim: int = 128,
                  stroke_dim: int = 64):

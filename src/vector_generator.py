@@ -69,7 +69,7 @@ class VectorHandwritingGenerator(nn.Module):
     矢量字迹生成器
     生成笔画参数，后续转为SVG路径
     """
-    def __init__(self, 
+    def __init__(self,
                  style_dim: int = 256,
                  content_dim: int = 128,
                  num_stroke_types: int = 8,
@@ -177,7 +177,7 @@ class SVGRenderer:
             7: 'lift',      # 提笔（细笔画）
         }
 
-    def strokes_to_svg(self, 
+    def strokes_to_svg(self,
                        stroke_params: np.ndarray,
                        presence_map: np.ndarray,
                        char: str = "",
@@ -273,10 +273,8 @@ class SVGRenderer:
         pretty = reparsed.toprettyxml(indent="  ")
 
         # 移除空行
-        lines = [line for line in pretty.split('
-') if line.strip()]
-        return '
-'.join(lines)
+        lines = [line for line in pretty.split('\n') if line.strip()]
+        return '\n'.join(lines)
 
     def save_svg(self, svg_string: str, output_path: str):
         """保存SVG到文件"""
@@ -290,7 +288,7 @@ class VectorHandwritingPipeline:
     """
     完整的矢量字迹生成流水线
     """
-    def __init__(self, 
+    def __init__(self,
                  model_path: Optional[str] = None,
                  device: str = "cpu",
                  canvas_size: Tuple[int, int] = (512, 512)):
@@ -317,7 +315,7 @@ class VectorHandwritingPipeline:
         with open(style_path, 'r', encoding='utf-8') as f:
             return json.load(f)
 
-    def generate_character(self, 
+    def generate_character(self,
                           char: str,
                           style_id: str,
                           output_path: Optional[str] = None) -> str:
@@ -337,7 +335,7 @@ class VectorHandwritingPipeline:
 
         # 解析风格向量
         global_style = torch.tensor(
-            style_dict['global_style'], 
+            style_dict['global_style'],
             dtype=torch.float32
         ).to(self.device)
 
@@ -463,11 +461,9 @@ class VectorHandwritingPipeline:
         reparsed = minidom.parseString(rough_string)
         pretty = reparsed.toprettyxml(indent="  ")
 
-        lines = [line for line in pretty.split('
-') if line.strip()]
+        lines = [line for line in pretty.split('\n') if line.strip()]
         with open(output_path, 'w', encoding='utf-8') as f:
-            f.write('
-'.join(lines))
+            f.write('\n'.join(lines))
 
         print(f"合并SVG已保存: {output_path}")
 

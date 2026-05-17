@@ -10,7 +10,7 @@ from src.vector_generator import VectorHandwritingGenerator, VectorHandwritingPi
 
 __all__ = [
     "HandwritingStyleEncoder",
-    "StyleBank", 
+    "StyleBank",
     "VectorHandwritingGenerator",
     "VectorHandwritingPipeline",
 ]
