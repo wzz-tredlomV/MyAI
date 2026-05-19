@@ -42,7 +42,7 @@ class AdaIN(nn.Module):
         # 生成风格参数
         style_params = self.fc(style)
         gamma = style_params[:, : self.num_features].view(-1, self.num_features, 1, 1)
-        beta = style_params[:, self.num_features :].view(-1, self.num_features, 1, 1)
+        beta = style_params[:, self.num_features:].view(-1, self.num_features, 1, 1)
 
         # 应用风格
         return gamma * normalized + beta
