@@ -167,14 +167,14 @@ class SVGRenderer:
     def __init__(self, canvas_size: Tuple[int, int] = (512, 512)):
         self.width, self.height = canvas_size
         self.stroke_types = {
-            0: 'line',      # 直线
-            1: 'quadratic', # 二次贝塞尔曲线
-            2: 'cubic',     # 三次贝塞尔曲线
-            3: 'arc',       # 圆弧
-            4: 'dot',       # 点/顿笔
-            5: 'hook',      # 钩
-            6: 'press',     # 按笔（粗笔画）
-            7: 'lift',      # 提笔（细笔画）
+            0: 'line',
+            1: 'quadratic',
+            2: 'cubic',
+            3: 'arc',
+            4: 'dot',
+            5: 'hook',
+            6: 'press',
+            7: 'lift',
         }
 
     def strokes_to_svg(self,
@@ -316,9 +316,9 @@ class VectorHandwritingPipeline:
             return json.load(f)
 
     def generate_character(self,
-                          char: str,
-                          style_id: str,
-                          output_path: Optional[str] = None) -> str:
+                           char: str,
+                           style_id: str,
+                           output_path: Optional[str] = None) -> str:
         """
         生成单个字符的矢量字迹
 
@@ -376,10 +376,10 @@ class VectorHandwritingPipeline:
         return svg
 
     def generate_text(self,
-                     text: str,
-                     style_id: str,
-                     output_dir: str = "output",
-                     combine: bool = True) -> List[str]:
+                      text: str,
+                      style_id: str,
+                      output_dir: str = "output",
+                      combine: bool = True) -> List[str]:
         """
         生成一段文字的矢量字迹
 
@@ -401,7 +401,7 @@ class VectorHandwritingPipeline:
                 continue
 
             char_path = output_dir / f"char_{i:03d}_{char}.svg"
-            svg = self.generate_character(char, style_id, str(char_path))
+            self.generate_character(char, style_id, str(char_path))
             svgs.append(str(char_path))
 
         if combine and svgs:

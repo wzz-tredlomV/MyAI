@@ -1,6 +1,3 @@
-"""
-测试风格编码器
-"""
 import sys
 from pathlib import Path
 

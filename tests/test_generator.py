@@ -1,6 +1,3 @@
-"""
-测试矢量生成器
-"""
 import sys
 from pathlib import Path
 
