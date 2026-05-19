@@ -1,13 +1,13 @@
 import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).parent.parent))
+sys.path.insert(0, str(Path(__file__).parent.parent))  # noqa: E402
 
-import unittest
-import torch
-import numpy as np
+import unittest  # noqa: E402
+import torch  # noqa: E402
+import numpy as np  # noqa: E402
 
-from src.vector_generator import VectorHandwritingGenerator, SVGRenderer
+from src.vector_generator import VectorHandwritingGenerator, SVGRenderer  # noqa: E402
 
 
 class TestVectorHandwritingGenerator(unittest.TestCase):

@@ -1,12 +1,12 @@
 import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).parent.parent))
+sys.path.insert(0, str(Path(__file__).parent.parent))  # noqa: E402
 
-import unittest
-import torch
+import unittest  # noqa: E402
+import torch  # noqa: E402
 
-from src.vector_style_encoder import HandwritingStyleEncoder, StyleBank
+from src.vector_style_encoder import HandwritingStyleEncoder, StyleBank  # noqa: E402
 
 
 class TestHandwritingStyleEncoder(unittest.TestCase):
