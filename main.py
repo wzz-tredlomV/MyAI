@@ -9,6 +9,7 @@ Usage:
     python main.py list-styles
     python main.py train --dataset data/train/ --epochs 100
 """
+
 import argparse
 import sys
 from pathlib import Path
@@ -19,9 +20,9 @@ import json
 sys.path.insert(0, str(Path(__file__).parent))
 
 from src.vector_style_encoder import (
-    HandwritingStyleEncoder, 
-    StyleBank, 
-    extract_and_save_style
+    HandwritingStyleEncoder,
+    StyleBank,
+    extract_and_save_style,
 )
 from src.vector_generator import VectorHandwritingPipeline
 
@@ -29,7 +30,7 @@ from src.vector_generator import VectorHandwritingPipeline
 def setup_argparse() -> argparse.ArgumentParser:
     """设置命令行参数"""
     parser = argparse.ArgumentParser(
-        description='Handwriting Mimic AI - 矢量字迹模仿系统',
+        description="Handwriting Mimic AI - 矢量字迹模仿系统",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 示例:
@@ -44,43 +45,55 @@ def setup_argparse() -> argparse.ArgumentParser:
 
   # 训练模型
   python main.py train -d data/train/ -e 100 --save-model models/model.pth
-        """
+        """,
     )
 
-    subparsers = parser.add_subparsers(dest='command', help='可用命令')
+    subparsers = parser.add_subparsers(dest="command", help="可用命令")
 
     # extract 命令
-    extract_parser = subparsers.add_parser('extract', help='从图片提取字迹风格')
-    extract_parser.add_argument('-i', '--image', required=True, help='手写样本图片路径')
-    extract_parser.add_argument('-s', '--style-id', required=True, help='风格标识名')
-    extract_parser.add_argument('--model', default=None, help='预训练模型路径（可选）')
-    extract_parser.add_argument('--bank', default='data/style_bank', help='风格银行路径')
-    extract_parser.add_argument('--device', default='cpu', choices=['cpu', 'cuda'], help='计算设备')
+    extract_parser = subparsers.add_parser("extract", help="从图片提取字迹风格")
+    extract_parser.add_argument("-i", "--image", required=True, help="手写样本图片路径")
+    extract_parser.add_argument("-s", "--style-id", required=True, help="风格标识名")
+    extract_parser.add_argument("--model", default=None, help="预训练模型路径（可选）")
+    extract_parser.add_argument(
+        "--bank", default="data/style_bank", help="风格银行路径"
+    )
+    extract_parser.add_argument(
+        "--device", default="cpu", choices=["cpu", "cuda"], help="计算设备"
+    )
 
     # generate 命令
-    generate_parser = subparsers.add_parser('generate', help='生成模仿字迹')
-    generate_parser.add_argument('-t', '--text', required=True, help='要生成的文字')
-    generate_parser.add_argument('-s', '--style-id', required=True, help='风格ID')
-    generate_parser.add_argument('-o', '--output', default='output', help='输出目录')
-    generate_parser.add_argument('--model', default=None, help='生成器模型路径')
-    generate_parser.add_argument('--device', default='cpu', choices=['cpu', 'cuda'], help='计算设备')
-    generate_parser.add_argument('--no-combine', action='store_true', help='不合并为单个SVG')
+    generate_parser = subparsers.add_parser("generate", help="生成模仿字迹")
+    generate_parser.add_argument("-t", "--text", required=True, help="要生成的文字")
+    generate_parser.add_argument("-s", "--style-id", required=True, help="风格ID")
+    generate_parser.add_argument("-o", "--output", default="output", help="输出目录")
+    generate_parser.add_argument("--model", default=None, help="生成器模型路径")
+    generate_parser.add_argument(
+        "--device", default="cpu", choices=["cpu", "cuda"], help="计算设备"
+    )
+    generate_parser.add_argument(
+        "--no-combine", action="store_true", help="不合并为单个SVG"
+    )
 
     # list-styles 命令
-    subparsers.add_parser('list-styles', help='列出所有保存的风格')
+    subparsers.add_parser("list-styles", help="列出所有保存的风格")
 
     # train 命令
-    train_parser = subparsers.add_parser('train', help='训练模型')
-    train_parser.add_argument('-d', '--dataset', required=True, help='训练数据集目录')
-    train_parser.add_argument('-e', '--epochs', type=int, default=100, help='训练轮数')
-    train_parser.add_argument('--batch-size', type=int, default=16, help='批次大小')
-    train_parser.add_argument('--lr', type=float, default=0.0002, help='学习率')
-    train_parser.add_argument('--save-model', default='models/handwriting_model.pth', help='模型保存路径')
-    train_parser.add_argument('--device', default='cuda', choices=['cpu', 'cuda'], help='计算设备')
+    train_parser = subparsers.add_parser("train", help="训练模型")
+    train_parser.add_argument("-d", "--dataset", required=True, help="训练数据集目录")
+    train_parser.add_argument("-e", "--epochs", type=int, default=100, help="训练轮数")
+    train_parser.add_argument("--batch-size", type=int, default=16, help="批次大小")
+    train_parser.add_argument("--lr", type=float, default=0.0002, help="学习率")
+    train_parser.add_argument(
+        "--save-model", default="models/handwriting_model.pth", help="模型保存路径"
+    )
+    train_parser.add_argument(
+        "--device", default="cuda", choices=["cpu", "cuda"], help="计算设备"
+    )
 
     # info 命令
-    info_parser = subparsers.add_parser('info', help='查看风格信息')
-    info_parser.add_argument('-s', '--style-id', required=True, help='风格ID')
+    info_parser = subparsers.add_parser("info", help="查看风格信息")
+    info_parser.add_argument("-s", "--style-id", required=True, help="风格ID")
 
     return parser
 
@@ -95,7 +108,7 @@ def cmd_extract(args):
             style_id=args.style_id,
             model_path=args.model,
             bank_path=args.bank,
-            device=args.device
+            device=args.device,
         )
 
         print(f"\n风格提取成功！")
@@ -103,7 +116,9 @@ def cmd_extract(args):
         print(f"  全局维度: {style_dict['metadata']['global_dim']}")
         print(f"  局部维度: {style_dict['metadata']['local_dim']}")
         print(f"  笔画维度: {style_dict['metadata']['stroke_dim']}")
-        print(f"  统计特征: {style_dict['statistical_features'][0][:5]}...")  # 显示前5个
+        print(
+            f"  统计特征: {style_dict['statistical_features'][0][:5]}..."
+        )  # 显示前5个
         print(f"\n风格已保存到: data/style_bank/{args.style_id}.json")
 
     except Exception as e:
@@ -116,16 +131,13 @@ def cmd_generate(args):
     print(f"正在使用风格 '{args.style_id}' 生成文字: {args.text}")
 
     try:
-        pipeline = VectorHandwritingPipeline(
-            model_path=args.model,
-            device=args.device
-        )
+        pipeline = VectorHandwritingPipeline(model_path=args.model, device=args.device)
 
         output_paths = pipeline.generate_text(
             text=args.text,
             style_id=args.style_id,
             output_dir=args.output,
-            combine=not args.no_combine
+            combine=not args.no_combine,
         )
 
         print(f"\n生成完成！")
@@ -152,7 +164,7 @@ def cmd_list_styles(args):
 
     for style_id in styles:
         style_info = bank.load_style(style_id)
-        meta = style_info.get('metadata', {})
+        meta = style_info.get("metadata", {})
         print(f"  {style_id}")
         print(f"    全局维度: {meta.get('global_dim', 'N/A')}")
         print(f"    版本: {meta.get('model_version', 'N/A')}")
@@ -211,11 +223,11 @@ def main():
 
     # 路由到对应命令
     commands = {
-        'extract': cmd_extract,
-        'generate': cmd_generate,
-        'list-styles': cmd_list_styles,
-        'train': cmd_train,
-        'info': cmd_info,
+        "extract": cmd_extract,
+        "generate": cmd_generate,
+        "list-styles": cmd_list_styles,
+        "train": cmd_train,
+        "info": cmd_info,
     }
 
     if args.command in commands:
@@ -225,5 +237,5 @@ def main():
         sys.exit(1)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

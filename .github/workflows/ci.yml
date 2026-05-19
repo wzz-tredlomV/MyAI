@@ -1,0 +1,254 @@
+name: Handwriting Mimic AI CI/CD
+
+on:
+  push:
+    branches: [ main, develop ]
+    paths:
+      - 'src/**'
+      - 'tests/**'
+      - 'main.py'
+      - 'train.py'
+      - 'requirements.txt'
+      - '.github/workflows/**'
+  pull_request:
+    branches: [ main ]
+  schedule:
+    # 每周日凌晨3点运行完整测试
+    - cron: '0 3 * * 0'
+
+env:
+  PYTHON_VERSION: '3.10'
+  TORCH_VERSION: '2.1.0'
+
+jobs:
+  # 代码质量检查
+  lint:
+    name: Code Quality
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+
+    - name: Cache pip packages
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Install linting tools
+      run: |
+        python -m pip install --upgrade pip
+        pip install flake8 black isort mypy
+
+    - name: Run flake8
+      run: flake8 src/ tests/ --max-line-length=120 --extend-ignore=E501,W503
+
+    - name: Run black check
+      run: black --check src/ tests/ main.py train.py
+
+    - name: Run isort check
+      run: isort --check-only src/ tests/ main.py train.py
+
+    - name: Run type check
+      run: mypy src/ --ignore-missing-imports
+
+  # 单元测试
+  test:
+    name: Unit Tests
+    runs-on: ubuntu-latest
+    needs: lint
+    strategy:
+      matrix:
+        python-version: ['3.9', '3.10', '3.11']
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ matrix.python-version }}
+
+    - name: Cache pip packages
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}-${{ matrix.python-version }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install torch==${{ env.TORCH_VERSION }} torchvision --index-url https://download.pytorch.org/whl/cpu
+        pip install -r requirements.txt
+        pip install pytest pytest-cov
+
+    - name: Run tests with coverage
+      run: |
+        pytest tests/ -v --cov=src --cov-report=xml --cov-report=html
+
+    - name: Upload coverage to Codecov
+      uses: codecov/codecov-action@v3
+      with:
+        file: ./coverage.xml
+        flags: unittests
+        name: codecov-umbrella
+
+  # 模型测试（需要GPU）
+  model-test:
+    name: Model Integration Test
+    runs-on: ubuntu-latest
+    needs: test
+    if: github.event_name == 'pull_request' || github.ref == 'refs/heads/main'
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+        pip install -r requirements.txt
+        pip install opencv-python-headless
+
+    - name: Create test data
+      run: |
+        mkdir -p data/test_samples
+        python -c "
+        import numpy as np
+        from PIL import Image
+        img = np.random.randint(0, 255, (128, 128), dtype=np.uint8)
+        Image.fromarray(img).save('data/test_samples/test_handwriting.png')
+        print('测试图片创建完成')
+        "
+
+    - name: Test style extraction
+      run: |
+        python main.py extract           --image data/test_samples/test_handwriting.png           --style-id test_ci_style           --device cpu
+
+    - name: Test style info
+      run: |
+        python main.py info --style-id test_ci_style
+
+    - name: Test list styles
+      run: |
+        python main.py list-styles
+
+    - name: Test generation (without model)
+      run: |
+        python main.py generate           --text "测试"           --style-id test_ci_style           --output output/ci_test/           --device cpu || true
+
+    - name: Upload test artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: test-outputs-${{ github.run_id }}
+        path: |
+          data/style_bank/
+          output/
+        retention-days: 7
+
+  # 构建和发布
+  build:
+    name: Build Package
+    runs-on: ubuntu-latest
+    needs: [lint, test]
+    if: github.ref == 'refs/heads/main'
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+
+    - name: Install build tools
+      run: |
+        python -m pip install --upgrade pip
+        pip install build twine
+
+    - name: Build package
+      run: python -m build
+
+    - name: Check package
+      run: twine check dist/*
+
+    - name: Upload build artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: dist
+        path: dist/
+
+  # Docker镜像构建
+  docker:
+    name: Build Docker Image
+    runs-on: ubuntu-latest
+    needs: [lint, test]
+    if: github.ref == 'refs/heads/main'
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Docker Buildx
+      uses: docker/setup-buildx-action@v3
+
+    - name: Login to Docker Hub
+      uses: docker/login-action@v3
+      with:
+        username: ${{ secrets.DOCKER_USERNAME }}
+        password: ${{ secrets.DOCKER_PASSWORD }}
+
+    - name: Build and push
+      uses: docker/build-push-action@v5
+      with:
+        context: .
+        push: true
+        tags: |
+          ${{ secrets.DOCKER_USERNAME }}/handwriting-mimic-ai:latest
+          ${{ secrets.DOCKER_USERNAME }}/handwriting-mimic-ai:${{ github.sha }}
+        cache-from: type=gha
+        cache-to: type=gha,mode=max
+
+  # 文档生成
+  docs:
+    name: Generate Documentation
+    runs-on: ubuntu-latest
+    needs: test
+    if: github.ref == 'refs/heads/main'
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+
+    - name: Install docs dependencies
+      run: |
+        pip install pdoc3 mkdocs mkdocs-material
+
+    - name: Generate API docs
+      run: |
+        pdoc --html --output-dir docs/api src/
+
+    - name: Build MkDocs
+      run: mkdocs build
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./site

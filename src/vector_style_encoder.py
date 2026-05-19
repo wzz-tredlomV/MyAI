@@ -2,6 +2,7 @@
 矢量字迹风格编码器
 从手写样本图片中提取可复用的风格向量，并保存为JSON格式
 """
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -14,11 +15,12 @@ from pathlib import Path
 from typing import Dict, List, Optional
 import warnings
 
-warnings.filterwarnings('ignore')
+warnings.filterwarnings("ignore")
 
 
 class ResidualBlock(nn.Module):
     """残差块，用于深层特征提取"""
+
     def __init__(self, channels: int):
         super().__init__()
         self.conv1 = nn.Conv2d(channels, channels, 3, 1, 1)
@@ -39,6 +41,7 @@ class StrokeFeatureExtractor(nn.Module):
     笔画级特征提取器
     提取笔画粗细、曲率、倾斜角度等微观特征
     """
+
     def __init__(self, out_dim: int = 64):
         super().__init__()
         self.out_dim = out_dim
@@ -54,7 +57,7 @@ class StrokeFeatureExtractor(nn.Module):
             nn.ReLU(),
             ResidualBlock(64),
             nn.Conv2d(64, out_dim, 3, 1, 1),
-            nn.AdaptiveAvgPool2d(1)
+            nn.AdaptiveAvgPool2d(1),
         )
 
     def forward(self, x):
@@ -70,10 +73,10 @@ class HandwritingStyleEncoder(nn.Module):
     完整的字迹风格编码器
     输出结构化的风格描述，可序列化为JSON保存
     """
-    def __init__(self,
-                 global_dim: int = 256,
-                 local_dim: int = 128,
-                 stroke_dim: int = 64):
+
+    def __init__(
+        self, global_dim: int = 256, local_dim: int = 128, stroke_dim: int = 64
+    ):
         super().__init__()
         self.global_dim = global_dim
         self.local_dim = local_dim
@@ -82,20 +85,17 @@ class HandwritingStyleEncoder(nn.Module):
         # 主干特征提取
         self.backbone = nn.Sequential(
             # 输入: [B, 1, 128, 128]
-            nn.Conv2d(1, 64, 4, 2, 1),    # -> [B, 64, 64, 64]
+            nn.Conv2d(1, 64, 4, 2, 1),  # -> [B, 64, 64, 64]
             nn.BatchNorm2d(64),
             nn.LeakyReLU(0.2),
-
-            nn.Conv2d(64, 128, 4, 2, 1),   # -> [B, 128, 32, 32]
+            nn.Conv2d(64, 128, 4, 2, 1),  # -> [B, 128, 32, 32]
             nn.BatchNorm2d(128),
             nn.LeakyReLU(0.2),
             ResidualBlock(128),
-
             nn.Conv2d(128, 256, 4, 2, 1),  # -> [B, 256, 16, 16]
             nn.BatchNorm2d(256),
             nn.LeakyReLU(0.2),
             ResidualBlock(256),
-
             nn.Conv2d(256, 512, 4, 2, 1),  # -> [B, 512, 8, 8]
             nn.BatchNorm2d(512),
             nn.LeakyReLU(0.2),
@@ -109,7 +109,7 @@ class HandwritingStyleEncoder(nn.Module):
             nn.Linear(512, 512),
             nn.ReLU(),
             nn.Dropout(0.3),
-            nn.Linear(512, global_dim)
+            nn.Linear(512, global_dim),
         )
 
         # 局部空间风格图（空间分布特征）
@@ -125,9 +125,7 @@ class HandwritingStyleEncoder(nn.Module):
 
         # 统计特征提取（倾斜度、笔画密度等）
         self.statistical_fc = nn.Sequential(
-            nn.Linear(10, 32),
-            nn.ReLU(),
-            nn.Linear(32, 32)
+            nn.Linear(10, 32), nn.ReLU(), nn.Linear(32, 32)
         )
 
     def extract_statistical_features(self, x: torch.Tensor) -> torch.Tensor:
@@ -139,7 +137,9 @@ class HandwritingStyleEncoder(nn.Module):
             img = x[i, 0].cpu().numpy()
 
             # 二值化
-            _, binary = cv2.threshold((img * 255).astype(np.uint8), 127, 255, cv2.THRESH_BINARY)
+            _, binary = cv2.threshold(
+                (img * 255).astype(np.uint8), 127, 255, cv2.THRESH_BINARY
+            )
 
             # 笔画密度
             density = np.sum(binary > 0) / binary.size
@@ -152,14 +152,18 @@ class HandwritingStyleEncoder(nn.Module):
 
             # 倾斜估计（使用矩）
             moments = cv2.moments(binary)
-            if moments['mu02'] != 0:
-                skew = moments['mu11'] / (moments['mu02'] + 1e-5)
+            if moments["mu02"] != 0:
+                skew = moments["mu11"] / (moments["mu02"] + 1e-5)
             else:
                 skew = 0
 
             # 笔画宽度估计
             dist_transform = cv2.distanceTransform(binary, cv2.DIST_L2, 5)
-            avg_width = np.mean(dist_transform[dist_transform > 0]) * 2 if np.any(dist_transform > 0) else 0
+            avg_width = (
+                np.mean(dist_transform[dist_transform > 0]) * 2
+                if np.any(dist_transform > 0)
+                else 0
+            )
 
             # 边缘粗糙度
             edges = cv2.Canny(binary, 50, 150)
@@ -173,12 +177,28 @@ class HandwritingStyleEncoder(nn.Module):
             aspect_ratio = w / h if h > 0 else 1
 
             # 重心位置
-            cy = moments['m01'] / (moments['m00'] + 1e-5) / h if moments['m00'] > 0 else 0.5
-            cx = moments['m10'] / (moments['m00'] + 1e-5) / w if moments['m00'] > 0 else 0.5
+            cy = (
+                moments["m01"] / (moments["m00"] + 1e-5) / h
+                if moments["m00"] > 0
+                else 0.5
+            )
+            cx = (
+                moments["m10"] / (moments["m00"] + 1e-5) / w
+                if moments["m00"] > 0
+                else 0.5
+            )
 
             stat_vec = [
-                density, h_var, v_var, skew, avg_width,
-                edge_ratio, num_labels / 10, aspect_ratio, cy, cx
+                density,
+                h_var,
+                v_var,
+                skew,
+                avg_width,
+                edge_ratio,
+                num_labels / 10,
+                aspect_ratio,
+                cy,
+                cx,
             ]
             stats.append(stat_vec)
 
@@ -204,11 +224,11 @@ class HandwritingStyleEncoder(nn.Module):
         stat_encoded = self.statistical_fc(stat_features)
 
         return {
-            'global': global_style,
-            'local': local_style,
-            'stroke': stroke_features,
-            'statistical': stat_encoded,
-            'raw_stats': stat_features
+            "global": global_style,
+            "local": local_style,
+            "stroke": stroke_features,
+            "statistical": stat_encoded,
+            "raw_stats": stat_features,
         }
 
     def encode_to_dict(self, x: torch.Tensor) -> Dict:
@@ -219,17 +239,17 @@ class HandwritingStyleEncoder(nn.Module):
             features = self.forward(x)
 
         result = {
-            'global_style': features['global'].cpu().numpy().tolist(),
-            'stroke_features': features['stroke'].cpu().numpy().tolist(),
-            'statistical_features': features['raw_stats'].cpu().numpy().tolist(),
-            'local_style_shape': list(features['local'].shape),
-            'local_style': features['local'].cpu().numpy().tolist(),
-            'metadata': {
-                'global_dim': self.global_dim,
-                'local_dim': self.local_dim,
-                'stroke_dim': self.stroke_dim,
-                'model_version': '1.0.0'
-            }
+            "global_style": features["global"].cpu().numpy().tolist(),
+            "stroke_features": features["stroke"].cpu().numpy().tolist(),
+            "statistical_features": features["raw_stats"].cpu().numpy().tolist(),
+            "local_style_shape": list(features["local"].shape),
+            "local_style": features["local"].cpu().numpy().tolist(),
+            "metadata": {
+                "global_dim": self.global_dim,
+                "local_dim": self.local_dim,
+                "stroke_dim": self.stroke_dim,
+                "model_version": "1.0.0",
+            },
         }
 
         return result
@@ -239,6 +259,7 @@ class StyleBank:
     """
     风格银行：管理和保存提取的字迹风格
     """
+
     def __init__(self, bank_path: str = "data/style_bank"):
         self.bank_path = Path(bank_path)
         self.bank_path.mkdir(parents=True, exist_ok=True)
@@ -249,16 +270,18 @@ class StyleBank:
         """加载已保存的风格"""
         for style_file in self.bank_path.glob("*.json"):
             style_id = style_file.stem
-            with open(style_file, 'r', encoding='utf-8') as f:
+            with open(style_file, "r", encoding="utf-8") as f:
                 self.styles[style_id] = json.load(f)
 
-    def save_style(self, style_id: str, style_dict: Dict, sample_image_path: Optional[str] = None):
+    def save_style(
+        self, style_id: str, style_dict: Dict, sample_image_path: Optional[str] = None
+    ):
         """保存风格到银行"""
-        style_dict['style_id'] = style_id
-        style_dict['sample_image'] = sample_image_path
+        style_dict["style_id"] = style_id
+        style_dict["sample_image"] = sample_image_path
 
         save_path = self.bank_path / f"{style_id}.json"
-        with open(save_path, 'w', encoding='utf-8') as f:
+        with open(save_path, "w", encoding="utf-8") as f:
             json.dump(style_dict, f, ensure_ascii=False, indent=2)
 
         self.styles[style_id] = style_dict
@@ -271,7 +294,7 @@ class StyleBank:
 
         style_path = self.bank_path / f"{style_id}.json"
         if style_path.exists():
-            with open(style_path, 'r', encoding='utf-8') as f:
+            with open(style_path, "r", encoding="utf-8") as f:
                 return json.load(f)
 
         raise ValueError(f"风格 '{style_id}' 不存在")
@@ -293,7 +316,7 @@ def extract_and_save_style(
     style_id: str,
     model_path: Optional[str] = None,
     bank_path: str = "data/style_bank",
-    device: str = "cpu"
+    device: str = "cpu",
 ) -> Dict:
     """
     便捷函数：从图片提取风格并保存
@@ -316,14 +339,16 @@ def extract_and_save_style(
         encoder.eval()
 
     # 预处理图片
-    transform = transforms.Compose([
-        transforms.Grayscale(),
-        transforms.Resize((128, 128)),
-        transforms.ToTensor(),
-        transforms.Normalize([0.5], [0.5])
-    ])
+    transform = transforms.Compose(
+        [
+            transforms.Grayscale(),
+            transforms.Resize((128, 128)),
+            transforms.ToTensor(),
+            transforms.Normalize([0.5], [0.5]),
+        ]
+    )
 
-    img = Image.open(image_path).convert('L')
+    img = Image.open(image_path).convert("L")
     img_tensor = transform(img).unsqueeze(0).to(device)
 
     # 提取风格
@@ -340,4 +365,6 @@ def extract_and_save_style(
 if __name__ == "__main__":
     # 测试
     print("HandwritingStyleEncoder 模块加载完成")
-    print(f"模型参数量: {sum(p.numel() for p in HandwritingStyleEncoder().parameters()):,}")
+    print(
+        f"模型参数量: {sum(p.numel() for p in HandwritingStyleEncoder().parameters()):,}"
+    )

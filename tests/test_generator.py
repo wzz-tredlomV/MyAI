@@ -21,11 +21,11 @@ class TestVectorHandwritingGenerator(unittest.TestCase):
         """测试生成器前向传播"""
         output = self.generator(self.skeleton, self.style)
 
-        self.assertIn('stroke_params', output)
-        self.assertIn('presence_map', output)
-        self.assertIn('feature_map', output)
+        self.assertIn("stroke_params", output)
+        self.assertIn("presence_map", output)
+        self.assertIn("feature_map", output)
 
-        self.assertEqual(output['presence_map'].shape[0], self.batch_size)
+        self.assertEqual(output["presence_map"].shape[0], self.batch_size)
 
 
 class TestSVGRenderer(unittest.TestCase):
@@ -39,10 +39,10 @@ class TestSVGRenderer(unittest.TestCase):
 
         svg = self.renderer.strokes_to_svg(strokes, presence, "测")
 
-        self.assertIn('<svg', svg)
-        self.assertIn('</svg>', svg)
-        self.assertIn('handwriting-style', svg)
+        self.assertIn("<svg", svg)
+        self.assertIn("</svg>", svg)
+        self.assertIn("handwriting-style", svg)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     unittest.main()
