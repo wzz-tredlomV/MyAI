@@ -203,48 +203,99 @@ def build_model(config):
     _ = model(dummy_input, training=False)
     return model
 
-# ==================== 模型保存/加载工具函数 ====================
+# ==================== 模型保存/加载工具函数（Keras 3 兼容） ====================
 
-def save_model_weights(model, save_dir):
-    """保存模型权重和配置（Keras 3 兼容方案）"""
+def save_model_dual_format(model, save_dir, is_best=False):
+    """
+    同时保存两种格式：
+    1. .keras 格式 - 方便调试，可用 keras.models.load_model() 加载
+    2. SavedModel 格式 - 方便部署，可用 tf.saved_model.load() 或 TFSMLayer 加载
+    """
     os.makedirs(save_dir, exist_ok=True)
-    # 保存权重
-    weights_path = os.path.join(save_dir, "weights")
-    model.save_weights(weights_path)
-    # 保存配置
+    
+    # 1. 保存为 .keras 格式（Keras 3 原生格式，方便调试）
+    keras_path = os.path.join(save_dir, "model.keras")
+    model.save(keras_path)
+    
+    # 2. 保存为 SavedModel 格式（TensorFlow 原生格式，方便部署）
+    # 使用 tf.saved_model.save 保存为 SavedModel 目录
+    savedmodel_path = os.path.join(save_dir, "savedmodel")
+    if os.path.exists(savedmodel_path):
+        shutil.rmtree(savedmodel_path)
+    tf.saved_model.save(model, savedmodel_path)
+    
+    # 3. 保存配置
     config_path = os.path.join(save_dir, "config.json")
     with open(config_path, "w", encoding="utf-8") as f:
         json.dump(model.config.__dict__, f, ensure_ascii=False, indent=2)
-    print(f"  权重已保存到: {save_dir}")
+    
+    if is_best:
+        print(f"  ✓ 新的最佳模型已保存到 {save_dir}")
+        print(f"    - .keras: {keras_path}")
+        print(f"    - SavedModel: {savedmodel_path}")
+    else:
+        print(f"  模型已保存到 {save_dir}")
+
+def load_model_keras(load_dir, vocab_size=None):
+    """从 .keras 格式加载模型（用于调试）"""
+    keras_path = os.path.join(load_dir, "model.keras")
+    if not os.path.exists(keras_path):
+        raise FileNotFoundError(f"找不到 .keras 模型文件: {keras_path}")
+    
+    custom_objects = {
+        'RotaryEmbedding': RotaryEmbedding,
+        'CustomLayerNorm': CustomLayerNorm,
+        'CustomMultiHeadAttention': CustomMultiHeadAttention,
+        'CustomFFN': CustomFFN,
+        'CustomTransformerBlock': CustomTransformerBlock,
+        'LiteratureTransformer': LiteratureTransformer,
+        'ModelConfig': ModelConfig
+    }
+    
+    model = keras.models.load_model(keras_path, custom_objects=custom_objects)
+    print(f"  .keras 模型已从 {keras_path} 加载")
+    return model
 
 def load_model_weights(load_dir, vocab_size=None):
-    """加载模型权重（Keras 3 兼容方案）"""
+    """从 .keras 文件加载权重到重新构建的模型中（备用方案）"""
     config_path = os.path.join(load_dir, "config.json")
     with open(config_path, "r", encoding="utf-8") as f:
         config_dict = json.load(f)
     
-    # 如果传入了新的 vocab_size，覆盖配置
     if vocab_size is not None:
         config_dict['vocab_size'] = vocab_size
     
     config = ModelConfig(**config_dict)
     model = build_model(config)
     
-    weights_path = os.path.join(load_dir, "weights")
-    model.load_weights(weights_path)
-    print(f"  权重已从 {load_dir} 加载")
+    keras_path = os.path.join(load_dir, "model.keras")
+    if os.path.exists(keras_path):
+        # 从 .keras 文件加载权重
+        temp_model = keras.models.load_model(keras_path, custom_objects={
+            'RotaryEmbedding': RotaryEmbedding,
+            'CustomLayerNorm': CustomLayerNorm,
+            'CustomMultiHeadAttention': CustomMultiHeadAttention,
+            'CustomFFN': CustomFFN,
+            'CustomTransformerBlock': CustomTransformerBlock,
+            'LiteratureTransformer': LiteratureTransformer,
+            'ModelConfig': ModelConfig
+        })
+        model.set_weights(temp_model.get_weights())
+        print(f"  权重已从 {keras_path} 加载到新模型")
+    else:
+        raise FileNotFoundError(f"找不到模型文件: {keras_path}")
+    
     return model
 
-def save_best_weights(model, save_dir, is_best=False):
-    """保存最佳模型权重"""
+def save_best_model(model, save_dir, is_best=False):
+    """保存最佳模型（双格式）"""
     if is_best:
-        save_model_weights(model, save_dir)
-        print(f"  ✓ 新的最佳模型已保存到 {save_dir}")
+        save_model_dual_format(model, save_dir, is_best=True)
 
 def cleanup_checkpoints(save_dir, keep_patterns=None):
     """清理检查点，只保留指定的模式"""
     if keep_patterns is None:
-        keep_patterns = ["best", "final", "config.json"]
+        keep_patterns = ["best", "final"]
     for item in glob.glob(os.path.join(save_dir, "*")):
         basename = os.path.basename(item)
         if not any(pattern in basename for pattern in keep_patterns):
@@ -400,11 +451,11 @@ def pretrain(model, train_data_generator, val_data_generator, vocab_size, config
                 val_loss, val_perplexity = evaluate_pretrain(model, val_dataset, loss_fn)
                 print(f"  [验证] Loss: {val_loss:.4f}, 困惑度: {val_perplexity:.2f}")
                 
-                # 只保存最佳模型
+                # 只保存最佳模型（双格式）
                 if val_loss < best_val_loss:
                     best_val_loss = val_loss
                     best_epoch = epoch + 1
-                    save_best_weights(model, "saved_model/pretrain_best", is_best=True)
+                    save_best_model(model, "saved_model/pretrain_best", is_best=True)
                     print(f"  ★ 新的最佳模型！Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
                 else:
                     print(f"  当前最佳: Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
@@ -422,11 +473,11 @@ def pretrain(model, train_data_generator, val_data_generator, vocab_size, config
         
     except KeyboardInterrupt:
         print("\n训练被用户中断，保存当前模型...")
-        save_model_weights(model, "saved_model/pretrain_interrupted")
+        save_model_dual_format(model, "saved_model/pretrain_interrupted")
         raise
     except Exception as e:
         print(f"训练出错: {e}")
-        save_model_weights(model, "saved_model/pretrain_error")
+        save_model_dual_format(model, "saved_model/pretrain_error")
         raise
 
 class SFTDataGenerator:
@@ -519,7 +570,6 @@ def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
             all_samples = SFTDataGenerator(train_jsonl_path, vocab, config).samples
             split_idx = int(len(all_samples) * 0.8)
             train_data_gen = SFTDataGenerator(train_jsonl_path, vocab, config, max_samples=split_idx)
-            # 这里简化处理，验证集从剩余部分取
             val_data_gen = SFTDataGenerator(train_jsonl_path, vocab, config)
         
         def sft_loss(y_true, y_pred, loss_mask):
@@ -592,11 +642,11 @@ def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
                 val_loss = evaluate_sft(model, val_dataset, sft_loss)
                 print(f"  [验证] Loss: {val_loss:.4f}")
                 
-                # 只保存最佳模型
+                # 只保存最佳模型（双格式）
                 if val_loss < best_val_loss:
                     best_val_loss = val_loss
                     best_epoch = epoch + 1
-                    save_best_weights(model, "saved_model/sft_best", is_best=True)
+                    save_best_model(model, "saved_model/sft_best", is_best=True)
                     print(f"  ★ 新的最佳模型！Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
                 else:
                     print(f"  当前最佳: Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
@@ -613,11 +663,11 @@ def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
         
     except KeyboardInterrupt:
         print("\n训练被用户中断，保存当前模型...")
-        save_model_weights(model, "saved_model/sft_interrupted")
+        save_model_dual_format(model, "saved_model/sft_interrupted")
         raise
     except Exception as e:
         print(f"训练出错: {e}")
-        save_model_weights(model, "saved_model/sft_error")
+        save_model_dual_format(model, "saved_model/sft_error")
         raise
 
 class DPODataGenerator:
@@ -812,11 +862,11 @@ def dpo_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
                 val_loss, val_acc = evaluate_dpo(model, ref_model, val_dataset, beta)
                 print(f"  [验证] Loss: {val_loss:.4f}, 准确率: {val_acc:.2%}")
                 
-                # 只保存最佳模型
+                # 只保存最佳模型（双格式）
                 if val_loss < best_val_loss:
                     best_val_loss = val_loss
                     best_epoch = epoch + 1
-                    save_best_weights(model, "saved_model/rl_best", is_best=True)
+                    save_best_model(model, "saved_model/rl_best", is_best=True)
                     print(f"  ★ 新的最佳模型！Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
                 else:
                     print(f"  当前最佳: Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
@@ -833,11 +883,11 @@ def dpo_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
         
     except KeyboardInterrupt:
         print("\n训练被用户中断，保存当前模型...")
-        save_model_weights(model, "saved_model/rl_interrupted")
+        save_model_dual_format(model, "saved_model/rl_interrupted")
         raise
     except Exception as e:
         print(f"训练出错: {e}")
-        save_model_weights(model, "saved_model/rl_error")
+        save_model_dual_format(model, "saved_model/rl_error")
         raise
 
 def load_vocab(json_path):
@@ -921,8 +971,8 @@ if __name__ == "__main__":
         print("\n" + "="*50)
         print("开始 SFT 微调")
         print("="*50)
-        # 使用新的加载方式
-        model = load_model_weights("saved_model/pretrain_final", vocab_size=len(vocab))
+        # 使用新的加载方式（从 .keras 格式加载）
+        model = load_model_keras("saved_model/pretrain_final")
         val_path = SFT_VAL_PATH if os.path.exists(SFT_VAL_PATH) else None
         sft_train(model, SFT_DATA_PATH, val_path, vocab, config)
     
@@ -930,7 +980,7 @@ if __name__ == "__main__":
         print("\n" + "="*50)
         print("开始 DPO 强化学习")
         print("="*50)
-        model = load_model_weights("saved_model/sft_final", vocab_size=len(vocab))
+        model = load_model_keras("saved_model/sft_final")
         val_path = RL_VAL_PATH if os.path.exists(RL_VAL_PATH) else None
         dpo_train(model, RL_DATA_PATH, val_path, vocab, config)
     
@@ -948,8 +998,10 @@ if __name__ == "__main__":
     
     print("\n" + "="*50)
     print("训练全部完成！最终可用模型：")
-    print("  - 预训练: saved_model/pretrain_final")
-    print("  - SFT微调: saved_model/sft_final")
-    print("  - DPO强化: saved_model/rl_final")
+    print("  - 预训练: saved_model/pretrain_final/")
+    print("    ├── model.keras      (Keras 3 格式，用于调试)")
+    print("    ├── savedmodel/      (SavedModel 格式，用于部署)")
+    print("    └── config.json      (模型配置)")
+    print("  - SFT微调: saved_model/sft_final/")
+    print("  - DPO强化: saved_model/rl_final/")
     print("="*50)
-
