@@ -35,16 +35,11 @@ class RotaryEmbedding(layers.Layer):
         self.head_dim = head_dim
         self.max_len = max_len
         self.base = base
-        self.inv_freq = None
-    
-    def build(self, input_shape):
-        dtype = self.dtype_policy.compute_dtype
-        self.inv_freq = 1.0 / (self.base ** (tf.range(0, self.head_dim, 2, dtype=dtype) / self.head_dim))
-        super().build(input_shape)
     
     def call(self, x, seq_len):
-        inv_freq = tf.cast(self.inv_freq, x.dtype)
-        positions = tf.range(seq_len, dtype=x.dtype)
+        dtype = x.dtype
+        inv_freq = 1.0 / (self.base ** (tf.range(0, self.head_dim, 2, dtype=dtype) / self.head_dim))
+        positions = tf.range(seq_len, dtype=dtype)
         angles = tf.einsum('i,j->ij', positions, inv_freq)
         angles = tf.repeat(angles, repeats=2, axis=-1)
         cos = tf.cos(angles)
@@ -56,6 +51,7 @@ class RotaryEmbedding(layers.Layer):
         cos = tf.reshape(cos, [1, 1, seq_len, self.head_dim])
         sin = tf.reshape(sin, [1, 1, seq_len, self.head_dim])
         return x * cos + rotated * sin
+
 
 class CustomLayerNorm(layers.Layer):
     supports_masking = True
