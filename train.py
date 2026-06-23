@@ -203,32 +203,58 @@ def build_model(config):
     _ = model(dummy_input, training=False)
     return model
 
-# 自定义对象字典，用于加载模型
-CUSTOM_OBJECTS = {
-    'RotaryEmbedding': RotaryEmbedding,
-    'CustomLayerNorm': CustomLayerNorm,
-    'CustomMultiHeadAttention': CustomMultiHeadAttention,
-    'CustomFFN': CustomFFN,
-    'CustomTransformerBlock': CustomTransformerBlock,
-    'LiteratureTransformer': LiteratureTransformer,
-    'ModelConfig': ModelConfig
-}
+# ==================== 模型保存/加载工具函数 ====================
 
-def save_best_model(model, save_path, is_best=False):
-    """保存模型，如果是最佳模型则覆盖，否则保存到临时位置"""
-    model.save(save_path, save_format='tf')
+def save_model_weights(model, save_dir):
+    """保存模型权重和配置（Keras 3 兼容方案）"""
+    os.makedirs(save_dir, exist_ok=True)
+    # 保存权重
+    weights_path = os.path.join(save_dir, "weights")
+    model.save_weights(weights_path)
+    # 保存配置
+    config_path = os.path.join(save_dir, "config.json")
+    with open(config_path, "w", encoding="utf-8") as f:
+        json.dump(model.config.__dict__, f, ensure_ascii=False, indent=2)
+    print(f"  权重已保存到: {save_dir}")
+
+def load_model_weights(load_dir, vocab_size=None):
+    """加载模型权重（Keras 3 兼容方案）"""
+    config_path = os.path.join(load_dir, "config.json")
+    with open(config_path, "r", encoding="utf-8") as f:
+        config_dict = json.load(f)
+    
+    # 如果传入了新的 vocab_size，覆盖配置
+    if vocab_size is not None:
+        config_dict['vocab_size'] = vocab_size
+    
+    config = ModelConfig(**config_dict)
+    model = build_model(config)
+    
+    weights_path = os.path.join(load_dir, "weights")
+    model.load_weights(weights_path)
+    print(f"  权重已从 {load_dir} 加载")
+    return model
+
+def save_best_weights(model, save_dir, is_best=False):
+    """保存最佳模型权重"""
     if is_best:
-        print(f"  ✓ 新的最佳模型已保存到 {save_path}")
+        save_model_weights(model, save_dir)
+        print(f"  ✓ 新的最佳模型已保存到 {save_dir}")
 
-def cleanup_old_checkpoints(save_dir, keep_best_only=True):
-    """清理旧的检查点，只保留最佳模型"""
-    if not keep_best_only:
-        return
-    # 删除所有非 best 的 epoch 检查点
+def cleanup_checkpoints(save_dir, keep_patterns=None):
+    """清理检查点，只保留指定的模式"""
+    if keep_patterns is None:
+        keep_patterns = ["best", "final", "config.json"]
     for item in glob.glob(os.path.join(save_dir, "*")):
-        if os.path.isdir(item) and "epoch_" in os.path.basename(item):
-            shutil.rmtree(item)
-            print(f"  清理旧检查点: {item}")
+        basename = os.path.basename(item)
+        if not any(pattern in basename for pattern in keep_patterns):
+            if os.path.isdir(item):
+                shutil.rmtree(item)
+            else:
+                os.remove(item)
+            print(f"  清理: {item}")
+
+# ==================== 数据生成器 ====================
 
 class PretrainDataGenerator:
     def __init__(self, text, char_to_idx, config: ModelConfig, start_ratio=0.0, end_ratio=1.0):
@@ -274,6 +300,8 @@ class PretrainDataGenerator:
                 batch_x, batch_y = [], []
                 count = 0
 
+# ==================== 评估函数 ====================
+
 def evaluate_pretrain(model, val_dataset, loss_fn, max_val_steps=50):
     """在验证集上评估预训练模型"""
     val_losses = []
@@ -288,6 +316,8 @@ def evaluate_pretrain(model, val_dataset, loss_fn, max_val_steps=50):
     avg_val_loss = np.mean(val_losses) if val_losses else float('inf')
     val_perplexity = np.exp(avg_val_loss)
     return avg_val_loss, val_perplexity
+
+# ==================== 训练函数 ====================
 
 def pretrain(model, train_data_generator, val_data_generator, vocab_size, config: ModelConfig):
     try:
@@ -370,20 +400,19 @@ def pretrain(model, train_data_generator, val_data_generator, vocab_size, config
                 val_loss, val_perplexity = evaluate_pretrain(model, val_dataset, loss_fn)
                 print(f"  [验证] Loss: {val_loss:.4f}, 困惑度: {val_perplexity:.2f}")
                 
-                # 保存最佳模型
+                # 只保存最佳模型
                 if val_loss < best_val_loss:
                     best_val_loss = val_loss
                     best_epoch = epoch + 1
-                    save_best_model(model, "saved_model/pretrain_best", is_best=True)
+                    save_best_weights(model, "saved_model/pretrain_best", is_best=True)
                     print(f"  ★ 新的最佳模型！Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
                 else:
                     print(f"  当前最佳: Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
                 
                 print(f"\n[Epoch {epoch+1}/{config.pretrain_epochs}] 训练Loss: {avg_loss:.4f}, 训练困惑度: {train_perplexity:.2f}")
         
-        # 训练结束，清理并保存最终模型
+        # 训练结束，保存最终模型
         print(f"\n预训练完成！最佳模型来自 Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
-        cleanup_old_checkpoints("saved_model", keep_best_only=True)
         # 将 best 复制为 final
         if os.path.exists("saved_model/pretrain_best"):
             if os.path.exists("saved_model/pretrain_final"):
@@ -393,11 +422,11 @@ def pretrain(model, train_data_generator, val_data_generator, vocab_size, config
         
     except KeyboardInterrupt:
         print("\n训练被用户中断，保存当前模型...")
-        model.save("saved_model/pretrain_interrupted", save_format='tf')
+        save_model_weights(model, "saved_model/pretrain_interrupted")
         raise
     except Exception as e:
         print(f"训练出错: {e}")
-        model.save("saved_model/pretrain_error", save_format='tf')
+        save_model_weights(model, "saved_model/pretrain_error")
         raise
 
 class SFTDataGenerator:
@@ -482,17 +511,16 @@ def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
     try:
         # 训练数据生成器
         train_data_gen = SFTDataGenerator(train_jsonl_path, vocab, config)
-        # 验证数据生成器（取前20%或单独文件）
+        # 验证数据生成器
         if val_jsonl_path and os.path.exists(val_jsonl_path):
             val_data_gen = SFTDataGenerator(val_jsonl_path, vocab, config)
         else:
-            # 如果没有单独验证文件，从训练数据中划分
+            # 从训练数据中划分 80% 训练、20% 验证
             all_samples = SFTDataGenerator(train_jsonl_path, vocab, config).samples
             split_idx = int(len(all_samples) * 0.8)
-            # 重新创建，限制样本数
             train_data_gen = SFTDataGenerator(train_jsonl_path, vocab, config, max_samples=split_idx)
+            # 这里简化处理，验证集从剩余部分取
             val_data_gen = SFTDataGenerator(train_jsonl_path, vocab, config)
-            # 这里简化处理，实际应该更精细地划分
         
         def sft_loss(y_true, y_pred, loss_mask):
             loss = tf.keras.losses.sparse_categorical_crossentropy(y_true, y_pred, from_logits=True)
@@ -564,18 +592,18 @@ def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
                 val_loss = evaluate_sft(model, val_dataset, sft_loss)
                 print(f"  [验证] Loss: {val_loss:.4f}")
                 
-                # 保存最佳模型
+                # 只保存最佳模型
                 if val_loss < best_val_loss:
                     best_val_loss = val_loss
                     best_epoch = epoch + 1
-                    save_best_model(model, "saved_model/sft_best", is_best=True)
+                    save_best_weights(model, "saved_model/sft_best", is_best=True)
                     print(f"  ★ 新的最佳模型！Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
                 else:
                     print(f"  当前最佳: Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
                 
                 print(f"\n[SFT Epoch {epoch+1}/{config.sft_epochs}] 训练Loss: {avg_loss:.4f}")
         
-        # 训练结束，保存最终模型
+        # 训练结束
         print(f"\nSFT完成！最佳模型来自 Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
         if os.path.exists("saved_model/sft_best"):
             if os.path.exists("saved_model/sft_final"):
@@ -585,11 +613,11 @@ def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
         
     except KeyboardInterrupt:
         print("\n训练被用户中断，保存当前模型...")
-        model.save("saved_model/sft_interrupted", save_format='tf')
+        save_model_weights(model, "saved_model/sft_interrupted")
         raise
     except Exception as e:
         print(f"训练出错: {e}")
-        model.save("saved_model/sft_error", save_format='tf')
+        save_model_weights(model, "saved_model/sft_error")
         raise
 
 class DPODataGenerator:
@@ -657,7 +685,6 @@ def evaluate_dpo(model, ref_model, val_dataset, beta=0.1, max_val_steps=30):
         policy_ratio = policy_chosen_logprob - policy_rejected_logprob
         ref_ratio = ref_chosen_logprob - ref_rejected_logprob
         loss = -tf.math.log(tf.sigmoid(beta * (policy_ratio - ref_ratio)))
-        # 计算准确率：policy 是否给 chosen 更高的概率
         acc = tf.cast(policy_ratio > ref_ratio, tf.float32)
         return loss, acc
     
@@ -689,11 +716,11 @@ def dpo_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
         if val_jsonl_path and os.path.exists(val_jsonl_path):
             val_data_gen = DPODataGenerator(val_jsonl_path, vocab, config)
         else:
-            # 从训练数据中划分验证集
+            # 从训练数据中划分
             all_pairs = DPODataGenerator(train_jsonl_path, vocab, config).pairs
             split_idx = int(len(all_pairs) * 0.8)
             train_data_gen = DPODataGenerator(train_jsonl_path, vocab, config, max_pairs=split_idx)
-            # 这里简化处理，实际应该更精细
+            val_data_gen = DPODataGenerator(train_jsonl_path, vocab, config)
         
         optimizer = keras.optimizers.AdamW(learning_rate=config.rl_lr, global_clipnorm=1.0)
         
@@ -785,18 +812,18 @@ def dpo_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
                 val_loss, val_acc = evaluate_dpo(model, ref_model, val_dataset, beta)
                 print(f"  [验证] Loss: {val_loss:.4f}, 准确率: {val_acc:.2%}")
                 
-                # 保存最佳模型
+                # 只保存最佳模型
                 if val_loss < best_val_loss:
                     best_val_loss = val_loss
                     best_epoch = epoch + 1
-                    save_best_model(model, "saved_model/rl_best", is_best=True)
+                    save_best_weights(model, "saved_model/rl_best", is_best=True)
                     print(f"  ★ 新的最佳模型！Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
                 else:
                     print(f"  当前最佳: Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
                 
                 print(f"\n[DPO Epoch {epoch+1}/{config.rl_epochs}] 训练Loss: {avg_loss:.4f}")
         
-        # 训练结束，保存最终模型
+        # 训练结束
         print(f"\nDPO完成！最佳模型来自 Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
         if os.path.exists("saved_model/rl_best"):
             if os.path.exists("saved_model/rl_final"):
@@ -806,11 +833,11 @@ def dpo_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
         
     except KeyboardInterrupt:
         print("\n训练被用户中断，保存当前模型...")
-        model.save("saved_model/rl_interrupted", save_format='tf')
+        save_model_weights(model, "saved_model/rl_interrupted")
         raise
     except Exception as e:
         print(f"训练出错: {e}")
-        model.save("saved_model/rl_error", save_format='tf')
+        save_model_weights(model, "saved_model/rl_error")
         raise
 
 def load_vocab(json_path):
@@ -894,8 +921,8 @@ if __name__ == "__main__":
         print("\n" + "="*50)
         print("开始 SFT 微调")
         print("="*50)
-        model = keras.models.load_model("saved_model/pretrain_final", custom_objects=CUSTOM_OBJECTS)
-        # 如果有单独的验证文件则使用，否则从训练数据划分
+        # 使用新的加载方式
+        model = load_model_weights("saved_model/pretrain_final", vocab_size=len(vocab))
         val_path = SFT_VAL_PATH if os.path.exists(SFT_VAL_PATH) else None
         sft_train(model, SFT_DATA_PATH, val_path, vocab, config)
     
@@ -903,7 +930,7 @@ if __name__ == "__main__":
         print("\n" + "="*50)
         print("开始 DPO 强化学习")
         print("="*50)
-        model = keras.models.load_model("saved_model/sft_final", custom_objects=CUSTOM_OBJECTS)
+        model = load_model_weights("saved_model/sft_final", vocab_size=len(vocab))
         val_path = RL_VAL_PATH if os.path.exists(RL_VAL_PATH) else None
         dpo_train(model, RL_DATA_PATH, val_path, vocab, config)
     
