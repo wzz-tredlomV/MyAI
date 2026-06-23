@@ -35,11 +35,20 @@ class RotaryEmbedding(layers.Layer):
         self.head_dim = head_dim
         self.max_len = max_len
         self.base = base
-        self.inv_freq = 1.0 / (self.base ** (tf.range(0, head_dim, 2, dtype=tf.float32) / head_dim))
+        # 不在这里创建 inv_freq，而是在 build 中创建，这样可以跟随策略的 dtype
+        self.inv_freq = None
+    
+    def build(self, input_shape):
+        # 使用 self.dtype_policy 来确保 dtype 一致
+        dtype = self.dtype_policy.compute_dtype
+        self.inv_freq = 1.0 / (self.base ** (tf.range(0, self.head_dim, 2, dtype=dtype) / self.head_dim))
+        super().build(input_shape)
     
     def call(self, x, seq_len):
-        positions = tf.range(seq_len, dtype=tf.float32)
-        angles = tf.einsum('i,j->ij', positions, self.inv_freq)
+        # 确保 inv_freq 与输入 x 同类型
+        inv_freq = tf.cast(self.inv_freq, x.dtype)
+        positions = tf.range(seq_len, dtype=x.dtype)
+        angles = tf.einsum('i,j->ij', positions, inv_freq)
         angles = tf.repeat(angles, repeats=2, axis=-1)
         cos = tf.cos(angles)
         sin = tf.sin(angles)
@@ -198,6 +207,15 @@ class LiteratureTransformer(keras.Model):
         if "config" in config and isinstance(config["config"], dict):
             return cls(ModelConfig(**config["config"]))
         return cls(ModelConfig(**config))
+    
+    # 添加 build_config 相关方法以消除警告
+    def get_build_config(self):
+        return {"input_shape": [None, self.config.seq_len]}
+    
+    def build_from_config(self, config):
+        if config and "input_shape" in config:
+            dummy_input = tf.keras.Input(shape=config["input_shape"][1:], dtype=tf.int32)
+            self(dummy_input)
 
 def build_model(config):
     model = LiteratureTransformer(config)
@@ -796,7 +814,7 @@ def dpo_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
         val_dataset = tf.data.Dataset.from_generator(
             val_data_gen, 
             output_signature=(
-                tf.TensorSpec(shape=(None,), dtype=tf.int32), 
+                tf.TensorSpec shape=(None,), dtype=tf.int32), 
                 tf.TensorSpec(shape=(None,), dtype=tf.int32)
             )
         )
