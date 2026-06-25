@@ -9,6 +9,7 @@ import numpy as np
 from dataclasses import dataclass
 from tqdm import tqdm
 import shutil
+register_keras_serializable = tf.keras.utils.register_keras_serializable
 
 # ============================================================
 # 注册所有自定义对象（Keras 3 推荐做法，加载时无需手动传 custom_objects）
@@ -41,7 +42,7 @@ class ModelConfig:
         return cls(**d)
 
 
-@keras.saving.register_keras_serializable(package="MyAI")
+@register_keras_serializable(package="MyAI")
 class RotaryEmbedding(layers.Layer):
     def __init__(self, head_dim, max_len=2048, base=10000.0, **kwargs):
         super().__init__(**kwargs)
@@ -94,7 +95,7 @@ class RotaryEmbedding(layers.Layer):
         return cls(**config)
 
 
-@keras.saving.register_keras_serializable(package="MyAI")
+@register_keras_serializable(package="MyAI")
 class CustomLayerNorm(layers.Layer):
     supports_masking = True
 
@@ -138,7 +139,7 @@ def gelu(x):
     return x * cdf
 
 
-@keras.saving.register_keras_serializable(package="MyAI")
+@register_keras_serializable(package="MyAI")
 class CustomMultiHeadAttention(layers.Layer):
     supports_masking = True
 
@@ -242,7 +243,7 @@ class CustomMultiHeadAttention(layers.Layer):
         return cls(**config)
 
 
-@keras.saving.register_keras_serializable(package="MyAI")
+@register_keras_serializable(package="MyAI")
 class CustomFFN(layers.Layer):
     supports_masking = True
 
@@ -301,7 +302,7 @@ class CustomFFN(layers.Layer):
         return cls(**config)
 
 
-@keras.saving.register_keras_serializable(package="MyAI")
+@register_keras_serializable(package="MyAI")
 class CustomTransformerBlock(layers.Layer):
     supports_masking = True
 
@@ -346,7 +347,7 @@ class CustomTransformerBlock(layers.Layer):
         return cls(**config)
 
 
-@keras.saving.register_keras_serializable(package="MyAI")
+@register_keras_serializable(package="MyAI")
 class LiteratureTransformer(keras.Model):
     def __init__(self, config: ModelConfig, **kwargs):
         super().__init__(**kwargs)
