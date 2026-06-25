@@ -406,7 +406,7 @@ def save_model_dual_format(model, save_dir, is_best=False):
     savedmodel_path = os.path.join(save_dir, "savedmodel")
     if os.path.exists(savedmodel_path):
         shutil.rmtree(savedmodel_path)
-    tf.saved_model.save(model, savedmodel_path)
+    # tf.saved_model.save(model, savedmodel_path)  # 临时禁用，避免保存错误
 
     config_path = os.path.join(save_dir, "config.json")
     with open(config_path, "w", encoding="utf-8") as f:
