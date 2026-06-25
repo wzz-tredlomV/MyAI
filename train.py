@@ -516,8 +516,6 @@ def pretrain(model, train_data_generator, val_data_generator, vocab_size, config
             weight_decay=config.weight_decay,
             global_clipnorm=1.0
         )
-        # Mixed precision 自定义训练循环需要 LossScaleOptimizer
-        optimizer = keras.mixed_precision.LossScaleOptimizer(optimizer)
 
         loss_fn = keras.losses.SparseCategoricalCrossentropy(from_logits=True, ignore_class=0)
 
@@ -563,9 +561,8 @@ def pretrain(model, train_data_generator, val_data_generator, vocab_size, config
                     with tf.GradientTape() as tape:
                         logits = model(x, training=True)
                         loss = loss_fn(y, logits)
-                        scaled_loss = optimizer.get_scaled_loss(loss)
-                    grads = tape.gradient(scaled_loss, model.trainable_variables)
-                    grads = optimizer.get_unscaled_gradients(grads)
+                    grads = tape.gradient(loss, model.trainable_variables)
+                    
                     optimizer.apply_gradients(zip(grads, model.trainable_variables))
                     loss_val = loss.numpy()
                     epoch_losses.append(loss_val)
