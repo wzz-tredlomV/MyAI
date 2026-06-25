@@ -37,9 +37,7 @@ class RotaryEmbedding(layers.Layer):
         self.base = base
     
     def call(self, x, seq_len):
-        # tf.range 不支持 float16，先用 float32 计算，再转换
         inv_freq = 1.0 / (self.base ** (tf.range(0, self.head_dim, 2, dtype=tf.float32) / tf.cast(self.head_dim, tf.float32)))
-        # 转换为与输入 x 相同的 dtype（float16 或 float32）
         inv_freq = tf.cast(inv_freq, x.dtype)
         positions = tf.range(seq_len, dtype=x.dtype)
         angles = tf.einsum('i,j->ij', positions, inv_freq)
@@ -537,7 +535,7 @@ def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
         val_dataset = tf.data.Dataset.from_generator(
             val_data_gen, 
             output_signature=(
-                tf.TensorSpec shape=(config.batch_size, config.seq_len), dtype=tf.int32), 
+                tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32), 
                 tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32), 
                 tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.float32)
             )
