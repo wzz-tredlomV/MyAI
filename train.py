@@ -10,6 +10,10 @@ from dataclasses import dataclass
 from tqdm import tqdm
 import shutil
 
+# ============================================================
+# 注册所有自定义对象（Keras 3 推荐做法，加载时无需手动传 custom_objects）
+# ============================================================
+
 @dataclass
 class ModelConfig:
     vocab_size: int = 5000
@@ -29,21 +33,45 @@ class ModelConfig:
     rl_epochs: int = 5
     steps_per_epoch: int = 300
 
+    def to_dict(self):
+        return self.__dict__
+
+    @classmethod
+    def from_dict(cls, d):
+        return cls(**d)
+
+
+@keras.saving.register_keras_serializable(package="MyAI")
 class RotaryEmbedding(layers.Layer):
     def __init__(self, head_dim, max_len=2048, base=10000.0, **kwargs):
         super().__init__(**kwargs)
         self.head_dim = head_dim
         self.max_len = max_len
         self.base = base
-    
-    def call(self, x, seq_len):
+
+    def build(self, input_shape):
+        # 预计算并缓存旋转编码（使用 float32 避免 mixed precision 问题）
         inv_freq = 1.0 / (self.base ** (tf.range(0, self.head_dim, 2, dtype=tf.float32) / tf.cast(self.head_dim, tf.float32)))
-        inv_freq = tf.cast(inv_freq, x.dtype)
-        positions = tf.range(seq_len, dtype=x.dtype)
+        self.inv_freq = inv_freq  # 作为不可训练变量缓存
+
+        positions = tf.range(self.max_len, dtype=tf.float32)
         angles = tf.einsum('i,j->ij', positions, inv_freq)
         angles = tf.repeat(angles, repeats=2, axis=-1)
-        cos = tf.cos(angles)
-        sin = tf.sin(angles)
+        self.cos_cache = tf.cos(angles)
+        self.sin_cache = tf.sin(angles)
+        super().build(input_shape)
+
+    def call(self, x, seq_len=None):
+        # x: [batch, num_heads, seq_len, head_dim]
+        if seq_len is None:
+            seq_len = tf.shape(x)[2]
+
+        # 使用 float32 计算，最后 cast 回输入 dtype
+        cos = self.cos_cache[:seq_len]
+        sin = self.sin_cache[:seq_len]
+        cos = tf.cast(cos, x.dtype)
+        sin = tf.cast(sin, x.dtype)
+
         x1 = x[..., 0::2]
         x2 = x[..., 1::2]
         rotated = tf.stack([-x2, x1], axis=-1)
@@ -52,31 +80,68 @@ class RotaryEmbedding(layers.Layer):
         sin = tf.reshape(sin, [1, 1, seq_len, self.head_dim])
         return x * cos + rotated * sin
 
+    def get_config(self):
+        config = super().get_config()
+        config.update({
+            "head_dim": self.head_dim,
+            "max_len": self.max_len,
+            "base": self.base,
+        })
+        return config
+
+    @classmethod
+    def from_config(cls, config):
+        return cls(**config)
+
+
+@keras.saving.register_keras_serializable(package="MyAI")
 class CustomLayerNorm(layers.Layer):
     supports_masking = True
-    
+
     def __init__(self, epsilon=1e-6, **kwargs):
         super().__init__(**kwargs)
         self.epsilon = epsilon
-    
+
     def build(self, input_shape):
-        self.gamma = self.add_weight(name='gamma', shape=input_shape[-1:], initializer='ones', trainable=True)
-        self.beta = self.add_weight(name='beta', shape=input_shape[-1:], initializer='zeros', trainable=True)
+        self.gamma = self.add_weight(
+            name='gamma',
+            shape=input_shape[-1:],
+            initializer='ones',
+            trainable=True
+        )
+        self.beta = self.add_weight(
+            name='beta',
+            shape=input_shape[-1:],
+            initializer='zeros',
+            trainable=True
+        )
         super().build(input_shape)
-    
+
     def call(self, x):
         mean = tf.reduce_mean(x, axis=-1, keepdims=True)
         var = tf.reduce_mean(tf.square(x - mean), axis=-1, keepdims=True)
         normalized = (x - mean) / tf.sqrt(var + self.epsilon)
         return self.gamma * normalized + self.beta
 
+    def get_config(self):
+        config = super().get_config()
+        config.update({"epsilon": self.epsilon})
+        return config
+
+    @classmethod
+    def from_config(cls, config):
+        return cls(**config)
+
+
 def gelu(x):
     cdf = 0.5 * (1.0 + tf.tanh(tf.sqrt(2.0 / np.pi) * (x + 0.044715 * tf.pow(x, 3))))
     return x * cdf
 
+
+@keras.saving.register_keras_serializable(package="MyAI")
 class CustomMultiHeadAttention(layers.Layer):
     supports_masking = True
-    
+
     def __init__(self, embed_dim, num_heads, dropout=0.1, **kwargs):
         super().__init__(**kwargs)
         assert embed_dim % num_heads == 0
@@ -84,34 +149,65 @@ class CustomMultiHeadAttention(layers.Layer):
         self.num_heads = num_heads
         self.head_dim = embed_dim // num_heads
         self.scale = tf.sqrt(tf.cast(self.head_dim, tf.float32))
-        self.wq = self.add_weight(name='wq', shape=(embed_dim, embed_dim), initializer='glorot_uniform', trainable=True)
-        self.wk = self.add_weight(name='wk', shape=(embed_dim, embed_dim), initializer='glorot_uniform', trainable=True)
-        self.wv = self.add_weight(name='wv', shape=(embed_dim, embed_dim), initializer='glorot_uniform', trainable=True)
-        self.wo = self.add_weight(name='wo', shape=(embed_dim, embed_dim), initializer='glorot_uniform', trainable=True)
-        self.dropout = layers.Dropout(dropout)
+        self.dropout_rate = dropout
+
+    def build(self, input_shape):
+        self.wq = self.add_weight(
+            name='wq',
+            shape=(self.embed_dim, self.embed_dim),
+            initializer='glorot_uniform',
+            trainable=True
+        )
+        self.wk = self.add_weight(
+            name='wk',
+            shape=(self.embed_dim, self.embed_dim),
+            initializer='glorot_uniform',
+            trainable=True
+        )
+        self.wv = self.add_weight(
+            name='wv',
+            shape=(self.embed_dim, self.embed_dim),
+            initializer='glorot_uniform',
+            trainable=True
+        )
+        self.wo = self.add_weight(
+            name='wo',
+            shape=(self.embed_dim, self.embed_dim),
+            initializer='glorot_uniform',
+            trainable=True
+        )
+        self.dropout = layers.Dropout(self.dropout_rate)
         self.rotary = RotaryEmbedding(self.head_dim)
-    
+        super().build(input_shape)
+
     def call(self, x, training=False, attention_mask=None, use_causal_mask=False):
         batch_size = tf.shape(x)[0]
         seq_len = tf.shape(x)[1]
+
         q = tf.matmul(x, self.wq)
         k = tf.matmul(x, self.wk)
         v = tf.matmul(x, self.wv)
+
         q = tf.reshape(q, [batch_size, seq_len, self.num_heads, self.head_dim])
         k = tf.reshape(k, [batch_size, seq_len, self.num_heads, self.head_dim])
         v = tf.reshape(v, [batch_size, seq_len, self.num_heads, self.head_dim])
+
         q = tf.transpose(q, [0, 2, 1, 3])
         k = tf.transpose(k, [0, 2, 1, 3])
         v = tf.transpose(v, [0, 2, 1, 3])
+
         q = self.rotary(q, seq_len)
         k = self.rotary(k, seq_len)
+
         scores = tf.matmul(q, k, transpose_b=True) / self.scale
+
         combined_mask = None
         if use_causal_mask:
             causal_mask = tf.linalg.band_part(tf.ones((seq_len, seq_len), dtype=tf.bool), -1, 0)
             causal_mask = tf.logical_not(causal_mask)
             causal_mask = tf.reshape(causal_mask, [1, 1, seq_len, seq_len])
             combined_mask = causal_mask
+
         if attention_mask is not None:
             padding_mask = tf.cast(tf.equal(attention_mask, 0), tf.bool)
             padding_mask = tf.reshape(padding_mask, [batch_size, 1, 1, seq_len])
@@ -119,29 +215,71 @@ class CustomMultiHeadAttention(layers.Layer):
                 combined_mask = padding_mask
             else:
                 combined_mask = tf.logical_or(combined_mask, padding_mask)
+
         if combined_mask is not None:
             scores = tf.where(combined_mask, tf.float32.min, scores)
+
         attn_weights = tf.nn.softmax(scores, axis=-1)
         attn_weights = self.dropout(attn_weights, training=training)
         attn_output = tf.matmul(attn_weights, v)
+
         attn_output = tf.transpose(attn_output, [0, 2, 1, 3])
         attn_output = tf.reshape(attn_output, [batch_size, seq_len, self.embed_dim])
         output = tf.matmul(attn_output, self.wo)
         return output
 
+    def get_config(self):
+        config = super().get_config()
+        config.update({
+            "embed_dim": self.embed_dim,
+            "num_heads": self.num_heads,
+            "dropout": self.dropout_rate,
+        })
+        return config
+
+    @classmethod
+    def from_config(cls, config):
+        return cls(**config)
+
+
+@keras.saving.register_keras_serializable(package="MyAI")
 class CustomFFN(layers.Layer):
     supports_masking = True
-    
+
     def __init__(self, embed_dim, hidden_dim, dropout=0.1, **kwargs):
         super().__init__(**kwargs)
         self.embed_dim = embed_dim
         self.hidden_dim = hidden_dim
-        self.w1 = self.add_weight(name='w1', shape=(embed_dim, hidden_dim), initializer='glorot_uniform', trainable=True)
-        self.b1 = self.add_weight(name='b1', shape=(hidden_dim,), initializer='zeros', trainable=True)
-        self.w2 = self.add_weight(name='w2', shape=(hidden_dim, embed_dim), initializer='glorot_uniform', trainable=True)
-        self.b2 = self.add_weight(name='b2', shape=(embed_dim,), initializer='zeros', trainable=True)
-        self.dropout = layers.Dropout(dropout)
-    
+        self.dropout_rate = dropout
+
+    def build(self, input_shape):
+        self.w1 = self.add_weight(
+            name='w1',
+            shape=(self.embed_dim, self.hidden_dim),
+            initializer='glorot_uniform',
+            trainable=True
+        )
+        self.b1 = self.add_weight(
+            name='b1',
+            shape=(self.hidden_dim,),
+            initializer='zeros',
+            trainable=True
+        )
+        self.w2 = self.add_weight(
+            name='w2',
+            shape=(self.hidden_dim, self.embed_dim),
+            initializer='glorot_uniform',
+            trainable=True
+        )
+        self.b2 = self.add_weight(
+            name='b2',
+            shape=(self.embed_dim,),
+            initializer='zeros',
+            trainable=True
+        )
+        self.dropout = layers.Dropout(self.dropout_rate)
+        super().build(input_shape)
+
     def call(self, x, training=False):
         hidden = tf.matmul(x, self.w1) + self.b1
         hidden = gelu(hidden)
@@ -149,29 +287,66 @@ class CustomFFN(layers.Layer):
         output = tf.matmul(hidden, self.w2) + self.b2
         return output
 
+    def get_config(self):
+        config = super().get_config()
+        config.update({
+            "embed_dim": self.embed_dim,
+            "hidden_dim": self.hidden_dim,
+            "dropout": self.dropout_rate,
+        })
+        return config
+
+    @classmethod
+    def from_config(cls, config):
+        return cls(**config)
+
+
+@keras.saving.register_keras_serializable(package="MyAI")
 class CustomTransformerBlock(layers.Layer):
     supports_masking = True
-    
+
     def __init__(self, embed_dim, num_heads, dropout=0.1, **kwargs):
         super().__init__(**kwargs)
+        self.embed_dim = embed_dim
+        self.num_heads = num_heads
+        self.dropout_rate = dropout
+
+    def build(self, input_shape):
         self.ln1 = CustomLayerNorm()
-        self.attn = CustomMultiHeadAttention(embed_dim, num_heads, dropout)
-        self.dropout1 = layers.Dropout(dropout)
+        self.attn = CustomMultiHeadAttention(self.embed_dim, self.num_heads, self.dropout_rate)
+        self.dropout1 = layers.Dropout(self.dropout_rate)
         self.ln2 = CustomLayerNorm()
-        self.ffn = CustomFFN(embed_dim, embed_dim * 4, dropout)
-        self.dropout2 = layers.Dropout(dropout)
-    
+        self.ffn = CustomFFN(self.embed_dim, self.embed_dim * 4, self.dropout_rate)
+        self.dropout2 = layers.Dropout(self.dropout_rate)
+        super().build(input_shape)
+
     def call(self, x, training=False, attention_mask=None, use_causal_mask=False):
         normed = self.ln1(x)
         attn_out = self.attn(normed, training=training, attention_mask=attention_mask, use_causal_mask=use_causal_mask)
         attn_out = self.dropout1(attn_out, training=training)
         x = x + attn_out
+
         normed = self.ln2(x)
         ffn_out = self.ffn(normed, training=training)
         ffn_out = self.dropout2(ffn_out, training=training)
         x = x + ffn_out
         return x
 
+    def get_config(self):
+        config = super().get_config()
+        config.update({
+            "embed_dim": self.embed_dim,
+            "num_heads": self.num_heads,
+            "dropout": self.dropout_rate,
+        })
+        return config
+
+    @classmethod
+    def from_config(cls, config):
+        return cls(**config)
+
+
+@keras.saving.register_keras_serializable(package="MyAI")
 class LiteratureTransformer(keras.Model):
     def __init__(self, config: ModelConfig, **kwargs):
         super().__init__(**kwargs)
@@ -179,6 +354,13 @@ class LiteratureTransformer(keras.Model):
         self.token_embed = layers.Embedding(config.vocab_size, config.embed_dim)
         self.dropout = layers.Dropout(config.dropout)
         self.blocks = [CustomTransformerBlock(config.embed_dim, config.num_heads, config.dropout) for _ in range(config.num_layers)]
+
+    def build(self, input_shape):
+        # 显式构建所有子层
+        self.token_embed.build(input_shape)
+        for block in self.blocks:
+            block.build([None, self.config.seq_len, self.config.embed_dim])
+        super().build(input_shape)
 
     def call(self, x, training=False):
         inputs = x
@@ -191,46 +373,44 @@ class LiteratureTransformer(keras.Model):
         return tf.matmul(x, self.token_embed.embeddings, transpose_b=True)
 
     def get_config(self):
-        return {"config": self.config.__dict__}
+        config = super().get_config()
+        config.update({
+            "config": self.config.to_dict(),
+        })
+        return config
 
     @classmethod
     def from_config(cls, config):
         if "config" in config and isinstance(config["config"], dict):
-            return cls(ModelConfig(**config["config"]))
+            return cls(ModelConfig.from_dict(config["config"]))
         return cls(ModelConfig(**config))
-    
+
     def get_build_config(self):
         return {"input_shape": [None, self.config.seq_len]}
-    
+
     def build_from_config(self, config):
         if config and "input_shape" in config:
             dummy_input = tf.keras.Input(shape=config["input_shape"][1:], dtype=tf.int32)
             self(dummy_input)
 
-def build_model(config):
-    model = LiteratureTransformer(config)
-    dummy_len = max(config.seq_len, 16)
-    dummy_input = tf.constant([list(range(min(config.vocab_size, dummy_len)))], dtype=tf.int32)
-    _ = model(dummy_input, training=False)
-    return model
 
 # ==================== 模型保存/加载工具函数 ====================
 
 def save_model_dual_format(model, save_dir, is_best=False):
     os.makedirs(save_dir, exist_ok=True)
-    
+
     keras_path = os.path.join(save_dir, "model.keras")
     model.save(keras_path)
-    
+
     savedmodel_path = os.path.join(save_dir, "savedmodel")
     if os.path.exists(savedmodel_path):
         shutil.rmtree(savedmodel_path)
     tf.saved_model.save(model, savedmodel_path)
-    
+
     config_path = os.path.join(save_dir, "config.json")
     with open(config_path, "w", encoding="utf-8") as f:
-        json.dump(model.config.__dict__, f, ensure_ascii=False, indent=2)
-    
+        json.dump(model.config.to_dict(), f, ensure_ascii=False, indent=2)
+
     if is_best:
         print(f"  ✓ 新的最佳模型已保存到 {save_dir}")
         print(f"    - .keras: {keras_path}")
@@ -238,28 +418,22 @@ def save_model_dual_format(model, save_dir, is_best=False):
     else:
         print(f"  模型已保存到 {save_dir}")
 
+
 def load_model_keras(load_dir, vocab_size=None):
     keras_path = os.path.join(load_dir, "model.keras")
     if not os.path.exists(keras_path):
         raise FileNotFoundError(f"找不到 .keras 模型文件: {keras_path}")
-    
-    custom_objects = {
-        'RotaryEmbedding': RotaryEmbedding,
-        'CustomLayerNorm': CustomLayerNorm,
-        'CustomMultiHeadAttention': CustomMultiHeadAttention,
-        'CustomFFN': CustomFFN,
-        'CustomTransformerBlock': CustomTransformerBlock,
-        'LiteratureTransformer': LiteratureTransformer,
-        'ModelConfig': ModelConfig
-    }
-    
-    model = keras.models.load_model(keras_path, custom_objects=custom_objects)
+
+    # Keras 3 中注册了自定义对象后，无需再传 custom_objects
+    model = keras.models.load_model(keras_path)
     print(f"  .keras 模型已从 {keras_path} 加载")
     return model
+
 
 def save_best_model(model, save_dir, is_best=False):
     if is_best:
         save_model_dual_format(model, save_dir, is_best=True)
+
 
 # ==================== 数据生成器 ====================
 
@@ -271,24 +445,24 @@ class PretrainDataGenerator:
         self.unk_id = char_to_idx.get('<|unk|>', 3)
         self.ids = self._encode_text(text)
         stride = config.seq_len // 4
-        
+
         total_len = len(self.ids)
         start_idx = int(total_len * start_ratio)
         end_idx = int(total_len * end_ratio)
         self.ids = self.ids[start_idx:end_idx]
-        
+
         self.indices = list(range(0, len(self.ids) - config.seq_len, stride))
         self.num_samples = len(self.indices)
-    
+
     def _encode_text(self, text):
         ids = []
         for ch in text:
             ids.append(self.char_to_idx.get(ch, self.unk_id))
         return np.array(ids, dtype=np.int32)
-    
+
     def __len__(self):
         return self.num_samples // self.config.batch_size
-    
+
     def __call__(self):
         batch_x, batch_y = [], []
         count = 0
@@ -306,6 +480,7 @@ class PretrainDataGenerator:
                 batch_x, batch_y = [], []
                 count = 0
 
+
 # ==================== 评估函数 ====================
 
 def evaluate_pretrain(model, val_dataset, loss_fn, max_val_steps=50):
@@ -322,56 +497,61 @@ def evaluate_pretrain(model, val_dataset, loss_fn, max_val_steps=50):
     val_perplexity = np.exp(avg_val_loss)
     return avg_val_loss, val_perplexity
 
+
 # ==================== 训练函数 ====================
 
 def pretrain(model, train_data_generator, val_data_generator, vocab_size, config: ModelConfig):
     try:
         policy = keras.mixed_precision.Policy('mixed_float16')
         keras.mixed_precision.set_global_policy(policy)
+
         lr_schedule = keras.optimizers.schedules.CosineDecay(
-            initial_learning_rate=config.pretrain_lr, 
-            decay_steps=config.steps_per_epoch * config.pretrain_epochs, 
+            initial_learning_rate=config.pretrain_lr,
+            decay_steps=config.steps_per_epoch * config.pretrain_epochs,
             alpha=1e-6
         )
         optimizer = keras.optimizers.AdamW(
-            learning_rate=lr_schedule, 
-            weight_decay=config.weight_decay, 
+            learning_rate=lr_schedule,
+            weight_decay=config.weight_decay,
             global_clipnorm=1.0
         )
+        # Mixed precision 自定义训练循环需要 LossScaleOptimizer
+        optimizer = keras.mixed_precision.LossScaleOptimizer(optimizer)
+
         loss_fn = keras.losses.SparseCategoricalCrossentropy(from_logits=True, ignore_class=0)
-        
+
         train_dataset = tf.data.Dataset.from_generator(
-            train_data_generator, 
+            train_data_generator,
             output_signature=(
-                tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32), 
+                tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32),
                 tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32)
             )
         )
         train_dataset = train_dataset.prefetch(tf.data.AUTOTUNE)
-        
+
         val_dataset = tf.data.Dataset.from_generator(
-            val_data_generator, 
+            val_data_generator,
             output_signature=(
-                tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32), 
+                tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32),
                 tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32)
             )
         )
         val_dataset = val_dataset.prefetch(tf.data.AUTOTUNE)
-        
+
         total_samples = len(train_data_generator)
         actual_steps_per_epoch = min(config.steps_per_epoch, total_samples)
         total_steps = actual_steps_per_epoch * config.pretrain_epochs
-        
+
         best_val_loss = float('inf')
         best_epoch = 0
-        
+
         with tqdm(total=total_steps, desc="预训练总进度", unit="step", position=0, leave=True) as total_pbar:
             for epoch in range(config.pretrain_epochs):
                 epoch_pbar = tqdm(
-                    total=actual_steps_per_epoch, 
-                    desc=f"Epoch {epoch+1}/{config.pretrain_epochs}", 
-                    unit="step", 
-                    position=1, 
+                    total=actual_steps_per_epoch,
+                    desc=f"Epoch {epoch+1}/{config.pretrain_epochs}",
+                    unit="step",
+                    position=1,
                     leave=False
                 )
                 epoch_losses = []
@@ -382,25 +562,27 @@ def pretrain(model, train_data_generator, val_data_generator, vocab_size, config
                     with tf.GradientTape() as tape:
                         logits = model(x, training=True)
                         loss = loss_fn(y, logits)
-                    grads = tape.gradient(loss, model.trainable_variables)
+                        scaled_loss = optimizer.get_scaled_loss(loss)
+                    grads = tape.gradient(scaled_loss, model.trainable_variables)
+                    grads = optimizer.get_unscaled_gradients(grads)
                     optimizer.apply_gradients(zip(grads, model.trainable_variables))
                     loss_val = loss.numpy()
                     epoch_losses.append(loss_val)
                     step += 1
-                    
+
                     epoch_pbar.update(1)
                     epoch_pbar.set_postfix(loss=f"{loss_val:.4f}")
                     total_pbar.update(1)
                     total_pbar.set_postfix(epoch=f"{epoch+1}", loss=f"{loss_val:.4f}")
-                
+
                 epoch_pbar.close()
                 avg_loss = np.mean(epoch_losses) if epoch_losses else 0
                 train_perplexity = np.exp(avg_loss)
-                
+
                 print(f"\n  正在验证 Epoch {epoch+1}...")
                 val_loss, val_perplexity = evaluate_pretrain(model, val_dataset, loss_fn)
                 print(f"  [验证] Loss: {val_loss:.4f}, 困惑度: {val_perplexity:.2f}")
-                
+
                 if val_loss < best_val_loss:
                     best_val_loss = val_loss
                     best_epoch = epoch + 1
@@ -408,16 +590,16 @@ def pretrain(model, train_data_generator, val_data_generator, vocab_size, config
                     print(f"  ★ 新的最佳模型！Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
                 else:
                     print(f"  当前最佳: Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
-                
+
                 print(f"\n[Epoch {epoch+1}/{config.pretrain_epochs}] 训练Loss: {avg_loss:.4f}, 训练困惑度: {train_perplexity:.2f}")
-        
+
         print(f"\n预训练完成！最佳模型来自 Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
         if os.path.exists("saved_model/pretrain_best"):
             if os.path.exists("saved_model/pretrain_final"):
                 shutil.rmtree("saved_model/pretrain_final")
             shutil.copytree("saved_model/pretrain_best", "saved_model/pretrain_final")
             print("最佳模型已保存为 pretrain_final")
-        
+
     except KeyboardInterrupt:
         print("\n训练被用户中断，保存当前模型...")
         save_model_dual_format(model, "saved_model/pretrain_interrupted")
@@ -426,6 +608,7 @@ def pretrain(model, train_data_generator, val_data_generator, vocab_size, config
         print(f"训练出错: {e}")
         save_model_dual_format(model, "saved_model/pretrain_error")
         raise
+
 
 class SFTDataGenerator:
     def __init__(self, jsonl_path, vocab, config: ModelConfig, max_samples=None):
@@ -438,7 +621,7 @@ class SFTDataGenerator:
         self.user_id = vocab.get('<|user|>', 4)
         self.bot_id = vocab.get('<|bot|>', 5)
         self.samples = self._load_data(jsonl_path, max_samples)
-    
+
     def _load_data(self, path, max_samples=None):
         samples = []
         with open(path, 'r', encoding='utf-8') as f:
@@ -451,7 +634,7 @@ class SFTDataGenerator:
                     if max_samples and len(samples) >= max_samples:
                         break
         return samples
-    
+
     def _encode(self, prompt, response):
         prompt_ids = [self.bos_id, self.user_id]
         for ch in prompt:
@@ -462,10 +645,10 @@ class SFTDataGenerator:
             response_ids.append(self.vocab.get(ch, self.unk_id))
         response_ids.append(self.eos_id)
         return prompt_ids, response_ids, prompt_ids + response_ids
-    
+
     def __len__(self):
         return len(self.samples) // self.config.batch_size
-    
+
     def __call__(self):
         batch_x, batch_y, batch_mask = [], [], []
         count = 0
@@ -492,6 +675,7 @@ class SFTDataGenerator:
                 batch_x, batch_y, batch_mask = [], [], []
                 count = 0
 
+
 def evaluate_sft(model, val_dataset, sft_loss_fn, max_val_steps=50):
     val_losses = []
     step = 0
@@ -504,6 +688,7 @@ def evaluate_sft(model, val_dataset, sft_loss_fn, max_val_steps=50):
         step += 1
     return np.mean(val_losses) if val_losses else float('inf')
 
+
 def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfig):
     try:
         train_data_gen = SFTDataGenerator(train_jsonl_path, vocab, config)
@@ -514,47 +699,47 @@ def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
             split_idx = int(len(all_samples) * 0.8)
             train_data_gen = SFTDataGenerator(train_jsonl_path, vocab, config, max_samples=split_idx)
             val_data_gen = SFTDataGenerator(train_jsonl_path, vocab, config)
-        
+
         def sft_loss(y_true, y_pred, loss_mask):
             loss = tf.keras.losses.sparse_categorical_crossentropy(y_true, y_pred, from_logits=True)
             loss = loss * loss_mask
             return tf.reduce_sum(loss) / tf.reduce_sum(loss_mask)
-        
+
         optimizer = keras.optimizers.AdamW(learning_rate=config.sft_lr, global_clipnorm=1.0)
-        
+
         train_dataset = tf.data.Dataset.from_generator(
-            train_data_gen, 
+            train_data_gen,
             output_signature=(
-                tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32), 
-                tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32), 
+                tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32),
+                tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32),
                 tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.float32)
             )
         )
         train_dataset = train_dataset.prefetch(tf.data.AUTOTUNE)
-        
+
         val_dataset = tf.data.Dataset.from_generator(
-            val_data_gen, 
+            val_data_gen,
             output_signature=(
-                tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32), 
-                tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32), 
+                tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32),
+                tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32),
                 tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.float32)
             )
         )
         val_dataset = val_dataset.prefetch(tf.data.AUTOTUNE)
-        
+
         total_steps_estimate = len(train_data_gen)
         total_steps = total_steps_estimate * config.sft_epochs
-        
+
         best_val_loss = float('inf')
         best_epoch = 0
-        
+
         with tqdm(total=total_steps, desc="SFT总进度", unit="step", position=0, leave=True) as total_pbar:
             for epoch in range(config.sft_epochs):
                 epoch_pbar = tqdm(
-                    total=total_steps_estimate, 
-                    desc=f"SFT Epoch {epoch+1}/{config.sft_epochs}", 
-                    unit="step", 
-                    position=1, 
+                    total=total_steps_estimate,
+                    desc=f"SFT Epoch {epoch+1}/{config.sft_epochs}",
+                    unit="step",
+                    position=1,
                     leave=False
                 )
                 epoch_losses = []
@@ -568,19 +753,19 @@ def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
                     loss_val = loss.numpy()
                     epoch_losses.append(loss_val)
                     step += 1
-                    
+
                     epoch_pbar.update(1)
                     epoch_pbar.set_postfix(loss=f"{loss_val:.4f}")
                     total_pbar.update(1)
                     total_pbar.set_postfix(epoch=f"{epoch+1}", loss=f"{loss_val:.4f}")
-                
+
                 epoch_pbar.close()
                 avg_loss = np.mean(epoch_losses) if epoch_losses else 0
-                
+
                 print(f"\n  正在验证 SFT Epoch {epoch+1}...")
                 val_loss = evaluate_sft(model, val_dataset, sft_loss)
                 print(f"  [验证] Loss: {val_loss:.4f}")
-                
+
                 if val_loss < best_val_loss:
                     best_val_loss = val_loss
                     best_epoch = epoch + 1
@@ -588,16 +773,16 @@ def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
                     print(f"  ★ 新的最佳模型！Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
                 else:
                     print(f"  当前最佳: Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
-                
+
                 print(f"\n[SFT Epoch {epoch+1}/{config.sft_epochs}] 训练Loss: {avg_loss:.4f}")
-        
+
         print(f"\nSFT完成！最佳模型来自 Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
         if os.path.exists("saved_model/sft_best"):
             if os.path.exists("saved_model/sft_final"):
                 shutil.rmtree("saved_model/sft_final")
             shutil.copytree("saved_model/sft_best", "saved_model/sft_final")
             print("最佳模型已保存为 sft_final")
-        
+
     except KeyboardInterrupt:
         print("\n训练被用户中断，保存当前模型...")
         save_model_dual_format(model, "saved_model/sft_interrupted")
@@ -606,6 +791,7 @@ def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
         print(f"训练出错: {e}")
         save_model_dual_format(model, "saved_model/sft_error")
         raise
+
 
 class DPODataGenerator:
     def __init__(self, jsonl_path, vocab, config: ModelConfig, max_pairs=None):
@@ -618,7 +804,7 @@ class DPODataGenerator:
         self.user_id = vocab.get('<|user|>', 4)
         self.bot_id = vocab.get('<|bot|>', 5)
         self.pairs = self._load_data(jsonl_path, max_pairs)
-    
+
     def _load_data(self, path, max_pairs=None):
         pairs = []
         with open(path, 'r', encoding='utf-8') as f:
@@ -632,7 +818,7 @@ class DPODataGenerator:
                     if max_pairs and len(pairs) >= max_pairs:
                         break
         return pairs
-    
+
     def _encode(self, prompt, response):
         ids = [self.bos_id, self.user_id]
         for ch in prompt:
@@ -642,7 +828,7 @@ class DPODataGenerator:
             ids.append(self.vocab.get(ch, self.unk_id))
         ids.append(self.eos_id)
         return ids
-    
+
     def __call__(self):
         for chosen, rejected in self.pairs:
             max_len = max(len(chosen), len(rejected))
@@ -650,10 +836,12 @@ class DPODataGenerator:
             rejected = rejected + [self.pad_id] * (max_len - len(rejected))
             yield np.array(chosen, dtype=np.int32), np.array(rejected, dtype=np.int32)
 
+
 def compute_logprob(logits, tokens, mask):
     token_neg_loss = tf.nn.sparse_softmax_cross_entropy_with_logits(labels=tokens, logits=logits)
     token_logprob = -token_neg_loss
     return tf.reduce_sum(token_logprob * mask) / tf.reduce_sum(mask)
+
 
 def evaluate_dpo(model, ref_model, val_dataset, beta=0.1, max_val_steps=30):
     @tf.function
@@ -673,7 +861,7 @@ def evaluate_dpo(model, ref_model, val_dataset, beta=0.1, max_val_steps=30):
         loss = -tf.math.log(tf.sigmoid(beta * (policy_ratio - ref_ratio)))
         acc = tf.cast(policy_ratio > ref_ratio, tf.float32)
         return loss, acc
-    
+
     val_losses = []
     val_accs = []
     step = 0
@@ -684,18 +872,19 @@ def evaluate_dpo(model, ref_model, val_dataset, beta=0.1, max_val_steps=30):
         val_losses.append(loss.numpy())
         val_accs.append(acc.numpy())
         step += 1
-    
+
     return np.mean(val_losses) if val_losses else float('inf'), np.mean(val_accs) if val_accs else 0.0
+
 
 def dpo_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfig, beta=0.1):
     try:
         ref_model = build_model(config)
         ref_model.set_weights(model.get_weights())
-        
+
         @tf.function
         def ref_call(x):
             return ref_model(x, training=False)
-        
+
         train_data_gen = DPODataGenerator(train_jsonl_path, vocab, config)
         if val_jsonl_path and os.path.exists(val_jsonl_path):
             val_data_gen = DPODataGenerator(val_jsonl_path, vocab, config)
@@ -704,41 +893,41 @@ def dpo_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
             split_idx = int(len(all_pairs) * 0.8)
             train_data_gen = DPODataGenerator(train_jsonl_path, vocab, config, max_pairs=split_idx)
             val_data_gen = DPODataGenerator(train_jsonl_path, vocab, config)
-        
+
         optimizer = keras.optimizers.AdamW(learning_rate=config.rl_lr, global_clipnorm=1.0)
-        
+
         train_dataset = tf.data.Dataset.from_generator(
-            train_data_gen, 
+            train_data_gen,
             output_signature=(
-                tf.TensorSpec(shape=(None,), dtype=tf.int32), 
+                tf.TensorSpec(shape=(None,), dtype=tf.int32),
                 tf.TensorSpec(shape=(None,), dtype=tf.int32)
             )
         )
         train_dataset = train_dataset.padded_batch(
-            config.batch_size, 
-            padded_shapes=([None], [None]), 
+            config.batch_size,
+            padded_shapes=([None], [None]),
             padding_values=(vocab.get('<|pad|>', 0), vocab.get('<|pad|>', 0))
         )
         train_dataset = train_dataset.prefetch(tf.data.AUTOTUNE)
-        
+
         val_dataset = tf.data.Dataset.from_generator(
-            val_data_gen, 
+            val_data_gen,
             output_signature=(
-                tf.TensorSpec(shape=(None,), dtype=tf.int32), 
+                tf.TensorSpec(shape=(None,), dtype=tf.int32),
                 tf.TensorSpec(shape=(None,), dtype=tf.int32)
             )
         )
         val_dataset = val_dataset.padded_batch(
-            config.batch_size, 
-            padded_shapes=([None], [None]), 
+            config.batch_size,
+            padded_shapes=([None], [None]),
             padding_values=(vocab.get('<|pad|>', 0), vocab.get('<|pad|>', 0))
         )
         val_dataset = val_dataset.prefetch(tf.data.AUTOTUNE)
-        
+
         total_pairs = len(train_data_gen.pairs)
         steps_per_epoch = (total_pairs + config.batch_size - 1) // config.batch_size
         total_steps = steps_per_epoch * config.rl_epochs
-        
+
         @tf.function
         def dpo_step(chosen, rejected):
             with tf.GradientTape() as tape:
@@ -758,17 +947,17 @@ def dpo_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
             grads = tape.gradient(loss, model.trainable_variables)
             optimizer.apply_gradients(zip(grads, model.trainable_variables))
             return loss
-        
+
         best_val_loss = float('inf')
         best_epoch = 0
-        
+
         with tqdm(total=total_steps, desc="DPO总进度", unit="step", position=0, leave=True) as total_pbar:
             for epoch in range(config.rl_epochs):
                 epoch_pbar = tqdm(
-                    total=steps_per_epoch, 
-                    desc=f"DPO Epoch {epoch+1}/{config.rl_epochs}", 
-                    unit="step", 
-                    position=1, 
+                    total=steps_per_epoch,
+                    desc=f"DPO Epoch {epoch+1}/{config.rl_epochs}",
+                    unit="step",
+                    position=1,
                     leave=False
                 )
                 epoch_losses = []
@@ -778,19 +967,19 @@ def dpo_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
                     loss_val = loss.numpy()
                     epoch_losses.append(loss_val)
                     step += 1
-                    
+
                     epoch_pbar.update(1)
                     epoch_pbar.set_postfix(loss=f"{loss_val:.4f}")
                     total_pbar.update(1)
                     total_pbar.set_postfix(epoch=f"{epoch+1}", loss=f"{loss_val:.4f}")
-                
+
                 epoch_pbar.close()
                 avg_loss = np.mean(epoch_losses) if epoch_losses else 0
-                
+
                 print(f"\n  正在验证 DPO Epoch {epoch+1}...")
                 val_loss, val_acc = evaluate_dpo(model, ref_model, val_dataset, beta)
                 print(f"  [验证] Loss: {val_loss:.4f}, 准确率: {val_acc:.2%}")
-                
+
                 if val_loss < best_val_loss:
                     best_val_loss = val_loss
                     best_epoch = epoch + 1
@@ -798,16 +987,16 @@ def dpo_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
                     print(f"  ★ 新的最佳模型！Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
                 else:
                     print(f"  当前最佳: Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
-                
+
                 print(f"\n[DPO Epoch {epoch+1}/{config.rl_epochs}] 训练Loss: {avg_loss:.4f}")
-        
+
         print(f"\nDPO完成！最佳模型来自 Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
         if os.path.exists("saved_model/rl_best"):
             if os.path.exists("saved_model/rl_final"):
                 shutil.rmtree("saved_model/rl_final")
             shutil.copytree("saved_model/rl_best", "saved_model/rl_final")
             print("最佳模型已保存为 rl_final")
-        
+
     except KeyboardInterrupt:
         print("\n训练被用户中断，保存当前模型...")
         save_model_dual_format(model, "saved_model/rl_interrupted")
@@ -817,17 +1006,19 @@ def dpo_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
         save_model_dual_format(model, "saved_model/rl_error")
         raise
 
+
 def load_vocab(json_path):
     with open(json_path, 'r', encoding='utf-8') as f:
         char_to_idx = json.load(f)
-    
+
     required = ['<|pad|>', '<|unk|>', '<|bos|>', '<|eos|>', '<|user|>', '<|bot|>']
     for token in required:
         if token not in char_to_idx:
             char_to_idx[token] = len(char_to_idx)
             print(f"自动添加特殊 token: {token} = {char_to_idx[token]}")
-    
+
     return char_to_idx
+
 
 def stream_corpus(folder_path, chunk_size=100000):
     for file_path in glob.glob(os.path.join(folder_path, "*.txt")):
@@ -839,11 +1030,21 @@ def stream_corpus(folder_path, chunk_size=100000):
                 text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', text)
                 yield text, os.path.basename(file_path)
 
+
 def load_corpus(folder_path):
     all_text = []
     for text, filename in stream_corpus(folder_path):
         all_text.append(text)
     return "\n".join(all_text)
+
+
+def build_model(config):
+    model = LiteratureTransformer(config)
+    dummy_len = max(config.seq_len, 16)
+    dummy_input = tf.constant([list(range(min(config.vocab_size, dummy_len)))], dtype=tf.int32)
+    _ = model(dummy_input, training=False)
+    return model
+
 
 if __name__ == "__main__":
     VOCAB_PATH = "vocab.json"
@@ -852,46 +1053,46 @@ if __name__ == "__main__":
     SFT_VAL_PATH = "sft_val.jsonl"
     RL_DATA_PATH = "rl_data.jsonl"
     RL_VAL_PATH = "rl_val.jsonl"
-    
+
     if not os.path.exists(VOCAB_PATH):
         print(f"找不到词汇表: {VOCAB_PATH}")
         exit()
     if not os.path.exists(CORPUS_FOLDER):
         print(f"找不到语料文件夹: {CORPUS_FOLDER}")
         exit()
-    
+
     vocab = load_vocab(VOCAB_PATH)
     config = ModelConfig(
-        vocab_size=len(vocab), 
-        embed_dim=384, 
-        num_heads=6, 
-        num_layers=6, 
-        max_len=512, 
-        seq_len=256, 
-        batch_size=4, 
-        pretrain_epochs=5, 
-        sft_epochs=10, 
-        rl_epochs=5, 
+        vocab_size=len(vocab),
+        embed_dim=384,
+        num_heads=6,
+        num_layers=6,
+        max_len=512,
+        seq_len=256,
+        batch_size=4,
+        pretrain_epochs=5,
+        sft_epochs=10,
+        rl_epochs=5,
         steps_per_epoch=300
     )
     print(f"词汇表大小: {config.vocab_size}")
-    
+
     corpus_text = load_corpus(CORPUS_FOLDER)
     print(f"总语料长度: {len(corpus_text)} 字符")
-    
+
     model = build_model(config)
     total_params = sum([tf.size(v).numpy() for v in model.trainable_variables])
     print(f"模型参数量: {total_params:,}")
-    
+
     os.makedirs("saved_model", exist_ok=True)
-    
+
     print("\n" + "="*50)
     print("开始预训练")
     print("="*50)
     train_gen = PretrainDataGenerator(corpus_text, vocab, config, start_ratio=0.0, end_ratio=0.8)
     val_gen = PretrainDataGenerator(corpus_text, vocab, config, start_ratio=0.8, end_ratio=1.0)
     pretrain(model, train_gen, val_gen, config.vocab_size, config)
-    
+
     if os.path.exists(SFT_DATA_PATH):
         print("\n" + "="*50)
         print("开始 SFT 微调")
@@ -899,7 +1100,7 @@ if __name__ == "__main__":
         model = load_model_keras("saved_model/pretrain_final")
         val_path = SFT_VAL_PATH if os.path.exists(SFT_VAL_PATH) else None
         sft_train(model, SFT_DATA_PATH, val_path, vocab, config)
-    
+
     if os.path.exists(RL_DATA_PATH):
         print("\n" + "="*50)
         print("开始 DPO 强化学习")
@@ -907,19 +1108,19 @@ if __name__ == "__main__":
         model = load_model_keras("saved_model/sft_final")
         val_path = RL_VAL_PATH if os.path.exists(RL_VAL_PATH) else None
         dpo_train(model, RL_DATA_PATH, val_path, vocab, config)
-    
+
     print("\n" + "="*50)
     print("保存配置文件")
     print("="*50)
-    
+
     with open("saved_model/config.json", "w", encoding="utf-8") as f:
-        json.dump(config.__dict__, f, ensure_ascii=False, indent=2)
+        json.dump(config.to_dict(), f, ensure_ascii=False, indent=2)
     print("配置已保存到 saved_model/config.json")
-    
+
     with open("saved_model/vocab.json", "w", encoding="utf-8") as f:
         json.dump(vocab, f, ensure_ascii=False, indent=2)
     print("词汇表已保存到 saved_model/vocab.json")
-    
+
     print("\n" + "="*50)
     print("训练全部完成！最终可用模型：")
     print("  - 预训练: saved_model/pretrain_final/")
