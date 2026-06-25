@@ -421,6 +421,7 @@ def save_model_dual_format(model, save_dir, is_best=False):
 
 
 def load_model_keras(load_dir, vocab_size=None):
+    keras.mixed_precision.set_global_policy("float32")
     keras_path = os.path.join(load_dir, "model.keras")
     if not os.path.exists(keras_path):
         raise FileNotFoundError(f"找不到 .keras 模型文件: {keras_path}")
@@ -1045,6 +1046,7 @@ def build_model(config):
 
 
 if __name__ == "__main__":
+    keras.mixed_precision.set_global_policy("float32")
     VOCAB_PATH = "vocab.json"
     CORPUS_FOLDER = "./corpus"
     SFT_DATA_PATH = "sft_data.jsonl"
