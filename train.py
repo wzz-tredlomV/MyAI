@@ -58,8 +58,6 @@ class RotaryEmbedding(layers.Layer):
         positions = tf.range(self.max_len, dtype=tf.float32)
         angles = tf.einsum('i,j->ij', positions, inv_freq)
         angles = tf.repeat(angles, repeats=2, axis=-1)
-        self.cos_cache = tf.cos(angles)
-        self.sin_cache = tf.sin(angles)
         super().build(input_shape)
 
     def call(self, x, seq_len=None):
@@ -68,8 +66,11 @@ class RotaryEmbedding(layers.Layer):
             seq_len = tf.shape(x)[2]
 
         # 使用 float32 计算，最后 cast 回输入 dtype
-        cos = self.cos_cache[:seq_len]
-        sin = self.sin_cache[:seq_len]
+        positions = tf.range(seq_len, dtype=tf.float32)
+        angles = tf.einsum('i,j->ij', positions, self.inv_freq)
+        angles = tf.repeat(angles, repeats=2, axis=-1)
+        cos = tf.cos(angles)
+        sin = tf.sin(angles)
         cos = tf.cast(cos, x.dtype)
         sin = tf.cast(sin, x.dtype)
 
