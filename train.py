@@ -52,10 +52,10 @@ class RotaryEmbedding(layers.Layer):
 
     def build(self, input_shape):
         # 预计算并缓存旋转编码（使用 float32 避免 mixed precision 问题）
-        inv_freq = 1.0 / (self.base ** (tf.range(0, self.head_dim, 2, dtype=tf.float32) / tf.cast(self.head_dim, tf.float32)))
-        self.inv_freq = inv_freq  # 作为不可训练变量缓存
 
         positions = tf.range(self.max_len, dtype=tf.float32)
+        # 动态计算 inv_freq，避免张量作用域问题
+        inv_freq = 1.0 / (self.base ** (tf.range(0, self.head_dim, 2, dtype=tf.float32) / tf.cast(self.head_dim, tf.float32)))
         angles = tf.einsum('i,j->ij', positions, inv_freq)
         angles = tf.repeat(angles, repeats=2, axis=-1)
         super().build(input_shape)
@@ -67,7 +67,9 @@ class RotaryEmbedding(layers.Layer):
 
         # 使用 float32 计算，最后 cast 回输入 dtype
         positions = tf.range(seq_len, dtype=tf.float32)
-        angles = tf.einsum('i,j->ij', positions, self.inv_freq)
+        # 动态计算 inv_freq，避免张量作用域问题
+        inv_freq = 1.0 / (self.base ** (tf.range(0, self.head_dim, 2, dtype=tf.float32) / tf.cast(self.head_dim, tf.float32)))
+        angles = tf.einsum('i,j->ij', positions, inv_freq)
         angles = tf.repeat(angles, repeats=2, axis=-1)
         cos = tf.cos(angles)
         sin = tf.sin(angles)
