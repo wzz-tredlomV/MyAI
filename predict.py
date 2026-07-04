@@ -121,7 +121,11 @@ class TextGenerator:
             tokens.append(self.bos_id)
         
         for ch in text:
-            tokens.append(self.vocab.get(ch, self.unk_id))
+            token_id = self.vocab.get(ch, self.unk_id)
+            # 确保token ID在有效范围内
+            if token_id >= len(self.vocab):
+                token_id = self.unk_id
+            tokens.append(token_id)
         
         return tokens
     
@@ -141,7 +145,11 @@ class TextGenerator:
         for token in tokens:
             if skip_special_tokens and token in special_tokens:
                 continue
-            chars.append(self.idx_to_char.get(token, '<UNK>'))
+            # 确保token在词汇表范围内
+            if token < len(self.vocab):
+                chars.append(self.idx_to_char.get(token, '<UNK>'))
+            else:
+                chars.append('<UNK>')
         return ''.join(chars)
     
     def generate_greedy(
@@ -220,6 +228,10 @@ class TextGenerator:
             probs = tf.nn.softmax(last_logits)
             next_token = tf.random.categorical(tf.math.log(probs)[None, :], 1)[0, 0].numpy()
             
+            # 确保生成的token在有效范围内
+            if next_token >= len(self.vocab):
+                next_token = self.unk_id
+            
             # 检查停止条件
             if next_token in stop_tokens:
                 break
@@ -293,6 +305,9 @@ class TextGenerator:
                 top_k_indices = np.argsort(probs)[-beam_width:][::-1]
                 
                 for idx in top_k_indices:
+                    # 确保token在有效范围内
+                    if idx >= len(self.vocab):
+                        idx = self.unk_id
                     new_tokens = tokens + [idx]
                     new_score = score + np.log(probs[idx] + 1e-10)
                     candidates.append((new_tokens, new_score))
@@ -622,28 +637,34 @@ def main():
     print(f"提示: {args.prompt}")
     print(f"参数: temp={args.temperature}, top_k={args.top_k}, top_p={args.top_p}")
     
-    if args.beam_width > 1:
-        text, elapsed = generator.generate_beam_search(
-            args.prompt,
-            max_length=args.max_length,
-            beam_width=args.beam_width,
-            temperature=args.temperature
-        )
-        print(f"束搜索 (宽度={args.beam_width})")
-    else:
-        text, elapsed = generator.generate_greedy(
-            args.prompt,
-            max_length=args.max_length,
-            temperature=args.temperature,
-            top_k=args.top_k,
-            top_p=args.top_p
-        )
-        print("贪婪采样")
-    
-    print(f"\n生成结果 ({elapsed:.2f}s):")
-    print("-" * 50)
-    print(text)
-    print("-" * 50)
+    try:
+        if args.beam_width > 1:
+            text, elapsed = generator.generate_beam_search(
+                args.prompt,
+                max_length=args.max_length,
+                beam_width=args.beam_width,
+                temperature=args.temperature
+            )
+            print(f"束搜索 (宽度={args.beam_width})")
+        else:
+            text, elapsed = generator.generate_greedy(
+                args.prompt,
+                max_length=args.max_length,
+                temperature=args.temperature,
+                top_k=args.top_k,
+                top_p=args.top_p
+            )
+            print("贪婪采样")
+        
+        print(f"\n生成结果 ({elapsed:.2f}s):")
+        print("-" * 50)
+        print(text)
+        print("-" * 50)
+    except Exception as e:
+        print(f"生成失败: {e}")
+        import traceback
+        traceback.print_exc()
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
