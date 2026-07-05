@@ -82,7 +82,7 @@ jobs:
             # 运行预测
             python predict.py \
               --model_path saved_model/sft_final \
-              --prompt "你好。" \
+              --prompt "Hello" \
               --max_length 100 \
               --temperature 0.8 \
               --top_k 50 \
@@ -110,7 +110,7 @@ jobs:
             # 运行预测
             python predict.py \
               --model_path saved_model/rl_final \
-              --prompt "床前明月光" \
+              --prompt "Hello" \
               --max_length 150 \
               --temperature 0.9 \
               --top_k 30 \
@@ -136,7 +136,7 @@ jobs:
             # 运行预测
             python predict.py \
               --model_path saved_model/pretrain_final \
-              --prompt "春眠不觉晓" \
+              --prompt "Hello" \
               --max_length 80 \
               --temperature 0.7 \
               --top_k 40
