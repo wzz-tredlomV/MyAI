@@ -6,6 +6,7 @@ import numpy as np
 import sys
 import os
 import time
+import re
 from typing import List, Optional, Tuple
 
 # 导入训练代码中的自定义类
@@ -107,7 +108,7 @@ class TextGenerator:
     
     def encode_text(self, text: str, add_special_tokens: bool = True) -> List[int]:
         """
-        将文本编码为token IDs
+        将文本编码为token IDs - 支持英文单词级别匹配
         
         Args:
             text: 输入文本
@@ -120,18 +121,58 @@ class TextGenerator:
         if add_special_tokens:
             tokens.append(self.bos_id)
         
-        for ch in text:
-            token_id = self.vocab.get(ch, self.unk_id)
-            # 确保token ID在有效范围内
-            if token_id >= len(self.vocab):
-                token_id = self.unk_id
-            tokens.append(token_id)
+        # 转小写以匹配词汇表
+        text = text.lower().strip()
+        
+        if not text:
+            if add_special_tokens:
+                return [self.bos_id]
+            return []
+        
+        # 先尝试匹配完整文本（用于单个单词）
+        if text in self.vocab:
+            tokens.append(self.vocab[text])
+            return tokens
+        
+        # 按空格分割成单词
+        words = text.split()
+        
+        for word in words:
+            # 去除标点符号
+            clean_word = ''.join(c for c in word if c.isalnum())
+            
+            if not clean_word:
+                # 如果是纯标点，尝试直接匹配
+                if word in self.vocab:
+                    tokens.append(self.vocab[word])
+                continue
+            
+            # 尝试匹配完整单词
+            if clean_word in self.vocab:
+                tokens.append(self.vocab[clean_word])
+            else:
+                # 如果单词不在词汇表中，按字符处理
+                for ch in clean_word:
+                    token_id = self.vocab.get(ch, self.unk_id)
+                    if token_id >= len(self.vocab):
+                        token_id = self.unk_id
+                    tokens.append(token_id)
+            
+            # 添加标点符号（如果存在）
+            if len(word) > len(clean_word):
+                for ch in word:
+                    if not ch.isalnum() and ch in self.vocab:
+                        tokens.append(self.vocab[ch])
+        
+        # 如果没有生成任何token（空文本或全是标点），添加UNK
+        if len(tokens) <= 1:  # 只有bos token
+            tokens.append(self.unk_id)
         
         return tokens
     
     def decode_tokens(self, tokens: List[int], skip_special_tokens: bool = True) -> str:
         """
-        将token IDs解码为文本
+        将token IDs解码为文本，添加适当的空格
         
         Args:
             tokens: token IDs列表
@@ -141,16 +182,40 @@ class TextGenerator:
             解码后的文本
         """
         special_tokens = {self.pad_id, self.bos_id, self.eos_id, self.user_id, self.bot_id}
-        chars = []
-        for token in tokens:
+        
+        # 常见的标点符号
+        punctuation = {',', '.', '!', '?', ';', ':', '"', "'", '(', ')', '[', ']', '{', '}', '<', '>', '/'}
+        
+        result = []
+        prev_is_word = False
+        
+        for i, token in enumerate(tokens):
             if skip_special_tokens and token in special_tokens:
                 continue
+            
             # 确保token在词汇表范围内
             if token < len(self.vocab):
-                chars.append(self.idx_to_char.get(token, '<UNK>'))
+                token_str = self.idx_to_char.get(token, '<UNK>')
             else:
-                chars.append('<UNK>')
-        return ''.join(chars)
+                token_str = '<UNK>'
+            
+            # 判断当前token是否是单词字符
+            is_word = token_str.isalnum() and len(token_str) > 1
+            is_punct = token_str in punctuation
+            
+            # 添加空格逻辑
+            if i > 0 and not is_punct and not token_str.startswith("'") and not token_str.startswith('"'):
+                # 检查前一个token
+                prev_token = tokens[i-1]
+                if prev_token < len(self.vocab):
+                    prev_str = self.idx_to_char.get(prev_token, '')
+                    if prev_str not in punctuation and prev_str not in {'(', '['} and prev_is_word:
+                        result.append(' ')
+            
+            result.append(token_str)
+            prev_is_word = is_word
+        
+        return ''.join(result)
     
     def generate_greedy(
         self, 
@@ -391,9 +456,9 @@ class TextGenerator:
             模型回复
         """
         if system_prompt:
-            full_prompt = f"系统: {system_prompt}\n用户: {prompt}\n助手: "
+            full_prompt = f"system: {system_prompt} user: {prompt} assistant: "
         else:
-            full_prompt = f"用户: {prompt}\n助手: "
+            full_prompt = f"user: {prompt} assistant: "
         
         response, _ = self.generate_greedy(
             full_prompt,
@@ -405,8 +470,10 @@ class TextGenerator:
         )
         
         # 提取助手回复
-        if "助手: " in response:
-            response = response.split("助手: ")[-1]
+        if "assistant:" in response:
+            response = response.split("assistant:")[-1]
+        elif "助手:" in response:
+            response = response.split("助手:")[-1]
         
         return response.strip()
     
@@ -631,7 +698,8 @@ def main():
     # 单次生成
     if not args.prompt:
         print("请提供 --prompt 参数或使用 --interactive 交互模式")
-        print("示例: python predict.py --prompt \"床前明月光\"")
+        print("示例: python predict.py --prompt \"hello\"")
+        print("示例: python predict.py --prompt \"harry potter\"")
         sys.exit(1)
     
     print(f"提示: {args.prompt}")
