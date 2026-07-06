@@ -685,7 +685,7 @@ def evaluate_sft(model, val_dataset, sft_loss_fn, max_val_steps=50):
 def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfig):
     try:
         print(f"\n📊 SFT训练配置: lr={config.sft_lr}, epochs={config.sft_epochs}, clipnorm=0.5")
-        
+
         train_data_gen = SFTDataGenerator(train_jsonl_path, vocab, config)
         if val_jsonl_path and os.path.exists(val_jsonl_path):
             val_data_gen = SFTDataGenerator(val_jsonl_path, vocab, config)
@@ -882,7 +882,7 @@ def evaluate_dpo(model, ref_model, val_dataset, beta=0.1, max_val_steps=30):
 def dpo_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfig, beta=0.1):
     try:
         print(f"\n📊 DPO训练配置: lr={config.rl_lr}, epochs={config.rl_epochs}, clipnorm=0.5")
-        
+
         ref_model = build_model(config)
         ref_model.set_weights(model.get_weights())
 
@@ -1062,9 +1062,9 @@ if __name__ == "__main__":
     keras.mixed_precision.set_global_policy("float32")
     VOCAB_PATH = "vocab.json"
     CORPUS_FOLDER = "./corpus"
-    SFT_DATA_PATH = "sft_train.jsonl"
+    SFT_DATA_PATH = "sft_data.jsonl"
     SFT_VAL_PATH = "sft_val.jsonl"
-    RL_DATA_PATH = "rl_train.jsonl"
+    RL_DATA_PATH = "rl_data.jsonl"
     RL_VAL_PATH = "rl_val.jsonl"
 
     if not os.path.exists(VOCAB_PATH):
