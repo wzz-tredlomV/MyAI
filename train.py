@@ -26,12 +26,12 @@ class ModelConfig:
     seq_len: int = 256
     batch_size: int = 4
     pretrain_lr: float = 5e-4
-    sft_lr: float = 1e-5
-    rl_lr: float = 1e-6
+    sft_lr: float = 1e-6          # 降低学习率防止 NaN
+    rl_lr: float = 1e-7           # 降低学习率防止 NaN
     weight_decay: float = 0.01
     pretrain_epochs: int = 5
-    sft_epochs: int = 10
-    rl_epochs: int = 5
+    sft_epochs: int = 20          # GitHub Actions 安全范围
+    rl_epochs: int = 15           # GitHub Actions 安全范围
     steps_per_epoch: int = 300
 
     def to_dict(self):
@@ -51,23 +51,17 @@ class RotaryEmbedding(layers.Layer):
         self.base = base
 
     def build(self, input_shape):
-        # 预计算并缓存旋转编码（使用 float32 避免 mixed precision 问题）
-
         positions = tf.range(self.max_len, dtype=tf.float32)
-        # 动态计算 inv_freq，避免张量作用域问题
         inv_freq = 1.0 / (self.base ** (tf.range(0, self.head_dim, 2, dtype=tf.float32) / tf.cast(self.head_dim, tf.float32)))
         angles = tf.einsum('i,j->ij', positions, inv_freq)
         angles = tf.repeat(angles, repeats=2, axis=-1)
         super().build(input_shape)
 
     def call(self, x, seq_len=None):
-        # x: [batch, num_heads, seq_len, head_dim]
         if seq_len is None:
             seq_len = tf.shape(x)[2]
 
-        # 使用 float32 计算，最后 cast 回输入 dtype
         positions = tf.range(seq_len, dtype=tf.float32)
-        # 动态计算 inv_freq，避免张量作用域问题
         inv_freq = 1.0 / (self.base ** (tf.range(0, self.head_dim, 2, dtype=tf.float32) / tf.cast(self.head_dim, tf.float32)))
         angles = tf.einsum('i,j->ij', positions, inv_freq)
         angles = tf.repeat(angles, repeats=2, axis=-1)
@@ -360,7 +354,6 @@ class LiteratureTransformer(keras.Model):
         self.blocks = [CustomTransformerBlock(config.embed_dim, config.num_heads, config.dropout) for _ in range(config.num_layers)]
 
     def build(self, input_shape):
-        # 显式构建所有子层
         self.token_embed.build(input_shape)
         for block in self.blocks:
             block.build([None, self.config.seq_len, self.config.embed_dim])
@@ -409,7 +402,6 @@ def save_model_dual_format(model, save_dir, is_best=False):
     savedmodel_path = os.path.join(save_dir, "savedmodel")
     if os.path.exists(savedmodel_path):
         shutil.rmtree(savedmodel_path)
-    # tf.saved_model.save(model, savedmodel_path)  # 临时禁用，避免保存错误
 
     config_path = os.path.join(save_dir, "config.json")
     with open(config_path, "w", encoding="utf-8") as f:
@@ -429,7 +421,6 @@ def load_model_keras(load_dir, vocab_size=None):
     if not os.path.exists(keras_path):
         raise FileNotFoundError(f"找不到 .keras 模型文件: {keras_path}")
 
-    # Keras 3 中注册了自定义对象后，无需再传 custom_objects
     model = keras.models.load_model(keras_path)
     print(f"  .keras 模型已从 {keras_path} 加载")
     return model
@@ -566,7 +557,7 @@ def pretrain(model, train_data_generator, val_data_generator, vocab_size, config
                         logits = model(x, training=True)
                         loss = loss_fn(y, logits)
                     grads = tape.gradient(loss, model.trainable_variables)
-                    
+
                     optimizer.apply_gradients(zip(grads, model.trainable_variables))
                     loss_val = loss.numpy()
                     epoch_losses.append(loss_val)
@@ -693,6 +684,8 @@ def evaluate_sft(model, val_dataset, sft_loss_fn, max_val_steps=50):
 
 def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfig):
     try:
+        print(f"\n📊 SFT训练配置: lr={config.sft_lr}, epochs={config.sft_epochs}, clipnorm=0.5")
+        
         train_data_gen = SFTDataGenerator(train_jsonl_path, vocab, config)
         if val_jsonl_path and os.path.exists(val_jsonl_path):
             val_data_gen = SFTDataGenerator(val_jsonl_path, vocab, config)
@@ -705,9 +698,17 @@ def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
         def sft_loss(y_true, y_pred, loss_mask):
             loss = tf.keras.losses.sparse_categorical_crossentropy(y_true, y_pred, from_logits=True)
             loss = loss * loss_mask
-            return tf.reduce_sum(loss) / tf.reduce_sum(loss_mask)
+            total_mask = tf.reduce_sum(loss_mask) + 1e-8
+            return tf.reduce_sum(loss) / total_mask
 
-        optimizer = keras.optimizers.AdamW(learning_rate=config.sft_lr, global_clipnorm=1.0)
+        optimizer = keras.optimizers.AdamW(
+            learning_rate=config.sft_lr,
+            weight_decay=config.weight_decay,
+            global_clipnorm=0.5,
+            beta_1=0.9,
+            beta_2=0.999,
+            epsilon=1e-8
+        )
 
         train_dataset = tf.data.Dataset.from_generator(
             train_data_gen,
@@ -880,6 +881,8 @@ def evaluate_dpo(model, ref_model, val_dataset, beta=0.1, max_val_steps=30):
 
 def dpo_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfig, beta=0.1):
     try:
+        print(f"\n📊 DPO训练配置: lr={config.rl_lr}, epochs={config.rl_epochs}, clipnorm=0.5")
+        
         ref_model = build_model(config)
         ref_model.set_weights(model.get_weights())
 
@@ -896,7 +899,14 @@ def dpo_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
             train_data_gen = DPODataGenerator(train_jsonl_path, vocab, config, max_pairs=split_idx)
             val_data_gen = DPODataGenerator(train_jsonl_path, vocab, config)
 
-        optimizer = keras.optimizers.AdamW(learning_rate=config.rl_lr, global_clipnorm=1.0)
+        optimizer = keras.optimizers.AdamW(
+            learning_rate=config.rl_lr,
+            weight_decay=config.weight_decay,
+            global_clipnorm=0.5,
+            beta_1=0.9,
+            beta_2=0.999,
+            epsilon=1e-8
+        )
 
         train_dataset = tf.data.Dataset.from_generator(
             train_data_gen,
@@ -1052,9 +1062,9 @@ if __name__ == "__main__":
     keras.mixed_precision.set_global_policy("float32")
     VOCAB_PATH = "vocab.json"
     CORPUS_FOLDER = "./corpus"
-    SFT_DATA_PATH = "sft_data.jsonl"
+    SFT_DATA_PATH = "sft_train.jsonl"
     SFT_VAL_PATH = "sft_val.jsonl"
-    RL_DATA_PATH = "rl_data.jsonl"
+    RL_DATA_PATH = "rl_train.jsonl"
     RL_VAL_PATH = "rl_val.jsonl"
 
     if not os.path.exists(VOCAB_PATH):
@@ -1074,11 +1084,12 @@ if __name__ == "__main__":
         seq_len=256,
         batch_size=4,
         pretrain_epochs=5,
-        sft_epochs=10,
-        rl_epochs=5,
+        sft_epochs=20,          # GitHub Actions 安全范围
+        rl_epochs=15,           # GitHub Actions 安全范围
         steps_per_epoch=300
     )
     print(f"词汇表大小: {config.vocab_size}")
+    print(f"📊 训练配置: SFT={config.sft_epochs}轮, RL={config.rl_epochs}轮, 预计耗时~5-6小时")
 
     corpus_text = load_corpus(CORPUS_FOLDER)
     print(f"总语料长度: {len(corpus_text)} 字符")
