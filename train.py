@@ -30,8 +30,8 @@ class ModelConfig:
     rl_lr: float = 1e-7           # 降低学习率防止 NaN
     weight_decay: float = 0.01
     pretrain_epochs: int = 5
-    sft_epochs: int = 20          # GitHub Actions 安全范围
-    rl_epochs: int = 15           # GitHub Actions 安全范围
+    sft_epochs: int = 10
+    rl_epochs: int = 10
     steps_per_epoch: int = 300
 
     def to_dict(self):
