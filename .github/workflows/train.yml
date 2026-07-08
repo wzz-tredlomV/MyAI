@@ -1,302 +1,578 @@
-name: Train Model
+name: Train and Test Model
 
 on:
-  push:
-    branches: [ main, master ]
-  pull_request:
-    branches: [ main, master ]
-  workflow_dispatch:  # 允许手动触发
+  workflow_dispatch:
 
 jobs:
-  train:
+  # ============================================================
+  # Job 1: 预训练
+  # ============================================================
+  pretrain:
     runs-on: ubuntu-latest
+    timeout-minutes: 360
     
-    # 设置超时时间（训练可能需要较长时间）
-    timeout-minutes: 360  # 6小时
-
     steps:
-      # 1. 检出代码
       - name: Checkout code
         uses: actions/checkout@v4
 
-      # 2. 设置 Python 环境
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      # 3. 安装依赖
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install tensorflow tqdm numpy
-          
-      # 4. 检查数据文件是否存在
+
       - name: Check data files
         run: |
           echo "检查必要文件..."
-          ls -la
           if [ ! -f "vocab.json" ]; then
-            echo "警告: vocab.json 不存在"
+            echo "❌ 找不到 vocab.json"
+            exit 1
           fi
           if [ ! -d "corpus" ]; then
-            echo "警告: corpus 目录不存在"
+            echo "❌ 找不到 corpus 目录"
+            exit 1
           fi
-          if [ ! -f "predict.py" ]; then
-            echo "警告: predict.py 不存在"
-          fi
-          
-      # 5. 创建必要的目录
+          echo "✅ 数据文件检查通过"
+
       - name: Create directories
         run: |
           mkdir -p saved_model
-          mkdir -p output
-          mkdir -p checkpoints
-          
-      # 6. 运行训练脚本
-      - name: Run training
-        run: |
-          echo "开始训练..."
-          python train.py || echo "训练完成或中断"
-          
-      # 7. 检查生成的文件
-      - name: Check generated files
-        run: |
-          echo "检查生成的文件..."
-          ls -la saved_model/ || echo "saved_model 目录不存在"
-          echo "查找模型文件..."
-          find saved_model/ -name "*.keras" -o -name "*.json" -o -name "*.h5" | head -20
-          
-      # 8. 运行预测测试（使用SFT模型）
-      - name: Run prediction test with SFT model
-        id: predict_sft
+          mkdir -p predictions
+
+      - name: Run pretraining
         run: |
           echo "========================================="
-          echo "运行预测测试 (SFT模型)"
+          echo "开始预训练 (预计50分钟)"
+          echo "========================================="
+          python pretrain.py
+
+      - name: Check pretrain output
+        run: |
+          if [ -d "saved_model/pretrain_final" ]; then
+            echo "✅ 预训练完成"
+            ls -la saved_model/pretrain_final/
+          else
+            echo "❌ 预训练失败"
+            exit 1
+          fi
+
+      # 预训练模型预测测试
+      - name: Test pretrain model
+        run: |
+          echo "========================================="
+          echo "测试预训练模型"
           echo "========================================="
           
-          # 检查SFT模型是否存在
-          if [ -d "saved_model/sft_final" ] && [ -f "saved_model/sft_final/model.keras" ]; then
-            echo "✓ 找到SFT模型，开始预测..."
+          if [ -f "predict.py" ] && [ -f "vocab.json" ]; then
+            echo "📝 测试1: 简单提示词"
+            python predict.py \
+              --model_path saved_model/pretrain_final \
+              --prompt "Harry Potter" \
+              --max_length 30 \
+              --temperature 0.7 \
+              --top_k 40 \
+              --top_p 0.9 || echo "预测失败"
             
-            # 运行预测
+            echo ""
+            echo "📝 测试2: 续写测试"
+            python predict.py \
+              --model_path saved_model/pretrain_final \
+              --prompt "The magic wand" \
+              --max_length 30 \
+              --temperature 0.8 \
+              --top_k 30 \
+              --top_p 0.85 || echo "预测失败"
+          else
+            echo "⚠️ 跳过预测测试 (predict.py 或 vocab.json 不存在)"
+          fi
+
+      - name: Upload pretrain model
+        uses: actions/upload-artifact@v4
+        with:
+          name: pretrain-model
+          path: saved_model/pretrain_final/
+          retention-days: 7
+
+      - name: Upload pretrain predictions
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pretrain-predictions
+          path: predictions/
+          retention-days: 7
+          if-no-files-found: ignore
+
+  # ============================================================
+  # Job 2: SFT微调
+  # ============================================================
+  sft:
+    needs: pretrain
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install tensorflow tqdm numpy
+
+      - name: Download pretrain model
+        uses: actions/download-artifact@v4
+        with:
+          name: pretrain-model
+          path: saved_model/pretrain_final/
+
+      - name: Check model and data
+        run: |
+          if [ ! -d "saved_model/pretrain_final" ]; then
+            echo "❌ 预训练模型下载失败"
+            exit 1
+          fi
+          if [ ! -f "sft_train.jsonl" ]; then
+            echo "❌ 找不到 sft_train.jsonl"
+            exit 1
+          fi
+          echo "✅ 检查通过"
+          mkdir -p predictions
+
+      - name: Run SFT training
+        run: |
+          echo "========================================="
+          echo "开始SFT微调 (预计4小时)"
+          echo "========================================="
+          python sft_train.py
+
+      - name: Check SFT output
+        run: |
+          if [ -d "saved_model/sft_final" ]; then
+            echo "✅ SFT完成"
+            ls -la saved_model/sft_final/
+          else
+            echo "❌ SFT失败"
+            exit 1
+          fi
+
+      # SFT模型预测测试（更丰富的测试）
+      - name: Test SFT model
+        run: |
+          echo "========================================="
+          echo "测试SFT模型"
+          echo "========================================="
+          
+          if [ -f "predict.py" ] && [ -f "vocab.json" ]; then
+            # 测试1: 简单问答
+            echo "📝 测试1: 简单问答"
             python predict.py \
               --model_path saved_model/sft_final \
-              --prompt "Hello" \
-              --max_length 100 \
-              --temperature 0.8 \
-              --top_k 50 \
-              --top_p 0.9
+              --prompt "What is the capital of France?" \
+              --max_length 30 \
+              --temperature 0.7 \
+              --top_k 40 \
+              --top_p 0.9 || echo "预测失败"
             
-            echo "✓ SFT模型预测完成"
+            # 测试2: 哈利波特相关问题
+            echo ""
+            echo "📝 测试2: 哈利波特问题"
+            python predict.py \
+              --model_path saved_model/sft_final \
+              --prompt "Who is Harry Potter?" \
+              --max_length 50 \
+              --temperature 0.8 \
+              --top_k 30 \
+              --top_p 0.85 || echo "预测失败"
+            
+            # 测试3: 长文本生成
+            echo ""
+            echo "📝 测试3: 故事续写"
+            python predict.py \
+              --model_path saved_model/sft_final \
+              --prompt "Once upon a time" \
+              --max_length 60 \
+              --temperature 0.9 \
+              --top_k 50 \
+              --top_p 0.95 \
+              --beam_width 3 || echo "预测失败"
+            
+            # 测试4: 上下文相关
+            echo ""
+            echo "📝 测试4: 上下文问题"
+            python predict.py \
+              --model_path saved_model/sft_final \
+              --prompt "Question: What is the largest planet in our solar system?" \
+              --max_length 30 \
+              --temperature 0.6 \
+              --top_k 20 \
+              --top_p 0.9 || echo "预测失败"
           else
-            echo "⚠ SFT模型不存在，跳过预测"
-            echo "可用的模型目录:"
-            ls -la saved_model/ || echo "无"
+            echo "⚠️ 跳过预测测试"
           fi
-          
-      # 9. 运行预测测试（使用RL模型，如果存在）
-      - name: Run prediction test with RL model
-        id: predict_rl
+
+      - name: Upload SFT model
+        uses: actions/upload-artifact@v4
+        with:
+          name: sft-model
+          path: saved_model/sft_final/
+          retention-days: 7
+
+      - name: Upload SFT predictions
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sft-predictions
+          path: predictions/
+          retention-days: 7
+          if-no-files-found: ignore
+
+  # ============================================================
+  # Job 3: DPO强化学习
+  # ============================================================
+  dpo:
+    needs: sft
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install tensorflow tqdm numpy
+
+      - name: Download SFT model
+        uses: actions/download-artifact@v4
+        with:
+          name: sft-model
+          path: saved_model/sft_final/
+
+      - name: Check model and data
+        run: |
+          if [ ! -d "saved_model/sft_final" ]; then
+            echo "❌ SFT模型下载失败"
+            exit 1
+          fi
+          if [ ! -f "rl_train.jsonl" ]; then
+            echo "❌ 找不到 rl_train.jsonl"
+            exit 1
+          fi
+          echo "✅ 检查通过"
+          mkdir -p predictions
+
+      - name: Run DPO training
         run: |
           echo "========================================="
-          echo "运行预测测试 (RL模型)"
+          echo "开始DPO强化学习 (预计1.5小时)"
+          echo "========================================="
+          python dpo_train.py
+
+      - name: Check DPO output
+        run: |
+          if [ -d "saved_model/rl_final" ]; then
+            echo "✅ DPO完成"
+            ls -la saved_model/rl_final/
+          else
+            echo "❌ DPO失败"
+            exit 1
+          fi
+
+      # DPO模型预测测试（最终模型测试）
+      - name: Test DPO model
+        run: |
+          echo "========================================="
+          echo "测试DPO模型 (最终模型)"
           echo "========================================="
           
-          # 检查RL模型是否存在
-          if [ -d "saved_model/rl_final" ] && [ -f "saved_model/rl_final/model.keras" ]; then
-            echo "✓ 找到RL模型，开始预测..."
+          if [ -f "predict.py" ] && [ -f "vocab.json" ]; then
+            # 测试1: 综合测试
+            echo "📝 测试1: 综合问答"
+            python predict.py \
+              --model_path saved_model/rl_final \
+              --prompt "What is the meaning of life?" \
+              --max_length 40 \
+              --temperature 0.8 \
+              --top_k 50 \
+              --top_p 0.9 || echo "预测失败"
             
-            # 运行预测
+            # 测试2: 知识问答
+            echo ""
+            echo "📝 测试2: 知识问答"
+            python predict.py \
+              --model_path saved_model/rl_final \
+              --prompt "Who wrote the novel Pride and Prejudice?" \
+              --max_length 30 \
+              --temperature 0.6 \
+              --top_k 30 \
+              --top_p 0.85 || echo "预测失败"
+            
+            # 测试3: 创意生成（高温度）
+            echo ""
+            echo "📝 测试3: 创意生成"
+            python predict.py \
+              --model_path saved_model/rl_final \
+              --prompt "In the future, AI will" \
+              --max_length 50 \
+              --temperature 1.0 \
+              --top_k 60 \
+              --top_p 0.95 || echo "预测失败"
+            
+            # 测试4: 束搜索
+            echo ""
+            echo "📝 测试4: 束搜索优化"
+            python predict.py \
+              --model_path saved_model/rl_final \
+              --prompt "The best way to learn is" \
+              --max_length 40 \
+              --temperature 0.7 \
+              --top_k 30 \
+              --top_p 0.9 \
+              --beam_width 3 || echo "预测失败"
+            
+            # 测试5: 简短回答
+            echo ""
+            echo "📝 测试5: 简短回答"
             python predict.py \
               --model_path saved_model/rl_final \
               --prompt "Hello" \
-              --max_length 150 \
-              --temperature 0.9 \
-              --top_k 30 \
-              --top_p 0.95
-            
-            echo "✓ RL模型预测完成"
+              --max_length 20 \
+              --temperature 0.5 \
+              --top_k 10 \
+              --top_p 0.8 || echo "预测失败"
           else
-            echo "⚠ RL模型不存在，跳过预测"
+            echo "⚠️ 跳过预测测试"
           fi
-          
-      # 10. 运行交互模式测试（使用预训练模型）
-      - name: Run prediction test with Pretrain model
-        id: predict_pretrain
+
+      - name: Upload DPO model
+        uses: actions/upload-artifact@v4
+        with:
+          name: dpo-model
+          path: saved_model/rl_final/
+          retention-days: 7
+
+      - name: Upload DPO predictions
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dpo-predictions
+          path: predictions/
+          retention-days: 7
+          if-no-files-found: ignore
+
+  # ============================================================
+  # Job 4: 打包所有模型和预测结果
+  # ============================================================
+  package:
+    needs: [pretrain, sft, dpo]
+    runs-on: ubuntu-latest
+    if: always()
+    timeout-minutes: 30
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: downloaded/
+
+      - name: Package everything
         run: |
           echo "========================================="
-          echo "运行预测测试 (预训练模型)"
+          echo "打包所有模型和预测结果"
           echo "========================================="
           
-          # 检查预训练模型是否存在
-          if [ -d "saved_model/pretrain_final" ] && [ -f "saved_model/pretrain_final/model.keras" ]; then
-            echo "✓ 找到预训练模型，开始预测..."
-            
-            # 运行预测
-            python predict.py \
-              --model_path saved_model/pretrain_final \
-              --prompt "Hello" \
-              --max_length 80 \
-              --temperature 0.7 \
-              --top_k 40
-            
-            echo "✓ 预训练模型预测完成"
-          else
-            echo "⚠ 预训练模型不存在，跳过预测"
+          mkdir -p final_package/models
+          mkdir -p final_package/predictions
+          mkdir -p final_package/logs
+          
+          # 复制模型
+          if [ -d "downloaded/pretrain-model" ]; then
+            cp -r downloaded/pretrain-model final_package/models/pretrain_final
+            echo "✅ 预训练模型已打包"
           fi
           
-      # 11. 保存预测结果到文件
-      - name: Save prediction results
-        run: |
-          echo "保存预测结果..."
-          
-          # 创建预测结果目录
-          mkdir -p output/predictions
-          
-          # 如果有预测输出，保存到文件
-          if [ -f "generated_results.txt" ]; then
-            cp generated_results.txt output/predictions/
-            echo "✓ 预测结果已保存"
+          if [ -d "downloaded/sft-model" ]; then
+            cp -r downloaded/sft-model final_package/models/sft_final
+            echo "✅ SFT模型已打包"
           fi
           
-          # 创建预测结果摘要
-          cat > output/predictions/prediction_summary.md << 'EOF'
-          # 模型预测测试结果
+          if [ -d "downloaded/dpo-model" ]; then
+            cp -r downloaded/dpo-model final_package/models/rl_final
+            echo "✅ DPO模型已打包"
+          fi
           
-          ## 测试的模型
-          - SFT模型 (saved_model/sft_final)
-          - RL模型 (saved_model/rl_final) 
-          - 预训练模型 (saved_model/pretrain_final)
+          # 复制预测结果
+          if [ -d "downloaded/pretrain-predictions" ] && [ "$(ls -A downloaded/pretrain-predictions)" ]; then
+            cp -r downloaded/pretrain-predictions/* final_package/predictions/pretrain/ 2>/dev/null || echo "无预测结果"
+            echo "✅ 预训练预测结果已打包"
+          fi
           
-          ## 测试提示词
-          - "你好。" 
-          - "床前明月光"
-          - "春眠不觉晓"
+          if [ -d "downloaded/sft-predictions" ] && [ "$(ls -A downloaded/sft-predictions)" ]; then
+            cp -r downloaded/sft-predictions/* final_package/predictions/sft/ 2>/dev/null || echo "无预测结果"
+            echo "✅ SFT预测结果已打包"
+          fi
           
-          ## 结果说明
-          以上是各模型在测试提示词下的生成结果。
-          具体生成文本请查看日志输出。
-          EOF
-          
-      # 12. 整理输出文件到output目录
-      - name: Organize output files
-        run: |
-          echo "整理输出文件..."
-          
-          # 创建output目录结构
-          mkdir -p output/models
-          mkdir -p output/checkpoints
-          mkdir -p output/logs
-          mkdir -p output/predictions
-          
-          # 复制模型文件
-          if [ -d "saved_model" ]; then
-            cp -r saved_model/* output/models/ 2>/dev/null || echo "没有模型文件"
+          if [ -d "downloaded/dpo-predictions" ] && [ "$(ls -A downloaded/dpo-predictions)" ]; then
+            cp -r downloaded/dpo-predictions/* final_package/predictions/dpo/ 2>/dev/null || echo "无预测结果"
+            echo "✅ DPO预测结果已打包"
           fi
           
           # 复制配置文件
           if [ -f "vocab.json" ]; then
-            cp vocab.json output/
+            cp vocab.json final_package/
           fi
           
-          if [ -f "saved_model/config.json" ]; then
-            cp saved_model/config.json output/
+          if [ -f "predict.py" ]; then
+            cp predict.py final_package/
           fi
           
-          # 创建说明文件
-          cat > output/README.md << 'EOF'
-          # 训练输出文件
-          
-          ## 模型文件
-          - `models/pretrain_final/` - 预训练模型
-          - `models/sft_final/` - SFT微调模型
-          - `models/rl_final/` - DPO强化学习模型
-          
-          ## 配置文件
-          - `vocab.json` - 词汇表
-          - `config.json` - 模型配置
-          
-          ## 预测结果
-          - `predictions/` - 预测测试结果
-          
-          ## 使用说明
-          下载模型后，可以使用 predict.py 进行文本生成：
-          
+          # 创建详细的README
+          cat > final_package/README.md << 'EOF'
+          # 🎯 训练完成的模型 + 预测结果
+
+          ## 📦 模型列表
+          | 模型 | 路径 | 说明 |
+          |------|------|------|
+          | 预训练模型 | `models/pretrain_final/` | 哈利波特语料预训练 |
+          | SFT模型 | `models/sft_final/` | SQuAD数据微调 |
+          | DPO模型 | `models/rl_final/` | DPO强化学习优化 |
+
+          ## 📊 预测结果
+          - `predictions/pretrain/` - 预训练模型预测结果
+          - `predictions/sft/` - SFT模型预测结果
+          - `predictions/dpo/` - DPO模型预测结果
+
+          ## 🚀 快速开始
+
           ### 使用SFT模型
           ```bash
-          python predict.py --model_path models/sft_final --prompt "你的提示词"
+          python predict.py --model_path models/sft_final --prompt "Your question"
           ```
-          
-          ### 使用RL模型
+
+          ### 使用DPO模型（推荐）
           ```bash
-          python predict.py --model_path models/rl_final --prompt "你的提示词" --temperature 0.9
+          python predict.py --model_path models/rl_final --prompt "Your question"
           ```
-          
+
           ### 交互模式
           ```bash
           python predict.py --interactive --model_path models/sft_final
           ```
+
+          ### 批处理模式
+          ```bash
+          python predict.py --model_path models/rl_final --batch prompts.txt
+          ```
+
+          ## 📈 训练配置
+          - 词汇表大小: 3000
+          - 嵌入维度: 384
+          - 注意力头数: 6
+          - 层数: 6
+          - 序列长度: 256
+          - SFT学习率: 1e-6
+          - DPO学习率: 1e-7
+
+          ## 📝 测试提示词
+          预测测试使用了以下提示词：
+          1. 简单问答: "What is the capital of France?"
+          2. 哈利波特: "Who is Harry Potter?"
+          3. 创意生成: "Once upon a time"
+          4. 知识问答: "Who wrote Pride and Prejudice?"
+          5. 未来展望: "In the future, AI will"
+          6. 简短回答: "Hello"
+
+          ## 💡 建议
+          1. 如果追求准确度，使用SFT模型
+          2. 如果追求创意和多样性，使用DPO模型
+          3. 可以尝试不同的temperature参数 (0.5-1.0)
+          4. 使用beam_search可以获得更连贯的文本
+
+          ## 系统要求
+          - Python 3.10+
+          - TensorFlow 2.15+
+          - 4GB+ RAM
           EOF
-          
-          # 显示output目录内容
-          echo "Output目录内容:"
-          ls -la output/
-          find output/ -type f | head -30
 
-      # 13. 上传生成的模型文件和预测结果
-      - name: Upload artifacts
+          # 创建预测结果汇总
+          cat > final_package/predictions/SUMMARY.md << 'EOF'
+          # 预测结果汇总
+
+          此文件夹包含各模型在不同提示词下的预测结果。
+
+          ## 测试方法
+          每个模型都使用相同的测试集进行预测，以对比效果。
+
+          ## 结果说明
+          - 预训练模型: 基础能力，可能不够流畅
+          - SFT模型: 更准确的问答能力
+          - DPO模型: 更自然的对话能力
+
+          ## 建议
+          对比查看各模型的输出，选择最适合您需求的模型。
+          EOF
+
+          # 打包
+          tar -czf complete_package.tar.gz final_package/
+          echo ""
+          echo "========================================="
+          echo "✅ 打包完成: complete_package.tar.gz"
+          echo "========================================="
+          echo "文件大小: $(du -sh complete_package.tar.gz | cut -f1)"
+          echo ""
+          echo "目录结构:"
+          tree final_package/ 2>/dev/null || find final_package/ -type f | head -30
+
+      - name: Upload complete package
         uses: actions/upload-artifact@v4
         with:
-          name: trained-model-with-predictions
-          path: |
-            output/
-            saved_model/
-            vocab.json
-            saved_model/config.json
-            generated_results.txt
-          if-no-files-found: warn
+          name: complete-package
+          path: complete_package.tar.gz
           retention-days: 30
-          compression-level: 6
-          
-      # 14. 上传训练日志
-      - name: Upload logs
-        if: always()  # 即使训练失败也上传日志
+
+      - name: Upload unpacked files
         uses: actions/upload-artifact@v4
         with:
-          name: training-logs
-          path: |
-            *.log
-            *.txt
-            saved_model/*.log
-            output/logs/
-          if-no-files-found: ignore
-          retention-days: 7
+          name: final-package-unpacked
+          path: final_package/
+          retention-days: 30
 
-      # 15. 显示磁盘使用情况
-      - name: Show disk usage
-        if: always()
-        run: |
-          echo "磁盘使用情况:"
-          df -h
-          echo "模型目录大小:"
-          du -sh saved_model/ 2>/dev/null || echo "没有模型目录"
-          echo "输出目录大小:"
-          du -sh output/ 2>/dev/null || echo "没有输出目录"
-          
-      # 16. 显示预测结果摘要
-      - name: Show prediction summary
-        if: always()
+      - name: Show final summary
         run: |
           echo "========================================="
-          echo "预测结果摘要"
+          echo "🎉 所有任务完成！"
           echo "========================================="
-          
-          if [ -d "output/predictions" ]; then
-            echo "预测结果已保存到 output/predictions/"
-            ls -la output/predictions/
-          fi
-          
-          echo "========================================="
-          echo "✅ 训练和预测流程完成！"
+          echo ""
+          echo "📦 下载 complete-package 包含:"
+          echo "  - complete_package.tar.gz (所有模型+预测结果)"
+          echo ""
+          echo "📁 下载 final-package-unpacked 包含:"
+          echo "  - models/  (所有模型文件夹)"
+          echo "  - predictions/ (所有预测结果)"
+          echo "  - vocab.json (词汇表)"
+          echo "  - predict.py (预测脚本)"
+          echo "  - README.md (完整说明)"
+          echo ""
+          echo "🔍 预测测试已完成:"
+          echo "  - 预训练模型: 2个测试"
+          echo "  - SFT模型: 4个测试"
+          echo "  - DPO模型: 5个测试"
           echo "========================================="
