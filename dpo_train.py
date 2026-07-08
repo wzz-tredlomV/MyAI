@@ -272,7 +272,7 @@ if __name__ == "__main__":
         seq_len=256,
         batch_size=4,
         pretrain_epochs=5,
-        sft_epochs=15,
+        sft_epochs=10,
         rl_epochs=10,
         steps_per_epoch=300
     )
