@@ -272,8 +272,8 @@ if __name__ == "__main__":
         seq_len=256,
         batch_size=4,
         pretrain_epochs=5,
-        sft_epochs=20,
-        rl_epochs=15,
+        sft_epochs=15,
+        rl_epochs=10,
         steps_per_epoch=300
     )
     print(f"词汇表大小: {config.vocab_size}")
