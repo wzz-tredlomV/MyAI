@@ -12,7 +12,7 @@ import shutil
 register_keras_serializable = tf.keras.utils.register_keras_serializable
 
 # ============================================================
-# 注册所有自定义对象（Keras 3 推荐做法，加载时无需手动传 custom_objects）
+# 注册所有自定义对象
 # ============================================================
 
 @dataclass
@@ -494,116 +494,7 @@ def evaluate_pretrain(model, val_dataset, loss_fn, max_val_steps=50):
     return avg_val_loss, val_perplexity
 
 
-# ==================== 训练函数 ====================
-
-def pretrain(model, train_data_generator, val_data_generator, vocab_size, config: ModelConfig):
-    try:
-        policy = keras.mixed_precision.Policy('mixed_float16')
-        keras.mixed_precision.set_global_policy(policy)
-
-        lr_schedule = keras.optimizers.schedules.CosineDecay(
-            initial_learning_rate=config.pretrain_lr,
-            decay_steps=config.steps_per_epoch * config.pretrain_epochs,
-            alpha=1e-6
-        )
-        optimizer = keras.optimizers.AdamW(
-            learning_rate=lr_schedule,
-            weight_decay=config.weight_decay,
-            global_clipnorm=1.0
-        )
-
-        loss_fn = keras.losses.SparseCategoricalCrossentropy(from_logits=True, ignore_class=0)
-
-        train_dataset = tf.data.Dataset.from_generator(
-            train_data_generator,
-            output_signature=(
-                tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32),
-                tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32)
-            )
-        )
-        train_dataset = train_dataset.prefetch(tf.data.AUTOTUNE)
-
-        val_dataset = tf.data.Dataset.from_generator(
-            val_data_generator,
-            output_signature=(
-                tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32),
-                tf.TensorSpec(shape=(config.batch_size, config.seq_len), dtype=tf.int32)
-            )
-        )
-        val_dataset = val_dataset.prefetch(tf.data.AUTOTUNE)
-
-        total_samples = len(train_data_generator)
-        actual_steps_per_epoch = min(config.steps_per_epoch, total_samples)
-        total_steps = actual_steps_per_epoch * config.pretrain_epochs
-
-        best_val_loss = float('inf')
-        best_epoch = 0
-
-        with tqdm(total=total_steps, desc="预训练总进度", unit="step", position=0, leave=True) as total_pbar:
-            for epoch in range(config.pretrain_epochs):
-                epoch_pbar = tqdm(
-                    total=actual_steps_per_epoch,
-                    desc=f"Epoch {epoch+1}/{config.pretrain_epochs}",
-                    unit="step",
-                    position=1,
-                    leave=False
-                )
-                epoch_losses = []
-                step = 0
-                for x, y in train_dataset:
-                    if step >= actual_steps_per_epoch:
-                        break
-                    with tf.GradientTape() as tape:
-                        logits = model(x, training=True)
-                        loss = loss_fn(y, logits)
-                    grads = tape.gradient(loss, model.trainable_variables)
-
-                    optimizer.apply_gradients(zip(grads, model.trainable_variables))
-                    loss_val = loss.numpy()
-                    epoch_losses.append(loss_val)
-                    step += 1
-
-                    epoch_pbar.update(1)
-                    epoch_pbar.set_postfix(loss=f"{loss_val:.4f}")
-                    total_pbar.update(1)
-                    total_pbar.set_postfix(epoch=f"{epoch+1}", loss=f"{loss_val:.4f}")
-
-                epoch_pbar.close()
-                avg_loss = np.mean(epoch_losses) if epoch_losses else 0
-                train_perplexity = np.exp(avg_loss)
-
-                print(f"\n  正在验证 Epoch {epoch+1}...")
-                val_loss, val_perplexity = evaluate_pretrain(model, val_dataset, loss_fn)
-                print(f"  [验证] Loss: {val_loss:.4f}, 困惑度: {val_perplexity:.2f}")
-
-                if val_loss < best_val_loss:
-                    best_val_loss = val_loss
-                    best_epoch = epoch + 1
-                    save_best_model(model, "saved_model/pretrain_best", is_best=True)
-                    print(f"  ★ 新的最佳模型！Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
-                else:
-                    print(f"  当前最佳: Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
-
-                print(f"\n[Epoch {epoch+1}/{config.pretrain_epochs}] 训练Loss: {avg_loss:.4f}, 训练困惑度: {train_perplexity:.2f}")
-
-        print(f"\n预训练完成！最佳模型来自 Epoch {best_epoch}, Val Loss: {best_val_loss:.4f}")
-        if os.path.exists("saved_model/pretrain_best"):
-            if os.path.exists("saved_model/pretrain_final"):
-                shutil.rmtree("saved_model/pretrain_final")
-            shutil.copytree("saved_model/pretrain_best", "saved_model/pretrain_final")
-            print("最佳模型已保存为 pretrain_final")
-
-    except KeyboardInterrupt:
-        print("\n训练被用户中断，保存当前模型...")
-        save_model_dual_format(model, "saved_model/pretrain_interrupted")
-        raise
-    except Exception as e:
-        print(f"训练出错: {e}")
-        save_model_dual_format(model, "saved_model/pretrain_error")
-        raise
-
-
-# ==================== 修复版 SFTDataGenerator ====================
+# ==================== SFTDataGenerator - 修复版 ====================
 
 class SFTDataGenerator:
     def __init__(self, jsonl_path, vocab, config: ModelConfig, max_samples=None):
@@ -616,20 +507,21 @@ class SFTDataGenerator:
         self.user_id = vocab.get('<|user|>', 4)
         self.bot_id = vocab.get('<|bot|>', 5)
         
-        # 自动计算合适的 seq_len
-        self.seq_len = self._auto_seq_len(jsonl_path)
-        if self.seq_len != config.seq_len:
-            print(f"  ✅ 自动调整 seq_len: {config.seq_len} -> {self.seq_len}")
-            config.seq_len = self.seq_len
+        # 分析数据，自动调整 seq_len 和 prompt 长度
+        self._analyze_data(jsonl_path)
         
         self.samples = self._load_data(jsonl_path, max_samples)
         print(f"  ✅ 加载了 {len(self.samples)} 条样本")
         if self.samples:
-            print(f"  样本长度: {len(self.samples[0]['x'])}")
+            print(f"  ✅ 样本平均长度: {np.mean([len(s['x']) for s in self.samples]):.0f}")
 
-    def _auto_seq_len(self, jsonl_path, max_samples=500):
-        """自动计算合适的 seq_len"""
-        lengths = []
+    def _analyze_data(self, jsonl_path, max_samples=500):
+        """分析数据，确定合适的 seq_len 和 prompt 截断长度"""
+        print(f"\n📊 分析数据: {jsonl_path}")
+        
+        prompt_lens = []
+        response_lens = []
+        total_lens = []
         
         with open(jsonl_path, 'r', encoding='utf-8') as f:
             for i, line in enumerate(f):
@@ -637,23 +529,41 @@ class SFTDataGenerator:
                     break
                 if line.strip():
                     item = json.loads(line)
-                    # 估算 token 长度（按字符数估算）
-                    total_len = len(item.get('prompt', '')) + len(item.get('response', ''))
-                    lengths.append(total_len)
+                    prompt_len = len(item.get('prompt', ''))
+                    response_len = len(item.get('response', ''))
+                    prompt_lens.append(prompt_len)
+                    response_lens.append(response_len)
+                    total_lens.append(prompt_len + response_len)
         
-        if not lengths:
-            return self.config.seq_len
-        
-        # 使用 90% 百分位数
-        seq_len = int(np.percentile(lengths, 90))
-        
-        # 限制范围
-        seq_len = max(64, min(seq_len, 512))
-        
-        # 对齐到 8 的倍数
-        seq_len = (seq_len // 8) * 8
-        
-        return seq_len
+        if prompt_lens:
+            # 计算百分位数
+            p95_total = int(np.percentile(total_lens, 95))
+            p90_prompt = int(np.percentile(prompt_lens, 90))
+            p80_response = int(np.percentile(response_lens, 80))
+            
+            # 设置 seq_len: 使用总长度的 95% 百分位数，但不超过 512
+            self.seq_len = min(max(p95_total + 10, 128), 512)
+            # 对齐到 8 的倍数
+            self.seq_len = (self.seq_len // 8) * 8
+            
+            # 设置 prompt 最大长度: 为 response 留出空间
+            # 至少保留 20 个 token 给 response
+            self.max_prompt_len = max(self.seq_len - 20, 100)
+            # 但不超过 prompt 长度的 90% 百分位数
+            self.max_prompt_len = min(self.max_prompt_len, p90_prompt + 20)
+            
+            # 更新 config
+            if self.seq_len != self.config.seq_len:
+                print(f"  ✅ 自动调整 seq_len: {self.config.seq_len} -> {self.seq_len}")
+                self.config.seq_len = self.seq_len
+            
+            print(f"  ✅ 数据统计:")
+            print(f"     总长度 (P95): {p95_total}")
+            print(f"     Prompt (P90): {p90_prompt}")
+            print(f"     Response (P80): {p80_response}")
+            print(f"  ✅ 调整后:")
+            print(f"     seq_len: {self.seq_len}")
+            print(f"     max_prompt_len: {self.max_prompt_len}")
 
     def _encode(self, prompt, response):
         prompt_ids = [self.bos_id, self.user_id]
@@ -676,14 +586,21 @@ class SFTDataGenerator:
                     item = json.loads(line)
                     prompt_ids, response_ids = self._encode(item['prompt'], item['response'])
                     
-                    # 使用自动计算的 seq_len
-                    max_total_len = self.seq_len + 1
-                    full_ids = (prompt_ids + response_ids)[:max_total_len]
+                    # ✅ 关键修复：截断 prompt，为 response 留空间
+                    if len(prompt_ids) > self.max_prompt_len:
+                        prompt_ids = prompt_ids[:self.max_prompt_len]
+                    
+                    # 构建完整序列
+                    full_ids = prompt_ids + response_ids
+                    
+                    # 如果还是超过 seq_len，截断 response
+                    if len(full_ids) > self.seq_len + 1:
+                        full_ids = full_ids[:self.seq_len + 1]
                     
                     if len(full_ids) >= 2:
                         x = full_ids[:-1]
                         y = full_ids[1:]
-                        prompt_len = min(len(prompt_ids), len(x))
+                        prompt_len = len(prompt_ids)
                         
                         samples.append({
                             'x': x,
@@ -749,15 +666,6 @@ def evaluate_sft(model, val_dataset, sft_loss_fn, max_val_steps=50):
 def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfig):
     try:
         print(f"\n📊 SFT训练配置: lr={config.sft_lr}, epochs={config.sft_epochs}, clipnorm=0.5")
-        
-        # 检查数据
-        print("\n🔍 检查SFT数据...")
-        with open(train_jsonl_path, 'r', encoding='utf-8') as f:
-            lines = f.readlines()
-            print(f"  总行数: {len(lines)}")
-            if len(lines) > 0:
-                sample = json.loads(lines[0])
-                print(f"  样例: {json.dumps(sample, ensure_ascii=False)[:200]}...")
         
         train_data_gen = SFTDataGenerator(train_jsonl_path, vocab, config)
         
@@ -1157,14 +1065,13 @@ if __name__ == "__main__":
 
     vocab = load_vocab(VOCAB_PATH)
     
-    # 创建配置（seq_len 会被自动调整）
     config = ModelConfig(
         vocab_size=len(vocab),
         embed_dim=384,
         num_heads=6,
         num_layers=6,
         max_len=512,
-        seq_len=256,  # 默认值，会被自动调整
+        seq_len=256,
         batch_size=4,
         pretrain_epochs=5,
         sft_epochs=20,
