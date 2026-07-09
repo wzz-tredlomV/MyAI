@@ -26,12 +26,12 @@ class ModelConfig:
     seq_len: int = 256
     batch_size: int = 4
     pretrain_lr: float = 5e-4
-    sft_lr: float = 1e-6          # 降低学习率防止 NaN
-    rl_lr: float = 1e-7           # 降低学习率防止 NaN
+    sft_lr: float = 1e-6
+    rl_lr: float = 1e-7
     weight_decay: float = 0.01
     pretrain_epochs: int = 5
-    sft_epochs: int = 10          # GitHub Actions 安全范围
-    rl_epochs: int = 5           # GitHub Actions 安全范围
+    sft_epochs: int = 20
+    rl_epochs: int = 15
     steps_per_epoch: int = 300
 
     def to_dict(self):
@@ -603,6 +603,8 @@ def pretrain(model, train_data_generator, val_data_generator, vocab_size, config
         raise
 
 
+# ==================== 修复版 SFTDataGenerator ====================
+
 class SFTDataGenerator:
     def __init__(self, jsonl_path, vocab, config: ModelConfig, max_samples=None):
         self.vocab = vocab
@@ -613,7 +615,58 @@ class SFTDataGenerator:
         self.eos_id = vocab.get('<|eos|>', 2)
         self.user_id = vocab.get('<|user|>', 4)
         self.bot_id = vocab.get('<|bot|>', 5)
+        
+        # 自动计算合适的 seq_len
+        self.seq_len = self._auto_seq_len(jsonl_path)
+        if self.seq_len != config.seq_len:
+            print(f"  ✅ 自动调整 seq_len: {config.seq_len} -> {self.seq_len}")
+            config.seq_len = self.seq_len
+        
         self.samples = self._load_data(jsonl_path, max_samples)
+        print(f"  ✅ 加载了 {len(self.samples)} 条样本")
+        if self.samples:
+            print(f"  样本长度: {len(self.samples[0]['x'])}")
+
+    def _auto_seq_len(self, jsonl_path, max_samples=500):
+        """自动计算合适的 seq_len"""
+        lengths = []
+        
+        with open(jsonl_path, 'r', encoding='utf-8') as f:
+            for i, line in enumerate(f):
+                if i >= max_samples:
+                    break
+                if line.strip():
+                    item = json.loads(line)
+                    # 估算 token 长度（按字符数估算）
+                    total_len = len(item.get('prompt', '')) + len(item.get('response', ''))
+                    lengths.append(total_len)
+        
+        if not lengths:
+            return self.config.seq_len
+        
+        # 使用 90% 百分位数
+        seq_len = int(np.percentile(lengths, 90))
+        
+        # 限制范围
+        seq_len = max(64, min(seq_len, 512))
+        
+        # 对齐到 8 的倍数
+        seq_len = (seq_len // 8) * 8
+        
+        return seq_len
+
+    def _encode(self, prompt, response):
+        prompt_ids = [self.bos_id, self.user_id]
+        for ch in prompt:
+            prompt_ids.append(self.vocab.get(ch, self.unk_id))
+        prompt_ids.append(self.bot_id)
+        
+        response_ids = []
+        for ch in response:
+            response_ids.append(self.vocab.get(ch, self.unk_id))
+        response_ids.append(self.eos_id)
+        
+        return prompt_ids, response_ids
 
     def _load_data(self, path, max_samples=None):
         samples = []
@@ -621,23 +674,26 @@ class SFTDataGenerator:
             for line in f:
                 if line.strip():
                     item = json.loads(line)
-                    prompt_ids, response_ids, full_ids = self._encode(item['prompt'], item['response'])
+                    prompt_ids, response_ids = self._encode(item['prompt'], item['response'])
+                    
+                    # 使用自动计算的 seq_len
+                    max_total_len = self.seq_len + 1
+                    full_ids = (prompt_ids + response_ids)[:max_total_len]
+                    
                     if len(full_ids) >= 2:
-                        samples.append({'x': full_ids[:-1], 'y': full_ids[1:], 'prompt_len': len(prompt_ids)})
+                        x = full_ids[:-1]
+                        y = full_ids[1:]
+                        prompt_len = min(len(prompt_ids), len(x))
+                        
+                        samples.append({
+                            'x': x,
+                            'y': y,
+                            'prompt_len': prompt_len
+                        })
+                    
                     if max_samples and len(samples) >= max_samples:
                         break
         return samples
-
-    def _encode(self, prompt, response):
-        prompt_ids = [self.bos_id, self.user_id]
-        for ch in prompt:
-            prompt_ids.append(self.vocab.get(ch, self.unk_id))
-        prompt_ids.append(self.bot_id)
-        response_ids = []
-        for ch in response:
-            response_ids.append(self.vocab.get(ch, self.unk_id))
-        response_ids.append(self.eos_id)
-        return prompt_ids, response_ids, prompt_ids + response_ids
 
     def __len__(self):
         return len(self.samples) // self.config.batch_size
@@ -649,22 +705,30 @@ class SFTDataGenerator:
             x = sample['x']
             y = sample['y']
             prompt_len = sample['prompt_len']
+            
+            # 创建 loss_mask
             loss_mask = [0.0] * prompt_len + [1.0] * (len(x) - prompt_len)
-            if len(x) < self.config.seq_len:
-                pad_len = self.config.seq_len - len(x)
+            
+            # Padding 到 seq_len
+            if len(x) < self.seq_len:
+                pad_len = self.seq_len - len(x)
                 x = x + [self.pad_id] * pad_len
                 y = y + [self.pad_id] * pad_len
                 loss_mask = loss_mask + [0.0] * pad_len
             else:
-                x = x[:self.config.seq_len]
-                y = y[:self.config.seq_len]
-                loss_mask = loss_mask[:self.config.seq_len]
+                x = x[:self.seq_len]
+                y = y[:self.seq_len]
+                loss_mask = loss_mask[:self.seq_len]
+            
             batch_x.append(x)
             batch_y.append(y)
             batch_mask.append(loss_mask)
             count += 1
+            
             if count == self.config.batch_size:
-                yield np.array(batch_x, dtype=np.int32), np.array(batch_y, dtype=np.int32), np.array(batch_mask, dtype=np.float32)
+                yield np.array(batch_x, dtype=np.int32), \
+                      np.array(batch_y, dtype=np.int32), \
+                      np.array(batch_mask, dtype=np.float32)
                 batch_x, batch_y, batch_mask = [], [], []
                 count = 0
 
@@ -686,7 +750,17 @@ def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
     try:
         print(f"\n📊 SFT训练配置: lr={config.sft_lr}, epochs={config.sft_epochs}, clipnorm=0.5")
         
+        # 检查数据
+        print("\n🔍 检查SFT数据...")
+        with open(train_jsonl_path, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+            print(f"  总行数: {len(lines)}")
+            if len(lines) > 0:
+                sample = json.loads(lines[0])
+                print(f"  样例: {json.dumps(sample, ensure_ascii=False)[:200]}...")
+        
         train_data_gen = SFTDataGenerator(train_jsonl_path, vocab, config)
+        
         if val_jsonl_path and os.path.exists(val_jsonl_path):
             val_data_gen = SFTDataGenerator(val_jsonl_path, vocab, config)
         else:
@@ -698,7 +772,8 @@ def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
         def sft_loss(y_true, y_pred, loss_mask):
             loss = tf.keras.losses.sparse_categorical_crossentropy(y_true, y_pred, from_logits=True)
             loss = loss * loss_mask
-            total_mask = tf.reduce_sum(loss_mask) + 1e-8
+            total_mask = tf.reduce_sum(loss_mask)
+            total_mask = tf.maximum(total_mask, 1.0)
             return tf.reduce_sum(loss) / total_mask
 
         optimizer = keras.optimizers.AdamW(
@@ -795,6 +870,8 @@ def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
         save_model_dual_format(model, "saved_model/sft_error")
         raise
 
+
+# ==================== DPO 相关 ====================
 
 class DPODataGenerator:
     def __init__(self, jsonl_path, vocab, config: ModelConfig, max_pairs=None):
@@ -1019,6 +1096,8 @@ def dpo_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
         raise
 
 
+# ==================== 工具函数 ====================
+
 def load_vocab(json_path):
     with open(json_path, 'r', encoding='utf-8') as f:
         char_to_idx = json.load(f)
@@ -1058,6 +1137,8 @@ def build_model(config):
     return model
 
 
+# ==================== 主程序 ====================
+
 if __name__ == "__main__":
     keras.mixed_precision.set_global_policy("float32")
     VOCAB_PATH = "vocab.json"
@@ -1075,21 +1156,24 @@ if __name__ == "__main__":
         exit()
 
     vocab = load_vocab(VOCAB_PATH)
+    
+    # 创建配置（seq_len 会被自动调整）
     config = ModelConfig(
         vocab_size=len(vocab),
         embed_dim=384,
         num_heads=6,
         num_layers=6,
         max_len=512,
-        seq_len=256,
+        seq_len=256,  # 默认值，会被自动调整
         batch_size=4,
         pretrain_epochs=5,
-        sft_epochs=20,          # GitHub Actions 安全范围
-        rl_epochs=15,           # GitHub Actions 安全范围
+        sft_epochs=20,
+        rl_epochs=15,
         steps_per_epoch=300
     )
+    
     print(f"词汇表大小: {config.vocab_size}")
-    print(f"📊 训练配置: SFT={config.sft_epochs}轮, RL={config.rl_epochs}轮, 预计耗时~5-6小时")
+    print(f"📊 训练配置: SFT={config.sft_epochs}轮, RL={config.rl_epochs}轮")
 
     corpus_text = load_corpus(CORPUS_FOLDER)
     print(f"总语料长度: {len(corpus_text)} 字符")
