@@ -1,4 +1,8 @@
-# predict.py
+"""
+predict_enhanced.py
+适配 train_enhanced.py 的推理脚本
+修复了 Top-P 采样、字符级编码、Chat 格式对齐、中文空格等问题
+"""
 import tensorflow as tf
 from tensorflow import keras
 import json
@@ -7,732 +11,546 @@ import sys
 import os
 import time
 import re
-from typing import List, Optional, Tuple
+from typing import List, Optional, Tuple, Dict
 
-# 导入训练代码中的自定义类
-from train import (
-    LiteratureTransformer, ModelConfig, RotaryEmbedding,
-    CustomLayerNorm, CustomMultiHeadAttention, CustomFFN,
-    CustomTransformerBlock, load_model_keras, load_vocab
-)
+# ============================================================
+# 导入模型定义（兼容 train_enhanced.py 和 train.py）
+# ============================================================
+
+try:
+    from train_enhanced import (
+        LiteratureTransformer, ModelConfig, RotaryEmbedding,
+        CustomLayerNorm, CustomMultiHeadAttention, CustomFFN,
+        CustomTransformerBlock, load_vocab
+    )
+    MODEL_SOURCE = "train_enhanced"
+except ImportError:
+    try:
+        from train import (
+            LiteratureTransformer, ModelConfig, RotaryEmbedding,
+            CustomLayerNorm, CustomMultiHeadAttention, CustomFFN,
+            CustomTransformerBlock, load_vocab, load_model_keras
+        )
+        MODEL_SOURCE = "train"
+    except ImportError as e:
+        print(f"无法导入训练模块: {e}")
+        print("请确保 train_enhanced.py 或 train.py 在同一目录下")
+        sys.exit(1)
+
+
+# ============================================================
+# 文本生成器
+# ============================================================
 
 class TextGenerator:
-    """文本生成器类，支持多种生成策略"""
-    
+    """文本生成器，支持贪婪/Top-K/Top-P/Beam Search"""
+
     def __init__(self, model_path: str, vocab_path: str, config_path: Optional[str] = None):
-        """
-        初始化生成器
-        
-        Args:
-            model_path: 模型路径（包含model.keras的文件夹）
-            vocab_path: 词汇表路径
-            config_path: 配置文件路径（可选）
-        """
-        # 设置混合精度
         keras.mixed_precision.set_global_policy("float32")
-        
+
         # 加载词汇表
         self.vocab = load_vocab(vocab_path)
         self.idx_to_char = {v: k for k, v in self.vocab.items()}
-        
-        # 获取特殊token ID
+        self.vocab_size = len(self.vocab)
+
+        # 特殊 token ID
         self.pad_id = self.vocab.get('<|pad|>', 0)
         self.unk_id = self.vocab.get('<|unk|>', 3)
         self.bos_id = self.vocab.get('<|bos|>', 1)
         self.eos_id = self.vocab.get('<|eos|>', 2)
         self.user_id = self.vocab.get('<|user|>', 4)
         self.bot_id = self.vocab.get('<|bot|>', 5)
-        
+
         # 加载模型
         self.model = self._load_model(model_path, config_path)
-        
-        # 获取模型配置
-        if hasattr(self.model, 'config'):
+
+        # 获取配置
+        if hasattr(self.model, 'config') and self.model.config is not None:
             self.config = self.model.config
+        elif config_path and os.path.exists(config_path):
+            with open(config_path, 'r', encoding='utf-8') as f:
+                self.config = ModelConfig.from_dict(json.load(f))
         else:
-            # 如果模型没有config属性，从配置文件加载
-            if config_path and os.path.exists(config_path):
-                with open(config_path, 'r', encoding='utf-8') as f:
-                    config_dict = json.load(f)
-                self.config = ModelConfig.from_dict(config_dict)
-            else:
-                # 使用默认配置
-                self.config = ModelConfig(
-                    vocab_size=len(self.vocab),
-                    seq_len=256,
-                    embed_dim=384,
-                    num_heads=6,
-                    num_layers=6
-                )
-        
+            self.config = ModelConfig(
+                vocab_size=self.vocab_size,
+                seq_len=256,
+                embed_dim=384,
+                num_heads=6,
+                num_layers=6
+            )
+
         print(f"✓ 生成器初始化完成")
-        print(f"  - 词汇表大小: {len(self.vocab)}")
+        print(f"  - 词汇表大小: {self.vocab_size}")
         print(f"  - 最大序列长度: {self.config.seq_len}")
-        print(f"  - 模型层数: {self.config.num_layers}")
-    
+        print(f"  - 模型来源: {MODEL_SOURCE}")
+
     def _load_model(self, model_path: str, config_path: Optional[str] = None):
-        """加载模型"""
-        try:
-            # 尝试直接加载.keras文件
-            keras_path = os.path.join(model_path, "model.keras")
-            if os.path.exists(keras_path):
-                model = load_model_keras(model_path)
+        """加载模型，支持多种格式"""
+        # 1. 尝试 .keras 格式
+        keras_path = os.path.join(model_path, "model.keras")
+        if os.path.exists(keras_path):
+            try:
+                if MODEL_SOURCE == "train":
+                    model = load_model_keras(model_path)
+                else:
+                    model = keras.models.load_model(keras_path)
                 print(f"✓ 从 {keras_path} 加载模型")
                 return model
-            
-            # 尝试从SavedModel加载
-            savedmodel_path = os.path.join(model_path, "savedmodel")
-            if os.path.exists(savedmodel_path):
+            except Exception as e:
+                print(f"  ⚠️ .keras 加载失败: {e}")
+
+        # 2. 尝试 SavedModel
+        savedmodel_path = os.path.join(model_path, "savedmodel")
+        if os.path.exists(savedmodel_path):
+            try:
                 model = tf.saved_model.load(savedmodel_path)
                 print(f"✓ 从 {savedmodel_path} 加载模型")
                 return model
-            
-            # 尝试从config重建
-            if config_path and os.path.exists(config_path):
-                with open(config_path, 'r', encoding='utf-8') as f:
-                    config_dict = json.load(f)
-                config = ModelConfig.from_dict(config_dict)
-                model = LiteratureTransformer(config)
-                # 尝试加载权重
-                weights_path = os.path.join(model_path, "weights.h5")
-                if os.path.exists(weights_path):
-                    model.load_weights(weights_path)
-                    print(f"✓ 从 {weights_path} 加载权重")
-                    return model
-            
-            raise FileNotFoundError(f"无法在 {model_path} 找到模型文件")
-            
-        except Exception as e:
-            print(f"✗ 加载模型失败: {e}")
-            raise
-    
-    def encode_text(self, text: str, add_special_tokens: bool = True) -> List[int]:
-        """
-        将文本编码为token IDs - 支持英文单词级别匹配
-        
-        Args:
-            text: 输入文本
-            add_special_tokens: 是否添加特殊token
-        
-        Returns:
-            token IDs列表
-        """
-        tokens = []
-        if add_special_tokens:
-            tokens.append(self.bos_id)
-        
-        # 转小写以匹配词汇表
-        text = text.lower().strip()
-        
-        if not text:
-            if add_special_tokens:
-                return [self.bos_id]
-            return []
-        
-        # 先尝试匹配完整文本（用于单个单词）
-        if text in self.vocab:
-            tokens.append(self.vocab[text])
-            return tokens
-        
-        # 按空格分割成单词
-        words = text.split()
-        
-        for word in words:
-            # 去除标点符号
-            clean_word = ''.join(c for c in word if c.isalnum())
-            
-            if not clean_word:
-                # 如果是纯标点，尝试直接匹配
-                if word in self.vocab:
-                    tokens.append(self.vocab[word])
+            except Exception as e:
+                print(f"  ⚠️ SavedModel 加载失败: {e}")
+
+        # 3. 从 config + weights 重建
+        if config_path and os.path.exists(config_path):
+            with open(config_path, 'r', encoding='utf-8') as f:
+                config = ModelConfig.from_dict(json.load(f))
+            model = LiteratureTransformer(config)
+            dummy = tf.constant([[self.bos_id]], dtype=tf.int32)
+            _ = model(dummy, training=False)
+
+            weights_path = os.path.join(model_path, "weights.h5")
+            if os.path.exists(weights_path):
+                model.load_weights(weights_path)
+                print(f"✓ 从 {weights_path} 加载权重")
+                return model
+
+        raise FileNotFoundError(f"无法在 {model_path} 找到可用模型文件")
+
+    # ========================================================
+    # 编码 / 解码
+    # ========================================================
+
+    def encode_chars(self, text: str) -> List[int]:
+        """逐字符编码，与训练时完全一致"""
+        return [self.vocab.get(ch, self.unk_id) for ch in text]
+
+    def decode_tokens(self, tokens: List[int], skip_special: bool = True) -> str:
+        """逐字符解码，不插入空格"""
+        special_ids = {self.pad_id, self.bos_id, self.eos_id, self.user_id, self.bot_id}
+        chars = []
+        for tid in tokens:
+            if skip_special and tid in special_ids:
                 continue
-            
-            # 尝试匹配完整单词
-            if clean_word in self.vocab:
-                tokens.append(self.vocab[clean_word])
-            else:
-                # 如果单词不在词汇表中，按字符处理
-                for ch in clean_word:
-                    token_id = self.vocab.get(ch, self.unk_id)
-                    if token_id >= len(self.vocab):
-                        token_id = self.unk_id
-                    tokens.append(token_id)
-            
-            # 添加标点符号（如果存在）
-            if len(word) > len(clean_word):
-                for ch in word:
-                    if not ch.isalnum() and ch in self.vocab:
-                        tokens.append(self.vocab[ch])
-        
-        # 如果没有生成任何token（空文本或全是标点），添加UNK
-        if len(tokens) <= 1:  # 只有bos token
-            tokens.append(self.unk_id)
-        
-        return tokens
-    
-    def decode_tokens(self, tokens: List[int], skip_special_tokens: bool = True) -> str:
+            if 0 <= tid < self.vocab_size:
+                chars.append(self.idx_to_char.get(tid, ''))
+        return ''.join(chars)
+
+    def build_chat_ids(self, prompt: str, system_prompt: Optional[str] = None) -> List[int]:
         """
-        将token IDs解码为文本，添加适当的空格
-        
+        构建与训练时格式完全一致的输入序列：
+        [bos, <|user|>, p, r, o, m, p, t, <|bot|>]
+        如果带 system_prompt:
+        [bos, <|user|>, s, y, s, ..., <|bot|>, p, r, o, m, p, t, <|bot|>]
+        """
+        ids = [self.bos_id, self.user_id]
+
+        if system_prompt:
+            ids.extend(self.encode_chars(system_prompt))
+            ids.append(self.bot_id)
+            ids.extend(self.encode_chars(prompt))
+            ids.append(self.bot_id)
+        else:
+            ids.extend(self.encode_chars(prompt))
+            ids.append(self.bot_id)
+
+        return ids
+
+    # ========================================================
+    # 核心采样函数
+    # ========================================================
+
+    def _sample_next_token(self, logits: tf.Tensor,
+                           temperature: float = 1.0,
+                           top_k: Optional[int] = None,
+                           top_p: Optional[float] = None) -> int:
+        """从 logits 中采样下一个 token，支持 temperature / top_k / top_p"""
+        # temperature
+        if temperature != 1.0 and temperature > 0:
+            logits = logits / temperature
+
+        # top_k
+        if top_k is not None and top_k > 0:
+            top_k = min(top_k, self.vocab_size)
+            kth_val = tf.math.top_k(logits, top_k)[0][..., -1]
+            logits = tf.where(logits < kth_val, -1e9, logits)
+
+        # top_p (核采样) - 修复版
+        if top_p is not None and 0.0 < top_p < 1.0:
+            sorted_logits = tf.sort(logits, direction='DESCENDING')
+            sorted_probs = tf.nn.softmax(sorted_logits)
+            cumulative_probs = tf.cumsum(sorted_probs)
+            sorted_indices_to_remove = cumulative_probs > top_p
+            # 保留第一个超过阈值的 token（保证至少有一个可选）
+            sorted_indices_to_remove = tf.concat([
+                tf.zeros_like(sorted_indices_to_remove[:1], dtype=tf.bool),
+                sorted_indices_to_remove[:-1]
+            ], axis=-1)
+
+            # 映射回原始索引
+            sorted_indices = tf.argsort(logits, direction='DESCENDING')
+            indices_to_remove = tf.scatter_nd(
+                sorted_indices[..., None],
+                tf.cast(sorted_indices_to_remove, tf.int32),
+                [self.vocab_size]
+            )
+            indices_to_remove = tf.cast(indices_to_remove, tf.bool)
+            logits = tf.where(indices_to_remove, -1e9, logits)
+
+        # 采样（直接用 logits，避免先 softmax 再 log）
+        next_token = tf.random.categorical(logits[None, :], 1)[0, 0].numpy()
+        return int(next_token)
+
+    # ========================================================
+    # 生成接口
+    # ========================================================
+
+    def generate(self,
+                 prompt_ids: List[int],
+                 max_length: int = 100,
+                 temperature: float = 0.8,
+                 top_k: int = 50,
+                 top_p: float = 0.9,
+                 stop_ids: Optional[List[int]] = None,
+                 echo: bool = False) -> Tuple[str, List[int], float]:
+        """
+        自回归生成
+
         Args:
-            tokens: token IDs列表
-            skip_special_tokens: 是否跳过特殊token
-        
+            prompt_ids: 输入 token 列表
+            max_length: 最大生成长度（包含 prompt）
+            temperature: 温度
+            top_k: Top-K
+            top_p: Top-P
+            stop_ids: 停止 token ID 列表
+            echo: 是否返回包含 prompt 的完整序列
+
         Returns:
-            解码后的文本
+            (生成文本, token 列表, 耗时秒)
         """
-        special_tokens = {self.pad_id, self.bos_id, self.eos_id, self.user_id, self.bot_id}
-        
-        # 常见的标点符号
-        punctuation = {',', '.', '!', '?', ';', ':', '"', "'", '(', ')', '[', ']', '{', '}', '<', '>', '/'}
-        
-        result = []
-        prev_is_word = False
-        
-        for i, token in enumerate(tokens):
-            if skip_special_tokens and token in special_tokens:
-                continue
-            
-            # 确保token在词汇表范围内
-            if token < len(self.vocab):
-                token_str = self.idx_to_char.get(token, '<UNK>')
-            else:
-                token_str = '<UNK>'
-            
-            # 判断当前token是否是单词字符
-            is_word = token_str.isalnum() and len(token_str) > 1
-            is_punct = token_str in punctuation
-            
-            # 添加空格逻辑
-            if i > 0 and not is_punct and not token_str.startswith("'") and not token_str.startswith('"'):
-                # 检查前一个token
-                prev_token = tokens[i-1]
-                if prev_token < len(self.vocab):
-                    prev_str = self.idx_to_char.get(prev_token, '')
-                    if prev_str not in punctuation and prev_str not in {'(', '['} and prev_is_word:
-                        result.append(' ')
-            
-            result.append(token_str)
-            prev_is_word = is_word
-        
-        return ''.join(result)
-    
-    def generate_greedy(
-        self, 
-        prompt: str, 
-        max_length: int = 100, 
-        temperature: float = 1.0,
-        top_k: Optional[int] = None,
-        top_p: Optional[float] = None,
-        stop_tokens: Optional[List[int]] = None
-    ) -> Tuple[str, float]:
-        """
-        贪婪搜索生成文本
-        
-        Args:
-            prompt: 提示文本
-            max_length: 最大生成长度
-            temperature: 温度参数（>0）
-            top_k: Top-K采样
-            top_p: Top-P采样（核采样）
-            stop_tokens: 停止token列表
-        
-        Returns:
-            (生成的文本, 生成时间)
-        """
+        if stop_ids is None:
+            stop_ids = [self.eos_id]
+
         start_time = time.time()
-        
-        # 编码输入
-        input_ids = self.encode_text(prompt)
-        input_ids = np.array([input_ids], dtype=np.int32)
-        
-        generated = input_ids[0].tolist()
-        
-        # 设置停止token
-        if stop_tokens is None:
-            stop_tokens = [self.eos_id]
-        
+        generated = list(prompt_ids)
+
         for _ in range(max_length):
-            # 如果序列太长，截断
             if len(generated) >= self.config.seq_len:
                 break
-            
-            # 准备输入
-            current_input = np.array([generated], dtype=np.int32)
-            
+
+            # 截断到最大长度
+            input_ids = np.array([generated[-self.config.seq_len:]], dtype=np.int32)
+
             # 前向传播
-            logits = self.model(current_input, training=False)
-            
-            # 获取最后一个token的logits
-            last_logits = logits[0, -1, :]
-            
-            # 应用温度
-            if temperature != 1.0:
-                last_logits = last_logits / temperature
-            
-            # 采样策略
-            if top_k is not None and top_k > 0:
-                # Top-K采样
-                indices_to_remove = last_logits < tf.math.top_k(last_logits, top_k)[0][..., -1, None]
-                last_logits = tf.where(indices_to_remove, -float('inf'), last_logits)
-            
-            if top_p is not None and top_p < 1.0:
-                # Top-P采样（核采样）
-                sorted_logits = tf.sort(last_logits, direction='DESCENDING')
-                sorted_probs = tf.nn.softmax(sorted_logits)
-                cumulative_probs = tf.cumsum(sorted_probs)
-                sorted_indices_to_remove = cumulative_probs > top_p
-                sorted_indices_to_remove = tf.concat(
-                    [tf.zeros_like(sorted_indices_to_remove[:1]), sorted_indices_to_remove[:-1]], 
-                    axis=-1
-                )
-                indices_to_remove = sorted_indices_to_remove
-                last_logits = tf.where(indices_to_remove, -float('inf'), last_logits)
-            
-            # 采样下一个token
-            probs = tf.nn.softmax(last_logits)
-            next_token = tf.random.categorical(tf.math.log(probs)[None, :], 1)[0, 0].numpy()
-            
-            # 确保生成的token在有效范围内
-            if next_token >= len(self.vocab):
-                next_token = self.unk_id
-            
-            # 检查停止条件
-            if next_token in stop_tokens:
+            logits = self.model(input_ids, training=False)
+            last_logits = logits[0, -1, :self.vocab_size]
+
+            # 采样
+            next_token = self._sample_next_token(
+                last_logits, temperature=temperature, top_k=top_k, top_p=top_p
+            )
+
+            if next_token in stop_ids:
                 break
-            
+
             generated.append(next_token)
-        
-        # 解码生成的文本
-        generated_text = self.decode_tokens(generated)
-        
-        elapsed_time = time.time() - start_time
-        return generated_text, elapsed_time
-    
-    def generate_beam_search(
-        self, 
-        prompt: str, 
-        max_length: int = 100, 
-        beam_width: int = 3,
-        temperature: float = 1.0,
-        stop_tokens: Optional[List[int]] = None
-    ) -> Tuple[str, float]:
-        """
-        束搜索生成文本
-        
-        Args:
-            prompt: 提示文本
-            max_length: 最大生成长度
-            beam_width: 束宽度
-            temperature: 温度参数
-            stop_tokens: 停止token列表
-        
-        Returns:
-            (生成的文本, 生成时间)
-        """
-        start_time = time.time()
-        
-        # 编码输入
-        input_ids = self.encode_text(prompt)
-        
-        # 初始化beam
-        beam = [(input_ids, 0.0)]  # (tokens, score)
-        
-        if stop_tokens is None:
-            stop_tokens = [self.eos_id]
-        
-        for _ in range(max_length):
-            candidates = []
-            
-            for tokens, score in beam:
-                # 如果已经结束，直接保留
-                if tokens[-1] in stop_tokens:
-                    candidates.append((tokens, score))
-                    continue
-                
-                # 准备输入
-                current_input = np.array([tokens], dtype=np.int32)
-                
-                # 前向传播
-                logits = self.model(current_input, training=False)
-                
-                # 获取最后一个token的logits
-                last_logits = logits[0, -1, :]
-                
-                # 应用温度
-                if temperature != 1.0:
-                    last_logits = last_logits / temperature
-                
-                # 计算概率
-                probs = tf.nn.softmax(last_logits).numpy()
-                
-                # 选择top-k个候选
-                top_k_indices = np.argsort(probs)[-beam_width:][::-1]
-                
-                for idx in top_k_indices:
-                    # 确保token在有效范围内
-                    if idx >= len(self.vocab):
-                        idx = self.unk_id
-                    new_tokens = tokens + [idx]
-                    new_score = score + np.log(probs[idx] + 1e-10)
-                    candidates.append((new_tokens, new_score))
-            
-            # 选择得分最高的beam_width个候选
-            candidates.sort(key=lambda x: x[1], reverse=True)
-            beam = candidates[:beam_width]
-            
-            # 如果所有beam都结束了，提前终止
-            if all(tokens[-1] in stop_tokens for tokens, _ in beam):
-                break
-        
-        # 选择得分最高的序列
-        best_tokens, best_score = beam[0]
-        
-        # 解码生成的文本
-        generated_text = self.decode_tokens(best_tokens)
-        
-        elapsed_time = time.time() - start_time
-        return generated_text, elapsed_time
-    
-    def generate(
-        self, 
-        prompt: str, 
-        max_length: int = 100, 
-        temperature: float = 0.8,
-        top_k: int = 50,
-        top_p: float = 0.9,
-        beam_width: Optional[int] = None,
-        return_time: bool = False
-    ) -> str:
-        """
-        通用的生成接口
-        
-        Args:
-            prompt: 提示文本
-            max_length: 最大生成长度
-            temperature: 温度参数
-            top_k: Top-K采样参数
-            top_p: Top-P采样参数
-            beam_width: 如果指定，使用束搜索
-            return_time: 是否返回生成时间
-        
-        Returns:
-            生成的文本，如果return_time为True，返回(文本, 时间)
-        """
-        if beam_width is not None and beam_width > 1:
-            text, elapsed = self.generate_beam_search(
-                prompt, max_length, beam_width, temperature
-            )
-        else:
-            text, elapsed = self.generate_greedy(
-                prompt, max_length, temperature, top_k, top_p
-            )
-        
-        if return_time:
-            return text, elapsed
-        return text
-    
-    def chat(
-        self, 
-        prompt: str, 
-        max_length: int = 200,
-        temperature: float = 0.8,
-        top_k: int = 50,
-        top_p: float = 0.9,
-        system_prompt: Optional[str] = None
-    ) -> str:
-        """
-        聊天接口，支持系统提示词
-        
-        Args:
-            prompt: 用户输入
-            max_length: 最大生成长度
-            temperature: 温度参数
-            top_k: Top-K采样
-            top_p: Top-P采样
-            system_prompt: 系统提示词
-        
-        Returns:
-            模型回复
-        """
-        if system_prompt:
-            full_prompt = f"system: {system_prompt} user: {prompt} assistant: "
-        else:
-            full_prompt = f"user: {prompt} assistant: "
-        
-        response, _ = self.generate_greedy(
-            full_prompt,
+
+        output_ids = generated if echo else generated[len(prompt_ids):]
+        text = self.decode_tokens(output_ids)
+        elapsed = time.time() - start_time
+        return text, output_ids, elapsed
+
+    def chat(self,
+             prompt: str,
+             max_length: int = 200,
+             temperature: float = 0.8,
+             top_k: int = 50,
+             top_p: float = 0.9,
+             system_prompt: Optional[str] = None) -> str:
+        """聊天接口，输入输出均为自然语言"""
+        prompt_ids = self.build_chat_ids(prompt, system_prompt=system_prompt)
+        text, _, _ = self.generate(
+            prompt_ids,
             max_length=max_length,
             temperature=temperature,
             top_k=top_k,
             top_p=top_p,
-            stop_tokens=[self.eos_id, self.user_id]
+            stop_ids=[self.eos_id, self.user_id],
+            echo=False
         )
-        
-        # 提取助手回复
-        if "assistant:" in response:
-            response = response.split("assistant:")[-1]
-        elif "助手:" in response:
-            response = response.split("助手:")[-1]
-        
-        return response.strip()
-    
-    def generate_batch(
-        self, 
-        prompts: List[str], 
-        max_length: int = 100,
-        temperature: float = 0.8,
-        top_k: int = 50,
-        top_p: float = 0.9,
-        batch_size: int = 8
-    ) -> List[str]:
-        """
-        批量生成文本
-        
-        Args:
-            prompts: 提示列表
-            max_length: 最大生成长度
-            temperature: 温度参数
-            top_k: Top-K采样
-            top_p: Top-P采样
-            batch_size: 批次大小
-        
-        Returns:
-            生成的文本列表
-        """
-        results = []
-        
-        for i in range(0, len(prompts), batch_size):
-            batch_prompts = prompts[i:i+batch_size]
-            batch_results = []
-            
-            for prompt in batch_prompts:
-                text, _ = self.generate_greedy(
-                    prompt, max_length, temperature, top_k, top_p
-                )
-                batch_results.append(text)
-            
-            results.extend(batch_results)
-        
-        return results
+        return text.strip()
+
+    def generate_from_text(self,
+                           prompt: str,
+                           max_length: int = 100,
+                           temperature: float = 0.8,
+                           top_k: int = 50,
+                           top_p: float = 0.9) -> Tuple[str, float]:
+        """从纯文本提示生成"""
+        prompt_ids = [self.bos_id] + self.encode_chars(prompt)
+        text, _, elapsed = self.generate(
+            prompt_ids,
+            max_length=max_length,
+            temperature=temperature,
+            top_k=top_k,
+            top_p=top_p,
+            stop_ids=[self.eos_id]
+        )
+        return text, elapsed
+
+    # ========================================================
+    # Beam Search
+    # ========================================================
+
+    def generate_beam(self,
+                      prompt_ids: List[int],
+                      max_length: int = 100,
+                      beam_width: int = 3,
+                      temperature: float = 1.0,
+                      stop_ids: Optional[List[int]] = None) -> Tuple[str, float]:
+        """束搜索生成"""
+        if stop_ids is None:
+            stop_ids = [self.eos_id]
+
+        start_time = time.time()
+        beams = [(list(prompt_ids), 0.0)]  # (tokens, log_prob)
+        completed = []
+
+        for _ in range(max_length):
+            candidates = []
+            all_done = True
+
+            for tokens, score in beams:
+                if tokens[-1] in stop_ids:
+                    completed.append((tokens, score))
+                    continue
+                all_done = False
+
+                input_ids = np.array([tokens[-self.config.seq_len:]], dtype=np.int32)
+                logits = self.model(input_ids, training=False)
+                last_logits = logits[0, -1, :self.vocab_size]
+
+                if temperature != 1.0:
+                    last_logits = last_logits / temperature
+
+                log_probs = tf.nn.log_softmax(last_logits).numpy()
+                top_indices = np.argsort(log_probs)[-beam_width:][::-1]
+
+                for idx in top_indices:
+                    new_tokens = tokens + [int(idx)]
+                    new_score = score + log_probs[idx]
+                    candidates.append((new_tokens, new_score))
+
+            if all_done:
+                break
+
+            candidates.sort(key=lambda x: x[1], reverse=True)
+            beams = candidates[:beam_width]
+
+        # 选最优
+        if completed:
+            best = max(completed, key=lambda x: x[1] / len(x[0]))
+        else:
+            best = max(beams, key=lambda x: x[1])
+
+        output_ids = best[0][len(prompt_ids):]
+        text = self.decode_tokens(output_ids)
+        return text, time.time() - start_time
+
+
+# ============================================================
+# 交互模式
+# ============================================================
 
 def interactive_mode(generator: TextGenerator):
-    """交互模式"""
-    print("\n" + "="*50)
-    print("进入交互模式 (输入 'quit' 退出, 'help' 查看帮助)")
-    print("="*50)
-    print("\n支持的特殊命令:")
-    print("  /temp <value>  - 设置温度 (0.1-2.0)")
-    print("  /topk <value>  - 设置Top-K")
-    print("  /topp <value>  - 设置Top-P")
-    print("  /len <value>   - 设置最大生成长度")
-    print("  /beam <value>  - 设置束宽度 (0=禁用束搜索)")
-    
-    # 默认参数
-    temp = 0.8
-    topk = 50
-    topp = 0.9
-    max_len = 100
-    beam_width = 0
-    
+    print("\n" + "=" * 50)
+    print("🤖 交互模式 (输入 'quit' 退出)")
+    print("=" * 50)
+    print("命令:")
+    print("  /temp <0.1~2.0>  设置温度")
+    print("  /topk <int>      设置 Top-K (0=禁用)")
+    print("  /topp <0.0~1.0>  设置 Top-P (1.0=禁用)")
+    print("  /len <int>       设置最大长度")
+    print("  /beam <int>      设置束宽度 (0=贪婪)")
+    print("  /system <text>   设置系统提示词")
+    print("  /clear           清空系统提示词")
+    print("-" * 50)
+
+    settings = {
+        'temp': 0.8,
+        'topk': 50,
+        'topp': 0.9,
+        'len': 150,
+        'beam': 0,
+        'system': None
+    }
+
     while True:
         try:
             user_input = input("\n>>> ").strip()
-            
             if not user_input:
                 continue
-            
-            if user_input.lower() in ['quit', 'exit', 'q']:
+
+            if user_input.lower() in ('quit', 'exit', 'q'):
                 print("再见！")
                 break
-            
-            if user_input.lower() == 'help':
-                print("\n可用命令:")
-                print("  /temp 0.8    - 设置温度")
-                print("  /topk 50     - 设置Top-K")
-                print("  /topp 0.9    - 设置Top-P")
-                print("  /len 100     - 设置最大长度")
-                print("  /beam 3      - 设置束宽度")
-                print("  直接输入文本 - 开始生成")
-                continue
-            
-            # 解析命令
+
+            # 命令解析
             if user_input.startswith('/'):
-                parts = user_input.split()
-                if len(parts) != 2:
-                    print("格式: /命令 值")
-                    continue
-                
-                cmd, value = parts[0].lower(), parts[1]
-                try:
-                    if cmd == '/temp':
-                        temp = float(value)
-                        print(f"温度设置为: {temp}")
-                    elif cmd == '/topk':
-                        topk = int(value)
-                        print(f"Top-K设置为: {topk}")
-                    elif cmd == '/topp':
-                        topp = float(value)
-                        print(f"Top-P设置为: {topp}")
-                    elif cmd == '/len':
-                        max_len = int(value)
-                        print(f"最大长度设置为: {max_len}")
-                    elif cmd == '/beam':
-                        beam_width = int(value)
-                        print(f"束宽度设置为: {beam_width}")
-                    else:
-                        print(f"未知命令: {cmd}")
-                except ValueError:
-                    print("无效的值")
+                parts = user_input.split(None, 1)
+                cmd = parts[0].lower()
+                val = parts[1] if len(parts) > 1 else ''
+
+                if cmd == '/temp':
+                    settings['temp'] = float(val)
+                    print(f"温度: {settings['temp']}")
+                elif cmd == '/topk':
+                    settings['topk'] = int(val)
+                    print(f"Top-K: {settings['topk']}")
+                elif cmd == '/topp':
+                    settings['topp'] = float(val)
+                    print(f"Top-P: {settings['topp']}")
+                elif cmd == '/len':
+                    settings['len'] = int(val)
+                    print(f"最大长度: {settings['len']}")
+                elif cmd == '/beam':
+                    settings['beam'] = int(val)
+                    print(f"束宽度: {settings['beam']}")
+                elif cmd == '/system':
+                    settings['system'] = val
+                    print(f"系统提示: {val}")
+                elif cmd == '/clear':
+                    settings['system'] = None
+                    print("系统提示已清空")
+                else:
+                    print(f"未知命令: {cmd}")
                 continue
-            
-            # 生成文本
-            print("\n生成中...")
-            start_time = time.time()
-            
-            if beam_width > 1:
-                text, elapsed = generator.generate_beam_search(
-                    user_input,
-                    max_length=max_len,
-                    beam_width=beam_width,
-                    temperature=temp
+
+            # 生成
+            print("生成中...")
+            if settings['beam'] > 1:
+                prompt_ids = generator.build_chat_ids(user_input, settings['system'])
+                text, elapsed = generator.generate_beam(
+                    prompt_ids,
+                    max_length=settings['len'],
+                    beam_width=settings['beam'],
+                    temperature=settings['temp']
                 )
             else:
-                text, elapsed = generator.generate_greedy(
+                text = generator.chat(
                     user_input,
-                    max_length=max_len,
-                    temperature=temp,
-                    top_k=topk,
-                    top_p=topp
+                    max_length=settings['len'],
+                    temperature=settings['temp'],
+                    top_k=settings['topk'],
+                    top_p=settings['topp'],
+                    system_prompt=settings['system']
                 )
-            
-            print(f"\n生成结果 ({elapsed:.2f}s):")
+                elapsed = 0.0
+
+            print(f"\n💬 回复 ({elapsed:.2f}s):")
             print("-" * 50)
             print(text)
             print("-" * 50)
-            
+
         except KeyboardInterrupt:
-            print("\n\n中断生成")
+            print("\n已中断")
             continue
         except Exception as e:
             print(f"错误: {e}")
+            import traceback
+            traceback.print_exc()
             continue
 
+
+# ============================================================
+# 命令行入口
+# ============================================================
+
 def main():
-    """主函数"""
     import argparse
-    
-    parser = argparse.ArgumentParser(description="文学语言模型文本生成")
+    parser = argparse.ArgumentParser(description="文学语言模型文本生成 (Enhanced)")
     parser.add_argument("--model_path", type=str, default="saved_model/rl_final",
-                       help="模型路径")
+                        help="模型目录路径")
     parser.add_argument("--vocab_path", type=str, default="vocab.json",
-                       help="词汇表路径")
+                        help="词汇表路径")
     parser.add_argument("--config_path", type=str, default="saved_model/config.json",
-                       help="配置文件路径")
-    parser.add_argument("--prompt", type=str, help="提示文本")
+                        help="配置文件路径")
+    parser.add_argument("--prompt", type=str, help="单次生成提示文本")
     parser.add_argument("--max_length", type=int, default=100, help="最大生成长度")
-    parser.add_argument("--temperature", type=float, default=0.8, help="温度参数")
-    parser.add_argument("--top_k", type=int, default=50, help="Top-K采样")
-    parser.add_argument("--top_p", type=float, default=0.9, help="Top-P采样")
-    parser.add_argument("--beam_width", type=int, default=0, help="束宽度 (0=禁用)")
+    parser.add_argument("--temperature", type=float, default=0.8, help="温度")
+    parser.add_argument("--top_k", type=int, default=50, help="Top-K")
+    parser.add_argument("--top_p", type=float, default=0.9, help="Top-P")
+    parser.add_argument("--beam_width", type=int, default=0, help="束宽度")
     parser.add_argument("--interactive", action="store_true", help="交互模式")
-    parser.add_argument("--batch", type=str, help="批量生成文件路径")
-    
+    parser.add_argument("--system", type=str, default=None, help="系统提示词")
     args = parser.parse_args()
-    
-    # 检查文件是否存在
+
+    # 检查路径
     if not os.path.exists(args.model_path):
-        print(f"错误: 模型路径不存在: {args.model_path}")
-        print("可用的模型路径:")
-        for path in ["saved_model/pretrain_final", "saved_model/sft_final", "saved_model/rl_final"]:
-            if os.path.exists(path):
-                print(f"  - {path}")
+        print(f"❌ 模型路径不存在: {args.model_path}")
+        print("可用路径:")
+        for p in ["saved_model/rl_final", "saved_model/sft_final", "saved_model/pretrain_final"]:
+            if os.path.exists(p):
+                print(f"  ✓ {p}")
         sys.exit(1)
-    
+
     if not os.path.exists(args.vocab_path):
-        print(f"错误: 词汇表不存在: {args.vocab_path}")
+        print(f"❌ 词汇表不存在: {args.vocab_path}")
         sys.exit(1)
-    
-    # 初始化生成器
+
     print("正在加载模型...")
-    generator = TextGenerator(
-        args.model_path,
-        args.vocab_path,
-        args.config_path
-    )
-    
-    # 交互模式
+    generator = TextGenerator(args.model_path, args.vocab_path, args.config_path)
+
     if args.interactive:
         interactive_mode(generator)
         return
-    
-    # 批量生成
-    if args.batch:
-        if not os.path.exists(args.batch):
-            print(f"错误: 批量文件不存在: {args.batch}")
-            sys.exit(1)
-        
-        with open(args.batch, 'r', encoding='utf-8') as f:
-            prompts = [line.strip() for line in f if line.strip()]
-        
-        print(f"批量生成 {len(prompts)} 个提示...")
-        results = generator.generate_batch(
-            prompts,
-            max_length=args.max_length,
-            temperature=args.temperature,
-            top_k=args.top_k,
-            top_p=args.top_p
-        )
-        
-        # 保存结果
-        output_file = "generated_results.txt"
-        with open(output_file, 'w', encoding='utf-8') as f:
-            for prompt, result in zip(prompts, results):
-                f.write(f"提示: {prompt}\n")
-                f.write(f"生成: {result}\n")
-                f.write("-" * 50 + "\n")
-        
-        print(f"结果已保存到: {output_file}")
-        return
-    
-    # 单次生成
+
     if not args.prompt:
-        print("请提供 --prompt 参数或使用 --interactive 交互模式")
-        print("示例: python predict.py --prompt \"hello\"")
-        print("示例: python predict.py --prompt \"harry potter\"")
+        print("请提供 --prompt 或使用 --interactive 交互模式")
+        print('示例: python predict_enhanced.py --prompt "你好"')
         sys.exit(1)
-    
+
     print(f"提示: {args.prompt}")
     print(f"参数: temp={args.temperature}, top_k={args.top_k}, top_p={args.top_p}")
-    
+
     try:
         if args.beam_width > 1:
-            text, elapsed = generator.generate_beam_search(
-                args.prompt,
+            prompt_ids = generator.build_chat_ids(args.prompt, args.system)
+            text, elapsed = generator.generate_beam(
+                prompt_ids,
                 max_length=args.max_length,
                 beam_width=args.beam_width,
                 temperature=args.temperature
             )
-            print(f"束搜索 (宽度={args.beam_width})")
+            print(f"\n[束搜索 宽度={args.beam_width}] ({elapsed:.2f}s)")
         else:
-            text, elapsed = generator.generate_greedy(
+            text, elapsed = generator.generate_from_text(
                 args.prompt,
                 max_length=args.max_length,
                 temperature=args.temperature,
                 top_k=args.top_k,
                 top_p=args.top_p
             )
-            print("贪婪采样")
-        
-        print(f"\n生成结果 ({elapsed:.2f}s):")
+            print(f"\n[贪婪/采样] ({elapsed:.2f}s)")
+
         print("-" * 50)
         print(text)
         print("-" * 50)
+
     except Exception as e:
         print(f"生成失败: {e}")
         import traceback
         traceback.print_exc()
         sys.exit(1)
+
 
 if __name__ == "__main__":
     main()

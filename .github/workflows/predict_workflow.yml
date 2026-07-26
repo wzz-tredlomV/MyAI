@@ -1,0 +1,94 @@
+name: Predict Test
+
+on:
+  workflow_dispatch:
+    inputs:
+      model_stage:
+        description: '使用哪个阶段的模型'
+        required: false
+        default: 'sft_final'
+        type: choice
+        options:
+          - 'pretrain_final'
+          - 'sft_final'
+          - 'rl_final'
+      prompt:
+        description: '输入提示文本'
+        required: false
+        default: '你好'
+        type: string
+      max_length:
+        description: '最大生成长度'
+        required: false
+        default: '100'
+        type: string
+      temperature:
+        description: '温度'
+        required: false
+        default: '0.8'
+        type: string
+
+jobs:
+  predict:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install tensorflow tqdm numpy
+
+      - name: Check files
+        run: |
+          echo "检查必要文件..."
+          if [ -f "vocab.json" ]; then
+            echo "✅ vocab.json 存在 (大小: $(du -h vocab.json | cut -f1))"
+          else
+            echo "❌ vocab.json 不存在"
+            exit 1
+          fi
+
+          MODEL_DIR="saved_model/${{ github.event.inputs.model_stage }}"
+          if [ -f "$MODEL_DIR/model.keras" ]; then
+            echo "✅ 模型存在: $MODEL_DIR/model.keras"
+          else
+            echo "⚠️ 模型不存在: $MODEL_DIR/model.keras"
+            echo "可用模型:"
+            find saved_model/ -name "model.keras" 2>/dev/null || echo "  无"
+            exit 1
+          fi
+
+      - name: Run prediction
+        run: |
+          echo "=========================================="
+          echo "开始预测..."
+          echo "模型: saved_model/${{ github.event.inputs.model_stage }}"
+          echo "提示: ${{ github.event.inputs.prompt }}"
+          echo "=========================================="
+
+          python predict_enhanced.py \
+            --model_path "saved_model/${{ github.event.inputs.model_stage }}" \
+            --vocab_path vocab.json \
+            --prompt "${{ github.event.inputs.prompt }}" \
+            --max_length ${{ github.event.inputs.max_length }} \
+            --temperature ${{ github.event.inputs.temperature }}
+
+      - name: Upload prediction result
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: prediction-result
+          path: |
+            vocab.json
+            saved_model/
+          if-no-files-found: warn
+          retention-days: 7
