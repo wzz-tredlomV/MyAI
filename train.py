@@ -7,6 +7,7 @@ import sys
 import shutil
 import time
 import warnings
+from datetime import datetime              # ← 新增这行
 from dataclasses import dataclass, asdict
 import numpy as np
 
@@ -220,7 +221,7 @@ def get_gradient_norm(grads):
 
 
 # ============================================================
-# 自定义层（全部与之前相同，略去重复注释）
+# 自定义层
 # ============================================================
 @register_keras_serializable(package="MyAI")
 class RotaryEmbedding(layers.Layer):
@@ -1086,7 +1087,7 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
 
 
 # ============================================================
-# 主函数入口（关键！确保 Kaggle 会执行训练）
+# 主函数入口
 # ============================================================
 def main():
     print("=" * 60)
@@ -1098,16 +1099,13 @@ def main():
 
     config = ModelConfig()
 
-    # ========== 示例：预训练 ==========
-    # 你需要替换为实际的数据路径和词表
+    # ========== 预训练 ==========
     print("\n📂 检查预训练数据...")
-    pretrain_text_path = "/kaggle/working/MyAI/data/pretrain.txt"  # 修改为你的路径
-    vocab_path = "/kaggle/working/MyAI/data/vocab.json"            # 修改为你的路径
+    pretrain_text_path = "/kaggle/working/MyAI/data/pretrain.txt"
+    vocab_path = "/kaggle/working/MyAI/data/vocab.json"
 
     if not os.path.exists(pretrain_text_path):
         print(f"❌ 预训练数据不存在: {pretrain_text_path}")
-        print("   请确认数据路径正确，或使用示例数据运行测试。")
-        # 如果不存在，创建一个极简测试数据避免退出
         print("   正在创建测试数据...")
         os.makedirs(os.path.dirname(pretrain_text_path), exist_ok=True)
         with open(pretrain_text_path, "w", encoding="utf-8") as f:
@@ -1133,10 +1131,8 @@ def main():
     print(f"📊 预训练文本长度: {len(pretrain_text)} 字符")
     print(f"📊 词表大小: {len(vocab)}")
 
-    # 调整 vocab_size
     config.vocab_size = max(len(vocab), config.vocab_size)
 
-    # 划分训练/验证
     split_idx = int(len(pretrain_text) * 0.9)
     train_text = pretrain_text[:split_idx]
     val_text = pretrain_text[split_idx:]
@@ -1147,15 +1143,13 @@ def main():
     print(f"📊 训练样本数: {len(train_gen) * config.batch_size}")
     print(f"📊 验证样本数: {len(val_gen) * config.batch_size}")
 
-    # 创建模型
     print("\n🏗️  创建模型...")
     model = LiteratureTransformer(config)
     dummy = tf.zeros((1, config.seq_len), dtype=tf.int32)
-    _ = model(dummy)  # build
+    _ = model(dummy)
     model.summary()
     print(f"📊 模型参数量: {model.count_params():,}")
 
-    # 开始预训练
     try:
         pretrain(model, train_gen, val_gen, config.vocab_size, config, save_dir="/kaggle/working/output/pretrain")
     except Exception as e:
