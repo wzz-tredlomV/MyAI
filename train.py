@@ -1015,14 +1015,14 @@ def pretrain(model, train_data_generator, val_data_generator, vocab_size, config
                         # 记录 TensorBoard
                         with summary_writer.as_default():
                             tf.summary.scalar('train_loss', loss_val, step=global_step)
-                            tf.summary.scalar('learning_rate', optimizer.learning_rate(global_step), step=global_step)
+                            tf.summary.scalar('learning_rate', optimizer.learning_rate, step=global_step)
                             grad_norm = get_gradient_norm(grads)
                             tf.summary.scalar('grad_norm', grad_norm, step=global_step)
 
                         step += 1
                         global_step += 1
                         epoch_pbar.update(1)
-                        epoch_pbar.set_postfix(loss=f"{loss_val:.4f}", lr=f"{float(optimizer.learning_rate(global_step)):.2e}")
+                        epoch_pbar.set_postfix(loss=f"{loss_val:.4f}", lr=f"{float(optimizer.learning_rate):.2e}")
                         total_pbar.update(1)
                         total_pbar.set_postfix(epoch=f"{epoch+1}", loss=f"{loss_val:.4f}")
 
@@ -1222,7 +1222,7 @@ def sft_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
 
                         with summary_writer.as_default():
                             tf.summary.scalar('train_loss', loss_val, step=global_step)
-                            tf.summary.scalar('learning_rate', optimizer.learning_rate(global_step), step=global_step)
+                            tf.summary.scalar('learning_rate', optimizer.learning_rate, step=global_step)
                             tf.summary.scalar('grad_norm', get_gradient_norm(grads), step=global_step)
 
                         step += 1
@@ -1486,7 +1486,7 @@ def dpo_train(model, train_jsonl_path, val_jsonl_path, vocab, config: ModelConfi
 
                         with summary_writer.as_default():
                             tf.summary.scalar('train_loss', loss_val, step=global_step)
-                            tf.summary.scalar('learning_rate', optimizer.learning_rate(global_step), step=global_step)
+                            tf.summary.scalar('learning_rate', optimizer.learning_rate, step=global_step)
                             tf.summary.scalar('grad_norm', get_gradient_norm(grads), step=global_step)
 
                         step += 1
