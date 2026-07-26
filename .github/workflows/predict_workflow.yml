@@ -75,7 +75,7 @@ jobs:
           echo "提示: ${{ github.event.inputs.prompt }}"
           echo "=========================================="
 
-          python predict_enhanced.py \
+          python predict.py \
             --model_path "saved_model/${{ github.event.inputs.model_stage }}" \
             --vocab_path vocab.json \
             --prompt "${{ github.event.inputs.prompt }}" \
