@@ -4,10 +4,11 @@ from tensorflow.keras import layers
 import json
 import os
 import sys
+import glob
 import shutil
 import time
 import warnings
-from datetime import datetime              # ← 新增这行
+from datetime import datetime
 from dataclasses import dataclass, asdict
 import numpy as np
 
@@ -208,16 +209,6 @@ def check_gradients_nan_inf(grads):
         if tf.reduce_any(tf.math.is_nan(g)) or tf.reduce_any(tf.math.is_inf(g)):
             return True
     return False
-
-
-def get_gradient_norm(grads):
-    norms = []
-    for g in grads:
-        if g is not None:
-            norms.append(tf.reduce_sum(tf.square(g)))
-    if not norms:
-        return 0.0
-    return tf.sqrt(tf.add_n(norms)).numpy()
 
 
 # ============================================================
@@ -546,10 +537,10 @@ def load_model_keras(load_dir, vocab_size=None):
 
 
 # ============================================================
-# 数据生成器
+# 数据生成器（支持 infinite 循环）
 # ============================================================
 class PretrainDataGenerator:
-    def __init__(self, text, char_to_idx, config: ModelConfig, start_ratio=0.0, end_ratio=1.0, shuffle=True):
+    def __init__(self, text, char_to_idx, config: ModelConfig, start_ratio=0.0, end_ratio=1.0, shuffle=True, infinite=False):
         self.char_to_idx = char_to_idx
         self.config = config
         self.pad_id = char_to_idx.get('<|pad|>', 0)
@@ -563,6 +554,7 @@ class PretrainDataGenerator:
         self.indices = list(range(0, len(self.ids) - config.seq_len, stride))
         self.num_samples = len(self.indices)
         self.shuffle = shuffle
+        self.infinite = infinite
         if self.shuffle:
             np.random.shuffle(self.indices)
 
@@ -576,27 +568,30 @@ class PretrainDataGenerator:
         return self.num_samples // self.config.batch_size
 
     def __call__(self):
-        if self.shuffle:
-            np.random.shuffle(self.indices)
-        batch_x, batch_y = [], []
-        count = 0
-        for start_idx in self.indices:
-            segment = self.ids[start_idx:start_idx + self.config.seq_len + 1]
-            if len(segment) < self.config.seq_len + 1:
-                segment = np.pad(segment, (0, self.config.seq_len + 1 - len(segment)), constant_values=self.pad_id)
-            x = segment[:-1]
-            y = segment[1:]
-            batch_x.append(x)
-            batch_y.append(y)
-            count += 1
-            if count == self.config.batch_size:
-                yield np.array(batch_x, dtype=np.int32), np.array(batch_y, dtype=np.int32)
-                batch_x, batch_y = [], []
-                count = 0
+        while True:
+            if self.shuffle:
+                np.random.shuffle(self.indices)
+            batch_x, batch_y = [], []
+            count = 0
+            for start_idx in self.indices:
+                segment = self.ids[start_idx:start_idx + self.config.seq_len + 1]
+                if len(segment) < self.config.seq_len + 1:
+                    segment = np.pad(segment, (0, self.config.seq_len + 1 - len(segment)), constant_values=self.pad_id)
+                x = segment[:-1]
+                y = segment[1:]
+                batch_x.append(x)
+                batch_y.append(y)
+                count += 1
+                if count == self.config.batch_size:
+                    yield np.array(batch_x, dtype=np.int32), np.array(batch_y, dtype=np.int32)
+                    batch_x, batch_y = [], []
+                    count = 0
+            if not self.infinite:
+                break
 
 
 class SFTDataGenerator:
-    def __init__(self, jsonl_path, vocab, config: ModelConfig, max_samples=None, samples=None):
+    def __init__(self, jsonl_path, vocab, config: ModelConfig, max_samples=None, samples=None, infinite=False):
         self.vocab = vocab
         self.config = config
         self.pad_id = vocab.get('<|pad|>', 0)
@@ -605,6 +600,7 @@ class SFTDataGenerator:
         self.eos_id = vocab.get('<|eos|>', 2)
         self.user_id = vocab.get('<|user|>', 4)
         self.bot_id = vocab.get('<|bot|>', 5)
+        self.infinite = infinite
 
         if samples is not None:
             self.samples = samples
@@ -681,39 +677,42 @@ class SFTDataGenerator:
         return len(self.samples) // self.config.batch_size
 
     def __call__(self):
-        indices = list(range(len(self.samples)))
-        np.random.shuffle(indices)
-        batch_x, batch_y, batch_mask = [], [], []
-        count = 0
-        for idx in indices:
-            sample = self.samples[idx]
-            x = sample['x']
-            y = sample['y']
-            prompt_len = sample['prompt_len']
-            loss_mask = [0.0] * prompt_len + [1.0] * (len(x) - prompt_len)
-            if len(x) < self.config.seq_len:
-                pad_len = self.config.seq_len - len(x)
-                x = x + [self.pad_id] * pad_len
-                y = y + [self.pad_id] * pad_len
-                loss_mask = loss_mask + [0.0] * pad_len
-            else:
-                x = x[:self.config.seq_len]
-                y = y[:self.config.seq_len]
-                loss_mask = loss_mask[:self.config.seq_len]
-            batch_x.append(x)
-            batch_y.append(y)
-            batch_mask.append(loss_mask)
-            count += 1
-            if count == self.config.batch_size:
-                yield (np.array(batch_x, dtype=np.int32),
-                       np.array(batch_y, dtype=np.int32),
-                       np.array(batch_mask, dtype=np.float32))
-                batch_x, batch_y, batch_mask = [], [], []
-                count = 0
+        while True:
+            indices = list(range(len(self.samples)))
+            np.random.shuffle(indices)
+            batch_x, batch_y, batch_mask = [], [], []
+            count = 0
+            for idx in indices:
+                sample = self.samples[idx]
+                x = sample['x']
+                y = sample['y']
+                prompt_len = sample['prompt_len']
+                loss_mask = [0.0] * prompt_len + [1.0] * (len(x) - prompt_len)
+                if len(x) < self.config.seq_len:
+                    pad_len = self.config.seq_len - len(x)
+                    x = x + [self.pad_id] * pad_len
+                    y = y + [self.pad_id] * pad_len
+                    loss_mask = loss_mask + [0.0] * pad_len
+                else:
+                    x = x[:self.config.seq_len]
+                    y = y[:self.config.seq_len]
+                    loss_mask = loss_mask[:self.config.seq_len]
+                batch_x.append(x)
+                batch_y.append(y)
+                batch_mask.append(loss_mask)
+                count += 1
+                if count == self.config.batch_size:
+                    yield (np.array(batch_x, dtype=np.int32),
+                           np.array(batch_y, dtype=np.int32),
+                           np.array(batch_mask, dtype=np.float32))
+                    batch_x, batch_y, batch_mask = [], [], []
+                    count = 0
+            if not self.infinite:
+                break
 
 
 class DPODataGenerator:
-    def __init__(self, jsonl_path, vocab, config: ModelConfig, max_pairs=None, pairs=None):
+    def __init__(self, jsonl_path, vocab, config: ModelConfig, max_pairs=None, pairs=None, infinite=False):
         self.vocab = vocab
         self.config = config
         self.pad_id = vocab.get('<|pad|>', 0)
@@ -722,6 +721,7 @@ class DPODataGenerator:
         self.eos_id = vocab.get('<|eos|>', 2)
         self.user_id = vocab.get('<|user|>', 4)
         self.bot_id = vocab.get('<|bot|>', 5)
+        self.infinite = infinite
         if pairs is not None:
             self.pairs = pairs
         else:
@@ -757,30 +757,33 @@ class DPODataGenerator:
         return ids[:self.config.seq_len]
 
     def __call__(self):
-        indices = list(range(len(self.pairs)))
-        np.random.shuffle(indices)
-        batch_cx, batch_cy, batch_rx, batch_ry = [], [], [], []
-        count = 0
-        for idx in indices:
-            chosen, rejected = self.pairs[idx]
-            if len(chosen) < 2 or len(rejected) < 2:
-                continue
-            cx = self._pad_or_truncate(chosen[:-1])
-            cy = self._pad_or_truncate(chosen[1:])
-            rx = self._pad_or_truncate(rejected[:-1])
-            ry = self._pad_or_truncate(rejected[1:])
-            batch_cx.append(cx)
-            batch_cy.append(cy)
-            batch_rx.append(rx)
-            batch_ry.append(ry)
-            count += 1
-            if count == self.config.batch_size:
-                yield (np.array(batch_cx, dtype=np.int32),
-                       np.array(batch_cy, dtype=np.int32),
-                       np.array(batch_rx, dtype=np.int32),
-                       np.array(batch_ry, dtype=np.int32))
-                batch_cx, batch_cy, batch_rx, batch_ry = [], [], [], []
-                count = 0
+        while True:
+            indices = list(range(len(self.pairs)))
+            np.random.shuffle(indices)
+            batch_cx, batch_cy, batch_rx, batch_ry = [], [], [], []
+            count = 0
+            for idx in indices:
+                chosen, rejected = self.pairs[idx]
+                if len(chosen) < 2 or len(rejected) < 2:
+                    continue
+                cx = self._pad_or_truncate(chosen[:-1])
+                cy = self._pad_or_truncate(chosen[1:])
+                rx = self._pad_or_truncate(rejected[:-1])
+                ry = self._pad_or_truncate(rejected[1:])
+                batch_cx.append(cx)
+                batch_cy.append(cy)
+                batch_rx.append(rx)
+                batch_ry.append(ry)
+                count += 1
+                if count == self.config.batch_size:
+                    yield (np.array(batch_cx, dtype=np.int32),
+                           np.array(batch_cy, dtype=np.int32),
+                           np.array(batch_rx, dtype=np.int32),
+                           np.array(batch_ry, dtype=np.int32))
+                    batch_cx, batch_cy, batch_rx, batch_ry = [], [], [], []
+                    count = 0
+            if not self.infinite:
+                break
 
 
 # ============================================================
@@ -941,12 +944,13 @@ def sft_train(model, train_gen, val_gen, config, save_dir="output/sft"):
 
         val_loss = 0.0
         val_steps = 0
-        for x, y, mask in val_gen():
-            logits = model(x, training=False)
-            val_loss += float(loss_fn(y, logits, sample_weight=mask))
-            val_steps += 1
-            if val_steps >= 50:
-                break
+        if val_gen is not None:
+            for x, y, mask in val_gen():
+                logits = model(x, training=False)
+                val_loss += float(loss_fn(y, logits, sample_weight=mask))
+                val_steps += 1
+                if val_steps >= 50:
+                    break
         val_loss = val_loss / max(val_steps, 1)
         avg_train_loss = accum_loss / max(train_steps, 1)
         current_lr = lr_manager.get_current_lr(global_step)
@@ -1087,7 +1091,7 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
 
 
 # ============================================================
-# 主函数入口
+# 主函数入口（适配真实数据目录）
 # ============================================================
 def main():
     print("=" * 60)
@@ -1098,50 +1102,46 @@ def main():
     print("=" * 60)
 
     config = ModelConfig()
+    base_dir = "/kaggle/working/MyAI"  # Kaggle 环境路径；本地可改为 "/sdcard/termux/MyAI"
 
-    # ========== 预训练 ==========
-    print("\n📂 检查预训练数据...")
-    pretrain_text_path = "/kaggle/working/MyAI/data/pretrain.txt"
-    vocab_path = "/kaggle/working/MyAI/data/vocab.json"
-
-    if not os.path.exists(pretrain_text_path):
-        print(f"❌ 预训练数据不存在: {pretrain_text_path}")
-        print("   正在创建测试数据...")
-        os.makedirs(os.path.dirname(pretrain_text_path), exist_ok=True)
-        with open(pretrain_text_path, "w", encoding="utf-8") as f:
-            f.write("这是一个测试文本。" * 1000)
-        print("   ✅ 测试数据已创建")
-
+    # ---------- 读取词表 ----------
+    vocab_path = os.path.join(base_dir, "vocab.json")
     if not os.path.exists(vocab_path):
         print(f"❌ 词表不存在: {vocab_path}")
-        print("   正在创建测试词表...")
-        os.makedirs(os.path.dirname(vocab_path), exist_ok=True)
-        chars = list("这是一个测试文本。<|pad|><|unk|><|bos|><|eos|><|user|><|bot|>")
-        vocab = {c: i for i, c in enumerate(chars)}
-        with open(vocab_path, "w", encoding="utf-8") as f:
-            json.dump(vocab, f, ensure_ascii=False, indent=2)
-        print("   ✅ 测试词表已创建")
+        sys.exit(1)
 
     with open(vocab_path, "r", encoding="utf-8") as f:
         vocab = json.load(f)
-
-    with open(pretrain_text_path, "r", encoding="utf-8") as f:
-        pretrain_text = f.read()
-
-    print(f"📊 预训练文本长度: {len(pretrain_text)} 字符")
+    config.vocab_size = max(len(vocab), config.vocab_size)
     print(f"📊 词表大小: {len(vocab)}")
 
-    config.vocab_size = max(len(vocab), config.vocab_size)
+    # ---------- 预训练 ----------
+    corpus_dir = os.path.join(base_dir, "corpus")
+    pretrain_text = ""
 
-    split_idx = int(len(pretrain_text) * 0.9)
+    if os.path.exists(corpus_dir):
+        files = sorted(glob.glob(os.path.join(corpus_dir, "*.txt")))
+        print(f"\n📂 发现 {len(files)} 个预训练文本文件")
+        for fp in files:
+            with open(fp, "r", encoding="utf-8") as f:
+                pretrain_text += f.read() + "\n"
+        print(f"📊 预训练文本总长度: {len(pretrain_text)} 字符")
+    else:
+        print(f"\n⚠️ 未找到 corpus 目录: {corpus_dir}")
+
+    if len(pretrain_text) < 1000:
+        print("⚠️ 预训练数据过少，补充测试数据避免崩溃")
+        pretrain_text += "测试数据。" * 1000
+
+    split_idx = int(len(pretrain_text) * 0.95)
     train_text = pretrain_text[:split_idx]
     val_text = pretrain_text[split_idx:]
 
-    train_gen = PretrainDataGenerator(train_text, vocab, config, start_ratio=0.0, end_ratio=1.0)
-    val_gen = PretrainDataGenerator(val_text, vocab, config, start_ratio=0.0, end_ratio=1.0, shuffle=False)
+    train_gen = PretrainDataGenerator(train_text, vocab, config, start_ratio=0.0, end_ratio=1.0, infinite=True)
+    val_gen = PretrainDataGenerator(val_text, vocab, config, start_ratio=0.0, end_ratio=1.0, shuffle=False, infinite=False)
 
-    print(f"📊 训练样本数: {len(train_gen) * config.batch_size}")
-    print(f"📊 验证样本数: {len(val_gen) * config.batch_size}")
+    print(f"📊 训练样本数(每轮): {len(train_gen) * config.batch_size}")
+    print(f"📊 验证样本数(每轮): {len(val_gen) * config.batch_size}")
 
     print("\n🏗️  创建模型...")
     model = LiteratureTransformer(config)
@@ -1151,12 +1151,62 @@ def main():
     print(f"📊 模型参数量: {model.count_params():,}")
 
     try:
-        pretrain(model, train_gen, val_gen, config.vocab_size, config, save_dir="/kaggle/working/output/pretrain")
+        pretrain(model, train_gen, val_gen, config.vocab_size, config,
+                 save_dir=os.path.join(base_dir, "output", "pretrain"))
     except Exception as e:
         print(f"\n❌ 预训练失败: {e}")
         import traceback
         traceback.print_exc()
         sys.exit(1)
+
+    # ---------- SFT ----------
+    sft_train_path = os.path.join(base_dir, "sft_train.jsonl")
+    sft_val_path = os.path.join(base_dir, "sft_val.jsonl")
+
+    if os.path.exists(sft_train_path):
+        print(f"\n📂 加载 SFT 数据...")
+        try:
+            sft_model = load_model_keras(os.path.join(base_dir, "output", "pretrain"))
+            sft_model.config = config
+
+            sft_train_gen = SFTDataGenerator(sft_train_path, vocab, config, infinite=True)
+            sft_val_gen = SFTDataGenerator(sft_val_path, vocab, config, infinite=False) \
+                if os.path.exists(sft_val_path) else None
+
+            sft_train(sft_model, sft_train_gen, sft_val_gen, config,
+                      save_dir=os.path.join(base_dir, "output", "sft"))
+        except Exception as e:
+            print(f"\n❌ SFT 失败: {e}")
+            import traceback
+            traceback.print_exc()
+    else:
+        print(f"\n⏭️ 未找到 SFT 数据: {sft_train_path}，跳过 SFT")
+
+    # ---------- DPO ----------
+    rl_train_path = os.path.join(base_dir, "rl_train.jsonl")
+    rl_val_path = os.path.join(base_dir, "rl_val.jsonl")
+
+    if os.path.exists(rl_train_path):
+        print(f"\n📂 加载 DPO 数据...")
+        try:
+            dpo_model = load_model_keras(os.path.join(base_dir, "output", "sft"))
+            dpo_model.config = config
+
+            ref_model = load_model_keras(os.path.join(base_dir, "output", "sft"))
+            ref_model.config = config
+
+            rl_train_gen = DPODataGenerator(rl_train_path, vocab, config, infinite=True)
+            rl_val_gen = DPODataGenerator(rl_val_path, vocab, config, infinite=False) \
+                if os.path.exists(rl_val_path) else None
+
+            dpo_train(dpo_model, ref_model, rl_train_gen, config,
+                      save_dir=os.path.join(base_dir, "output", "rl"))
+        except Exception as e:
+            print(f"\n❌ DPO 失败: {e}")
+            import traceback
+            traceback.print_exc()
+    else:
+        print(f"\n⏭️ 未找到 DPO 数据: {rl_train_path}，跳过 DPO")
 
     print("\n✅ 全部训练完成！")
 
