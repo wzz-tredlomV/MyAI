@@ -3,29 +3,27 @@ from tensorflow import keras
 from tensorflow.keras import layers
 import json
 import os
-import glob
-import re
-import numpy as np
-from dataclasses import dataclass, asdict
+import sys
 import shutil
 import time
-from datetime import datetime
+import warnings
+from dataclasses import dataclass, asdict
+import numpy as np
 
+warnings.filterwarnings("ignore", category=SyntaxWarning)
 register_keras_serializable = tf.keras.utils.register_keras_serializable
 
 # ============================================================
-# 全局配置与自动环境修复
+# 环境设置
 # ============================================================
-
 def setup_environment():
-    """自动配置 GPU 内存和随机种子，避免 OOM 和增强可复现性"""
     gpus = tf.config.list_physical_devices('GPU')
     if gpus:
         for gpu in gpus:
             try:
                 tf.config.experimental.set_memory_growth(gpu, True)
             except RuntimeError as e:
-                print(f"GPU 内存设置失败: {e}")
+                print(f"  GPU 内存设置失败: {e}")
     tf.random.set_seed(42)
     np.random.seed(42)
 
@@ -34,7 +32,6 @@ setup_environment()
 # ============================================================
 # 配置类
 # ============================================================
-
 @dataclass
 class ModelConfig:
     vocab_size: int = 5000
@@ -46,7 +43,6 @@ class ModelConfig:
     seq_len: int = 256
     batch_size: int = 4
 
-    # 学习率配置
     pretrain_lr: float = 5e-4
     sft_lr: float = 1e-5
     rl_lr: float = 1e-6
@@ -54,17 +50,15 @@ class ModelConfig:
     warmup_ratio: float = 0.1
     min_lr_ratio: float = 0.1
 
-    # 训练配置
     pretrain_epochs: int = 5
     sft_epochs: int = 20
     rl_epochs: int = 15
     steps_per_epoch: int = 300
 
-    # 自动处理参数
     gradient_accumulation_steps: int = 4
-    early_stop_patience: int = 3          # 早停耐心值
-    plateau_patience: int = 5             # 学习率衰减耐心值（按 epoch）
-    auto_lr_reduce_factor: float = 0.5    # 学习率衰减系数
+    early_stop_patience: int = 3
+    plateau_patience: int = 5
+    auto_lr_reduce_factor: float = 0.5
     enable_mixed_precision: bool = True
     max_nan_tolerance: int = 3
     checkpoint_freq: int = 1
@@ -81,11 +75,9 @@ class ModelConfig:
 
 
 # ============================================================
-# 学习率调度（Warmup + Cosine）
+# 学习率调度
 # ============================================================
-
 class WarmupCosineDecay(keras.optimizers.schedules.LearningRateSchedule):
-    """带预热的余弦退火，支持外部乘数（用于自动降 LR）"""
     def __init__(self, initial_learning_rate, warmup_steps, total_steps, alpha=0.1, multiplier=1.0):
         super().__init__()
         self.initial_learning_rate = initial_learning_rate
@@ -98,14 +90,11 @@ class WarmupCosineDecay(keras.optimizers.schedules.LearningRateSchedule):
         step = tf.cast(step, tf.float32)
         warmup = tf.cast(self.warmup_steps, tf.float32)
         total = tf.cast(self.total_steps, tf.float32)
-
         warmup_lr = self.initial_learning_rate * (step / warmup)
-
         progress = tf.clip_by_value((step - warmup) / tf.maximum(total - warmup, 1.0), 0.0, 1.0)
         cosine = 0.5 * (1.0 + tf.cos(np.pi * progress))
         decayed = (1.0 - self.alpha) * cosine + self.alpha
         decay_lr = self.initial_learning_rate * decayed
-
         lr = tf.cond(step < warmup, lambda: warmup_lr, lambda: decay_lr)
         return lr * self.multiplier
 
@@ -120,10 +109,10 @@ class WarmupCosineDecay(keras.optimizers.schedules.LearningRateSchedule):
 
 
 class AdaptiveLRManager:
-    """自动检测 Loss 平原并降低学习率，同时决定是否停止训练"""
+    """自动检测 Loss 平原、降学习率、决定是否停止"""
     def __init__(self, optimizer, lr_schedule, config: ModelConfig, total_steps, initial_lr):
         self.optimizer = optimizer
-        self.lr_schedule = lr_schedule          # 独立持有 schedule 引用
+        self.lr_schedule = lr_schedule
         self.config = config
         self.total_steps = total_steps
         self.initial_lr = initial_lr
@@ -132,7 +121,7 @@ class AdaptiveLRManager:
         self.nan_counter = 0
         self.current_multiplier = 1.0
         self.lr_reduce_count = 0
-        self.max_lr_reduces = 3                 # 最多降 3 次，避免无限降下去
+        self.max_lr_reduces = 3
 
     def on_step_end(self, loss_val):
         self.loss_history.append(float(loss_val))
@@ -140,9 +129,7 @@ class AdaptiveLRManager:
             self.loss_history.pop(0)
 
     def on_epoch_end(self, val_loss):
-        """返回 should_stop: bool"""
         should_stop = False
-
         if len(self.loss_history) < 20:
             return should_stop
 
@@ -165,9 +152,8 @@ class AdaptiveLRManager:
             self.plateau_counter = 0
             self.lr_reduce_count += 1
 
-        # 自动决策：学习率乘数过低或衰减次数过多，停止训练
         if self.current_multiplier < 0.01 or self.lr_reduce_count >= self.max_lr_reduces:
-            print(f"⏹️ 学习率已降至过低 (乘数: {self.current_multiplier:.3f}, 衰减次数: {self.lr_reduce_count})，触发早停")
+            print(f"⏹️ 学习率过低 (乘数: {self.current_multiplier:.3f}, 衰减次数: {self.lr_reduce_count})，触发早停")
             should_stop = True
 
         return should_stop
@@ -200,16 +186,15 @@ class AdaptiveLRManager:
     def get_current_lr(self, step):
         return float(self.lr_schedule(step))
 
-# ============================================================
-# 安全工具函数
-# ============================================================
 
+# ============================================================
+# 安全工具
+# ============================================================
 def safe_gelu(x):
-    """数值稳定的 GELU，支持混合精度"""
     dtype = x.dtype
     x_f32 = tf.cast(x, tf.float32)
     cdf = 0.5 * (1.0 + tf.tanh(
-        tf.sqrt(2.0 / tf.constant(np.pi, dtype=tf.float32)) * 
+        tf.sqrt(2.0 / tf.constant(np.pi, dtype=tf.float32)) *
         (x_f32 + 0.044715 * tf.pow(x_f32, 3))
     ))
     return tf.cast(x_f32 * cdf, dtype)
@@ -235,9 +220,8 @@ def get_gradient_norm(grads):
 
 
 # ============================================================
-# 自定义层
+# 自定义层（全部与之前相同，略去重复注释）
 # ============================================================
-
 @register_keras_serializable(package="MyAI")
 class RotaryEmbedding(layers.Layer):
     def __init__(self, head_dim, max_len=2048, base=10000.0, **kwargs):
@@ -252,10 +236,9 @@ class RotaryEmbedding(layers.Layer):
     def call(self, x, seq_len=None):
         if seq_len is None:
             seq_len = tf.shape(x)[2]
-
         positions = tf.range(seq_len, dtype=tf.float32)
         inv_freq = 1.0 / (self.base ** (
-            tf.range(0, self.head_dim, 2, dtype=tf.float32) / 
+            tf.range(0, self.head_dim, 2, dtype=tf.float32) /
             tf.cast(self.head_dim, tf.float32)
         ))
         angles = tf.einsum('i,j->ij', positions, inv_freq)
@@ -264,23 +247,17 @@ class RotaryEmbedding(layers.Layer):
         sin = tf.sin(angles)
         cos = tf.cast(cos, x.dtype)
         sin = tf.cast(sin, x.dtype)
-
         x1 = x[..., 0::2]
         x2 = x[..., 1::2]
         rotated = tf.stack([-x2, x1], axis=-1)
         rotated = tf.reshape(rotated, tf.shape(x))
-
         cos = tf.reshape(cos, [1, 1, seq_len, self.head_dim])
         sin = tf.reshape(sin, [1, 1, seq_len, self.head_dim])
         return x * cos + rotated * sin
 
     def get_config(self):
         config = super().get_config()
-        config.update({
-            "head_dim": self.head_dim,
-            "max_len": self.max_len,
-            "base": self.base,
-        })
+        config.update({"head_dim": self.head_dim, "max_len": self.max_len, "base": self.base})
         return config
 
     @classmethod
@@ -291,24 +268,13 @@ class RotaryEmbedding(layers.Layer):
 @register_keras_serializable(package="MyAI")
 class CustomLayerNorm(layers.Layer):
     supports_masking = True
-
     def __init__(self, epsilon=1e-6, **kwargs):
         super().__init__(**kwargs)
         self.epsilon = epsilon
 
     def build(self, input_shape):
-        self.gamma = self.add_weight(
-            name='gamma',
-            shape=input_shape[-1:],
-            initializer='ones',
-            trainable=True
-        )
-        self.beta = self.add_weight(
-            name='beta',
-            shape=input_shape[-1:],
-            initializer='zeros',
-            trainable=True
-        )
+        self.gamma = self.add_weight(name='gamma', shape=input_shape[-1:], initializer='ones', trainable=True)
+        self.beta = self.add_weight(name='beta', shape=input_shape[-1:], initializer='zeros', trainable=True)
         super().build(input_shape)
 
     def call(self, x):
@@ -333,7 +299,6 @@ class CustomLayerNorm(layers.Layer):
 @register_keras_serializable(package="MyAI")
 class CustomMultiHeadAttention(layers.Layer):
     supports_masking = True
-
     def __init__(self, embed_dim, num_heads, dropout=0.1, **kwargs):
         super().__init__(**kwargs)
         assert embed_dim % num_heads == 0
@@ -356,32 +321,25 @@ class CustomMultiHeadAttention(layers.Layer):
     def call(self, x, training=False, attention_mask=None, use_causal_mask=False):
         batch_size = tf.shape(x)[0]
         seq_len = tf.shape(x)[1]
-
         q = tf.matmul(x, self.wq)
         k = tf.matmul(x, self.wk)
         v = tf.matmul(x, self.wv)
-
         q = tf.reshape(q, [batch_size, seq_len, self.num_heads, self.head_dim])
         k = tf.reshape(k, [batch_size, seq_len, self.num_heads, self.head_dim])
         v = tf.reshape(v, [batch_size, seq_len, self.num_heads, self.head_dim])
-
-        q = tf.transpose(q, [0, 2,  1, 3])
+        q = tf.transpose(q, [0, 2, 1, 3])
         k = tf.transpose(k, [0, 2, 1, 3])
         v = tf.transpose(v, [0, 2, 1, 3])
-
         q = self.rotary(q, seq_len)
         k = self.rotary(k, seq_len)
-
         scores = tf.matmul(q, k, transpose_b=True)
         scores = scores / tf.cast(self.scale, scores.dtype)
-
         combined_mask = None
         if use_causal_mask:
             causal_mask = tf.linalg.band_part(tf.ones((seq_len, seq_len), dtype=tf.bool), -1, 0)
             causal_mask = tf.logical_not(causal_mask)
             causal_mask = tf.reshape(causal_mask, [1, 1, seq_len, seq_len])
             combined_mask = causal_mask
-
         if attention_mask is not None:
             padding_mask = tf.cast(tf.equal(attention_mask, 0), tf.bool)
             padding_mask = tf.reshape(padding_mask, [batch_size, 1, 1, seq_len])
@@ -389,15 +347,12 @@ class CustomMultiHeadAttention(layers.Layer):
                 combined_mask = padding_mask
             else:
                 combined_mask = tf.logical_or(combined_mask, padding_mask)
-
         if combined_mask is not None:
             neg_inf = tf.cast(-1e9, scores.dtype)
             scores = tf.where(combined_mask, neg_inf, scores)
-
         attn_weights = tf.nn.softmax(scores, axis=-1)
         attn_weights = self.dropout(attn_weights, training=training)
         attn_output = tf.matmul(attn_weights, v)
-
         attn_output = tf.transpose(attn_output, [0, 2, 1, 3])
         attn_output = tf.reshape(attn_output, [batch_size, seq_len, self.embed_dim])
         output = tf.matmul(attn_output, self.wo)
@@ -405,11 +360,7 @@ class CustomMultiHeadAttention(layers.Layer):
 
     def get_config(self):
         config = super().get_config()
-        config.update({
-            "embed_dim": self.embed_dim,
-            "num_heads": self.num_heads,
-            "dropout": self.dropout_rate,
-        })
+        config.update({"embed_dim": self.embed_dim, "num_heads": self.num_heads, "dropout": self.dropout_rate})
         return config
 
     @classmethod
@@ -420,7 +371,6 @@ class CustomMultiHeadAttention(layers.Layer):
 @register_keras_serializable(package="MyAI")
 class CustomFFN(layers.Layer):
     supports_masking = True
-
     def __init__(self, embed_dim, hidden_dim, dropout=0.1, **kwargs):
         super().__init__(**kwargs)
         self.embed_dim = embed_dim
@@ -445,11 +395,7 @@ class CustomFFN(layers.Layer):
 
     def get_config(self):
         config = super().get_config()
-        config.update({
-            "embed_dim": self.embed_dim,
-            "hidden_dim": self.hidden_dim,
-            "dropout": self.dropout_rate,
-        })
+        config.update({"embed_dim": self.embed_dim, "hidden_dim": self.hidden_dim, "dropout": self.dropout_rate})
         return config
 
     @classmethod
@@ -460,7 +406,6 @@ class CustomFFN(layers.Layer):
 @register_keras_serializable(package="MyAI")
 class CustomTransformerBlock(layers.Layer):
     supports_masking = True
-
     def __init__(self, embed_dim, num_heads, dropout=0.1, **kwargs):
         super().__init__(**kwargs)
         self.embed_dim = embed_dim
@@ -481,7 +426,6 @@ class CustomTransformerBlock(layers.Layer):
         attn_out = self.attn(normed, training=training, attention_mask=attention_mask, use_causal_mask=use_causal_mask)
         attn_out = self.dropout1(attn_out, training=training)
         x = x + attn_out
-
         normed = self.ln2(x)
         ffn_out = self.ffn(normed, training=training)
         ffn_out = self.dropout2(ffn_out, training=training)
@@ -490,11 +434,7 @@ class CustomTransformerBlock(layers.Layer):
 
     def get_config(self):
         config = super().get_config()
-        config.update({
-            "embed_dim": self.embed_dim,
-            "num_heads": self.num_heads,
-            "dropout": self.dropout_rate,
-        })
+        config.update({"embed_dim": self.embed_dim, "num_heads": self.num_heads, "dropout": self.dropout_rate})
         return config
 
     @classmethod
@@ -547,12 +487,11 @@ class LiteratureTransformer(keras.Model):
             dummy_input = tf.keras.Input(shape=config["input_shape"][1:], dtype=tf.int32)
             self(dummy_input)
 
-# ============================================================
-# 模型保存/加载（精简版：只保留最佳）
-# ============================================================
 
+# ============================================================
+# 保存/加载（只保留最佳）
+# ============================================================
 def save_best_model_only(model, save_dir, is_best=False):
-    """只保留最佳模型，删除旧的最佳模型"""
     if not is_best:
         return
     best_dir = os.path.join(save_dir, "best_model")
@@ -569,7 +508,6 @@ def save_best_model_only(model, save_dir, is_best=False):
 
 
 def save_checkpoint(model, optimizer, epoch, step, save_dir):
-    """仅保留最新 checkpoint（覆盖式），不累积"""
     ckpt_dir = os.path.join(save_dir, "checkpoint")
     os.makedirs(ckpt_dir, exist_ok=True)
     checkpoint = tf.train.Checkpoint(model=model, optimizer=optimizer)
@@ -581,7 +519,6 @@ def save_checkpoint(model, optimizer, epoch, step, save_dir):
 
 
 def load_checkpoint_if_exists(model, optimizer, save_dir):
-    """恢复最近的 checkpoint"""
     ckpt_dir = os.path.join(save_dir, "checkpoint")
     state_path = os.path.join(ckpt_dir, "training_state.json")
     if not os.path.exists(state_path):
@@ -606,10 +543,10 @@ def load_model_keras(load_dir, vocab_size=None):
     print(f"  模型已从 {keras_path} 加载")
     return model
 
+
 # ============================================================
 # 数据生成器
 # ============================================================
-
 class PretrainDataGenerator:
     def __init__(self, text, char_to_idx, config: ModelConfig, start_ratio=0.0, end_ratio=1.0, shuffle=True):
         self.char_to_idx = char_to_idx
@@ -618,12 +555,10 @@ class PretrainDataGenerator:
         self.unk_id = char_to_idx.get('<|unk|>', 3)
         self.ids = self._encode_text(text)
         stride = config.seq_len // 4
-
         total_len = len(self.ids)
         start_idx = int(total_len * start_ratio)
         end_idx = int(total_len * end_ratio)
         self.ids = self.ids[start_idx:end_idx]
-
         self.indices = list(range(0, len(self.ids) - config.seq_len, stride))
         self.num_samples = len(self.indices)
         self.shuffle = shuffle
@@ -686,7 +621,6 @@ class SFTDataGenerator:
         prompt_lens = []
         response_lens = []
         total_lens = []
-
         with open(jsonl_path, 'r', encoding='utf-8') as f:
             for i, line in enumerate(f):
                 if i >= max_samples:
@@ -698,20 +632,16 @@ class SFTDataGenerator:
                     prompt_lens.append(prompt_len)
                     response_lens.append(response_len)
                     total_lens.append(prompt_len + response_len)
-
         if prompt_lens:
             p95_total = int(np.percentile(total_lens, 95))
             p90_prompt = int(np.percentile(prompt_lens, 90))
-
             self.seq_len = min(max(p95_total + 10, 128), 512)
             self.seq_len = (self.seq_len // 8) * 8
             self.max_prompt_len = max(self.seq_len - 20, 100)
             self.max_prompt_len = min(self.max_prompt_len, p90_prompt + 20)
-
             if self.seq_len != self.config.seq_len:
                 print(f"  ✅ 自动调整 seq_len: {self.config.seq_len} -> {self.seq_len}")
                 self.config.seq_len = self.seq_len
-
             print(f"  ✅ 调整后: seq_len={self.seq_len}, max_prompt_len={self.max_prompt_len}")
 
     def _encode(self, prompt, response):
@@ -719,12 +649,10 @@ class SFTDataGenerator:
         for ch in prompt:
             prompt_ids.append(self.vocab.get(ch, self.unk_id))
         prompt_ids.append(self.bot_id)
-
         response_ids = []
         for ch in response:
             response_ids.append(self.vocab.get(ch, self.unk_id))
         response_ids.append(self.eos_id)
-
         return prompt_ids, response_ids
 
     def _load_data(self, path, max_samples=None):
@@ -734,20 +662,16 @@ class SFTDataGenerator:
                 if line.strip():
                     item = json.loads(line)
                     prompt_ids, response_ids = self._encode(item['prompt'], item['response'])
-
                     if len(prompt_ids) > self.max_prompt_len:
                         prompt_ids = prompt_ids[:self.max_prompt_len]
-
                     full_ids = prompt_ids + response_ids
                     if len(full_ids) > self.config.seq_len + 1:
                         full_ids = full_ids[:self.config.seq_len + 1]
-
                     if len(full_ids) >= 2:
                         x = full_ids[:-1]
                         y = full_ids[1:]
                         prompt_len = len(prompt_ids)
                         samples.append({'x': x, 'y': y, 'prompt_len': prompt_len})
-
                     if max_samples and len(samples) >= max_samples:
                         break
         return samples
@@ -765,9 +689,7 @@ class SFTDataGenerator:
             x = sample['x']
             y = sample['y']
             prompt_len = sample['prompt_len']
-
             loss_mask = [0.0] * prompt_len + [1.0] * (len(x) - prompt_len)
-
             if len(x) < self.config.seq_len:
                 pad_len = self.config.seq_len - len(x)
                 x = x + [self.pad_id] * pad_len
@@ -777,15 +699,13 @@ class SFTDataGenerator:
                 x = x[:self.config.seq_len]
                 y = y[:self.config.seq_len]
                 loss_mask = loss_mask[:self.config.seq_len]
-
             batch_x.append(x)
             batch_y.append(y)
             batch_mask.append(loss_mask)
             count += 1
-
             if count == self.config.batch_size:
-                yield (np.array(batch_x, dtype=np.int32), 
-                       np.array(batch_y, dtype=np.int32), 
+                yield (np.array(batch_x, dtype=np.int32),
+                       np.array(batch_y, dtype=np.int32),
                        np.array(batch_mask, dtype=np.float32))
                 batch_x, batch_y, batch_mask = [], [], []
                 count = 0
@@ -848,7 +768,6 @@ class DPODataGenerator:
             cy = self._pad_or_truncate(chosen[1:])
             rx = self._pad_or_truncate(rejected[:-1])
             ry = self._pad_or_truncate(rejected[1:])
-
             batch_cx.append(cx)
             batch_cy.append(cy)
             batch_rx.append(rx)
@@ -862,10 +781,10 @@ class DPODataGenerator:
                 batch_cx, batch_cy, batch_rx, batch_ry = [], [], [], []
                 count = 0
 
+
 # ============================================================
 # 训练函数（精简日志 + 自动早停 + 只保留最佳）
 # ============================================================
-
 def create_optimizer(lr_schedule, config):
     return keras.optimizers.AdamW(
         learning_rate=lr_schedule,
@@ -894,7 +813,6 @@ def pretrain(model, train_gen, val_gen, vocab_size, config, save_dir="output/pre
     optimizer = create_optimizer(lr_schedule, config)
     lr_manager = AdaptiveLRManager(optimizer, lr_schedule, config, total_steps, config.pretrain_lr)
 
-    # 恢复 checkpoint
     _, start_epoch, global_step = load_checkpoint_if_exists(model, optimizer, save_dir)
 
     loss_fn = keras.losses.SparseCategoricalCrossentropy(from_logits=True, ignore_class=0)
@@ -953,7 +871,6 @@ def pretrain(model, train_gen, val_gen, vocab_size, config, save_dir="output/pre
         epoch_time = time.time() - epoch_start
         print(f"Epoch {epoch+1}/{config.pretrain_epochs} | Train: {avg_train_loss:.4f} | Val: {val_loss:.4f} | LR: {current_lr:.2e} | {epoch_time:.1f}s")
 
-        # 只保留最佳模型
         if val_loss < best_val_loss:
             best_val_loss = val_loss
             patience_counter = 0
@@ -961,7 +878,6 @@ def pretrain(model, train_gen, val_gen, vocab_size, config, save_dir="output/pre
         else:
             patience_counter += 1
 
-        # 自动决策：早停或降 LR
         should_stop = lr_manager.on_epoch_end(val_loss)
         if should_stop or patience_counter >= config.early_stop_patience:
             print(f"⏹️ 训练终止 (早停: {patience_counter}/{config.early_stop_patience})")
@@ -1022,7 +938,6 @@ def sft_train(model, train_gen, val_gen, config, save_dir="output/sft"):
             train_steps += 1
             lr_manager.on_step_end(loss)
 
-        # 验证
         val_loss = 0.0
         val_steps = 0
         for x, y, mask in val_gen():
@@ -1101,7 +1016,6 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
             with tf.GradientTape() as tape:
                 c_logits = model(cx, training=True)
                 r_logits = model(rx, training=True)
-
                 c_logps = compute_logps(c_logits, cy)
                 r_logps = compute_logps(r_logits, ry)
 
@@ -1135,7 +1049,6 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
         avg_loss = accum_loss / max(train_steps, 1)
         current_lr = lr_manager.get_current_lr(global_step)
 
-        # 简单评估：计算 chosen vs rejected 的 margin
         margin_sum = 0.0
         margin_steps = 0
         for cx, cy, rx, ry in train_gen():
@@ -1170,3 +1083,89 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
             break
 
         save_checkpoint(model, optimizer, epoch, global_step, save_dir)
+
+
+# ============================================================
+# 主函数入口（关键！确保 Kaggle 会执行训练）
+# ============================================================
+def main():
+    print("=" * 60)
+    print("🤖 Literature Transformer 训练启动")
+    print(f"📅 {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"🖥️  TensorFlow: {tf.__version__}")
+    print(f"🖥️  GPU: {tf.config.list_physical_devices('GPU')}")
+    print("=" * 60)
+
+    config = ModelConfig()
+
+    # ========== 示例：预训练 ==========
+    # 你需要替换为实际的数据路径和词表
+    print("\n📂 检查预训练数据...")
+    pretrain_text_path = "/kaggle/working/MyAI/data/pretrain.txt"  # 修改为你的路径
+    vocab_path = "/kaggle/working/MyAI/data/vocab.json"            # 修改为你的路径
+
+    if not os.path.exists(pretrain_text_path):
+        print(f"❌ 预训练数据不存在: {pretrain_text_path}")
+        print("   请确认数据路径正确，或使用示例数据运行测试。")
+        # 如果不存在，创建一个极简测试数据避免退出
+        print("   正在创建测试数据...")
+        os.makedirs(os.path.dirname(pretrain_text_path), exist_ok=True)
+        with open(pretrain_text_path, "w", encoding="utf-8") as f:
+            f.write("这是一个测试文本。" * 1000)
+        print("   ✅ 测试数据已创建")
+
+    if not os.path.exists(vocab_path):
+        print(f"❌ 词表不存在: {vocab_path}")
+        print("   正在创建测试词表...")
+        os.makedirs(os.path.dirname(vocab_path), exist_ok=True)
+        chars = list("这是一个测试文本。<|pad|><|unk|><|bos|><|eos|><|user|><|bot|>")
+        vocab = {c: i for i, c in enumerate(chars)}
+        with open(vocab_path, "w", encoding="utf-8") as f:
+            json.dump(vocab, f, ensure_ascii=False, indent=2)
+        print("   ✅ 测试词表已创建")
+
+    with open(vocab_path, "r", encoding="utf-8") as f:
+        vocab = json.load(f)
+
+    with open(pretrain_text_path, "r", encoding="utf-8") as f:
+        pretrain_text = f.read()
+
+    print(f"📊 预训练文本长度: {len(pretrain_text)} 字符")
+    print(f"📊 词表大小: {len(vocab)}")
+
+    # 调整 vocab_size
+    config.vocab_size = max(len(vocab), config.vocab_size)
+
+    # 划分训练/验证
+    split_idx = int(len(pretrain_text) * 0.9)
+    train_text = pretrain_text[:split_idx]
+    val_text = pretrain_text[split_idx:]
+
+    train_gen = PretrainDataGenerator(train_text, vocab, config, start_ratio=0.0, end_ratio=1.0)
+    val_gen = PretrainDataGenerator(val_text, vocab, config, start_ratio=0.0, end_ratio=1.0, shuffle=False)
+
+    print(f"📊 训练样本数: {len(train_gen) * config.batch_size}")
+    print(f"📊 验证样本数: {len(val_gen) * config.batch_size}")
+
+    # 创建模型
+    print("\n🏗️  创建模型...")
+    model = LiteratureTransformer(config)
+    dummy = tf.zeros((1, config.seq_len), dtype=tf.int32)
+    _ = model(dummy)  # build
+    model.summary()
+    print(f"📊 模型参数量: {model.count_params():,}")
+
+    # 开始预训练
+    try:
+        pretrain(model, train_gen, val_gen, config.vocab_size, config, save_dir="/kaggle/working/output/pretrain")
+    except Exception as e:
+        print(f"\n❌ 预训练失败: {e}")
+        import traceback
+        traceback.print_exc()
+        sys.exit(1)
+
+    print("\n✅ 全部训练完成！")
+
+
+if __name__ == "__main__":
+    main()
