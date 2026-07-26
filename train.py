@@ -87,9 +87,9 @@ class ModelConfig:
 
 class WarmupCosineDecay(keras.optimizers.schedules.LearningRateSchedule):
     """带预热的余弦退火，支持外部乘数（用于自动降 LR）"""
-    def __init__(self, initial_lr, warmup_steps, total_steps, alpha=0.1, multiplier=1.0):
+    def __init__(self, initial_learning_rate, warmup_steps, total_steps, alpha=0.1, multiplier=1.0):
         super().__init__()
-        self.initial_lr = initial_lr
+        self.initial_learning_rate = initial_learning_rate
         self.warmup_steps = warmup_steps
         self.total_steps = total_steps
         self.alpha = alpha
@@ -100,19 +100,19 @@ class WarmupCosineDecay(keras.optimizers.schedules.LearningRateSchedule):
         warmup = tf.cast(self.warmup_steps, tf.float32)
         total = tf.cast(self.total_steps, tf.float32)
 
-        warmup_lr = self.initial_lr * (step / warmup)
+        warmup_lr = self.initial_learning_rate * (step / warmup)
 
         progress = tf.clip_by_value((step - warmup) / tf.maximum(total - warmup, 1.0), 0.0, 1.0)
         cosine = 0.5 * (1.0 + tf.cos(np.pi * progress))
         decayed = (1.0 - self.alpha) * cosine + self.alpha
-        decay_lr = self.initial_lr * decayed
+        decay_lr = self.initial_learning_rate * decayed
 
         lr = tf.cond(step < warmup, lambda: warmup_lr, lambda: decay_lr)
         return lr * self.multiplier
 
     def get_config(self):
         return {
-            "initial_lr": self.initial_lr,
+            "initial_learning_rate": self.initial_learning_rate,
             "warmup_steps": self.warmup_steps,
             "total_steps": self.total_steps,
             "alpha": self.alpha,
