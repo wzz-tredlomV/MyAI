@@ -1,7 +1,8 @@
 """
-predict_enhanced.py
-适配 train_enhanced.py 的推理脚本
-修复了 Top-P 采样、字符级编码、Chat 格式对齐、中文空格等问题
+predict.py
+适配 train.py 的推理脚本
+支持字符级 vocab.json 和 BPE tokenizer.json
+支持贪婪/Top-K/Top-P/Beam Search 采样
 """
 import tensorflow as tf
 from tensorflow import keras
@@ -10,45 +11,34 @@ import numpy as np
 import sys
 import os
 import time
-import re
-from typing import List, Optional, Tuple, Dict
+from typing import List, Optional, Tuple
 
 # ============================================================
-# 导入模型定义（兼容 train_enhanced.py 和 train.py）
+# 导入模型定义
 # ============================================================
-
 try:
-    from train_enhanced import (
+    from train import (
         LiteratureTransformer, ModelConfig, RotaryEmbedding,
         CustomLayerNorm, CustomMultiHeadAttention, CustomFFN,
-        CustomTransformerBlock, load_vocab
+        CustomTransformerBlock, load_vocab, load_model_keras
     )
-    MODEL_SOURCE = "train_enhanced"
-except ImportError:
-    try:
-        from train import (
-            LiteratureTransformer, ModelConfig, RotaryEmbedding,
-            CustomLayerNorm, CustomMultiHeadAttention, CustomFFN,
-            CustomTransformerBlock, load_vocab, load_model_keras
-        )
-        MODEL_SOURCE = "train"
-    except ImportError as e:
-        print(f"无法导入训练模块: {e}")
-        print("请确保 train_enhanced.py 或 train.py 在同一目录下")
-        sys.exit(1)
+    MODEL_SOURCE = "train"
+except ImportError as e:
+    print(f"无法导入训练模块: {e}")
+    print("请确保 train.py 在同一目录下")
+    sys.exit(1)
 
 
 # ============================================================
 # 文本生成器
 # ============================================================
-
 class TextGenerator:
     """文本生成器，支持贪婪/Top-K/Top-P/Beam Search"""
 
     def __init__(self, model_path: str, vocab_path: str, config_path: Optional[str] = None):
         keras.mixed_precision.set_global_policy("float32")
 
-        # 加载词汇表
+        # ✅ 加载词汇表（自动检测 BPE / 字符级）
         self.vocab = load_vocab(vocab_path)
         self.idx_to_char = {v: k for k, v in self.vocab.items()}
         self.vocab_size = len(self.vocab)
@@ -67,16 +57,23 @@ class TextGenerator:
         # 获取配置
         if hasattr(self.model, 'config') and self.model.config is not None:
             self.config = self.model.config
-        elif config_path and os.path.exists(config_path):
-            with open(config_path, 'r', encoding='utf-8') as f:
-                self.config = ModelConfig.from_dict(json.load(f))
         else:
-            self.config = ModelConfig(
-                vocab_size=self.vocab_size,
-                seq_len=256,
-                embed_dim=384,
-                num_heads=6,
-                num_layers=6
+            cfg = None
+            candidates = []
+            if config_path:
+                candidates.append(config_path)
+            candidates.extend([
+                os.path.join(model_path, "config.json"),
+                os.path.join(model_path, "best_model", "config.json"),
+            ])
+            for cp in candidates:
+                if os.path.exists(cp):
+                    with open(cp, 'r', encoding='utf-8') as f:
+                        cfg = ModelConfig.from_dict(json.load(f))
+                    break
+            self.config = cfg or ModelConfig(
+                vocab_size=self.vocab_size, seq_len=256,
+                embed_dim=384, num_heads=6, num_layers=6
             )
 
         print(f"✓ 生成器初始化完成")
@@ -85,21 +82,29 @@ class TextGenerator:
         print(f"  - 模型来源: {MODEL_SOURCE}")
 
     def _load_model(self, model_path: str, config_path: Optional[str] = None):
-        """加载模型，支持多种格式"""
-        # 1. 尝试 .keras 格式
-        keras_path = os.path.join(model_path, "model.keras")
-        if os.path.exists(keras_path):
+        """加载模型，支持多种格式和路径结构"""
+
+        # 1. 直接 .keras 文件
+        direct_keras = os.path.join(model_path, "model.keras")
+        if os.path.exists(direct_keras):
             try:
-                if MODEL_SOURCE == "train":
-                    model = load_model_keras(model_path)
-                else:
-                    model = keras.models.load_model(keras_path)
-                print(f"✓ 从 {keras_path} 加载模型")
+                model = keras.models.load_model(direct_keras)
+                print(f"✓ 从 {direct_keras} 加载模型")
                 return model
             except Exception as e:
-                print(f"  ⚠️ .keras 加载失败: {e}")
+                print(f"  ⚠️ 直接加载 .keras 失败: {e}")
 
-        # 2. 尝试 SavedModel
+        # 2. best_model 子目录
+        best_keras = os.path.join(model_path, "best_model", "model.keras")
+        if os.path.exists(best_keras):
+            try:
+                model = load_model_keras(model_path)
+                print(f"✓ 从 {best_keras} 加载模型")
+                return model
+            except Exception as e:
+                print(f"  ⚠️ best_model/.keras 加载失败: {e}")
+
+        # 3. SavedModel
         savedmodel_path = os.path.join(model_path, "savedmodel")
         if os.path.exists(savedmodel_path):
             try:
@@ -109,93 +114,90 @@ class TextGenerator:
             except Exception as e:
                 print(f"  ⚠️ SavedModel 加载失败: {e}")
 
-        # 3. 从 config + weights 重建
+        # 4. config + weights 重建
+        cfg_path = None
         if config_path and os.path.exists(config_path):
-            with open(config_path, 'r', encoding='utf-8') as f:
+            cfg_path = config_path
+        else:
+            for p in [os.path.join(model_path, "config.json"),
+                      os.path.join(model_path, "best_model", "config.json")]:
+                if os.path.exists(p):
+                    cfg_path = p
+                    break
+
+        if cfg_path:
+            with open(cfg_path, 'r', encoding='utf-8') as f:
                 config = ModelConfig.from_dict(json.load(f))
             model = LiteratureTransformer(config)
             dummy = tf.constant([[self.bos_id]], dtype=tf.int32)
             _ = model(dummy, training=False)
 
-            weights_path = os.path.join(model_path, "weights.h5")
-            if os.path.exists(weights_path):
-                model.load_weights(weights_path)
-                print(f"✓ 从 {weights_path} 加载权重")
-                return model
+            for wp in [os.path.join(model_path, "weights.h5"),
+                       os.path.join(model_path, "best_model", "weights.h5")]:
+                if os.path.exists(wp):
+                    model.load_weights(wp)
+                    print(f"✓ 从 {wp} 加载权重")
+                    return model
 
-        raise FileNotFoundError(f"无法在 {model_path} 找到可用模型文件")
+        raise FileNotFoundError(
+            f"无法在 {model_path} 找到可用模型文件。\n"
+            f"请确保目录下存在以下任一文件：\n"
+            f"  - model.keras\n"
+            f"  - best_model/model.keras\n"
+            f"  - savedmodel/\n"
+            f"  - config.json + weights.h5"
+        )
 
     # ========================================================
-    # 编码 / 解码
+    # 编码 / 解码（✅ 适配 BPE 和字符级）
     # ========================================================
-
     def encode_chars(self, text: str) -> List[int]:
-        """逐字符编码，与训练时完全一致"""
-        return [self.vocab.get(ch, self.unk_id) for ch in text]
+        """编码文本，兼容 BPE 和字符级"""
+        return self.vocab.encode(text)
 
     def decode_tokens(self, tokens: List[int], skip_special: bool = True) -> str:
-        """逐字符解码，不插入空格"""
-        special_ids = {self.pad_id, self.bos_id, self.eos_id, self.user_id, self.bot_id}
-        chars = []
-        for tid in tokens:
-            if skip_special and tid in special_ids:
-                continue
-            if 0 <= tid < self.vocab_size:
-                chars.append(self.idx_to_char.get(tid, ''))
-        return ''.join(chars)
+        """解码 token 列表，兼容 BPE 和字符级"""
+        return self.vocab.decode(tokens, skip_special_tokens=skip_special)
 
     def build_chat_ids(self, prompt: str, system_prompt: Optional[str] = None) -> List[int]:
         """
         构建与训练时格式完全一致的输入序列：
-        [bos, <|user|>, p, r, o, m, p, t, <|bot|>]
-        如果带 system_prompt:
-        [bos, <|user|>, s, y, s, ..., <|bot|>, p, r, o, m, p, t, <|bot|>]
+        [bos, <|user|>, prompt..., <|bot|>]
         """
         ids = [self.bos_id, self.user_id]
-
         if system_prompt:
             ids.extend(self.encode_chars(system_prompt))
             ids.append(self.bot_id)
-            ids.extend(self.encode_chars(prompt))
-            ids.append(self.bot_id)
-        else:
-            ids.extend(self.encode_chars(prompt))
-            ids.append(self.bot_id)
-
+        ids.extend(self.encode_chars(prompt))
+        ids.append(self.bot_id)
         return ids
 
     # ========================================================
     # 核心采样函数
     # ========================================================
-
     def _sample_next_token(self, logits: tf.Tensor,
                            temperature: float = 1.0,
                            top_k: Optional[int] = None,
                            top_p: Optional[float] = None) -> int:
-        """从 logits 中采样下一个 token，支持 temperature / top_k / top_p"""
-        # temperature
+        """从 logits 中采样下一个 token"""
         if temperature != 1.0 and temperature > 0:
             logits = logits / temperature
 
-        # top_k
         if top_k is not None and top_k > 0:
             top_k = min(top_k, self.vocab_size)
             kth_val = tf.math.top_k(logits, top_k)[0][..., -1]
             logits = tf.where(logits < kth_val, -1e9, logits)
 
-        # top_p (核采样) - 修复版
         if top_p is not None and 0.0 < top_p < 1.0:
             sorted_logits = tf.sort(logits, direction='DESCENDING')
             sorted_probs = tf.nn.softmax(sorted_logits)
             cumulative_probs = tf.cumsum(sorted_probs)
             sorted_indices_to_remove = cumulative_probs > top_p
-            # 保留第一个超过阈值的 token（保证至少有一个可选）
             sorted_indices_to_remove = tf.concat([
                 tf.zeros_like(sorted_indices_to_remove[:1], dtype=tf.bool),
                 sorted_indices_to_remove[:-1]
             ], axis=-1)
 
-            # 映射回原始索引
             sorted_indices = tf.argsort(logits, direction='DESCENDING')
             indices_to_remove = tf.scatter_nd(
                 sorted_indices[..., None],
@@ -205,14 +207,12 @@ class TextGenerator:
             indices_to_remove = tf.cast(indices_to_remove, tf.bool)
             logits = tf.where(indices_to_remove, -1e9, logits)
 
-        # 采样（直接用 logits，避免先 softmax 再 log）
         next_token = tf.random.categorical(logits[None, :], 1)[0, 0].numpy()
         return int(next_token)
 
     # ========================================================
     # 生成接口
     # ========================================================
-
     def generate(self,
                  prompt_ids: List[int],
                  max_length: int = 100,
@@ -221,21 +221,7 @@ class TextGenerator:
                  top_p: float = 0.9,
                  stop_ids: Optional[List[int]] = None,
                  echo: bool = False) -> Tuple[str, List[int], float]:
-        """
-        自回归生成
-
-        Args:
-            prompt_ids: 输入 token 列表
-            max_length: 最大生成长度（包含 prompt）
-            temperature: 温度
-            top_k: Top-K
-            top_p: Top-P
-            stop_ids: 停止 token ID 列表
-            echo: 是否返回包含 prompt 的完整序列
-
-        Returns:
-            (生成文本, token 列表, 耗时秒)
-        """
+        """自回归生成"""
         if stop_ids is None:
             stop_ids = [self.eos_id]
 
@@ -246,14 +232,10 @@ class TextGenerator:
             if len(generated) >= self.config.seq_len:
                 break
 
-            # 截断到最大长度
             input_ids = np.array([generated[-self.config.seq_len:]], dtype=np.int32)
-
-            # 前向传播
             logits = self.model(input_ids, training=False)
             last_logits = logits[0, -1, :self.vocab_size]
 
-            # 采样
             next_token = self._sample_next_token(
                 last_logits, temperature=temperature, top_k=top_k, top_p=top_p
             )
@@ -275,7 +257,7 @@ class TextGenerator:
              top_k: int = 50,
              top_p: float = 0.9,
              system_prompt: Optional[str] = None) -> str:
-        """聊天接口，输入输出均为自然语言"""
+        """聊天接口"""
         prompt_ids = self.build_chat_ids(prompt, system_prompt=system_prompt)
         text, _, _ = self.generate(
             prompt_ids,
@@ -309,7 +291,6 @@ class TextGenerator:
     # ========================================================
     # Beam Search
     # ========================================================
-
     def generate_beam(self,
                       prompt_ids: List[int],
                       max_length: int = 100,
@@ -321,7 +302,7 @@ class TextGenerator:
             stop_ids = [self.eos_id]
 
         start_time = time.time()
-        beams = [(list(prompt_ids), 0.0)]  # (tokens, log_prob)
+        beams = [(list(prompt_ids), 0.0)]
         completed = []
 
         for _ in range(max_length):
@@ -355,7 +336,6 @@ class TextGenerator:
             candidates.sort(key=lambda x: x[1], reverse=True)
             beams = candidates[:beam_width]
 
-        # 选最优
         if completed:
             best = max(completed, key=lambda x: x[1] / len(x[0]))
         else:
@@ -369,7 +349,6 @@ class TextGenerator:
 # ============================================================
 # 交互模式
 # ============================================================
-
 def interactive_mode(generator: TextGenerator):
     print("\n" + "=" * 50)
     print("🤖 交互模式 (输入 'quit' 退出)")
@@ -403,7 +382,6 @@ def interactive_mode(generator: TextGenerator):
                 print("再见！")
                 break
 
-            # 命令解析
             if user_input.startswith('/'):
                 parts = user_input.split(None, 1)
                 cmd = parts[0].lower()
@@ -434,7 +412,6 @@ def interactive_mode(generator: TextGenerator):
                     print(f"未知命令: {cmd}")
                 continue
 
-            # 生成
             print("生成中...")
             if settings['beam'] > 1:
                 prompt_ids = generator.build_chat_ids(user_input, settings['system'])
@@ -473,16 +450,15 @@ def interactive_mode(generator: TextGenerator):
 # ============================================================
 # 命令行入口
 # ============================================================
-
 def main():
     import argparse
-    parser = argparse.ArgumentParser(description="文学语言模型文本生成 (Enhanced)")
-    parser.add_argument("--model_path", type=str, default="saved_model/rl_final",
+    parser = argparse.ArgumentParser(description="文学语言模型文本生成（支持 BPE/字符级）")
+    parser.add_argument("--model_path", type=str, default="output",
                         help="模型目录路径")
-    parser.add_argument("--vocab_path", type=str, default="vocab.json",
-                        help="词汇表路径")
-    parser.add_argument("--config_path", type=str, default="saved_model/config.json",
-                        help="配置文件路径")
+    parser.add_argument("--vocab_path", type=str, default="tokenizer.json",
+                        help="词汇表路径（tokenizer.json 或 vocab.json）")
+    parser.add_argument("--config_path", type=str, default=None,
+                        help="配置文件路径（可选）")
     parser.add_argument("--prompt", type=str, help="单次生成提示文本")
     parser.add_argument("--max_length", type=int, default=100, help="最大生成长度")
     parser.add_argument("--temperature", type=float, default=0.8, help="温度")
@@ -493,11 +469,16 @@ def main():
     parser.add_argument("--system", type=str, default=None, help="系统提示词")
     args = parser.parse_args()
 
-    # 检查路径
+    # 自动检测词表
+    if not os.path.exists(args.vocab_path):
+        alt = args.vocab_path.replace("tokenizer.json", "vocab.json")
+        if os.path.exists(alt):
+            args.vocab_path = alt
+
     if not os.path.exists(args.model_path):
         print(f"❌ 模型路径不存在: {args.model_path}")
         print("可用路径:")
-        for p in ["saved_model/rl_final", "saved_model/sft_final", "saved_model/pretrain_final"]:
+        for p in ["output", "saved_model/rl_final", "saved_model/sft_final", "saved_model/pretrain_final"]:
             if os.path.exists(p):
                 print(f"  ✓ {p}")
         sys.exit(1)
@@ -515,7 +496,7 @@ def main():
 
     if not args.prompt:
         print("请提供 --prompt 或使用 --interactive 交互模式")
-        print('示例: python predict_enhanced.py --prompt "你好"')
+        print('示例: python predict.py --prompt "你好"')
         sys.exit(1)
 
     print(f"提示: {args.prompt}")

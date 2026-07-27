@@ -15,6 +15,7 @@ import numpy as np
 warnings.filterwarnings("ignore", category=SyntaxWarning)
 register_keras_serializable = tf.keras.utils.register_keras_serializable
 
+
 # ============================================================
 # 环境设置
 # ============================================================
@@ -31,19 +32,20 @@ def setup_environment():
 
 setup_environment()
 
+
 # ============================================================
 # 配置类
 # ============================================================
 @dataclass
 class ModelConfig:
-    vocab_size: int = 5000
-    embed_dim: int = 384
-    num_heads: int = 6
-    num_layers: int = 6
+    vocab_size: int = 24000
+    embed_dim: int = 512
+    num_heads: int = 8
+    num_layers: int = 8
     max_len: int = 512
     dropout: float = 0.1
-    seq_len: int = 256
-    batch_size: int = 4
+    seq_len: int = 512
+    batch_size: int = 2
 
     pretrain_lr: float = 5e-4
     sft_lr: float = 1e-5
@@ -205,7 +207,7 @@ def check_gradients_nan_inf(grads):
 
 
 # ============================================================
-# 自定义层
+# 自定义层（与之前完全相同）
 # ============================================================
 @register_keras_serializable(package="MyAI")
 class RotaryEmbedding(layers.Layer):
@@ -474,7 +476,7 @@ class LiteratureTransformer(keras.Model):
 
 
 # ============================================================
-# 保存/加载（只保留最佳）
+# 保存/加载
 # ============================================================
 def save_best_model_only(model, save_dir, is_best=False):
     if not is_best:
@@ -529,8 +531,17 @@ def load_model_keras(load_dir, vocab_size=None):
     return model
 
 
+# ✅ 修改：支持字符级 vocab.json 和 BPE tokenizer.json
+def load_vocab(path):
+    """加载词汇表（支持字符级 vocab.json 和 BPE tokenizer.json）"""
+    if not os.path.exists(path):
+        raise FileNotFoundError(f"词表文件不存在: {path}")
+    from tokenizer_wrapper import TokenizerWrapper
+    return TokenizerWrapper(path)
+
+
 # ============================================================
-# 数据生成器（支持 infinite 循环）
+# 数据生成器（支持 BPE 和字符级）
 # ============================================================
 class PretrainDataGenerator:
     def __init__(self, text, char_to_idx, config: ModelConfig, start_ratio=0.0, end_ratio=1.0, shuffle=True, infinite=False):
@@ -552,6 +563,10 @@ class PretrainDataGenerator:
             np.random.shuffle(self.indices)
 
     def _encode_text(self, text):
+        """✅ 修改：兼容 BPE 和字符级"""
+        if hasattr(self.char_to_idx, 'encode') and callable(getattr(self.char_to_idx, 'encode')):
+            return np.array(self.char_to_idx.encode(text), dtype=np.int32)
+        # 兼容旧版 dict（备用）
         ids = []
         for ch in text:
             ids.append(self.char_to_idx.get(ch, self.unk_id))
@@ -635,13 +650,11 @@ class SFTDataGenerator:
             print(f"  ✅ 调整后: seq_len={self.seq_len}, max_prompt_len={self.max_prompt_len}")
 
     def _encode(self, prompt, response):
+        """✅ 修改：兼容 BPE 和字符级"""
         prompt_ids = [self.bos_id, self.user_id]
-        for ch in prompt:
-            prompt_ids.append(self.vocab.get(ch, self.unk_id))
+        prompt_ids.extend(self.vocab.encode(prompt))
         prompt_ids.append(self.bot_id)
-        response_ids = []
-        for ch in response:
-            response_ids.append(self.vocab.get(ch, self.unk_id))
+        response_ids = self.vocab.encode(response)
         response_ids.append(self.eos_id)
         return prompt_ids, response_ids
 
@@ -735,12 +748,11 @@ class DPODataGenerator:
         return pairs
 
     def _encode(self, prompt, response):
+        """✅ 修改：兼容 BPE 和字符级"""
         ids = [self.bos_id, self.user_id]
-        for ch in prompt:
-            ids.append(self.vocab.get(ch, self.unk_id))
+        ids.extend(self.vocab.encode(prompt))
         ids.append(self.bot_id)
-        for ch in response:
-            ids.append(self.vocab.get(ch, self.unk_id))
+        ids.extend(self.vocab.encode(response))
         ids.append(self.eos_id)
         return ids
 
@@ -974,7 +986,6 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
     print("\n🚀 开始 DPO 训练")
     if config.enable_mixed_precision:
         keras.mixed_precision.set_global_policy("mixed_float16")
-
     total_steps = config.rl_epochs * config.steps_per_epoch
     warmup_steps = int(total_steps * config.warmup_ratio)
 
@@ -1016,7 +1027,6 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
                 c_logps = compute_logps(c_logits, cy)
                 r_logps = compute_logps(r_logits, ry)
 
-                # 修复：tf.stop_gradient 是函数，不是上下文管理器
                 ref_c_logits = tf.stop_gradient(ref_model(cx, training=False))
                 ref_r_logits = tf.stop_gradient(ref_model(rx, training=False))
                 ref_c_logps = compute_logps(ref_c_logits, cy)
@@ -1025,7 +1035,9 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
                 pi_ratio = c_logps - r_logps
                 ref_ratio = ref_c_logps - ref_r_logps
                 logits_dpo = beta * (pi_ratio - ref_ratio)
-                loss = -tf.reduce_mean(tf.nn.log_sigmoid(logits_dpo))
+                
+                # ✅ 修复：新版 TensorFlow 移除 tf.nn.log_sigmoid
+                loss = tf.reduce_mean(tf.nn.softplus(-logits_dpo))
 
                 if config.gradient_accumulation_steps > 1:
                     loss = loss / config.gradient_accumulation_steps
@@ -1125,10 +1137,8 @@ def auto_config_pretrain(config, corpus_chars):
     total_samples = max(corpus_chars // stride, 1)
     steps = total_samples // config.batch_size
     
-    # 限制范围：最少 500 步，最多 5000 步（Kaggle 时间限制）
     config.steps_per_epoch = min(max(steps, 500), 5000)
     
-    # 数据越大，epochs 越少；但最少 2 个，最多 5 个
     if config.steps_per_epoch >= 4000:
         config.pretrain_epochs = 3
     elif config.steps_per_epoch >= 2000:
@@ -1185,13 +1195,16 @@ def main():
     base_dir = "/kaggle/working/MyAI"
 
     # ---------- 加载词表 ----------
-    vocab_path = os.path.join(base_dir, "vocab.json")
+    # ✅ 自动检测 tokenizer.json (BPE) 或 vocab.json (字符级)
+    vocab_path = os.path.join(base_dir, "tokenizer.json")
     if not os.path.exists(vocab_path):
-        print(f"❌ 词表不存在: {vocab_path}")
+        vocab_path = os.path.join(base_dir, "vocab.json")
+    
+    if not os.path.exists(vocab_path):
+        print(f"❌ 词表不存在: 请提供 tokenizer.json (BPE) 或 vocab.json (字符级)")
         sys.exit(1)
 
-    with open(vocab_path, "r", encoding="utf-8") as f:
-        vocab = json.load(f)
+    vocab = load_vocab(vocab_path)
     config.vocab_size = max(len(vocab), config.vocab_size)
     print(f"📊 词表大小: {len(vocab)}")
 
