@@ -38,14 +38,14 @@ setup_environment()
 # ============================================================
 @dataclass
 class ModelConfig:
-    vocab_size: int = 24000
-    embed_dim: int = 512
-    num_heads: int = 8
-    num_layers: int = 8
+    vocab_size: int = 5000
+    embed_dim: int = 384
+    num_heads: int = 6
+    num_layers: int = 6
     max_len: int = 512
     dropout: float = 0.1
-    seq_len: int = 512
-    batch_size: int = 2
+    seq_len: int = 256
+    batch_size: int = 4
 
     pretrain_lr: float = 5e-4
     sft_lr: float = 1e-5
@@ -207,7 +207,7 @@ def check_gradients_nan_inf(grads):
 
 
 # ============================================================
-# 自定义层（与之前完全相同）
+# 自定义层
 # ============================================================
 @register_keras_serializable(package="MyAI")
 class RotaryEmbedding(layers.Layer):
@@ -531,7 +531,6 @@ def load_model_keras(load_dir, vocab_size=None):
     return model
 
 
-# ✅ 修改：支持字符级 vocab.json 和 BPE tokenizer.json
 def load_vocab(path):
     """加载词汇表（支持字符级 vocab.json 和 BPE tokenizer.json）"""
     if not os.path.exists(path):
@@ -563,10 +562,9 @@ class PretrainDataGenerator:
             np.random.shuffle(self.indices)
 
     def _encode_text(self, text):
-        """✅ 修改：兼容 BPE 和字符级"""
+        """兼容 BPE 和字符级"""
         if hasattr(self.char_to_idx, 'encode') and callable(getattr(self.char_to_idx, 'encode')):
             return np.array(self.char_to_idx.encode(text), dtype=np.int32)
-        # 兼容旧版 dict（备用）
         ids = []
         for ch in text:
             ids.append(self.char_to_idx.get(ch, self.unk_id))
@@ -650,7 +648,7 @@ class SFTDataGenerator:
             print(f"  ✅ 调整后: seq_len={self.seq_len}, max_prompt_len={self.max_prompt_len}")
 
     def _encode(self, prompt, response):
-        """✅ 修改：兼容 BPE 和字符级"""
+        """兼容 BPE 和字符级"""
         prompt_ids = [self.bos_id, self.user_id]
         prompt_ids.extend(self.vocab.encode(prompt))
         prompt_ids.append(self.bot_id)
@@ -748,7 +746,7 @@ class DPODataGenerator:
         return pairs
 
     def _encode(self, prompt, response):
-        """✅ 修改：兼容 BPE 和字符级"""
+        """兼容 BPE 和字符级"""
         ids = [self.bos_id, self.user_id]
         ids.extend(self.vocab.encode(prompt))
         ids.append(self.bot_id)
@@ -986,6 +984,7 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
     print("\n🚀 开始 DPO 训练")
     if config.enable_mixed_precision:
         keras.mixed_precision.set_global_policy("mixed_float16")
+
     total_steps = config.rl_epochs * config.steps_per_epoch
     warmup_steps = int(total_steps * config.warmup_ratio)
 
@@ -1095,7 +1094,7 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
 
 
 # ============================================================
-# 自动配置工具
+# 自动配置工具（✅ 核心修复）
 # ============================================================
 def estimate_seq_len_from_sft(sft_path, max_samples=500):
     """预扫描 SFT 数据，返回建议 seq_len"""
@@ -1132,19 +1131,33 @@ def count_jsonl_lines(path):
 
 
 def auto_config_pretrain(config, corpus_chars):
-    """根据预训练语料大小自动调整 steps_per_epoch 和 epochs"""
+    """
+    根据预训练语料大小自动调整 steps_per_epoch 和 epochs
+    ✅ 修复：大语料不再减少 epochs，steps 上限放宽
+    """
     stride = config.seq_len // 4
     total_samples = max(corpus_chars // stride, 1)
     steps = total_samples // config.batch_size
     
-    config.steps_per_epoch = min(max(steps, 500), 5000)
+    # 放宽上限到 10000，让大语料能充分训练
+    config.steps_per_epoch = min(max(steps, 500), 10000)
     
-    if config.steps_per_epoch >= 4000:
-        config.pretrain_epochs = 3
-    elif config.steps_per_epoch >= 2000:
-        config.pretrain_epochs = 4
-    else:
+    # ✅ 修复：语料越大 epochs 越多（或保持），而不是越少
+    corpus_mb = corpus_chars / (1024 * 1024)
+    if corpus_mb >= 500:
         config.pretrain_epochs = 5
+    elif corpus_mb >= 200:
+        config.pretrain_epochs = 6
+    elif corpus_mb >= 50:
+        config.pretrain_epochs = 7
+    else:
+        config.pretrain_epochs = 8
+    
+    # 防超时：如果 steps 已经很大，适当减少 epochs
+    if config.steps_per_epoch >= 8000:
+        config.pretrain_epochs = min(config.pretrain_epochs, 5)
+    elif config.steps_per_epoch >= 5000:
+        config.pretrain_epochs = min(config.pretrain_epochs, 6)
     
     total_tokens = config.steps_per_epoch * config.batch_size * config.seq_len * config.pretrain_epochs
     print(f"📊 预训练自动配置: corpus={corpus_chars/1e6:.1f}M字符, "
@@ -1195,7 +1208,6 @@ def main():
     base_dir = "/kaggle/working/MyAI"
 
     # ---------- 加载词表 ----------
-    # ✅ 自动检测 tokenizer.json (BPE) 或 vocab.json (字符级)
     vocab_path = os.path.join(base_dir, "tokenizer.json")
     if not os.path.exists(vocab_path):
         vocab_path = os.path.join(base_dir, "vocab.json")
@@ -1205,10 +1217,22 @@ def main():
         sys.exit(1)
 
     vocab = load_vocab(vocab_path)
-    config.vocab_size = max(len(vocab), config.vocab_size)
+    config.vocab_size = len(vocab)  # ✅ 必须同步为 tokenizer 实际大小
     print(f"📊 词表大小: {len(vocab)}")
 
-    # ---------- 预扫描 SFT 数据，统一 seq_len ----------
+    # ✅ BPE 优化：自动提升 seq_len 到 512，发挥 BPE 效率优势
+    if config.vocab_size > 15000:
+        print("🧠 检测到 BPE 大词表，自动优化配置")
+        if config.seq_len < 512:
+            print(f"   seq_len: {config.seq_len} -> 512")
+            config.seq_len = 512
+        # 手机/边缘设备有余量可打开下面：
+        # config.embed_dim = 512
+        # config.num_heads = 8
+        # config.num_layers = 8
+        # config.batch_size = max(config.batch_size // 2, 2)
+
+    # ---------- 预扫描 SFT 数据 ----------
     sft_train_path = os.path.join(base_dir, "sft_train.jsonl")
     estimated_seq_len = estimate_seq_len_from_sft(sft_train_path)
     if estimated_seq_len and estimated_seq_len > config.seq_len:
@@ -1235,7 +1259,7 @@ def main():
         pretrain_text += "测试数据。" * 1000
         corpus_chars = len(pretrain_text)
 
-    # 自动配置预训练参数
+    # 自动配置预训练参数（✅ 已修复）
     auto_config_pretrain(config, corpus_chars)
 
     split_idx = int(len(pretrain_text) * 0.95)
@@ -1271,7 +1295,6 @@ def main():
             sft_model = load_model_keras(os.path.join(base_dir, "output", "pretrain"))
             sft_model.config = config
 
-            # 自动配置 SFT 参数
             num_sft_samples = count_jsonl_lines(sft_train_path)
             auto_config_sft(config, num_sft_samples)
 
@@ -1299,7 +1322,6 @@ def main():
             ref_model = load_model_keras(os.path.join(base_dir, "output", "sft"))
             ref_model.config = config
 
-            # 自动配置 DPO 参数
             num_rl_pairs = count_jsonl_lines(rl_train_path)
             auto_config_dpo(config, num_rl_pairs)
 

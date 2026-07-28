@@ -7,15 +7,11 @@ predict.py
 import tensorflow as tf
 from tensorflow import keras
 import json
-import numpy as np
-import sys
 import os
+import sys
 import time
 from typing import List, Optional, Tuple
 
-# ============================================================
-# 导入模型定义
-# ============================================================
 try:
     from train import (
         LiteratureTransformer, ModelConfig, RotaryEmbedding,
@@ -29,21 +25,14 @@ except ImportError as e:
     sys.exit(1)
 
 
-# ============================================================
-# 文本生成器
-# ============================================================
 class TextGenerator:
-    """文本生成器，支持贪婪/Top-K/Top-P/Beam Search"""
-
     def __init__(self, model_path: str, vocab_path: str, config_path: Optional[str] = None):
         keras.mixed_precision.set_global_policy("float32")
 
-        # ✅ 加载词汇表（自动检测 BPE / 字符级）
         self.vocab = load_vocab(vocab_path)
         self.idx_to_char = {v: k for k, v in self.vocab.items()}
         self.vocab_size = len(self.vocab)
 
-        # 特殊 token ID
         self.pad_id = self.vocab.get('<|pad|>', 0)
         self.unk_id = self.vocab.get('<|unk|>', 3)
         self.bos_id = self.vocab.get('<|bos|>', 1)
@@ -51,10 +40,8 @@ class TextGenerator:
         self.user_id = self.vocab.get('<|user|>', 4)
         self.bot_id = self.vocab.get('<|bot|>', 5)
 
-        # 加载模型
         self.model = self._load_model(model_path, config_path)
 
-        # 获取配置
         if hasattr(self.model, 'config') and self.model.config is not None:
             self.config = self.model.config
         else:
@@ -82,9 +69,6 @@ class TextGenerator:
         print(f"  - 模型来源: {MODEL_SOURCE}")
 
     def _load_model(self, model_path: str, config_path: Optional[str] = None):
-        """加载模型，支持多种格式和路径结构"""
-
-        # 1. 直接 .keras 文件
         direct_keras = os.path.join(model_path, "model.keras")
         if os.path.exists(direct_keras):
             try:
@@ -94,7 +78,6 @@ class TextGenerator:
             except Exception as e:
                 print(f"  ⚠️ 直接加载 .keras 失败: {e}")
 
-        # 2. best_model 子目录
         best_keras = os.path.join(model_path, "best_model", "model.keras")
         if os.path.exists(best_keras):
             try:
@@ -104,7 +87,6 @@ class TextGenerator:
             except Exception as e:
                 print(f"  ⚠️ best_model/.keras 加载失败: {e}")
 
-        # 3. SavedModel
         savedmodel_path = os.path.join(model_path, "savedmodel")
         if os.path.exists(savedmodel_path):
             try:
@@ -114,7 +96,6 @@ class TextGenerator:
             except Exception as e:
                 print(f"  ⚠️ SavedModel 加载失败: {e}")
 
-        # 4. config + weights 重建
         cfg_path = None
         if config_path and os.path.exists(config_path):
             cfg_path = config_path
@@ -141,29 +122,16 @@ class TextGenerator:
 
         raise FileNotFoundError(
             f"无法在 {model_path} 找到可用模型文件。\n"
-            f"请确保目录下存在以下任一文件：\n"
-            f"  - model.keras\n"
-            f"  - best_model/model.keras\n"
-            f"  - savedmodel/\n"
-            f"  - config.json + weights.h5"
+            f"请确保目录下存在：model.keras 或 best_model/model.keras"
         )
 
-    # ========================================================
-    # 编码 / 解码（✅ 适配 BPE 和字符级）
-    # ========================================================
     def encode_chars(self, text: str) -> List[int]:
-        """编码文本，兼容 BPE 和字符级"""
         return self.vocab.encode(text)
 
     def decode_tokens(self, tokens: List[int], skip_special: bool = True) -> str:
-        """解码 token 列表，兼容 BPE 和字符级"""
         return self.vocab.decode(tokens, skip_special_tokens=skip_special)
 
     def build_chat_ids(self, prompt: str, system_prompt: Optional[str] = None) -> List[int]:
-        """
-        构建与训练时格式完全一致的输入序列：
-        [bos, <|user|>, prompt..., <|bot|>]
-        """
         ids = [self.bos_id, self.user_id]
         if system_prompt:
             ids.extend(self.encode_chars(system_prompt))
@@ -172,14 +140,10 @@ class TextGenerator:
         ids.append(self.bot_id)
         return ids
 
-    # ========================================================
-    # 核心采样函数
-    # ========================================================
     def _sample_next_token(self, logits: tf.Tensor,
                            temperature: float = 1.0,
                            top_k: Optional[int] = None,
                            top_p: Optional[float] = None) -> int:
-        """从 logits 中采样下一个 token"""
         if temperature != 1.0 and temperature > 0:
             logits = logits / temperature
 
@@ -210,9 +174,6 @@ class TextGenerator:
         next_token = tf.random.categorical(logits[None, :], 1)[0, 0].numpy()
         return int(next_token)
 
-    # ========================================================
-    # 生成接口
-    # ========================================================
     def generate(self,
                  prompt_ids: List[int],
                  max_length: int = 100,
@@ -221,7 +182,6 @@ class TextGenerator:
                  top_p: float = 0.9,
                  stop_ids: Optional[List[int]] = None,
                  echo: bool = False) -> Tuple[str, List[int], float]:
-        """自回归生成"""
         if stop_ids is None:
             stop_ids = [self.eos_id]
 
@@ -257,7 +217,6 @@ class TextGenerator:
              top_k: int = 50,
              top_p: float = 0.9,
              system_prompt: Optional[str] = None) -> str:
-        """聊天接口"""
         prompt_ids = self.build_chat_ids(prompt, system_prompt=system_prompt)
         text, _, _ = self.generate(
             prompt_ids,
@@ -276,7 +235,6 @@ class TextGenerator:
                            temperature: float = 0.8,
                            top_k: int = 50,
                            top_p: float = 0.9) -> Tuple[str, float]:
-        """从纯文本提示生成"""
         prompt_ids = [self.bos_id] + self.encode_chars(prompt)
         text, _, elapsed = self.generate(
             prompt_ids,
@@ -288,16 +246,12 @@ class TextGenerator:
         )
         return text, elapsed
 
-    # ========================================================
-    # Beam Search
-    # ========================================================
     def generate_beam(self,
                       prompt_ids: List[int],
                       max_length: int = 100,
                       beam_width: int = 3,
                       temperature: float = 1.0,
                       stop_ids: Optional[List[int]] = None) -> Tuple[str, float]:
-        """束搜索生成"""
         if stop_ids is None:
             stop_ids = [self.eos_id]
 
