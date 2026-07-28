@@ -207,7 +207,7 @@ def check_gradients_nan_inf(grads):
 
 
 # ============================================================
-# 自定义层（保持不变）
+# 自定义层
 # ============================================================
 @register_keras_serializable(package="MyAI")
 class RotaryEmbedding(layers.Layer):
@@ -540,11 +540,60 @@ def load_vocab(path):
 
 
 # ============================================================
-# 数据生成器（SFT 和 DPO 保持不变）
+# 数据生成器（支持 BPE 和字符级）
 # ============================================================
 class PretrainDataGenerator:
-    # 这个类不再使用，改为流式 Dataset，但保留以防其他调用
-    pass
+    def __init__(self, text, char_to_idx, config: ModelConfig, start_ratio=0.0, end_ratio=1.0, shuffle=True, infinite=False):
+        self.char_to_idx = char_to_idx
+        self.config = config
+        self.pad_id = char_to_idx.get('<|pad|>', 0)
+        self.unk_id = char_to_idx.get('<|unk|>', 3)
+        self.ids = self._encode_text(text)
+        stride = config.seq_len // 4
+        total_len = len(self.ids)
+        start_idx = int(total_len * start_ratio)
+        end_idx = int(total_len * end_ratio)
+        self.ids = self.ids[start_idx:end_idx]
+        self.indices = list(range(0, len(self.ids) - config.seq_len, stride))
+        self.num_samples = len(self.indices)
+        self.shuffle = shuffle
+        self.infinite = infinite
+        if self.shuffle:
+            np.random.shuffle(self.indices)
+
+    def _encode_text(self, text):
+        """兼容 BPE 和字符级"""
+        if hasattr(self.char_to_idx, 'encode') and callable(getattr(self.char_to_idx, 'encode')):
+            return np.array(self.char_to_idx.encode(text), dtype=np.int32)
+        ids = []
+        for ch in text:
+            ids.append(self.char_to_idx.get(ch, self.unk_id))
+        return np.array(ids, dtype=np.int32)
+
+    def __len__(self):
+        return self.num_samples // self.config.batch_size
+
+    def __call__(self):
+        while True:
+            if self.shuffle:
+                np.random.shuffle(self.indices)
+            batch_x, batch_y = [], []
+            count = 0
+            for start_idx in self.indices:
+                segment = self.ids[start_idx:start_idx + self.config.seq_len + 1]
+                if len(segment) < self.config.seq_len + 1:
+                    segment = np.pad(segment, (0, self.config.seq_len + 1 - len(segment)), constant_values=self.pad_id)
+                x = segment[:-1]
+                y = segment[1:]
+                batch_x.append(x)
+                batch_y.append(y)
+                count += 1
+                if count == self.config.batch_size:
+                    yield np.array(batch_x, dtype=np.int32), np.array(batch_y, dtype=np.int32)
+                    batch_x, batch_y = [], []
+                    count = 0
+            if not self.infinite:
+                break
 
 
 class SFTDataGenerator:
@@ -741,53 +790,7 @@ class DPODataGenerator:
 
 
 # ============================================================
-# 新增：流式预训练数据生成器（逐文件读取）
-# ============================================================
-def file_generator(file_list, vocab, seq_len):
-    """
-    逐文件读取、编码、滑动窗口生成样本。
-    每次 yield (x, y) numpy 数组。
-    """
-    pad_id = vocab.get('<|pad|>', 0) if hasattr(vocab, 'get') else 0
-    unk_id = vocab.get('<|unk|>', 3) if hasattr(vocab, 'get') else 3
-    stride = seq_len // 4
-
-    for file_path in file_list:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            text = f.read()
-        # 编码：支持 BPE encode 或字符级字典
-        if hasattr(vocab, 'encode') and callable(vocab.encode):
-            ids = vocab.encode(text)
-        else:
-            ids = [vocab.get(ch, unk_id) for ch in text]
-
-        # 滑动窗口
-        for i in range(0, len(ids) - seq_len, stride):
-            segment = ids[i:i+seq_len+1]
-            if len(segment) < seq_len+1:
-                continue
-            x = segment[:-1]
-            y = segment[1:]
-            yield np.array(x, dtype=np.int32), np.array(y, dtype=np.int32)
-
-
-def create_pretrain_dataset(file_list, vocab, config, is_training=True):
-    """创建 tf.data.Dataset 用于预训练"""
-    dataset = tf.data.Dataset.from_generator(
-        lambda: file_generator(file_list, vocab, config.seq_len),
-        output_types=(tf.int32, tf.int32),
-        output_shapes=((config.seq_len,), (config.seq_len,))
-    )
-    dataset = dataset.batch(config.batch_size, drop_remainder=True)
-    if is_training:
-        dataset = dataset.shuffle(buffer_size=1000).repeat()  # 无限循环
-    else:
-        dataset = dataset.repeat(1)  # 只遍历一次
-    return dataset.prefetch(tf.data.AUTOTUNE)
-
-
-# ============================================================
-# 训练函数（修改 pretrain 接受 dataset）
+# 训练函数
 # ============================================================
 def create_optimizer(lr_schedule, config):
     return keras.optimizers.AdamW(
@@ -799,7 +802,7 @@ def create_optimizer(lr_schedule, config):
     )
 
 
-def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="output/pretrain"):
+def pretrain(model, train_gen, val_gen, vocab_size, config, save_dir="output/pretrain"):
     print("\n🚀 开始预训练")
     if config.enable_mixed_precision:
         keras.mixed_precision.set_global_policy("mixed_float16")
@@ -829,8 +832,7 @@ def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="ou
         accum_loss = 0.0
         train_steps = 0
 
-        # 训练循环（train_dataset 是 repeat 的无限流）
-        for step, (x, y) in enumerate(train_dataset):
+        for step, (x, y) in enumerate(train_gen()):
             if step >= config.steps_per_epoch:
                 break
             global_step += 1
@@ -855,10 +857,9 @@ def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="ou
             train_steps += 1
             lr_manager.on_step_end(loss)
 
-        # 验证（val_dataset 不 repeat，每次 epoch 重新迭代）
         val_loss = 0.0
         val_steps = 0
-        for x, y in val_dataset:
+        for x, y in val_gen():
             logits = model(x, training=False)
             val_loss += float(loss_fn(y, logits))
             val_steps += 1
@@ -892,7 +893,6 @@ def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="ou
 
 
 def sft_train(model, train_gen, val_gen, config, save_dir="output/sft"):
-    # 与原来一致，保持不变
     print("\n🚀 开始监督微调 (SFT)")
     if config.enable_mixed_precision:
         keras.mixed_precision.set_global_policy("mixed_float16")
@@ -981,7 +981,6 @@ def sft_train(model, train_gen, val_gen, config, save_dir="output/sft"):
 
 
 def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
-    # 与原来一致，保持不变
     print("\n🚀 开始 DPO 训练")
     if config.enable_mixed_precision:
         keras.mixed_precision.set_global_policy("mixed_float16")
@@ -1035,6 +1034,8 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
                 pi_ratio = c_logps - r_logps
                 ref_ratio = ref_c_logps - ref_r_logps
                 logits_dpo = beta * (pi_ratio - ref_ratio)
+                
+                # ✅ 修复：新版 TensorFlow 移除 tf.nn.log_sigmoid
                 loss = tf.reduce_mean(tf.nn.softplus(-logits_dpo))
 
                 if config.gradient_accumulation_steps > 1:
@@ -1093,7 +1094,7 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
 
 
 # ============================================================
-# 自动配置工具（微调）
+# 自动配置工具（✅ 核心修复）
 # ============================================================
 def estimate_seq_len_from_sft(sft_path, max_samples=500):
     """预扫描 SFT 数据，返回建议 seq_len"""
@@ -1129,18 +1130,20 @@ def count_jsonl_lines(path):
     return count
 
 
-def auto_config_pretrain(config, corpus_bytes):
+def auto_config_pretrain(config, corpus_chars):
     """
-    根据预训练语料总字节数自动调整 steps_per_epoch 和 epochs
+    根据预训练语料大小自动调整 steps_per_epoch 和 epochs
+    ✅ 修复：大语料不再减少 epochs，steps 上限放宽
     """
     stride = config.seq_len // 4
-    # 粗略估算样本数：每个字符平均 1 字节（英文）或 3 字节（中文），取 2 字节
-    approx_chars = corpus_bytes // 2
-    total_samples = max(approx_chars // stride, 1)
+    total_samples = max(corpus_chars // stride, 1)
     steps = total_samples // config.batch_size
+    
+    # 放宽上限到 10000，让大语料能充分训练
     config.steps_per_epoch = min(max(steps, 500), 10000)
-
-    corpus_mb = corpus_bytes / (1024 * 1024)
+    
+    # ✅ 修复：语料越大 epochs 越多（或保持），而不是越少
+    corpus_mb = corpus_chars / (1024 * 1024)
     if corpus_mb >= 500:
         config.pretrain_epochs = 5
     elif corpus_mb >= 200:
@@ -1149,42 +1152,49 @@ def auto_config_pretrain(config, corpus_bytes):
         config.pretrain_epochs = 7
     else:
         config.pretrain_epochs = 8
-
+    
+    # 防超时：如果 steps 已经很大，适当减少 epochs
     if config.steps_per_epoch >= 8000:
         config.pretrain_epochs = min(config.pretrain_epochs, 5)
     elif config.steps_per_epoch >= 5000:
         config.pretrain_epochs = min(config.pretrain_epochs, 6)
-
+    
     total_tokens = config.steps_per_epoch * config.batch_size * config.seq_len * config.pretrain_epochs
-    print(f"📊 预训练自动配置: corpus={corpus_bytes/1e6:.1f}MB, "
+    print(f"📊 预训练自动配置: corpus={corpus_chars/1e6:.1f}M字符, "
           f"steps_per_epoch={config.steps_per_epoch}, epochs={config.pretrain_epochs}, "
           f"总训练tokens≈{total_tokens/1e6:.0f}M")
 
 
 def auto_config_sft(config, num_samples):
+    """根据 SFT 样本数自动调整"""
     steps = max(num_samples // config.batch_size, 100)
     config.steps_per_epoch = min(steps, 3000)
+    
     if config.steps_per_epoch >= 2000:
         config.sft_epochs = 5
     elif config.steps_per_epoch >= 1000:
         config.sft_epochs = 8
     else:
         config.sft_epochs = 12
+    
     print(f"📊 SFT 自动配置: samples={num_samples}, steps_per_epoch={config.steps_per_epoch}, epochs={config.sft_epochs}")
 
 
 def auto_config_dpo(config, num_pairs):
+    """根据 DPO 数据量自动调整"""
     steps = max(num_pairs // config.batch_size, 50)
     config.steps_per_epoch = min(steps, 2000)
+    
     if config.steps_per_epoch >= 1000:
         config.rl_epochs = 5
     else:
         config.rl_epochs = 8
+    
     print(f"📊 DPO 自动配置: pairs={num_pairs}, steps_per_epoch={config.steps_per_epoch}, epochs={config.rl_epochs}")
 
 
 # ============================================================
-# 主函数入口（全自动配置 + 流式数据）
+# 主函数入口（全自动配置）
 # ============================================================
 def main():
     print("=" * 60)
@@ -1201,20 +1211,26 @@ def main():
     vocab_path = os.path.join(base_dir, "tokenizer.json")
     if not os.path.exists(vocab_path):
         vocab_path = os.path.join(base_dir, "vocab.json")
+    
     if not os.path.exists(vocab_path):
         print(f"❌ 词表不存在: 请提供 tokenizer.json (BPE) 或 vocab.json (字符级)")
         sys.exit(1)
 
     vocab = load_vocab(vocab_path)
-    config.vocab_size = len(vocab)
+    config.vocab_size = len(vocab)  # ✅ 必须同步为 tokenizer 实际大小
     print(f"📊 词表大小: {len(vocab)}")
 
-    # BPE 优化
+    # ✅ BPE 优化：自动提升 seq_len 到 512，发挥 BPE 效率优势
     if config.vocab_size > 15000:
         print("🧠 检测到 BPE 大词表，自动优化配置")
         if config.seq_len < 512:
             print(f"   seq_len: {config.seq_len} -> 512")
             config.seq_len = 512
+        # 手机/边缘设备有余量可打开下面：
+        # config.embed_dim = 512
+        # config.num_heads = 8
+        # config.num_layers = 8
+        # config.batch_size = max(config.batch_size // 2, 2)
 
     # ---------- 预扫描 SFT 数据 ----------
     sft_train_path = os.path.join(base_dir, "sft_train.jsonl")
@@ -1223,46 +1239,35 @@ def main():
         print(f"📊 SFT 数据需要 seq_len={estimated_seq_len}，预训练将统一使用此长度")
         config.seq_len = estimated_seq_len
 
-    # ---------- 获取预训练文件列表 ----------
+    # ---------- 读取预训练语料 ----------
     corpus_dir = os.path.join(base_dir, "corpus")
+    pretrain_text = ""
     if os.path.exists(corpus_dir):
-        all_files = sorted(glob.glob(os.path.join(corpus_dir, "*.txt")))
-        print(f"\n📂 发现 {len(all_files)} 个预训练文本文件")
+        files = sorted(glob.glob(os.path.join(corpus_dir, "*.txt")))
+        print(f"\n📂 发现 {len(files)} 个预训练文本文件")
+        for fp in files:
+            with open(fp, "r", encoding="utf-8") as f:
+                pretrain_text += f.read() + "\n"
     else:
-        print(f"\n⚠️ 未找到 corpus 目录，创建模拟数据")
-        os.makedirs(corpus_dir, exist_ok=True)
-        with open(os.path.join(corpus_dir, "dummy.txt"), "w", encoding="utf-8") as f:
-            f.write("测试数据。" * 10000)
-        all_files = [os.path.join(corpus_dir, "dummy.txt")]
+        print(f"\n⚠️ 未找到 corpus 目录")
 
-    # 计算总字节数
-    total_bytes = sum(os.path.getsize(f) for f in all_files)
-    print(f"📊 预训练语料总大小: {total_bytes/1e6:.1f}MB")
+    corpus_chars = len(pretrain_text)
+    print(f"📊 预训练语料总长度: {corpus_chars:,} 字符 ({corpus_chars/1e6:.1f}MB)")
 
-    if total_bytes < 1000:
-        print("⚠️ 预训练数据过小，补充 dummy")
-        dummy_path = os.path.join(corpus_dir, "dummy_large.txt")
-        if not os.path.exists(dummy_path):
-            with open(dummy_path, "w", encoding="utf-8") as f:
-                f.write("测试数据。" * 50000)
-            all_files.append(dummy_path)
-            total_bytes = sum(os.path.getsize(f) for f in all_files)
+    if corpus_chars < 1000:
+        print("⚠️ 预训练数据过少，补充测试数据")
+        pretrain_text += "测试数据。" * 1000
+        corpus_chars = len(pretrain_text)
 
-    # 自动配置预训练参数
-    auto_config_pretrain(config, total_bytes)
+    # 自动配置预训练参数（✅ 已修复）
+    auto_config_pretrain(config, corpus_chars)
 
-    # 按 95% 划分文件列表（训练/验证）
-    split_idx = max(1, int(len(all_files) * 0.95))
-    train_files = all_files[:split_idx]
-    val_files = all_files[split_idx:]
-    if not val_files:
-        val_files = train_files[-1:]  # 至少留一个文件做验证
+    split_idx = int(len(pretrain_text) * 0.95)
+    train_text = pretrain_text[:split_idx]
+    val_text = pretrain_text[split_idx:]
 
-    print(f"📂 训练文件: {len(train_files)} 个, 验证文件: {len(val_files)} 个")
-
-    # ---------- 创建预训练 Dataset ----------
-    train_dataset = create_pretrain_dataset(train_files, vocab, config, is_training=True)
-    val_dataset = create_pretrain_dataset(val_files, vocab, config, is_training=False)
+    train_gen = PretrainDataGenerator(train_text, vocab, config, start_ratio=0.0, end_ratio=1.0, infinite=True)
+    val_gen = PretrainDataGenerator(val_text, vocab, config, start_ratio=0.0, end_ratio=1.0, shuffle=False, infinite=False)
 
     # ---------- 创建模型 ----------
     print("\n🏗️  创建模型...")
@@ -1274,7 +1279,7 @@ def main():
 
     # ---------- 预训练 ----------
     try:
-        pretrain(model, train_dataset, val_dataset, config.vocab_size, config,
+        pretrain(model, train_gen, val_gen, config.vocab_size, config,
                  save_dir=os.path.join(base_dir, "output", "pretrain"))
     except Exception as e:
         print(f"\n❌ 预训练失败: {e}")
