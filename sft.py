@@ -1,5 +1,5 @@
 """
-sft.py - 监督微调脚本
+sft.py - 监督微调脚本（带详细进度条）
 """
 import tensorflow as tf
 from tensorflow import keras
@@ -10,8 +10,10 @@ import time
 import warnings
 from datetime import datetime
 import numpy as np
+from tqdm import tqdm
 
 from config import ModelConfig, WarmupCosineDecay, AdaptiveLRManager
+from models import LiteratureTransformer
 
 warnings.filterwarnings("ignore", category=SyntaxWarning)
 
@@ -32,7 +34,7 @@ def setup_environment():
 
 
 # ============================================================
-# 工具函数（从原代码复制）
+# 工具函数
 # ============================================================
 def check_gradients_nan_inf(grads):
     for g in grads:
@@ -258,7 +260,7 @@ def auto_config_sft(config, num_samples):
 
 
 # ============================================================
-# SFT 训练函数
+# SFT 训练函数（带进度条）
 # ============================================================
 def sft_train(model, train_gen, val_gen, config, save_dir="output/sft"):
     print("\n🚀 开始监督微调 (SFT)")
@@ -288,6 +290,10 @@ def sft_train(model, train_gen, val_gen, config, save_dir="output/sft"):
         accum_loss = 0.0
         train_steps = 0
 
+        # 训练进度条
+        pbar = tqdm(total=config.steps_per_epoch, desc=f"Epoch {epoch+1}/{config.sft_epochs}", 
+                    unit="step", ncols=80, leave=False)
+
         for step, (x, y, mask) in enumerate(train_gen()):
             if step >= config.steps_per_epoch:
                 break
@@ -302,6 +308,8 @@ def sft_train(model, train_gen, val_gen, config, save_dir="output/sft"):
             grads = tape.gradient(loss, model.trainable_variables)
             if check_gradients_nan_inf(grads):
                 if lr_manager.on_nan_detected():
+                    print("\n⏹️ NaN 容忍耗尽，停止训练")
+                    pbar.close()
                     return
                 continue
 
@@ -312,16 +320,32 @@ def sft_train(model, train_gen, val_gen, config, save_dir="output/sft"):
             train_steps += 1
             lr_manager.on_step_end(loss)
 
+            pbar.update(1)
+            pbar.set_postfix({
+                "loss": f"{float(loss):.4f}",
+                "avg": f"{accum_loss/train_steps:.4f}",
+                "lr": f"{lr_manager.get_current_lr(global_step):.2e}"
+            })
+
+        pbar.close()
+
+        # 验证
+        print("  📊 验证中...", end="")
         val_loss = 0.0
         val_steps = 0
         if val_gen is not None:
+            val_pbar = tqdm(total=50, desc="  Val", unit="batch", ncols=80, leave=False)
             for x, y, mask in val_gen():
                 logits = model(x, training=False)
                 val_loss += float(loss_fn(y, logits, sample_weight=mask))
                 val_steps += 1
+                val_pbar.update(1)
                 if val_steps >= 50:
                     break
+            val_pbar.close()
         val_loss = val_loss / max(val_steps, 1)
+        print(f" ✓ Val Loss: {val_loss:.4f}")
+
         avg_train_loss = accum_loss / max(train_steps, 1)
         current_lr = lr_manager.get_current_lr(global_step)
 
@@ -331,14 +355,16 @@ def sft_train(model, train_gen, val_gen, config, save_dir="output/sft"):
             tf.summary.scalar('learning_rate', current_lr, step=global_step)
 
         epoch_time = time.time() - epoch_start
-        print(f"Epoch {epoch+1}/{config.sft_epochs} | Train: {avg_train_loss:.4f} | Val: {val_loss:.4f} | LR: {current_lr:.2e} | {epoch_time:.1f}s")
+        print(f"  ⏱️  Epoch 耗时: {epoch_time:.1f}s | Train Loss: {avg_train_loss:.4f} | Val Loss: {val_loss:.4f} | LR: {current_lr:.2e}")
 
         if val_loss < best_val_loss:
             best_val_loss = val_loss
             patience_counter = 0
             save_best_model_only(model, save_dir, is_best=True)
+            print(f"  ⭐ 新的最佳模型! (Val Loss: {val_loss:.4f})")
         else:
             patience_counter += 1
+            print(f"  ⚠️ Val Loss 未提升 ({patience_counter}/{config.early_stop_patience})")
 
         should_stop = lr_manager.on_epoch_end(val_loss)
         if should_stop or patience_counter >= config.early_stop_patience:
@@ -346,6 +372,7 @@ def sft_train(model, train_gen, val_gen, config, save_dir="output/sft"):
             break
 
         save_checkpoint(model, optimizer, epoch, global_step, save_dir)
+        print(f"  💾 Checkpoint 已保存")
 
 
 # ============================================================
@@ -377,7 +404,6 @@ def main():
 
     # 加载预训练模型
     print("\n📂 加载预训练模型...")
-    from train import LiteratureTransformer  # 临时从原文件导入
     pretrain_dir = os.path.join(base_dir, "output", "pretrain")
     model = load_model_keras(pretrain_dir)
     model.config = config
@@ -393,6 +419,7 @@ def main():
     num_sft_samples = count_jsonl_lines(sft_train_path)
     auto_config_sft(config, num_sft_samples)
 
+    print("\n📊 加载训练数据...")
     sft_train_gen = SFTDataGenerator(sft_train_path, vocab, config, infinite=True)
     sft_val_gen = SFTDataGenerator(sft_val_path, vocab, config, infinite=False) if os.path.exists(sft_val_path) else None
 

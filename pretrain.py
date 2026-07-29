@@ -1,5 +1,5 @@
 """
-pretrain.py - 预训练脚本（独立运行）
+pretrain.py - 预训练脚本（带详细进度条）
 """
 import tensorflow as tf
 from tensorflow import keras
@@ -12,10 +12,13 @@ import time
 import warnings
 from datetime import datetime
 import numpy as np
+from tqdm import tqdm
 
 from config import ModelConfig, WarmupCosineDecay, AdaptiveLRManager
+from models import LiteratureTransformer
 
 warnings.filterwarnings("ignore", category=SyntaxWarning)
+
 
 # ============================================================
 # 环境设置
@@ -33,30 +36,13 @@ def setup_environment():
 
 
 # ============================================================
-# 自定义层（从原代码复制，这里用占位，实际需要完整实现）
-# ============================================================
-# 注意：这里需要复制所有自定义层（RotaryEmbedding, CustomLayerNorm, 
-# CustomMultiHeadAttention, CustomFFN, CustomTransformerBlock, LiteratureTransformer）
-# 由于篇幅限制，这里只保留必要的导入，实际使用时请从原 train.py 复制
-
-# 临时占位，实际需要完整实现
-class LiteratureTransformer(keras.Model):
-    """占位，实际需要从原代码复制完整实现"""
-    def __init__(self, config, **kwargs):
-        super().__init__(**kwargs)
-        self.config = config
-        # 这里需要完整的模型定义
-        raise NotImplementedError("请从原 train.py 复制 LiteratureTransformer 完整实现")
-
-
-# ============================================================
 # 数据加载（流式）
 # ============================================================
 def file_generator(file_list, vocab, seq_len):
     """逐文件读取、编码、滑动窗口生成样本"""
     pad_id = vocab.get('<|pad|>', 0) if hasattr(vocab, 'get') else 0
     unk_id = vocab.get('<|unk|>', 3) if hasattr(vocab, 'get') else 3
-    stride = seq_len // 8  # ✅ 增加样本量
+    stride = seq_len // 8
 
     for file_path in file_list:
         with open(file_path, 'r', encoding='utf-8') as f:
@@ -145,8 +131,17 @@ def load_checkpoint_if_exists(model, optimizer, save_dir):
 
 
 # ============================================================
-# 训练函数
+# 训练函数（带进度条）
 # ============================================================
+def check_gradients_nan_inf(grads):
+    for g in grads:
+        if g is None:
+            continue
+        if tf.reduce_any(tf.math.is_nan(g)) or tf.reduce_any(tf.math.is_inf(g)):
+            return True
+    return False
+
+
 def create_optimizer(lr_schedule, config):
     return keras.optimizers.AdamW(
         learning_rate=lr_schedule,
@@ -155,15 +150,6 @@ def create_optimizer(lr_schedule, config):
         beta_2=0.95,
         clipnorm=1.0
     )
-
-
-def check_gradients_nan_inf(grads):
-    for g in grads:
-        if g is None:
-            continue
-        if tf.reduce_any(tf.math.is_nan(g)) or tf.reduce_any(tf.math.is_inf(g)):
-            return True
-    return False
 
 
 def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="output/pretrain"):
@@ -196,6 +182,10 @@ def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="ou
         accum_loss = 0.0
         train_steps = 0
 
+        # 训练进度条
+        pbar = tqdm(total=config.steps_per_epoch, desc=f"Epoch {epoch+1}/{config.pretrain_epochs}", 
+                    unit="step", ncols=80, leave=False)
+
         for step, (x, y) in enumerate(train_dataset):
             if step >= config.steps_per_epoch:
                 break
@@ -210,7 +200,8 @@ def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="ou
             grads = tape.gradient(loss, model.trainable_variables)
             if check_gradients_nan_inf(grads):
                 if lr_manager.on_nan_detected():
-                    print("⏹️ NaN 容忍耗尽，停止训练")
+                    print("\n⏹️ NaN 容忍耗尽，停止训练")
+                    pbar.close()
                     return
                 continue
 
@@ -221,16 +212,32 @@ def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="ou
             train_steps += 1
             lr_manager.on_step_end(loss)
 
-        # 验证
+            # 更新进度条
+            pbar.update(1)
+            pbar.set_postfix({
+                "loss": f"{float(loss):.4f}",
+                "avg": f"{accum_loss/train_steps:.4f}",
+                "lr": f"{lr_manager.get_current_lr(global_step):.2e}"
+            })
+
+        pbar.close()
+
+        # 验证（带进度条）
+        print("  📊 验证中...", end="")
         val_loss = 0.0
         val_steps = 0
+        val_pbar = tqdm(total=50, desc="  Val", unit="batch", ncols=80, leave=False)
         for x, y in val_dataset:
             logits = model(x, training=False)
             val_loss += float(loss_fn(y, logits))
             val_steps += 1
+            val_pbar.update(1)
             if val_steps >= 50:
                 break
+        val_pbar.close()
         val_loss = val_loss / max(val_steps, 1)
+        print(f" ✓ Val Loss: {val_loss:.4f}")
+
         avg_train_loss = accum_loss / max(train_steps, 1)
         current_lr = lr_manager.get_current_lr(global_step)
 
@@ -240,24 +247,26 @@ def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="ou
             tf.summary.scalar('learning_rate', current_lr, step=global_step)
 
         epoch_time = time.time() - epoch_start
-        print(f"Epoch {epoch+1}/{config.pretrain_epochs} | Train: {avg_train_loss:.4f} | Val: {val_loss:.4f} | LR: {current_lr:.2e} | {epoch_time:.1f}s")
+        print(f"  ⏱️  Epoch 耗时: {epoch_time:.1f}s | Train Loss: {avg_train_loss:.4f} | Val Loss: {val_loss:.4f} | LR: {current_lr:.2e}")
 
-        # ✅ 基于验证 loss 判断是否保存最佳模型
+        # 保存最佳模型
         if val_loss < best_val_loss:
             best_val_loss = val_loss
             patience_counter = 0
             save_best_model_only(model, save_dir, is_best=True)
+            print(f"  ⭐ 新的最佳模型! (Val Loss: {val_loss:.4f})")
         else:
             patience_counter += 1
             print(f"  ⚠️ Val Loss 未提升 ({patience_counter}/{config.early_stop_patience})")
 
-        # ✅ 使用修复后的早停逻辑
+        # 早停判断
         should_stop = lr_manager.on_epoch_end(val_loss)
         if should_stop or patience_counter >= config.early_stop_patience:
             print(f"⏹️ 训练终止 (早停: {patience_counter}/{config.early_stop_patience})")
             break
 
         save_checkpoint(model, optimizer, epoch, global_step, save_dir)
+        print(f"  💾 Checkpoint 已保存")
 
 
 # ============================================================
@@ -271,7 +280,6 @@ def auto_config_pretrain(config, corpus_bytes):
     steps = total_samples // config.batch_size
     config.steps_per_epoch = min(max(steps, 500), 10000)
 
-    # ✅ 强制增加 epochs
     corpus_mb = corpus_bytes / (1024 * 1024)
     if corpus_mb >= 500:
         config.pretrain_epochs = 12
@@ -282,7 +290,6 @@ def auto_config_pretrain(config, corpus_bytes):
     else:
         config.pretrain_epochs = 20
 
-    # ✅ steps 很大时也不过度减少 epochs
     if config.steps_per_epoch >= 8000:
         config.pretrain_epochs = max(config.pretrain_epochs, 10)
     elif config.steps_per_epoch >= 5000:
@@ -351,14 +358,12 @@ def main():
     print(f"📂 训练文件: {len(train_files)} 个, 验证文件: {len(val_files)} 个")
 
     # 创建 Dataset
+    print("\n📊 创建训练数据集...")
     train_dataset = create_pretrain_dataset(train_files, vocab, config, is_training=True)
     val_dataset = create_pretrain_dataset(val_files, vocab, config, is_training=False)
 
     # 创建模型
     print("\n🏗️  创建模型...")
-    # 注意：这里需要完整的 LiteratureTransformer 实现
-    # 由于篇幅，这里用占位，实际使用时请替换为完整实现
-    from train import LiteratureTransformer  # 临时从原文件导入
     model = LiteratureTransformer(config)
     dummy = tf.zeros((1, config.seq_len), dtype=tf.int32)
     _ = model(dummy)

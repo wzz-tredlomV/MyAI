@@ -1,9 +1,8 @@
 """
-config.py - 共享配置和通用组件
+config.py - 共享配置和训练工具（不含模型定义）
 """
 import tensorflow as tf
 from tensorflow import keras
-from tensorflow.keras import layers
 import json
 import os
 import numpy as np
@@ -90,22 +89,23 @@ class WarmupCosineDecay(keras.optimizers.schedules.LearningRateSchedule):
 
 
 # ============================================================
-# 早停管理器（✅ 方案一修复）
+# 早停管理器（✅ 方案一修复 + 进度条支持）
 # ============================================================
 class AdaptiveLRManager:
-    def __init__(self, optimizer, lr_schedule, config: ModelConfig, total_steps, initial_lr):
+    def __init__(self, optimizer, lr_schedule, config: ModelConfig, total_steps, initial_lr, verbose=True):
         self.optimizer = optimizer
         self.lr_schedule = lr_schedule
         self.config = config
         self.total_steps = total_steps
         self.initial_lr = initial_lr
         self.loss_history = []
-        self.val_loss_history = []  # ✅ 新增：记录每个 epoch 的 val_loss
+        self.val_loss_history = []
         self.plateau_counter = 0
         self.nan_counter = 0
         self.current_multiplier = 1.0
         self.lr_reduce_count = 0
         self.max_lr_reduces = 3
+        self.verbose = verbose
 
     def on_step_end(self, loss_val):
         self.loss_history.append(float(loss_val))
@@ -113,32 +113,28 @@ class AdaptiveLRManager:
             self.loss_history.pop(0)
 
     def on_epoch_end(self, val_loss):
-        """✅ 修复：基于当前 epoch 的验证 loss 判断，而不是移动平均"""
+        """✅ 修复：基于当前 epoch 的验证 loss 判断"""
         should_stop = False
-
-        # 保存最近几个 epoch 的 val_loss
         self.val_loss_history.append(float(val_loss))
 
-        # 至少需要 3 个 epoch 才能判断
         if len(self.val_loss_history) < 3:
             return should_stop
 
-        # 检查最近 3 个 epoch 是否持续上升
         last_3 = self.val_loss_history[-3:]
         is_rising = all(last_3[i] < last_3[i+1] for i in range(len(last_3)-1))
 
         if is_rising:
             self.plateau_counter += 1
-            print(f"  ⚠️ Loss 连续上升 {self.plateau_counter}/{self.config.plateau_patience}")
+            if self.verbose:
+                print(f"  ⚠️ Loss 连续上升 {self.plateau_counter}/{self.config.plateau_patience}")
         else:
             self.plateau_counter = max(0, self.plateau_counter - 1)
 
-        # ✅ 只有连续 plateau_patience 个 epoch 上升才触发早停
         if self.plateau_counter >= self.config.plateau_patience:
-            print(f"⏹️ 早停触发: 连续 {self.config.plateau_patience} 个 epoch Loss 上升")
+            if self.verbose:
+                print(f"⏹️ 早停触发: 连续 {self.config.plateau_patience} 个 epoch Loss 上升")
             should_stop = True
 
-        # ✅ 如果 val_loss 很高且不再下降，触发学习率衰减
         if len(self.val_loss_history) >= 5:
             recent_5 = self.val_loss_history[-5:]
             if min(recent_5) == recent_5[-1] and recent_5[-1] > 5.0:
@@ -158,11 +154,13 @@ class AdaptiveLRManager:
         )
         self.optimizer.learning_rate = new_lr
         self.lr_schedule = new_lr
-        print(f"🔧 自动降低学习率! 当前乘数: {self.current_multiplier:.3f}")
+        if self.verbose:
+            print(f"🔧 自动降低学习率! 当前乘数: {self.current_multiplier:.3f}")
 
     def on_nan_detected(self):
         self.nan_counter += 1
-        print(f"  ⚠️ NaN/Inf ({self.nan_counter}/{self.config.max_nan_tolerance})")
+        if self.verbose:
+            print(f"  ⚠️ NaN/Inf ({self.nan_counter}/{self.config.max_nan_tolerance})")
         if self.nan_counter >= self.config.max_nan_tolerance:
             self._reduce_lr()
             self.nan_counter = 0

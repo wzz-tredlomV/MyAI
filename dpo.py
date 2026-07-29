@@ -1,5 +1,5 @@
 """
-dpo.py - DPO 偏好对齐训练脚本
+dpo.py - DPO 偏好对齐训练脚本（带详细进度条）
 """
 import tensorflow as tf
 from tensorflow import keras
@@ -10,8 +10,10 @@ import time
 import warnings
 from datetime import datetime
 import numpy as np
+from tqdm import tqdm
 
 from config import ModelConfig, WarmupCosineDecay, AdaptiveLRManager
+from models import LiteratureTransformer
 
 warnings.filterwarnings("ignore", category=SyntaxWarning)
 
@@ -211,7 +213,7 @@ def auto_config_dpo(config, num_pairs):
 
 
 # ============================================================
-# DPO 训练函数
+# DPO 训练函数（带进度条）
 # ============================================================
 def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
     print("\n🚀 开始 DPO 训练")
@@ -248,6 +250,10 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
         accum_loss = 0.0
         train_steps = 0
 
+        # 训练进度条
+        pbar = tqdm(total=config.steps_per_epoch, desc=f"Epoch {epoch+1}/{config.rl_epochs}", 
+                    unit="step", ncols=80, leave=False)
+
         for step, (cx, cy, rx, ry) in enumerate(train_gen()):
             if step >= config.steps_per_epoch:
                 break
@@ -275,6 +281,8 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
             grads = tape.gradient(loss, model.trainable_variables)
             if check_gradients_nan_inf(grads):
                 if lr_manager.on_nan_detected():
+                    print("\n⏹️ NaN 容忍耗尽，停止训练")
+                    pbar.close()
                     return
                 continue
 
@@ -285,11 +293,23 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
             train_steps += 1
             lr_manager.on_step_end(loss)
 
+            pbar.update(1)
+            pbar.set_postfix({
+                "loss": f"{float(loss):.4f}",
+                "avg": f"{accum_loss/train_steps:.4f}",
+                "lr": f"{lr_manager.get_current_lr(global_step):.2e}"
+            })
+
+        pbar.close()
+
         avg_loss = accum_loss / max(train_steps, 1)
         current_lr = lr_manager.get_current_lr(global_step)
 
+        # 评估 margin
+        print("  📊 评估 Reward Margin...", end="")
         margin_sum = 0.0
         margin_steps = 0
+        margin_pbar = tqdm(total=20, desc="  Margin", unit="batch", ncols=80, leave=False)
         for cx, cy, rx, ry in train_gen():
             c_logits = model(cx, training=False)
             r_logits = model(rx, training=False)
@@ -297,9 +317,12 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
             r_lp = compute_logps(r_logits, ry)
             margin_sum += float(tf.reduce_mean(c_lp - r_lp))
             margin_steps += 1
+            margin_pbar.update(1)
             if margin_steps >= 20:
                 break
+        margin_pbar.close()
         avg_margin = margin_sum / max(margin_steps, 1)
+        print(f" ✓ Margin: {avg_margin:.4f}")
 
         with writer.as_default():
             tf.summary.scalar('dpo_loss', avg_loss, step=global_step)
@@ -307,14 +330,16 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
             tf.summary.scalar('learning_rate', current_lr, step=global_step)
 
         epoch_time = time.time() - epoch_start
-        print(f"Epoch {epoch+1}/{config.rl_epochs} | Loss: {avg_loss:.4f} | Margin: {avg_margin:.4f} | LR: {current_lr:.2e} | {epoch_time:.1f}s")
+        print(f"  ⏱️  Epoch 耗时: {epoch_time:.1f}s | Loss: {avg_loss:.4f} | Margin: {avg_margin:.4f} | LR: {current_lr:.2e}")
 
         if avg_margin > best_reward_margin:
             best_reward_margin = avg_margin
             patience_counter = 0
             save_best_model_only(model, save_dir, is_best=True)
+            print(f"  ⭐ 新的最佳模型! (Margin: {avg_margin:.4f})")
         else:
             patience_counter += 1
+            print(f"  ⚠️ Margin 未提升 ({patience_counter}/{config.early_stop_patience})")
 
         should_stop = lr_manager.on_epoch_end(avg_loss)
         if should_stop or patience_counter >= config.early_stop_patience:
@@ -322,6 +347,7 @@ def dpo_train(model, ref_model, train_gen, config, save_dir="output/rl"):
             break
 
         save_checkpoint(model, optimizer, epoch, global_step, save_dir)
+        print(f"  💾 Checkpoint 已保存")
 
 
 # ============================================================
@@ -353,14 +379,12 @@ def main():
 
     # 加载 SFT 模型作为初始模型和参考模型
     print("\n📂 加载 SFT 模型...")
-    from train import LiteratureTransformer  # 临时从原文件导入
     sft_dir = os.path.join(base_dir, "output", "sft")
     model = load_model_keras(sft_dir)
     model.config = config
 
     ref_model = load_model_keras(sft_dir)
     ref_model.config = config
-    # 冻结参考模型
     ref_model.trainable = False
 
     # DPO 数据
@@ -374,6 +398,7 @@ def main():
     num_rl_pairs = count_jsonl_lines(rl_train_path)
     auto_config_dpo(config, num_rl_pairs)
 
+    print("\n📊 加载 DPO 数据...")
     rl_train_gen = DPODataGenerator(rl_train_path, vocab, config, infinite=True)
     rl_val_gen = DPODataGenerator(rl_val_path, vocab, config, infinite=False) if os.path.exists(rl_val_path) else None
 
