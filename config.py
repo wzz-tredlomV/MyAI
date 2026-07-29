@@ -1,0 +1,176 @@
+"""
+config.py - 共享配置和通用组件
+"""
+import tensorflow as tf
+from tensorflow import keras
+from tensorflow.keras import layers
+import json
+import os
+import numpy as np
+from dataclasses import dataclass, asdict
+
+
+# ============================================================
+# 配置类
+# ============================================================
+@dataclass
+class ModelConfig:
+    vocab_size: int = 5000
+    embed_dim: int = 384
+    num_heads: int = 6
+    num_layers: int = 6
+    max_len: int = 512
+    dropout: float = 0.1
+    seq_len: int = 512
+    batch_size: int = 4
+
+    pretrain_lr: float = 3e-4
+    sft_lr: float = 1e-5
+    rl_lr: float = 1e-6
+    weight_decay: float = 0.01
+    warmup_ratio: float = 0.1
+    min_lr_ratio: float = 0.05
+
+    pretrain_epochs: int = 12
+    sft_epochs: int = 8
+    rl_epochs: int = 5
+    steps_per_epoch: int = 300
+
+    gradient_accumulation_steps: int = 4
+    early_stop_patience: int = 8
+    plateau_patience: int = 10
+    auto_lr_reduce_factor: float = 0.5
+    enable_mixed_precision: bool = True
+    max_nan_tolerance: int = 3
+    checkpoint_freq: int = 1
+    log_dir: str = "logs"
+
+    def to_dict(self):
+        return asdict(self)
+
+    @classmethod
+    def from_dict(cls, d):
+        valid_keys = {f.name for f in cls.__dataclass_fields__.values()}
+        filtered = {k: v for k, v in d.items() if k in valid_keys}
+        return cls(**filtered)
+
+
+# ============================================================
+# 学习率调度
+# ============================================================
+class WarmupCosineDecay(keras.optimizers.schedules.LearningRateSchedule):
+    def __init__(self, initial_learning_rate, warmup_steps, total_steps, alpha=0.1, multiplier=1.0):
+        super().__init__()
+        self.initial_learning_rate = initial_learning_rate
+        self.warmup_steps = warmup_steps
+        self.total_steps = total_steps
+        self.alpha = alpha
+        self.multiplier = multiplier
+
+    def __call__(self, step):
+        step = tf.cast(step, tf.float32)
+        warmup = tf.cast(self.warmup_steps, tf.float32)
+        total = tf.cast(self.total_steps, tf.float32)
+        warmup_lr = self.initial_learning_rate * (step / warmup)
+        progress = tf.clip_by_value((step - warmup) / tf.maximum(total - warmup, 1.0), 0.0, 1.0)
+        cosine = 0.5 * (1.0 + tf.cos(np.pi * progress))
+        decayed = (1.0 - self.alpha) * cosine + self.alpha
+        decay_lr = self.initial_learning_rate * decayed
+        lr = tf.cond(step < warmup, lambda: warmup_lr, lambda: decay_lr)
+        return lr * self.multiplier
+
+    def get_config(self):
+        return {
+            "initial_learning_rate": self.initial_learning_rate,
+            "warmup_steps": self.warmup_steps,
+            "total_steps": self.total_steps,
+            "alpha": self.alpha,
+            "multiplier": self.multiplier,
+        }
+
+
+# ============================================================
+# 早停管理器（✅ 方案一修复）
+# ============================================================
+class AdaptiveLRManager:
+    def __init__(self, optimizer, lr_schedule, config: ModelConfig, total_steps, initial_lr):
+        self.optimizer = optimizer
+        self.lr_schedule = lr_schedule
+        self.config = config
+        self.total_steps = total_steps
+        self.initial_lr = initial_lr
+        self.loss_history = []
+        self.val_loss_history = []  # ✅ 新增：记录每个 epoch 的 val_loss
+        self.plateau_counter = 0
+        self.nan_counter = 0
+        self.current_multiplier = 1.0
+        self.lr_reduce_count = 0
+        self.max_lr_reduces = 3
+
+    def on_step_end(self, loss_val):
+        self.loss_history.append(float(loss_val))
+        if len(self.loss_history) > 100:
+            self.loss_history.pop(0)
+
+    def on_epoch_end(self, val_loss):
+        """✅ 修复：基于当前 epoch 的验证 loss 判断，而不是移动平均"""
+        should_stop = False
+
+        # 保存最近几个 epoch 的 val_loss
+        self.val_loss_history.append(float(val_loss))
+
+        # 至少需要 3 个 epoch 才能判断
+        if len(self.val_loss_history) < 3:
+            return should_stop
+
+        # 检查最近 3 个 epoch 是否持续上升
+        last_3 = self.val_loss_history[-3:]
+        is_rising = all(last_3[i] < last_3[i+1] for i in range(len(last_3)-1))
+
+        if is_rising:
+            self.plateau_counter += 1
+            print(f"  ⚠️ Loss 连续上升 {self.plateau_counter}/{self.config.plateau_patience}")
+        else:
+            self.plateau_counter = max(0, self.plateau_counter - 1)
+
+        # ✅ 只有连续 plateau_patience 个 epoch 上升才触发早停
+        if self.plateau_counter >= self.config.plateau_patience:
+            print(f"⏹️ 早停触发: 连续 {self.config.plateau_patience} 个 epoch Loss 上升")
+            should_stop = True
+
+        # ✅ 如果 val_loss 很高且不再下降，触发学习率衰减
+        if len(self.val_loss_history) >= 5:
+            recent_5 = self.val_loss_history[-5:]
+            if min(recent_5) == recent_5[-1] and recent_5[-1] > 5.0:
+                self._reduce_lr()
+                self.plateau_counter = 0
+
+        return should_stop
+
+    def _reduce_lr(self):
+        self.current_multiplier *= self.config.auto_lr_reduce_factor
+        new_lr = WarmupCosineDecay(
+            initial_learning_rate=self.lr_schedule.initial_learning_rate,
+            warmup_steps=self.lr_schedule.warmup_steps,
+            total_steps=self.lr_schedule.total_steps,
+            alpha=self.lr_schedule.alpha,
+            multiplier=self.current_multiplier
+        )
+        self.optimizer.learning_rate = new_lr
+        self.lr_schedule = new_lr
+        print(f"🔧 自动降低学习率! 当前乘数: {self.current_multiplier:.3f}")
+
+    def on_nan_detected(self):
+        self.nan_counter += 1
+        print(f"  ⚠️ NaN/Inf ({self.nan_counter}/{self.config.max_nan_tolerance})")
+        if self.nan_counter >= self.config.max_nan_tolerance:
+            self._reduce_lr()
+            self.nan_counter = 0
+            return True
+        return False
+
+    def reset_nan_counter(self):
+        self.nan_counter = 0
+
+    def get_current_lr(self, step):
+        return float(self.lr_schedule(step))

@@ -11,6 +11,7 @@ import os
 import sys
 import time
 from typing import List, Optional, Tuple
+import numpy as np
 
 try:
     from train import (
