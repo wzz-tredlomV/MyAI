@@ -1,5 +1,5 @@
 """
-pretrain.py - 预训练脚本（带详细进度条）
+pretrain.py - 预训练脚本（精简版，无进度条）
 """
 import tensorflow as tf
 from tensorflow import keras
@@ -10,9 +10,9 @@ import glob
 import shutil
 import time
 import warnings
+import random
 from datetime import datetime
 import numpy as np
-from tqdm import tqdm
 
 from config import ModelConfig, WarmupCosineDecay, AdaptiveLRManager
 from models import LiteratureTransformer
@@ -33,6 +33,7 @@ def setup_environment():
                 print(f"  GPU 内存设置失败: {e}")
     tf.random.set_seed(42)
     np.random.seed(42)
+    random.seed(42)
 
 
 # ============================================================
@@ -40,7 +41,6 @@ def setup_environment():
 # ============================================================
 def file_generator(file_list, vocab, seq_len):
     """逐文件读取、编码、滑动窗口生成样本"""
-    pad_id = vocab.get('<|pad|>', 0) if hasattr(vocab, 'get') else 0
     unk_id = vocab.get('<|unk|>', 3) if hasattr(vocab, 'get') else 3
     stride = seq_len // 8
 
@@ -131,7 +131,7 @@ def load_checkpoint_if_exists(model, optimizer, save_dir):
 
 
 # ============================================================
-# 训练函数（带进度条）
+# 训练函数（无进度条）
 # ============================================================
 def check_gradients_nan_inf(grads):
     for g in grads:
@@ -182,9 +182,7 @@ def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="ou
         accum_loss = 0.0
         train_steps = 0
 
-        # 训练进度条
-        pbar = tqdm(total=config.steps_per_epoch, desc=f"Epoch {epoch+1}/{config.pretrain_epochs}", 
-                    unit="step", ncols=80, leave=False)
+        print(f"\n📊 Epoch {epoch+1}/{config.pretrain_epochs}")
 
         for step, (x, y) in enumerate(train_dataset):
             if step >= config.steps_per_epoch:
@@ -201,7 +199,6 @@ def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="ou
             if check_gradients_nan_inf(grads):
                 if lr_manager.on_nan_detected():
                     print("\n⏹️ NaN 容忍耗尽，停止训练")
-                    pbar.close()
                     return
                 continue
 
@@ -212,33 +209,25 @@ def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="ou
             train_steps += 1
             lr_manager.on_step_end(loss)
 
-            # 更新进度条
-            pbar.update(1)
-            pbar.set_postfix({
-                "loss": f"{float(loss):.4f}",
-                "avg": f"{accum_loss/train_steps:.4f}",
-                "lr": f"{lr_manager.get_current_lr(global_step):.2e}"
-            })
+            # 每 500 步打印一次进度
+            if (step + 1) % 500 == 0:
+                current_avg = accum_loss / train_steps
+                current_lr = lr_manager.get_current_lr(global_step)
+                print(f"  Step {step+1}/{config.steps_per_epoch} | Avg Loss: {current_avg:.4f} | LR: {current_lr:.2e}")
 
-        pbar.close()
+        avg_train_loss = accum_loss / max(train_steps, 1)
 
-        # 验证（带进度条）
-        print("  📊 验证中...", end="")
+        # 验证
+        print("  📊 验证中...")
         val_loss = 0.0
         val_steps = 0
-        val_pbar = tqdm(total=50, desc="  Val", unit="batch", ncols=80, leave=False)
         for x, y in val_dataset:
             logits = model(x, training=False)
             val_loss += float(loss_fn(y, logits))
             val_steps += 1
-            val_pbar.update(1)
-            if val_steps >= 50:
+            if val_steps >= 100:  # 从 50 增加到 100，更稳定
                 break
-        val_pbar.close()
         val_loss = val_loss / max(val_steps, 1)
-        print(f" ✓ Val Loss: {val_loss:.4f}")
-
-        avg_train_loss = accum_loss / max(train_steps, 1)
         current_lr = lr_manager.get_current_lr(global_step)
 
         with writer.as_default():
@@ -247,7 +236,7 @@ def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="ou
             tf.summary.scalar('learning_rate', current_lr, step=global_step)
 
         epoch_time = time.time() - epoch_start
-        print(f"  ⏱️  Epoch 耗时: {epoch_time:.1f}s | Train Loss: {avg_train_loss:.4f} | Val Loss: {val_loss:.4f} | LR: {current_lr:.2e}")
+        print(f"  ✅ Epoch {epoch+1} 完成 | Train Loss: {avg_train_loss:.4f} | Val Loss: {val_loss:.4f} | LR: {current_lr:.2e} | 耗时: {epoch_time:.1f}s")
 
         # 保存最佳模型
         if val_loss < best_val_loss:
@@ -270,7 +259,7 @@ def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="ou
 
 
 # ============================================================
-# 自动配置
+# 自动配置（优化版）
 # ============================================================
 def auto_config_pretrain(config, corpus_bytes):
     """根据预训练语料总字节数自动调整"""
@@ -280,15 +269,11 @@ def auto_config_pretrain(config, corpus_bytes):
     steps = total_samples // config.batch_size
     config.steps_per_epoch = min(max(steps, 500), 10000)
 
-    corpus_mb = corpus_bytes / (1024 * 1024)
-    if corpus_mb >= 500:
-        config.pretrain_epochs = 12
-    elif corpus_mb >= 200:
-        config.pretrain_epochs = 15
-    elif corpus_mb >= 50:
-        config.pretrain_epochs = 18
-    else:
-        config.pretrain_epochs = 20
+    # ✅ 固定为 12 个 epoch，让模型充分收敛
+    config.pretrain_epochs = 12
+
+    # ✅ 学习率降低到 1e-4，更稳定
+    config.pretrain_lr = 1e-4
 
     if config.steps_per_epoch >= 8000:
         config.pretrain_epochs = max(config.pretrain_epochs, 10)
@@ -299,6 +284,7 @@ def auto_config_pretrain(config, corpus_bytes):
     print(f"📊 预训练自动配置: corpus={corpus_bytes/1e6:.1f}MB, "
           f"steps_per_epoch={config.steps_per_epoch}, epochs={config.pretrain_epochs}, "
           f"总训练tokens≈{total_tokens/1e6:.0f}M")
+    print(f"📊 学习率: {config.pretrain_lr:.2e} (已降低)")
 
 
 # ============================================================
@@ -314,6 +300,12 @@ def main():
 
     setup_environment()
     config = ModelConfig()
+    
+    # ✅ 调整超参数
+    config.pretrain_lr = 1e-4
+    config.dropout = 0.15
+    config.early_stop_patience = 10
+    
     base_dir = "/kaggle/working/MyAI"
 
     # 加载词表
@@ -348,7 +340,10 @@ def main():
 
     auto_config_pretrain(config, total_bytes)
 
-    # 划分训练/验证
+    # ✅ 关键修复：随机打乱文件列表，确保验证集分布与训练集一致
+    random.shuffle(all_files)
+    print(f"✅ 文件列表已随机打乱")
+
     split_idx = max(1, int(len(all_files) * 0.95))
     train_files = all_files[:split_idx]
     val_files = all_files[split_idx:]
