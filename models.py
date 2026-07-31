@@ -1,5 +1,11 @@
 """
-models.py - 所有自定义层和 LiteratureTransformer 模型定义
+models.py - 所有自定义层和 LiteratureTransformer 模型定义（改进版）
+改进点：
+  1. 新增 SinusoidalPositionalEmbedding：可学习位置编码
+  2. CustomTransformerBlock 新增 Stochastic Depth（随机层丢弃）
+  3. CustomMultiHeadAttention 新增输出投影 dropout
+  4. LiteratureTransformer 新增 final LayerNorm（Pre-LN 标准架构）
+  5. 所有层添加 get_config / from_config 支持 Keras 序列化
 """
 import tensorflow as tf
 from tensorflow import keras
@@ -22,6 +28,51 @@ def safe_gelu(x):
         (x_f32 + 0.044715 * tf.pow(x_f32, 3))
     ))
     return tf.cast(x_f32 * cdf, dtype)
+
+
+# ============================================================
+# 位置编码嵌入（新增）
+# ============================================================
+@register_keras_serializable(package="MyAI")
+class SinusoidalPositionalEmbedding(layers.Layer):
+    """
+    Token 嵌入 + 可学习位置嵌入
+    替换原来的纯 Embedding，让模型感知词序
+    """
+    def __init__(self, vocab_size, embed_dim, max_len=2048, **kwargs):
+        super().__init__(**kwargs)
+        self.vocab_size = vocab_size
+        self.embed_dim = embed_dim
+        self.max_len = max_len
+
+    def build(self, input_shape):
+        self.token_embed = layers.Embedding(self.vocab_size, self.embed_dim, name="token_embedding")
+        self.pos_embed = layers.Embedding(self.max_len, self.embed_dim, name="position_embedding")
+        super().build(input_shape)
+
+    def call(self, x):
+        seq_len = tf.shape(x)[1]
+        positions = tf.range(seq_len)
+        # 广播: [seq_len] -> [1, seq_len] -> [batch, seq_len, embed_dim]
+        return self.token_embed(x) + self.pos_embed(positions)
+
+    @property
+    def embeddings(self):
+        """暴露 token 嵌入矩阵，供输出层共享权重"""
+        return self.token_embed.embeddings
+
+    def get_config(self):
+        config = super().get_config()
+        config.update({
+            "vocab_size": self.vocab_size,
+            "embed_dim": self.embed_dim,
+            "max_len": self.max_len
+        })
+        return config
+
+    @classmethod
+    def from_config(cls, config):
+        return cls(**config)
 
 
 # ============================================================
@@ -120,6 +171,7 @@ class CustomMultiHeadAttention(layers.Layer):
         self.wv = self.add_weight(name='wv', shape=(self.embed_dim, self.embed_dim), initializer=init, trainable=True)
         self.wo = self.add_weight(name='wo', shape=(self.embed_dim, self.embed_dim), initializer=init, trainable=True)
         self.dropout = layers.Dropout(self.dropout_rate)
+        self.out_dropout = layers.Dropout(self.dropout_rate)  # 新增：输出投影后的 dropout
         self.rotary = RotaryEmbedding(self.head_dim)
         super().build(input_shape)
 
@@ -161,6 +213,7 @@ class CustomMultiHeadAttention(layers.Layer):
         attn_output = tf.transpose(attn_output, [0, 2, 1, 3])
         attn_output = tf.reshape(attn_output, [batch_size, seq_len, self.embed_dim])
         output = tf.matmul(attn_output, self.wo)
+        output = self.out_dropout(output, training=training)  # 新增 dropout
         return output
 
     def get_config(self):
@@ -211,11 +264,16 @@ class CustomFFN(layers.Layer):
 @register_keras_serializable(package="MyAI")
 class CustomTransformerBlock(layers.Layer):
     supports_masking = True
-    def __init__(self, embed_dim, num_heads, dropout=0.1, **kwargs):
+    def __init__(self, embed_dim, num_heads, dropout=0.1, survival_prob=1.0, **kwargs):
+        """
+        survival_prob: Stochastic Depth 存活概率。
+                       训练时以 (1 - survival_prob) 概率跳过整个层。
+        """
         super().__init__(**kwargs)
         self.embed_dim = embed_dim
         self.num_heads = num_heads
         self.dropout_rate = dropout
+        self.survival_prob = survival_prob
 
     def build(self, input_shape):
         self.ln1 = CustomLayerNorm()
@@ -227,19 +285,41 @@ class CustomTransformerBlock(layers.Layer):
         super().build(input_shape)
 
     def call(self, x, training=False, attention_mask=None, use_causal_mask=False):
-        normed = self.ln1(x)
-        attn_out = self.attn(normed, training=training, attention_mask=attention_mask, use_causal_mask=use_causal_mask)
-        attn_out = self.dropout1(attn_out, training=training)
-        x = x + attn_out
-        normed = self.ln2(x)
-        ffn_out = self.ffn(normed, training=training)
-        ffn_out = self.dropout2(ffn_out, training=training)
-        x = x + ffn_out
-        return x
+        # Stochastic Depth：训练时随机跳过整个层
+        if training and self.survival_prob < 1.0:
+            # 使用 tf.cond 确保在 graph mode 下工作
+            keep = tf.random.uniform([]) < self.survival_prob
+            # 即使跳过，也按比例缩放残差（Deep Networks with Stochastic Depth 论文做法）
+            scale = 1.0 / self.survival_prob
+        else:
+            keep = True
+            scale = 1.0
+
+        def _forward():
+            normed = self.ln1(x)
+            attn_out = self.attn(normed, training=training, attention_mask=attention_mask, use_causal_mask=use_causal_mask)
+            attn_out = self.dropout1(attn_out, training=training)
+            h = x + attn_out * scale
+            normed = self.ln2(h)
+            ffn_out = self.ffn(normed, training=training)
+            ffn_out = self.dropout2(ffn_out, training=training)
+            return h + ffn_out * scale
+
+        def _skip():
+            return x
+
+        if training and self.survival_prob < 1.0:
+            return tf.cond(keep, _forward, _skip)
+        return _forward()
 
     def get_config(self):
         config = super().get_config()
-        config.update({"embed_dim": self.embed_dim, "num_heads": self.num_heads, "dropout": self.dropout_rate})
+        config.update({
+            "embed_dim": self.embed_dim,
+            "num_heads": self.num_heads,
+            "dropout": self.dropout_rate,
+            "survival_prob": self.survival_prob
+        })
         return config
 
     @classmethod
@@ -252,15 +332,29 @@ class LiteratureTransformer(keras.Model):
     def __init__(self, config: ModelConfig, **kwargs):
         super().__init__(**kwargs)
         self.config = config
-        self.token_embed = layers.Embedding(config.vocab_size, config.embed_dim)
+        # ✅ 改进1：使用带位置编码的嵌入
+        self.token_embed = SinusoidalPositionalEmbedding(
+            config.vocab_size, config.embed_dim, config.max_len
+        )
         self.dropout = layers.Dropout(config.dropout)
-        self.blocks = [CustomTransformerBlock(config.embed_dim, config.num_heads, config.dropout) 
-                       for _ in range(config.num_layers)]
+        # ✅ 改进2：Stochastic Depth，最后一层不丢弃（survival_prob=1.0）
+        self.blocks = [
+            CustomTransformerBlock(
+                config.embed_dim,
+                config.num_heads,
+                config.dropout,
+                survival_prob=1.0 - config.stochastic_depth_rate if i < config.num_layers - 1 else 1.0
+            )
+            for i in range(config.num_layers)
+        ]
+        # ✅ 改进3：输出前添加 Final LayerNorm（Pre-LN 标准架构）
+        self.final_ln = CustomLayerNorm()
 
     def build(self, input_shape):
         self.token_embed.build(input_shape)
         for block in self.blocks:
             block.build([None, self.config.seq_len, self.config.embed_dim])
+        self.final_ln.build([None, self.config.seq_len, self.config.embed_dim])
         super().build(input_shape)
 
     def call(self, x, training=False):
@@ -271,6 +365,8 @@ class LiteratureTransformer(keras.Model):
         attention_mask = tf.cast(tf.not_equal(inputs, 0), tf.float32)
         for block in self.blocks:
             x = block(x, training=training, attention_mask=attention_mask, use_causal_mask=True)
+        x = self.final_ln(x)  # ✅ 最终 LayerNorm
+        # 使用 token_embed.embeddings 共享输入输出权重
         logits = tf.matmul(x, self.token_embed.embeddings, transpose_b=True)
         return logits
 

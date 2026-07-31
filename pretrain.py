@@ -1,5 +1,12 @@
 """
-pretrain.py - 预训练脚本（精简版，无进度条）
+pretrain.py - 预训练脚本（改进版）
+改进点：
+  1. 数据生成器：随机 stride + 随机起始偏移，增加多样性
+  2. 验证集划分：按文档级别划分，避免内容泄漏
+  3. 损失函数：添加 Label Smoothing
+  4. 验证评估：计算 Perplexity + Token-level Accuracy
+  5. 优化器：beta_2=0.98, epsilon=1e-6
+  6. 训练日志：更详细的指标输出
 """
 import tensorflow as tf
 from tensorflow import keras
@@ -37,12 +44,23 @@ def setup_environment():
 
 
 # ============================================================
-# 数据加载（流式）
+# 数据加载（流式）—— 改进版
 # ============================================================
-def file_generator(file_list, vocab, seq_len):
-    """逐文件读取、编码、滑动窗口生成样本"""
+def file_generator(file_list, vocab, seq_len, is_training=True):
+    """
+    逐文件读取、编码、滑动窗口生成样本
+    改进：
+      - 训练时随机 stride（seq_len//4 ~ seq_len//2）
+      - 训练时随机起始偏移（0~min(100, len)）
+      - 验证时固定 stride = seq_len // 8
+    """
     unk_id = vocab.get('<|unk|>', 3) if hasattr(vocab, 'get') else 3
-    stride = seq_len // 8
+
+    # 训练时随机化，验证时固定
+    if is_training:
+        stride = random.randint(seq_len // 4, seq_len // 2)
+    else:
+        stride = seq_len // 8
 
     for file_path in file_list:
         with open(file_path, 'r', encoding='utf-8') as f:
@@ -52,7 +70,13 @@ def file_generator(file_list, vocab, seq_len):
         else:
             ids = [vocab.get(ch, unk_id) for ch in text]
 
-        for i in range(0, len(ids) - seq_len, stride):
+        # 训练时随机起始偏移
+        if is_training:
+            start_offset = random.randint(0, min(100, max(len(ids) - seq_len - 1, 0)))
+        else:
+            start_offset = 0
+
+        for i in range(start_offset, len(ids) - seq_len, stride):
             segment = ids[i:i+seq_len+1]
             if len(segment) < seq_len+1:
                 continue
@@ -64,13 +88,13 @@ def file_generator(file_list, vocab, seq_len):
 def create_pretrain_dataset(file_list, vocab, config, is_training=True):
     """创建 tf.data.Dataset 用于预训练"""
     dataset = tf.data.Dataset.from_generator(
-        lambda: file_generator(file_list, vocab, config.seq_len),
+        lambda: file_generator(file_list, vocab, config.seq_len, is_training=is_training),
         output_types=(tf.int32, tf.int32),
         output_shapes=((config.seq_len,), (config.seq_len,))
     )
     dataset = dataset.batch(config.batch_size, drop_remainder=True)
     if is_training:
-        dataset = dataset.shuffle(buffer_size=1000).repeat()
+        dataset = dataset.shuffle(buffer_size=2000).repeat()  # buffer 从 1000 提升到 2000
     else:
         dataset = dataset.repeat(1)
     return dataset.prefetch(tf.data.AUTOTUNE)
@@ -131,7 +155,7 @@ def load_checkpoint_if_exists(model, optimizer, save_dir):
 
 
 # ============================================================
-# 训练函数（无进度条）
+# 训练函数（改进版）
 # ============================================================
 def check_gradients_nan_inf(grads):
     for g in grads:
@@ -143,13 +167,64 @@ def check_gradients_nan_inf(grads):
 
 
 def create_optimizer(lr_schedule, config):
+    """改进：beta_2=0.98, epsilon=1e-6"""
     return keras.optimizers.AdamW(
         learning_rate=lr_schedule,
         weight_decay=config.weight_decay,
         beta_1=0.9,
-        beta_2=0.95,
+        beta_2=0.98,          # 从 0.95 提升，更稳定的二阶矩估计
+        epsilon=1e-6,         # 防止除零
         clipnorm=1.0
     )
+
+
+# ✅ 新增：计算 Perplexity 和 Token-level Accuracy
+def evaluate_metrics(model, val_dataset, loss_fn, config):
+    """
+    评估验证集指标：
+      - Val Loss（按有效 token 加权）
+      - Perplexity
+      - Token-level Accuracy（忽略 padding）
+    """
+    total_loss = 0.0
+    total_tokens = 0
+    correct_tokens = 0
+    total_valid = 0
+    steps = 0
+
+    for x, y in val_dataset:
+        logits = model(x, training=False)
+
+        # 计算 loss（按有效 token 加权）
+        mask = tf.cast(tf.not_equal(y, 0), tf.float32)
+
+        # 使用 SparseCategoricalCrossentropy 的 reduction='none' 获取每个 token 的 loss
+        per_token_loss = tf.keras.losses.sparse_categorical_crossentropy(
+            y, logits, from_logits=True
+        )
+        # 忽略 padding
+        per_token_loss = per_token_loss * mask
+        batch_loss = tf.reduce_sum(per_token_loss)
+        batch_tokens = tf.reduce_sum(mask)
+
+        total_loss += float(batch_loss)
+        total_tokens += float(batch_tokens)
+
+        # Token-level Accuracy
+        predictions = tf.argmax(logits, axis=-1, output_type=tf.int32)
+        correct = tf.cast(tf.equal(predictions, y), tf.float32) * mask
+        correct_tokens += float(tf.reduce_sum(correct))
+        total_valid += float(batch_tokens)
+
+        steps += 1
+        if steps >= config.val_max_steps:
+            break
+
+    avg_loss = total_loss / max(total_tokens, 1)
+    perplexity = np.exp(avg_loss)
+    accuracy = correct_tokens / max(total_valid, 1)
+
+    return avg_loss, perplexity, accuracy
 
 
 def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="output/pretrain"):
@@ -172,7 +247,13 @@ def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="ou
 
     _, start_epoch, global_step = load_checkpoint_if_exists(model, optimizer, save_dir)
 
-    loss_fn = keras.losses.SparseCategoricalCrossentropy(from_logits=True, ignore_class=0)
+    # ✅ 改进：Label Smoothing 损失函数
+    loss_fn = keras.losses.SparseCategoricalCrossentropy(
+        from_logits=True,
+        ignore_class=0,
+        label_smoothing=config.label_smoothing  # 防止过度自信
+    )
+
     best_val_loss = float('inf')
     patience_counter = 0
     writer = tf.summary.create_file_writer(os.path.join(config.log_dir, "pretrain"))
@@ -217,36 +298,34 @@ def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="ou
 
         avg_train_loss = accum_loss / max(train_steps, 1)
 
-        # 验证
+        # ✅ 改进：使用 evaluate_metrics 计算完整指标
         print("  📊 验证中...")
-        val_loss = 0.0
-        val_steps = 0
-        for x, y in val_dataset:
-            logits = model(x, training=False)
-            val_loss += float(loss_fn(y, logits))
-            val_steps += 1
-            if val_steps >= 100:  # 从 50 增加到 100，更稳定
-                break
-        val_loss = val_loss / max(val_steps, 1)
+        val_loss, perplexity, accuracy = evaluate_metrics(model, val_dataset, loss_fn, config)
         current_lr = lr_manager.get_current_lr(global_step)
 
         with writer.as_default():
             tf.summary.scalar('train_loss', avg_train_loss, step=global_step)
             tf.summary.scalar('val_loss', val_loss, step=global_step)
+            tf.summary.scalar('perplexity', perplexity, step=global_step)
+            tf.summary.scalar('token_accuracy', accuracy, step=global_step)
             tf.summary.scalar('learning_rate', current_lr, step=global_step)
 
         epoch_time = time.time() - epoch_start
-        print(f"  ✅ Epoch {epoch+1} 完成 | Train Loss: {avg_train_loss:.4f} | Val Loss: {val_loss:.4f} | LR: {current_lr:.2e} | 耗时: {epoch_time:.1f}s")
+        # ✅ 改进：更详细的日志输出
+        print(f"  ✅ Epoch {epoch+1} 完成 | Train Loss: {avg_train_loss:.4f} | "
+              f"Val Loss: {val_loss:.4f} | PPL: {perplexity:.2f} | Acc: {accuracy:.4f} | "
+              f"LR: {current_lr:.2e} | 耗时: {epoch_time:.1f}s")
 
         # 保存最佳模型
         if val_loss < best_val_loss:
             best_val_loss = val_loss
             patience_counter = 0
             save_best_model_only(model, save_dir, is_best=True)
-            print(f"  ⭐ 新的最佳模型! (Val Loss: {val_loss:.4f})")
+            print(f"  ⭐ 新的最佳模型! (Val Loss: {val_loss:.4f}, PPL: {perplexity:.2f})")
         else:
             patience_counter += 1
-            print(f"  ⚠️ Val Loss 未提升 ({patience_counter}/{config.early_stop_patience})")
+            gap = val_loss - avg_train_loss
+            print(f"  ⚠️ Val Loss 未提升 ({patience_counter}/{config.early_stop_patience}) | 过拟合差距: {gap:.4f}")
 
         # 早停判断
         should_stop = lr_manager.on_epoch_end(val_loss)
@@ -269,12 +348,10 @@ def auto_config_pretrain(config, corpus_bytes):
     steps = total_samples // config.batch_size
     config.steps_per_epoch = min(max(steps, 500), 10000)
 
-    # ✅ 固定为 12 个 epoch，让模型充分收敛
+    # 固定为 12 个 epoch
     config.pretrain_epochs = 12
 
-    # ✅ 学习率降低到 1e-4，更稳定
-    config.pretrain_lr = 1e-4
-
+    # ✅ 改进：学习率已改为 5e-5（在 main 中设置）
     if config.steps_per_epoch >= 8000:
         config.pretrain_epochs = max(config.pretrain_epochs, 10)
     elif config.steps_per_epoch >= 5000:
@@ -284,7 +361,36 @@ def auto_config_pretrain(config, corpus_bytes):
     print(f"📊 预训练自动配置: corpus={corpus_bytes/1e6:.1f}MB, "
           f"steps_per_epoch={config.steps_per_epoch}, epochs={config.pretrain_epochs}, "
           f"总训练tokens≈{total_tokens/1e6:.0f}M")
-    print(f"📊 学习率: {config.pretrain_lr:.2e} (已降低)")
+    print(f"📊 学习率: {config.pretrain_lr:.2e} | Dropout: {config.dropout} | Weight Decay: {config.weight_decay}")
+    print(f"📊 Label Smoothing: {config.label_smoothing} | Stochastic Depth: {config.stochastic_depth_rate}")
+
+
+# ============================================================
+# ✅ 改进：按文档级别划分训练/验证集
+# ============================================================
+def split_train_val_files(all_files, train_ratio=0.95, min_val_files=5):
+    """
+    按文档级别划分训练/验证集，避免内容泄漏。
+    确保验证集至少有 min_val_files 个文件。
+    """
+    n = len(all_files)
+    if n < min_val_files + 1:
+        # 文件太少，无法划分，全部用于训练，验证也用训练集（会过拟合警告）
+        print(f"⚠️ 文件数太少 ({n})，无法划分验证集")
+        return all_files, all_files[-1:] if n > 0 else []
+
+    # 随机打乱文件列表
+    shuffled = all_files.copy()
+    random.shuffle(shuffled)
+
+    # 计算验证集大小（至少 min_val_files 个）
+    val_size = max(min_val_files, int(n * (1 - train_ratio)))
+    val_size = min(val_size, n // 5)  # 验证集不超过 20%
+
+    train_files = shuffled[:-val_size]
+    val_files = shuffled[-val_size:]
+
+    return train_files, val_files
 
 
 # ============================================================
@@ -292,7 +398,7 @@ def auto_config_pretrain(config, corpus_bytes):
 # ============================================================
 def main():
     print("=" * 60)
-    print("🤖 Literature Transformer 预训练")
+    print("🤖 Literature Transformer 预训练（改进版）")
     print(f"📅 {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"🖥️  TensorFlow: {tf.__version__}")
     print(f"🖥️  GPU: {tf.config.list_physical_devices('GPU')}")
@@ -300,12 +406,16 @@ def main():
 
     setup_environment()
     config = ModelConfig()
-    
-    # ✅ 调整超参数
-    config.pretrain_lr = 1e-4
-    config.dropout = 0.15
+
+    # ✅ 改进：调整超参数
+    config.pretrain_lr = 5e-5           # 从 1e-4 降低到 5e-5
+    config.dropout = 0.25               # 从 0.15 提升到 0.25
+    config.weight_decay = 0.1           # 从 0.01 提升到 0.1
     config.early_stop_patience = 10
-    
+    config.label_smoothing = 0.1        # 新增
+    config.stochastic_depth_rate = 0.1  # 新增：10% 概率丢弃中间层
+    config.val_max_steps = 500          # 验证步数
+
     base_dir = "/kaggle/working/MyAI"
 
     # 加载词表
@@ -340,17 +450,11 @@ def main():
 
     auto_config_pretrain(config, total_bytes)
 
-    # ✅ 关键修复：随机打乱文件列表，确保验证集分布与训练集一致
-    random.shuffle(all_files)
-    print(f"✅ 文件列表已随机打乱")
-
-    split_idx = max(1, int(len(all_files) * 0.95))
-    train_files = all_files[:split_idx]
-    val_files = all_files[split_idx:]
-    if not val_files:
-        val_files = train_files[-1:]
+    # ✅ 改进：使用文档级别划分
+    train_files, val_files = split_train_val_files(all_files, train_ratio=0.95, min_val_files=5)
 
     print(f"📂 训练文件: {len(train_files)} 个, 验证文件: {len(val_files)} 个")
+    print(f"   验证文件列表: {[os.path.basename(f) for f in val_files[:3]]}{'...' if len(val_files) > 3 else ''}")
 
     # 创建 Dataset
     print("\n📊 创建训练数据集...")
