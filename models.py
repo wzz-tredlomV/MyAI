@@ -285,32 +285,38 @@ class CustomTransformerBlock(layers.Layer):
         super().build(input_shape)
 
     def call(self, x, training=False, attention_mask=None, use_causal_mask=False):
-        # Stochastic Depth：训练时随机跳过整个层
+        # Stochastic Depth (DropPath): 训练时随机丢弃层的输出
+        # 使用缩放掩码方式，避免 tf.cond 导致的梯度问题
+
+        normed = self.ln1(x)
+        attn_out = self.attn(normed, training=training, attention_mask=attention_mask, use_causal_mask=use_causal_mask)
+        attn_out = self.dropout1(attn_out, training=training)
+
+        # DropPath: 训练时随机将某些样本的残差置零
         if training and self.survival_prob < 1.0:
-            # 使用 tf.cond 确保在 graph mode 下工作
-            keep = tf.random.uniform([]) < self.survival_prob
-            # 即使跳过，也按比例缩放残差（Deep Networks with Stochastic Depth 论文做法）
-            scale = 1.0 / self.survival_prob
-        else:
-            keep = True
-            scale = 1.0
+            batch_size = tf.shape(x)[0]
+            # 为每个样本生成独立的 keep 掩码 [batch_size, 1, 1]
+            keep_mask = tf.random.uniform([batch_size, 1, 1]) < self.survival_prob
+            keep_mask = tf.cast(keep_mask, x.dtype)
+            # 缩放: 期望值保持不变 (E[keep_mask] = survival_prob)
+            keep_mask = keep_mask / self.survival_prob
+            attn_out = attn_out * keep_mask
 
-        def _forward():
-            normed = self.ln1(x)
-            attn_out = self.attn(normed, training=training, attention_mask=attention_mask, use_causal_mask=use_causal_mask)
-            attn_out = self.dropout1(attn_out, training=training)
-            h = x + attn_out * scale
-            normed = self.ln2(h)
-            ffn_out = self.ffn(normed, training=training)
-            ffn_out = self.dropout2(ffn_out, training=training)
-            return h + ffn_out * scale
+        h = x + attn_out
 
-        def _skip():
-            return x
+        normed = self.ln2(h)
+        ffn_out = self.ffn(normed, training=training)
+        ffn_out = self.dropout2(ffn_out, training=training)
 
+        # 同样对 FFN 输出应用 DropPath
         if training and self.survival_prob < 1.0:
-            return tf.cond(keep, _forward, _skip)
-        return _forward()
+            batch_size = tf.shape(x)[0]
+            keep_mask = tf.random.uniform([batch_size, 1, 1]) < self.survival_prob
+            keep_mask = tf.cast(keep_mask, x.dtype)
+            keep_mask = keep_mask / self.survival_prob
+            ffn_out = ffn_out * keep_mask
+
+        return h + ffn_out
 
     def get_config(self):
         config = super().get_config()
