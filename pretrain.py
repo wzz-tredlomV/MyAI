@@ -198,10 +198,15 @@ def evaluate_metrics(model, val_dataset, loss_fn, config):
         # 计算 loss（按有效 token 加权）
         mask = tf.cast(tf.not_equal(y, 0), tf.float32)
 
-        # 使用 SparseCategoricalCrossentropy 的 reduction='none' 获取每个 token 的 loss
-        per_token_loss = tf.keras.losses.sparse_categorical_crossentropy(
-            y, logits, from_logits=True
-        )
+        # 使用与训练相同的 label smoothing 逻辑
+        if config.label_smoothing > 0:
+            vocab_size = tf.shape(logits)[-1]
+            y_one_hot = tf.one_hot(y, depth=vocab_size)
+            y_smooth = (1.0 - config.label_smoothing) * y_one_hot + config.label_smoothing / tf.cast(vocab_size, tf.float32)
+            per_token_loss = tf.keras.losses.categorical_crossentropy(y_smooth, logits, from_logits=True)
+        else:
+            per_token_loss = tf.keras.losses.sparse_categorical_crossentropy(y, logits, from_logits=True)
+
         # 忽略 padding
         per_token_loss = per_token_loss * mask
         batch_loss = tf.reduce_sum(per_token_loss)
@@ -247,12 +252,29 @@ def pretrain(model, train_dataset, val_dataset, vocab_size, config, save_dir="ou
 
     _, start_epoch, global_step = load_checkpoint_if_exists(model, optimizer, save_dir)
 
-    # ✅ 改进：Label Smoothing 损失函数
-    loss_fn = keras.losses.SparseCategoricalCrossentropy(
+    # ✅ 改进：Label Smoothing 手动实现（SparseCategoricalCrossentropy 不支持 label_smoothing）
+    base_loss_fn = keras.losses.SparseCategoricalCrossentropy(
         from_logits=True,
-        ignore_class=0,
-        label_smoothing=config.label_smoothing  # 防止过度自信
+        ignore_class=0
     )
+
+    def loss_fn(y_true, y_pred):
+        """带 Label Smoothing 的稀疏交叉熵损失"""
+        if config.label_smoothing > 0:
+            # 获取 vocab_size
+            vocab_size = tf.shape(y_pred)[-1]
+            # 创建 one-hot 标签
+            y_one_hot = tf.one_hot(y_true, depth=vocab_size)
+            # 应用 label smoothing: (1 - smoothing) * one_hot + smoothing / vocab_size
+            y_smooth = (1.0 - config.label_smoothing) * y_one_hot + config.label_smoothing / tf.cast(vocab_size, tf.float32)
+            # 使用 categorical_crossentropy（from_logits=True）
+            loss = tf.keras.losses.categorical_crossentropy(y_smooth, y_pred, from_logits=True)
+            # 忽略 padding (class 0)
+            mask = tf.cast(tf.not_equal(y_true, 0), tf.float32)
+            loss = loss * mask
+            return tf.reduce_sum(loss) / tf.maximum(tf.reduce_sum(mask), 1.0)
+        else:
+            return base_loss_fn(y_true, y_pred)
 
     best_val_loss = float('inf')
     patience_counter = 0
