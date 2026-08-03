@@ -20,6 +20,7 @@ pretrain.py - 预训练脚本（完整修复与优化版 v2.1）
  13. [FIX] 验证集覆盖率使用实际 token 数，修正 drop_remainder=False 的估算偏差
  14. [FIX] override_steps 强制对齐梯度累积步数，避免 epoch 边界多取 batch
  15. [FIX] TF 版本兼容性检查（AdamW、mixed_precision）
+ 16. [FIX] mixed_float16 下 loss_fn 统一 dtype，避免 float16/float32 混用报错
 """
 import tensorflow as tf
 from tensorflow import keras
@@ -372,13 +373,17 @@ class Trainer:
         """带 Label Smoothing 的稀疏交叉熵（无 one-hot，省显存）"""
         smoothing = self.config.label_smoothing
         if smoothing > 0:
-            n_classes = tf.cast(tf.shape(y_pred)[-1], tf.float32)
+            # [FIX] mixed_float16 下统一使用 y_pred.dtype，避免 float16/float32 混用报错
+            dtype = y_pred.dtype
+            n_classes = tf.cast(tf.shape(y_pred)[-1], dtype)
             ce = tf.nn.sparse_softmax_cross_entropy_with_logits(labels=y_true, logits=y_pred)
+            # sparse_softmax_cross_entropy_with_logits 在 float16 输入下输出 float32，需对齐
+            ce = tf.cast(ce, dtype)
             log_probs = tf.nn.log_softmax(y_pred, axis=-1)
             sum_log_probs = tf.reduce_sum(log_probs, axis=-1)
             loss = (1.0 - smoothing) * ce - (smoothing / n_classes) * sum_log_probs
 
-            mask = tf.cast(tf.not_equal(y_true, 0), tf.float32)
+            mask = tf.cast(tf.not_equal(y_true, 0), dtype)
             loss = loss * mask
             return tf.reduce_sum(loss) / tf.maximum(tf.reduce_sum(mask), 1.0)
         else:
