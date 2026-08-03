@@ -1,5 +1,3 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 1034 ***
-
 POEMS
 
 
@@ -9,93 +7,42 @@ by Wilfred Owen
 With an Introduction by Siegfried Sassoon
 
 
-
-
-[Note on text:  Italicized words or phrases are capitalized.
-Lines longer than 78 characters are broken and the continuation
-is indented two spaces.]
-
-
+[Note on text:  Italicized words or phrases are capitalized. Lines longer than 78 characters are broken and the continuation is indented two spaces.]
 
 
 Introduction
 
 
-In writing an Introduction such as this it is good to be brief. The
-poems printed in this book need no preliminary commendations from me or
-anyone else.  The author has left us his own fragmentary but impressive
-Foreword; this, and his Poems, can speak for him, backed by the
-authority of his experience as an infantry soldier, and sustained by
-nobility and originality of style.  All that was strongest in Wilfred
-Owen survives in his poems; any superficial impressions of his
-personality, any records of his conversation, behaviour, or appearance,
-would be irrelevant and unseemly.  The curiosity which demands such
-morsels would be incapable of appreciating the richness of his work.
+In writing an Introduction such as this it is good to be brief. The poems printed in this book need no preliminary commendations from me or anyone else.  The author has left us his own fragmentary but impressive Foreword; this, and his Poems, can speak for him, backed by the authority of his experience as an infantry soldier, and sustained by nobility and originality of style.  All that was strongest in Wilfred Owen survives in his poems; any superficial impressions of his personality, any records of his conversation, behaviour, or appearance, would be irrelevant and unseemly.  The curiosity which demands such morsels would be incapable of appreciating the richness of his work.
 
-The discussion of his experiments in assonance and dissonance (of which
-'Strange Meeting' is the finest example) may be left to the professional
-critics of verse, the majority of whom will be more preoccupied with
-such technical details than with the profound humanity of the self-
-revelation manifested in such magnificent lines as those at the end of
-his 'Apologia pro Poemate Meo', and in that other poem which he named
+The discussion of his experiments in assonance and dissonance (of which 'Strange Meeting' is the finest example) may be left to the professional critics of verse, the majority of whom will be more preoccupied with such technical details than with the profound humanity of the self- revelation manifested in such magnificent lines as those at the end of his 'Apologia pro Poemate Meo', and in that other poem which he named
 'Greater Love'.
 
-The importance of his contribution to the literature of the War cannot
-be decided by those who, like myself, both admired him as a poet and
-valued him as a friend.  His conclusions about War are so entirely in
-accordance with my own that I cannot attempt to judge his work with any
-critical detachment.  I can only affirm that he was a man of absolute
-integrity of mind.  He never wrote his poems (as so many war-poets did)
-to make the effect of a personal gesture. He pitied others; he did not
-pity himself.  In the last year of his life he attained a clear vision
-of what he needed to say, and these poems survive him as his true and
+The importance of his contribution to the literature of the War cannot be decided by those who, like myself, both admired him as a poet and valued him as a friend.  His conclusions about War are so entirely in accordance with my own that I cannot attempt to judge his work with any critical detachment.  I can only affirm that he was a man of absolute integrity of mind.  He never wrote his poems (as so many war-poets did) to make the effect of a personal gesture. He pitied others; he did not pity himself.  In the last year of his life he attained a clear vision of what he needed to say, and these poems survive him as his true and
 splendid testament.
 
-Wilfred Owen was born at Oswestry on 18th March 1893.  He was educated
-at the Birkenhead Institute, and matriculated at London University in
-1910. In 1913 he obtained a private tutorship near Bordeaux, where he
-remained until 1915.  During this period he became acquainted with the
-eminent French poet, Laurent Tailhade, to whom he showed his early
-verses, and from whom he received considerable encouragement. In 1915,
-in spite of delicate health, he joined the Artists' Rifles O.T.C., was
-gazetted to the Manchester Regiment, and served with their 2nd Battalion
-in France from December 1916 to June 1917, when he was invalided home.
-Fourteen months later he returned to the Western Front and served with
-the same Battalion, ultimately commanding a Company.
+Wilfred Owen was born at Oswestry on 18th March 1893.  He was educated at the Birkenhead Institute, and matriculated at London University in 1910. In 1913 he obtained a private tutorship near Bordeaux, where he remained until 1915.  During this period he became acquainted with the eminent French poet, Laurent Tailhade, to whom he showed his early verses, and from whom he received considerable encouragement. In 1915, in spite of delicate health, he joined the Artists' Rifles O.T.C., was gazetted to the Manchester Regiment, and served with their 2nd Battalion in France from December 1916 to June 1917, when he was invalided home. Fourteen months later he returned to the Western Front and served with the same Battalion, ultimately commanding a Company.
 
-He was awarded the Military Cross for gallantry while taking part in
-some heavy fighting on 1st October.  He was killed on 4th November 1918,
-while endeavouring to get his men across the Sambre Canal.
+He was awarded the Military Cross for gallantry while taking part in some heavy fighting on 1st October.  He was killed on 4th November 1918, while endeavouring to get his men across the Sambre Canal.
 
-A month before his death he wrote to his mother:  "My nerves are in
-perfect order.  I came out again in order to help these boys; directly,
-by leading them as well as an officer can; indirectly, by watching their
-sufferings that I may speak of them as well as a pleader can."  Let his
-own words be his epitaph:--
+A month before his death he wrote to his mother:  "My nerves are in perfect order.  I came out again in order to help these boys; directly, by leading them as well as an officer can; indirectly, by watching their sufferings that I may speak of them as well as a pleader can."  Let his own words be his epitaph:--
 
               "Courage was mine, and I had mystery;
                Wisdom was mine, and I had mastery."
 
-                                             Siegfried Sassoon.
-
-
+Siegfried Sassoon.
 
 
 POEMS
 
 
-
-
 Preface
 
 
+This book is not about heroes.  English Poetry is not yet fit to speak of them.  Nor is it about deeds or lands, nor anything about glory, honour, dominion or power,
 
-This book is not about heroes.  English Poetry is not yet fit to speak
-of them.  Nor is it about deeds or lands, nor anything about glory,
-honour, dominion or power,
-
-                                     except War.
-       Above all, this book is not concerned with Poetry.
+except War.
+Above all, this book is not concerned with Poetry.
        The subject of it is War, and the pity of War.
        The Poetry is in the pity.
        Yet these elegies are not to this generation,
@@ -107,12 +54,11 @@ honour, dominion or power,
        If I thought the letter of this book would last,
     I might have used proper names; but if the spirit of it survives
     Prussia,--my ambition and those names will be content; for they will
-    have achieved themselves fresher fields than Flanders.
+have achieved themselves fresher fields than Flanders.
 
 
           Note.--This Preface was found, in an unfinished condition,
                     among Wilfred Owen's papers.
-
 
 
 Contents:
@@ -144,11 +90,7 @@ Contents:
           The End
 
 
-
-
-
 Strange Meeting
-
 
 
      It seemed that out of the battle I escaped
@@ -196,13 +138,13 @@ Strange Meeting
      Let us sleep now . . ."
 
 
-         (This poem was found among the author's papers.
-         It ends on this strange note.)
+(This poem was found among the author's papers.
+It ends on this strange note.)
 
 
-       *Another Version*
+*Another Version*
 
-     Earth's wheels run oiled with blood.  Forget we that.
+Earth's wheels run oiled with blood.  Forget we that.
      Let us lie down and dig ourselves in thought.
      Beauty is yours and you have mastery,
      Wisdom is mine, and I have mystery.
@@ -219,22 +161,19 @@ Strange Meeting
      What though we sink from men as pitchers falling
      Many shall raise us up to be their filling
      Even from wells we sunk too deep for war
-     And filled by brows that bled where no wounds were.
+And filled by brows that bled where no wounds were.
 
 
-         *Alternative line--*
+*Alternative line--*
 
-     Even as One who bled where no wounds were.
-
-
+Even as One who bled where no wounds were.
 
 
 Greater Love
 
 
-
-     Red lips are not so red
-        As the stained stones kissed by the English dead.
+Red lips are not so red
+As the stained stones kissed by the English dead.
      Kindness of wooed and wooer
      Seems shame to their love pure.
      O Love, your eyes lose lure
@@ -262,16 +201,13 @@ Greater Love
         Weep, you may weep, for you may touch them not.
 
 
-
-
 Apologia pro Poemate Meo
 
 
-
-     I, too, saw God through mud--
-         The mud that cracked on cheeks when wretches smiled.
-         War brought more glory to their eyes than blood,
-         And gave their laughs more glee than shakes a child.
+I, too, saw God through mud--
+The mud that cracked on cheeks when wretches smiled.
+War brought more glory to their eyes than blood,
+And gave their laughs more glee than shakes a child.
 
      Merry it was to laugh there--
          Where death becomes absurd and life absurder.
@@ -311,16 +247,13 @@ Apologia pro Poemate Meo
      You shall not hear their mirth:
          You shall not come to think them well content
          By any jest of mine.  These men are worth
-         Your tears:  You are not worth their merriment.
+Your tears:  You are not worth their merriment.
 
 
-     November 1917.
-
-
+November 1917.
 
 
 The Show
-
 
 
      My soul looked down from a vague height with Death,
@@ -363,10 +296,7 @@ The Show
      And the fresh-severed head of it, my head.
 
 
-
-
 Mental Cases
-
 
 
      Who are these?  Why sit they here in twilight?
@@ -401,10 +331,7 @@ Mental Cases
      Pawing us who dealt them war and madness.
 
 
-
-
 Parable of the Old Men and the Young
-
 
 
      So Abram rose, and clave the wood, and went,
@@ -421,13 +348,10 @@ Parable of the Old Men and the Young
      Neither do anything to him.  Behold,
      A ram caught in a thicket by its horns;
      Offer the Ram of Pride instead of him.
-     But the old man would not so, but slew his son. . . .
-
-
+But the old man would not so, but slew his son. . . .
 
 
 Arms and the Boy
-
 
 
      Let the boy try along this bayonet-blade
@@ -446,10 +370,7 @@ Arms and the Boy
      Nor antlers through the thickness of his curls.
 
 
-
-
 Anthem for Doomed Youth
-
 
 
      What passing-bells for these who die as cattle?
@@ -469,10 +390,7 @@ Anthem for Doomed Youth
      And each slow dusk a drawing-down of blinds.
 
 
-
-
 The Send-off
-
 
 
      Down the close, darkening lanes they sang their way
@@ -502,13 +420,10 @@ The Send-off
      Up half-known roads.
 
 
-
-
 Insensibility
 
 
-
-         I
+I
 
      Happy are men who yet before they are killed
      Can let their veins run cold.
@@ -523,18 +438,18 @@ Insensibility
      Longer; but no one bothers.
 
 
-         II
+II
 
      And some cease feeling
      Even themselves or for themselves.
      Dullness best solves
      The tease and doubt of shelling,
      And Chance's strange arithmetic
-     Comes simpler than the reckoning of their shilling.
-     They keep no check on Armies' decimation.
+Comes simpler than the reckoning of their shilling.
+They keep no check on Armies' decimation.
 
 
-         III
+III
 
      Happy are these who lose imagination:
      They have enough to carry with ammunition.
@@ -550,7 +465,7 @@ Insensibility
      Can laugh among the dying, unconcerned.
 
 
-         IV
+IV
 
      Happy the soldier home, with not a notion
      How somewhere, every dawn, some men attack,
@@ -563,7 +478,7 @@ Insensibility
      From larger day to huger night.
 
 
-         V
+V
 
      We wise, who with a thought besmirch
      Blood over all our soul,
@@ -577,7 +492,7 @@ Insensibility
      Old men's placidity from his.
 
 
-         VI
+VI
 
      But cursed are dullards whom no cannon stuns,
      That they should be as stones.
@@ -591,10 +506,7 @@ Insensibility
      The eternal reciprocity of tears.
 
 
-
-
 Dulce et Decorum est
-
 
 
      Bent double, like old beggars under sacks,
@@ -630,10 +542,7 @@ Dulce et Decorum est
      Pro patria mori.
 
 
-
-
 The Sentry
-
 
 
      We'd found an old Boche dug-out, and he knew,
@@ -676,10 +585,7 @@ The Sentry
      "I see your lights!"  But ours had long died out.
 
 
-
-
 The Dead-Beat
-
 
 
      He dropped,--more sullenly than wearily,
@@ -697,27 +603,24 @@ The Dead-Beat
      Bold uncles, smiling ministerially;
      Maybe his brave young wife, getting her fun
      In some new home, improved materially.
-     It's not these stiffs have crazed him; nor the Hun."
+It's not these stiffs have crazed him; nor the Hun."
 
-     We sent him down at last, out of the way.
-     Unwounded;--stout lad, too, before that strafe.
-     Malingering?  Stretcher-bearers winked, "Not half!"
+We sent him down at last, out of the way.
+Unwounded;--stout lad, too, before that strafe.
+Malingering?  Stretcher-bearers winked, "Not half!"
 
-     Next day I heard the Doc.'s well-whiskied laugh:
-     "That scum you sent last night soon died.  Hooray!"
-
-
+Next day I heard the Doc.'s well-whiskied laugh:
+"That scum you sent last night soon died.  Hooray!"
 
 
 Exposure
 
 
+I
 
-         I
-
-     Our brains ache, in the merciless iced east winds that knife us . . .
-     Wearied we keep awake because the night is silent . . .
-     Low drooping flares confuse our memory of the salient . . .
+Our brains ache, in the merciless iced east winds that knife us . . .
+Wearied we keep awake because the night is silent . . .
+Low drooping flares confuse our memory of the salient . . .
      Worried by silence, sentries whisper, curious, nervous,
              But nothing happens.
 
@@ -740,13 +643,13 @@ Exposure
              But nothing happens.
 
 
-         II
+II
 
      Pale flakes with lingering stealth come feeling for our faces--
      We cringe in holes, back on forgotten dreams, and stare, snow-dazed,
      Deep into grassier ditches.  So we drowse, sun-dozed,
-     Littered with blossoms trickling where the blackbird fusses.
-             Is it that we are dying?
+Littered with blossoms trickling where the blackbird fusses.
+Is it that we are dying?
 
      Slowly our ghosts drag home:  glimpsing the sunk fires glozed
      With crusted dark-red jewels; crickets jingle there;
@@ -767,10 +670,7 @@ Exposure
              But nothing happens.
 
 
-
-
 Spring Offensive
-
 
 
      Halted against the shade of a last hill,
@@ -827,10 +727,7 @@ Spring Offensive
      Why speak they not of comrades that went under?
 
 
-
-
 The Chances
-
 
 
      I mind as 'ow the night afore that show
@@ -854,8 +751,6 @@ The Chances
      The ruddy lot all rolled in one.  Jim's mad.
 
 
-
-
 S. I. W.
 
          "I will to the King,
@@ -865,7 +760,6 @@ S. I. W.
          Discipline, and orderliness of life,
          I cannot mourn him."
                                   W. B. Yeats.
-
 
 
      Patting goodbye, doubtless they told the lad
@@ -905,13 +799,10 @@ S. I. W.
      And life's half-promising, and both their riling.
 
      With him they buried the muzzle his teeth had kissed,
-     And truthfully wrote the Mother "Tim died smiling."
-
-
+And truthfully wrote the Mother "Tim died smiling."
 
 
 Futility
-
 
 
      Move him into the sun--
@@ -931,10 +822,7 @@ Futility
      To break earth's sleep at all?
 
 
-
-
 Smile, Smile, Smile
-
 
 
      Head to limp head, the sunk-eyed wounded scanned
@@ -962,16 +850,13 @@ Smile, Smile, Smile
      (Not many elsewhere now save under France).
      Pictures of these broad smiles appear each week,
      And people in whose voice real feeling rings
-     Say:  How they smile!  They're happy now, poor things.
+Say:  How they smile!  They're happy now, poor things.
 
 
-     23rd September 1918.
-
-
+23rd September 1918.
 
 
 Conscious
-
 
 
      His fingers wake, and flutter up the bed.
@@ -992,12 +877,9 @@ Conscious
      No time to dream, and ask--he knows not what.
 
 
-
-
 A Terre
 
-         (Being the philosophy of many Soldiers.)
-
+(Being the philosophy of many Soldiers.)
 
 
      Sit on the bed; I'm blind, and three parts shell,
@@ -1073,14 +955,11 @@ A Terre
      To do without what blood remained these wounds.
 
 
-
-
 Wild with all Regrets
 
-         (Another version of "A Terre".)
+(Another version of "A Terre".)
 
-           To Siegfried Sassoon
-
+To Siegfried Sassoon
 
 
      My arms have mutinied against me--brutes!
@@ -1122,16 +1001,13 @@ Wild with all Regrets
      On sighs, and wiped from off your lips by wind.
 
      I think on your rich breathing, brother, I'll be weaned
-     To do without what blood remained me from my wound.
+To do without what blood remained me from my wound.
 
 
-     5th December 1917.
-
-
+5th December 1917.
 
 
 Disabled
-
 
 
      He sat in a wheeled chair, waiting for dark,
@@ -1171,9 +1047,9 @@ Disabled
      For daggers in plaid socks; of smart salutes;
      And care of arms; and leave; and pay arrears;
      Esprit de corps; and hints for young recruits.
-     And soon, he was drafted out with drums and cheers.
+And soon, he was drafted out with drums and cheers.
 
-     Some cheered him home, but not as crowds cheer Goal.
+Some cheered him home, but not as crowds cheer Goal.
      Only a solemn man who brought him fruits
      Thanked him; and then inquired about his soul.
      Now, he will spend a few sick years in Institutes,
@@ -1185,10 +1061,7 @@ Disabled
      And put him into bed?  Why don't they come?
 
 
-
-
 The End
-
 
 
      After the blast of lightning from the east,
@@ -1209,55 +1082,21 @@ The End
      Nor my titanic tears the seas be dried."
 
 
-
-
-
 [End of original text.]
-
-
-
 
 
 Appendix
 
 
-
 General Notes:--
 
 
-Due to the general circumstances surrounding Wilfred Owen, and his death
-one week before the war ended, it should be noted that these poems are
-not all in their final form. Owen had only had a few of his poems
-published during his lifetime, and his papers were in a state of
-disarray when Siegfried Sassoon, his friend and fellow poet, put
-together this volume. The 1920 edition was the first edition of Owen's
-poems, the 1921 reprint (of which this is a transcript) added one
-more--and nothing else happened until Edmund Blunden's 1931 edition.
-Even with that edition, there remained gaps, and several more editions
-added more and more poems and fragments, in various forms, as it was
-difficult to tell which of Owen's drafts were his final ones, until Jon
-Stallworthy's "Complete Poems and Fragments" (1983) included all that
-could be found, and tried to put them in chronological order, with the
-latest revisions, etc.
+Due to the general circumstances surrounding Wilfred Owen, and his death one week before the war ended, it should be noted that these poems are not all in their final form. Owen had only had a few of his poems published during his lifetime, and his papers were in a state of disarray when Siegfried Sassoon, his friend and fellow poet, put together this volume. The 1920 edition was the first edition of Owen's poems, the 1921 reprint (of which this is a transcript) added one more--and nothing else happened until Edmund Blunden's 1931 edition. Even with that edition, there remained gaps, and several more editions added more and more poems and fragments, in various forms, as it was difficult to tell which of Owen's drafts were his final ones, until Jon Stallworthy's "Complete Poems and Fragments" (1983) included all that could be found, and tried to put them in chronological order, with the latest revisions, etc.
 
-Therefore, it should not be surprising if some or most of these poems
-differ from later editions.
+Therefore, it should not be surprising if some or most of these poems differ from later editions.
 
 
-After Owen's death, his writings gradually gained pre-eminence, so that,
-although virtually unknown during the war, he came into high regard.
-Benjamin Britten, the British composer who set nine of Owen's works as
-the text of his "War Requiem" (shortly after the Second World War),
-called Owen "by far our greatest war poet, and one of the most original
-poets of this century."  (Owen is especially noted for his use of
-pararhyme.) Five of those nine texts are some form of poems included
-here, to wit: 'Anthem for Doomed Youth', 'Futility', 'Parable of the Old
-Men and the Young', 'The End', and 'Strange Meeting'.  The other four
-were '[Bugles Sang]', 'The Next War', 'Sonnet [Be slowly lifted up]' and
-'At a Calvary Near the Ancre'--all of which the reader may wish to
-pursue, being some of Owen's finest work.  Fortunately, the poem which I
-consider his best, and which is one of his most quoted--'Dulce et
-Decorum est', is included in this volume.
+After Owen's death, his writings gradually gained pre-eminence, so that, although virtually unknown during the war, he came into high regard. Benjamin Britten, the British composer who set nine of Owen's works as the text of his "War Requiem" (shortly after the Second World War), called Owen "by far our greatest war poet, and one of the most original poets of this century."  (Owen is especially noted for his use of pararhyme.) Five of those nine texts are some form of poems included here, to wit: 'Anthem for Doomed Youth', 'Futility', 'Parable of the Old Men and the Young', 'The End', and 'Strange Meeting'.  The other four were '[Bugles Sang]', 'The Next War', 'Sonnet [Be slowly lifted up]' and 'At a Calvary Near the Ancre'--all of which the reader may wish to pursue, being some of Owen's finest work.  Fortunately, the poem which I consider his best, and which is one of his most quoted--'Dulce et Decorum est', is included in this volume.
 
 
 Transcriber's Specific Notes:--
@@ -1266,25 +1105,12 @@ Blighty:  England, or a wound that would take a soldier home (to England).
 
 S. I. W.:  Self Inflicted Wound.
 
-Parable of the Old Men and the Young:  A retold story from the Bible,
-but with a different ending.  The phrase "Abram bound the youth with
-belts and straps" refers to the youth who went to war, with all their
-equipment belted and strapped on.  Other versions of this poem have an
+Parable of the Old Men and the Young:  A retold story from the Bible, but with a different ending.  The phrase "Abram bound the youth with belts and straps" refers to the youth who went to war, with all their equipment belted and strapped on.  Other versions of this poem have an
 additional line.
 
-Dulce et Decorum est:  The phrase "Dulce et decorum est pro patria mori"
-is a Latin phrase from Horace, and translates literally something like
-"Sweet and proper it is for your country (fatherland) to die." The poem
-was originally intended to be addressed to an author who had written war
-poems for children.  "Dim through the misty panes . . ." should be
-understood by anyone who has worn a gas mask.
+Dulce et Decorum est:  The phrase "Dulce et decorum est pro patria mori" is a Latin phrase from Horace, and translates literally something like "Sweet and proper it is for your country (fatherland) to die." The poem was originally intended to be addressed to an author who had written war poems for children.  "Dim through the misty panes . . ." should be understood by anyone who has worn a gas mask.
 
 Alan R. Light.  Monroe, North Carolina, July, 1997.
 
 
-
-
-
 End of the Project Gutenberg EBook of Poems, by Wilfred Owen
-
-*** END OF THE PROJECT GUTENBERG EBOOK 1034 ***

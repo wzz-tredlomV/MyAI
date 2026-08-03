@@ -1,13 +1,6 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 301 ***
-
-
-
-
 THE BALLAD OF READING GAOL
 
 By Oscar Wilde
-
-
 
 
      In Memoriam
@@ -15,8 +8,7 @@ By Oscar Wilde
      Sometime Trooper of the Royal Horse Guards.
      Obiit H.M. Prison, Reading, Berkshire,
      July 7th, 1896
-     Presented by Project Gutenberg on the 99th Anniversary.
-
+Presented by Project Gutenberg on the 99th Anniversary.
 
 
 Contents:
@@ -26,14 +18,10 @@ Version One
 Version Two
 
 
-
-
-
 Version One
 
 
-
-               I.
+I.
 
                He did not wear his scarlet coat,
                  For blood and wine are red,
@@ -148,8 +136,7 @@ Version One
                  The kiss of Caiaphas.
 
 
-
-               II.
+II.
 
                Six weeks our guardsman walked the yard,
                  In a suit of shabby grey:
@@ -500,8 +487,7 @@ Version One
                  More deaths than one must die.
 
 
-
-               IV.
+IV.
 
                There is no chapel on the day
                  On which they hang a man:
@@ -665,8 +651,7 @@ Version One
                  And outcasts always mourn.
 
 
-
-               V.
+V.
 
                I know not whether Laws be right,
                  Or whether Laws be wrong;
@@ -788,8 +773,7 @@ Version One
                  Became Christ's snow-white seal.
 
 
-
-               VI.
+VI.
 
                In Reading gaol by Reading town
                  There is a pit of shame,
@@ -813,13 +797,10 @@ Version One
                  The brave man with a sword!
 
 
-
-
-
 Version Two
 
 
-                               I
+I
 
                He did not wear his scarlet coat,
                  For blood and wine are red,
@@ -934,8 +915,7 @@ Version Two
                  The kiss of Caiaphas.
 
 
-
-                               II
+II
 
                Six weeks the guardsman walked the yard,
                  In the suit of shabby gray:
@@ -1593,7 +1573,4 @@ Version Two
                  The brave man with a sword!
 
 
-               THE END
-
-
-*** END OF THE PROJECT GUTENBERG EBOOK 301 ***
+THE END

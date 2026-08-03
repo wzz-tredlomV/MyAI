@@ -1,48 +1,10 @@
-The Project Gutenberg EBook of The Sisters' Tragedy, by Thomas Bailey Aldrich
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The Sisters' Tragedy
-
-Author: Thomas Bailey Aldrich
-
-Posting Date: July 30, 2008 [EBook #595]
-Release Date: July, 1996
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE SISTERS' TRAGEDY ***
-
-
-
-
-Produced by Judith Boss
-
-
-
-
-
-
-
-
-
   THE SISTERS' TRAGEDY
   WITH OTHER POEMS,
   LYRICAL AND DRAMATIC.  BY
   THOMAS BAILEY ALDRICH
 
 
-
-
-
-  CONTENTS
-
+CONTENTS
 
 
   THE SISTERS' TRAGEDY
@@ -83,13 +45,9 @@ Produced by Judith Boss
     A PETITION
 
 
+THE SISTERS' TRAGEDY
 
-
-
-
-  THE SISTERS' TRAGEDY
-
-  A. D. 1670
+A. D. 1670
 
   AGLAE, a widow
   MURIEL, her unmarried sister.
@@ -126,19 +84,19 @@ Produced by Judith Boss
   Laid one long kiss, and that was words enow!
 
 
-  MURIEL.
+MURIEL.
 
-  Be still, my heart!  Grown patient with thine ache,
-  Thou shouldst be dumb, yet needs must speak, or break.
-  The world is empty now that he is gone.
-
-
-  AGLAE.
-
-  Ay, sweetheart!
+Be still, my heart!  Grown patient with thine ache,
+Thou shouldst be dumb, yet needs must speak, or break.
+The world is empty now that he is gone.
 
 
-  MURIEL.
+AGLAE.
+
+Ay, sweetheart!
+
+
+MURIEL.
 
                   None was like him, no, not one.
   From other men he stood apart, alone
@@ -159,7 +117,7 @@ Produced by Judith Boss
   I saw--how could I help but love?  And you--
 
 
-  AGLAE.
+AGLAE.
 
   At this perfection did I worship too . . .
   'Twas this that stabbed me.  Heed not what I say!
@@ -168,13 +126,13 @@ Produced by Judith Boss
   Had he been less perfection, happier I!
 
 
-  MURIEL.
+MURIEL.
 
   Strange words and wild!  'Tis the distracted mind
   Breathes them, not you, and I no meaning find.
 
 
-  AGLAE.
+AGLAE.
 
   Yet 'twere as plain as writing on a scroll
   Had you but eyes to read within my soul.--
@@ -219,13 +177,11 @@ Produced by Judith Boss
   She that was loved and she that loved in vain!
 
 
+THE LAST CAESAR
 
+1851-1870
 
-  THE LAST CAESAR
-
-  1851-1870
-
-  I
+I
 
   Now there was one who came in later days
   To play at Emperor: in the dead of night
@@ -263,8 +219,7 @@ Produced by Judith Boss
   The Sphinx that puzzled Europe, for awhile.
 
 
-
-  III
+III
 
   I see him as men saw him once--a face
   Of true Napoleon pallor; round the eyes
@@ -337,9 +292,7 @@ Produced by Judith Boss
   The lighted torch, the tocsin's heavy boom!
 
 
-
-
-  IN WESTMINSTER ABBEY
+IN WESTMINSTER ABBEY
 
   "The Southern Transept,
   hardly known by any other name but Poet's Corner."
@@ -376,11 +329,9 @@ Produced by Judith Boss
   And one by one the stars in heaven pale!
 
 
+ALEC YEATON'S SON
 
-
-  ALEC YEATON'S SON
-
-  GLOUCESTER, AUGUST, 1720
+GLOUCESTER, AUGUST, 1720
 
   The wind it wailed, the wind it moaned,
      And the white caps flecked the sea;
@@ -443,11 +394,9 @@ Produced by Judith Boss
      And the little child go free!
 
 
+AT THE FUNERAL OF A MINOR POET
 
-
-  AT THE FUNERAL OF A MINOR POET
-
-  [One of the Bearers soliloquizes:]
+[One of the Bearers soliloquizes:]
 
   . . . Room in your heart for him, O Mother Earth,
   Who loved each flower and leaf that made you fair,
@@ -519,9 +468,7 @@ Produced by Judith Boss
   To flower and leaf in thine unending Springs!
 
 
-
-
-  BATUSCHKA.<1>
+BATUSCHKA.<1>
 
   From yonder gilded minaret
   Beside the steel-blue Neva set,
@@ -558,11 +505,9 @@ Produced by Judith Boss
        God save the Tsar!
 
 
+ACT V
 
-
-  ACT V
-
-  [Midnight.]
+[Midnight.]
 
   First, two white arms that held him very close,
   And ever closer as he drew him back
@@ -583,11 +528,9 @@ Produced by Judith Boss
   A sudden gleaming dagger through his heart.
 
 
+TENNYSON
 
-
-  TENNYSON
-
-  I
+I
 
   Shakespeare and Milton--what third blazoned name
      Shall lips of after-ages link to these?
@@ -597,7 +540,7 @@ Produced by Judith Boss
      Whose scorn gave pause to man's iniquities.
 
 
-  II
+II
 
   What strain was his in that Crimean war?
      A bugle-call in battle; a low breath,
@@ -607,7 +550,7 @@ Produced by Judith Boss
      Bearing the laurel or the cypress wreath.
 
 
-  III
+III
 
   Others shall have their little space of time,
      Their proper niche and bust, then fade away
@@ -617,7 +560,7 @@ Produced by Judith Boss
      On earth shall live where Saxon speech has sway.
 
 
-  IV
+IV
 
   Waft me this verse across the winter sea,
      Through light and dark, through mist and blinding sleet,
@@ -627,9 +570,7 @@ Produced by Judith Boss
      Will find no gift, where reverence is, unmeet.
 
 
-
-
-  THE SHIPMAN'S TALE
+THE SHIPMAN'S TALE
 
   Listen, my masters!  I speak naught but truth.
   From dawn to dawn they drifted on and on,
@@ -667,9 +608,7 @@ Produced by Judith Boss
   What ship, my masters?  Know ye not?--The World!
 
 
-
-
-  "I VEX ME NOT WITH BROODING ON THE YEARS"
+"I VEX ME NOT WITH BROODING ON THE YEARS"
 
   I vex me not with brooding on the years
      That were ere I drew breath: why should I then
@@ -687,11 +626,9 @@ Produced by Judith Boss
      Still lovelier life awaits thee.  Fear not thou!
 
 
+MONODY ON THE DEATH OF WENDELL PHILLIPS
 
-
-  MONODY ON THE DEATH OF WENDELL PHILLIPS
-
-  I
+I
 
   One by one they go
   Into the unknown dark--
@@ -713,7 +650,7 @@ Produced by Judith Boss
   With Plato and Hafiz walked.
 
 
-  II
+II
 
   Not of these was the man
   Whose wraith, through the mists of night,
@@ -738,7 +675,7 @@ Produced by Judith Boss
   Pointing to heights unwon!
 
 
-  III
+III
 
   Not for him were these days
   Of clerkly and sluggish calm--
@@ -762,20 +699,12 @@ Produced by Judith Boss
   God send his like again!
 
 
+INTERLUDES
 
 
+ECHO-SONG
 
-
-  INTERLUDES
-
-
-
-
-
-
-  ECHO-SONG
-
-  I
+I
 
   Who can say where Echo dwells?
      In some mountain-cave, methinks,
@@ -787,7 +716,7 @@ Produced by Judith Boss
                            Echo!
 
 
-  II
+II
 
   Phantom of the crystal Air,
      Daughter of sweet Mystery!
@@ -799,7 +728,7 @@ Produced by Judith Boss
                            Echo!
 
 
-  III
+III
 
   Echo, lift thy drowsy head,
      And repeat each charmed word
@@ -811,7 +740,7 @@ Produced by Judith Boss
                            Echo!
 
 
-  IV
+IV
 
   Breathe the vows she since denies!
      She hath broken every vow;
@@ -823,21 +752,17 @@ Produced by Judith Boss
                            Echo!
 
 
-
-
-  A MOOD
+A MOOD
 
   A blight, a gloom, I know not what, has crept upon my gladness--
   Some vague, remote ancestral touch of sorrow, or of madness;
   A fear that is not fear, a pain that has not pain's insistence;
   A sense of longing, or of loss, in some foregone existence;
   A subtle hurt that never pen has writ nor tongue has spoken--
-  Such hurt perchance as Nature feels when a blossomed bough is broken.
+Such hurt perchance as Nature feels when a blossomed bough is broken.
 
 
-
-
-  GUILIELMUS REX
+GUILIELMUS REX
 
   The folk who lived in Shakespeare's day
   And saw that gentle figure pass
@@ -860,9 +785,7 @@ Produced by Judith Boss
   'Tis he alone that lives and reigns!
 
 
-
-
-  "PILLARED ARCH AND SCULPTURED TOWER"
+"PILLARED ARCH AND SCULPTURED TOWER"
 
   Pillared arch and sculptured tower
   Of Ilium have had their hour;
@@ -875,11 +798,9 @@ Produced by Judith Boss
   Because a poet sang of her!
 
 
+THRENODY
 
-
-  THRENODY
-
-  I
+I
 
   Upon your hearse this flower I lay.
   Brief be your sleep!  You shall be known
@@ -888,7 +809,7 @@ Produced by Judith Boss
   Or soon or late, let Time wrong what it may.
 
 
-  II
+II
 
   Unvext by any dream of fame,
   You smiled, and bade the world pass by:
@@ -897,7 +818,7 @@ Produced by Judith Boss
   White star that rose amid the battle's flame!
 
 
-  III
+III
 
   Brief be your sleep, for I would see
   Your laurels--ah, how trivial now
@@ -906,23 +827,19 @@ Produced by Judith Boss
   How vain the voices of mortality!
 
 
+SESTET
 
-
-  SESTET
-
-  SENT TO A FRIEND WITH A VOLUME OF TENNYSON
+SENT TO A FRIEND WITH A VOLUME OF TENNYSON
 
   Wouldst know the clash of knightly steel on steel?
   Or list the throstle singing loud and clear?
   Or walk at twilight by some haunted mere
   In Surrey; or in throbbing London feel
-  Life's pulse at highest--hark, the minster's peal! . . .
-  Turn but the page, that various world is here!
+Life's pulse at highest--hark, the minster's peal! . . .
+Turn but the page, that various world is here!
 
 
-
-
-  A TOUCH OF NATURE
+A TOUCH OF NATURE
 
   When first the crocus thrusts its point of gold
   Up through the still snow-drifted garden mould,
@@ -939,9 +856,7 @@ Produced by Judith Boss
   And inarticulate ardors of the vine.
 
 
-
-
-  MEMORY
+MEMORY
 
   My mind lets go a thousand things,
   Like dates of wars and deaths of kings,
@@ -955,9 +870,7 @@ Produced by Judith Boss
   Two petals from that wild-rose tree.
 
 
-
-
-  "I'LL NOT CONFER WITH SORROW"
+"I'LL NOT CONFER WITH SORROW"
 
   I'll not confer with Sorrow
      Till to-morrow;
@@ -975,9 +888,7 @@ Produced by Judith Boss
      And endless rest.
 
 
-
-
-  A DEDICATION
+A DEDICATION
 
   Take these rhymes into thy grace,
      Since they are of thy begetting,
@@ -990,9 +901,7 @@ Produced by Judith Boss
      Lies reflected on its pages.
 
 
-
-
-  NO SONGS IN WINTER
+NO SONGS IN WINTER
 
   The sky is gray as gray may be,
   There is no bird upon the bough,
@@ -1012,9 +921,7 @@ Produced by Judith Boss
   And golden orioles come again!
 
 
-
-
-  "LIKE CRUSOE, WALKING BY THE LONELY STRAND"
+"LIKE CRUSOE, WALKING BY THE LONELY STRAND"
 
   Like Crusoe, walking by the lonely strand
   And seeing a human footprint on the sand,
@@ -1027,11 +934,9 @@ Produced by Judith Boss
   And make of me most willing prisoner!
 
 
+THE LETTER
 
-
-  THE LETTER
-
-  EDWARD ROWLAND SILL, DIED FEBRUARY 27, 1887
+EDWARD ROWLAND SILL, DIED FEBRUARY 27, 1887
 
   I held his letter in my hand,
      And even while I read
@@ -1054,9 +959,7 @@ Produced by Judith Boss
      Though he can speak to me!
 
 
-
-
-  SARGENT'S PORTRAIT OF EDWIN BOOTH AT "THE PLAYERS"
+SARGENT'S PORTRAIT OF EDWIN BOOTH AT "THE PLAYERS"
 
   That face which no man ever saw
   And from his memory banished quite,
@@ -1080,11 +983,7 @@ Produced by Judith Boss
   The gentle Prince of Players wore!
 
 
-
-
-
-
-  PAULINE PAVLOVNA
+PAULINE PAVLOVNA
 
   SCENE: St. Petersburg.  Period: the present time.  A ballroom in the
        winter palace of the Prince--.  The ladies in character costumes and
@@ -1105,12 +1004,12 @@ Produced by Judith Boss
   Pauline!
 
 
-  SHE.
+SHE.
 
-       You knew me?
+You knew me?
 
 
-  HE.
+HE.
 
                       How could I have failed?
   A mask may hide your features, not your soul.
@@ -1125,25 +1024,25 @@ Produced by Judith Boss
   "Pauline Pavlovna."
 
 
-  SHE.
+SHE.
 
                        Ah!  Your heart said that?
   You trust your heart, then!  'Tis a serious risk!--
   How is it you and others wear no mask?
 
 
-  HE.
+HE.
 
-  The Emperor's orders.
+The Emperor's orders.
 
 
-  SHE.
+SHE.
 
                         Is the Emperor here?
   I have not seen him.
 
 
-  HE.
+HE.
 
                         He is one of the six
   In scarlet kaftans and all masked alike.
@@ -1156,17 +1055,17 @@ Produced by Judith Boss
   He dare trust no man.
 
 
-  SHE.
+SHE.
 
-                          All men are so false.
-
-
-  HE.
-
-  Spare one, Pauline Pavlovna.
+All men are so false.
 
 
-  SHE.
+HE.
+
+Spare one, Pauline Pavlovna.
+
+
+SHE.
 
                                 No; all, all!
   I think there is no truth left in the world,
@@ -1174,7 +1073,7 @@ Produced by Judith Boss
   Count Sergius, is Nastasia here to-night?
 
 
-  HE.
+HE.
 
   Ah! then you know!  I thought to tell you first.
   Not here, beneath these hundred curious eyes,
@@ -1194,12 +1093,12 @@ Produced by Judith Boss
   YOUR JOY'S DECREED, and stabs me with a smile.
 
 
-  SHE.
+SHE.
 
-  And she--she loves you?
+And she--she loves you?
 
 
-  HE.
+HE.
 
                            I know not, indeed.
   Likes me, perhaps.  What matters it?--HER love!
@@ -1226,7 +1125,7 @@ Produced by Judith Boss
   She needs it most.
 
 
-  HE.
+HE.
 
                       At her door lies the blame,
   Whatever falls.  She, with a single word,
@@ -1234,12 +1133,12 @@ Produced by Judith Boss
   This cruel juggling with poor human hearts.
 
 
-  SHE.
+SHE.
 
-  The Tsar commanded it--you said the Tsar.
+The Tsar commanded it--you said the Tsar.
 
 
-  HE.
+HE.
 
   The Tsar does what she wills--God fathoms why.
   Were she his mistress, now! but there's no snow
@@ -1273,7 +1172,7 @@ Produced by Judith Boss
   Stark as a statue, with no word to say?
 
 
-  SHE.
+SHE.
 
   Because this thing has frozen up my heart.
   I think that there is something killed in me,
@@ -1281,12 +1180,12 @@ Produced by Judith Boss
   What shall I say?  What would you have me say?
 
 
-  HE.
+HE.
 
-  If it be possible, the word of words!
+If it be possible, the word of words!
 
 
-  SHE, VERY SLOWLY.
+SHE, VERY SLOWLY.
 
   Well, then--I love you.  I may tell you so
   This once, . . . and then forever hold my peace.
@@ -1297,20 +1196,20 @@ Produced by Judith Boss
   I love you.
 
 
-  HE.
+HE.
 
                With such music in my ears
   I would death found me.  It were sweet to die
   Listening!  You love me--prove it.
 
 
-  SHE.
+SHE.
 
                                       Prove it--how?
   I prove it saying it.  How else?
 
 
-  HE.
+HE.
 
                                      Pauline,
   I have three things to choose from; you shall choose:
@@ -1319,12 +1218,12 @@ Produced by Judith Boss
   The third--with you--were nothing less than heaven!
 
 
-  SHE, STARTING.
+SHE, STARTING.
 
-  How dared you even dream it!
+How dared you even dream it!
 
 
-  HE.
+HE.
 
                                 I was mad.
   This business has touched me in the brain.
@@ -1334,24 +1233,24 @@ Produced by Judith Boss
   To brave men who hold life a thing of God.
 
 
-  SHE.
+SHE.
 
-  Yourself spoke there; the rest was not of you.
+Yourself spoke there; the rest was not of you.
 
 
-  HE.
+HE.
 
   Oh, lift me to your level!  So I'm safe.
   What's to be done?
 
 
-  SHE.
+SHE.
 
                       There must be some path out.
   Perhaps the Emperor--
 
 
-  HE.
+HE.
 
                          Not a ray of hope!
   His mind is set on this with that insistence
@@ -1359,13 +1258,13 @@ Produced by Judith Boss
   The fancy bites them, and they straight go mad.
 
 
-  SHE.
+SHE.
 
   Your father's friend, the Metropolitan--
   A word from him . . .
 
 
-  HE.
+HE.
 
                           Alas, he too is bitten!
   Gray-haired, gray-hearted, worldly wise, he sees
@@ -1373,19 +1272,19 @@ Produced by Judith Boss
   And opens every door to preference.
 
 
-  SHE.
+SHE.
 
   Think while I think.  There surely is some key
   Unlocks the labyrinth, could we but find it.
   Nastasia!
 
 
-  HE.
+HE.
 
-             What! beg life of her?  Not I.
+What! beg life of her?  Not I.
 
 
-  SHE.
+SHE.
 
   Beg love.  She is a woman, young, perhaps
   Untouched as yet of this too poisonous air.
@@ -1405,7 +1304,7 @@ Produced by Judith Boss
   Your heart is gone from you, and you may find--
 
 
-  HE.
+HE.
 
   A casemate in St. Peter and St. Paul
   For, say, a month; then some Siberian town.
@@ -1414,7 +1313,7 @@ Produced by Judith Boss
   In every vein.
 
 
-  SHE.
+SHE.
 
                   How blindly you read her,
   Or any woman!  Yes, I know.  I grant
@@ -1426,7 +1325,7 @@ Produced by Judith Boss
   The weakest of us measures pulse with you.
 
 
-  HE.
+HE.
 
   Yes, you, not she.  If she were at your height!
   But there's no martyr wrapt in HER rose flesh.
@@ -1446,7 +1345,7 @@ Produced by Judith Boss
   That is the sum of her.
 
 
-  SHE.
+SHE.
 
                            You know her not.
   Count Sergius Pavlovich, you said no mask
@@ -1455,35 +1354,29 @@ Produced by Judith Boss
                            [Removes her mask.]
 
 
-  HE.
+HE.
 
-  You!--it was YOU!
+You!--it was YOU!
 
 
-  SHE.
+SHE.
 
                       Count Sergius Pavlovich,
   Go find Pauline Pavlovna--she is here--
   And tell her that the Tsar has set you free.
-                 [She goes out hurriedly, replacing her mask.]
+[She goes out hurriedly, replacing her mask.]
 
 
+BAGATELLE
 
 
+CORYDON
 
+A PASTORAL
 
-  BAGATELLE
+SCENE: A roadside in Arcady
 
-
-
-
-  CORYDON
-
-  A PASTORAL
-
-  SCENE: A roadside in Arcady
-
-  SHEPHERD.
+SHEPHERD.
 
   Good sir, have you seen pass this way
   A mischief straight from market-day?
@@ -1495,24 +1388,24 @@ Produced by Judith Boss
   Has naught to do but follow her.
 
 
-  PILGRIM.
+PILGRIM.
 
   I have not seen this maid, methinks,
   Though she that passed had lips like pinks.
 
 
-  SHEPHERD.
+SHEPHERD.
 
   Or like two strawberries made one
   By some sly trick of dew and sun.
 
 
-  PILGRIM.
+PILGRIM.
 
-  A poet!
+A poet!
 
 
-  SHEPHERD.
+SHEPHERD.
 
             Nay, a simple swain
   That tends his flock on yonder plain,
@@ -1522,28 +1415,28 @@ Produced by Judith Boss
   That dwell herein in Arcady?
 
 
-  PILGRIM.
+PILGRIM.
 
   Her skin was as the satin bark
   Of birches.
 
 
-  SHEPHERD.
+SHEPHERD.
 
-            Light or dark?
-
-
-  PILGRIM.
-
-                           Quite dark.
+Light or dark?
 
 
-  SHEPHERD.
+PILGRIM.
 
-  Then 'twas not she.
+Quite dark.
 
 
-  PILGRIM.
+SHEPHERD.
+
+Then 'twas not she.
+
+
+PILGRIM.
 
                  The peach's side
   That's next the sun is not so dyed
@@ -1553,7 +1446,7 @@ Produced by Judith Boss
   Her face was in a sombre mist.
 
 
-  SHEPHERD.
+SHEPHERD.
 
   No, that is not the maid I seek.
   HER hair lies gold against the cheek;
@@ -1562,7 +1455,7 @@ Produced by Judith Boss
   And yet--brown locks are far from bad.
 
 
-  PILGRIM.
+PILGRIM.
 
   Now I bethink me, this one had
   A figure like the willow-tree
@@ -1584,13 +1477,13 @@ Produced by Judith Boss
   Soft fringes blacker than the sloe.
 
 
-  SHEPHERD, THOUGHTFULLY.
+SHEPHERD, THOUGHTFULLY.
 
   Good sir, which way did THIS one go?
   .    .    .    .    .    .    .    .
 
 
-  PILGRIM, SOLUS.
+PILGRIM, SOLUS.
 
   So, he is off!  The silly youth
   Knoweth not Love in sober sooth.
@@ -1600,9 +1493,7 @@ Produced by Judith Boss
   No maid at all did this way pass!
 
 
-
-
-  AT A READING
+AT A READING
 
   The spare Professor, grave and bald,
   Began his paper.  It was called,
@@ -1648,9 +1539,7 @@ Produced by Judith Boss
   Or flaw, and curls about her neck.
 
 
-
-
-  THE MENU
+THE MENU
 
   I beg you come to-night and dine.
   A welcome waits you, and sound wine--
@@ -1678,11 +1567,9 @@ Produced by Judith Boss
   Excepting Alfred Tennyson.
 
 
+AN ELECTIVE COURSE
 
-
-  AN ELECTIVE COURSE
-
-  LINES FOUND AMONG THE PAPERS OF A HARVARD UNDERGRADUATE
+LINES FOUND AMONG THE PAPERS OF A HARVARD UNDERGRADUATE
 
   The bloom that lies on Fanny's cheek
   Is all my Latin, all my Greek;
@@ -1755,9 +1642,7 @@ Produced by Judith Boss
   As teaches me to love it much.
 
 
-
-
-  L'EAU DORMANTE
+L'EAU DORMANTE
 
   Curled up and sitting on her feet,
      Within the window's deep embrasure,
@@ -1783,9 +1668,7 @@ Produced by Judith Boss
   For Lydia will be seventeen.
 
 
-
-
-  THALIA
+THALIA
 
   A MIDDLE-AGED LYRICAL POET IS SUPPOSED TO BE TAKING
        FINAL LEAVE OF THE MUSE OF COMEDY.  SHE HAS
@@ -1854,9 +1737,7 @@ Produced by Judith Boss
        down-town, look in to-morrow!
 
 
-
-
-  PALINODE
+PALINODE
 
   Who is Lydia, pray, and who
   Is Hypatia?  Softly, dear,
@@ -1876,9 +1757,7 @@ Produced by Judith Boss
   I mean you, dear, you, just you.
 
 
-
-
-  A PETITION
+A PETITION
 
   To spring belongs the violet, and the blown
   Spice of the roses let the summer own.
@@ -1889,374 +1768,3 @@ Produced by Judith Boss
   Be not too ready to deny me rhyme;
   And when the hour strikes, as it must, dear Muse,
   I beg you very gently break the news.
-
-
-
-
-
-
-
-
-
-
-End of Project Gutenberg's The Sisters' Tragedy, by Thomas Bailey Aldrich
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE SISTERS' TRAGEDY ***
-
-***** This file should be named 595.txt or 595.zip *****
-This and all associated files of various formats will be found in:
-        https://www.gutenberg.org/5/9/595/
-
-Produced by Judith Boss
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-https://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at https://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at https://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit https://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: https://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     https://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

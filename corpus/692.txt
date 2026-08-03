@@ -1,14 +1,9 @@
-Project Gutenberg Etext:  Complete Works of James Whitcomb Riley
-Volume 10
-#2 in our series by James Whitcomb Riley
+Project Gutenberg Etext:  Complete Works of James Whitcomb Riley Volume 10 #2 in our series by James Whitcomb Riley
 
 
-Copyright laws are changing all over the world, be sure to check
-the copyright laws for your country before posting these files!!
+Copyright laws are changing all over the world, be sure to check the copyright laws for your country before posting these files!!
 
-Please take a look at the important information in this header.
-We encourage you to keep this file on your own disk, keeping an
-electronic path open for the next readers.  Do not remove this.
+Please take a look at the important information in this header. We encourage you to keep this file on your own disk, keeping an electronic path open for the next readers.  Do not remove this.
 
 
 **Welcome To The World of Free Plain Vanilla Electronic Texts**
@@ -17,8 +12,7 @@ electronic path open for the next readers.  Do not remove this.
 
 *These Etexts Prepared By Hundreds of Volunteers and Donations*
 
-Information on contacting Project Gutenberg to get Etexts, and
-further information is included below.  We need your donations.
+Information on contacting Project Gutenberg to get Etexts, and further information is included below.  We need your donations.
 
 
 The Complete Works of James Whitcomb Riley
@@ -28,77 +22,39 @@ Volume 10
 October, 1996  [Etext #692]
 
 
-Project Gutenberg Etext:  Complete Works of James Whitcomb Riley
-*****This file should be named 692.txt or 692.zip******
+Project Gutenberg Etext:  Complete Works of James Whitcomb Riley *****This file should be named 692.txt or 692.zip******
 
-We are now trying to release all our books one month in advance
-of the official release dates, for time for better editing.
+We are now trying to release all our books one month in advance of the official release dates, for time for better editing.
 
-Please note:  neither this list nor its contents are final till
-midnight of the last day of the month of any such announcement.
-The official release date of all Project Gutenberg Etexts is at
-Midnight, Central Time, of the last day of the stated month.  A
-preliminary version may often be posted for suggestion, comment
-and editing by those who wish to do so.  To be sure you have an
-up to date first edition [xxxxx10x.xxx] please check file sizes
-in the first week of the next month.  Since our ftp program has
-a bug in it that scrambles the date [tried to fix and failed] a
-look at the file size will have to do, but we will try to see a
-new copy has at least one byte more or less.
+Please note:  neither this list nor its contents are final till midnight of the last day of the month of any such announcement. The official release date of all Project Gutenberg Etexts is at Midnight, Central Time, of the last day of the stated month.  A preliminary version may often be posted for suggestion, comment and editing by those who wish to do so.  To be sure you have an up to date first edition [xxxxx10x.xxx] please check file sizes in the first week of the next month.  Since our ftp program has a bug in it that scrambles the date [tried to fix and failed] a look at the file size will have to do, but we will try to see a new copy has at least one byte more or less.
 
 
 Information about Project Gutenberg (one page)
 
-We produce about two million dollars for each hour we work.  The
-fifty hours is one conservative estimate for how long it we take
-to get any etext selected, entered, proofread, edited, copyright
-searched and analyzed, the copyright letters written, etc.  This
-projected audience is one hundred million readers.  If our value
-per text is nominally estimated at one dollar then we produce $2
-million dollars per hour this year as we release thirty-two text
-files per month:  or 400 more Etexts in 1996 for a total of 800.
-If these reach just 10% of the computerized population, then the
-total should reach 80 billion Etexts.
+We produce about two million dollars for each hour we work.  The fifty hours is one conservative estimate for how long it we take to get any etext selected, entered, proofread, edited, copyright searched and analyzed, the copyright letters written, etc.  This projected audience is one hundred million readers.  If our value per text is nominally estimated at one dollar then we produce $2 million dollars per hour this year as we release thirty-two text files per month:  or 400 more Etexts in 1996 for a total of 800. If these reach just 10% of the computerized population, then the total should reach 80 billion Etexts.
 
-The Goal of Project Gutenberg is to Give Away One Trillion Etext
-Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
-This is ten thousand titles each to one hundred million readers,
-which is only 10% of the present number of computer users.  2001
-should have at least twice as many computer users as that, so it
-will require us reaching less than 5% of the users in 2001.
+The Goal of Project Gutenberg is to Give Away One Trillion Etext Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion] This is ten thousand titles each to one hundred million readers, which is only 10% of the present number of computer users.  2001 should have at least twice as many computer users as that, so it will require us reaching less than 5% of the users in 2001.
 
 
 We need your donations more than ever!
 
 
-All donations should be made to "Project Gutenberg/BU":  and are
-tax deductible to the extent allowable by law. (BU = Benedictine
-University).  (Subscriptions to our paper newsletter go to BU.)
+All donations should be made to "Project Gutenberg/BU":  and are tax deductible to the extent allowable by law. (BU = Benedictine University).  (Subscriptions to our paper newsletter go to BU.)
 
 For these and other matters, please mail to:
 
-Project Gutenberg
-P. O. Box  2782
-Champaign, IL 61825
+Project Gutenberg P. O. Box  2782 Champaign, IL 61825
 
-When all other email fails try our Executive Director:
-Michael S. Hart <hart@pobox.com>
+When all other email fails try our Executive Director: Michael S. Hart <hart@pobox.com>
 
-We would prefer to send you this information by email
-(Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
+We would prefer to send you this information by email (Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
 
-******
-If you have an FTP program (or emulator), please
-FTP directly to the Project Gutenberg archives:
-[Mac users, do NOT point and click. . .type]
+If you have an FTP program (or emulator), please FTP directly to the Project Gutenberg archives: [Mac users, do NOT point and click. . .type]
 
 ftp uiarchive.cso.uiuc.edu
 login:  anonymous
 password:  your@login
-cd etext/etext90 through /etext96
-or cd etext/articles [get suggest gut for more information]
-dir [to see files]
-get or mget [to get files. . .set bin for zip files]
+cd etext/etext90 through /etext96 or cd etext/articles [get suggest gut for more information] dir [to see files] get or mget [to get files. . .set bin for zip files]
 GET INDEX?00.GUT
 for a list of books
 and
@@ -106,70 +62,24 @@ GET NEW GUT for general information
 and
 MGET GUT* for newsletters.
 
-**Information prepared by the Project Gutenberg legal advisor**
-(Three Pages)
+**Information prepared by the Project Gutenberg legal advisor** (Three Pages)
 
 
-***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
-Why is this "Small Print!" statement here?  You know: lawyers.
-They tell us you might sue us if there is something wrong with
-your copy of this etext, even if you got it for free from
-someone other than us, and even if what's wrong is not our
-fault.  So, among other things, this "Small Print!" statement
-disclaims most of our liability to you.  It also tells you how
-you can distribute copies of this etext if you want to.
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START*** Why is this "Small Print!" statement here?  You know: lawyers. They tell us you might sue us if there is something wrong with your copy of this etext, even if you got it for free from someone other than us, and even if what's wrong is not our fault.  So, among other things, this "Small Print!" statement disclaims most of our liability to you.  It also tells you how you can distribute copies of this etext if you want to.
 
-*BEFORE!* YOU USE OR READ THIS ETEXT
-By using or reading any part of this PROJECT GUTENBERG-tm
-etext, you indicate that you understand, agree to and accept
-this "Small Print!" statement.  If you do not, you can receive
-a refund of the money (if any) you paid for this etext by
-sending a request within 30 days of receiving it to the person
-you got it from.  If you received this etext on a physical
-medium (such as a disk), you must return it with your request.
+*BEFORE!* YOU USE OR READ THIS ETEXT By using or reading any part of this PROJECT GUTENBERG-tm etext, you indicate that you understand, agree to and accept this "Small Print!" statement.  If you do not, you can receive a refund of the money (if any) you paid for this etext by sending a request within 30 days of receiving it to the person you got it from.  If you received this etext on a physical medium (such as a disk), you must return it with your request.
 
-ABOUT PROJECT GUTENBERG-TM ETEXTS
-This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
-tm etexts, is a "public domain" work distributed by Professor
-Michael S. Hart through the Project Gutenberg Association at
-Benedictine University (the "Project").  Among other
-things, this means that no one owns a United States copyright
-on or for this work, so the Project (and you!) can copy and
-distribute it in the United States without permission and
-without paying copyright royalties.  Special rules, set forth
-below, apply if you wish to copy and distribute this etext
-under the Project's "PROJECT GUTENBERG" trademark.
+ABOUT PROJECT GUTENBERG-TM ETEXTS This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG- tm etexts, is a "public domain" work distributed by Professor Michael S. Hart through the Project Gutenberg Association at Benedictine University (the "Project").  Among other things, this means that no one owns a United States copyright on or for this work, so the Project (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties.  Special rules, set forth below, apply if you wish to copy and distribute this etext under the Project's "PROJECT GUTENBERG" trademark.
 
-To create these etexts, the Project expends considerable
-efforts to identify, transcribe and proofread public domain
-works.  Despite these efforts, the Project's etexts and any
-medium they may be on may contain "Defects".  Among other
-things, Defects may take the form of incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged
-disk or other etext medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
+To create these etexts, the Project expends considerable efforts to identify, transcribe and proofread public domain works.  Despite these efforts, the Project's etexts and any medium they may be on may contain "Defects".  Among other things, Defects may take the form of incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other etext medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
 
-LIMITED WARRANTY; DISCLAIMER OF DAMAGES
-But for the "Right of Replacement or Refund" described below,
-[1] the Project (and any other party you may receive this
-etext from as a PROJECT GUTENBERG-tm etext) disclaims all
-liability to you for damages, costs and expenses, including
-legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES But for the "Right of Replacement or Refund" described below, [1] the Project (and any other party you may receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims all liability to you for damages, costs and expenses, including legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
 UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
 INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
 OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
 POSSIBILITY OF SUCH DAMAGES.
 
-If you discover a Defect in this etext within 90 days of
-receiving it, you can receive a refund of the money (if any)
-you paid for it by sending an explanatory note within that
-time to the person you received it from.  If you received it
-on a physical medium, you must return it with your note, and
-such person may choose to alternatively give you a replacement
-copy.  If you received it electronically, such person may
-choose to alternatively give you a second opportunity to
-receive it electronically.
+If you discover a Defect in this etext within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending an explanatory note within that time to the person you received it from.  If you received it on a physical medium, you must return it with your note, and such person may choose to alternatively give you a replacement copy.  If you received it electronically, such person may choose to alternatively give you a second opportunity to receive it electronically.
 
 THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
@@ -177,24 +87,11 @@ TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
 LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
 PARTICULAR PURPOSE.
 
-Some states do not allow disclaimers of implied warranties or
-the exclusion or limitation of consequential damages, so the
-above disclaimers and exclusions may not apply to you, and you
-may have other legal rights.
+Some states do not allow disclaimers of implied warranties or the exclusion or limitation of consequential damages, so the above disclaimers and exclusions may not apply to you, and you may have other legal rights.
 
-INDEMNITY
-You will indemnify and hold the Project, its directors,
-officers, members and agents harmless from all liability, cost
-and expense, including legal fees, that arise directly or
-indirectly from any of the following that you do or cause:
-[1] distribution of this etext, [2] alteration, modification,
-or addition to the etext, or [3] any Defect.
+INDEMNITY You will indemnify and hold the Project, its directors, officers, members and agents harmless from all liability, cost and expense, including legal fees, that arise directly or indirectly from any of the following that you do or cause: [1] distribution of this etext, [2] alteration, modification, or addition to the etext, or [3] any Defect.
 
-DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
-You may distribute copies of this etext electronically, or by
-disk, book or any other medium if you either delete this
-"Small Print!" and all other references to Project Gutenberg,
-or:
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm" You may distribute copies of this etext electronically, or by disk, book or any other medium if you either delete this "Small Print!" and all other references to Project Gutenberg, or:
 
 [1]  Only give exact copies of it.  Among other things, this
      requires that you do not remove, alter or modify the
@@ -225,7 +122,7 @@ or:
           or other equivalent proprietary form).
 
 [2]  Honor the etext refund and replacement provisions of this
-     "Small Print!" statement.
+"Small Print!" statement.
 
 [3]  Pay a trademark license fee to the Project of 20% of the
      net profits you derive calculated using the method you
@@ -233,28 +130,15 @@ or:
      don't derive profits, no royalty is due.  Royalties are
      payable to "Project Gutenberg Association / Benedictine
      University" within the 60 days following each
-     date you prepare (or were legally required to prepare)
-     your annual (or equivalent periodic) tax return.
+date you prepare (or were legally required to prepare)
+your annual (or equivalent periodic) tax return.
 
-WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
-The Project gratefully accepts contributions in money, time,
-scanning machines, OCR software, public domain etexts, royalty
-free copyright licenses, and every other sort of contribution
-you can think of.  Money should be paid to "Project Gutenberg
-Association / Benedictine University".
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO? The Project gratefully accepts contributions in money, time, scanning machines, OCR software, public domain etexts, royalty free copyright licenses, and every other sort of contribution you can think of.  Money should be paid to "Project Gutenberg Association / Benedictine University".
 
 *END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
 
 
-
-
-
-Scanned by Charles Keller with
-OmniPage Professional OCR software
-donated by Caere Corporation, 1-800-535-7226.
-Contact Mike Lough <Mikel caere.com>
-
-
+Scanned by Charles Keller with OmniPage Professional OCR software donated by Caere Corporation, 1-800-535-7226. Contact Mike Lough <Mikel caere.com>
 
 
 Memorial Edition
@@ -269,7 +153,6 @@ Illustrations in color from Paintings
 
 
 VOLUME X
-
 
 
 JAMES WHITCOMB RILEY
@@ -403,8 +286,7 @@ line of samples; but, my dear young friend, don't
 imagine for a minute that I refuse your brand on
 that account.  You can rest assured that I have
 nothing better in my cases.  Whisky is whisky
-wherever it is found, and there is no 'best'
-whisky--not in all the world!"
+wherever it is found, and there is no 'best' whisky--not in all the world!"
 
 Truly, I thought, this is an odd source for the
 emanation of temperance sentiments--then said
@@ -440,11 +322,9 @@ city, I often called on the eccentric Mr. Clark, and,
 as he had promised on our first acquaintance, he
 seemed always glad to see and welcome me in his
 new office.  The more I knew of him the more I
-liked him, but I think I never fully understood him.
-No one seemed to know him quite so well as that.
+liked him, but I think I never fully understood him. No one seemed to know him quite so well as that.
 
-Once I had a little private talk regarding him with
-the senior partner of the firm for which he worked.
+Once I had a little private talk regarding him with the senior partner of the firm for which he worked.
 Mr. Clark, just prior to my call, had gone to lunch--
 would be back in half an hour.  Would I wait there
 in the office until his return?  Certainly.  And the
@@ -461,9 +341,7 @@ bright one--only they all seemed more or less
 unfortunate.  The father was unfortunate--very; and
 died so, leaving his wife and two boys--the older
 son much like the father--splendid business
-capacities, but lacked will--couldn't resist some things
---even weaker than the father in that regard, and
-died at half his age.
+capacities, but lacked will--couldn't resist some things --even weaker than the father in that regard, and died at half his age.
 
 But the younger brother--our Mr. Clark--
 remained, and he was sterling--"straight goods" in
@@ -513,8 +391,7 @@ place to meet me in the evening, I stepped back into
 the storeroom and again pushed open the glass door
 of the office.
 
-Mr. Clark still sat on the high stool at his desk,
-his back toward the door, and his ledger spread out
+Mr. Clark still sat on the high stool at his desk, his back toward the door, and his ledger spread out
 before him.
 
 "Mr. Clark!" I called.
@@ -525,8 +402,7 @@ He made no answer.
 
 He did not stir.
 
-I paused a moment, then went over to him, letting
-my hand drop lightly on his arm.
+I paused a moment, then went over to him, letting my hand drop lightly on his arm.
 
 Still no response.  I only felt the shoulder heave,
 as with a long-drawn quavering sigh, then heard the
@@ -557,17 +433,12 @@ verbally addressing him; and laughing still louder
 when I told him of my fears that he was overworking
 himself.
 
-"Oh, no, my friend," he answered gaily;
-"there's no occasion for anxiety on that account.--
-But the fact is, old man," he went on, half apologetically,
+"Oh, no, my friend," he answered gaily; "there's no occasion for anxiety on that account.-- But the fact is, old man," he went on, half apologetically,
 "the fact is, I haven't been so overworked,
 of late, as over-wakeful.  There's something in the
 night I think, that does it.  Do you know that the
 night is a great mystery to me--a great mystery!
-And it seems to be growing on me all the time.
-There's the trouble.  The night to me is like some
-vast incomprehensible being.  When I write the
-name 'night' I instinctively write it with a capital.
+And it seems to be growing on me all the time. There's the trouble.  The night to me is like some vast incomprehensible being.  When I write the name 'night' I instinctively write it with a capital.
 And I like my night deep, and dark, and swarthy,
 don't you know.  Now some like clear and starry
 nights, but they're too pale for me--too weak and
@@ -582,11 +453,9 @@ depriving you of the theater, I'd rather just drift
 off now in the deepening gloom till swallowed up
 in it--lost utterly.  Come with me, anyhow!"
 
-"Gladly," I answered, catching something of his
-own enthusiasm; "I myself prefer it to the play."
+"Gladly," I answered, catching something of his own enthusiasm; "I myself prefer it to the play."
 
-"I heartily congratulate you on your taste," he
-said, diving violently for my hand and wringing it.
+"I heartily congratulate you on your taste," he said, diving violently for my hand and wringing it.
 
 "Oh, it's going to be grimly glorious!--a depth of
 darkness one can wade out into, and knead in his
@@ -699,9 +568,7 @@ aroused him.  He stepped quickly to the door, and
 threw it open.  It was a woman servant.  He
 simply pointed to the form upon the bed.
 
-"Oh, sir!" exclaimed the frightened woman,
-"what has happened?  What has happened to my
-poor dear mistress?"
+"Oh, sir!" exclaimed the frightened woman, "what has happened?  What has happened to my poor dear mistress?"
 
 "Why did you let her leave the house?"
 
@@ -710,12 +577,7 @@ she was going out again.  She told me she was very
 sleepy and wanted to retire, and I helped her to
 undress before I went.  But she ain't bad hurt, is
 she?" she continued, stooping over the still figure
-and tenderly smoothing back the disheveled hair.
---"It's only the cheek bruised and the forehead cut
-a little--it's the blood that makes it look like a bad
-hurt.  See, when I bathe it, it is not a bad hurt, sir.
-She's just been--she's just worn out, poor thing--
-and she's asleep--that's all."
+and tenderly smoothing back the disheveled hair. --"It's only the cheek bruised and the forehead cut a little--it's the blood that makes it look like a bad hurt.  See, when I bathe it, it is not a bad hurt, sir. She's just been--she's just worn out, poor thing-- and she's asleep--that's all."
 
 He made no answer to the woman's speech, but
 turned toward me.  "Five doors from here," he
@@ -785,9 +647,7 @@ removing his coat, flung himself languidly down.--
 "I will read," I said, as I picked up a book to
 begin my vigil.
 
-"Hold just a minute, then," he said, drawing a
-card and pencil from his vest.--"I may want to
-jot down a note or two.--Now, go ahead."
+"Hold just a minute, then," he said, drawing a card and pencil from his vest.--"I may want to jot down a note or two.--Now, go ahead."
 
 I had been reading in a low voice steadily for
 perhaps an hour, my companion never stirring from
@@ -863,18 +723,14 @@ crying for her son.  "But we must not waken him," I
 said.  "Give Mrs. Clark the medicine the doctor left
 for her--that will quiet her."
 
-"But she won't take it, sir.  She won't do
-anything at all for me--and if Mr. Clark could only
-come to her, for just a minute, she would--"
+"But she won't take it, sir.  She won't do anything at all for me--and if Mr. Clark could only come to her, for just a minute, she would--"
 
 The woman's speech was broken by a shrill cry
 in the hall, and then the thud of naked feet on the
 stairway.  "I want my boy--my boy!" wailed the
 hysterical woman from without.
 
-"Go to your mistress--quick," I said sternly,
-pushing the maid from the room.--"Take her back;
-I will come down to your assistance in a moment."
+"Go to your mistress--quick," I said sternly, pushing the maid from the room.--"Take her back; I will come down to your assistance in a moment."
 Then I turned hastily to see if the sleeper had been
 disturbed by the woman's cries; but all was peaceful
 with him yet; and so, throwing a coverlet over
@@ -896,16 +752,12 @@ stairs:--"O God!  My boy! my boy!  I want my
 boy, and he will not waken for me!"  An instant
 later we were both upon the scene.
 
-The woman in her frenzy had broken from the
-servant to find her son.  And she had found him.
+The woman in her frenzy had broken from the servant to find her son.  And she had found him.
 
 She had wound her arms about him, and had
 dragged his still sleeping form upon the floor.  He
 would not waken, even though she gripped him to
-her heart and shrieked her very soul out in his ears.
-He would not waken.  The face, though whiter
-than her own, betokened only utter rest and peace.
-We drew her, limp and voiceless, from his side.
+her heart and shrieked her very soul out in his ears. He would not waken.  The face, though whiter than her own, betokened only utter rest and peace. We drew her, limp and voiceless, from his side.
 "We are too late," the doctor whispered, lifting with
 his finger one of the closed lids, and letting it drop
 to again.--"See here!"  He had been feeling at the
@@ -954,7 +806,6 @@ full measure of his needed rest was with him; and
 the rainy day that glowered and drabbled at the
 eastern window of the room was as drearily stared
 back at by a hopeless woman's dull demented eyes.
-
 
 
 A NEST-EGG
@@ -1009,11 +860,7 @@ fishing-tackle for the morning, at least, I went up
 the sloping bank, crossed the dusty road, and
 confidently clambered over the fence.
 
-Not even a growling dog to intimate that I was
-trespassing.  All was open--gracious-looking--pastoral.
-The sward beneath my feet was velvet-like
-in elasticity, and the scarce visible path I followed
-through it led promptly to the open kitchen door.
+Not even a growling dog to intimate that I was trespassing.  All was open--gracious-looking--pastoral. The sward beneath my feet was velvet-like in elasticity, and the scarce visible path I followed through it led promptly to the open kitchen door.
 From within I heard a woman singing some old
 ballad in an undertone, while at the threshold a
 trim, white-spurred rooster stood poised on one foot,
@@ -1026,8 +873,7 @@ corner of the house:
 
 "Sir.  Howdy!"
 
-Turning, I saw a rough-looking but kindly
-featured man of sixty-five, evidently the owner of the
+Turning, I saw a rough-looking but kindly featured man of sixty-five, evidently the owner of the
 place.
 
 I returned his salutation with some confusion
@@ -1042,24 +888,18 @@ as suddenly, with a backward motion of his thumb
 --"jest follow the path here down to the little
 brick--that's the spring--and you'll find 'at you've
 come to the right place fer drinkin'-worter!  Hold
-on a minute tel I get you a tumbler--there's nothin'
-down there but a tin."
+on a minute tel I get you a tumbler--there's nothin' down there but a tin."
 
-"Then don't trouble yourself any further," I
-said, heartily, "for I'd rather drink from a tin cup
-than a goblet of pure gold."
+"Then don't trouble yourself any further," I said, heartily, "for I'd rather drink from a tin cup than a goblet of pure gold."
 
-"And so'd I," said the old man, reflectively,
-turning mechanically, and following me down the path.
+"And so'd I," said the old man, reflectively, turning mechanically, and following me down the path.
 " 'Druther drink out of a tin--er jest a fruit-can
 with the top knocked off--er--er--er a gourd," he
 added in a zestful, reminiscent tone of voice, that
 so heightened my impatient thirst that I reached
 the spring-house fairly in a run.
 
-"Well-sir!" exclaimed my host, in evident
-delight, as I stood dipping my nose in the second
-cupful of the cool, revivifying liquid, and peering in a
+"Well-sir!" exclaimed my host, in evident delight, as I stood dipping my nose in the second cupful of the cool, revivifying liquid, and peering in a
 congratulatory kind of way at the blurred and rubicund
 reflection of my features in the bottom of the
 cup, "well-sir, blame-don! ef it don't do a feller
@@ -1070,14 +910,9 @@ maybe; and ef you'll jest, kind o' keerful-like, lift
 off the led of that third one, say, over there to
 yer left, and dip you out a tinful er two o' that,
 w'y, it'll do you good to drink it, and it'll do me
-good to see you at it--  But hold up!--hold up!"
-he called, abruptly, as, nowise loath, I bent above
-the vessel designated.  "Hold yer hosses fer a second!
-Here's Marthy; let her git it fer ye."
+good to see you at it--  But hold up!--hold up!" he called, abruptly, as, nowise loath, I bent above the vessel designated.  "Hold yer hosses fer a second! Here's Marthy; let her git it fer ye."
 
-If I was at first surprised and confused, meeting
-the master of the house, I was wholly startled and
-chagrined in my present position before its mistress.
+If I was at first surprised and confused, meeting the master of the house, I was wholly startled and chagrined in my present position before its mistress.
 But as I arose, and stammered, in my confusion,
 some incoherent apology, I was again reassured and
 put at greater ease by the comprehensive and
@@ -1085,8 +920,7 @@ forgiving smile the woman gave me, as I yielded her
 my place, and, with lifted hat, awaited her further
 kindness.
 
-"I came just in time, sir," she said, half
-laughingly, as with strong, bare arms she reached across
+"I came just in time, sir," she said, half laughingly, as with strong, bare arms she reached across
 the gurgling trough and replaced the lid that I had
 partially removed.--"I came just in time, I see, to
 prevent father from having you dip into the morning's-
@@ -1218,27 +1052,20 @@ gate.  'Hold up, Marthy,' says I; 'set right where
 you air; I'll open the gate fer you, and I'll do
 anything else fer you in the world 'at you want me to!'
 
-" 'W'y, what's pleased YOU so?' she says,
-laughin', as she druv through slow-like and a-ticklin' my nose
-with the cracker of the buggy-whip.--'What's
-pleased YOU?'
+" 'W'y, what's pleased YOU so?' she says, laughin', as she druv through slow-like and a-ticklin' my nose with the cracker of the buggy-whip.--'What's pleased YOU?'
 
 " 'Guess,' says I, jerkin' the gate to, and turnin' to
 lift her out.
 
 " 'The new peanner's come?' says she, eager-like.
 
-" 'Yer new peanner's come,' says I, 'but that's
-not it.'
+" 'Yer new peanner's come,' says I, 'but that's not it.'
 
 " 'Strawberries for supper?' says she.
 
-" 'Strawberries fer supper,' says I; 'but that
-ain't it.'
+" 'Strawberries fer supper,' says I; 'but that ain't it.'
 
-"Jest then Morris's hoss whinnied in the barn,
-and she glanced up quick and smilin' and says,
-'Somebody come to see somebody?'
+"Jest then Morris's hoss whinnied in the barn, and she glanced up quick and smilin' and says, 'Somebody come to see somebody?'
 
 " 'You're a-gittin' warm,' says I.
 
@@ -1250,10 +1077,7 @@ wouldn't harber in my house no young feller 'at
 was a-layin' round fer a chance to steal away the
 "Nest-egg," ' says I, laughin'.
 
-"Marthy had riz up in the buggy by this time,
-but as I helt up my hands to her, she sort o' drawed
-back a minute, and says, all serious-like and kind o'
-whisperin':
+"Marthy had riz up in the buggy by this time, but as I helt up my hands to her, she sort o' drawed back a minute, and says, all serious-like and kind o' whisperin':
 
 " 'Is it ANNIE?'
 
@@ -1261,16 +1085,11 @@ whisperin':
 give my consent, and mother's give hern--the thing's
 all settled.  Come, jump out and run in and be
 happy with the rest of us!' and I helt out my hands
-ag'in, but she didn't 'pear to take no heed.  She was kind o'
-pale, too, I thought, and swallered a
-time er two like as ef she couldn't speak plain.
+ag'in, but she didn't 'pear to take no heed.  She was kind o' pale, too, I thought, and swallered a time er two like as ef she couldn't speak plain.
 
 " 'Who is the man?' she ast.
 
-" 'Who--who's the man,' I says, a-gittin' kind o'
-out o' patience with the girl.--'W'y, you know who
-it is, o' course.--It's Morris,' says I.  'Come, jump
-down!  Don't you see I'm waitin' fer ye?'
+" 'Who--who's the man,' I says, a-gittin' kind o' out o' patience with the girl.--'W'y, you know who it is, o' course.--It's Morris,' says I.  'Come, jump down!  Don't you see I'm waitin' fer ye?'
 
 " 'Then take me,' she says; and blame-don! ef
 the girl didn't keel right over in my arms as limber
@@ -1294,14 +1113,7 @@ lem-me-see--mother's be'n dead som'er's in the
 neighberhood o' ten years.--Sence mother died I've
 be'n a-gittin' more and more o' MARTHY'S notion--
 that is,--you couldn't ever hire ME to marry nobody!
-and them has allus be'n and still is the 'Nest-egg's'
-views!  Listen!  That's her a-callin' fer us now. You must sort
-o' overlook the freedom, but I told
-Marthy you'd promised to take dinner with us to-
-day, and it 'ud never do to disappoint her now.
-Come on."  And ah! it would have made the soul
-of you either rapturously glad or madly envious to
-see how meekly I consented.
+and them has allus be'n and still is the 'Nest-egg's' views!  Listen!  That's her a-callin' fer us now. You must sort o' overlook the freedom, but I told Marthy you'd promised to take dinner with us to- day, and it 'ud never do to disappoint her now. Come on."  And ah! it would have made the soul of you either rapturously glad or madly envious to see how meekly I consented.
 
 I am always thinking that I never tasted coffee
 till that day; I am always thinking of the crisp and
@@ -1314,7 +1126,6 @@ three discussed was a near and dear relative of the
 gay patrician rooster that I first caught peering so
 inquisitively in at the kitchen door; and I am
 always--always thinking of "The Nest-egg."
-
 
 
 "THE BOY FROM ZEENY"
@@ -1367,14 +1178,10 @@ and with a palpably rancorous twinge of envy in
 his heart; for Billy was the bad boy of our town,
 and would doubtless have enjoyed the strange boy's
 sudden notoriety in thus being able to convert
-disaster into positive fun.  "Wo! what a hat!"
-reiterated Billy, making a feint to knock it from the
-boy's head as the still capering figure pirouetted
+disaster into positive fun.  "Wo! what a hat!" reiterated Billy, making a feint to knock it from the boy's head as the still capering figure pirouetted
 past him.
 
-The boy's eye caught the motion, and he whirled
-suddenly in a backward course and danced past his
-reviler again, this time much nearer than before.
+The boy's eye caught the motion, and he whirled suddenly in a backward course and danced past his reviler again, this time much nearer than before.
 "Better try it," he said, in a low, half-laughing
 tone that no one heard but Billy and myself.  He
 was out of range in an instant, still laughing as he
@@ -1387,9 +1194,7 @@ better not sass me!  He's afeard to come past here
 ag'in and say that!  I'll knock his durn ole stove-
 pipe in the middle o' nex' week!"
 
-"You will, hey?" queried a revolving voice, as
-the boy twirled past again--this time so near that
-Billy felt his taunting breath blown in his face.
+"You will, hey?" queried a revolving voice, as the boy twirled past again--this time so near that Billy felt his taunting breath blown in his face.
 
 "Yes, I 'will, hey'!" said Billy, viciously; and
 with a side-sweeping, flat-handed lick that sounded
@@ -1426,27 +1231,19 @@ telling blow or two upon the nose of his overpowering
 foe, who sat astride his wriggling body, but
 wholly unable to get in a lick.
 
-"Durn you!" said Billy, with his hand gripping
-the boy's throat, "holler 'nough!"
+"Durn you!" said Billy, with his hand gripping the boy's throat, "holler 'nough!"
 
-"Holler nothin'!" gurgled the boy, with his eyes
-fairly starting from his head.
+"Holler nothin'!" gurgled the boy, with his eyes fairly starting from his head.
 
-"Oh, let him up, Billy," called a compassionate
-voice from the excited crowd.
+"Oh, let him up, Billy," called a compassionate voice from the excited crowd.
 
-"Holler 'nough and I will," said Billy, in a tragic
-whisper in the boy's ear.  "Durn ye! holler 'Calf-rope!' "
+"Holler 'nough and I will," said Billy, in a tragic whisper in the boy's ear.  "Durn ye! holler 'Calf-rope!' "
 
-The boy only shook his head, trembled convulsively,
-let fall his eyelids, and lay limp and, to all
-appearances, unconscious.
+The boy only shook his head, trembled convulsively, let fall his eyelids, and lay limp and, to all appearances, unconscious.
 
-The startled Billy loosed his hold, rose half-way
-to his feet, then fiercely pounced again at his rival.
+The startled Billy loosed his hold, rose half-way to his feet, then fiercely pounced again at his rival.
 
-But it was too late.--The ruse had succeeded,
-and the boy was once more on his feet.
+But it was too late.--The ruse had succeeded, and the boy was once more on his feet.
 
 "You fight like a dog!" said the strange boy, in
 a tone of infinite contempt--"and you AIR a dog!
@@ -1454,8 +1251,7 @@ Put up yer props like a man and come at me, and
 I'll meller yer head till yer mother won't know
 you!  Come on!  I dare you!"
 
-This time, as Billy started forward at the
-challenge, I regret to say that in his passion he snatched
+This time, as Billy started forward at the challenge, I regret to say that in his passion he snatched
 up from the street a broken buggy-spoke, before
 which warlike weapon the strange boy was forced
 warily to retreat.  Step by step he gave way, and
@@ -1482,9 +1278,7 @@ but his teeth clenched.
 "Guess I broke my arm ag'in," he said, briefly, as
 the man leaned over and helped him up the steps,
 the boy sweeping his keen eyes searchingly over the
-faces of the crowd.  "It's the RIGHT arm, though,"
-he continued, glancing at the injured member dangling
-helplessly at his side--"THIS-'UN'S all right yet!"
+faces of the crowd.  "It's the RIGHT arm, though," he continued, glancing at the injured member dangling helplessly at his side--"THIS-'UN'S all right yet!"
 and as he spoke he jerked from the man's assistance,
 wheeled round, and an instant later, as a
 buggy-spoke went hurtling through the air, he
@@ -1501,8 +1295,7 @@ for three or four enterprising and sagacious boys
 slipped off from the crowd that thronged in front,
 and climbing by a roundabout way and over a high
 board fence into the back yard, secretly posted
-themselves at the blinded window in the rear of the little
-one-roomed office and breathlessly awaited news
+themselves at the blinded window in the rear of the little one-roomed office and breathlessly awaited news
 from within.
 
 "They got him laid out on the settee," whispered
@@ -1531,29 +1324,20 @@ time his arm was broke.  Now keep still!" and
 the boy in the window again bent his ear to the
 broken pane.
 
-"He says both his arm's be'n broke," continued
-the boy in the window--"says this-'un 'at's broke
-now's be'n broke two times 'fore this time."
+"He says both his arm's be'n broke," continued the boy in the window--"says this-'un 'at's broke now's be'n broke two times 'fore this time."
 
-"Dog-gone! hain't he a funny feller!" said the
-milk-faced boy, with his big eyes lifted wistfully
-to the boy in the window.
+"Dog-gone! hain't he a funny feller!" said the milk-faced boy, with his big eyes lifted wistfully to the boy in the window.
 
-"He says onc't his pap broke his arm w'en he was
-whippin' him," whispered the boy in the window.
+"He says onc't his pap broke his arm w'en he was whippin' him," whispered the boy in the window.
 
-"Bet his pa's a wicked man!" said the milk-faced
-boy, in a dreamy, speculative way--"s'pect he's a
-drunkard, er somepin'!"
+"Bet his pa's a wicked man!" said the milk-faced boy, in a dreamy, speculative way--"s'pect he's a drunkard, er somepin'!"
 
 "Keep still," said the boy at the window; "they're
 tryin' to git him to tell his pap's name and his, and
 he won't do it, 'cause he says his pap comes and
 steals him ever' time he finds out where he is."
 
-The milk-faced boy drew a long, quavering
-breath and gazed suspiciously round the high board
-fence of the enclosure.
+The milk-faced boy drew a long, quavering breath and gazed suspiciously round the high board fence of the enclosure.
 
 "He says his pap used to keep a liberty-stable
 in Zeeny--in Ohio som'er's,--but he daresn't stay
@@ -1576,8 +1360,7 @@ the ground, and, flocking at his heels, his frightened
 comrades bobbed one by one over the horizon of the
 high fence and were gone in an instant.
 
-So it was the hero of this sketch came to be
-known as "The Boy from Zeeny."
+So it was the hero of this sketch came to be known as "The Boy from Zeeny."
 
 The Boy from Zeeny, though evidently predisposed
 to novel and disastrous happenings, for once,
@@ -1609,8 +1392,7 @@ that, for all the admiration their possessor evoked,
 an equal envy was aroused in many a youthful
 breast.
 
-"The boys in this town's down on you!" said
-a cross-eyed, freckled-faced boy, one day, to The
+"The boys in this town's down on you!" said a cross-eyed, freckled-faced boy, one day, to The
 Boy from Zeeny.
 
 The Boy from Zeeny was sitting in the alley
@@ -1640,8 +1422,7 @@ up fer 'em, and got any sand to back you, jest say it,
 and I'll come down there and knock them durn
 twisted eyes o' yourn straight ag'in!"
 
-"Yes, you will!" muttered the cross-eyed boy,
-with dubious articulation, glancing uneasily up the
+"Yes, you will!" muttered the cross-eyed boy, with dubious articulation, glancing uneasily up the
 alley.
 
 "What?" growled The Boy from Zeeny, thrusting
@@ -1663,8 +1444,7 @@ a-holdin'--and--and--Oh! ever'thing!"  And as the
 cross-eyed boy breathlessly concluded this list of
 strong attractions, he had The Boy from Zeeny so
 thoroughly inoculated with the enterprise that he
-warmly closed with the proposition, and the preparations
-and the practise for the show were at once
+warmly closed with the proposition, and the preparations and the practise for the show were at once
 inaugurated.
 
 Three hours later, an extremely cross-eyed boy,
@@ -1770,21 +1550,13 @@ progress of the county fair, which institution I
 was permitted to attend through the kindness of an
 old chum who drove me over in his buggy.
 
-Although it was not the day for racing, we found
-the track surrounded by a dense crowd of clamorous
-and applauding people.
+Although it was not the day for racing, we found the track surrounded by a dense crowd of clamorous and applauding people.
 
-"What does it mean?" I asked my friend, as he
-guided his horse in and out among the trees toward
-the edge of the enclosure.
+"What does it mean?" I asked my friend, as he guided his horse in and out among the trees toward the edge of the enclosure.
 
-"It's Professor Andrus, I suspect," he answered,
-rising in the buggy as he spoke, and peering eagerly
-above the heads of the surging multitude.
+"It's Professor Andrus, I suspect," he answered, rising in the buggy as he spoke, and peering eagerly above the heads of the surging multitude.
 
-"And who's Professor Andrus?" I asked, striking
-a match against the tire of the now stationary buggy-
-wheel, and lighting the stump of my cigar.
+"And who's Professor Andrus?" I asked, striking a match against the tire of the now stationary buggy- wheel, and lighting the stump of my cigar.
 
 "Why, haven't you heard of the famous Professor?"
 he answered, laughingly--immediately adding
@@ -1838,8 +1610,7 @@ ropes about the ring were broken over, and a tumultuous
 tide of people poured across the ring, myself
 borne on the very foremost wave.
 
-"Jest the buggy smashed, that's all!" cried a voice.
-"The hosses hain't hurt--ner the man."
+"Jest the buggy smashed, that's all!" cried a voice. "The hosses hain't hurt--ner the man."
 
 The man referred to was the Professor.  I caught
 a glimpse of him as he rose from the grassy bank
@@ -1847,12 +1618,9 @@ where he had been flung.  He was very pale, but
 calm.  An uncouth man brought him his silk hat
 from where it had rolled in the dust.
 
-"Wish you'd just take this handkerchief and
-brush it off," said the Professor; "I guess I've broke
-my arm."
+"Wish you'd just take this handkerchief and brush it off," said the Professor; "I guess I've broke my arm."
 
 It was The Boy from Zeeny.
-
 
 
 WHERE IS MARY ALICE SMITH?
@@ -1900,10 +1668,7 @@ her when father brought her in, and mother fixed
 a cozy chair for her close to the blazing fire, and
 untied the little summer hat, with its hectic
 trimmings, together with the dismal green veil that had
-been bound beneath it round the little tingling ears.
-The hollow, pale blue eyes of the child followed
-every motion with an alertness that suggested a
-somewhat suspicious mind.
+been bound beneath it round the little tingling ears. The hollow, pale blue eyes of the child followed every motion with an alertness that suggested a somewhat suspicious mind.
 
 "Dave gimme that!" she said, her eyes proudly
 following the hat as mother laid it on the pillow of
@@ -1912,9 +1677,7 @@ have Dave in yer wool!" she continued warningly,
 as our childish interest drew us to a nearer view of
 the gaudy article in question.
 
-Half awed, we shrank back to our first wonderment,
-one of us, however, with the bravery to ask:
-"Who's Dave?"
+Half awed, we shrank back to our first wonderment, one of us, however, with the bravery to ask: "Who's Dave?"
 
 "Who's Dave?" reiterated the little voice half
 scornfully.--"W'y, Dave's a great big boy!  Dave
@@ -1932,8 +1695,7 @@ then she broke abruptly into the merriest laughter,
 and clapped her little palms together till they fairly
 glowed.
 
-"And who's Mary Alice Smith?" clamored a
-chorus of merry voices.
+"And who's Mary Alice Smith?" clamored a chorus of merry voices.
 
 The elfish figure straightened haughtily in the
 chair.  Folding the slender arms tightly across her
@@ -1988,9 +1750,7 @@ every gleeful word--"I'll--only--go--back--there
 --the--boy--fer--me!"  And then she clapped her
 hands again and laughed in that half-hysterical, half-
 musical way of hers till we all joined in and made
-the echoes of the old hall ring again.  "And then,"
-she went on, suddenly throwing out an imperative
-gesture of silence--"and then, after I've been in this--
+the echoes of the old hall ring again.  "And then," she went on, suddenly throwing out an imperative gesture of silence--"and then, after I've been in this--
 here house a long, long time, and you all gits so's
 you like me awful--awful--awful well, then some
 day you'll go in that room there--and that room
@@ -2234,9 +1994,7 @@ knew it fully.  He had enlisted.
 .  .  .  .  .  .  .
 
 
-Among the list of "killed" at Rich Mountain,
-Virginia, occurred the name of "Jeffries, David M."
-We kept it from her as long as we could.  At last
+Among the list of "killed" at Rich Mountain, Virginia, occurred the name of "Jeffries, David M." We kept it from her as long as we could.  At last
 she knew.
 
 .  .  .  .  .  .  .
@@ -2260,9 +2018,7 @@ the pictured face against her lips.  "David--Mason
 --Jeffries," she said--"le's--me--and--you--go--
 play--out--on--the--stairs!"
 
-And ever in the empty home a voice goes
-moaning on and on, and "Where is Mary Alice?" it
-cries, and "Where--is--Mary--Alice--Smith?"
+And ever in the empty home a voice goes moaning on and on, and "Where is Mary Alice?" it cries, and "Where--is--Mary--Alice--Smith?"
 And the still belated echo, through the high depths
 of the old hall overhead, answers quaveringly back,
 "Oh--she--has--gone--home!"  But her voice--
@@ -2295,12 +2051,9 @@ Alice Smith?"  She taught us how to call her thus
 voice to reach her with.
 
 
-
-
 THE OLD MAN
 
-[Response made to the sentiment, "The Old Man,"
-at a dinner of the Indianapolis Literary Club.]
+[Response made to the sentiment, "The Old Man," at a dinner of the Indianapolis Literary Club.]
 
  "You are old, Father William," the young man said,
      "And your hair has become very white;
@@ -2344,9 +2097,7 @@ privations of the early days, until your anxiety about
 the young man just naturally stagnates, and dries
 up, and evaporates, and blows away.
 
-In this little side-show of existence the old man
-is always worth the full price of admission.  He
-is not only the greatest living curiosity on exhibition,
+In this little side-show of existence the old man is always worth the full price of admission.  He is not only the greatest living curiosity on exhibition,
 but the object of the most genial solicitude and
 interest to the serious observer.  It is even good to
 look upon his vast fund of afflictions, finding
@@ -2373,10 +2124,7 @@ toward him, and young, pure-faced mothers are
 forever hovering about him, with just such humorings
 and kindly ministrations as they bestow on
 the little emperor of the household realm, strapped
-in his high chair at the dinner-table, crying "Amen"
-in the midst of "grace," and ignoring the "substantials"
-of the groaning board, and at once insisting
-upon a square deal of the more "temporal blessings"
+in his high chair at the dinner-table, crying "Amen" in the midst of "grace," and ignoring the "substantials" of the groaning board, and at once insisting upon a square deal of the more "temporal blessings"
 of jelly, cake, and pie.  And the old man has justly
 earned every distinction he enjoys.  Therefore let
 him make your hearthstone all the brighter with the
@@ -2396,12 +2144,7 @@ but for the silver tinsel of the beard of one and the
 dusky elf-locks of the other, the faces seem almost
 like twins.
 
-With such a view of age, one feels like whipping
-up the lazy years and getting old at once.  In heart
-and soul the old man is not old--and never will be.
-He is paradoxically old, and that is all.  So it is that
-he grows younger with increasing years, until old
-age at worst is always at a level par with youth.
+With such a view of age, one feels like whipping up the lazy years and getting old at once.  In heart and soul the old man is not old--and never will be. He is paradoxically old, and that is all.  So it is that he grows younger with increasing years, until old age at worst is always at a level par with youth.
 Who ever saw a man so old as not secretly and most
 heartily to wish the veteran years upon years of
 greater age?  And at what great age did ever any
@@ -2482,10 +2225,7 @@ was knockin' round the court-house, first thing I
 knowed I'll be switched to death ef they didn't pop
 me on the jury!  And here I am, eatin' my head off
 up here at the tavern.  Reckon, tho', the county'll
-stand good for my expenses.  Ef hit cain't, I kin!"
-And, with the heartiest sort of a laugh, the old man
-jogs along, leaving you to smile till bedtime over
-the happiness he has unconsciously contributed.
+stand good for my expenses.  Ef hit cain't, I kin!" And, with the heartiest sort of a laugh, the old man jogs along, leaving you to smile till bedtime over the happiness he has unconsciously contributed.
 
 Another instance of the old man's humor under
 trying circumstances was developed but a few days
@@ -2524,9 +2264,7 @@ his son, would lean and kiss the young man's hand,
 as in the Dutch regions of Pennsylvania, two or
 three weeks ago, I saw an old man do.
 
-Mark Lemon must have known intimately and
-loved the genteel old man of the city when the once
-famous domestic drama of "Grandfather Whitehead"
+Mark Lemon must have known intimately and loved the genteel old man of the city when the once famous domestic drama of "Grandfather Whitehead"
 was conceived.  In the play the old man--a
 once prosperous merchant--finds a happy home in
 the household of his son-in-law.  And here it is
@@ -2577,7 +2315,6 @@ of speech, our merriment is ever tempered with the
 gentlest reverence.
 
 
-
 THE GILDED ROLL
 
 Nosing around in an old box--packed away,
@@ -2606,9 +2343,7 @@ for me when I went to join him.  Dear boy!  Dear
 boy!
 
 Here are some cards of bristol-board.  Ah! when
-Bob came to these there were no blotches then.
-What faces--what expressions!  The droll, ridiculous,
-good-for-nothing genius, with his "sad mouth,"
+Bob came to these there were no blotches then. What faces--what expressions!  The droll, ridiculous, good-for-nothing genius, with his "sad mouth,"
 as he called it, "upside down," laughing always--
 at everything, at big rallies, and mass-meetings and
 conventions, county fairs, and floral halls, booths,
@@ -2694,12 +2429,7 @@ in its stead, the ridiculous, but marvelously
 perfect imitation of the "priming" of a pump, while
 Billy's hands forget the "chiggers" on the bare
 backs of his feet, as, with clapping palms, he dances
-round the room in ungovernable spasms of delight.
-And then we all laugh; and Billy, taking advantage
-of the general tumult, pulls Bob's head down and
-whispers, "Git 'em to stay up 'way late to-night!"
-And Bob, perhaps remembering that we go back
-home to-morrow, winks at the little fellow and whispers,
+round the room in ungovernable spasms of delight. And then we all laugh; and Billy, taking advantage of the general tumult, pulls Bob's head down and whispers, "Git 'em to stay up 'way late to-night!" And Bob, perhaps remembering that we go back home to-morrow, winks at the little fellow and whispers,
 "You let me manage 'em!  Stay up till broad
 daylight if we take a notion--eh?"  And Billy
 dances off again in newer glee, while the inspired
@@ -2711,9 +2441,7 @@ brother, who drops back listlessly to his old position
 on the floor and sullenly renews operations on
 his "chigger" claims.
 
-"Thought you was goin' to have pop-corn to-night
-all so fast!" he says, doggedly, in the midst of a
-momentary lull that has fallen on a game of whist.
+"Thought you was goin' to have pop-corn to-night all so fast!" he says, doggedly, in the midst of a momentary lull that has fallen on a game of whist.
 And then the oldest Mills girl, who thinks cards stupid
 anyhow, says:  "That's so, Billy; and we're going
 to have it, too; and right away, for this game's
@@ -2726,16 +2454,12 @@ and preparation long enough; so you gentlemen can
 be pulling your wits together for the exercises, while
 us girls see to the refreshments."
 
-"Have you done anything toward it!" queries
-Bob, when the girls are gone, with the alert Billy in
+"Have you done anything toward it!" queries Bob, when the girls are gone, with the alert Billy in
 their wake.
 
 "Just an outline," I reply.  "How with you?"
 
-"Clean forgot it--that is, the preparation; but I've
-got a little old second-hand idea, if you'll all help me
-out with it, that'll amuse us some, and tickle Billy,
-I'm certain."
+"Clean forgot it--that is, the preparation; but I've got a little old second-hand idea, if you'll all help me out with it, that'll amuse us some, and tickle Billy, I'm certain."
 
 So that's agreed upon; and while Bob produces
 his portfolio, drawing paper, pencils and so on, I
@@ -2744,9 +2468,7 @@ counting my fingers in a depth of profound abstraction,
 from which I am barely aroused by the reappearance
 of the girls and Billy.
 
-"Goody, goody, goody!  Bob's goin' to make
-pictures!" cries Billy, in additional transport to that
-the cake pop-corn had produced.
+"Goody, goody, goody!  Bob's goin' to make pictures!" cries Billy, in additional transport to that the cake pop-corn had produced.
 
 "Now, you girls," says Bob, gently detaching the
 affectionate Billy from one leg and moving a chair
@@ -2799,8 +2521,7 @@ entire speech--"
 
 "Oh, don't!" I exclaim.
 
-"Then give us the wretched production, in all its
-hideous deformity!"
+"Then give us the wretched production, in all its hideous deformity!"
 
 And the girls all laugh so sympathetically, and
 Bob joins them so gently, and yet with a tone, I
@@ -2909,10 +2630,7 @@ and engraver, and then we'll wake up the boy (who
 has been fortunately slumbering for the last quarter
 of an hour), and present to him, as designed and
 intended, this matchless creation of our united
-intellects."  At the conclusion of this speech we all go
-good-humoredly to work, and at the close of half an
-hour the tedious, but most ridiculous, task is
-announced completed.
+intellects."  At the conclusion of this speech we all go good-humoredly to work, and at the close of half an hour the tedious, but most ridiculous, task is announced completed.
 
 As I arrange and place in proper form here on the
 table the separate cards-twenty-seven in number--
@@ -3128,9 +2846,7 @@ BEAUTIFUL HANDS
  I seem to thrill as I then was thrilled,
  Kissing the glove that I found unfilled--
  When I met your gaze, and the queenly bow
- As you said to me, laughingly, "Keep it now!" . . .
- And dazed and alone in a dream I stand,
- Kissing this ghost of your beautiful hand.
+As you said to me, laughingly, "Keep it now!" . . . And dazed and alone in a dream I stand, Kissing this ghost of your beautiful hand.
 
  When first I loved, in the long ago,
  And held your hand as I told you so--
@@ -3148,9 +2864,9 @@ BEAUTIFUL HANDS
  My heart were soothed, and my weary brain
  Would lull itself into rest again;
  For there is no solace the world commands
- Like the caress of your beautiful hands.
+Like the caress of your beautiful hands.
 
-     .    .    .    .    .    .    .    .
+.    .    .    .    .    .    .    .
 
 
 Violently winking at the mist that blurs my sight,
@@ -3179,7 +2895,6 @@ BOB married her.  Been in California for more
 than fifteen years--on some blasted cattle-ranch, or
 something,--and he's worth a half a million!  And
 am I less prosperous with this gilded roll?
-
 
 
 A WILD IRISHMAN
@@ -3240,10 +2955,7 @@ dipped and trailed his pencil through the ivory black
 upon a bit of broken glass and said, in his deliberate,
 half absent-minded way,--"Is it Tommy you're telling
 him about?" and then, with a gradual broadening
-of the smile, he went on, "Well, I should say so.
-Tommy!  What's come of the fellow, anyway?  I
-haven't seen him since his last bout with the mayor,
-on his trial for shakin' up that fast-horse man."
+of the smile, he went on, "Well, I should say so. Tommy!  What's come of the fellow, anyway?  I haven't seen him since his last bout with the mayor, on his trial for shakin' up that fast-horse man."
 
 "The fast-horse man got just exactly what he
 needed, too," said the genial Major, laughing, and
@@ -3254,11 +2966,9 @@ you know, and wound up by an insult that no Irishman
 would take; and Tommy just naturally wore
 out the hall carpet of the old hotel with him!"
 
-"And then collared and led him to the mayor's
-office himself, they say!"
+"And then collared and led him to the mayor's office himself, they say!"
 
-"Oh, he did!" said the Major, with a dash of
-pride in the confirmation; "that's Tommy all over!"
+"Oh, he did!" said the Major, with a dash of pride in the confirmation; "that's Tommy all over!"
 
 "Funny trial, wasn't it?" continued the ruminating
 Stockford.
@@ -3269,9 +2979,7 @@ of course, and on examination testified that the
 horseman struck Tommy first.  And here Tommy
 broke in with:  'He's a-meanin' well, yer Honor, but
 he's lyin' to ye--he's lyin' to ye.  No livin' man iver
-struck me first--nor last, nayther, for the matter o'
-that!'  And I thought--the--court--would--die!"
-continued the Major, in a like imminent state of
+struck me first--nor last, nayther, for the matter o' that!'  And I thought--the--court--would--die!" continued the Major, in a like imminent state of
 merriment.
 
 "Yes, and he said if he struck him first,"
@@ -3286,25 +2994,18 @@ you say you're not going along with our duck-shooting
 party this time?  The old Kankakee is just lousy
 with 'em this season!"
 
-"Can't go possibly," said Stockford, "not on
-account of the work at all, but the folks ain't just
-as well as I'd like to see them, and I'll stay here till
-they're better.  Next time I'll try and be ready for
-you.  Going to take Tommy, of course?"
+"Can't go possibly," said Stockford, "not on account of the work at all, but the folks ain't just as well as I'd like to see them, and I'll stay here till they're better.  Next time I'll try and be ready for you.  Going to take Tommy, of course?"
 
 "Of course!  Got to have 'The Wild Irishman'
 with us!  I'm going around to find him now."  Then
 turning to me the Major continued, "Suppose you
 get on your coat and hat and come along?  It's the
 best chance you'll ever have to meet Tommy.  It's
-late anyhow, and Stockford'll get along without you.
-Come on."
+late anyhow, and Stockford'll get along without you. Come on."
 
-"Certainly," said Stockford; "go ahead.  And you
-can take him ducking, too, if he wants to go."
+"Certainly," said Stockford; "go ahead.  And you can take him ducking, too, if he wants to go."
 
-"But he doesn't want to go--and won't go,"
-replied the Major with a commiserative glance at me.
+"But he doesn't want to go--and won't go," replied the Major with a commiserative glance at me.
 "Says he doesn't know a duck from a poll-parrot--
 nor how to load a shotgun--and couldn't hit a house
 if he were inside of it and the door shut.  Admits
@@ -3312,8 +3013,7 @@ that he nearly killed his uncle once, on the other side
 of a tree, with a squirrel runnin' down it.  Don't
 want him along!"
 
-When I reached the street with the genial Major,
-he gave me this advice:  "Now, when you meet Tommy, you mustn't
+When I reached the street with the genial Major, he gave me this advice:  "Now, when you meet Tommy, you mustn't
 take all he says for dead earnest,
 and you mustn't believe, because he talks loud, and
 in italics every other word, that he wants to do all
@@ -3326,9 +3026,7 @@ of your own ideas and beliefs, he'll like you all
 the better for standing by them.  He's quick-tempered,
 and perhaps a trifle sensitive, so share your
 greater patience with him, and he'll pay you back by
-fighting for you at the drop of the hat.  In short, he's
-as nearly typical of his gallant country's brave,
-impetuous, fun-loving race as one man can be."
+fighting for you at the drop of the hat.  In short, he's as nearly typical of his gallant country's brave, impetuous, fun-loving race as one man can be."
 
 "But is he quarrelsome?" I asked.
 
@@ -3349,12 +3047,7 @@ there, you 'Fardown' Irish Mick!" called the Major,
 in affected antipathy, "been out raiding the honest
 farmers' hen-roosts again, have you?"
 
-We had halted at a corner grocery and produce
-store, as I took it, and the smooth-faced, shaven-
-headed man in woolen shirt, short vest, and suspenderless
-trousers so boisterously addressed by the
-Major, was just lifting from the back of his cart
-a coop of cackling chickens.
+We had halted at a corner grocery and produce store, as I took it, and the smooth-faced, shaven- headed man in woolen shirt, short vest, and suspenderless trousers so boisterously addressed by the Major, was just lifting from the back of his cart a coop of cackling chickens.
 
 "Arrah! ye blasted Kerryonian!" replied the
 handsome fellow, depositing the coop on the curb
@@ -3388,10 +3081,9 @@ a very jolly party in a snug back room, with
 
  "The chamber walls depicted all around
  With portraitures of huntsman, hawk, and hound,
- And the hurt deer;"
+And the hurt deer;"
 
-and where, as well, drifted over the olfactory
-intelligence a certain subtle, warm-breathed aroma, that
+and where, as well, drifted over the olfactory intelligence a certain subtle, warm-breathed aroma, that
 genially combated the chill and darkness of the day
 without, and, resurrecting long-dead Christmases,
 brimmed the grateful memory with all comfortable
@@ -3451,9 +3143,7 @@ hunters of the Kankakee', for one of Tommy's
 improvisations.  I move we have a song now from
 Tommy on 'The Duck Hunters of the Kankakee.' "
 
-"Hurrah!  Hurrah!  A song from Tommy," cried
-the crowd.  "Make us up a song, and put us all into
-it!  A song from Tommy!  A song!  A song!"
+"Hurrah!  Hurrah!  A song from Tommy," cried the crowd.  "Make us up a song, and put us all into it!  A song from Tommy!  A song!  A song!"
 
 There was a queer light in the eye of the
 Irishman.  I observed him narrowly--expectantly.  Often
@@ -3468,8 +3158,7 @@ instant inspiration of his witty verses.  Here was
 evidently to be a test example, and I was all alert
 to mark its minutest detail.
 
-The clamor had subsided, and Tommy had drawn
-a chair near to and directly fronting the Major's.
+The clamor had subsided, and Tommy had drawn a chair near to and directly fronting the Major's.
 His right hand was extended, closely grasping the
 right hand of his friend which he scarce perceptibly,
 though measuredly, lifted and let fall throughout the
@@ -3494,7 +3183,7 @@ literally, as here subjoined:
  " 'Twas in South Bend, that famous town,
  Whilst I were a-strollin' round and round,
  I met some friends and they says to me:
- 'It's a hunt we'll take on the Kankakee!' "
+'It's a hunt we'll take on the Kankakee!' "
 
 
 "Hurrah for the Kankakee!  Give it to us,
@@ -3505,7 +3194,7 @@ went on:
  "There's Major Blowney leads the van,
  As crack a shot as an Irishman,--
  For it's the duck is a tin decoy
- That his owld shotgun can't destroy:"
+That his owld shotgun can't destroy:"
 
 
 And a half-dozen jubilant palms patted the
@@ -3517,7 +3206,7 @@ song continued:--
  "And along wid 'Hank' is Mick Maharr,
  And Barney Pince, at 'The Shamrock' bar--
  There's Barney Pinch, wid his heart so true;
- And the Andrews Brothers they'll go too."
+And the Andrews Brothers they'll go too."
 
 
 "Hold on, Tommy!" chipped in one of the
@@ -3531,7 +3220,7 @@ in an undertone.  And Tommy promptly amended.--
  "O, the Andrews Brothers, they'll be there,
  Wid good se-gyars and wine to sphare,--
  They'll treat us here on fine champagne,
- And whin we're there they'll treat us again."
+And whin we're there they'll treat us again."
 
 
 The applause here was vociferous, and only
@@ -3548,14 +3237,10 @@ to its latest line.
  "But R-R-Riley he'll not go, I guess,
  Lest he'd get lost in the wil-der-ness,
  And so in the city he will shtop
- For to curl his hair in the barber shop."
+For to curl his hair in the barber shop."
 
 
-It was after six when I reached the hotel, but I
-had my hair trimmed before I went in to supper.
-The style of trimming adopted then I still rigidly
-adhere to, and call it "the Tommy Stafford stubble-
-crop."
+It was after six when I reached the hotel, but I had my hair trimmed before I went in to supper. The style of trimming adopted then I still rigidly adhere to, and call it "the Tommy Stafford stubble- crop."
 
 Ten days passed before I again saw the Major.
 Immediately upon his return--it was late afternoon
@@ -3576,10 +3261,7 @@ divined my interest in Tommy, but I know he did;
 for at last, as though reading my very thoughts, he
 abruptly said, after a long pause, in which he
 knocked the ashes from his pipe and refilled and
-lighted it:--"Well, all I know of 'The Wild Irishman'
-I can tell you in a very few words--that is,
-if you care at all to listen?"  And the crafty old
-Major seemed to hesitate.
+lighted it:--"Well, all I know of 'The Wild Irishman' I can tell you in a very few words--that is, if you care at all to listen?"  And the crafty old Major seemed to hesitate.
 
 "Go on--go on!" I said eagerly.
 
@@ -3599,11 +3281,7 @@ The Major smiled profoundly and continued:--
 "Fifteen years ago, when he came to America--
 and the Lord only knows how he got the passage--
 money--he brought his widowed mother with him
-here, and has supported, and is still supporting her.
-Besides," went on the still secretly smiling Major,
-"the fellow has actually found time, through all his
-adversities, to pick up quite a smattering of education,
-here and there--"
+here, and has supported, and is still supporting her. Besides," went on the still secretly smiling Major, "the fellow has actually found time, through all his adversities, to pick up quite a smattering of education, here and there--"
 
 "Poor fellow!" I broke in sympathizingly, "what
 a pity it is that he couldn't have had such advantages
@@ -3621,8 +3299,7 @@ backward in his chair, in an uncontrollable burst of
 laughter.  "Oh, I just can't keep it up any longer,"
 he exclaimed.
 
-"Keep what up?" I queried, in a perfect maze of
-bewilderment and surprise.  "Keep what up?" I
+"Keep what up?" I queried, in a perfect maze of bewilderment and surprise.  "Keep what up?" I
 repeated.
 
 "Why, all this twaddle, farce, travesty and by-
@@ -3736,46 +3413,24 @@ And I read the scrap entitled--
 
 CHAIRLEY BURKE
 
- It's Chairley Burke's in town, b'ys!  He's down til "Jamesy's
-Place,"
- Wid a bran'-new shave upon 'um, an' the fhwhuskers aff his face;
- He's quit the Section-Gang last night, and yez can chalk it down
- There's goin' to be the divil's toime, sence Chairley Burke's in
+It's Chairley Burke's in town, b'ys!  He's down til "Jamesy's Place," Wid a bran'-new shave upon 'um, an' the fhwhuskers aff his face; He's quit the Section-Gang last night, and yez can chalk it down There's goin' to be the divil's toime, sence Chairley Burke's in
 town.
 
- It's treatin' iv'ry b'y he is, an' poundin' on the bar
- Till iv'ry man he's drinkin' wid must shmoke a foine cigar;
- An' Missus Murphy's little Kate, that's coomin' there for beer,
- Can't pay wan cint the bucketful, the whilst that Chairley's
-here!
+It's treatin' iv'ry b'y he is, an' poundin' on the bar Till iv'ry man he's drinkin' wid must shmoke a foine cigar; An' Missus Murphy's little Kate, that's coomin' there for beer, Can't pay wan cint the bucketful, the whilst that Chairley's here!
 
- He's joompin' oor the tops o' sthools, the both forninst an'
-back!
- He'll lave yez pick the blessed flure, an' walk the straightest
-crack!
- He's liftin' barrels wid his teeth, and singin "Garry Owen,"
- Till all the house be strikin' hands, sence Chairley Burke's in
+He's joompin' oor the tops o' sthools, the both forninst an' back! He'll lave yez pick the blessed flure, an' walk the straightest crack! He's liftin' barrels wid his teeth, and singin "Garry Owen," Till all the house be strikin' hands, sence Chairley Burke's in
 town.
 
- The Road-Yaird hands coomes dhroppin' in, an' niver goin' back;
- An' there's two freights upon the switch--the wan on aither
-track--
- An' Mr. Gearry, from The Shops, he's mad enough to swear,
- An' durstn't spake a word but grin, the whilst that Chairley's
-there!
+The Road-Yaird hands coomes dhroppin' in, an' niver goin' back; An' there's two freights upon the switch--the wan on aither track-- An' Mr. Gearry, from The Shops, he's mad enough to swear, An' durstn't spake a word but grin, the whilst that Chairley's there!
 
- Och! Chairley! Chairley! Chairley Burke! ye divil, wid yer ways
- O' dhrivin' all the throubles aff, these dhark an' ghloomy days!
- Ohone! that it's meself, wid all the graifs I have to dhrown,
- Must lave me pick to resht a bit, sence Chairley Burke's in
+Och! Chairley! Chairley! Chairley Burke! ye divil, wid yer ways O' dhrivin' all the throubles aff, these dhark an' ghloomy days! Ohone! that it's meself, wid all the graifs I have to dhrown, Must lave me pick to resht a bit, sence Chairley Burke's in
 town.
 
 
 "Before we turn back, now," said the smiling
 Major, as I stood lingering over the indefinable
 humor of the last refrain, "before we turn back I
-want to show you something eminently characteristic.
-Come this way a half-dozen steps."
+want to show you something eminently characteristic. Come this way a half-dozen steps."
 
 As he spoke I looked up, first to observe that we
 had paused before a handsome square brick residence,
@@ -3792,8 +3447,7 @@ blue, white and crimson, pink and violet, went
 fading away in perspective as my gaze followed the
 gesture of the Major's.
 
-"Here, come a little farther.  Now do you see
-that man there?"
+"Here, come a little farther.  Now do you see that man there?"
 
 Yes, I could make out a figure in the deepening
 dusk--the figure of a man on the back stoop--a
@@ -3809,25 +3463,20 @@ home? I thought.
 
 "Well, shall we go now?" said the Major.
 
-I turned silently and we retraced our steps.  I
-think neither of us spoke for the distance of a
+I turned silently and we retraced our steps.  I think neither of us spoke for the distance of a
 square.
 
-"Guess you didn't know the man there on the
-back porch?" said the Major.
+"Guess you didn't know the man there on the back porch?" said the Major.
 
 "No; why?" I asked dubiously.
 
-"I hardly thought you would, and besides the
-poor fellow's tired, and it was best not to disturb
-him," said the Major.
+"I hardly thought you would, and besides the poor fellow's tired, and it was best not to disturb him," said the Major.
 
 "Why; who was it--some one I know?"
 
 "It was Tommy."
 
-"Oh," said I inquiringly, "he's employed there in
-some capacity?"
+"Oh," said I inquiringly, "he's employed there in some capacity?"
 
 "Yes, as master of the house."
 
@@ -3847,8 +3496,6 @@ father's father.  In brief, he sits there the poor
 lorn symbol of the long oppression of his race."
 
 
-
-
 MRS. MILLER
 
 JOHN B. McKINNEY, Attorney and Counselor
@@ -3860,10 +3507,7 @@ him, "the son of his father," since that sound old
 gentleman was the wealthiest farmer in that section;
 with but one son and heir to supplant him, in
 time, in the role of "county god," and haply
-perpetuate the prouder title of "the biggest taxpayer on
-the assessment list."  And this fact, too, fortunate
-as it would seem, was doubtless the indirect occasion
-of a liberal percentage of all John's misfortunes.
+perpetuate the prouder title of "the biggest taxpayer on the assessment list."  And this fact, too, fortunate as it would seem, was doubtless the indirect occasion of a liberal percentage of all John's misfortunes.
 From his earliest school-days in the little
 town, up to his tardy graduation from a distant
 college, the influence of his father's wealth invited
@@ -3915,8 +3559,7 @@ adventure it was that, in the seclusion of John's
 room, Bert had something of especial import to
 communicate.
 
-"Mack," he said, as that worthy anathematized
-a spiteful match, and then sucked his finger.
+"Mack," he said, as that worthy anathematized a spiteful match, and then sucked his finger.
 
 "Blast the all-fired old torch!" said John, wrestling
 with the lamp-flue, and turning on a welcome flame
@@ -3927,9 +3570,7 @@ boarder in the house with that guitar, and you want
 to make amends now by letting them go to sleep
 again!"
 
-"But my dear fellow," said Bert with forced
-calmness, "you're the fellow that's making all the
-noise--and--"
+"But my dear fellow," said Bert with forced calmness, "you're the fellow that's making all the noise--and--"
 
 "Why, you howling dervish!" interrupted John,
 with a feigned air of pleased surprise and
@@ -3993,9 +3634,7 @@ how he feels--
      Be clad in sunshine o'er and o'er.--"
 
 
-"Oh, here!" exclaimed the wretched Bert, jumping
-to his feet; "let up on that dismal recitative.  It
-would make a dog howl to hear that!"
+"Oh, here!" exclaimed the wretched Bert, jumping to his feet; "let up on that dismal recitative.  It would make a dog howl to hear that!"
 
 "Then you 'let up' on that suicidal talk of
 marrying," replied John, "and all that harangue of
@@ -4013,11 +3652,9 @@ you to blight every prospect in your life by marrying
 at your age--especially a woman--I mean the
 kind of woman you'd be sure to fancy at your age."
 
-"Didn't I say 'a good sensible girl' was the kind
-I had selected?" Bert remonstrated.
+"Didn't I say 'a good sensible girl' was the kind I had selected?" Bert remonstrated.
 
-"Oh!" exclaimed John, "you've selected her,
-then?--and without one word to me!" he ended,
+"Oh!" exclaimed John, "you've selected her, then?--and without one word to me!" he ended,
 rebukingly.
 
 "Well, hang it all!" said Bert impatiently; "I
@@ -4054,28 +3691,18 @@ the victim of his wrathful irony having evidently
 risen and fled away while his pitiless tormentor
 slept--"Doubtless to accomplish at once that
 nefarious intent as set forth by his unblushing
-confession of last night," mused the miserable John.
-And he ground his fingers in the corners of his
-swollen eyes, and leered grimly in the glass at the
-feverish orbs, blood-shot, blurred and aching.
+confession of last night," mused the miserable John. And he ground his fingers in the corners of his swollen eyes, and leered grimly in the glass at the feverish orbs, blood-shot, blurred and aching.
 
-The pounding on the door continued.  John
-looked at his watch; it was only eight o'clock.
+The pounding on the door continued.  John looked at his watch; it was only eight o'clock.
 
 "Hi, there!" he called viciously.  "What do you
 mean, anyhow?" he went on, elevating his voice
 again; "shaking a man out of bed when he's just
 dropping into his first sleep?"
 
-"I mean that you're going to get up; that's what!"
-replied a firm female voice.  "It's eight o'clock, and I
-want to put your room in order; and I'm not going
-to wait all day about it, either!  Get up and go
-down to your breakfast, and let me have the room!"
-And the clamor at the door was industriously renewed.
+"I mean that you're going to get up; that's what!" replied a firm female voice.  "It's eight o'clock, and I want to put your room in order; and I'm not going to wait all day about it, either!  Get up and go down to your breakfast, and let me have the room!" And the clamor at the door was industriously renewed.
 
-"Say!" called John querulously, hurrying on his
-clothes, "Say, you!"
+"Say!" called John querulously, hurrying on his clothes, "Say, you!"
 
 "There's no 'say' about it!" responded the
 determined voice:  "I've heard about you and your
@@ -4118,43 +3745,26 @@ heard a stiff rustling of starched muslin flouncing
 past the door, and the quick italicized patter of
 determined gaiters down the hall.
 
-"Look here," said John to the bright-faced boy
-in the hotel office, a half hour later.  "It seems the
-house here's been changing hands again."
+"Look here," said John to the bright-faced boy in the hotel office, a half hour later.  "It seems the house here's been changing hands again."
 
-"Yes, sir," said the boy, closing the cigar case,
-and handing him a lighted match.  "Well, the new
-landlord, whoever he is," continued John, patronizingly,
-"is a good one.  Leastwise, he knows what's
-good to eat, and how to serve it."
+"Yes, sir," said the boy, closing the cigar case, and handing him a lighted match.  "Well, the new landlord, whoever he is," continued John, patronizingly, "is a good one.  Leastwise, he knows what's good to eat, and how to serve it."
 
-The boy laughed timidly,--"It ain't a 'landlord,'
-though--it's a landlady; it's my mother."
+The boy laughed timidly,--"It ain't a 'landlord,' though--it's a landlady; it's my mother."
 
-"Ah," said John, dallying with the change the
-boy had pushed toward him.  "Your mother, eh?
-And where's your father?"
+"Ah," said John, dallying with the change the boy had pushed toward him.  "Your mother, eh? And where's your father?"
 
 "He's dead," said the boy.
 
-"And what's this for?" abruptly asked John,
-examining his change.
+"And what's this for?" abruptly asked John, examining his change.
 
-"That's your change," said the boy:  "You got
-three for a quarter, and gave me a half."
+"That's your change," said the boy:  "You got three for a quarter, and gave me a half."
 
-"Well, YOU just keep it," said John, sliding back
-the change.  "It's for good luck, you know, my boy.
-Same as drinking your long life and prosperity.
-And, oh yes, by the way, you may tell your mother
-I'll have a friend to dinner with me to-day."
+"Well, YOU just keep it," said John, sliding back the change.  "It's for good luck, you know, my boy. Same as drinking your long life and prosperity. And, oh yes, by the way, you may tell your mother I'll have a friend to dinner with me to-day."
 
 "Yes, sir, and thank you, sir," said the beaming
 boy.
 
-"Handsome boy!" mused John, as he walked
-down street.  "Takes that from his father, though,
-I'll wager my existence!"
+"Handsome boy!" mused John, as he walked down street.  "Takes that from his father, though, I'll wager my existence!"
 
 Upon his office desk John found a hastily written
 note.  It was addressed in the well-known hand of
@@ -4188,14 +3798,9 @@ down as easy as you can.  Affectionately,
                                    "BERT."
 
 
-"Heavens!" exclaimed John, stifling the note in
-his hand and stalking tragically around the room.
-"Can it be possible that I have nursed a frozen
-viper?  An ingrate?  A wolf in sheep's clothing?
-An orang-outang in gent's furnishings?"
+"Heavens!" exclaimed John, stifling the note in his hand and stalking tragically around the room. "Can it be possible that I have nursed a frozen viper?  An ingrate?  A wolf in sheep's clothing? An orang-outang in gent's furnishings?"
 
-"Was you calling me, sir?" asked a voice at the
-door.  It was the janitor.
+"Was you calling me, sir?" asked a voice at the door.  It was the janitor.
 
 "No!" thundered John; "Quit my sight! get out
 of my way!  No, no, Thompson, I don't mean
@@ -4220,13 +3825,11 @@ looked him squarely in the face--occasioning him
 the dubious impression of either needing shaving
 very badly, or having egg-stains on his chin.
 
-"You're the gentleman in Number II, I believe?
-Why, Mr. McKinney, are you ill?"
+"You're the gentleman in Number II, I believe? Why, Mr. McKinney, are you ill?"
 
 He nodded confusedly.
 
-"Mr. McKinney is your name, I think," she
-queried, with a pretty elevation of the eyebrows.
+"Mr. McKinney is your name, I think," she queried, with a pretty elevation of the eyebrows.
 
 "Yes, ma'am," said John rather abjectly.  "You
 see, ma'am--But I beg pardon," he went on
@@ -4247,8 +3850,7 @@ you, Mrs.--Mrs.--"
 "Mrs. Miller," smilingly prompted the little
 woman.
 
-"Yes, ah, yes,--Mrs. Miller.  Lovely morning,
-Mrs. Miller," said John, edging past her and backing
+"Yes, ah, yes,--Mrs. Miller.  Lovely morning, Mrs. Miller," said John, edging past her and backing
 toward his room.
 
 But as Mrs. Miller was laughing outright, for
@@ -4278,16 +3880,12 @@ P., C. & St. L., a hundred miles away.  The thought
 was maddening.  Of course, now, the landlady
 would have material for a new assault.  And how
 could he avert it?  A despairing film blurred his
-sight for the moment--then the eyes flashed daringly.
-"I will meet it like a man!" he said, mentally--
-"yea, like a State's Attorney,--I will invite
-it!  Let her do her worst!"
+sight for the moment--then the eyes flashed daringly. "I will meet it like a man!" he said, mentally-- "yea, like a State's Attorney,--I will invite it!  Let her do her worst!"
 
 He called a servant, giving some message in an
 undertone.
 
-"Yes, sir," said the agreeable servant, "I'll go
-right away, sir," and left the room.
+"Yes, sir," said the agreeable servant, "I'll go right away, sir," and left the room.
 
 Five minutes elapsed, and then a voice at his
 shoulder startled him:
@@ -4311,8 +3909,7 @@ enumerate them.  First--I want you to forgive and
 forget that ill-natured, uncalled-for grumbling of
 mine this morning when you awakened me."
 
-"Why, certainly," said the landlady, again smiling,
-though quite seriously.
+"Why, certainly," said the landlady, again smiling, though quite seriously.
 
 "I thank you," said John with dignity.  "And,
 second," he continued--"I want your assurance that
@@ -4350,37 +3947,25 @@ face of his questioner, and said,--"Oh, yes!  Yes,
 indeed!  He's unmarried.--Old bachelor like myself,
 you know.  Ha!  Ha!"
 
-"So he's not like the young man here that
-distinguished himself last night?" said the little woman
+"So he's not like the young man here that distinguished himself last night?" said the little woman
 archly.
 
-The fork in John's hand, half-lifted to his lips,
-faltered and fell back toward his plate.
+The fork in John's hand, half-lifted to his lips, faltered and fell back toward his plate.
 
-"Why, what's that?" said John in a strange
-voice; "I hadn't heard anything about it--I mean
-I haven't heard anything about any young man.
-What was it?"
+"Why, what's that?" said John in a strange voice; "I hadn't heard anything about it--I mean I haven't heard anything about any young man. What was it?"
 
-"Haven't heard anything about the elopement?"
-exclaimed the little woman in astonishment.--
-"Why it's been the talk of the town all morning.
+"Haven't heard anything about the elopement?" exclaimed the little woman in astonishment.-- "Why it's been the talk of the town all morning.
 Elopement in high life--son of a grain-dealer, name
 of Hines, or Himes, or something, and a preacher's
 daughter--Josie somebody--didn't catch her last
 name.  Wonder if you don't know the parties--
 Why, Mr. McKinney, are you ill?"
 
-"Oh, no--not at all!" said John:  "Don't mention
-it.  Ha--ha!  Just eating too rapidly, that's all.
-Go on with--you were saying that Bert and Josie
-had really eloped."
+"Oh, no--not at all!" said John:  "Don't mention it.  Ha--ha!  Just eating too rapidly, that's all. Go on with--you were saying that Bert and Josie had really eloped."
 
 "What 'Bert'?" asked the little woman quickly.
 
-"Why, did I say Bert?" said John, with a guilty
-look.  "I meant Haines, of course, you know--
-Haines and Josie.--And did they really elope?"
+"Why, did I say Bert?" said John, with a guilty look.  "I meant Haines, of course, you know-- Haines and Josie.--And did they really elope?"
 
 "That's the report," answered the little woman,
 as though deliberating some important evidence;
@@ -4392,9 +3977,7 @@ you ARE ill, surely?"
 
 John's face was as ashen.
 
-"No--no!" he gasped painfully:  "Go on--go
-on!  Tell me more about the--the--the old fellow
---the old reprobate!  And is he still at large?"
+"No--no!" he gasped painfully:  "Go on--go on!  Tell me more about the--the--the old fellow --the old reprobate!  And is he still at large?"
 
 "Yes," said the little woman, anxiously regarding
 the strange demeanor of her companion.  "They
@@ -4425,9 +4008,7 @@ curious things, and laughed hysterically, and serenaded
 mermaids that dwelt in grassy seas of dew,
 and were bald-headed like himself.  He played
 upon a fourteen-jointed flute of solid gold, with
-diamond holes, and keys carved out of thawless ice.
-His old father came at first to take him home; but
-he could not be moved, the doctor said.
+diamond holes, and keys carved out of thawless ice. His old father came at first to take him home; but he could not be moved, the doctor said.
 
 Two weeks of John's illness had worn away,
 when a very serious-looking young man, in a traveling
@@ -4440,12 +4021,7 @@ recognized his old chum at a glance, and Josie--
 now Bert's wife.  Yes, he comprehended that.  He
 was holding a hand of each when another figure
 entered.  His thin white fingers loosened their clasp,
-and he held a hand toward the newcomer.  "Here,"
-he said, "is my best friend in the world--Bert, you
-and Josie will love her, I know; for this is Mrs.--
-Mrs."--"Mrs. Miller," said the radiant little woman.
---"Yes,--Mrs. Miller," said John, very proudly.
-
+and he held a hand toward the newcomer.  "Here," he said, "is my best friend in the world--Bert, you and Josie will love her, I know; for this is Mrs.-- Mrs."--"Mrs. Miller," said the radiant little woman. --"Yes,--Mrs. Miller," said John, very proudly.
 
 
 AT ZEKESBURY
@@ -4490,10 +4066,7 @@ kicking the one down-stairs and thenceward ad
 libitum; the tramp, suppositiously stealing a ride,
 found dead on the railroad; the grand jury returning
 a sensational indictment against a bar-tender
-non est; the Temperance outbreak; the "Revival;"
-the Church Festival; and the "Free Lectures on
-Phrenology, and Marvels of Mesmerism," at the
-town hall.  It was during the time of the last-mentioned
+non est; the Temperance outbreak; the "Revival;" the Church Festival; and the "Free Lectures on Phrenology, and Marvels of Mesmerism," at the town hall.  It was during the time of the last-mentioned
 sensation, and directly through this scientific
 investigation, that I came upon two of the
 town's most remarkable characters.  And however
@@ -4533,8 +4106,8 @@ thus:
  And SPILE it all, right at the start!
  Feller wants to jest go slow
  And do his THINKIN' first, you know,
- 'F I CAST'T THINK UP SOMEPIN' GOOD,
- I SET STILL AND CHAW MY COOD!
+'F I CAST'T THINK UP SOMEPIN' GOOD,
+I SET STILL AND CHAW MY COOD!
 
 
 And it was at this inviting rendezvous, two or
@@ -4665,9 +4238,7 @@ a high order of both prose and poetry--especially
 the latter--though he could very illy bear being
 laughed at for his pains."
 
-"He's dead wrong there," said my friend;
-"Hedrick enjoys being laughed at; he's used to it--gets
-fat on it!"
+"He's dead wrong there," said my friend; "Hedrick enjoys being laughed at; he's used to it--gets fat on it!"
 
 "Is fond of his friends," continued the Professor,
 "and the heartier they are the better; might even
@@ -4676,9 +4247,7 @@ be convivially inclined--if so tempted--but prudent
 as though unable to find the exact bump with which
 to bolster up the last named attribute.
 
-The subject blushed vividly--my friend's right
-eyelid dropped, and there was a noticeable, though
-elusive sensation throughout the audience.
+The subject blushed vividly--my friend's right eyelid dropped, and there was a noticeable, though elusive sensation throughout the audience.
 
 "BUT!" said the Professor explosively, "selecting
 a directly opposite subject, in conjunction with the
@@ -4688,12 +4257,9 @@ a newer interest in the practical comparison of these
 subjects side by side."  And the Professor pushed
 a very pale young man into position.
 
-"Sweeney!" whispered my friend delightedly;
-"now look out!"
+"Sweeney!" whispered my friend delightedly; "now look out!"
 
-"In THIS subject," said the Professor, "we find
-the practical business head.  Square--though small
---a trifle light at the base, in fact; but well balanced
+"In THIS subject," said the Professor, "we find the practical business head.  Square--though small --a trifle light at the base, in fact; but well balanced
 at the important points at least; thoughtful
 eye--wide-awake--crafty--quick--restless--a policy
 eye, though not denoting language--unless, perhaps,
@@ -4763,7 +4329,7 @@ seemed, and the eyes a denser black, he said:
  O'er happy lands, where sunshine lay
  In golden blots,
  Inlaid with spots
- Of shade and wild forget-me-nots."
+Of shade and wild forget-me-nots."
 
 
 The voice was low, but clear, and even musical.
@@ -4774,8 +4340,7 @@ to continue, with some gasping comment interjected,
 which, if audible, would have run thus:
 "My God! It's an inspirational poem!"
 
- "My head was fair
- With flaxen hair--"
+"My head was fair With flaxen hair--"
 
 resumed the subject.
 
@@ -4792,7 +4357,7 @@ on!--'Thy head was fair with flaxen hair----' "
  And fragrant breezes, faint and rare,
  And, warm with drouth
  From out the south,
- Blew all my curls across my mouth."
+Blew all my curls across my mouth."
 
 
 The speaker's voice, exquisitely modulated, yet
@@ -4808,7 +4373,7 @@ utterance:--
  Found dewy pathways through the wheat;
  And out again
  Where, down the lane,
- The dust was dimpled with the rain."
+The dust was dimpled with the rain."
 
 
 In the pause following there was a breathlessness
@@ -4833,17 +4398,16 @@ almost painful.  The poem went on:
  Of that lost land of reedy streams,
  Along whose brim
  Forever swim
- Pan's lilies, laughing up at him."
+Pan's lilies, laughing up at him."
 
 And still the inspired singer held rapt sway.
 
 
 "It is wonderful!" I whispered, under breath.
 
-"Of course it is!" answered my friend.  "But
-listen; there is more:"
+"Of course it is!" answered my friend.  "But listen; there is more:"
 
- "But yesterday! . . . .
+"But yesterday! . . . .
  O blooms of May,
  And summer roses-where away?
  O stars above;
@@ -4891,10 +4455,7 @@ then endeavoring to make himself heard, but
 could not until utter quiet was restored, adding
 the further appeal that the young man had already
 been a long time under the mesmeric spell, and
-ought not be so detained for an unnecessary period.
-"See," he concluded, with an assuring wave of the
-hand toward the subject, "see; he is about to address
-you.  Now, quiet!--utter quiet, if you please!"
+ought not be so detained for an unnecessary period. "See," he concluded, with an assuring wave of the hand toward the subject, "see; he is about to address you.  Now, quiet!--utter quiet, if you please!"
 
 "Great heavens!" exclaimed my friend stiflingly;
 "just look at the boy!  Get on to that position for a
@@ -4920,9 +4481,7 @@ unconscious altogether of the pathos of its own deformity.
 "Now, mark the cuss, Horatio!" gasped my
 friend.
 
-At first the speaker's voice came very low, and
-somewhat piping, too, and broken--an eery sort of
-voice it was, of brittle and erratic timbre and undulant
+At first the speaker's voice came very low, and somewhat piping, too, and broken--an eery sort of voice it was, of brittle and erratic timbre and undulant
 inflection.  Yet it was beautiful.  It had the
 ring of childhood in it, though the ring was not pure
 golden, and at times fell echoless.  The SPIRIT of its
@@ -4933,35 +4492,16 @@ prayer.  Half garrulously, and like a shallow brook
 might brawl across a shelvy bottom, the rhythmic
 little changeling thus began:--
 
- "I'm thist a little crippled boy, an' never goin' to grow
- An' git a great big man at all!--'cause Aunty told me so.
- When I was thist a baby onc't I falled out of the bed
- An' got 'The Curv'ture of the Spine'--'at's what the Doctor
-said.
- I never had no Mother nen--fer my Pa runned away
- An' dassn't come back here no more--'cause he was drunk one day
- An' stobbed a man in thish-ere town, an' couldn't pay his fine!
- An' nen my Ma she died--an' I got 'Curv'ture of the Spine'!"
+"I'm thist a little crippled boy, an' never goin' to grow An' git a great big man at all!--'cause Aunty told me so. When I was thist a baby onc't I falled out of the bed An' got 'The Curv'ture of the Spine'--'at's what the Doctor
+said. I never had no Mother nen--fer my Pa runned away An' dassn't come back here no more--'cause he was drunk one day An' stobbed a man in thish-ere town, an' couldn't pay his fine! An' nen my Ma she died--an' I got 'Curv'ture of the Spine'!"
 
 
-A few titterings from the younger people in the
-audience marked the opening stanza, while a certain
-restlessness, and a changing to more attentive positions
+A few titterings from the younger people in the audience marked the opening stanza, while a certain restlessness, and a changing to more attentive positions
 seemed the general tendency.  The old Professor,
 in the meantime, had sunk into one of the
 empty chairs.  The speaker went on with more gaiety:--
 
- "I'm nine years old!  An' you can't guess how much I weigh, I
-bet!--
- Last birthday I weighed thirty-three!--An' I weigh thirty yet!
- I'm awful little fer my size--I'm purt' nigh littler 'an
- Some babies is!--an' neighbers all calls me 'The Little Man'!
- An' Doc one time he laughed an' said:  'I 'spect, first think
-you know,
- You'll have a little spike-tail coat an' travel with a show!'
- An' nen I laughed-till I looked round an' Aunty was a-cryin'--
- Sometimes she acts like that, 'cause I got 'Curv'ture of the
-Spine'!"
+"I'm nine years old!  An' you can't guess how much I weigh, I bet!-- Last birthday I weighed thirty-three!--An' I weigh thirty yet! I'm awful little fer my size--I'm purt' nigh littler 'an Some babies is!--an' neighbers all calls me 'The Little Man'! An' Doc one time he laughed an' said:  'I 'spect, first think you know, You'll have a little spike-tail coat an' travel with a show!' An' nen I laughed-till I looked round an' Aunty was a-cryin'-- Sometimes she acts like that, 'cause I got 'Curv'ture of the Spine'!"
 
 
 Just in front of me a great broad-shouldered
@@ -4973,23 +4513,10 @@ they tightly clutched the seat before him.  And it
 was like being taken into a childish confidence as the
 quaint speech continued:--
 
- "I set--while Aunty's washin'--on my little long-leg stool,
- An' watch the little boys an' girls a-skippin' by to school;
- An' I peck on the winder, an' holler out an' say:
- 'Who wants to fight The Little Man at dares you all to-day?'
- An' nen the boys climbs on the fence, an' little girls peeks
-through,
- An' they all says:  'Cause you're so big, you think we're 'feard
-o' you!'
- An' nen they yell, an' shake their fist at me, like I shake
-mine--
- They're thist in fun, you know, 'cause I got 'Curv'ture of the
-Spine'!"
+"I set--while Aunty's washin'--on my little long-leg stool, An' watch the little boys an' girls a-skippin' by to school; An' I peck on the winder, an' holler out an' say: 'Who wants to fight The Little Man at dares you all to-day?' An' nen the boys climbs on the fence, an' little girls peeks through, An' they all says:  'Cause you're so big, you think we're 'feard o' you!' An' nen they yell, an' shake their fist at me, like I shake mine-- They're thist in fun, you know, 'cause I got 'Curv'ture of the Spine'!"
 
 
-"Well," whispered my friend, with rather odd
-irrelevance, I thought, "of course you see through
-the scheme of the fellows by this time, don't you?"
+"Well," whispered my friend, with rather odd irrelevance, I thought, "of course you see through the scheme of the fellows by this time, don't you?"
 
 "I see nothing," said I, most earnestly, "but a
 poor little wisp of a child that makes me love him
@@ -4997,42 +4524,19 @@ so I dare not think of his dying soon, as he surely
 must!  There; listen!"  And the plaintive gaiety
 of the homely poem ran on:--
 
- "At evening, when the ironin' 's done, an' Aunty's fixed the
-fire,
- An' filled an' lit the lamp, an' trimmed the wick an' turned it
-higher,
- An' fetched the wood all in fer night, an' locked the kitchen
-door,
- An' stuffed the ole crack where the wind blows in up through the
-floor--
- She sets the kittle on the coals, an' biles an' makes the tea,
- An' fries the liver an' the mush, an' cooks a egg fer me,
- An' sometimes--when I cough so hard--her elderberry wine
- Don't go so bad fer little boys with 'Curv'ture of the Spine'!"
+"At evening, when the ironin' 's done, an' Aunty's fixed the fire, An' filled an' lit the lamp, an' trimmed the wick an' turned it higher, An' fetched the wood all in fer night, an' locked the kitchen door, An' stuffed the ole crack where the wind blows in up through the floor-- She sets the kittle on the coals, an' biles an' makes the tea, An' fries the liver an' the mush, an' cooks a egg fer me, An' sometimes--when I cough so hard--her elderberry wine Don't go so bad fer little boys with 'Curv'ture of the Spine'!"
 
 
-"Look!" whispered my friend, touching me with
-his elbow.  "Look at the Professor!"
+"Look!" whispered my friend, touching me with his elbow.  "Look at the Professor!"
 
 "Look at everybody!" said I.  And the artless
 little voice went on again half quaveringly:--
 
- "But Aunty's all so childish-like on my account, you see
- I'm 'most afeard she'll be took down--an' 'at's what bothers
-ME!--
- 'Cause ef my good ole Aunty ever would git sick an' die,
- I don't know what she'd do in Heaven--till _I_ come, by an' by:--
- Fer she's so ust to all my ways, an' ever'thing, you know,
- An' no one there like me, to nurse an' worry over so!--
- 'Cause all the little childerns there's so straight an' strong
-an' fine,
- They's nary angel 'bout the place with 'Curv'ture of the
-Spine'!"
+"But Aunty's all so childish-like on my account, you see I'm 'most afeard she'll be took down--an' 'at's what bothers
+ME!-- 'Cause ef my good ole Aunty ever would git sick an' die, I don't know what she'd do in Heaven--till _I_ come, by an' by:-- Fer she's so ust to all my ways, an' ever'thing, you know, An' no one there like me, to nurse an' worry over so!-- 'Cause all the little childerns there's so straight an' strong an' fine, They's nary angel 'bout the place with 'Curv'ture of the Spine'!"
 
 
-The old Professor's face was in his handkerchief;
-so was my friend's in his; and so was mine in mine,
-as even now my pen drops and I reach for it again.
+The old Professor's face was in his handkerchief; so was my friend's in his; and so was mine in mine, as even now my pen drops and I reach for it again.
 I half regret joining the mad party that had gathered
 an hour later in the old law office where these
 two graceless characters held almost nightly revel,
@@ -5045,7 +4549,7 @@ washed down with anything but
      "----Wines that heaven knows when
  Had sucked the fire of some forgotten sun,
  And kept it through a hundred years of gloom
- Still glowing in a heart of ruby."
+Still glowing in a heart of ruby."
 
 
 But the affair was memorable.  The old Professor
@@ -5061,7 +4565,6 @@ same breath with HIMSELF--"the gifted but unfortunate
 SWEENEY, sir--the unacknowledged author,
 sir 'y gad, sir!--of the two poems that held you
 spellbound to-night!"
-
 
 
 A CALLER FROM BOONE
@@ -5138,17 +4641,14 @@ and was on the point of rising and rushing out into
 the streets for a wild walk, when there came a
 hesitating knock at the door.
 
-"Come in!" I snarled, grabbing up my pencil and
-assuming a frightfully industrious air:  "Come in!"
+"Come in!" I snarled, grabbing up my pencil and assuming a frightfully industrious air:  "Come in!"
 I almost savagely repeated, "Come in!  And shut the
 door behind you!" and I dropped my lids, bent my
 gaze fixedly upon the blank pages before me and
 began scrawling some disconnected nothings with
 no head or tail or anything.
 
-"Sir; howdy," said a low and pleasant voice.  And
-at once, in spite of my perverse resolve, I looked up.
-I someway felt rebuked.
+"Sir; howdy," said a low and pleasant voice.  And at once, in spite of my perverse resolve, I looked up. I someway felt rebuked.
 
 The speaker was very slowly, noiselessly closing
 the door.  I could hardly face him when he turned
@@ -5174,12 +4674,9 @@ rather singular appearance of having hair all over
 him with this luxurious growth pulled out above
 his collar for mere sample.
 
-I arose and asked the old man to sit down, handing
-him a chair decorously.
+I arose and asked the old man to sit down, handing him a chair decorously.
 
-"No--no," he said--"I'm much obleeged.  I hain't
-come in to bother you no more'n I can he'p.  All
-I wanted was to know ef you got my poetry all right.
+"No--no," he said--"I'm much obleeged.  I hain't come in to bother you no more'n I can he'p.  All I wanted was to know ef you got my poetry all right.
 You know I take yer paper," he went on, in an
 explanatory way, "and seein' you printed poetry in it
 once-in-a-while, I sent you some of mine--neighbors
@@ -5193,23 +4690,15 @@ most the things I write, aimin' sometime to git 'em
 all struck off in pamphlet-form, to kindo' distribit
 round 'mongst the neighbors, don't you know."
 
-Already I had begun to suspect my visitor's identity,
-and was mechanically opening the drawer of
-our poetical department.
+Already I had begun to suspect my visitor's identity, and was mechanically opening the drawer of our poetical department.
 
 "How was your poetry signed?" I asked.
 
-"Signed by my own name," he answered proudly,
---"signed by my own name,--Johnson--Benjamin
-F. Johnson, of Boone County--this state."
+"Signed by my own name," he answered proudly, --"signed by my own name,--Johnson--Benjamin F. Johnson, of Boone County--this state."
 
-"And is this one of them, Mr. Johnson?" I asked,
-unfolding a clumsily-folded manuscript, and closely
-scrutinizing the verse.
+"And is this one of them, Mr. Johnson?" I asked, unfolding a clumsily-folded manuscript, and closely scrutinizing the verse.
 
-"How does she read?" said the old man eagerly,
-and searching in the meantime for his spectacles.
-"How does she read?--Then I can tell you!"
+"How does she read?" said the old man eagerly, and searching in the meantime for his spectacles. "How does she read?--Then I can tell you!"
 
 "It reads," said I, studiously conning the old
 man's bold but bad chirography, and tilting my chair
@@ -5233,58 +4722,39 @@ dark!  He'd say it more like this."--
 And the old man adjusted his spectacles and read:--
 
 
-          "THE OLD SWIMMIN'-HOLE"
+"THE OLD SWIMMIN'-HOLE"
 
- "Oh! the old swimmin'-hole! whare the crick so still and deep
- Looked like a baby-river that was laying half asleep,
- And the gurgle of the worter round the drift jest below
- Sounded like the laugh of something we onc't ust to know
+"Oh! the old swimmin'-hole! whare the crick so still and deep Looked like a baby-river that was laying half asleep, And the gurgle of the worter round the drift jest below Sounded like the laugh of something we onc't ust to know
  Before we could remember anything but the eyes
  Of the angels lookin' out as we left Paradise;
  But the merry days of youth is beyond our controle,
- And it's hard to part ferever with the old swimmin'-hole."
+And it's hard to part ferever with the old swimmin'-hole."
 
 
-I clapped my hands in genuine applause.  "Read
-on!" I said,--"Read on!  Read all of it!"
+I clapped my hands in genuine applause.  "Read on!" I said,--"Read on!  Read all of it!"
 
 The old man's face was radiant as he continued:--
 
- "Oh! the old swimmin'-hole!  In the happy days of yore,
+"Oh! the old swimmin'-hole!  In the happy days of yore,
  When I ust to lean above it on the old sickamore,
  Oh! it showed me a face in its warm sunny tide
  That gazed back at me so gay and glorified,
  It made me love myself, as I leaped to caress
- My shadder smilin' up at me with sich tenderness.
- But them days is past and gone, and old Time's tuck his toll
- From the old man come back to the old swimmin'-hole.
+My shadder smilin' up at me with sich tenderness. But them days is past and gone, and old Time's tuck his toll From the old man come back to the old swimmin'-hole.
 
- "Oh! the old swimmin'-hole!  In the long, lazy days
- When the humdrum of school made so many "run-a-ways,"
- How pleasant was the jurney down the old dusty lane,
- Whare the tracks of our bare feet was all printed so plane
- You could tell by the dent of the heel and the sole
- They was lots o' fun on hands at the old swimmin'-hole.
- But the lost joys is past!  Let your tears in sorrow roll
- Like the rain that ust to dapple up the old swimmin'-hole.
+"Oh! the old swimmin'-hole!  In the long, lazy days When the humdrum of school made so many "run-a-ways," How pleasant was the jurney down the old dusty lane, Whare the tracks of our bare feet was all printed so plane You could tell by the dent of the heel and the sole They was lots o' fun on hands at the old swimmin'-hole. But the lost joys is past!  Let your tears in sorrow roll Like the rain that ust to dapple up the old swimmin'-hole.
 
- "Thare the bullrushes growed, and the cattails so tall,
- And the sunshine and shadder fell over it all;
- And it mottled the worter with amber and gold
- Till the glad lilies rocked in the ripples that rolled;
+"Thare the bullrushes growed, and the cattails so tall, And the sunshine and shadder fell over it all; And it mottled the worter with amber and gold Till the glad lilies rocked in the ripples that rolled;
  And the snake-feeder's four gauzy wings fluttered by
  Like the ghost of a daisy dropped out of the sky,
  Or a wownded apple-blossom in the breeze's controle
- As it cut acrost some orchurd to'rds the old swimmin'-hole.
+As it cut acrost some orchurd to'rds the old swimmin'-hole.
 
- "Oh! the old swimmin'-hole!  When I last saw the place,
- The scenes was all changed, like the change in my face;
- The bridge of the railroad now crosses the spot
- Whare the old divin'-log lays sunk and fergot.
+"Oh! the old swimmin'-hole!  When I last saw the place, The scenes was all changed, like the change in my face; The bridge of the railroad now crosses the spot Whare the old divin'-log lays sunk and fergot.
  And I stray down the banks whare the trees ust to be--
  But never again will theyr shade shelter me!
  And I wish in my sorrow I could strip to the soul,
- And dive off in my grave like the old swimmin'-hole."
+And dive off in my grave like the old swimmin'-hole."
 
 
 My applause was long and loud.  The old man's
@@ -5293,9 +4763,7 @@ though I was glad enough to conceal from him my
 moistened eyes by looking through the scraps for
 other specimens of his verse.
 
-"Here," said I enthusiastically, "is another one,
-signed 'Benj. F. Johnson,' read me this," and I
-handed him the poem.
+"Here," said I enthusiastically, "is another one, signed 'Benj. F. Johnson,' read me this," and I handed him the poem.
 
 The old man smiled and took the manuscript.
 "This-here one's on 'The Hoss,' " he said, simply
@@ -5311,10 +4779,8 @@ a-livin' 'at I love better 'an
  And, search the world from west to east,
      No honester you'll ever find!
 
- "Some calls the hoss 'a pore dumb brute,'
-     And yit, like Him who died fer you,
- I say, as I theyr charge refute,
- 'Fergive; they know not what they do!'
+"Some calls the hoss 'a pore dumb brute,'
+And yit, like Him who died fer you, I say, as I theyr charge refute, 'Fergive; they know not what they do!'
 
  "No wiser animal makes tracks
      Upon these earthly shores, and hence
@@ -5353,8 +4819,8 @@ a-livin' 'at I love better 'an
 
  "I claim no hoss will harm a man,
      Ner kick, ner run away, cavort,
- Stump-suck, er balk, er 'catamaran,'
-     Ef you'll jest treat him as you ort.
+Stump-suck, er balk, er 'catamaran,'
+Ef you'll jest treat him as you ort.
 
  "But when I see the beast abused,
      And clubbed around as I've saw some,
@@ -5397,8 +4863,7 @@ a-livin' 'at I love better 'an
      Down on my knees and love the hoss."
 
 
-Again I applauded, handing the old man still
-another of his poems, and the last received.  "Ah!"
+Again I applauded, handing the old man still another of his poems, and the last received.  "Ah!"
 said he, as his gentle eyes bent on the title; "this--
 here's the cheerfullest one of 'em all.  This is the
 one writ, as I wrote you about--on that glorious
@@ -5408,8 +4873,7 @@ paper would print this-un, shore!"
 "Oh, it WILL print it," I said eagerly; "and it will
 print the other two as well!  It will print ANYTHING
 that you may do us the honor to offer, and we'll
-reward you beside just as you may see fit to designate.--
-But go on--go on!  Read me the poem."
+reward you beside just as you may see fit to designate.-- But go on--go on!  Read me the poem."
 
 The old man's eyes were glistening as he responded
 with the poem entitled
@@ -5417,43 +4881,14 @@ with the poem entitled
 
 "WHEN THE FROST IS ON THE PUNKIN"
 
- "When the frost is on the punkin and the fodder's in the shock,
- And you hear the kyouck and gobble of the struttin' turkey-cock,
-And the clackin' of the guineys, and the cluckin' of the hens,
- And the rooster's hallylooyer as he tiptoes on the fence
- O, it's then's the times a feller is a-feelin' at his best,
- With the risin' sun to greet him from a night of peaceful rest,
- As he leaves the house, bareheaded, and goes out to feed the
-stock,
- When the frost is on the punkin and the fodder's in the shock.
+"When the frost is on the punkin and the fodder's in the shock, And you hear the kyouck and gobble of the struttin' turkey-cock, And the clackin' of the guineys, and the cluckin' of the hens, And the rooster's hallylooyer as he tiptoes on the fence O, it's then's the times a feller is a-feelin' at his best, With the risin' sun to greet him from a night of peaceful rest, As he leaves the house, bareheaded, and goes out to feed the stock, When the frost is on the punkin and the fodder's in the shock.
 
- "They's something kindo' harty-like about the atmusfere
- When the heat of summer's over and the coolin' fall is here--
- Of course we miss the flowers, and the blossums on the trees,
- And the mumble of the hummin'-birds and buzzin' of the bees;
- But the air's so appetizin'; and the landscape through the haze
- Of a crisp and sunny morning of the airly autumn days
- Is a pictur' that no painter has the colorin' to mock--
- When the frost is on the punkin and the fodder's in the shock.
+"They's something kindo' harty-like about the atmusfere When the heat of summer's over and the coolin' fall is here-- Of course we miss the flowers, and the blossums on the trees, And the mumble of the hummin'-birds and buzzin' of the bees; But the air's so appetizin'; and the landscape through the haze Of a crisp and sunny morning of the airly autumn days Is a pictur' that no painter has the colorin' to mock-- When the frost is on the punkin and the fodder's in the shock.
 
- "The husky, rusty russel of the tossels of the corn,
- And the raspin' of the tangled leaves, as golden as the morn;
- The stubble in the furries--kindo' lonesome-like, but still
- A-preachin' sermuns to us of the barns they growed to fill;
- The strawstack in the medder, and the reaper in the shed;
- The hosses in theyr stalls below--the clover overhead!--
- O, it sets my hart a-clickin' like the tickin' of a clock,
- When the frost is on the punkin and the fodder's in the shock!
+"The husky, rusty russel of the tossels of the corn, And the raspin' of the tangled leaves, as golden as the morn; The stubble in the furries--kindo' lonesome-like, but still A-preachin' sermuns to us of the barns they growed to fill; The strawstack in the medder, and the reaper in the shed; The hosses in theyr stalls below--the clover overhead!-- O, it sets my hart a-clickin' like the tickin' of a clock, When the frost is on the punkin and the fodder's in the shock!
 
- "Then your apples all is getherd, and the ones a feller keeps
- Is poured around the celler-floor in red and yeller heaps;
- And your cider-makin' 's over, and your wimmern-folks is through
- With theyr mince and apple-butter, and theyr souse and saussage,
-too! . . .
- I don't know how to tell it--but ef sich a thing could be
- As the Angels wantin' boardin', and they'd call around on ME--
- I'd want to 'commodate 'em-all the whole-indurin' flock--
- When the frost is on the punkin and the fodder's in the shock!"
+"Then your apples all is getherd, and the ones a feller keeps Is poured around the celler-floor in red and yeller heaps; And your cider-makin' 's over, and your wimmern-folks is through With theyr mince and apple-butter, and theyr souse and saussage,
+too! . . . I don't know how to tell it--but ef sich a thing could be As the Angels wantin' boardin', and they'd call around on ME-- I'd want to 'commodate 'em-all the whole-indurin' flock-- When the frost is on the punkin and the fodder's in the shock!"
 
 
 That was enough!  "Surely," thought I, "here is a
@@ -5464,7 +4899,6 @@ go further in explanation of how the readers of our
 daily came to an acquaintance through its columns
 with the crude, unpolished, yet most gentle genius of
 Benj. F. Johnson, of Boone.
-
 
 
 THE OLD SOLDIER'S STORY
@@ -5552,12 +4986,7 @@ and the curioust thing about it was--ha! ha!--that
 the feller was a-packin' him didn't know that he
 had been hit ag'in at all, and back he went--still
 carryin' the deceased back--ha! ha! ha!--to where
-the doctors could take keer of him--as he thought.
-Well, his cap'n happened to see him, and he thought
-it was a ruther cur'ous p'ceedin's--a soldier carryin'
-a dead body out o' the fight--don't you see?  And
-so he hollers at him, and he says to the soldier, the
-cap'n did, he says, "Hullo, there; where you goin'
+the doctors could take keer of him--as he thought. Well, his cap'n happened to see him, and he thought it was a ruther cur'ous p'ceedin's--a soldier carryin' a dead body out o' the fight--don't you see?  And so he hollers at him, and he says to the soldier, the cap'n did, he says, "Hullo, there; where you goin'
 with that thing?" the cap'n said to the soldier who
 was a-carryin' away the feller that had his leg shot
 off.  Well, his head, too, by that time.  So he says,
@@ -5580,8 +5009,6 @@ the feller slacked his grip on the body and let it
 slide down to the ground, and looked at it a minute,
 all puzzled, you know, and says, "W'y, he told me
 it was his leg!"  Ha! ha! ha!
-
-
 
 
 DIALECT IN LITERATURE
@@ -5635,12 +5062,7 @@ existing materials--physical, mental and spiritual--we
 have no occasion to urge its acceptance of so-called
 dialect, for dialect IS in Literature, and HAS been
 there since the beginning of all written thought and
-utterance.  Strictly speaking, as well as paradoxically,
-all verbal expression is more or less dialectic,
-however grammatical.  While usage establishes
-grammar, it no less establishes so-called dialect.
-Therefore we may as rightfully refer to "so-called
-grammar."
+utterance.  Strictly speaking, as well as paradoxically, all verbal expression is more or less dialectic, however grammatical.  While usage establishes grammar, it no less establishes so-called dialect. Therefore we may as rightfully refer to "so-called grammar."
 
 It is not really a question of Literature's position
 toward dialect that we are called upon to consider,
@@ -5738,7 +5160,7 @@ minded readers have been turned against dialect
 who otherwise would have loved and blessed it in
 its real form of crude purity and unstrained sweetness--
 
-          Honey dripping from the comb.
+Honey dripping from the comb.
 
 
 Let no impious faddist, then, assume its just
@@ -5749,18 +5171,14 @@ sure, is heartily returned.  Such a "superior"
 personage may even go among these simple country
 people and abide indefinitely in the midst of them,
 yet their more righteous contempt never for one instant
-permits them to be their real selves in his presence.
-In consequence, his most conscientious report
-of them, their ways, lives, and interests, is absolutely
+permits them to be their real selves in his presence. In consequence, his most conscientious report of them, their ways, lives, and interests, is absolutely
 of no importance or value in the world.  He
 never knew them, nor will he ever know them.  They
 are not his kind of people, any more than he is their
 kind of man; and THEIR disappointment grieves us
 more than his.
 
-The master in Literature, as in any art, is that
-"divinely gifted man" who does just obeisance to
-all living creatures, "both man and beast and bird."
+The master in Literature, as in any art, is that "divinely gifted man" who does just obeisance to all living creatures, "both man and beast and bird."
 It is this master only who, as he writes, can sweep
 himself aside and leave his humble characters to do
 the thinking and the talking.  This man it is who
@@ -5785,23 +5203,7 @@ from the platform.  Mr. Warner says:
 
 While the author was unfolding to his audience a life
 and society unfamiliar to them and entrancing them with
-pictures, the reality of which none doubted and the spell
-of which none cared to escape, it occurred to me that here
-was the solution of all the pother we have recently got into
-about the realistic and the ideal schools in fiction.  In
-"Posson Jone," an awkward camp-meeting country preacher
-is the victim of a vulgar confidence game; the scenes are
-the street, a drinking-place, a gambling-saloon, a bull-ring,
-and a calaboose; there is not a "respectable" character in
-it.  Where shall we look for a more faithful picture of low
-life?  Where shall we find another so vividly set forth in
-all its sordid details?  And yet see how art steps in, with
-the wand of genius, to make literature!  Over the whole the
-author has cast an ideal light; over a picture that, in the
-hands of a bungling realist, would have been repellent he
-has thrown the idealizing grace that makes it one of the
-most charming sketches in the world.  Here is nature, as
-nature only ought to be in literature, elevated but never
+pictures, the reality of which none doubted and the spell of which none cared to escape, it occurred to me that here was the solution of all the pother we have recently got into about the realistic and the ideal schools in fiction.  In "Posson Jone," an awkward camp-meeting country preacher is the victim of a vulgar confidence game; the scenes are the street, a drinking-place, a gambling-saloon, a bull-ring, and a calaboose; there is not a "respectable" character in it.  Where shall we look for a more faithful picture of low life?  Where shall we find another so vividly set forth in all its sordid details?  And yet see how art steps in, with the wand of genius, to make literature!  Over the whole the author has cast an ideal light; over a picture that, in the hands of a bungling realist, would have been repellent he has thrown the idealizing grace that makes it one of the most charming sketches in the world.  Here is nature, as nature only ought to be in literature, elevated but never
 departed from.
 
 
@@ -5818,8 +5220,7 @@ of Sissy Jupe; or lift and tower with indignation,
 giving ear to Stephen Blackpool and the stainless
 nobility of his cloyed utterances.
 
-The crudeness or the homeliness of the dialectic
-element does not argue its unfitness in any way.
+The crudeness or the homeliness of the dialectic element does not argue its unfitness in any way.
 Some readers seem to think so; but they are wrong,
 and very gravely wrong.  Our own brief history as
 a nation, and our finding and founding and maintaining
@@ -5906,10 +5307,7 @@ in his stories, just as in the life itself.  This is the
 manifest work of the true dialect writer and
 expounder.  In every detail, the most minute, such
 work reveals the master-hand and heart of the
-humanitarian as well as artist--the two are indissolubly
-fused--and the result of such just treatment
-of whatever lowly themes or characters we can but
-love and loyally approve with all our human hearts.  Such masters
+humanitarian as well as artist--the two are indissolubly fused--and the result of such just treatment of whatever lowly themes or characters we can but love and loyally approve with all our human hearts.  Such masters
 necessarily are rare, and such ripe
 perfecting as is here attained may be in part the
 mellowing result of age and long observation,
@@ -5987,9 +5385,7 @@ principles upon which Nature herself founds and
 presents this lawless little brood of hers--the
 children.  It is not the children who are out of order;
 it is Literature.  And not only is Literature out of
-order, but she is presumptuous; she is impudent.
-She takes Nature's children and revises and corrects
-them till "their own mother doesn't know them."
+order, but she is presumptuous; she is impudent. She takes Nature's children and revises and corrects them till "their own mother doesn't know them."
 This is literal fact.  So, very many of us are coming
 to inquire, as we've a right, why is the real child
 excluded from a just hearing in the world of letters
@@ -6039,10 +5435,7 @@ as it dare show its little tousled head in the presence
 of that scholarly and dignified institution.  Then
 ask why your real child has been spanked back
 home again, and the wise mentors there will virtually
-tell you that Child Literature wants no real children in it, that
-the real child's example of
-defective grammar and lack of elegant deportment
-would furnish to its little patrician patrons suggestions
+tell you that Child Literature wants no real children in it, that the real child's example of defective grammar and lack of elegant deportment would furnish to its little patrician patrons suggestions
 very hurtful indeed to their higher morals,
 tendencies, and ambitions.  Then, although the general
 public couldn't for the life of it see why or
@@ -6066,10 +5459,3 @@ and brazen faith and trust, and love of life and
 everybody in it.  All other real people are getting
 into Literature; and without some real children
 along will they not soon be getting lonesome, too?
-
-
-
-
-
-End of Project Gutenberg Etext:  Complete Works of James Whitcomb Riley
-

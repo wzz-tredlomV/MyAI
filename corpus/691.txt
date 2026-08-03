@@ -1,14 +1,9 @@
-Project Gutenberg Etext:  Complete Works of James Whitcomb Riley
-Volume 1
-#1 in our series by James Whitcomb Riley
+Project Gutenberg Etext:  Complete Works of James Whitcomb Riley Volume 1 #1 in our series by James Whitcomb Riley
 
 
-Copyright laws are changing all over the world, be sure to check
-the copyright laws for your country before posting these files!!
+Copyright laws are changing all over the world, be sure to check the copyright laws for your country before posting these files!!
 
-Please take a look at the important information in this header.
-We encourage you to keep this file on your own disk, keeping an
-electronic path open for the next readers.  Do not remove this.
+Please take a look at the important information in this header. We encourage you to keep this file on your own disk, keeping an electronic path open for the next readers.  Do not remove this.
 
 
 **Welcome To The World of Free Plain Vanilla Electronic Texts**
@@ -17,8 +12,7 @@ electronic path open for the next readers.  Do not remove this.
 
 *These Etexts Prepared By Hundreds of Volunteers and Donations*
 
-Information on contacting Project Gutenberg to get Etexts, and
-further information is included below.  We need your donations.
+Information on contacting Project Gutenberg to get Etexts, and further information is included below.  We need your donations.
 
 
 The Complete Works of James Whitcomb Riley
@@ -28,77 +22,39 @@ Volume 1
 October, 1996  [Etext #691]
 
 
-Project Gutenberg Etext:  Complete Works of James Whitcomb Riley
-*****This file should be named 691.txt or 691.zip******
+Project Gutenberg Etext:  Complete Works of James Whitcomb Riley *****This file should be named 691.txt or 691.zip******
 
-We are now trying to release all our books one month in advance
-of the official release dates, for time for better editing.
+We are now trying to release all our books one month in advance of the official release dates, for time for better editing.
 
-Please note:  neither this list nor its contents are final till
-midnight of the last day of the month of any such announcement.
-The official release date of all Project Gutenberg Etexts is at
-Midnight, Central Time, of the last day of the stated month.  A
-preliminary version may often be posted for suggestion, comment
-and editing by those who wish to do so.  To be sure you have an
-up to date first edition [xxxxx10x.xxx] please check file sizes
-in the first week of the next month.  Since our ftp program has
-a bug in it that scrambles the date [tried to fix and failed] a
-look at the file size will have to do, but we will try to see a
-new copy has at least one byte more or less.
+Please note:  neither this list nor its contents are final till midnight of the last day of the month of any such announcement. The official release date of all Project Gutenberg Etexts is at Midnight, Central Time, of the last day of the stated month.  A preliminary version may often be posted for suggestion, comment and editing by those who wish to do so.  To be sure you have an up to date first edition [xxxxx10x.xxx] please check file sizes in the first week of the next month.  Since our ftp program has a bug in it that scrambles the date [tried to fix and failed] a look at the file size will have to do, but we will try to see a new copy has at least one byte more or less.
 
 
 Information about Project Gutenberg (one page)
 
-We produce about two million dollars for each hour we work.  The
-fifty hours is one conservative estimate for how long it we take
-to get any etext selected, entered, proofread, edited, copyright
-searched and analyzed, the copyright letters written, etc.  This
-projected audience is one hundred million readers.  If our value
-per text is nominally estimated at one dollar then we produce $2
-million dollars per hour this year as we release thirty-two text
-files per month:  or 400 more Etexts in 1996 for a total of 800.
-If these reach just 10% of the computerized population, then the
-total should reach 80 billion Etexts.
+We produce about two million dollars for each hour we work.  The fifty hours is one conservative estimate for how long it we take to get any etext selected, entered, proofread, edited, copyright searched and analyzed, the copyright letters written, etc.  This projected audience is one hundred million readers.  If our value per text is nominally estimated at one dollar then we produce $2 million dollars per hour this year as we release thirty-two text files per month:  or 400 more Etexts in 1996 for a total of 800. If these reach just 10% of the computerized population, then the total should reach 80 billion Etexts.
 
-The Goal of Project Gutenberg is to Give Away One Trillion Etext
-Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
-This is ten thousand titles each to one hundred million readers,
-which is only 10% of the present number of computer users.  2001
-should have at least twice as many computer users as that, so it
-will require us reaching less than 5% of the users in 2001.
+The Goal of Project Gutenberg is to Give Away One Trillion Etext Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion] This is ten thousand titles each to one hundred million readers, which is only 10% of the present number of computer users.  2001 should have at least twice as many computer users as that, so it will require us reaching less than 5% of the users in 2001.
 
 
 We need your donations more than ever!
 
 
-All donations should be made to "Project Gutenberg/BU":  and are
-tax deductible to the extent allowable by law. (BU = Benedictine
-University).  (Subscriptions to our paper newsletter go to BU.)
+All donations should be made to "Project Gutenberg/BU":  and are tax deductible to the extent allowable by law. (BU = Benedictine University).  (Subscriptions to our paper newsletter go to BU.)
 
 For these and other matters, please mail to:
 
-Project Gutenberg
-P. O. Box  2782
-Champaign, IL 61825
+Project Gutenberg P. O. Box  2782 Champaign, IL 61825
 
-When all other email fails try our Executive Director:
-Michael S. Hart <hart@pobox.com>
+When all other email fails try our Executive Director: Michael S. Hart <hart@pobox.com>
 
-We would prefer to send you this information by email
-(Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
+We would prefer to send you this information by email (Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
 
-******
-If you have an FTP program (or emulator), please
-FTP directly to the Project Gutenberg archives:
-[Mac users, do NOT point and click. . .type]
+If you have an FTP program (or emulator), please FTP directly to the Project Gutenberg archives: [Mac users, do NOT point and click. . .type]
 
 ftp uiarchive.cso.uiuc.edu
 login:  anonymous
 password:  your@login
-cd etext/etext90 through /etext96
-or cd etext/articles [get suggest gut for more information]
-dir [to see files]
-get or mget [to get files. . .set bin for zip files]
+cd etext/etext90 through /etext96 or cd etext/articles [get suggest gut for more information] dir [to see files] get or mget [to get files. . .set bin for zip files]
 GET INDEX?00.GUT
 for a list of books
 and
@@ -106,70 +62,24 @@ GET NEW GUT for general information
 and
 MGET GUT* for newsletters.
 
-**Information prepared by the Project Gutenberg legal advisor**
-(Three Pages)
+**Information prepared by the Project Gutenberg legal advisor** (Three Pages)
 
 
-***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
-Why is this "Small Print!" statement here?  You know: lawyers.
-They tell us you might sue us if there is something wrong with
-your copy of this etext, even if you got it for free from
-someone other than us, and even if what's wrong is not our
-fault.  So, among other things, this "Small Print!" statement
-disclaims most of our liability to you.  It also tells you how
-you can distribute copies of this etext if you want to.
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START*** Why is this "Small Print!" statement here?  You know: lawyers. They tell us you might sue us if there is something wrong with your copy of this etext, even if you got it for free from someone other than us, and even if what's wrong is not our fault.  So, among other things, this "Small Print!" statement disclaims most of our liability to you.  It also tells you how you can distribute copies of this etext if you want to.
 
-*BEFORE!* YOU USE OR READ THIS ETEXT
-By using or reading any part of this PROJECT GUTENBERG-tm
-etext, you indicate that you understand, agree to and accept
-this "Small Print!" statement.  If you do not, you can receive
-a refund of the money (if any) you paid for this etext by
-sending a request within 30 days of receiving it to the person
-you got it from.  If you received this etext on a physical
-medium (such as a disk), you must return it with your request.
+*BEFORE!* YOU USE OR READ THIS ETEXT By using or reading any part of this PROJECT GUTENBERG-tm etext, you indicate that you understand, agree to and accept this "Small Print!" statement.  If you do not, you can receive a refund of the money (if any) you paid for this etext by sending a request within 30 days of receiving it to the person you got it from.  If you received this etext on a physical medium (such as a disk), you must return it with your request.
 
-ABOUT PROJECT GUTENBERG-TM ETEXTS
-This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
-tm etexts, is a "public domain" work distributed by Professor
-Michael S. Hart through the Project Gutenberg Association at
-Benedictine University (the "Project").  Among other
-things, this means that no one owns a United States copyright
-on or for this work, so the Project (and you!) can copy and
-distribute it in the United States without permission and
-without paying copyright royalties.  Special rules, set forth
-below, apply if you wish to copy and distribute this etext
-under the Project's "PROJECT GUTENBERG" trademark.
+ABOUT PROJECT GUTENBERG-TM ETEXTS This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG- tm etexts, is a "public domain" work distributed by Professor Michael S. Hart through the Project Gutenberg Association at Benedictine University (the "Project").  Among other things, this means that no one owns a United States copyright on or for this work, so the Project (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties.  Special rules, set forth below, apply if you wish to copy and distribute this etext under the Project's "PROJECT GUTENBERG" trademark.
 
-To create these etexts, the Project expends considerable
-efforts to identify, transcribe and proofread public domain
-works.  Despite these efforts, the Project's etexts and any
-medium they may be on may contain "Defects".  Among other
-things, Defects may take the form of incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged
-disk or other etext medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
+To create these etexts, the Project expends considerable efforts to identify, transcribe and proofread public domain works.  Despite these efforts, the Project's etexts and any medium they may be on may contain "Defects".  Among other things, Defects may take the form of incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other etext medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
 
-LIMITED WARRANTY; DISCLAIMER OF DAMAGES
-But for the "Right of Replacement or Refund" described below,
-[1] the Project (and any other party you may receive this
-etext from as a PROJECT GUTENBERG-tm etext) disclaims all
-liability to you for damages, costs and expenses, including
-legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES But for the "Right of Replacement or Refund" described below, [1] the Project (and any other party you may receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims all liability to you for damages, costs and expenses, including legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
 UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
 INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
 OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
 POSSIBILITY OF SUCH DAMAGES.
 
-If you discover a Defect in this etext within 90 days of
-receiving it, you can receive a refund of the money (if any)
-you paid for it by sending an explanatory note within that
-time to the person you received it from.  If you received it
-on a physical medium, you must return it with your note, and
-such person may choose to alternatively give you a replacement
-copy.  If you received it electronically, such person may
-choose to alternatively give you a second opportunity to
-receive it electronically.
+If you discover a Defect in this etext within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending an explanatory note within that time to the person you received it from.  If you received it on a physical medium, you must return it with your note, and such person may choose to alternatively give you a replacement copy.  If you received it electronically, such person may choose to alternatively give you a second opportunity to receive it electronically.
 
 THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
@@ -177,24 +87,11 @@ TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
 LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
 PARTICULAR PURPOSE.
 
-Some states do not allow disclaimers of implied warranties or
-the exclusion or limitation of consequential damages, so the
-above disclaimers and exclusions may not apply to you, and you
-may have other legal rights.
+Some states do not allow disclaimers of implied warranties or the exclusion or limitation of consequential damages, so the above disclaimers and exclusions may not apply to you, and you may have other legal rights.
 
-INDEMNITY
-You will indemnify and hold the Project, its directors,
-officers, members and agents harmless from all liability, cost
-and expense, including legal fees, that arise directly or
-indirectly from any of the following that you do or cause:
-[1] distribution of this etext, [2] alteration, modification,
-or addition to the etext, or [3] any Defect.
+INDEMNITY You will indemnify and hold the Project, its directors, officers, members and agents harmless from all liability, cost and expense, including legal fees, that arise directly or indirectly from any of the following that you do or cause: [1] distribution of this etext, [2] alteration, modification, or addition to the etext, or [3] any Defect.
 
-DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
-You may distribute copies of this etext electronically, or by
-disk, book or any other medium if you either delete this
-"Small Print!" and all other references to Project Gutenberg,
-or:
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm" You may distribute copies of this etext electronically, or by disk, book or any other medium if you either delete this "Small Print!" and all other references to Project Gutenberg, or:
 
 [1]  Only give exact copies of it.  Among other things, this
      requires that you do not remove, alter or modify the
@@ -225,7 +122,7 @@ or:
           or other equivalent proprietary form).
 
 [2]  Honor the etext refund and replacement provisions of this
-     "Small Print!" statement.
+"Small Print!" statement.
 
 [3]  Pay a trademark license fee to the Project of 20% of the
      net profits you derive calculated using the method you
@@ -233,29 +130,15 @@ or:
      don't derive profits, no royalty is due.  Royalties are
      payable to "Project Gutenberg Association / Benedictine
      University" within the 60 days following each
-     date you prepare (or were legally required to prepare)
-     your annual (or equivalent periodic) tax return.
+date you prepare (or were legally required to prepare)
+your annual (or equivalent periodic) tax return.
 
-WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
-The Project gratefully accepts contributions in money, time,
-scanning machines, OCR software, public domain etexts, royalty
-free copyright licenses, and every other sort of contribution
-you can think of.  Money should be paid to "Project Gutenberg
-Association / Benedictine University".
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO? The Project gratefully accepts contributions in money, time, scanning machines, OCR software, public domain etexts, royalty free copyright licenses, and every other sort of contribution you can think of.  Money should be paid to "Project Gutenberg Association / Benedictine University".
 
 *END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
 
 
-
-
-
-Scanned by Charles Keller with
-Calera WordScan Plus 2.0
-donated by: Calera Recognition Systems
-475 Potrero
-Sunnyvale, CA 94086
-1-408-720-8300
-<mikel@calera.com> Mike Lynch
+Scanned by Charles Keller with Calera WordScan Plus 2.0 donated by: Calera Recognition Systems 475 Potrero Sunnyvale, CA 94086 1-408-720-8300 <mikel@calera.com> Mike Lynch
 
 
 Memorial Edition
@@ -288,18 +171,14 @@ JAMES WHITCOMB RILEY
 
 
 TO
-THE MEMORY OF
-James Whitcomb Riley
+THE MEMORY OF James Whitcomb Riley
 AND
 IN PLEASANT RECOLLECTION OF MORE THAN THIRTY-FIVE YEARS
 OF BUSINESS AND PERSONAL ASSOCIATION
 THESE FINAL VOLUMES
 ARE AFFECTIONATELY DEDICATED
 
-BORN:                       DIED:
-October 7, 1849,            July 22, 1916
-Greenfield, Ind.            Indianapolis, Ind.
-
+BORN:                       DIED: October 7, 1849,            July 22, 1916 Greenfield, Ind.            Indianapolis, Ind.
 
 
 CONTENTS
@@ -345,8 +224,7 @@ IN THE DARK
 THE IRON HORSE
 DEAD LEAVES
 OVER THE EYES OF GLADNESS
-ONLY A DREAM
-OUR LlTTLE GIRL
+ONLY A DREAM OUR LlTTLE GIRL
 THE FUNNY LITTLE FELLOW
 SONG OF THE NEW YEAR
 A LETTER TO A FRIEND
@@ -402,594 +280,108 @@ LIBERTY
 TOM VAN ARDEN
 
 
-
 JAMES WHITCOMB RILEY--A SKETCH
 
 
-On Sunday morning, October seventh, 1849, Reuben A. Riley and his
-wife, Elizabeth Marine Riley, rejoiced over the birth of their
-second son.  They called him James Whitcomb.  This was in a shady
-little street in the shady little town of Greenfield, which is in
-the county of Hancock and the state of Indiana.  The young James
-found a brother and a sister waiting to greet him--John Andrew
-and Martha Celestia, and afterward came Elva May--Mrs. Henry
-Eitel-- Alexander Humbolt and Mary Elizabeth, who, of all, alone
-lives to see this collection of her brother's poems.
+On Sunday morning, October seventh, 1849, Reuben A. Riley and his wife, Elizabeth Marine Riley, rejoiced over the birth of their second son.  They called him James Whitcomb.  This was in a shady little street in the shady little town of Greenfield, which is in the county of Hancock and the state of Indiana.  The young James found a brother and a sister waiting to greet him--John Andrew and Martha Celestia, and afterward came Elva May--Mrs. Henry Eitel-- Alexander Humbolt and Mary Elizabeth, who, of all, alone lives to see this collection of her brother's poems.
 
-James Whitcomb was a slender lad, with corn-silk hair and wide
-blue eyes.  He was shy and timid, not strong physically, dreading
-the cold of winter, and avoiding the rougher sports of his
-playmates.  And yet he was full of the spirit of youth, a spirit
-that manifested itself in the performance of many ingenious
-pranks.  His every-day life was that of the average boy in the
-average country town of that day, but his home influences were
-exceptional.  His father, who became a captain of cavalry in the
-Civil War, was a lawyer of ability and an orator of more than
-local distinction.  His mother was a woman of rare strength of
-character combined with deep sympathy and a clear understanding.
-Together, they made home a place to remember with thankful heart.
+James Whitcomb was a slender lad, with corn-silk hair and wide blue eyes.  He was shy and timid, not strong physically, dreading the cold of winter, and avoiding the rougher sports of his playmates.  And yet he was full of the spirit of youth, a spirit that manifested itself in the performance of many ingenious pranks.  His every-day life was that of the average boy in the average country town of that day, but his home influences were exceptional.  His father, who became a captain of cavalry in the Civil War, was a lawyer of ability and an orator of more than local distinction.  His mother was a woman of rare strength of character combined with deep sympathy and a clear understanding. Together, they made home a place to remember with thankful heart.
 
-When James was twenty years old, the death of his mother made a
-profound impression on him, an impression that has influenced
-much of his verse and has remained with him always.
+When James was twenty years old, the death of his mother made a profound impression on him, an impression that has influenced much of his verse and has remained with him always.
 
-At an early age he was sent to school and, "then sent back
-again," to use his own words.  He was restive under what he
-called the "iron discipline."  A number of years ago, he spoke
-of these early educational beginnings in phrases so picturesque
-and so characteristic that they are quoted in full:
+At an early age he was sent to school and, "then sent back again," to use his own words.  He was restive under what he called the "iron discipline."  A number of years ago, he spoke of these early educational beginnings in phrases so picturesque and so characteristic that they are quoted in full:
 
-"My first teacher was a little old woman, rosy and roly-poly, who
-looked as though she might have just come tumbling out of a fairy
-story, so lovable was she and so jolly and so amiable.  She kept
-school in her little Dame-Trot kind of dwelling of three rooms,
-with a porch in the rear, like a bracket on the wall, which was
-part of the play-ground of her 'scholars,'--for in those days
-pupils were called 'scholars' by their affectionate teachers.
-Among the twelve or fifteen boys and girls who were there I
-remember particularly a little lame boy, who always got the first
-ride in the locust-tree swing during recess.
+"My first teacher was a little old woman, rosy and roly-poly, who looked as though she might have just come tumbling out of a fairy story, so lovable was she and so jolly and so amiable.  She kept school in her little Dame-Trot kind of dwelling of three rooms, with a porch in the rear, like a bracket on the wall, which was part of the play-ground of her 'scholars,'--for in those days pupils were called 'scholars' by their affectionate teachers. Among the twelve or fifteen boys and girls who were there I remember particularly a little lame boy, who always got the first ride in the locust-tree swing during recess.
 
-"This first teacher of mine was a mother to all her 'scholars,'
-and in every way looked after their comfort, especially when
-certain little ones grew drowsy.  I was often, with others,
-carried to the sitting-room and left to slumber on a small made-
-down pallet on the floor.  She would sometimes take three or four
-of us together; and I recall how a playmate and I, having been
-admonished into silence, grew deeply interested in watching a
-spare old man who sat at a window with its shade drawn down.
-After a while we became accustomed to this odd sight and would
-laugh, and talk in whispers and give imitations, as we sat in a
-low sewing-chair, of the little old pendulating blind man at the
-window.  Well, the old man was the gentle teacher's charge, and
-for this reason, possibly, her life had become an heroic one,
-caring for her helpless husband who, quietly content, waited
-always at the window for his sight to come back to him.  And
-doubtless it is to-day, as he sits at another casement and sees
-not only his earthly friends, but all the friends of the Eternal
-Home, with the smiling, loyal, loving little woman forever at his
+"This first teacher of mine was a mother to all her 'scholars,' and in every way looked after their comfort, especially when certain little ones grew drowsy.  I was often, with others, carried to the sitting-room and left to slumber on a small made- down pallet on the floor.  She would sometimes take three or four of us together; and I recall how a playmate and I, having been admonished into silence, grew deeply interested in watching a spare old man who sat at a window with its shade drawn down. After a while we became accustomed to this odd sight and would laugh, and talk in whispers and give imitations, as we sat in a low sewing-chair, of the little old pendulating blind man at the window.  Well, the old man was the gentle teacher's charge, and for this reason, possibly, her life had become an heroic one, caring for her helpless husband who, quietly content, waited always at the window for his sight to come back to him.  And doubtless it is to-day, as he sits at another casement and sees not only his earthly friends, but all the friends of the Eternal Home, with the smiling, loyal, loving little woman forever at his
 side.
 
-"She was the kindliest of souls even when constrained to punish
-us.  After a whipping she invariably took me into the little
-kitchen and gave me two great white slabs of bread cemented
-together with layers of butter and jam.  As she always whipped me
-with the same slender switch she used for a pointer, and cried
-over every lick, you will have an idea how much punishment I
-could stand.  When I was old enough to be lifted by the ears out
-of my seat that office was performed by a pedagogue whom I
-promised to 'whip sure, if he'd just wait till I got big enough.'
-He is still waiting!
+"She was the kindliest of souls even when constrained to punish us.  After a whipping she invariably took me into the little kitchen and gave me two great white slabs of bread cemented together with layers of butter and jam.  As she always whipped me with the same slender switch she used for a pointer, and cried over every lick, you will have an idea how much punishment I could stand.  When I was old enough to be lifted by the ears out of my seat that office was performed by a pedagogue whom I promised to 'whip sure, if he'd just wait till I got big enough.' He is still waiting!
 
-"There was but one book at school in which I found the slightest
-interest:  McGuffey's old leather-bound Sixth Reader.  It was the
-tallest book known, and to the boys of my size it was a matter of
-eternal wonder how I could belong to 'the big class in that
-reader.'  When we were to read the death of 'Little Nell,' I
-would run away, for I knew it would make me cry, that the other
-boys would laugh at me, and the whole thing would become
-ridiculous.  I couldn't bear that.  A later teacher, Captain Lee
-O. Harris, came to understand me with thorough sympathy, took
-compassion on my weaknesses and encouraged me to read the best
-literature.  He understood that he couldn't get numbers into my
-head.  You couldn't tamp them in!  History I also disliked as a
-dry thing without juice, and dates melted out of my memory as
-speedily as tin-foil on a red-hot stove.  But I always was ready
-to declaim and took natively to anything dramatic or theatrical.
-Captain Harris encouraged me in recitation and reading and had
-ever the sweet spirit of a companion rather than the manner of an
-instructor."
+"There was but one book at school in which I found the slightest interest:  McGuffey's old leather-bound Sixth Reader.  It was the tallest book known, and to the boys of my size it was a matter of eternal wonder how I could belong to 'the big class in that reader.'  When we were to read the death of 'Little Nell,' I would run away, for I knew it would make me cry, that the other boys would laugh at me, and the whole thing would become ridiculous.  I couldn't bear that.  A later teacher, Captain Lee O. Harris, came to understand me with thorough sympathy, took compassion on my weaknesses and encouraged me to read the best literature.  He understood that he couldn't get numbers into my head.  You couldn't tamp them in!  History I also disliked as a dry thing without juice, and dates melted out of my memory as speedily as tin-foil on a red-hot stove.  But I always was ready to declaim and took natively to anything dramatic or theatrical. Captain Harris encouraged me in recitation and reading and had ever the sweet spirit of a companion rather than the manner of an instructor."
 
-But if there was "only one book at school in which he found the
-slightest interest," he had before that time displayed an
-affection for a book--simply as such and not for any printed word
-it might contain.  And this, after all, is the true book-lover's
-love.  Speaking of this incident--and he liked to refer to it
-as his "first literary recollection," he said:  "Long
-before I was old enough to read I remember buying a book at an
-old auctioneer's shop in Greenfield.  I can not imagine what
-prophetic impulse took possession of me and made me forego the
-ginger cakes and the candy that usually took every cent of my
-youthful income.  The slender little volume must have cost all of
-twenty-five cents!  It was Francis Quarles' Divine Emblems,--a
-neat little affair about the size of a pocket Testament.  I
-carried it around with me all day long, delighted with the very
+But if there was "only one book at school in which he found the slightest interest," he had before that time displayed an affection for a book--simply as such and not for any printed word it might contain.  And this, after all, is the true book-lover's love.  Speaking of this incident--and he liked to refer to it as his "first literary recollection," he said:  "Long before I was old enough to read I remember buying a book at an old auctioneer's shop in Greenfield.  I can not imagine what prophetic impulse took possession of me and made me forego the ginger cakes and the candy that usually took every cent of my youthful income.  The slender little volume must have cost all of twenty-five cents!  It was Francis Quarles' Divine Emblems,--a neat little affair about the size of a pocket Testament.  I carried it around with me all day long, delighted with the very
 feel of it.
 
-" 'What have you got there, Bub?' some one would ask.  'A book,'
-I would reply.  'What kind of a book?'  'Poetry-book.'  'Poetry!'
-would be the amused exclamation.  'Can you read poetry?' and,
-embarrassed, I'd shake my head and make my escape, but I held on
-to the beloved little volume."
+" 'What have you got there, Bub?' some one would ask.  'A book,' I would reply.  'What kind of a book?'  'Poetry-book.'  'Poetry!' would be the amused exclamation.  'Can you read poetry?' and, embarrassed, I'd shake my head and make my escape, but I held on to the beloved little volume."
 
-Every boy has an early determination--a first one--to follow some
-ennobling profession, once he has come to man's estate, such as
-being a policeman, or a performer on the high trapeze.  The poet
-would not have been the "Peoples' Laureate," had his fairy god-
-mother granted his boy-wish, but the Greenfield baker.  For to
-his childish mind it "seemed the acme of delight," using again
-his own happy expression, "to manufacture those snowy loaves of
-bread, those delicious tarts, those toothsome bon-bons.  And then
-to own them all, to keep them in store, to watch over and
-guardedly exhibit.  The thought of getting money for them was
-to me a sacrilege.  Sell them?  No indeed.  Eat 'em--eat 'em, by
-tray loads and dray loads!  It was a great wonder to me why the
-pale-faced baker in our town did not eat all his good things.
-This I determined to do when I became owner of such a grand
-establishment.  Yes, sir.  I would have a glorious feast.  Maybe
-I'd have Tom and Harry and perhaps little Kate and Florry in to
-help us once in a while.  The thought of these play-mates as
-'grown-up folks' didn't appeal to me.  I was but a child, with
-wide-open eyes, a healthy appetite and a wondering mind.  That
-was all.  But I have the same sweet tooth to-day, and every time
-I pass a confectioner's shop, I think of the big baker of our
-town, and Tom and Harry and the youngsters all."
+Every boy has an early determination--a first one--to follow some ennobling profession, once he has come to man's estate, such as being a policeman, or a performer on the high trapeze.  The poet would not have been the "Peoples' Laureate," had his fairy god- mother granted his boy-wish, but the Greenfield baker.  For to his childish mind it "seemed the acme of delight," using again his own happy expression, "to manufacture those snowy loaves of bread, those delicious tarts, those toothsome bon-bons.  And then to own them all, to keep them in store, to watch over and guardedly exhibit.  The thought of getting money for them was to me a sacrilege.  Sell them?  No indeed.  Eat 'em--eat 'em, by tray loads and dray loads!  It was a great wonder to me why the pale-faced baker in our town did not eat all his good things. This I determined to do when I became owner of such a grand establishment.  Yes, sir.  I would have a glorious feast.  Maybe I'd have Tom and Harry and perhaps little Kate and Florry in to help us once in a while.  The thought of these play-mates as 'grown-up folks' didn't appeal to me.  I was but a child, with wide-open eyes, a healthy appetite and a wondering mind.  That was all.  But I have the same sweet tooth to-day, and every time I pass a confectioner's shop, I think of the big baker of our town, and Tom and Harry and the youngsters all."
 
-As a child, he often went with his father to the court-house
-where the lawyers and clerks playfully called him "judge Wick."
-Here as a privileged character he met and mingled with the
-country folk who came to sue and be sued, and thus early the
-dialect, the native speech, the quaint expressions of his "own
-people" were made familiar to him, and took firm root in the
-fresh soil of his young memory.  At about this time, he made his
-first poetic attempt in a valentine which he gave to his mother.
-Not only did he write the verse, but he drew a sketch to
-accompany it, greatly to his mother's delight, who, according to
-the best authority, gave the young poet "three big cookies and
-didn't spank me for two weeks.  This was my earliest literary
-encouragement."
+As a child, he often went with his father to the court-house where the lawyers and clerks playfully called him "judge Wick." Here as a privileged character he met and mingled with the country folk who came to sue and be sued, and thus early the dialect, the native speech, the quaint expressions of his "own people" were made familiar to him, and took firm root in the fresh soil of his young memory.  At about this time, he made his first poetic attempt in a valentine which he gave to his mother. Not only did he write the verse, but he drew a sketch to accompany it, greatly to his mother's delight, who, according to the best authority, gave the young poet "three big cookies and didn't spank me for two weeks.  This was my earliest literary encouragement."
 
-Shortly after his sixteenth birthday, young Riley turned his back
-on the little schoolhouse and for a time wandered through the
-different fields of art, indulging a slender talent for painting
-until he thought he was destined for the brush and palette, and
-then making merry with various musical instruments, the banjo,
-the guitar, the violin, until finally he appeared as bass drummer
-in a brass band.  "In a few weeks," he said, "I had beat myself
-into the more enviable position of snare drummer.  Then I wanted
-to travel with a circus, and dangle my legs before admiring
-thousands over the back seat of a Golden Chariot.  In a dearth of
-comic songs for the banjo and guitar, I had written two or three
-myself, and the idea took possession of me that I might be a
-clown, introduced as a character-song-man and the composer of my
+Shortly after his sixteenth birthday, young Riley turned his back on the little schoolhouse and for a time wandered through the different fields of art, indulging a slender talent for painting until he thought he was destined for the brush and palette, and then making merry with various musical instruments, the banjo, the guitar, the violin, until finally he appeared as bass drummer in a brass band.  "In a few weeks," he said, "I had beat myself into the more enviable position of snare drummer.  Then I wanted to travel with a circus, and dangle my legs before admiring thousands over the back seat of a Golden Chariot.  In a dearth of comic songs for the banjo and guitar, I had written two or three myself, and the idea took possession of me that I might be a clown, introduced as a character-song-man and the composer of my
 own ballads.
 
-"My father was thinking of something else, however, and one day I
-found myself with a 'five-ought' paint brush under the eaves of
-an old frame house that drank paint by the bucketful, learning to
-be a painter.  Finally, I graduated as a house, sign and
-ornamental painter, and for two summers traveled about with a
-small company of young fellows calling ourselves 'The Graphics,'
-who covered all the barns and fences in the state with
-advertisements."
+"My father was thinking of something else, however, and one day I found myself with a 'five-ought' paint brush under the eaves of an old frame house that drank paint by the bucketful, learning to be a painter.  Finally, I graduated as a house, sign and ornamental painter, and for two summers traveled about with a small company of young fellows calling ourselves 'The Graphics,' who covered all the barns and fences in the state with advertisements."
 
-At another time his, young man's fancy saw attractive
-possibilities in the village print-shop, and later his
-ambition was diverted to acting, encouraged by the good times he
-had in the theatricals of the Adelphian Society of Greenfield.
-"In my dreamy way," he afterward said, "I did a little of a
-number of things fairly well--sang, played the guitar and violin,
-acted, painted signs and wrote poetry.  My father did not
-encourage my verse-making for he thought it too visionary, and
-being a visionary himself, he believed he understood the dangers
-of following the promptings of the poetic temperament.  I doubted
-if anything would come of the verse-writing myself.  At this time
-it is easy to picture my father, a lawyer of ability, regarding
-me, nonplused, as the worst case he had ever had.  He wanted me
-to do something practical, besides being ambitious for me to
-follow in his footsteps, and at last persuaded me to settle down
+At another time his, young man's fancy saw attractive possibilities in the village print-shop, and later his ambition was diverted to acting, encouraged by the good times he had in the theatricals of the Adelphian Society of Greenfield. "In my dreamy way," he afterward said, "I did a little of a number of things fairly well--sang, played the guitar and violin, acted, painted signs and wrote poetry.  My father did not encourage my verse-making for he thought it too visionary, and being a visionary himself, he believed he understood the dangers of following the promptings of the poetic temperament.  I doubted if anything would come of the verse-writing myself.  At this time it is easy to picture my father, a lawyer of ability, regarding me, nonplused, as the worst case he had ever had.  He wanted me to do something practical, besides being ambitious for me to follow in his footsteps, and at last persuaded me to settle down
 and read law in his office.  This I really tried to do
 conscientiously, but finding that political economy and
 Blackstone did not rhyme and that the study of law was
-unbearable, I slipped out of the office one summer afternoon,
-when all out-doors called imperiously, shook the last dusty
-premise from my head and was away.
+unbearable, I slipped out of the office one summer afternoon, when all out-doors called imperiously, shook the last dusty premise from my head and was away.
 
-"The immediate instigator of my flight was a traveling medicine
-man who appealed to me for this reason:  My health was bad, very
-bad,--as bad as I was.  Our doctor had advised me to travel, but
-how could I travel without money?  The medicine man needed an
-assistant and I plucked up courage to ask if I could join the
-party and paint advertisements for him.
+"The immediate instigator of my flight was a traveling medicine man who appealed to me for this reason:  My health was bad, very bad,--as bad as I was.  Our doctor had advised me to travel, but how could I travel without money?  The medicine man needed an assistant and I plucked up courage to ask if I could join the party and paint advertisements for him.
 
-"I rode out of town with that glittering cavalcade without saying
-good-by to any one, and though my patron was not a diplomaed
-doctor, as I found out, he was a man of excellent habits, and the
-whole company was made up of good straight boys, jolly chirping
-vagabonds like myself.  It was delightful to bowl over the
-country in that way.  I laughed all the time.  Miles and miles of
-somber landscape were made bright with merry song, and when the
-sun shone and all the golden summer lay spread out before us, it
-was glorious just to drift on through it like a wisp, of
-thistle-down, careless of how, or when, or where the wind should
-anchor us. 'There's a tang of gipsy blood in my veins that pants
-for the sun and the air.'
+"I rode out of town with that glittering cavalcade without saying good-by to any one, and though my patron was not a diplomaed doctor, as I found out, he was a man of excellent habits, and the whole company was made up of good straight boys, jolly chirping vagabonds like myself.  It was delightful to bowl over the country in that way.  I laughed all the time.  Miles and miles of somber landscape were made bright with merry song, and when the sun shone and all the golden summer lay spread out before us, it was glorious just to drift on through it like a wisp, of thistle-down, careless of how, or when, or where the wind should anchor us. 'There's a tang of gipsy blood in my veins that pants for the sun and the air.'
 
-"My duty proper was the manipulation of two blackboards, swung at
-the sides of the wagon during our street lecture and concert.
-These boards were alternately embellished with colored drawings
-illustrative of the manifold virtues of the nostrum vended.
-Sometimes I assisted the musical olio with dialect recitations
-and character sketches from the back step of the wagon.  These
-selections in the main originated from incidents and experiences
-along the route, and were composed on dull Sundays in lonesome
-little towns where even the church bells seemed to bark at us."
+"My duty proper was the manipulation of two blackboards, swung at the sides of the wagon during our street lecture and concert. These boards were alternately embellished with colored drawings illustrative of the manifold virtues of the nostrum vended. Sometimes I assisted the musical olio with dialect recitations and character sketches from the back step of the wagon.  These selections in the main originated from incidents and experiences along the route, and were composed on dull Sundays in lonesome little towns where even the church bells seemed to bark at us."
 
 
-On his return to Greenfield after this delightful but profitless
-tour he became the local editor of his home paper and in a few
-months "strangled the little thing into a change of ownership."
-The new proprietor transferred him to the literary department and
-the latter, not knowing what else to put in the space allotted
-him, filled it with verse.  But there was not room in his
-department for all he produced, so he began, timidly, to offer
-his poetic wares in foreign markets.  The editor of The
-Indianapolis Mirror accepted two or three shorter verses but in
-doing so suggested that in the future he try prose.  Being but an
-humble beginner, Riley harkened to the advice, whereupon the
-editor made a further suggestion; this time that he try poetry
-again.  The Danbury (Connecticut) News, then at the height of its
-humorous reputation, accepted a contribution shortly after The
-Mirror episode and Mr. McGeechy, its managing editor, wrote the
-young poet a graceful note of congratulation.  Commenting on
-these parlous times, Riley afterward wrote, "It is strange how
-little a thing sometimes makes or unmakes a fellow.  In these
-dark days I should have been content with the twinkle of the
-tiniest star, but even this light was withheld from me.  Just
-then came the letter from McGeechy; and about the same time,
-arrived my first check, a payment from Hearth and Home for a
-contribution called A Destiny (now A Dreamer in A Child World).
-The letter was signed, 'Editor' and unless sent by an assistant
-it must have come from Ik Marvel himself, God bless him!  I
-thought my fortune made.  Almost immediately I sent off another
-contribution, whereupon to my dismay came this reply:  'The
-management has decided to discontinue the publication and hopes
-that you will find a market for your worthy work elsewhere.'
-Then followed dark days indeed, until finally, inspired by my old
-teacher and comrade, Captain Lee O. Harris, I sent some of my
-poems to Longfellow, who replied in his kind and gentle manner
-with the substantial encouragement for which I had long
-thirsted."
+On his return to Greenfield after this delightful but profitless tour he became the local editor of his home paper and in a few months "strangled the little thing into a change of ownership." The new proprietor transferred him to the literary department and the latter, not knowing what else to put in the space allotted him, filled it with verse.  But there was not room in his department for all he produced, so he began, timidly, to offer his poetic wares in foreign markets.  The editor of The Indianapolis Mirror accepted two or three shorter verses but in doing so suggested that in the future he try prose.  Being but an humble beginner, Riley harkened to the advice, whereupon the editor made a further suggestion; this time that he try poetry again.  The Danbury (Connecticut) News, then at the height of its humorous reputation, accepted a contribution shortly after The Mirror episode and Mr. McGeechy, its managing editor, wrote the young poet a graceful note of congratulation.  Commenting on these parlous times, Riley afterward wrote, "It is strange how little a thing sometimes makes or unmakes a fellow.  In these dark days I should have been content with the twinkle of the tiniest star, but even this light was withheld from me.  Just then came the letter from McGeechy; and about the same time, arrived my first check, a payment from Hearth and Home for a contribution called A Destiny (now A Dreamer in A Child World). The letter was signed, 'Editor' and unless sent by an assistant it must have come from Ik Marvel himself, God bless him!  I thought my fortune made.  Almost immediately I sent off another contribution, whereupon to my dismay came this reply:  'The management has decided to discontinue the publication and hopes that you will find a market for your worthy work elsewhere.' Then followed dark days indeed, until finally, inspired by my old teacher and comrade, Captain Lee O. Harris, I sent some of my poems to Longfellow, who replied in his kind and gentle manner with the substantial encouragement for which I had long thirsted."
 
-In the year following, Riley formed a connection with The
-Anderson (Indiana) Democrat and contributed verse and locals in
-more than generous quantities.  He was happy in this work and had
-begun to feel that at last he was making progress when evil
-fortune knocked at his door and, conspiring with circumstances
-and a friend or two, induced the young poet to devise what
-afterward seemed to him the gravest of mistakes,--the Poe-poem
-hoax.  He was then writing for an audience of county papers and
-never dreamed that this whimsical bit of fooling would be carried
-beyond such boundaries.  It was suggested by these circumstances.
+In the year following, Riley formed a connection with The Anderson (Indiana) Democrat and contributed verse and locals in more than generous quantities.  He was happy in this work and had begun to feel that at last he was making progress when evil fortune knocked at his door and, conspiring with circumstances and a friend or two, induced the young poet to devise what afterward seemed to him the gravest of mistakes,--the Poe-poem hoax.  He was then writing for an audience of county papers and never dreamed that this whimsical bit of fooling would be carried beyond such boundaries.  It was suggested by these circumstances.
 
-He was inwardly distressed by the belief that his failure to get
-the magazines to accept his verse was due to his obscurity, while
-outwardly he was harassed to desperation by the junior editor of
-the rival paper who jeered daily at his poetical pretensions.
-So, to prove that editors would praise from a known source what
-they did not hesitate to condemn from one unknown, and to silence
-his nagging contemporary, he wrote Leonainie in the style of
-Poe, concocting a story, to accompany the poem, setting forth how
-Poe came to write it and how all these years it had been lost to
-view.  In a few words Mr. Riley related the incident and then
-dismissed it.  "I studied Poe's methods.  He seemed to have a
-theory, rather misty to be sure, about the use of 'm's' and 'n's'
-and mellifluous vowels and sonorous words.  I remember that I was
-a long time in evolving the name Leonainie, but at length the
-verses were finished and ready for trial.
+He was inwardly distressed by the belief that his failure to get the magazines to accept his verse was due to his obscurity, while outwardly he was harassed to desperation by the junior editor of the rival paper who jeered daily at his poetical pretensions. So, to prove that editors would praise from a known source what they did not hesitate to condemn from one unknown, and to silence his nagging contemporary, he wrote Leonainie in the style of Poe, concocting a story, to accompany the poem, setting forth how Poe came to write it and how all these years it had been lost to view.  In a few words Mr. Riley related the incident and then dismissed it.  "I studied Poe's methods.  He seemed to have a theory, rather misty to be sure, about the use of 'm's' and 'n's' and mellifluous vowels and sonorous words.  I remember that I was a long time in evolving the name Leonainie, but at length the verses were finished and ready for trial.
 
-"A friend, the editor of The Kokomo Dispatch, undertook the
-launching of the hoax in his paper; he did this with great
-editorial gusto while, at the same time, I attacked the
-authenticity of the poem in The Democrat.  That diverted all
-possible suspicion from me.  The hoax succeeded far too well, for
-what had started as a boyish prank became a literary discussion
-nation-wide, and the necessary expose had to be made.  I was
-appalled at the result.  The press assailed me furiously, and
-even my own paper dismissed me because I had given the
-'discovery' to a rival."
+"A friend, the editor of The Kokomo Dispatch, undertook the launching of the hoax in his paper; he did this with great editorial gusto while, at the same time, I attacked the authenticity of the poem in The Democrat.  That diverted all possible suspicion from me.  The hoax succeeded far too well, for what had started as a boyish prank became a literary discussion nation-wide, and the necessary expose had to be made.  I was appalled at the result.  The press assailed me furiously, and even my own paper dismissed me because I had given the 'discovery' to a rival."
 
-Two dreary and disheartening years followed this tragic event,
-years in which the young poet found no present help, nor future
-hope.  But over in Indianapolis, twenty miles away, happier
-circumstances were shaping themselves.  Judge E. B. Martindale,
-editor and proprietor of The Indianapolis Journal, had been
-attracted by certain poems in various papers over the state and
-at the very time that the poet was ready to confess himself
-beaten, the judge wrote:  "Come over to Indianapolis and we'll
-give you, a place on The Journal."  Mr. Riley went.  That was the
-turning point, and though the skies were not always clear, nor
-the way easy, still from that time it was ever an ascending
-journey.  As soon as he was comfortably settled in his new
-position, the first of the Benj. F. Johnson poems made its
-appearance.  These dialect verses were introduced with editorial
-comment as coming from an old Boone county farmer, and their
-reception was so cordial, so enthusiastic, indeed, that the
-business manager of The Journal, Mr. George C. Hitt, privately
-published them in pamphlet form and sold the first edition of one
-thousand copies in local bookstores and over The Journal office
-counter.  This marked an epoch in the young poet's progress and
-was the beginning of a friendship between him and Mr. Hitt that
-has never known interruption.  This first edition of The Old
-Swimmin' Hole and 'Leven More Poems has since become extremely
-rare and now commands a high premium.  A second edition was
-promptly issued by a local book dealer, whose successors, The
-Bowen-Merrill Company--now The Bobbs-Merrill Company--have
-continued, practically without interruption, to publish Riley's
+Two dreary and disheartening years followed this tragic event, years in which the young poet found no present help, nor future hope.  But over in Indianapolis, twenty miles away, happier circumstances were shaping themselves.  Judge E. B. Martindale, editor and proprietor of The Indianapolis Journal, had been attracted by certain poems in various papers over the state and at the very time that the poet was ready to confess himself beaten, the judge wrote:  "Come over to Indianapolis and we'll give you, a place on The Journal."  Mr. Riley went.  That was the turning point, and though the skies were not always clear, nor the way easy, still from that time it was ever an ascending journey.  As soon as he was comfortably settled in his new position, the first of the Benj. F. Johnson poems made its appearance.  These dialect verses were introduced with editorial comment as coming from an old Boone county farmer, and their reception was so cordial, so enthusiastic, indeed, that the business manager of The Journal, Mr. George C. Hitt, privately published them in pamphlet form and sold the first edition of one thousand copies in local bookstores and over The Journal office counter.  This marked an epoch in the young poet's progress and was the beginning of a friendship between him and Mr. Hitt that has never known interruption.  This first edition of The Old Swimmin' Hole and 'Leven More Poems has since become extremely rare and now commands a high premium.  A second edition was promptly issued by a local book dealer, whose successors, The Bowen-Merrill Company--now The Bobbs-Merrill Company--have continued, practically without interruption, to publish Riley's
 work.
 
-The call to read from the public platform had by this time become
-so insistent that Riley could no longer resist it, although
-modesty and shyness fought the battle for privacy.  He told
-briefly and in his own inimitable fashion of these trying
-experiences.  "In boyhood I had been vividly impressed with
-Dickens' success in reading from his own works and dreamed that
-some day I might follow his example.  At first I read at Sunday-
-school entertainments and later, on special occasions such as
-Memorial Days and Fourth of Julys.  At last I mustered up
-sufficient courage to read in a city theater, where, despite the
-conspiracy of a rainy night and a circus, I got encouragement
-enough to lead me to extend my efforts.  And so, my native state
-and then the country at large were called upon to bear with me
-and I think I visited every sequestered spot north or south
-particularly distinguished for poor railroad connections.  At
-different times, I shared the program with Mark Twain, Robert J.
-Burdette and George Cable, and for a while my gentlest and
-cheeriest of friends, Bill Nye, joined with me and made the dusty
-detested travel almost a delight.  We were constantly playing
-practical jokes on each other or indulging in some mischievous
-banter before the audience.  On one occasion, Mr. Nye, coming
-before the foot-lights for a word of general introduction, said,
-'Ladies and gentlemen, the entertainment to-night is of a dual
-nature.  Mr. Riley and I will speak alternately.  First I come
-out and talk until I get tired, then Mr. Riley comes out and
-talks until YOU get tired!'  And thus the trips went merrily
-enough at times and besides I learned to know in Bill Nye a man
-blessed with as noble and heroic a heart as ever beat.  But the
-making of trains, which were all in conspiracy to outwit me,
-schedule or no schedule, and the rush and tyrannical pressure of
-inviolable engagements, some hundred to a season and from Boston
-to San Francisco, were a distress to my soul.  I am glad that's
-over with.  Imagine yourself on a crowded day-long excursion;
-imagine that you had to ride all the way on the platform of the
-car; then imagine that you had to ride all the way back on the
-same platform; and lastly, try to imagine how you would feel if
-you did that every day of your life, and you will then get a
-glimmer--a faint glimmer--of how one feels after traveling about
-on a reading or lecturing tour.
+The call to read from the public platform had by this time become so insistent that Riley could no longer resist it, although modesty and shyness fought the battle for privacy.  He told briefly and in his own inimitable fashion of these trying experiences.  "In boyhood I had been vividly impressed with Dickens' success in reading from his own works and dreamed that some day I might follow his example.  At first I read at Sunday- school entertainments and later, on special occasions such as Memorial Days and Fourth of Julys.  At last I mustered up sufficient courage to read in a city theater, where, despite the conspiracy of a rainy night and a circus, I got encouragement enough to lead me to extend my efforts.  And so, my native state and then the country at large were called upon to bear with me and I think I visited every sequestered spot north or south particularly distinguished for poor railroad connections.  At different times, I shared the program with Mark Twain, Robert J. Burdette and George Cable, and for a while my gentlest and cheeriest of friends, Bill Nye, joined with me and made the dusty detested travel almost a delight.  We were constantly playing practical jokes on each other or indulging in some mischievous banter before the audience.  On one occasion, Mr. Nye, coming before the foot-lights for a word of general introduction, said, 'Ladies and gentlemen, the entertainment to-night is of a dual nature.  Mr. Riley and I will speak alternately.  First I come out and talk until I get tired, then Mr. Riley comes out and talks until YOU get tired!'  And thus the trips went merrily enough at times and besides I learned to know in Bill Nye a man blessed with as noble and heroic a heart as ever beat.  But the making of trains, which were all in conspiracy to outwit me, schedule or no schedule, and the rush and tyrannical pressure of inviolable engagements, some hundred to a season and from Boston to San Francisco, were a distress to my soul.  I am glad that's over with.  Imagine yourself on a crowded day-long excursion; imagine that you had to ride all the way on the platform of the car; then imagine that you had to ride all the way back on the same platform; and lastly, try to imagine how you would feel if you did that every day of your life, and you will then get a glimmer--a faint glimmer--of how one feels after traveling about on a reading or lecturing tour.
 
-"All this time I had been writing whenever there was any strength
-left in me.  I could not resist the inclination to write.  It was
-what I most enjoyed doing.  And so I wrote, laboriously ever,
-more often using the rubber end of the pencil than the point.
+"All this time I had been writing whenever there was any strength left in me.  I could not resist the inclination to write.  It was what I most enjoyed doing.  And so I wrote, laboriously ever, more often using the rubber end of the pencil than the point.
 
-"In my readings I had an opportunity to study and find out for
-myself what the public wants, and afterward I would endeavor to
-use the knowledge gained in my writing.  The public desires
-nothing but what is absolutely natural, and so perfectly natural
-as to be fairly artless.  It can not tolerate affectation, and it
-takes little interest in the classical production.  It demands
-simple sentiments that come direct from the heart.  While on the
-lecture platform I watched the effect that my readings had on the
-audience very closely and whenever anybody left the hall I knew
-that my recitation was at fault and tried to find out why.  Once
-a man and his wife made an exit while I was giving The Happy
-Little Cripple--a recitation I had prepared with particular
-enthusiasm and satisfaction.  It fulfilled, as few poems do, all
-the requirements of length, climax and those many necessary
-features for a recitation.  The subject was a theme of real
-pathos, beautified by the cheer and optimism of the little
-sufferer.  Consequently when this couple left the hall I was very
-anxious to know the reason and asked a friend to find out.  He
-learned that they had a little hunch-back child of their own.
-After this experience I never used that recitation again.  On the
-other hand, it often required a long time for me to realize that
-the public would enjoy a poem which, because of some blind
-impulse, I thought unsuitable.  Once a man said to me, 'Why don't
-you recite When the Frost Is on the Punkin?' The use of it had
-never occurred to me for I thought it 'wouldn't go.'  He
-persuaded me to try it and it became one of my most favored
-recitations.  Thus, I learned to judge and value my verses by
-their effect upon the public.  Occasionally, at first, I had
-presumed to write 'over the heads' of the audience, consoling
-myself for the cool reception by thinking my auditors were not of
-sufficient intellectual height to appreciate my efforts.  But
-after a time it came home to me that I myself was at fault in
-these failures, and then I disliked anything that did not appeal
-to the public and learned to discriminate between that which did
-not ring true to my hearers and that which won them by virtue of
-its truthfulness and was simply heart high."
+"In my readings I had an opportunity to study and find out for myself what the public wants, and afterward I would endeavor to use the knowledge gained in my writing.  The public desires nothing but what is absolutely natural, and so perfectly natural as to be fairly artless.  It can not tolerate affectation, and it takes little interest in the classical production.  It demands simple sentiments that come direct from the heart.  While on the lecture platform I watched the effect that my readings had on the audience very closely and whenever anybody left the hall I knew that my recitation was at fault and tried to find out why.  Once a man and his wife made an exit while I was giving The Happy Little Cripple--a recitation I had prepared with particular enthusiasm and satisfaction.  It fulfilled, as few poems do, all the requirements of length, climax and those many necessary features for a recitation.  The subject was a theme of real pathos, beautified by the cheer and optimism of the little sufferer.  Consequently when this couple left the hall I was very anxious to know the reason and asked a friend to find out.  He learned that they had a little hunch-back child of their own. After this experience I never used that recitation again.  On the other hand, it often required a long time for me to realize that the public would enjoy a poem which, because of some blind impulse, I thought unsuitable.  Once a man said to me, 'Why don't you recite When the Frost Is on the Punkin?' The use of it had never occurred to me for I thought it 'wouldn't go.'  He persuaded me to try it and it became one of my most favored recitations.  Thus, I learned to judge and value my verses by their effect upon the public.  Occasionally, at first, I had presumed to write 'over the heads' of the audience, consoling myself for the cool reception by thinking my auditors were not of sufficient intellectual height to appreciate my efforts.  But after a time it came home to me that I myself was at fault in these failures, and then I disliked anything that did not appeal to the public and learned to discriminate between that which did not ring true to my hearers and that which won them by virtue of its truthfulness and was simply heart high."
 
-As a reader of his own poems, as a teller of humorous stories, as
-a mimic, indeed as a finished actor, Riley's genius was rare and
-beyond question.  In a lecture on the Humorous Story, Mark Twain,
-referring to the story of the One Legged Soldier and the
-different ways of telling it, once said:
+As a reader of his own poems, as a teller of humorous stories, as a mimic, indeed as a finished actor, Riley's genius was rare and beyond question.  In a lecture on the Humorous Story, Mark Twain, referring to the story of the One Legged Soldier and the different ways of telling it, once said:
 
-"It takes only a minute and a half to tell it in its comic form;
-and it isn't worth telling after all.  Put into the
-humorous-story form, it takes ten minutes, and is about the
-funniest thing I have ever listened to--as James Whitcomb Riley
+"It takes only a minute and a half to tell it in its comic form; and it isn't worth telling after all.  Put into the humorous-story form, it takes ten minutes, and is about the funniest thing I have ever listened to--as James Whitcomb Riley
 tells it.
 
-"The simplicity and innocence and sincerity and unconsciousness
-of Riley's old farmer are perfectly simulated, and the result is
-a performance which is thoroughly charming and delicious.  This
-is art--and fine and beautiful, and only a master can compass
-it."
+"The simplicity and innocence and sincerity and unconsciousness of Riley's old farmer are perfectly simulated, and the result is a performance which is thoroughly charming and delicious.  This is art--and fine and beautiful, and only a master can compass it."
 
-It was in  that The Old Swimmin' Hole and 'Leven More
-Poems first appeared in volume form.  Four years afterward, Riley
-made his initial appearance before a New York City audience.  The
-entertainment was given in aid of an international copyright law,
-and the country's most distinguished men of letters took part in
-the program.  It is probably true that no one appearing at that
-time was less known to the vast audience in Chickering Hall than
-James Whitcomb Riley, but so great and so spontaneous was the
-enthusiasm when he left the stage after his contribution to the
-first day's program, that the management immediately announced a
-place would be made for Mr. Riley on the second and last day's
-program.  It was then that James Russell Lowell introduced him in
-the following words:
+It was in  that The Old Swimmin' Hole and 'Leven More Poems first appeared in volume form.  Four years afterward, Riley made his initial appearance before a New York City audience.  The entertainment was given in aid of an international copyright law, and the country's most distinguished men of letters took part in the program.  It is probably true that no one appearing at that time was less known to the vast audience in Chickering Hall than James Whitcomb Riley, but so great and so spontaneous was the enthusiasm when he left the stage after his contribution to the first day's program, that the management immediately announced a place would be made for Mr. Riley on the second and last day's program.  It was then that James Russell Lowell introduced him in the following words:
 
-"Ladies and gentlemen:  I have very great pleasure in presenting
-to you the next reader of this afternoon, Mr. James Whitcomb
-Riley, of Indiana.  I confess, with no little chagrin and sense
-of my own loss, that when yesterday afternoon, from this
-platform, I presented him to a similar assemblage, I was almost
-completely a stranger to his poems.  But since that time I have
-been looking into the volumes that have come from his pen, and in
-them I have discovered so much of high worth and tender quality
-that I deeply regret I had not long before made acquaintance with
-his work.  To-day, in presenting Mr. Riley to you, I can say to
-you of my own knowledge, that you are to have the pleasure of
-listening to the voice of a true poet."
+"Ladies and gentlemen:  I have very great pleasure in presenting to you the next reader of this afternoon, Mr. James Whitcomb Riley, of Indiana.  I confess, with no little chagrin and sense of my own loss, that when yesterday afternoon, from this platform, I presented him to a similar assemblage, I was almost completely a stranger to his poems.  But since that time I have been looking into the volumes that have come from his pen, and in them I have discovered so much of high worth and tender quality that I deeply regret I had not long before made acquaintance with his work.  To-day, in presenting Mr. Riley to you, I can say to you of my own knowledge, that you are to have the pleasure of listening to the voice of a true poet."
 
 
-Two years later a selection from his poems was published in
-England under the title Old Fashioned Roses and his
-international reputation was established.  In his own country the
-people had already conferred their highest degrees on him and now
-the colleges and universities--seats of conservatism--gave him
-scholastic recognition.  Yale made him an Honorary Master of Arts
-in 1902; in 1903, Wabash and, a year later, the University of
-Pennsylvania conferred on him the degree of Doctor of Letters,
-and in 1907 Indiana University gave him his LL. D.  Still more
-recently the Academy of Arts and Letters elected him to
-membership, and in 1912 awarded him the gold medal for poetry.
-About this time a yet dearer, more touching tribute came to him
-from school children.  On October 7, 1911, the schools of Indiana
-and New York City celebrated his birthday by special exercises,
-and one year later, the school children of practically every
-section of the country had programs in his honor.
+Two years later a selection from his poems was published in England under the title Old Fashioned Roses and his international reputation was established.  In his own country the people had already conferred their highest degrees on him and now the colleges and universities--seats of conservatism--gave him scholastic recognition.  Yale made him an Honorary Master of Arts in 1902; in 1903, Wabash and, a year later, the University of Pennsylvania conferred on him the degree of Doctor of Letters, and in 1907 Indiana University gave him his LL. D.  Still more recently the Academy of Arts and Letters elected him to membership, and in 1912 awarded him the gold medal for poetry. About this time a yet dearer, more touching tribute came to him from school children.  On October 7, 1911, the schools of Indiana and New York City celebrated his birthday by special exercises, and one year later, the school children of practically every section of the country had programs in his honor.
 
-As these distinguished honors came they found him each time
-surprised anew and, though proud that they who dwell in the high
-places of learning should come in cap and gown to welcome him,
-yet gently and sincerely protesting his own unworthiness.  And as
-they found him when they came so they left him.
+As these distinguished honors came they found him each time surprised anew and, though proud that they who dwell in the high places of learning should come in cap and gown to welcome him, yet gently and sincerely protesting his own unworthiness.  And as they found him when they came so they left him.
 
-Mr. Riley made his home in Indianapolis from the time judge
-Martindale invited him to join The Journal's forces, and no one
-of her citizens was more devoted, nor was any so universally
-loved and honored.  Everywhere he went the tribute of quick
-recognition and cheery greeting was paid him, and his home was
-the shrine of every visiting Hoosier.  High on a sward of velvet
-grass stands a dignified middle-aged brick house.  A dwarfed
-stone wall, broken by an iron gate, guards the front lawn, while
-in the rear an old-fashioned garden revels in hollyhocks and wild
-roses.  Here among his books and his souvenirs the poet spent his
-happy and contented days.  To reach this restful spot, the
-pilgrim must journey to Lockerbie Street, a miniature
-thoroughfare half hidden between two more commanding avenues.  It
-is little more than a lane, shaded, unpaved and from end to end
-no longer than a five minutes' walk, but its fame is for all
+Mr. Riley made his home in Indianapolis from the time judge Martindale invited him to join The Journal's forces, and no one of her citizens was more devoted, nor was any so universally loved and honored.  Everywhere he went the tribute of quick recognition and cheery greeting was paid him, and his home was the shrine of every visiting Hoosier.  High on a sward of velvet grass stands a dignified middle-aged brick house.  A dwarfed stone wall, broken by an iron gate, guards the front lawn, while in the rear an old-fashioned garden revels in hollyhocks and wild roses.  Here among his books and his souvenirs the poet spent his happy and contented days.  To reach this restful spot, the pilgrim must journey to Lockerbie Street, a miniature thoroughfare half hidden between two more commanding avenues.  It is little more than a lane, shaded, unpaved and from end to end no longer than a five minutes' walk, but its fame is for all
 time.
 
  "Such a dear little street it is, nestled away
  From the noise of the city and heat of the day,
  In cool shady coverts of whispering trees,
- With their leaves lifted up to shake hands with the breeze
- Which in all its wide wanderings never may meet
- With a resting-place fairer than Lockerbie Street!"
+With their leaves lifted up to shake hands with the breeze Which in all its wide wanderings never may meet With a resting-place fairer than Lockerbie Street!"
 
 
-Riley never married.  He lived with devoted, loyal and
-understanding friends, a part of whose life he became many years
-ago.  Kindly consideration, gentle affection, peace and order,--
-all that go to make home home, were found here blooming with the
-hollyhocks and the wild roses.  Every day some visitor knocked
-for admittance and was not denied; every day saw the poet calling
-for some companionable friend and driving with him through the
-city's shaded streets or far out into the country.
+Riley never married.  He lived with devoted, loyal and understanding friends, a part of whose life he became many years ago.  Kindly consideration, gentle affection, peace and order,-- all that go to make home home, were found here blooming with the hollyhocks and the wild roses.  Every day some visitor knocked for admittance and was not denied; every day saw the poet calling for some companionable friend and driving with him through the city's shaded streets or far out into the country.
 
-And so his life drew on to its last and most beautiful year.
-Since his serious illness in 1910, the public had shown its love
-for him more and more frequently.  On the occasion of his
-birthday in 1912, Greenfield had welcomed him home through a host
-of children scattering flowers.  Anderson, where he was living
-when he first gained public recognition, had a Riley Day in 1913.
+And so his life drew on to its last and most beautiful year. Since his serious illness in 1910, the public had shown its love for him more and more frequently.  On the occasion of his birthday in 1912, Greenfield had welcomed him home through a host of children scattering flowers.  Anderson, where he was living when he first gained public recognition, had a Riley Day in 1913.
 
-The Indiana State University entertained him the same year, as
-did also the city of Cincinnati.  In 1915 there was a Riley Day
-at Columbus, Indiana, and during all this time each birthday and
-Christmas was marked by "poetry-showers," and by thousands of
-letters of affectionate congratulation and by many tributes in
-the newspapers and magazines.
+The Indiana State University entertained him the same year, as did also the city of Cincinnati.  In 1915 there was a Riley Day at Columbus, Indiana, and during all this time each birthday and Christmas was marked by "poetry-showers," and by thousands of letters of affectionate congratulation and by many tributes in the newspapers and magazines.
 
-His last birthday, October 7, 1915, was the most notable of all.
-Honorable Franklin K. Lane, Secretary of the Interior, suggested
-to the various school superintendents that one of Riley's poems
-be read in each schoolhouse, with the result that Riley
-celebrations were general among the children of the entire
-country.  In a proclamation by Governor Ralston the State of
-Indiana designated the anniversary as Riley Day in honor of its
-"most beloved citizen."  Thousands of letters and gifts from the
-poet's friends poured in--letters from schools and organizations
-and Riley Clubs as well as from individuals--while flowers came
-from every section of the country.  Among them all, perhaps the
-poet was most pleased with a bunch of violets picked from the
-banks of the Brandywine by the children of a Riley school.
+His last birthday, October 7, 1915, was the most notable of all. Honorable Franklin K. Lane, Secretary of the Interior, suggested to the various school superintendents that one of Riley's poems be read in each schoolhouse, with the result that Riley celebrations were general among the children of the entire country.  In a proclamation by Governor Ralston the State of Indiana designated the anniversary as Riley Day in honor of its "most beloved citizen."  Thousands of letters and gifts from the poet's friends poured in--letters from schools and organizations and Riley Clubs as well as from individuals--while flowers came from every section of the country.  Among them all, perhaps the poet was most pleased with a bunch of violets picked from the banks of the Brandywine by the children of a Riley school.
 
-It was on this last birthday that an afternoon festival of Riley
-poems set to music and danced in pantomime took place at
-Indianapolis.  This was followed at night by a dinner in his
-honor at which Charles Warren Fairbanks presided, and the
-speakers were Governor Ralston, Doctor John Finley, Colonel
-George Harvey, Young E. Allison, William Allen White, George Ade,
-Ex-Senator Beveridge and Senator Kern.  That night Riley smiled
-his most wonderful smile, his dimpled boyish smile, and when he
-rose to speak it was with a perceptible quaver in his voice that
-he said:  "Everywhere the faces of friends, a beautiful throng of
-friends!"
+It was on this last birthday that an afternoon festival of Riley poems set to music and danced in pantomime took place at Indianapolis.  This was followed at night by a dinner in his honor at which Charles Warren Fairbanks presided, and the speakers were Governor Ralston, Doctor John Finley, Colonel George Harvey, Young E. Allison, William Allen White, George Ade, Ex-Senator Beveridge and Senator Kern.  That night Riley smiled his most wonderful smile, his dimpled boyish smile, and when he rose to speak it was with a perceptible quaver in his voice that he said:  "Everywhere the faces of friends, a beautiful throng of friends!"
 
-The winter and spring following, Riley spent quietly at Miami,
-Florida, where he had gone the two previous seasons to escape the
-cold and the rain.  There was a Riley Day at Miami in February.
-In April, he returned home, feeling at his best, and, as if by
-premonition, sought out many of his friends, new and old, and
-took them for last rides in his automobile.  A few days before
-the end, he visited Greenfield to attend the funeral of a dear
-boyhood chum, Almon Keefer, of whom he wrote in A Child-World.
-All Riley's old friends who were still left in Greenfield were
-gathered there and to them he spoke words of faith and good
-cheer.  Almon Keefer had "just slipped out" quietly and
-peacefully, he said, and "it was beautiful."
+The winter and spring following, Riley spent quietly at Miami, Florida, where he had gone the two previous seasons to escape the cold and the rain.  There was a Riley Day at Miami in February. In April, he returned home, feeling at his best, and, as if by premonition, sought out many of his friends, new and old, and took them for last rides in his automobile.  A few days before the end, he visited Greenfield to attend the funeral of a dear boyhood chum, Almon Keefer, of whom he wrote in A Child-World. All Riley's old friends who were still left in Greenfield were gathered there and to them he spoke words of faith and good cheer.  Almon Keefer had "just slipped out" quietly and peacefully, he said, and "it was beautiful."
 
-And as quietly and peacefully his own end came--as he had desired
-it, with no dimming of the faculties even to the very close, nor
-suffering, nor confronting death.  This was Saturday night, July
-22, 1916.  On Monday afternoon and evening his body lay in state
-under the dome of Indiana's capitol, while the people filed by,
-thousands upon thousands.  Business men were there, and
-schoolgirls, matrons carrying market baskets, mothers with little
-children, here and there a swarthy foreigner, old folks, too, and
-well-dressed youths, here a farmer and his wife, and there a
-workman in a blue jumper with his hat in his band, silent,
-inarticulate, yet bidding his good-by, too.  On the following
-day, with only his nearest and dearest about him, all that was
-mortal of the people's poet was quietly and simply laid to rest.
-
+And as quietly and peacefully his own end came--as he had desired it, with no dimming of the faculties even to the very close, nor suffering, nor confronting death.  This was Saturday night, July 22, 1916.  On Monday afternoon and evening his body lay in state under the dome of Indiana's capitol, while the people filed by, thousands upon thousands.  Business men were there, and schoolgirls, matrons carrying market baskets, mothers with little children, here and there a swarthy foreigner, old folks, too, and well-dressed youths, here a farmer and his wife, and there a workman in a blue jumper with his hat in his band, silent, inarticulate, yet bidding his good-by, too.  On the following day, with only his nearest and dearest about him, all that was mortal of the people's poet was quietly and simply laid to rest.
 
 
 The Complete Works
@@ -1059,7 +451,6 @@ The world was having a jollier time
     Than it ever will have again.
 
 
-
 PHILIPER FLASH
 
 Young Philiper Flash was a promising lad,
@@ -1110,23 +501,17 @@ But his dear good mother knew Philiper's ways
 So--well, she managed the money to raise;
     And old Flash himself
     Was "laid on the shelf,"
-(In the manner of speaking we have nowadays).
-For "gracious knows, her darling child,
-If he went without money he'd soon grow wild."
-    So Philiper Flash
-    With a regular dash
-"Swung on to the reins," and went "slingin' the cash."
+(In the manner of speaking we have nowadays). For "gracious knows, her darling child, If he went without money he'd soon grow wild."
+So Philiper Flash
+With a regular dash "Swung on to the reins," and went "slingin' the cash."
 
 As old Flash himself, in his office one day,
 Was shaving notes in a barberous way,
     At the hour of four
     Death entered the door
-And shaved the note on his life, they say.
-And he had for his grave a magnificent tomb,
-Though the venturous finger that pointed "Gone Home,"
-    Looked white and cold
-    From being so bold,
-As it feared that a popular lie was told.
+And shaved the note on his life, they say. And he had for his grave a magnificent tomb, Though the venturous finger that pointed "Gone Home,"
+Looked white and cold
+From being so bold, As it feared that a popular lie was told.
 
 Young Philiper Flash was a man of style
 When he first began unpacking the pile
@@ -1173,7 +558,6 @@ Died from exposure and want and cold;
 Whacked his jugular open and went to smash.
 
 
-
 THE SAME OLD STORY
 
 The same old story told again--
@@ -1210,7 +594,6 @@ Will still be new, and pleasing, too,
     Till "Time shall be no more."
 
 
-
 TO A BOY WHISTLING
 
 The smiling face of a happy boy
@@ -1232,7 +615,6 @@ O happy boy with untaught grace!
     What is there in the world to give
     That can buy one hour of the life you live
 Or the trivial cause of your smiling face!
-
 
 
 AN OLD FRIEND
@@ -1260,7 +642,6 @@ Long, loitering days with me:  And I extend
     My hand in rapturous glee:--And so you've come!--
 Ho, I'm so glad!  Come in and take a chair:
 Well, this is just like OLD times, I declare!
-
 
 
 WHAT SMITH KNEW ABOUT FARMING
@@ -1309,37 +690,25 @@ Well--they grumbled and jawed aroun'--
 "Well," says Smith, a-jerkin' his head,
 "That house yonder--bricks painted red--
 Jest like this'n--a PURTIER VIEW--
-Who is it owns it?"  "That's mine too,"
-Says Brown, as he winked at a hole in his shoe,
-"But I'll tell you right here jest what I KIN do:--
-If you'll pay the figgers I'll sell IT to you.,"
+Who is it owns it?"  "That's mine too," Says Brown, as he winked at a hole in his shoe, "But I'll tell you right here jest what I KIN do:-- If you'll pay the figgers I'll sell IT to you.,"
 Smith went over and looked at the place--
 Badgered with Brown, and argied the case--
 Thought that Brown's figgers was rather too tall,
 But, findin' that Brown wasn't goin' to fall,
 In final agreed,
 So they drawed up the deed
-Fer the farm and the fixtures--the live stock an' all.
-And so Smith moved from the city as soon
-As he possibly could--But "the man in the moon"
+Fer the farm and the fixtures--the live stock an' all. And so Smith moved from the city as soon As he possibly could--But "the man in the moon"
 Knowed more'n Smith o' farmin' pursuits,
 And jest to convince you, and have no disputes,
 How little he knowed,
-I'll tell you his "mode,"
-As he called it, o' raisin' "the best that growed,"
-In the way o' potatoes--
-Cucumbers--tomatoes,
-And squashes as lengthy as young alligators.
+I'll tell you his "mode," As he called it, o' raisin' "the best that growed," In the way o' potatoes-- Cucumbers--tomatoes, And squashes as lengthy as young alligators.
 'Twas allus a curious thing to me
 How big a fool a feller kin be
 When he gits on a farm after leavin' a town!--
 Expectin' to raise himself up to renown,
 And reap fer himself agricultural fame,
 By growin' of squashes--WITHOUT ANY SHAME--
-As useless and long as a technical name.
-To make the soil pure,
-And certainly sure,
-He plastered the ground with patent manure.
+As useless and long as a technical name. To make the soil pure, And certainly sure, He plastered the ground with patent manure.
 He had cultivators, and double-hoss plows,
 And patent machines fer milkin' his cows;
 And patent hay-forks--patent measures and weights,
@@ -1425,12 +794,10 @@ In their grocery stores in flourishin' towns
 And leave agriculture alone--and the Browns.
 
 
+A POET'S WOOING
 
- A POET'S WOOING
-
-    I woo'd a woman once,
-But she was sharper than an eastern wind.
-                        --TENNYSON.
+I woo'd a woman once, But she was sharper than an eastern wind.
+--TENNYSON.
 
 "What may I do to make you glad,
 To make you glad and free,
@@ -1468,7 +835,6 @@ I will no longer thus be sad,
 But oh, so glad--so glad--so glad!"
 
 
-
 MAN'S DEVOTION
 
 A lover said, "O Maiden, love me well,
@@ -1486,10 +852,7 @@ Made answer with a look,
 And reading it, the lover bended down,
 And, trusting, "kissed the book."
 
-He took a fond farewell and went away.
-And slow the time went by--
-So weary--dreary was it, day by day
-To love, and wait, and sigh.
+He took a fond farewell and went away. And slow the time went by-- So weary--dreary was it, day by day To love, and wait, and sigh.
 
 She kissed his pictured face sometimes, and said:
     "O Lips, so cold and dumb,
@@ -1504,7 +867,7 @@ Of tear-drops--HERS--bejeweling the case--
 And, thus she grew to think of him as gay
     And joyous all the while,
 And SHE was sorrowing--"Ah, welladay!"
-    But pictures ALWAYS smile!
+But pictures ALWAYS smile!
 
 And years--dull years--in dull monotony
     As ever went and came,
@@ -1545,7 +908,6 @@ And raised her up forgiven, though untrue;
     As fond he gazed on her,
 She sighed,--"SO HAPPY!"  And she never knew
     HE was a WIDOWER.
-
 
 
 A BALLAD
@@ -1590,7 +952,7 @@ And tell me not to question,
 Thus I went playing thoughtfully--
     For that my mother said,--
 "YOU LOOK SO LIKE YOUR FATHER!"
-    Kept ringing in my head.
+Kept ringing in my head.
 
 So, ranging once the golden sands
     That looked out on the sea,
@@ -1625,7 +987,7 @@ And made so many faces
 But he started fiercely toward me--
     Then made a sudden halt
 And roared, "_I_ think he heard you!"
-    And turned a somersault.
+And turned a somersault.
 
 Then a wild fear overcame me,
     And I flew off like the wind,
@@ -1670,8 +1032,6 @@ I know I don't--or father
     Would have run the other way."
 
 
-
-
 THE OLD TIMES WERE THE BEST
 
 Friends, my heart is half aweary
@@ -1684,13 +1044,12 @@ And a voiceless chorus chanting
     That the Old Times were the best.
 
 
-        CHORUS
+CHORUS
 
 All about is bright and pleasant
     With the sound of song and jest,
 Yet a feeling's ever present
     That the Old Times were the best.
-
 
 
 A SUMMER AFTERNOON
@@ -1731,7 +1090,6 @@ My heavy eyelids--there it is again--
     "Coo-coo!"--I mustn't--"Coo-coo!"--fall asleep!
 
 
-
 AT LAST
 
 A dark, tempestuous night; the stars shut in
@@ -1752,8 +1110,7 @@ The father turns; a sharp, swift flash of pain
     Flits o'er his face: "Amanda, child! I said
 A moment since--I see I must AGAIN--
     Go take your little sisters off to bed!
-There, Effie, Rose, and CLARA MUSTN'T CRY!"
-"I tan't he'p it--I'm fyaid 'at mama'll die!"
+There, Effie, Rose, and CLARA MUSTN'T CRY!" "I tan't he'p it--I'm fyaid 'at mama'll die!"
 
 What are his feelings, when this man alone
     Sits in the silence, glaring in the grate
@@ -1777,121 +1134,63 @@ Here, Major--take a little brandy first--
 Eureka is his name--I've found A BOY!"
 
 
-
 FARMER WHIPPLE--BACHELOR
 
-It's a mystery to see me--a man o' fifty-four,
-Who's lived a cross old bachelor fer thirty year' and more--
-A-lookin' glad and smilin'!  And they's none o' you can say
-That you can guess the reason why I feel so good to-day!
+It's a mystery to see me--a man o' fifty-four, Who's lived a cross old bachelor fer thirty year' and more-- A-lookin' glad and smilin'!  And they's none o' you can say That you can guess the reason why I feel so good to-day!
 
 I must tell you all about it!  But I'll have to deviate
 A little in beginnin', so's to set the matter straight
 As to how it comes to happen that I never took a wife--
 Kindo' "crawfish" from the Present to the Springtime of my life!
 
-I was brought up in the country:  Of a family of five--
-Three brothers and a sister--I'm the only one alive,--
-Fer they all died little babies; and 'twas one o' Mother's ways,
-You know, to want a daughter; so she took a girl to raise.
+I was brought up in the country:  Of a family of five-- Three brothers and a sister--I'm the only one alive,-- Fer they all died little babies; and 'twas one o' Mother's ways, You know, to want a daughter; so she took a girl to raise.
 
-The sweetest little thing she was, with rosy cheeks, and fat--
-We was little chunks o' shavers then about as high as that!
-But someway we sort a' SUITED-like! and Mother she'd declare
-She never laid her eyes on a more lovin' pair
+The sweetest little thing she was, with rosy cheeks, and fat-- We was little chunks o' shavers then about as high as that! But someway we sort a' SUITED-like! and Mother she'd declare She never laid her eyes on a more lovin' pair
 
-Than WE was!  So we growed up side by side fer thirteen year',
-And every hour of it she growed to me more dear!--
-W'y, even Father's dyin', as he did, I do believe
-Warn't more affectin' to me than it was to see her grieve!
+Than WE was!  So we growed up side by side fer thirteen year', And every hour of it she growed to me more dear!-- W'y, even Father's dyin', as he did, I do believe Warn't more affectin' to me than it was to see her grieve!
 
 I was then a lad o' twenty; and I felt a flash o' pride
 In thinkin' all depended on ME now to pervide
 Fer Mother and fer Mary; and I went about the place
-With sleeves rolled up--and workin', with a mighty smilin'
-face.--
+With sleeves rolled up--and workin', with a mighty smilin' face.--
 
-Fer SOMEPIN' ELSE was workin'! but not a word I said
-Of a certain sort o' notion that was runnin' through my head,--
-"Some day I'd maybe marry, and a BROTHER'S love was one
-Thing--a LOVER'S was another!" was the way the notion run!
+Fer SOMEPIN' ELSE was workin'! but not a word I said Of a certain sort o' notion that was runnin' through my head,-- "Some day I'd maybe marry, and a BROTHER'S love was one Thing--a LOVER'S was another!" was the way the notion run!
 
-I remember onc't in harvest, when the "cradle-in' " was done,
-(When the harvest of my summers mounted up to twenty-one),
+I remember onc't in harvest, when the "cradle-in' " was done, (When the harvest of my summers mounted up to twenty-one),
 I was ridin' home with Mary at the closin' o' the day--
 A-chawin' straws and thinkin', in a lover's lazy way!
 
-And Mary's cheeks was burnin' like the sunset down the lane:
-I noticed she was thinkin', too, and ast her to explain.
-Well--when she turned and KISSED ME, WITH HER ARMS AROUND
-ME--LAW!
-I'd a bigger load o' Heaven than I had a load o' straw!
+And Mary's cheeks was burnin' like the sunset down the lane: I noticed she was thinkin', too, and ast her to explain. Well--when she turned and KISSED ME, WITH HER ARMS AROUND
+ME--LAW! I'd a bigger load o' Heaven than I had a load o' straw!
 
-I don't p'tend to learnin', but I'll tell you what's a fac',
-They's a mighty truthful sayin' somers in a' almanac--
-Er SOMERS--'bout "puore happiness"--perhaps some folks'll laugh
-At the idy--"only lastin' jest two seconds and a half."--
+I don't p'tend to learnin', but I'll tell you what's a fac', They's a mighty truthful sayin' somers in a' almanac-- Er SOMERS--'bout "puore happiness"--perhaps some folks'll laugh At the idy--"only lastin' jest two seconds and a half."--
 
-But it's jest as true as preachin'!--fer that was a SISTER'S
-kiss,
-And a sister's lovin' confidence a-tellin' to me this:--
-"SHE was happy, BEIN' PROMISED TO THE SON O' FARMER BROWN."--
-And my feelin's struck a pardnership with sunset and went down!
+But it's jest as true as preachin'!--fer that was a SISTER'S kiss, And a sister's lovin' confidence a-tellin' to me this:-- "SHE was happy, BEIN' PROMISED TO THE SON O' FARMER BROWN."-- And my feelin's struck a pardnership with sunset and went down!
 
-I don't know HOW I acted, and I don't know WHAT I said,--
-Fer my heart seemed jest a-turnin' to an ice-cold lump o' lead;
-And the hosses kind o'glimmered before me in the road,
-And the lines fell from my fingers--And that was all I knowed--
+I don't know HOW I acted, and I don't know WHAT I said,-- Fer my heart seemed jest a-turnin' to an ice-cold lump o' lead; And the hosses kind o'glimmered before me in the road, And the lines fell from my fingers--And that was all I knowed--
 
-Fer--well, I don't know HOW long--They's a dim rememberence
-Of a sound o' snortin' horses, and a stake-and-ridered fence
-A-whizzin' past, and wheat-sheaves a-dancin' in the air,
-And Mary screamin' "Murder!" and a-runnin' up to where
+Fer--well, I don't know HOW long--They's a dim rememberence Of a sound o' snortin' horses, and a stake-and-ridered fence A-whizzin' past, and wheat-sheaves a-dancin' in the air, And Mary screamin' "Murder!" and a-runnin' up to where
 
-_I_ was layin' by the roadside, and the wagon upside down
-A-leanin' on the gate-post, with the wheels a-whirlin' roun'!
-And I tried to raise and meet her, but I couldn't, with a vague
-Sort o' notion comin' to me that I had a broken leg.
+_I_ was layin' by the roadside, and the wagon upside down A-leanin' on the gate-post, with the wheels a-whirlin' roun'! And I tried to raise and meet her, but I couldn't, with a vague Sort o' notion comin' to me that I had a broken leg.
 
-Well, the women nussed me through it; but many a time I'd sigh
-As I'd keep a-gittin' better instid o' goin' to die,
-And wonder what was left ME worth livin' fer below,
-When the girl I loved was married to another, don't you know!
+Well, the women nussed me through it; but many a time I'd sigh As I'd keep a-gittin' better instid o' goin' to die, And wonder what was left ME worth livin' fer below, When the girl I loved was married to another, don't you know!
 
-And my thoughts was as rebellious as the folks was good and kind
-When Brown and Mary married--Railly must 'a' been my MIND
-Was kind o' out o' kilter!--fer I hated Brown, you see,
-Worse'n PIZEN--and the feller whittled crutches out fer ME--
+And my thoughts was as rebellious as the folks was good and kind When Brown and Mary married--Railly must 'a' been my MIND Was kind o' out o' kilter!--fer I hated Brown, you see, Worse'n PIZEN--and the feller whittled crutches out fer ME--
 
-And done a thousand little ac's o' kindness and respec'--
-And me a-wishin' all the time that I could break his neck!
-My relief was like a mourner's when the funeral is done
-When they moved to Illinois in the Fall o' Forty-one.
+And done a thousand little ac's o' kindness and respec'-- And me a-wishin' all the time that I could break his neck! My relief was like a mourner's when the funeral is done When they moved to Illinois in the Fall o' Forty-one.
 
-Then I went to work in airnest--I had nothin' much in view
-But to drownd out rickollections--and it kep' me busy, too!
-But I slowly thrived and prospered, tel Mother used to say
-She expected yit to see me a wealthy man some day.
+Then I went to work in airnest--I had nothin' much in view But to drownd out rickollections--and it kep' me busy, too! But I slowly thrived and prospered, tel Mother used to say She expected yit to see me a wealthy man some day.
 
-Then I'd think how little MONEY was, compared to happiness--
-And who'd be left to use it when I died I couldn't guess!
-But I've still kep' speculatin' and a-gainin' year by year,
-Tel I'm payin' half the taxes in the county, mighty near!
+Then I'd think how little MONEY was, compared to happiness-- And who'd be left to use it when I died I couldn't guess! But I've still kep' speculatin' and a-gainin' year by year, Tel I'm payin' half the taxes in the county, mighty near!
 
 Well!--A year ago er better, a letter comes to hand
 Astin' how I'd like to dicker fer some Illinois land--
 "The feller that had owned it," it went ahead to state,
 "Had jest deceased, insolvent, leavin' chance to speculate,"--
 
-And then it closed by sayin' that I'd "better come and see."--
-I'd never been West, anyhow--a'most too wild fer ME,
-I'd allus had a notion; but a lawyer here in town
-Said I'd find myself mistakend when I come to look around.
+And then it closed by sayin' that I'd "better come and see."-- I'd never been West, anyhow--a'most too wild fer ME, I'd allus had a notion; but a lawyer here in town Said I'd find myself mistakend when I come to look around.
 
-So I bids good-by to Mother, and I jumps aboard the train,
-A-thinkin' what I'd bring her when I come back home again--
-And ef she'd had an idy what the present was to be,
-I think it's more'n likely she'd 'a' went along with me!
+So I bids good-by to Mother, and I jumps aboard the train, A-thinkin' what I'd bring her when I come back home again-- And ef she'd had an idy what the present was to be, I think it's more'n likely she'd 'a' went along with me!
 
 Cars is awful tejus ridin', fer all they go so fast!
 But finally they called out my stoppin'-place at last:
@@ -1903,27 +1202,13 @@ The lawyer who was wantin' to swap the piece o' land--
 We started fer the country; and I ast the history
 Of the farm--its former owner--and so forth, etcetery!
 
-And--well--it was interESTin'--I su'prised him, I suppose,
-By the loud and frequent manner in which I blowed my nose!--
-But his su'prise was greater, and it made him wonder more,
-When I kissed and hugged the widder when she met us at the
-door!--
+And--well--it was interESTin'--I su'prised him, I suppose, By the loud and frequent manner in which I blowed my nose!-- But his su'prise was greater, and it made him wonder more, When I kissed and hugged the widder when she met us at the door!--
 
-IT WAS MARY: . . . They's a feelin' a-hidin' down in here--
-Of course I can't explain it, ner ever make it clear.--
-It was with us in that meetin', I don't want you to fergit!
-And it makes me kind o'nervous when I think about it yit!
+IT WAS MARY: . . . They's a feelin' a-hidin' down in here-- Of course I can't explain it, ner ever make it clear.-- It was with us in that meetin', I don't want you to fergit! And it makes me kind o'nervous when I think about it yit!
 
-I BOUGHT that farm, and DEEDED it, afore I left the town
-With "title clear to mansions in the skies," to Mary Brown!
-And fu'thermore, I took her and the CHILDERN--fer you see,
-They'd never seed their Grandma--and I fetched 'em home with me.
+I BOUGHT that farm, and DEEDED it, afore I left the town With "title clear to mansions in the skies," to Mary Brown! And fu'thermore, I took her and the CHILDERN--fer you see, They'd never seed their Grandma--and I fetched 'em home with me.
 
-So NOW you've got an idy why a man o' fifty-four,
-Who's lived a cross old bachelor fer thirty year' and more
-Is a-lookin' glad and smilin'!--And I've jest come into town
-To git a pair o' license fer to MARRY Mary Brown.
-
+So NOW you've got an idy why a man o' fifty-four, Who's lived a cross old bachelor fer thirty year' and more Is a-lookin' glad and smilin'!--And I've jest come into town To git a pair o' license fer to MARRY Mary Brown.
 
 
 MY JOLLY FRIEND'S SECRET
@@ -1944,7 +1229,7 @@ While I laugh alone diverted,
 And I've remained unwedded,
     Till--you see--look here--that I'm,
 In a manner, "snatched bald-headed"
-    By the sportive hand of Time!
+By the sportive hand of Time!
 
 I'm an "old 'un!" yes, but wrinkles
     Are not so plenty, quite,
@@ -1989,7 +1274,7 @@ When a fellow's money's plenty,
 And a girl--with hair as golden
     As--THAT; and lips--well--quite
 As red as THIS I'm holdin'
-    Between you and the light.
+Between you and the light.
 
 And eyes and a complexion--
     Ah, heavens!--le'-me-see--
@@ -2001,7 +1286,6 @@ Well, THAT'S an indication
     I am purty tight--that's all!
 
 
-
 THE SPEEDING OF THE KING'S SPITE
 
 A king--estranged from his loving Queen
@@ -2011,7 +1295,7 @@ Tired and sick of the dull routine
 Issued a mandate in this wise.--
     "THE DOWER OF MY DAUGHTER'S HAND
 I WILL GIVE TO HIM WHO HOLDS THIS PRIZE,
-    THE STRANGEST THING IN THE LAND."
+THE STRANGEST THING IN THE LAND."
 
 But the King, sad sooth! in this grim decree
     Had a motive low and mean;--
@@ -2351,12 +1635,9 @@ Ef you'd 'a' been there to 'a' understood;
 Tel I noticed Hanner and Marshall, they
 Was a-noticin' me in a cur'ous way;
 So I says to myse'f, says I, "Now, Joe,
-The best thing fer you is to jest go slow!"
-And I simmered down, and let them do
-The bulk o' the talkin' the evening through.
+The best thing fer you is to jest go slow!" And I simmered down, and let them do The bulk o' the talkin' the evening through.
 
-And Marshall was still in a talkative gait
-When he left, that evening--tolable late.
+And Marshall was still in a talkative gait When he left, that evening--tolable late.
 "How do you like her?" he says to me;
 Says I, "She suits, to a 'T-Y-TEE'!
 And then I ast how matters stood
@@ -2366,9 +1647,7 @@ I'll finally git her to say the 'yes.'
 I named it to her to-night, and she
 Kind o' smiled, and said 'SHE'D SEE'--
 And that's a purty good sign!" says he:
-"Yes" says I, "you're ahead o' ME!"
-And then he laughed, and said, "GO IN!
-And patted me on the shoulder ag'in.
+"Yes" says I, "you're ahead o' ME!" And then he laughed, and said, "GO IN! And patted me on the shoulder ag'in.
 
 Well, ever sense then I've been ridin' a good
 Deal through the Kankakee neighberhood;
@@ -2383,20 +1662,13 @@ Might as well do it at first as last!
 I felt first-rate; so I hitched at the gate,
 And went up to the house; and, strange to relate,
 MARSHALL THOMAS had dropped in, TOO.--
-"Glad to see you, sir, how do you do?"
-He says, says he!  Well--it SOUNDED QUEER:
+"Glad to see you, sir, how do you do?" He says, says he!  Well--it SOUNDED QUEER:
 
-And when Han' told me to take a cheer,
-Marshall got up and putt out o' the room--
-And motioned his hand fer the WIDDER to come.
-I didn't say nothin' fer quite a spell,
-But thinks I to myse'f, "There's a dog in the well!"
+And when Han' told me to take a cheer, Marshall got up and putt out o' the room-- And motioned his hand fer the WIDDER to come. I didn't say nothin' fer quite a spell, But thinks I to myse'f, "There's a dog in the well!"
 And Han' SHE smiled so cur'ous at me--
 Says I, "What's up?"  And she says, says she,
 "Marshall's been at me to marry ag'in,
-And I told him 'no,' jest as you come in."
-Well, somepin' o' 'nother in that girl's voice
-Says to me, "Joseph, here's your choice!"
+And I told him 'no,' jest as you come in." Well, somepin' o' 'nother in that girl's voice Says to me, "Joseph, here's your choice!"
 And another minute her guileless breast
 Was lovin'ly throbbin' ag'in my vest!--
 And then I kissed her, and heerd a smack
@@ -2406,9 +1678,7 @@ Marshall was kissin' the widder, too!
 Well, we all of us laughed, in our glad su'prise,
 Tel the tears come A-STREAMIN' out of our eyes!
 And when Marsh said "'Twas the squarest trade
-That ever me and him had made,"
-We both shuck hands, 'y jucks! and swore
-We'd stick together ferevermore.
+That ever me and him had made," We both shuck hands, 'y jucks! and swore We'd stick together ferevermore.
 And old Squire Chipman tuck us the trip:
 And Marshall and me's in pardnership!
 
@@ -2416,8 +1686,7 @@ And Marshall and me's in pardnership!
 DOT LEEDLE BOY
 
 Ot's a leedle Gristmas story
-    Dot I told der leedle folks--
-Und I vant you stop dot laughin'
+Dot I told der leedle folks-- Und I vant you stop dot laughin'
     Und grackin' funny jokes!--
 So help me Peter-Moses!
     Ot's no time for monkey-shine,
@@ -2458,7 +1727,7 @@ Und make der table over,
 Dot make 'im all der sveeter,--
     So I say to my Katrine,
 "Better you vas quit a-shpankin'
-    Dot leedle boy of mine!"
+Dot leedle boy of mine!"
 
 No more he vas older
     As about a dozen months
@@ -2494,11 +1763,10 @@ Und I told 'im 'bout "Kriss Kringle,"
 Und I ask 'im eef he love 'im
     Eef he bring 'im someding fine?
 "Nicht besser as mein fader,"
-    Say dot leedle boy of mine.--
+Say dot leedle boy of mine.--
 
 Und he put his arms aroun' me
-    Und hug so close und tight,
-I hear der gclock a-tickin'
+Und hug so close und tight, I hear der gclock a-tickin'
     All der balance of der night! .  .  .
 Someding make me feel so funny
     Ven I say to my Katrine,
@@ -2547,8 +1815,7 @@ Und say, "GOOT-BY, KRISS KRINGLE!"
 I yoost kneel down und drimble,
     Und bur-sed out a-gryin',
 "MEIN GOTT, MEIN GOTT IN HIMMEL!--
-    DOT LEEDLE BOY OF MINE!"
-.   .   .   .   .   .   .   .   .   .
+DOT LEEDLE BOY OF MINE!" .   .   .   .   .   .   .   .   .   .
 
 
 Der sun don't shine DOT Gristmas!
@@ -2609,7 +1876,6 @@ Away the tear that rises here;
     And so I smoke my pipe.
 
 
-
 RED RIDING-HOOD
 
 Sweet little myth of the nursery story--
@@ -2666,101 +1932,42 @@ If I knew what poets know.
 
 AN OLD SWEETHEART OF MINE
 
-An old sweetheart of mine!--Is this her presence here with me,
-Or but a vain creation of a lover's memory?
-A fair, illusive vision that would vanish into air
-Dared I even touch the silence with the whisper of a prayer?
+An old sweetheart of mine!--Is this her presence here with me, Or but a vain creation of a lover's memory? A fair, illusive vision that would vanish into air Dared I even touch the silence with the whisper of a prayer?
 
-Nay, let me then believe in all the blended false and true--
-The semblance of the OLD love and the substance of the NEW,--
-The THEN of changeless sunny days--the NOW of shower and shine--
-But Love forever smiling--as that old sweetheart of mine.
+Nay, let me then believe in all the blended false and true-- The semblance of the OLD love and the substance of the NEW,-- The THEN of changeless sunny days--the NOW of shower and shine-- But Love forever smiling--as that old sweetheart of mine.
 
-This ever-restful sense of HOME, though shouts ring in the
-hall.--
-The easy chair--the old book-shelves and prints along the wall;
-The rare HABANAS in their box, or gaunt church-warden-stem
-That often wags, above the jar, derisively at them.
+This ever-restful sense of HOME, though shouts ring in the hall.-- The easy chair--the old book-shelves and prints along the wall; The rare HABANAS in their box, or gaunt church-warden-stem That often wags, above the jar, derisively at them.
 
-As one who cons at evening o'er an album, all alone,
-And muses on the faces of the friends that he has known,
-So I turn the leaves of Fancy, till, in shadowy design,
-I find the smiling features of an old sweetheart of mine.
+As one who cons at evening o'er an album, all alone, And muses on the faces of the friends that he has known, So I turn the leaves of Fancy, till, in shadowy design, I find the smiling features of an old sweetheart of mine.
 
-The lamplight seems to glimmer with a flicker of surprise,
-As I turn it low--to rest me of the dazzle in my eyes,
-And light my pipe in silence, save a sigh that seems to yoke
-Its fate with my tobacco and to vanish with the smoke.
+The lamplight seems to glimmer with a flicker of surprise, As I turn it low--to rest me of the dazzle in my eyes, And light my pipe in silence, save a sigh that seems to yoke Its fate with my tobacco and to vanish with the smoke.
 
-'Tis a FRAGRANT retrospection,--for the loving thoughts that
-start
-Into being are like perfume from the blossom of the heart;
-And to dream the old dreams over is a luxury divine--
-When my truant fancies wander with that old sweetheart of mine.
+'Tis a FRAGRANT retrospection,--for the loving thoughts that start Into being are like perfume from the blossom of the heart; And to dream the old dreams over is a luxury divine-- When my truant fancies wander with that old sweetheart of mine.
 
-Though I hear beneath my study, like a fluttering of wings,
-The voices of my children and the mother as she sings--
-I feel no twinge of conscience to deny me any theme
-When Care has cast her anchor in the harbor of a dream--
+Though I hear beneath my study, like a fluttering of wings, The voices of my children and the mother as she sings-- I feel no twinge of conscience to deny me any theme When Care has cast her anchor in the harbor of a dream--
 
-In fact, to speak in earnest, I believe it adds a charm
-To spice the good a trifle with a little dust of harm,--
-For I find an extra flavor in Memory's mellow wine
-That makes me drink the deeper to that old sweetheart of mine.
+In fact, to speak in earnest, I believe it adds a charm To spice the good a trifle with a little dust of harm,-- For I find an extra flavor in Memory's mellow wine That makes me drink the deeper to that old sweetheart of mine.
 
-O Childhood-days enchanted!  O the magic of the Spring!--
-With all green boughs to blossom white, and all bluebirds to
-sing!
-When all the air, to toss and quaff, made life a jubilee
-And changed the children's song and laugh to shrieks of ecstasy.
+O Childhood-days enchanted!  O the magic of the Spring!-- With all green boughs to blossom white, and all bluebirds to sing! When all the air, to toss and quaff, made life a jubilee And changed the children's song and laugh to shrieks of ecstasy.
 
-With eyes half closed in clouds that ooze from lips that taste,
-as well,
-The peppermint and cinnamon, I hear the old School bell,
-And from "Recess" romp in again from "Black-man's" broken line,
-To smile, behind my "lesson," at that old sweetheart of mine.
+With eyes half closed in clouds that ooze from lips that taste, as well, The peppermint and cinnamon, I hear the old School bell, And from "Recess" romp in again from "Black-man's" broken line, To smile, behind my "lesson," at that old sweetheart of mine.
 
-A face of lily-beauty, with a form of airy grace,
-Floats out of my tobacco as the Genii from the vase;
-And I thrill beneath the glances of a pair of azure eyes
-As glowing as the summer and as tender as the skies.
+A face of lily-beauty, with a form of airy grace, Floats out of my tobacco as the Genii from the vase; And I thrill beneath the glances of a pair of azure eyes As glowing as the summer and as tender as the skies.
 
-I can see the pink sunbonnet and the little checkered dress
-She wore when first I kissed her and she answered the caress
-With the written declaration that, "as surely as the vine
-Grew 'round the stump," she loved me--that old sweetheart of
+I can see the pink sunbonnet and the little checkered dress She wore when first I kissed her and she answered the caress With the written declaration that, "as surely as the vine Grew 'round the stump," she loved me--that old sweetheart of
 mine.
 
-Again I made her presents, in a really helpless way,--
-The big "Rhode Island Greening"--I was hungry, too, that day!--
-But I follow her from Spelling, with her hand behind her--so--
-And I slip the apple in it--and the Teacher doesn't know!
+Again I made her presents, in a really helpless way,-- The big "Rhode Island Greening"--I was hungry, too, that day!-- But I follow her from Spelling, with her hand behind her--so-- And I slip the apple in it--and the Teacher doesn't know!
 
-I give my TREASURES to her--all,--my pencil--blue-and-red;--
-And, if little girls played marbles, MINE should all be HERS,
-instead!
-But SHE gave me her PHOTOGRAPH, and printed "Ever Thine"
-Across the back--in blue-and-red--that old sweet-heart of mine!
+I give my TREASURES to her--all,--my pencil--blue-and-red;-- And, if little girls played marbles, MINE should all be HERS, instead! But SHE gave me her PHOTOGRAPH, and printed "Ever Thine" Across the back--in blue-and-red--that old sweet-heart of mine!
 
-And again I feel the pressure of her slender little hand,
-As we used to talk together of the future we had planned,--
-When I should be a poet, and with nothing else to do
-But write the tender verses that she set the music to . . .
+And again I feel the pressure of her slender little hand, As we used to talk together of the future we had planned,-- When I should be a poet, and with nothing else to do But write the tender verses that she set the music to . . .
 
-When we should live together in a cozy little cot
-Hid in a nest of roses, with a fairy garden-spot,
-Where the vines were ever fruited, and the weather ever fine,
-And the birds were ever singing for that old sweetheart of mine.
+When we should live together in a cozy little cot Hid in a nest of roses, with a fairy garden-spot, Where the vines were ever fruited, and the weather ever fine, And the birds were ever singing for that old sweetheart of mine.
 
-When I should be her lover forever and a day,
-And she my faithful sweetheart till the golden hair was gray;
-And we should be so happy that when either's lips were dumb
-They would not smile in Heaven till the other's kiss had come.
+When I should be her lover forever and a day, And she my faithful sweetheart till the golden hair was gray; And we should be so happy that when either's lips were dumb They would not smile in Heaven till the other's kiss had come.
 
-But, ah! my dream is broken by a step upon the stair,
-And the door is softly opened, and--my wife is standing there:
-Yet with eagerness and rapture all my visions I resign,--
-To greet the LIVING presence of that old sweetheart of mine.
+But, ah! my dream is broken by a step upon the stair, And the door is softly opened, and--my wife is standing there: Yet with eagerness and rapture all my visions I resign,-- To greet the LIVING presence of that old sweetheart of mine.
 
 
 SQUIRE HAWKINS'S STORY
@@ -2861,9 +2068,7 @@ Enough fer ME!" with sich conceit,
 SHE'D know at once, without no doubt,
 HE meant because she poured it out;
 And smile and blush, and all sich stuff,
-And ast ef it was "STRONG enough?"
-And git the answer, neat and trim,
-"It COULDN'T be too 'strong' fer HIM!"
+And ast ef it was "STRONG enough?" And git the answer, neat and trim, "It COULDN'T be too 'strong' fer HIM!"
 
 And so things went fer 'bout a year,
 Tel John, at last, found pluck to go
@@ -2930,19 +2135,12 @@ And sunned ourselves in the open door,--
 Tel a hoss-and-buggy down the road
 Come a-drivin' up, that I guess John KNOWED,--
 Fer he winked and says, "I'll dessappear--
-THEY'D smell a mice ef they saw ME here!"
-And he thumbed his nose at the old gray mare,
-And hid hisse'f in the house somewhere.
+THEY'D smell a mice ef they saw ME here!" And he thumbed his nose at the old gray mare, And hid hisse'f in the house somewhere.
 
 Well.--The rig drove up: and I raised my head
 As old Jeff hollered to me and said
 That "him and his old friend there had come
-To see ef the squire was at home."
-. . . I told 'em "I was; and I AIMED to be
-At every chance of a weddin'-fee!"
-And then I laughed--and they laughed, too,--
-Fer that was the object they had in view.
-"Would I be on hands at eight that night?"
+To see ef the squire was at home." . . . I told 'em "I was; and I AIMED to be At every chance of a weddin'-fee!" And then I laughed--and they laughed, too,-- Fer that was the object they had in view. "Would I be on hands at eight that night?"
 They ast; and 's-I, "You're mighty right,
 I'LL be on hand!"  And then I BU'ST
 Out a-laughin' my very wu'st,--
@@ -3016,17 +2214,13 @@ My language when I come to that--
 Fer, as she laid away his hat,
 Thinks I, "THE PAPERS HID INSIDE
 OF THAT SAID HAT MUST MAKE A BRIDE
-A HAPPY ONE FER ALL HER LIFE,
-Er else a WRECKED AND WRETCHED WIFE!"
+A HAPPY ONE FER ALL HER LIFE, Er else a WRECKED AND WRETCHED WIFE!"
 And, someway, then, I thought of JOHN,--
 Then looked towards PATIENCE. . . .  She was GONE!--
 The door stood open, and the rain
 Was dashin' in; and sharp and plain
 Above the storm we heerd a cry--
-A ringin', laughin', loud "Good-by!"
-That died away, as fleet and fast
-A hoss's hoofs went splashin' past!
-And that was all.  'Twas done that quick! . . .
+A ringin', laughin', loud "Good-by!" That died away, as fleet and fast A hoss's hoofs went splashin' past! And that was all.  'Twas done that quick! . . .
 You've heerd o' fellers "lookin' sick"?
 I wisht you'd seen THE GROOM jest then--
 I wisht you'd seen them two old men,
@@ -3086,10 +2280,7 @@ We kep' the dancin' up tel FOUR
 O'clock, I reckon--maybe more.--
 We hardly heerd the thunders roar,
 ER THOUGHT about the STORM that blowed--
-AND THEM TWO FELLERS ON THE ROAD!
-Tel all at onc't we heerd the door
-Bu'st open, and a voice that SWORE,--
-And old Jeff Thompson tuck the floor.
+AND THEM TWO FELLERS ON THE ROAD! Tel all at onc't we heerd the door Bu'st open, and a voice that SWORE,-- And old Jeff Thompson tuck the floor.
 He shuck hisse'f and looked around
 Like some old dog about half-drowned--
 HIS HAT, I reckon, WEIGHED TEN POUND
@@ -3105,16 +2296,7 @@ O' folks, I KNOW, you never met
 In any court room, where with dread
 They wait to hear a verdick read.
 
-The old man turned his eyes on me:
-"And have you married 'em?" says he.
-I nodded "Yes."  "Well, that'll do,"
-He says, "and now we're th'ough with YOU,--
-YOU jest clear out, and I decide
-And promise to be satisfied!"
-He hadn't nothin' more to say.
-I saw, of course, how matters lay,
-And left.  But as I rode away
-I heerd the roosters crow fer day.
+The old man turned his eyes on me: "And have you married 'em?" says he. I nodded "Yes."  "Well, that'll do," He says, "and now we're th'ough with YOU,-- YOU jest clear out, and I decide And promise to be satisfied!" He hadn't nothin' more to say. I saw, of course, how matters lay, And left.  But as I rode away I heerd the roosters crow fer day.
 
 
 A COUNTRY PATHWAY
@@ -3310,7 +2492,7 @@ The old school-day romances
 When some sweet thought revises
     The half-forgotten tune
 That opened "Exercises"
-    On "Friday Afternoon."
+On "Friday Afternoon."
 
 We seem to hear the clicking
     Of the pencil and the pen,
@@ -3391,7 +2573,7 @@ And Tell (with Gessler) lifts us
 Till a youngster, far from sunny,
     With sad eyes of watery blue,
 Winds up with something "funny,"
-    Like "Cock-a-doodle-do!"
+Like "Cock-a-doodle-do!"
 
 Then a dialogue--selected
     For its realistic worth:--
@@ -3447,7 +2629,7 @@ Thus the old school-day romances
 When some sweet thought revises
     The half-forgotten tune
 That opened "Exercises,"
-    On "Friday Afternoon."
+On "Friday Afternoon."
 
 
 "JOHNSON'S BOY"
@@ -3532,9 +2714,7 @@ Of those beautiful hands that I love so much,
 I seem to thrill as I then was thrilled,
 Kissing the glove that I found unfilled--
 When I met your gaze, and the queenly bow,
-As you said to me, laughingly, "Keep it now!" . . .
-And dazed and alone in a dream I stand,
-Kissing this ghost of your beautiful hand.
+As you said to me, laughingly, "Keep it now!" . . . And dazed and alone in a dream I stand, Kissing this ghost of your beautiful hand.
 
 When first I loved, in the long ago,
 And held your hand as I told you so--
@@ -3626,9 +2806,8 @@ THE SILENT VICTORS
 
 MAY 30, 1878,
 
-Dying for victory, cheer on cheer
-Thundered on his eager ear.
-            --CHARLES L. HOLSTEIN.
+Dying for victory, cheer on cheer Thundered on his eager ear.
+--CHARLES L. HOLSTEIN.
 
 I
 
@@ -3903,8 +3082,7 @@ And Day sinks into slumber, cool and sweet,
 
 DEAD IN SIGHT OF FAME
 
-    DIED--Early morning of September 5, 1876, and
-in the gleaming dawn of "name and fame,"
+DIED--Early morning of September 5, 1876, and in the gleaming dawn of "name and fame,"
 Hamilton J. Dunbar.
 
 Dead!  Dead!  Dead!
@@ -4038,7 +3216,7 @@ Thy mighty speed, and hold thee fast,
 
 DEAD LEAVES
 
-    DAWN
+DAWN
 
 As though a gipsy maiden with dim look,
     Sat crooning by the roadside of the year,
@@ -4353,11 +3531,7 @@ LINES FOR AN ALBUM
 I would not trace the hackneyed phrase
 Of shallow words and empty praise,
 And prate of "peace" till one might think
-My foolish pen was drunk with ink.
-Nor will I here the wish express
-Of "lasting love and happiness,"
-And "cloudless skies"--for after all
-"Into each life some rain must fall."
+My foolish pen was drunk with ink. Nor will I here the wish express Of "lasting love and happiness," And "cloudless skies"--for after all "Into each life some rain must fall."
 --No.  Keep the empty page below,
 In my remembrance, white as snow--
 Nor sigh to know the secret prayer
@@ -4395,9 +3569,7 @@ And robed with coloring so grand,
 And as I gazed with dazzled eyes,
     A gleaming smile lit up his lips
     As his bright soul from its eclipse
-Went flashing into Paradise.
-Then tardy Fame came through the door
-And found a picture--nothing more.
+Went flashing into Paradise. Then tardy Fame came through the door And found a picture--nothing more.
 
 II
 
@@ -4455,9 +3627,7 @@ Upon his burning brow, nor lift
 To his parched lips God's freest gift--
 No sympathetic sob or sigh
 Of trembling lips--no sorrowing eye
-Looked out through tears to see him die.
-And Fame her greenest laurels brought
-To crown a head that heeded not.
+Looked out through tears to see him die. And Fame her greenest laurels brought To crown a head that heeded not.
 
 And this is Fame!  A thing, indeed,
 That only comes when least the need:
@@ -4616,8 +3786,7 @@ My artist-friend, Rolf Herschkelhiem,
 With deep sad eyes of oversize,
 And face of melancholy guise.
 
-I pressed him that he tell to me
-This masterpiece's history.
+I pressed him that he tell to me This masterpiece's history.
 He turned--REturned--and thus beguiled
 Me with the tale of Orlie Wilde:--
 
@@ -4688,9 +3857,7 @@ That ever mariner defied,
 And, at the shore, could on have gone
 To that high crag she stood upon,
 To there entreat and say, 'My Sweet,
-Behold thy servant at thy feet.'
-And to my soul I said:  'Above,
-There stands the idol of thy love!'
+Behold thy servant at thy feet.' And to my soul I said:  'Above, There stands the idol of thy love!'
 
 "In this rapt, awed, ecstatic state
 I gazed--till lo! I was aware
@@ -4740,8 +3907,7 @@ And back again, with graceful wave
 Of lifted arm, she answer gave
 'She feared some danger from the sea.'
 
-"Impatient, piqued, impetuous, I
-Sprang in the boat, and flung 'Good-by'
+"Impatient, piqued, impetuous, I Sprang in the boat, and flung 'Good-by'
 From pouted mouth with angry hand,
 And madly pulled away from land
 With lusty stroke, despite that she
@@ -4828,8 +3994,7 @@ As mine to her--as mine to her."
 
 THAT OTHER MAUD MULLER
 
-Maud Muller worked at making hay,
-And cleared her forty cents a day.
+Maud Muller worked at making hay, And cleared her forty cents a day.
 
 Her clothes were coarse, but her health was fine,
 And so she worked in the sweet sunshine
@@ -4837,8 +4002,7 @@ And so she worked in the sweet sunshine
 Singing as glad as a bird in May
 "Barbara Allen" the livelong day.
 
-She often glanced at the far-off town,
-And wondered if eggs were up or down.
+She often glanced at the far-off town, And wondered if eggs were up or down.
 
 And the sweet song died of a strange disease,
 Leaving a phantom taste of cheese,
@@ -4858,14 +4022,11 @@ Marveled much at the kind he "chawed."
 Would brace him up."  So the cup was filled
 With the crystal wine that old spring spilled;
 
-And she gave it him with a sun-browned hand.
-"Thanks," said the judge in accents bland;
+And she gave it him with a sun-browned hand. "Thanks," said the judge in accents bland;
 
-"A thousand thanks! for a sweeter draught,
-From a fairer hand"--but there he laughed.
+"A thousand thanks! for a sweeter draught, From a fairer hand"--but there he laughed.
 
-And the sweet girl stood in the sun that day,
-And raked the judge instead of the hay.
+And the sweet girl stood in the sun that day, And raked the judge instead of the hay.
 
 
 A MAN OF MANY PARTS
@@ -5256,8 +4417,7 @@ And git your health recruited up
 THE ANCIENT PRINTERMAN
 
 "O Printerman of sallow face,
-    And look of absent  guile,
-Is it the 'copy' on your 'case'
+And look of absent  guile, Is it the 'copy' on your 'case'
     That causes you to smile?
 Or is it some old treasure scrap
     You cull from Memory's file?
@@ -5395,7 +4555,6 @@ And I will, oh, so humbly bow,
 For I've a wife that combs it now.
 
 
-
 A WRANGDILLION
 
 Dexery-tethery! down in the dike,
@@ -5428,46 +4587,24 @@ As he twunkers a tune on a Tiljicum leaf
 
 GEORGE MULLEN'S CONFESSION
 
-For the sake of guilty conscience, and the heart that ticks the
-time
-Of the clockworks of my nature, I desire to say that I'm
-A weak and sinful creature, as regards my daily walk
-The last five years and better.  It ain't worth while to talk--
+For the sake of guilty conscience, and the heart that ticks the time Of the clockworks of my nature, I desire to say that I'm A weak and sinful creature, as regards my daily walk The last five years and better.  It ain't worth while to talk--
 
-I've been too mean to tell it!  I've been so hard, you see,
-And full of pride, and--onry--now there's the word for me--
-Just onry--and to show you, I'll give my history
-With vital points in question, and I think you'll all agree.
+I've been too mean to tell it!  I've been so hard, you see, And full of pride, and--onry--now there's the word for me-- Just onry--and to show you, I'll give my history With vital points in question, and I think you'll all agree.
 
-I was always stiff and stubborn since I could recollect,
-And had an awful temper, and never would reflect;
-And always into trouble--I remember once at school
-The teacher tried to flog me, and I reversed that rule.
+I was always stiff and stubborn since I could recollect, And had an awful temper, and never would reflect; And always into trouble--I remember once at school The teacher tried to flog me, and I reversed that rule.
 
 O I was bad I tell you!  And it's a funny move
 That a fellow wild as I was could ever fall in love;
 And it's a funny notion that an animal like me,
 Under a girl's weak fingers was as tame as tame could be!
 
-But it's so, and sets me thinking of the easy way she had
-Of cooling down my temper--though I'd be fighting mad.
-"My Lion Queen" I called her--when a spell of mine occurred
-She'd come in a den of feelings and quell them with a word.
+But it's so, and sets me thinking of the easy way she had Of cooling down my temper--though I'd be fighting mad. "My Lion Queen" I called her--when a spell of mine occurred She'd come in a den of feelings and quell them with a word.
 
-I'll tell you how she loved me--and what her people thought:
-When I asked to marry Annie they said "they reckoned not--
-That I cut too many didoes and monkey-shines to suit
-Their idea of a son-in-law, and I could go, to boot!"
+I'll tell you how she loved me--and what her people thought: When I asked to marry Annie they said "they reckoned not-- That I cut too many didoes and monkey-shines to suit Their idea of a son-in-law, and I could go, to boot!"
 
-I tell you that thing riled me!  Why, I felt my face turn white,
-And my teeth shut like a steel trap, and the fingers of my right
-Hand pained me with their pressure--all the rest's a mystery
-Till I heard my Annie saying--"I'm going, too, you see."
+I tell you that thing riled me!  Why, I felt my face turn white, And my teeth shut like a steel trap, and the fingers of my right Hand pained me with their pressure--all the rest's a mystery Till I heard my Annie saying--"I'm going, too, you see."
 
-We were coming through the gateway, and she wavered for a spell
-When she heard her mother crying and her raving father yell
-That she wa'n't no child of his'n--like an actor in a play
-We saw at Independence, coming through the other day.
+We were coming through the gateway, and she wavered for a spell When she heard her mother crying and her raving father yell That she wa'n't no child of his'n--like an actor in a play We saw at Independence, coming through the other day.
 
 Well! that's the way we started.  And for days and weeks and
 months
@@ -5476,112 +4613,52 @@ Of starting out together upon the path of life--
 Akind o' sort o' husband, but a mighty loving wife,--
 
 And the cutest little baby--little Grace--I see her now
-A-standin' on the pig-pen as her mother milked the cow--
-And I can hear her shouting--as I stood unloading straw,--
-"I'm ain't as big as papa, but I'm biggerest'n ma."
+A-standin' on the pig-pen as her mother milked the cow-- And I can hear her shouting--as I stood unloading straw,-- "I'm ain't as big as papa, but I'm biggerest'n ma."
 
-Now folks that never married don't seem to understand
-That a little baby's language is the sweetest ever planned--
-Why, I tell you it's pure music, and I'll just go on to say
-That I sometimes have a notion that the angels talk that way!
+Now folks that never married don't seem to understand That a little baby's language is the sweetest ever planned-- Why, I tell you it's pure music, and I'll just go on to say That I sometimes have a notion that the angels talk that way!
 
-There's a chapter in this story I'd be happy to destroy;
-I could burn it up before you with a mighty sight of joy;
-But I'll go ahead and give it--not in detail, no, my friend,
-For it takes five years of reading before you find the end.
+There's a chapter in this story I'd be happy to destroy; I could burn it up before you with a mighty sight of joy; But I'll go ahead and give it--not in detail, no, my friend, For it takes five years of reading before you find the end.
 
-My Annie's folks relented--at least, in some degree;
-They sent one time for Annie, but they didn't send for me.
-The old man wrote the message with a heart as hot and dry
-As a furnace--"Annie Mullen, come and see your mother die."
+My Annie's folks relented--at least, in some degree; They sent one time for Annie, but they didn't send for me. The old man wrote the message with a heart as hot and dry As a furnace--"Annie Mullen, come and see your mother die."
 
 I saw the slur intended--why I fancied I could see
 The old man shoot the insult like a poison dart at me;
 And in that heat of passion I swore an inward oath
 That if Annie pleased her father she could never please us both.
 
-I watched her--dark and sullen--as she hurried on her shawl;
-I watched her--calm and cruel, though I saw her tear-drops fall;
-I watched her--cold and heartless, though I heard her moaning,
-call
-For mercy from high Heaven--and I smiled throughout it all.
+I watched her--dark and sullen--as she hurried on her shawl; I watched her--calm and cruel, though I saw her tear-drops fall; I watched her--cold and heartless, though I heard her moaning, call For mercy from high Heaven--and I smiled throughout it all.
 
-Why even when she kissed me, and her tears were on my brow,
-As she murmured, "George, forgive me--I must go to mother now!"
-Such hate there was within me that I answered not at all,
-But calm, and cold and cruel, I smiled throughout it all.
+Why even when she kissed me, and her tears were on my brow, As she murmured, "George, forgive me--I must go to mother now!" Such hate there was within me that I answered not at all, But calm, and cold and cruel, I smiled throughout it all.
 
-But a shadow in the doorway caught my eye, and then the face
-Full of innocence and sunshine of little baby Grace.
-And I snatched her up and kissed her, and I softened through and
-through
-For a minute when she told me "I must kiss her muvver too."
+But a shadow in the doorway caught my eye, and then the face Full of innocence and sunshine of little baby Grace. And I snatched her up and kissed her, and I softened through and through For a minute when she told me "I must kiss her muvver too."
 
-I remember, at the starting, how I tried to freeze again
-As I watched them slowly driving down the little crooked lane--
-When Annie shouted something that ended in a cry,
-And how I tried to whistle and it fizzled in a sigh.
+I remember, at the starting, how I tried to freeze again As I watched them slowly driving down the little crooked lane-- When Annie shouted something that ended in a cry, And how I tried to whistle and it fizzled in a sigh.
 
-I remember running after, with a glimmer in my sight--
-Pretending I'd discovered that the traces wasn't right;
-And the last that I remember, as they disappeared from view,
-Was little Grace a-calling, "I see papa!  Howdy-do!"
+I remember running after, with a glimmer in my sight-- Pretending I'd discovered that the traces wasn't right; And the last that I remember, as they disappeared from view, Was little Grace a-calling, "I see papa!  Howdy-do!"
 
-And left alone to ponder, I again took up my hate
-For the old man who would chuckle that I was desolate;
-And I mouthed my wrongs in mutters till my pride called up the
+And left alone to ponder, I again took up my hate For the old man who would chuckle that I was desolate; And I mouthed my wrongs in mutters till my pride called up the
 pain
 His last insult had given me--until I smiled again
 
-Till the wild beast in my nature was raging in the den--
-With no one now to quell it, and I wrote a letter then
-Full of hissing things, and heated with so hot a heat of hate
-That my pen flashed out black lightning at a most terrific rate.
+Till the wild beast in my nature was raging in the den-- With no one now to quell it, and I wrote a letter then Full of hissing things, and heated with so hot a heat of hate That my pen flashed out black lightning at a most terrific rate.
 
-I wrote that "she had wronged me when she went away from me--
-Though to see her dying mother 'twas her father's victory,
-And a woman that could waver when her husband's pride was rent
-Was no longer worthy of it."  And I shut the house and went.
+I wrote that "she had wronged me when she went away from me-- Though to see her dying mother 'twas her father's victory, And a woman that could waver when her husband's pride was rent Was no longer worthy of it."  And I shut the house and went.
 
-To tell of my long exile would be of little good--
-Though I couldn't half-way tell it, and I wouldn't if I could!
-I could tell of California--of a wild and vicious life;
-Of trackless plains, and mountains, and the Indian's
+To tell of my long exile would be of little good-- Though I couldn't half-way tell it, and I wouldn't if I could! I could tell of California--of a wild and vicious life; Of trackless plains, and mountains, and the Indian's
 scalping-knife.
 
-I could tell of gloomy forests howling wild with threats of
-death;
-I could tell of fiery deserts that have scorched me with their
-breath;
-I could tell of wretched outcasts by the hundreds, great and
-small,
-And could claim the nasty honor of the greatest of them all.
+I could tell of gloomy forests howling wild with threats of death; I could tell of fiery deserts that have scorched me with their breath; I could tell of wretched outcasts by the hundreds, great and small, And could claim the nasty honor of the greatest of them all.
 
-I could tell of toil and hardship; and of sickness and disease,
-And hollow-eyed starvation, but I tell you, friend, that these
-Are trifles in comparison with what a fellow feels
-With that bloodhound, Remorsefulness, forever at his heels.
+I could tell of toil and hardship; and of sickness and disease, And hollow-eyed starvation, but I tell you, friend, that these Are trifles in comparison with what a fellow feels With that bloodhound, Remorsefulness, forever at his heels.
 
-I remember--worn and weary of the long, long years of care,
-When the frost of time was making early harvest of my hair--
-I remember, wrecked and hopeless of a rest beneath the sky,
-My resolve to quit the country, and to seek the East, and die.
+I remember--worn and weary of the long, long years of care, When the frost of time was making early harvest of my hair-- I remember, wrecked and hopeless of a rest beneath the sky, My resolve to quit the country, and to seek the East, and die.
 
-I remember my long journey, like a dull, oppressive dream,
-Across the empty prairies till I caught the distant gleam
-Of a city in the beauty of its broad and shining stream
-On whose bosom, flocked together, float the mighty swans of
+I remember my long journey, like a dull, oppressive dream, Across the empty prairies till I caught the distant gleam Of a city in the beauty of its broad and shining stream On whose bosom, flocked together, float the mighty swans of
 steam.
 
-I remember drifting with them till I found myself again
-In the rush and roar and rattle of the engine and the train;
-And when from my surroundings something spoke of child and wife,
-It seemed the train was rumbling through a tunnel in my life.
+I remember drifting with them till I found myself again In the rush and roar and rattle of the engine and the train; And when from my surroundings something spoke of child and wife, It seemed the train was rumbling through a tunnel in my life.
 
-Then I remember something--like a sudden burst of light--
-That don't exactly tell it, but I couldn't tell it right--
-A something clinging to me with its arms around my neck--
-A little girl, for instance--or an angel, I expect--
+Then I remember something--like a sudden burst of light-- That don't exactly tell it, but I couldn't tell it right-- A something clinging to me with its arms around my neck-- A little girl, for instance--or an angel, I expect--
 
 For she kissed me, cried and called me "her dear papa," and I
 felt
@@ -5589,10 +4666,7 @@ My heart was pure virgin gold, and just about to melt--
 And so it did--it melted in a mist of gleaming rain
 When she took my hand and whispered, "My mama's on the train."
 
-There's some things I can dwell on, and get off pretty well,
-But the balance of this story I know I couldn't tell;
-So I ain't going to try it, for to tell the reason why--
-I'm so chicken-hearted lately I'd be certain 'most to cry.
+There's some things I can dwell on, and get off pretty well, But the balance of this story I know I couldn't tell; So I ain't going to try it, for to tell the reason why-- I'm so chicken-hearted lately I'd be certain 'most to cry.
 
 
 "TIRED OUT"
@@ -5735,7 +4809,7 @@ But the pang of her laugh went cutting clear
 "You beg so pert for the kiss you seek
     It reminds me, John," she said,
 "Of a poodle pet that jumps to 'speak'
-    For a crumb or a crust of bread."
+For a crumb or a crust of bread."
 
 And flashing up, with the blush that flushed
     His face like a tableau-light,
@@ -5774,7 +4848,7 @@ It worried me so to keep up with the truth
 "You are old," said the youth, "and I grieve to detect
     A feverish gleam in your eye;
 Yet I'm willing to give you full time to reflect.
-    Now, pray, can you answer me why?"
+Now, pray, can you answer me why?"
 
 "Alas," said the sage, "I was tempted to choose
     Me a wife in my earlier years,
@@ -6119,7 +5193,7 @@ In a lazy dream, with drowsy eyes,
 And a chill wind sang in a minor key:
 "Where is the rose that waits for thee?"
 
-    .   .   .   .   .   .   .   .
+.   .   .   .   .   .   .   .
 
 I dream to-day, o'er a purple stain
     Of bloom on a withered stalk,
@@ -6303,86 +5377,36 @@ And benisons of richest worth
 
 DAS KRIST KINDEL
 
-I had fed the fire and stirred it, till the sparkles in delight
-Snapped their saucy little fingers at the chill December night;
-And in dressing-gown and slippers, I had tilted back "my
-throne"--
-The old split-bottomed rocker--and was musing all alone.
+I had fed the fire and stirred it, till the sparkles in delight Snapped their saucy little fingers at the chill December night; And in dressing-gown and slippers, I had tilted back "my throne"-- The old split-bottomed rocker--and was musing all alone.
 
-I could hear the hungry Winter prowling round the outer door,
-And the tread of muffled footsteps on the white piazza floor;
-But the sounds came to me only as the murmur of a stream
-That mingled with the current of a lazy-flowing dream.
+I could hear the hungry Winter prowling round the outer door, And the tread of muffled footsteps on the white piazza floor; But the sounds came to me only as the murmur of a stream That mingled with the current of a lazy-flowing dream.
 
-Like a fragrant incense rising, curled the smoke of my cigar,
-With the lamplight gleaming through it like a mist-enfolded
-star;--
-And as I gazed, the vapor like a curtain rolled away,
-With a sound of bells that tinkled, and the clatter of a sleigh.
+Like a fragrant incense rising, curled the smoke of my cigar, With the lamplight gleaming through it like a mist-enfolded star;-- And as I gazed, the vapor like a curtain rolled away, With a sound of bells that tinkled, and the clatter of a sleigh.
 
-And in a vision, painted like a picture in the air,
-I saw the elfish figure of a man with frosty hair--
-A quaint old man that chuckled with a laugh as he appeared,
-And with ruddy cheeks like embers in the ashes of his beard.
+And in a vision, painted like a picture in the air, I saw the elfish figure of a man with frosty hair-- A quaint old man that chuckled with a laugh as he appeared, And with ruddy cheeks like embers in the ashes of his beard.
 
-He poised himself grotesquely, in an attitude of mirth,
-On a damask-covered hassock that was sitting on the hearth;
-And at a magic signal of his stubby little thumb,
-I saw the fireplace changing to a bright proscenium.
+He poised himself grotesquely, in an attitude of mirth, On a damask-covered hassock that was sitting on the hearth; And at a magic signal of his stubby little thumb, I saw the fireplace changing to a bright proscenium.
 
-And looking there, I marveled as I saw a mimic stage
-Alive with little actors of a very tender age;
-And some so very tiny that they tottered as they walked,
-And lisped and purled and gurgled like the brooklets, when they
+And looking there, I marveled as I saw a mimic stage Alive with little actors of a very tender age; And some so very tiny that they tottered as they walked, And lisped and purled and gurgled like the brooklets, when they
 talked.
 
-And their faces were like lilies, and their eyes like purest dew,
-And their tresses like the shadows that the shine is woven
-through;
-And they each had little burdens, and a little tale to tell
-Of fairy lore, and giants, and delights delectable.
+And their faces were like lilies, and their eyes like purest dew, And their tresses like the shadows that the shine is woven through; And they each had little burdens, and a little tale to tell Of fairy lore, and giants, and delights delectable.
 
-And they mixed and intermingled, weaving melody with joy,
-Till the magic circle clustered round a blooming baby-boy;
-And they threw aside their treasures in an ecstacy of glee,
-And bent, with dazzled faces and with parted lips, to see.
+And they mixed and intermingled, weaving melody with joy, Till the magic circle clustered round a blooming baby-boy; And they threw aside their treasures in an ecstacy of glee, And bent, with dazzled faces and with parted lips, to see.
 
-'Twas a wondrous little fellow, with a dainty double-chin,
-And chubby cheeks, and dimples for the smiles to blossom in;
-And he looked as ripe and rosy, on his bed of straw and reeds,
-As a mellow little pippin that had tumbled in the weeds.
+'Twas a wondrous little fellow, with a dainty double-chin, And chubby cheeks, and dimples for the smiles to blossom in; And he looked as ripe and rosy, on his bed of straw and reeds, As a mellow little pippin that had tumbled in the weeds.
 
-And I saw the happy mother, and a group surrounding her
-That knelt with costly presents of frankincense and myrrh;
-And I thrilled with awe and wonder, as a murmur on the air
-Came drifting o'er the hearing in a melody of prayer:--
+And I saw the happy mother, and a group surrounding her That knelt with costly presents of frankincense and myrrh; And I thrilled with awe and wonder, as a murmur on the air Came drifting o'er the hearing in a melody of prayer:--
 
-'By the splendor in the heavens, and the hush upon the sea,
-And the majesty of silence reigning over Galilee,--
-We feel Thy kingly presence, and we humbly bow the knee
-And lift our hearts and voices in gratefulness to Thee.
+'By the splendor in the heavens, and the hush upon the sea, And the majesty of silence reigning over Galilee,-- We feel Thy kingly presence, and we humbly bow the knee And lift our hearts and voices in gratefulness to Thee.
 
-Thy messenger has spoken, and our doubts have fled and gone
-As the dark and spectral shadows of the night before the dawn;
-And, in the kindly shelter of the light around us drawn,
-We would nestle down forever in the breast we lean upon.
+Thy messenger has spoken, and our doubts have fled and gone As the dark and spectral shadows of the night before the dawn; And, in the kindly shelter of the light around us drawn, We would nestle down forever in the breast we lean upon.
 
-You have given us a shepherd--You have given us a guide,
-And the light of Heaven grew dimmer when You sent him from Your
-side,--
-But he comes to lead Thy children where the gates will open wide
-To welcome his returning when his works are glorified.
+You have given us a shepherd--You have given us a guide, And the light of Heaven grew dimmer when You sent him from Your side,-- But he comes to lead Thy children where the gates will open wide To welcome his returning when his works are glorified.
 
-By the splendor in the heavens, and the hush upon the sea,
-And the majesty of silence reigning over Galilee,--
-We feel Thy kingly presence, and we humbly bow the knee
-And lift our hearts and voices in gratefulness to Thee.'
+By the splendor in the heavens, and the hush upon the sea, And the majesty of silence reigning over Galilee,-- We feel Thy kingly presence, and we humbly bow the knee And lift our hearts and voices in gratefulness to Thee.'
 
-Then the vision, slowly failing, with the words of the refrain,
-Fell swooning in the moonlight through the frosty window-pane;
-And I heard the clock proclaiming, like an eager sentinel
-Who brings the world good tidings,--"It is Christmas--all is
-well!"
+Then the vision, slowly failing, with the words of the refrain, Fell swooning in the moonlight through the frosty window-pane; And I heard the clock proclaiming, like an eager sentinel Who brings the world good tidings,--"It is Christmas--all is well!"
 
 
 AN OLD YEAR'S ADDRESS
@@ -6442,7 +5466,7 @@ In words like weeds, I'll wrap me o'er,
     Like coarsest clothes against the cold;
     But that large grief which these enfold
 Is given in outline and no more.
-                        --TENNYSON.
+--TENNYSON.
 
 The bells that lift their yawning throats
     And lolling tongues with wrangling cries
@@ -6875,7 +5899,7 @@ We can fill the written pages with a brighter glory
 Turn to the brook where the honeysuckle tipping
     O'er its vase of perfume spills it on the breeze,
 And the bee and humming-bird in ecstacy are sipping
-    From the fairy flagons of the blooming locust-trees.
+From the fairy flagons of the blooming locust-trees.
 
 Turn to the lane where we used to "teeter-totter,"
     Printing little foot-palms in the mellow mold--
@@ -6970,8 +5994,6 @@ And pure and sweet that the woodman stood
         Into a language all his own--
 
 
-     1
-
 'Sing! every bird, to-day!
     Sing for the sky so clear,
     And the gracious breath of the atmosphere
@@ -6982,8 +6004,6 @@ Lift each voice in the highest key
         And sing for Liberty!'
 
 
-     2
-
 'Sing for the arms that fling
     Their fetters in the dust
     And lift their hands in higher trust
@@ -6993,8 +6013,6 @@ Sing for the country they have planned;
 Sing that the world may understand
         This is Freedom's land!'
 
-
-     3
 
 'Sing in the tones of prayer,
     Sing till the soaring soul
@@ -7010,9 +6028,7 @@ III
 A holy quiet reigned, save where the hand
 Of labor sent a murmur through the land,
 And happy voices in a harmony
-Taught every lisping breeze a melody.
-A nest of cabins, where the smoke upcurled
-A breathing incense to the other world.
+Taught every lisping breeze a melody. A nest of cabins, where the smoke upcurled A breathing incense to the other world.
 A land of languor from the sun of noon,
 That fainted slowly to the pallid moon,
 Till stars, thick-scattered in the garden-land
@@ -7070,7 +6086,7 @@ Set glorious rumors floating, till the ear
 Of every listening patriot tingled clear,
 And thrilled with joy and jubilee to hear.
 
-         I
+I
 
 'Stir all your echoes up,
     O Independence Bell,
@@ -7255,11 +6271,3 @@ While the firelight leaps to lend
         Who have HOMES, and home's repose,
         Wife- and child-love without end!
         . . . Tom Van Arden, my old friend.
-
-
-
-
-
-End of the Project Gutenberg Etext:  Complete Works of James Whitcomb Riley
-Volume 1
-

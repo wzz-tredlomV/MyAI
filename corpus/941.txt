@@ -1,46 +1,12 @@
-The Project Gutenberg EBook of Just Folks, by Edgar A. Guest
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Just Folks
-
-Author: Edgar A. Guest
-
-Posting Date: July 26, 2008 [EBook #941]
-Release Date: June, 1997
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK JUST FOLKS ***
-
-
-
-
-Produced by An Anonymous Volunteer
-
-
-
-
-
 JUST FOLKS
 
 by Edgar A. Guest
-
-
 
 
           To  the  Little  Mother and
           the  Memory  of   the   Big
           Father,  This  Simple  Book
           Is Affectionately Dedicated
-
-
 
 
 Just Folks
@@ -91,8 +57,6 @@ Just Folks
           Because from friends we're never parted.
 
 
-
-
 As It Goes
 
           In the corner she's left the mechanical toy,
@@ -121,8 +85,6 @@ As It Goes
             Look deeper than ours to find charm,
           And now she's in bed, and the rag dolly lies
             Snuggled close on her little white arm.
-
-
 
 
 Hollyhocks
@@ -164,8 +126,6 @@ Hollyhocks
           Each summer with the hollyhocks.
 
 
-
-
 Sacrifice
 
           When he has more than he can eat
@@ -182,8 +142,6 @@ Sacrifice
 
           The widow's mite to heaven went
           Because real sacrifice it meant.
-
-
 
 
 Reward
@@ -216,8 +174,6 @@ Reward
             That life's been good to me.
 
 
-
-
 See It Through
 
           When you're up against a trouble,
@@ -246,8 +202,6 @@ See It Through
             Don't give up, whate'er you do;
           Eyes front, head high to the finish.
             See it through!
-
-
 
 
 To the Humble
@@ -298,23 +252,21 @@ To the Humble
             The merit that's in you.
 
 
-
-
 When Nellie's on the Job
 
           The bright spots in my life are when the servant quits the place,
           Although that grim disturbance brings a frown to Nellie's face;
           The week between the old girl's' reign and entry of the new
-          Is one that's filled with happiness and comfort through and through.
-          The charm of living's back again--a charm that servants rob--
-          I like the home, I like the meals, when Nellie's on the job.
+Is one that's filled with happiness and comfort through and through.
+The charm of living's back again--a charm that servants rob--
+I like the home, I like the meals, when Nellie's on the job.
 
-          There's something in a servant's ways, however fine they be,
-          That has a cold and distant touch and frets the soul of me.
-          The old home never looks so well, as in that week or two
-          That we are servantless and Nell has all the work to do.
-          There is a sense of comfort then that makes my pulses throb
-          And home is as it ought to be when Nellie's on the job.
+There's something in a servant's ways, however fine they be,
+That has a cold and distant touch and frets the soul of me.
+The old home never looks so well, as in that week or two
+That we are servantless and Nell has all the work to do.
+There is a sense of comfort then that makes my pulses throb
+And home is as it ought to be when Nellie's on the job.
 
           Think not that I'd deny her help or grudge the servant's pay;
           When one departs we try to get another right away;
@@ -328,9 +280,7 @@ When Nellie's on the Job
           And though you hired the queen of cooks to fashion your croquettes,
           Her meals would not compare with those your loving comrade gets;
           So, though the maid has quit again, and she is moved to sob,
-          The old home's at its finest now, for Nellie's on the job.
-
-
+The old home's at its finest now, for Nellie's on the job.
 
 
 The Old, Old Story
@@ -392,39 +342,35 @@ The Old, Old Story
             She scolds a lot about the pup.
 
 
-
-
 Since Jessie Died
 
-          We understand a lot of things we never did before,
-          And it seems that to each other Ma and I are meaning more.
-          I don't know how to say it, but since little Jessie died
-          We have learned that to be happy we must travel side by side.
-          You can share your joys and pleasures, but you never come to know
-          The depth there is in loving, till you've got a common woe.
+We understand a lot of things we never did before,
+And it seems that to each other Ma and I are meaning more.
+I don't know how to say it, but since little Jessie died
+We have learned that to be happy we must travel side by side.
+You can share your joys and pleasures, but you never come to know
+The depth there is in loving, till you've got a common woe.
 
           We're past the hurt of fretting--we can talk about it now:
           She slipped away so gently and the fever left her brow
           So softly that we didn't know we'd lost her, but, instead,
-          We thought her only sleeping as we watched beside her bed.
-          Then the doctor, I remember, raised his head, as if to say
-          What his eyes had told already, and Ma fainted dead away.
+We thought her only sleeping as we watched beside her bed.
+Then the doctor, I remember, raised his head, as if to say
+What his eyes had told already, and Ma fainted dead away.
 
-          Up to then I thought that money was the thing I ought to get;
-          And I fancied, once I had it, I should never have to fret.
-          But I saw that I had wasted precious hours in seeking wealth;
-          I had made a tidy fortune, but I couldn't buy her health.
-          And I saw this truth much clearer than I'd ever seen before:
-          That the rich man and the poor man have to let death through the door.
+Up to then I thought that money was the thing I ought to get;
+And I fancied, once I had it, I should never have to fret.
+But I saw that I had wasted precious hours in seeking wealth;
+I had made a tidy fortune, but I couldn't buy her health.
+And I saw this truth much clearer than I'd ever seen before:
+That the rich man and the poor man have to let death through the door.
 
-          We're not half so keen for money as one time we used to be;
-          I am thinking more of mother and she's thinking more of me.
-          Now we spend more time together, and I know we're meaning more
-          To each other on life's journey, than we ever meant before.
-          It was hard to understand it! Oh, the dreary nights we've cried!
-          But we've found the depth of loving, since the day that Jessie died.
-
-
+We're not half so keen for money as one time we used to be;
+I am thinking more of mother and she's thinking more of me.
+Now we spend more time together, and I know we're meaning more
+To each other on life's journey, than we ever meant before.
+It was hard to understand it! Oh, the dreary nights we've cried!
+But we've found the depth of loving, since the day that Jessie died.
 
 
 Hard Luck
@@ -467,8 +413,6 @@ Hard Luck
           But allus laughed his way along;
           Then I'll sit down an' start to whine
           That all the hard luck here is mine.
-
-
 
 
 Vacation Time
@@ -518,8 +462,6 @@ Vacation Time
           Ere I had learned the ways of men!
 
 
-
-
 The Little Hurts
 
           Every night she runs to me
@@ -548,9 +490,7 @@ The Little Hurts
           Greater bruises will bring your tears,
           Around the bend of the lane of years,
           But come to your daddy with them at night
-          And he'll do his best to make all things right.
-
-
+And he'll do his best to make all things right.
 
 
 The Lanes of Memory
@@ -578,9 +518,7 @@ The Lanes of Memory
           Adown the lanes of memory bloom all the joys of yesteryear,
           And God has given you and me the power to make them reappear;
           For we can settle back at night and live again the joys we knew
-          And taste once more the old delight of days when all our skies were blue.
-
-
+And taste once more the old delight of days when all our skies were blue.
 
 
 The Day of Days
@@ -625,8 +563,6 @@ The Day of Days
             My stockings and my shoes.
 
 
-
-
 A Fine Sight
 
           I reckon the finest sight of all
@@ -654,9 +590,7 @@ A Fine Sight
           An' out o' yer breast flies a weight o' care,
             An' ye're lifted up by some magic spell,
           An' yer heart jes' naturally beats a prayer
-            O' joy to the Lord 'cause she's gittin' well.
-
-
+O' joy to the Lord 'cause she's gittin' well.
 
 
 Manhood's Greeting
@@ -666,30 +600,28 @@ Manhood's Greeting
           No great distinction have I claimed, but in a humble way
           Some satisfactions sweet have come to brighten many a day;
           But of the joyous thrills of life the finest that could be
-          Was mine upon that day when first a stranger "mistered" me.
+Was mine upon that day when first a stranger "mistered" me.
 
-          I had my first long trousers on, and wore a derby too,
-          But I was still a little boy to everyone I knew.
-          I dressed in manly fashion, and I tried to act the part,
-          But I felt that I was awkward and lacked the manly art.
-          And then that kindly stranger spoke my name and set me free;
-          I was sure I'd come to manhood on the day he "mistered" me.
+I had my first long trousers on, and wore a derby too,
+But I was still a little boy to everyone I knew.
+I dressed in manly fashion, and I tried to act the part,
+But I felt that I was awkward and lacked the manly art.
+And then that kindly stranger spoke my name and set me free;
+I was sure I'd come to manhood on the day he "mistered" me.
 
           I never shall forget the joy that suddenly was mine,
           The sweetness of the thrill that seemed to dance along my spine,
           The pride that swelled within me, as he shook my youthful hand
-          And treated me as big enough with grown up men to stand.
-          I felt my body straighten and a stiffening at each knee,
-          And was gloriously happy, just because he'd "mistered" me.
+And treated me as big enough with grown up men to stand.
+I felt my body straighten and a stiffening at each knee,
+And was gloriously happy, just because he'd "mistered" me.
 
-          I cannot now recall his name, I only wish I could.
-          I've often wondered if that day he really understood
-          How much it meant unto a boy, still wearing boyhood's tan,
-          To find that others noticed that he'd grown to be a man.
-          Now I try to treat as equal every growing boy I see
-          In memory of that kindly man--the first to "mister" me.
-
-
+I cannot now recall his name, I only wish I could.
+I've often wondered if that day he really understood
+How much it meant unto a boy, still wearing boyhood's tan,
+To find that others noticed that he'd grown to be a man.
+Now I try to treat as equal every growing boy I see
+In memory of that kindly man--the first to "mister" me.
 
 
 Fishing Nooks
@@ -734,8 +666,6 @@ Fishing Nooks
           The Good Lord fashioned fishing nooks.
 
 
-
-
 Show the Flag
 
           Show the flag and let it wave
@@ -774,19 +704,17 @@ Show the Flag
           Show the flag and fall in line!
 
 
-
-
 Constant Beauty
 
-          It's good to have the trees again, the singing of the breeze again,
-          It's good to see the lilacs bloom as lovely as of old.
-          It's good that we can feel again the touch of beauties real again,
-          For hearts and minds, of sorrow now, have all that they can hold.
+It's good to have the trees again, the singing of the breeze again,
+It's good to see the lilacs bloom as lovely as of old.
+It's good that we can feel again the touch of beauties real again,
+For hearts and minds, of sorrow now, have all that they can hold.
 
-          The roses haven't changed a bit, nor have the lilacs stranged a bit,
-          They bud and bloom the way they did before the war began.
-          The world is upside down to-day, there's much to make us frown to-day,
-          And gloom and sadness everywhere beset the path of man.
+The roses haven't changed a bit, nor have the lilacs stranged a bit,
+They bud and bloom the way they did before the war began.
+The world is upside down to-day, there's much to make us frown to-day,
+And gloom and sadness everywhere beset the path of man.
 
           But now the lilacs bloom again and give us their perfume again,
           And now the roses smile at us and nod along the way;
@@ -796,9 +724,7 @@ Constant Beauty
           Oh, we have changed from what we were; we're not the carefree lot we were;
           Our hearts are filled with sorrow now and grave concern and pain,
           But it is good to see once more, the blooming lilac tree once more,
-          And find the constant roses here to comfort us again.
-
-
+And find the constant roses here to comfort us again.
 
 
 A Patriotic Creed
@@ -832,8 +758,6 @@ A Patriotic Creed
           God grant me strength to keep this creed!
 
 
-
-
 Home
 
           The road to laughter beckons me,
@@ -864,32 +788,28 @@ Home
             As soon as day is done.
 
 
-
-
 The Old-Time Family
 
-          It makes me smile to hear 'em tell each other nowadays
-          The burdens they are bearing, with a child or two to raise.
-          Of course the cost of living has gone soaring to the sky
-          And our kids are wearing garments that my parents couldn't buy.
-          Now my father wasn't wealthy, but I never heard him squeal
-          Because eight of us were sitting at the table every meal.
+It makes me smile to hear 'em tell each other nowadays
+The burdens they are bearing, with a child or two to raise.
+Of course the cost of living has gone soaring to the sky
+And our kids are wearing garments that my parents couldn't buy.
+Now my father wasn't wealthy, but I never heard him squeal
+Because eight of us were sitting at the table every meal.
 
-          People fancy they are martyrs if their children number three,
-          And four or five they reckon makes a large-sized family.
-          A dozen hungry youngsters at a table I have seen
-          And their daddy didn't grumble when they licked the platter clean.
-          Oh, I wonder how these mothers and these fathers up-to-date
-          Would like the job of buying little shoes for seven or eight.
+People fancy they are martyrs if their children number three,
+And four or five they reckon makes a large-sized family.
+A dozen hungry youngsters at a table I have seen
+And their daddy didn't grumble when they licked the platter clean.
+Oh, I wonder how these mothers and these fathers up-to-date
+Would like the job of buying little shoes for seven or eight.
 
           We were eight around the table in those happy days back them,
           Eight that cleaned our plates of pot-pie and then passed them up again;
           Eight that needed shoes and stockings, eight to wash and put to bed,
           And with mighty little money in the purse, as I have said,
           But with all the care we brought them, and through all the days of stress,
-          I never heard my father or my mother wish for less.
-
-
+I never heard my father or my mother wish for less.
 
 
 The Job
@@ -923,8 +843,6 @@ The Job
               Of fame's doorway to-day,
               And life asks you to say
             Just what you will make of your job.
-
-
 
 
 Toys
@@ -966,12 +884,10 @@ Toys
             When I'm left in a toy shop alone.
 
 
-
-
 The Mother on the Sidewalk
 
-          The mother on the sidewalk as the troops are marching by
-          Is the mother of Old Glory that is waving in the sky.
+The mother on the sidewalk as the troops are marching by
+Is the mother of Old Glory that is waving in the sky.
           Men have fought to keep it splendid, men have died to keep it bright,
           But that flag was born of woman and her sufferings day and night;
           'Tis her sacrifice has made it, and once more we ought to pray
@@ -980,18 +896,16 @@ The Mother on the Sidewalk
           There are days of grief before her; there are hours that she will weep;
           There are nights of anxious waiting when her fear will banish sleep;
           She has heard her country calling and has risen to the test,
-          And has placed upon the altar of the nation's need, her best.
-          And no man shall ever suffer in the turmoil of the fray
-          The anguish of the mother of the boy who goes away.
+And has placed upon the altar of the nation's need, her best.
+And no man shall ever suffer in the turmoil of the fray
+The anguish of the mother of the boy who goes away.
 
           You may boast men's deeds of glory, you may tell their courage great,
           But to die is easier service than alone to sit and wait,
           And I hail the little mother, with the tear-stained face and grave,
-          Who has given the flag a soldier--she's the bravest of the brave.
-          And that banner we are proud of, with its red and blue and white,
-          Is a lasting holy tribute to all mothers' love of right.
-
-
+Who has given the flag a soldier--she's the bravest of the brave.
+And that banner we are proud of, with its red and blue and white,
+Is a lasting holy tribute to all mothers' love of right.
 
 
 Memorial Day
@@ -1033,8 +947,6 @@ Memorial Day
           And free men wear no tyrant's chain.
 
 
-
-
 Memory
 
           I stood and watched him playing,
@@ -1073,26 +985,24 @@ Memory
             Who once belonged to me.
 
 
-
-
 The Stick-Together Families
 
-          The stick-together families are happier by far
-          Than the brothers and the sisters who take separate highways are.
-          The gladdest people living are the wholesome folks who make
-          A circle at the fireside that no power but death can break.
-          And the finest of conventions ever held beneath the sun
-          Are the little family gatherings when the busy day is done.
+The stick-together families are happier by far
+Than the brothers and the sisters who take separate highways are.
+The gladdest people living are the wholesome folks who make
+A circle at the fireside that no power but death can break.
+And the finest of conventions ever held beneath the sun
+Are the little family gatherings when the busy day is done.
 
-          There are rich folk, there are poor folk, who imagine they are wise,
-          And they're very quick to shatter all the little family ties.
-          Each goes searching after pleasure in his own selected way,
-          Each with strangers likes to wander, and with strangers likes to play.
-          But it's bitterness they harvest, and it's empty joy they find,
-          For the children that are wisest are the stick-together kind.
+There are rich folk, there are poor folk, who imagine they are wise,
+And they're very quick to shatter all the little family ties.
+Each goes searching after pleasure in his own selected way,
+Each with strangers likes to wander, and with strangers likes to play.
+But it's bitterness they harvest, and it's empty joy they find,
+For the children that are wisest are the stick-together kind.
 
-          There are some who seem to fancy that for gladness they must roam,
-          That for smiles that are the brightest they must wander far from home.
+There are some who seem to fancy that for gladness they must roam,
+That for smiles that are the brightest they must wander far from home.
           That the strange friend is the true friend, and they travel far astray
           they waste their lives in striving for a joy that's far away,
           But the gladdest sort of people, when the busy day is done,
@@ -1101,11 +1011,9 @@ The Stick-Together Families
           It's the stick-together family that wins the joys of earth,
           That hears the sweetest music and that finds the finest mirth;
           It's the old home roof that shelters all the charm that life can give;
-          There you find the gladdest play-ground, there the happiest spot to live.
-          And, O weary, wandering brother, if contentment you would win,
-          Come you back unto the fireside and be comrade with your kin.
-
-
+There you find the gladdest play-ground, there the happiest spot to live.
+And, O weary, wandering brother, if contentment you would win,
+Come you back unto the fireside and be comrade with your kin.
 
 
 Childless
@@ -1176,8 +1084,6 @@ Childless
           That you are doing something real.
 
 
-
-
 The Crucible of Life
 
           Sunshine and shadow, blue sky and gray,
@@ -1206,9 +1112,7 @@ The Crucible of Life
           Perfumed with sweetness of loves that have died,
           Leavened with failures, with grief sanctified,
           Sacred and sweet is the joy that must come
-          From the furnace of life when you've poured off the scum.
-
-
+From the furnace of life when you've poured off the scum.
 
 
 Unimportant Differences
@@ -1285,8 +1189,6 @@ Unimportant Differences
             Suit that I go fishing in.
 
 
-
-
 Grown Up
 
           Last year he wanted building blocks,
@@ -1326,8 +1228,6 @@ Grown Up
             A pair of rubber boots.
 
 
-
-
 Departed Friends
 
           The dead friends live and always will;
@@ -1348,8 +1248,6 @@ Departed Friends
           Still live the friends of long ago.
 
 
-
-
 Laughter
 
           Laughter sort o' settles breakfast better than digestive pills;
@@ -1357,30 +1255,28 @@ Laughter
           When the hired help have riled me with their slipshod, careless ways,
           An' I'm bilin' mad an' cussin' an' my temper's all ablaze,
           If the calf gets me to laughin' while they're teachin' him to feed
-          Pretty soon I'm feelin' better, 'cause I've found the cure I need.
+Pretty soon I'm feelin' better, 'cause I've found the cure I need.
 
-          Like to start the day with laughter; when I've had a peaceful night,
-          An' can greet the sun all smilin', that day's goin' to be all right.
+Like to start the day with laughter; when I've had a peaceful night,
+An' can greet the sun all smilin', that day's goin' to be all right.
           But there's nothing goes to suit me, when my system's full of bile;
           Even horses quit their pullin' when the driver doesn't smile,
           But they'll buckle to the traces when they hear a glad giddap,
-          Just as though they like to labor for a cheerful kind o' chap.
+Just as though they like to labor for a cheerful kind o' chap.
 
-          Laughter keeps me strong an' healthy. You can bet I'm all run down,
-          Fit for doctor folks an' nurses when I cannot shake my frown.
-          Found in farmin' laughter's useful, good for sheep an' cows an' goats;
-          When I've laughed my way through summer, reap the biggest crop of oats.
-          Laughter's good for any business, leastwise so it seems to me
-          Never knew a smilin' feller but was busy as could be.
+Laughter keeps me strong an' healthy. You can bet I'm all run down,
+Fit for doctor folks an' nurses when I cannot shake my frown.
+Found in farmin' laughter's useful, good for sheep an' cows an' goats;
+When I've laughed my way through summer, reap the biggest crop of oats.
+Laughter's good for any business, leastwise so it seems to me
+Never knew a smilin' feller but was busy as could be.
 
           Sometimes sit an' think about it, ponderin' on the ways of life,
           Wonderin' why mortals gladly face the toil an care an' strife,
           Then I come to this conclusion--take it now for what it's worth
-          It's the joy of laughter keeps us plodding on this stretch of earth.
-          Men the fun o' life are seeking--that's the reason for the calf
-          Spillin' mash upon his keeper--men are hungry for a laugh.
-
-
+It's the joy of laughter keeps us plodding on this stretch of earth.
+Men the fun o' life are seeking--that's the reason for the calf
+Spillin' mash upon his keeper--men are hungry for a laugh.
 
 
 The Scoffer
@@ -1395,45 +1291,41 @@ The Scoffer
           I'm glad I didn't live on earth when Fulton had his dream,
           And told his neighbors marvelous tales of what he'd do with steam,
           For I'm not sure I'd not have been a member of the throng
-          That couldn't see how paddle-wheels could shove a boat along.
-          At "Fulton's Folly" I'd have sneered, as thousands did back then,
-          And called the Clermont's architect the craziest of men.
+That couldn't see how paddle-wheels could shove a boat along.
+At "Fulton's Folly" I'd have sneered, as thousands did back then,
+And called the Clermont's architect the craziest of men.
 
-          Yet Franklin gave us wonders great and Fulton did the same,
-          And many "boobs" have left behind an everlasting fame.
-          And dead are all their scoffers now and all their sneers forgot
-          And scarce a nickel's worth of good was brought here by the lot.
-          I shudder when I stop to think, had I been living then,
-          I might have been a scoffer, too, and jeered at Bob and Ben.
+Yet Franklin gave us wonders great and Fulton did the same,
+And many "boobs" have left behind an everlasting fame.
+And dead are all their scoffers now and all their sneers forgot
+And scarce a nickel's worth of good was brought here by the lot.
+I shudder when I stop to think, had I been living then,
+I might have been a scoffer, too, and jeered at Bob and Ben.
 
-          I am afraid to-day to sneer at any fellow's dream.
-          Time was I thought men couldn't fly or sail beneath the stream.
-          I never call a man a boob who toils throughout the night
-          On visions that I cannot see, because he may be right.
-          I always think of Franklin's trick, which brought the jeers of men.
-          And to myself I say, "Who knows but here's another Ben?"
-
-
+I am afraid to-day to sneer at any fellow's dream.
+Time was I thought men couldn't fly or sail beneath the stream.
+I never call a man a boob who toils throughout the night
+On visions that I cannot see, because he may be right.
+I always think of Franklin's trick, which brought the jeers of men.
+And to myself I say, "Who knows but here's another Ben?"
 
 
 The Pathway of the Living
 
-          The pathway of the living is our ever-present care.
-          Let us do our best to smooth it and to make it bright and fair;
-          Let us travel it with kindness, let's be careful as we tread,
-          And give unto the living what we'd offer to the dead.
+The pathway of the living is our ever-present care.
+Let us do our best to smooth it and to make it bright and fair;
+Let us travel it with kindness, let's be careful as we tread,
+And give unto the living what we'd offer to the dead.
 
-          The pathway of the living we can beautify and grace;
-          We can line it deep with roses and make earth a happier place.
-          But we've done all mortals can do, when our prayers are softly said
-          For the souls of those that travel o'er the pathway of the dead.
+The pathway of the living we can beautify and grace;
+We can line it deep with roses and make earth a happier place.
+But we've done all mortals can do, when our prayers are softly said
+For the souls of those that travel o'er the pathway of the dead.
 
           The pathway of the living all our strength and courage needs,
           There we ought to sprinkle favors, there we ought to sow our deeds,
           There our smiles should be the brightest, there our kindest words be said,
-          For the angels have the keeping of the pathway of the dead.
-
-
+For the angels have the keeping of the pathway of the dead.
 
 
 Lemon Pie
@@ -1464,8 +1356,6 @@ Lemon Pie
             O'er a joy no coin can buy,
           And we down the golden treasure
             Which is known as lemon pie.
-
-
 
 
 The Flag on the Farm
@@ -1523,11 +1413,9 @@ The Flag on the Farm
           As if to say: "I'll do my bit!"
 
 
-
-
 Heroes
 
-          There are different kinds of heroes, there are some you hear about.
+There are different kinds of heroes, there are some you hear about.
           They get their pictures printed, and their names the newsboys shout;
           There are heroes known to glory that were not afraid to die
           In the service of their country and to keep the flag on high;
@@ -1537,25 +1425,23 @@ Heroes
           I am thinking of a hero that was never known to fame,
           Just a manly little fellow with a very common name;
           He was freckle-faced and ruddy, but his head was nobly shaped,
-          And he one day took the whipping that his comrades all escaped.
-          And he never made a murmur, never whimpered in reply;
-          He would rather take the censure than to stand and tell a lie.
+And he one day took the whipping that his comrades all escaped.
+And he never made a murmur, never whimpered in reply;
+He would rather take the censure than to stand and tell a lie.
 
-          And I'm thinking of another that had courage that was fine,
-          And I've often wished in moments that such strength of will were mine.
-          He stood against his comrades, and he left them then and there
-          When they wanted him to join them in a deed that wasn't fair.
-          He stood alone, undaunted, with his little head erect;
-          He would rather take the jeering than to lose his self-respect.
+And I'm thinking of another that had courage that was fine,
+And I've often wished in moments that such strength of will were mine.
+He stood against his comrades, and he left them then and there
+When they wanted him to join them in a deed that wasn't fair.
+He stood alone, undaunted, with his little head erect;
+He would rather take the jeering than to lose his self-respect.
 
-          And I know a lot of others that have grown to manhood now,
-          Who have yet to wear the laurel that adorns the victor's brow.
+And I know a lot of others that have grown to manhood now,
+Who have yet to wear the laurel that adorns the victor's brow.
           They have plodded on in honor through the dusty, dreary ways,
           They have hungered for life's comforts and the joys of easy days,
           But they've chosen to be toilers, and in this their splendor's told:
-          They would rather never have it than to do some things for gold.
-
-
+They would rather never have it than to do some things for gold.
 
 
 The Mother's Question
@@ -1597,8 +1483,6 @@ The Mother's Question
           "Tell me, my boy, if your feet are wet."
 
 
-
-
 The Blue Flannel Shirt
 
           I am eager once more to feel easy,
@@ -1627,8 +1511,6 @@ The Blue Flannel Shirt
           That seem to improve with the dirt,
           And let me get back to the comfort
           That's born of a blue flannel shirt.
-
-
 
 
 Grandpa
@@ -1694,32 +1576,28 @@ Grandpa
           The way my grandpa does for me
 
 
-
-
 Pa Did It
 
-          The train of cars that Santa brought is out of kilter now;
-          While pa was showing how they went he broke the spring somehow.
-          They used to run around a track--at least they did when he
-          Would let me take them in my hands an' wind 'em with a key.
-          I could 'a' had some fun with 'em, if only they would go,
-          But, gee! I never had a chance, for pa enjoyed em so.
+The train of cars that Santa brought is out of kilter now;
+While pa was showing how they went he broke the spring somehow.
+They used to run around a track--at least they did when he
+Would let me take them in my hands an' wind 'em with a key.
+I could 'a' had some fun with 'em, if only they would go,
+But, gee! I never had a chance, for pa enjoyed em so.
 
-          The automobile that I got that ran around the floor
-          Was lots of fun when it was new, but it won't go no more.
+The automobile that I got that ran around the floor
+Was lots of fun when it was new, but it won't go no more.
           Pa wound it up for Uncle Jim to show him how it went,
           And when those two got through with it the runnin' gear was bent,
           An' now it doesn't go at all. I mustn't grumble though,
-          'Cause while it was in shape to run my pa enjoyed it so.
+'Cause while it was in shape to run my pa enjoyed it so.
 
-          I've got my blocks as good as new, my mitts are perfect yet;
-          Although the snow is on the ground I haven't got em wet.
-          I've taken care of everything that Santa brought to me,
-          Except the toys that run about when wound up with a key.
-          But next year you can bet I won't make any such mistake;
-          I'm going to ask for toys an' things that my pa cannot break.
-
-
+I've got my blocks as good as new, my mitts are perfect yet;
+Although the snow is on the ground I haven't got em wet.
+I've taken care of everything that Santa brought to me,
+Except the toys that run about when wound up with a key.
+But next year you can bet I won't make any such mistake;
+I'm going to ask for toys an' things that my pa cannot break.
 
 
 The Real Successes
@@ -1770,8 +1648,6 @@ The Real Successes
             There lives; rich or poor, a success.
 
 
-
-
 The Sorry Hostess
 
           She said she was sorry the weather was bad
@@ -1809,8 +1685,6 @@ The Sorry Hostess
           Though there really was nothing to blame.
           But I thought to myself as I put on my hat,
           Perhaps she is sorry we came.
-
-
 
 
 Yesterday
@@ -1861,8 +1735,6 @@ Yesterday
             These verses--yesterday.
 
 
-
-
 The Beauty Places
 
           Here she walked and romped about,
@@ -1892,8 +1764,6 @@ The Beauty Places
             That mean so very much to me.
           For all things here are speaking of
             The babe that once was mine to love.
-
-
 
 
 The Little Old Man
@@ -1931,9 +1801,7 @@ The Little Old Man
           And I think as I see him go trudging along
           In the center, once more, of his light-hearted throng,
           That earth has no glory that's greater than this:
-          The little old man whom the children would miss.
-
-
+The little old man whom the children would miss.
 
 
 The Little Velvet Suit
@@ -1948,25 +1816,23 @@ The Little Velvet Suit
           Ma answered all my protests in her sweet an kindly way;
           She said it didn't matter what I wore to run an' play,
           But on Sundays when all people went to church an wore their best,
-          Her boy must look as stylish an' as well kept as the rest.
-          So she dressed me up in velvet, an' she tied the flowing bow,
-          An' she straightened out my stockings, so that not a crease would show.
+Her boy must look as stylish an' as well kept as the rest.
+So she dressed me up in velvet, an' she tied the flowing bow,
+An' she straightened out my stockings, so that not a crease would show.
 
-          An' then I chuckled softly to myself while dreaming there
-          An' I saw her standing o'er me combing out my tangled hair.
-          I could feel again the tugging, an' I heard the yell I gave
-          When she struck a snarl, an' softly I could hear her say: "Be brave.
-          'Twill be over in a minute, and a little man like you
-          Shouldn't whimper at a little bit of pain the way you do."
+An' then I chuckled softly to myself while dreaming there
+An' I saw her standing o'er me combing out my tangled hair.
+I could feel again the tugging, an' I heard the yell I gave
+When she struck a snarl, an' softly I could hear her say: "Be brave.
+'Twill be over in a minute, and a little man like you
+Shouldn't whimper at a little bit of pain the way you do."
 
           Oh, I wouldn't mind the tugging at my scalp lock, and I know
           That I'd gladly wear to please her that old flowing girlish bow;
           And I think I'd even try to don once more that velvet suit,
           And blush the same old blushes, as the women called me cute,
           Could the dear old mother only take me by the hand again,
-          And be as proud of me right now as she was always then.
-
-
+And be as proud of me right now as she was always then.
 
 
 The First Steps
@@ -2008,8 +1874,6 @@ The First Steps
           To save you from a fall.
 
 
-
-
 Signs
 
           It's "be a good boy, Willie,"
@@ -2043,9 +1907,7 @@ Signs
           Ho, the goodness of the children
             Is a sign that Santa's near.
           It's wonderful, the goodness of the little tots to-day,
-          When they know that good old Santa has begun to pack his sleigh.
-
-
+When they know that good old Santa has begun to pack his sleigh.
 
 
 The Family's Homely Man
@@ -2055,38 +1917,36 @@ The Family's Homely Man
           An' a shock of hair that brush an' comb can't ever straighten out,
           An' hands that somehow never seem to know what they're about;
           The one with freckled features and a nose that looks as though
-          It was fashioned by the youngsters from a chunk of mother's dough.
-          You know the man I'm thinking of, the homely one an' plain,
-          That fairly oozes kindness like a rosebush dripping rain.
-          His face is never much to see, but back of it there lies
-          A heap of love and tenderness and judgment, sound and wise.
+It was fashioned by the youngsters from a chunk of mother's dough.
+You know the man I'm thinking of, the homely one an' plain,
+That fairly oozes kindness like a rosebush dripping rain.
+His face is never much to see, but back of it there lies
+A heap of love and tenderness and judgment, sound and wise.
 
-          And so I sing the homely man that's sittin' in his chair,
-          And pray that every family will always have him there.
-          For looks don't count for much on earth; it's hearts that wear the gold;
-          An' only that is ugly which is selfish, cruel, cold.
+And so I sing the homely man that's sittin' in his chair,
+And pray that every family will always have him there.
+For looks don't count for much on earth; it's hearts that wear the gold;
+An' only that is ugly which is selfish, cruel, cold.
           The family needs him, Oh, so much; more, maybe, than they know;
           Folks seldom guess a man's real worth until he has to go,
           But they will miss a heap of love an' tenderness the day
-          God beckons to their homely man, an' he must go away.
+God beckons to their homely man, an' he must go away.
 
-          He's found in every family, it doesn't matter where
-          They live or be they rich or poor, the homely man is there.
-          You'll find him sitting quiet-like and sort of drawn apart,
-          As though he felt he shouldn't be where folks are fine an' smart.
-          He likes to hide himself away, a watcher of the fun,
-          An' seldom takes a leading part when any game's begun.
-          But when there's any task to do, like need for extra chairs,
-          I've noticed it's the homely man that always climbs the stairs.
+He's found in every family, it doesn't matter where
+They live or be they rich or poor, the homely man is there.
+You'll find him sitting quiet-like and sort of drawn apart,
+As though he felt he shouldn't be where folks are fine an' smart.
+He likes to hide himself away, a watcher of the fun,
+An' seldom takes a leading part when any game's begun.
+But when there's any task to do, like need for extra chairs,
+I've noticed it's the homely man that always climbs the stairs.
 
-          And always it's the homely man that happens in to mend
-          The little toys the youngsters break, for he's the children's friend.
-          And he's the one that sits all night to watch beside the dead,
-          And sends the worn-out sorrowers and broken hearts to bed.
-          The family wouldn't be complete without him night or day,
-          To smooth the little troubles out and drive the cares away.
-
-
+And always it's the homely man that happens in to mend
+The little toys the youngsters break, for he's the children's friend.
+And he's the one that sits all night to watch beside the dead,
+And sends the worn-out sorrowers and broken hearts to bed.
+The family wouldn't be complete without him night or day,
+To smooth the little troubles out and drive the cares away.
 
 
 When Mother Cooked With Wood
@@ -2137,8 +1997,6 @@ When Mother Cooked With Wood
             When mother cooked with wood.
 
 
-
-
 Midnight in the Pantry
 
           You can boast your round of pleasures, praise the sound of popping corks,
@@ -2153,28 +2011,26 @@ Midnight in the Pantry
           Though I'm weary with my toiling I don't hustle up to bed,
           For the inner man is hungry and he's anxious to be fed;
           Then I feel a thrill of glory from my head down to my feet
-          As I prowl around the pantry after something good to eat.
+As I prowl around the pantry after something good to eat.
 
-          Oft I hear a call above me: "Goodness gracious, come to bed!"
-          And I know that I've disturbed her by my overeager tread,
-          But I've found a glass of jelly and some bread and butter, too,
-          And a bit of cold fried chicken and I answer: "When I'm through!"
-          Oh, there's no cafe that better serves my precious appetite
-          Than the pantry in our kitchen when I get home late at night.
+Oft I hear a call above me: "Goodness gracious, come to bed!"
+And I know that I've disturbed her by my overeager tread,
+But I've found a glass of jelly and some bread and butter, too,
+And a bit of cold fried chicken and I answer: "When I'm through!"
+Oh, there's no cafe that better serves my precious appetite
+Than the pantry in our kitchen when I get home late at night.
 
           You may boast your shining silver, and the linen and the flowers,
           And the music and the laughter and the lights that hang in showers;
           You may have your cafe table with its brilliant array,
           But it doesn't charm yours truly when I'm on my homeward way;
           For a greater joy awaits me, as I hunger for a bite--
-          Just the joy of pantry-prowling in the middle of the night.
-
-
+Just the joy of pantry-prowling in the middle of the night.
 
 
 The World Is Against Me
 
-          "The world is against me," he said with a sigh.
+"The world is against me," he said with a sigh.
           "Somebody stops every scheme that I try.
           The world has me down and it's keeping me there;
           I don't get a chance. Oh, the world is unfair!
@@ -2200,9 +2056,7 @@ The World Is Against Me
           All boys who were down and who struggled alone,
           Who'd have thought themselves rich if your fortune they'd known;
           Yet they rose in the world you're so quick to condemn,
-          And I'm asking you now, was the world against them?"
-
-
+And I'm asking you now, was the world against them?"
 
 
 Bribed
@@ -2244,39 +2098,35 @@ Bribed
             And bribe me with those wondrous eyes.
 
 
-
-
 The Home Builders
 
-          The world is filled with bustle and with selfishness and greed,
-          It is filled with restless people that are dreaming of a deed.
-          You can read it in their faces; they are dreaming of the day
-          When they'll come to fame and fortune and put all their cares away.
-          And I think as I behold them, though it's far indeed they roam,
-          They will never find contentment save they seek for it at home.
+The world is filled with bustle and with selfishness and greed,
+It is filled with restless people that are dreaming of a deed.
+You can read it in their faces; they are dreaming of the day
+When they'll come to fame and fortune and put all their cares away.
+And I think as I behold them, though it's far indeed they roam,
+They will never find contentment save they seek for it at home.
 
-          I watch them as they hurry through the surging lines of men,
-          Spurred to speed by grim ambition, and I know they're dreaming then.
-          They are weary, sick and footsore, but their goal seems far away,
-          And it's little they've accomplished at the ending of the day.
-          It is rest they're vainly seeking, love and laughter in the gloam,
-          But they'll never come to claim it, save they claim it here at home.
+I watch them as they hurry through the surging lines of men,
+Spurred to speed by grim ambition, and I know they're dreaming then.
+They are weary, sick and footsore, but their goal seems far away,
+And it's little they've accomplished at the ending of the day.
+It is rest they're vainly seeking, love and laughter in the gloam,
+But they'll never come to claim it, save they claim it here at home.
 
           For the peace that is the sweetest isn't born of minted gold,
           And the joy that lasts the longest and still lingers when we're old
           Is no dim and distant pleasure--it is not to-morrow's prize,
-          It is not the end of toiling, or the rainbow of our sighs.
-          It' is every day within us--all the rest is hippodrome--
-          And the soul that is the gladdest is the soul that builds a home.
+It is not the end of toiling, or the rainbow of our sighs.
+It' is every day within us--all the rest is hippodrome--
+And the soul that is the gladdest is the soul that builds a home.
 
-          They are fools who build for glory! They are fools who pin their hopes
-          On the come and go of battles or some vessel's slender ropes.
-          They shall sicken and shall wither and shall never peace attain
-          Who believe that real contentment only men victorious gain.
-          For the only happy toilers under earth's majestic dome
-          Are the ones who find their glories in the little spot called home.
-
-
+They are fools who build for glory! They are fools who pin their hopes
+On the come and go of battles or some vessel's slender ropes.
+They shall sicken and shall wither and shall never peace attain
+Who believe that real contentment only men victorious gain.
+For the only happy toilers under earth's majestic dome
+Are the ones who find their glories in the little spot called home.
 
 
 My Books and I
@@ -2309,8 +2159,6 @@ My Books and I
             I'm stronger than before.
 
 
-
-
 Success
 
           I hold no dream of fortune vast,
@@ -2327,8 +2175,6 @@ Success
             Contented to the end,
           If but a few shall know my worth
             And proudly call me friend.
-
-
 
 
 Questions
@@ -2362,23 +2208,21 @@ Questions
           The chase for gold--or that splendid boy?
 
 
-
-
 Sausage
 
           You may brag about your breakfast foods you eat at break of day,
           Your crisp, delightful shavings and your stack of last year's hay,
           Your toasted flakes of rye and corn that fairly swim in cream,
-          Or rave about a sawdust mash, an epicurean dream.
-          But none of these appeals to me, though all of them I've tried--
-          The breakfast that I liked the best was sausage mother fried.
+Or rave about a sawdust mash, an epicurean dream.
+But none of these appeals to me, though all of them I've tried--
+The breakfast that I liked the best was sausage mother fried.
 
           Old country sausage was its name; the kind, of course, you know,
           The little links that seemed to be almost as white as snow,
           But turned unto a ruddy brown, while sizzling in the pan;
-          Oh, they were made both to appease and charm the inner man.
-          All these new-fangled dishes make me blush and turn aside,
-          When I think about the sausage that for breakfast mother fried.
+Oh, they were made both to appease and charm the inner man.
+All these new-fangled dishes make me blush and turn aside,
+When I think about the sausage that for breakfast mother fried.
 
           When they roused me from my slumbers and I left to do the chores,
           It wasn't long before I breathed a fragrance out of doors
@@ -2397,11 +2241,9 @@ Sausage
           Times have changed and so have breakfasts; now each morning when I see
           A dish of shredded something or of flakes passed up to me,
           All my thoughts go back to boyhood, to the days of long ago,
-          When the morning meal meant something more than vain and idle show.
-          And I hunger, Oh, I hunger, in a way I cannot hide,
-          For a plate of steaming sausage like the kind my mother fried.
-
-
+When the morning meal meant something more than vain and idle show.
+And I hunger, Oh, I hunger, in a way I cannot hide,
+For a plate of steaming sausage like the kind my mother fried.
 
 
 Friends
@@ -2427,8 +2269,6 @@ Friends
             Smiles an' praises more an' more.
 
 
-
-
 A Boost for Modern Methods
 
           In some respects the old days were perhaps ahead of these,
@@ -2439,12 +2279,12 @@ A Boost for Modern Methods
           Old-fashioned winters I recall--the winters of my youth--
           I have no great desire for them to-day, I say in truth;
           The frost upon the window panes was beautiful to see,
-          But the chill upon that bedroom floor was not a joy to me.
+But the chill upon that bedroom floor was not a joy to me.
 
-          I do not now recall that it was fun in those days when
-          I woke to learn the water pipes were frozen tight "again."
-          To win once more the old-time joys, I don't believe I'd care
-          To have to sleep, for comfort's sake, dressed in my underwear.
+I do not now recall that it was fun in those days when
+I woke to learn the water pipes were frozen tight "again."
+To win once more the old-time joys, I don't believe I'd care
+To have to sleep, for comfort's sake, dressed in my underwear.
 
           Old-fashioned winters had their charms, a fact I can't deny,
           But after all I'm really glad that they have wandered by;
@@ -2454,42 +2294,38 @@ A Boost for Modern Methods
           Yes, brag about those days of old, boast of them as you will,
           I sing the modern methods that have robbed them of their chill;
           I sing the cheery steam pipe and the upstairs snug and warm
-          And a spine that's free from shivers as I robe my manly form.
-
-
+And a spine that's free from shivers as I robe my manly form.
 
 
 The Man to Be
 
-          Some day the world will need a man of courage in a time of doubt,
-          And somewhere, as a little boy, that future hero plays about.
-          Within some humble home, no doubt, that instrument of greater things
-          Now climbs upon his father's knee or to his mother's garments clings.
-          And when shall come that call for him to render service that is fine,
-          He that shall do God's mission here may be your little boy or mine.
+Some day the world will need a man of courage in a time of doubt,
+And somewhere, as a little boy, that future hero plays about.
+Within some humble home, no doubt, that instrument of greater things
+Now climbs upon his father's knee or to his mother's garments clings.
+And when shall come that call for him to render service that is fine,
+He that shall do God's mission here may be your little boy or mine.
 
           Long years of preparation mark the pathway for the splendid souls,
           And generations live and die and seem no nearer to their goals,
           And yet the purpose of it all, the fleeting pleasure and the woe,
           The laughter and the grief of life that all who come to earth must know
           May be to pave the way for one--one man to serve the Will Divine
-          And it is possible that he may be your little boy or mine.
+And it is possible that he may be your little boy or mine.
 
-          Some day the world will need a man! I stand beside his cot at night
-          And wonder if I'm teaching him, as best I can, to know the right.
+Some day the world will need a man! I stand beside his cot at night
+And wonder if I'm teaching him, as best I can, to know the right.
           I am the father of a boy--his life is mine to make or mar--
           And he no better can become than what my daily teachings are;
           There will be need for someone great--I dare not falter from the line--
-          The man that is to serve the world may be that little boy of mine.
+The man that is to serve the world may be that little boy of mine.
 
-          Perhaps your boy and mine may not ascend the lofty heights of fame;
-          The orders for their births are hid. We know not why to earth they came.
-          Yet in some little bed to-night the great man of to-morrow sleeps
-          And only He who sent him here, the secret of his purpose keeps.
-          As fathers then our care is this--to keep in mind the Great Design.
-          The man the world shall need some day may be your little boy or mine.
-
-
+Perhaps your boy and mine may not ascend the lofty heights of fame;
+The orders for their births are hid. We know not why to earth they came.
+Yet in some little bed to-night the great man of to-morrow sleeps
+And only He who sent him here, the secret of his purpose keeps.
+As fathers then our care is this--to keep in mind the Great Design.
+The man the world shall need some day may be your little boy or mine.
 
 
 The Summer Children
@@ -2507,9 +2343,7 @@ The Summer Children
           We've got to know the winter and we've got to know the spring,
           But for children, could I do it, unto summer I would cling;
           For I'm happiest when I see 'em, as a wild and merry band
-          Of healthy, lusty youngsters that the summer sun has tanned.
-
-
+Of healthy, lusty youngsters that the summer sun has tanned.
 
 
 October
@@ -2527,9 +2361,7 @@ October
           But the air is mighty peaceful an' the scene is good to see,
           An' there's somethin' in October that stirs deep inside o' me;
           An' I just can't help believin' in a God above us, when
-          Everything is ripe for harvest an the frost is back again.
-
-
+Everything is ripe for harvest an the frost is back again.
 
 
 On Quitting
@@ -2567,34 +2399,30 @@ On Quitting
           For the toughest kind of a game you'll find
           Is to make your body obey your mind.
           And you never will know what is meant by grit
-          Unless there's something you've tried to quit.
-
-
+Unless there's something you've tried to quit.
 
 
 The Price of Riches
 
-          Nobody stops at the rich man's door to pass the time of day.
-          Nobody shouts a "hello!" to him in the good old-fashioned way.
-          Nobody comes to his porch at night and sits in that extra chair
-          And talks till it's time to go to bed. He's all by himself up there.
+Nobody stops at the rich man's door to pass the time of day.
+Nobody shouts a "hello!" to him in the good old-fashioned way.
+Nobody comes to his porch at night and sits in that extra chair
+And talks till it's time to go to bed. He's all by himself up there.
 
-          Nobody just happens in to call on the long, cold winter nights.
-          Nobody feels that he's welcome now, though the house is ablaze with lights.
-          And never an unexpected guest will tap at his massive door
-          And stay to tea as he used to do, for his neighborly days are o'er.
+Nobody just happens in to call on the long, cold winter nights.
+Nobody feels that he's welcome now, though the house is ablaze with lights.
+And never an unexpected guest will tap at his massive door
+And stay to tea as he used to do, for his neighborly days are o'er.
 
-          It's a distant life that the rich man leads and many an hour is glum,
-          For never the neighbors call on him save when they are asked to come.
-          At heart he is just as he used to be and he longs for his friends of old,
-          But they never will venture unbidden there. They're afraid of his wall of gold.
+It's a distant life that the rich man leads and many an hour is glum,
+For never the neighbors call on him save when they are asked to come.
+At heart he is just as he used to be and he longs for his friends of old,
+But they never will venture unbidden there. They're afraid of his wall of gold.
 
-          For silver and gold in a large amount there's a price that all men must pay,
-          And who will dwell in a rich man's house must live in a lonely way.
-          For once you have builded a fortune vast you will sigh for the friends you knew
-          But never they'll tap at your door again in the way that they used to do.
-
-
+For silver and gold in a large amount there's a price that all men must pay,
+And who will dwell in a rich man's house must live in a lonely way.
+For once you have builded a fortune vast you will sigh for the friends you knew
+But never they'll tap at your door again in the way that they used to do.
 
 
 The Other Fellow
@@ -2636,8 +2464,6 @@ The Other Fellow
               The other fellow.
 
 
-
-
 The Open Fire
 
           There in the flame of the open grate,
@@ -2674,39 +2500,35 @@ The Open Fire
             Dreaming there by the open grate.
 
 
-
-
 Improvement
 
           The joy of life is living it, or so it seems to me;
           In finding shackles on your wrists, then struggling till you're free;
           In seeing wrongs and righting them, in dreaming splendid dreams,
-          Then toiling till the vision is as real as moving streams.
-          The happiest mortal on the earth is he who ends his day
-          By leaving better than he found to bloom along the way.
+Then toiling till the vision is as real as moving streams.
+The happiest mortal on the earth is he who ends his day
+By leaving better than he found to bloom along the way.
 
-          Were all things perfect here there would be naught for man to do;
-          If what is old were good enough we'd never need the new.
-          The only happy time of rest is that which follows strife
-          And sees some contribution made unto the joy of life.
-          And he who has oppression felt and conquered it is he
-          Who really knows the happiness and peace of being free.
+Were all things perfect here there would be naught for man to do;
+If what is old were good enough we'd never need the new.
+The only happy time of rest is that which follows strife
+And sees some contribution made unto the joy of life.
+And he who has oppression felt and conquered it is he
+Who really knows the happiness and peace of being free.
 
-          The miseries of earth are here and with them all must cope.
-          Who seeks for joy, through hedges thick of care and pain must grope.
-          Through disappointment man must go to value pleasure's thrill;
-          To really know the joy of health a man must first be ill.
-          The wrongs are here for man to right, and happiness is had
-          By striving to supplant with good the evil and the bad.
+The miseries of earth are here and with them all must cope.
+Who seeks for joy, through hedges thick of care and pain must grope.
+Through disappointment man must go to value pleasure's thrill;
+To really know the joy of health a man must first be ill.
+The wrongs are here for man to right, and happiness is had
+By striving to supplant with good the evil and the bad.
 
-          The joy of life is living it and doing things of worth,
-          In making bright and fruitful all the barren spots of earth.
-          In facing odds and mastering them and rising from defeat,
-          And making true what once was false, and what was bitter, sweet.
-          For only he knows perfect joy whose little bit of soil
-          Is richer ground than what it was when he began to toil.
-
-
+The joy of life is living it and doing things of worth,
+In making bright and fruitful all the barren spots of earth.
+In facing odds and mastering them and rising from defeat,
+And making true what once was false, and what was bitter, sweet.
+For only he knows perfect joy whose little bit of soil
+Is richer ground than what it was when he began to toil.
 
 
 Send Her a Valentine
@@ -2737,8 +2559,6 @@ Send Her a Valentine
           The pledges of the past renew
           'Twill cure her life of every ill
           To find that you're her sweetheart still.
-
-
 
 
 Bud
@@ -2780,18 +2600,16 @@ Bud
           That tousled-haired, fun-loving rascal called Bud!
 
 
-
-
 The Front Seat
 
-          When I was but a little lad I always liked to ride,
-          No matter what the rig we had, right by the driver's side.
-          The front seat was the honor place in bob-sleigh, coach or hack,
-          And I maneuvered to avoid the cushions in the back.
-          We children used to scramble then to share the driver's seat,
-          And long the pout I wore when I was not allowed that treat.
-          Though times have changed and I am old I still confess I race
-          With other grown-ups now and then to get my favorite place.
+When I was but a little lad I always liked to ride,
+No matter what the rig we had, right by the driver's side.
+The front seat was the honor place in bob-sleigh, coach or hack,
+And I maneuvered to avoid the cushions in the back.
+We children used to scramble then to share the driver's seat,
+And long the pout I wore when I was not allowed that treat.
+Though times have changed and I am old I still confess I race
+With other grown-ups now and then to get my favorite place.
 
           The auto with its cushions fine and big and easy springs
           Has altered in our daily lives innumerable things,
@@ -2800,27 +2618,25 @@ The Front Seat
           For every grown-up girl to-day and every grown-up boy
           Still hungers for the seat in front and scrambles for its joy,
           And riding by the driver's side still holds the charm it did
-          In those glad, youthful days gone by when I was just a kid.
+In those glad, youthful days gone by when I was just a kid.
 
-          I hurry, as I used to do, to claim that favorite place,
-          And when a tonneau seat is mine I wear a solemn face.
-          I try to hide the pout I feel, and do my best to smile,
-          But envy of the man in front gnaws at me all the while.
+I hurry, as I used to do, to claim that favorite place,
+And when a tonneau seat is mine I wear a solemn face.
+I try to hide the pout I feel, and do my best to smile,
+But envy of the man in front gnaws at me all the while.
           I want to be where I can see the road that lies ahead,
           To watch the trees go flying by and see the country spread
           Before me as we spin along, for there I miss the fear
-          That seems to grip the soul of me while riding in the rear.
+That seems to grip the soul of me while riding in the rear.
 
-          And I am not alone in this. To-day I drive a car
-          And three glad youngsters madly strive to share the "seat with Pa."
+And I am not alone in this. To-day I drive a car
+And three glad youngsters madly strive to share the "seat with Pa."
           And older folks that ride with us, I very plainly see,
           Maneuver in their artful ways to sit in front with me;
           Though all the cushions in the world were piled up in the rear,
-          The child in all of us still longs to watch the engineer.
-          And happier hearts we seem to own when we're allowed to ride,
-          No matter what the car may be, close by the driver's side.
-
-
+The child in all of us still longs to watch the engineer.
+And happier hearts we seem to own when we're allowed to ride,
+No matter what the car may be, close by the driver's side.
 
 
 There Are No Gods
@@ -2853,8 +2669,6 @@ There Are No Gods
             Of fortune's god, but on himself.
 
 
-
-
 The Auto
 
           An auto is a helpful thing;
@@ -2883,8 +2697,6 @@ The Auto
           And heavy heartache and despair.
           It has its faults, but still I sing:
           The auto is a helpful thing.
-
-
 
 
 The Handy Man
@@ -2944,8 +2756,6 @@ The Handy Man
           Lonely and useless too?
 
 
-
-
 The New Days
 
           The old days, the old days, how oft the poets sing,
@@ -2973,9 +2783,7 @@ The New Days
           We love to-day the selfsame way they loved in days of old;
           The world is bathed in beauty and it isn't growing cold;
           There's joy for us a-plenty, there are tasks for us to do,
-          And life is worth the living, for the friends we know are true.
-
-
+And life is worth the living, for the friends we know are true.
 
 
 The Call
@@ -3008,8 +2816,6 @@ The Call
             Some day I'll be there.
 
 
-
-
 Songs of Rejoicing
 
           Songs of rejoicin',
@@ -3038,8 +2844,6 @@ Songs of Rejoicing
             Of heaven the goal;
           The songs of rejoicin'
             That strengthen the soul.
-
-
 
 
 Another Mouth to Feed
@@ -3084,8 +2888,6 @@ Another Mouth to Feed
             Now Buddy's got a pup.
 
 
-
-
 The Little Church
 
           The little church of Long Ago, where as a boy I sat
@@ -3120,11 +2922,9 @@ The Little Church
           To get the people to attend, 'twas just a simple place
           Where every Sunday we were told about God's saving grace;
           No men of wealth were gathered there to help it with a gift;
-          The only worldly thing it had--a mortgage hard to lift.
-          And somehow, dreaming here to-day, I wish that I could know
-          The joy of once more sitting in that church of Long Ago.
-
-
+The only worldly thing it had--a mortgage hard to lift.
+And somehow, dreaming here to-day, I wish that I could know
+The joy of once more sitting in that church of Long Ago.
 
 
 Sue's Got a Baby
@@ -3174,8 +2974,6 @@ Sue's Got a Baby
           My lost joys since her baby came.
 
 
-
-
 The Lure That Failed
 
           I know a wonderful land, I said,
@@ -3215,8 +3013,6 @@ The Lure That Failed
             "An' I don't wanna go to bed."
 
 
-
-
 The Old-Fashioned Thanksgiving
 
           It may be I am getting old and like too much to dwell
@@ -3251,11 +3047,9 @@ The Old-Fashioned Thanksgiving
           All afternoon we chatted, telling what we hoped to do,
           The struggles we were making and the hardships we'd gone through;
           We gathered round the fireside. How fast the hours would fly--
-          It seemed before we'd settled down 'twas time to say good-bye.
-          Those were the glad Thanksgivings, the old-time families knew
-          When relatives could still be friends and every heart was true.
-
-
+It seemed before we'd settled down 'twas time to say good-bye.
+Those were the glad Thanksgivings, the old-time families knew
+When relatives could still be friends and every heart was true.
 
 
 The Old-Fashioned Pair
@@ -3270,19 +3064,19 @@ The Old-Fashioned Pair
           Oh, it's hard now to picture the peace of the place!
           Never lovelier smile lit a fair woman's face
           Than the smile of the little old lady who sits
-          On the porch through the bright days of summer and knits.
-          And a courtlier manner no prince ever had
-          Than the little old man that she speaks of as "dad."
+On the porch through the bright days of summer and knits.
+And a courtlier manner no prince ever had
+Than the little old man that she speaks of as "dad."
 
           In that little old house there is nothing of hate;
           There are old-fashioned things by an old-fashioned grate;
           On the walls there are pictures of fine looking men
           And beautiful ladies to look at, and then
           Time has placed on the mantel to comfort them there
-          The pictures of grandchildren, radiantly fair.
+The pictures of grandchildren, radiantly fair.
 
-          Every part of the house seems to whisper of joy,
-          Save the trinkets that speak of a lost little boy.
+Every part of the house seems to whisper of joy,
+Save the trinkets that speak of a lost little boy.
           Yet Time has long since soothed the hurt and the pain,
           And his glorious memories only remain:
           The laughter of children the old walls have known,
@@ -3293,9 +3087,7 @@ The Old-Fashioned Pair
           The riches of life are not silver and gold
           But fine sons and daughters when we are grown old,
           And I pray when the years shall have silvered our hair
-          We shall know the delights of that old-fashioned pair.
-
-
+We shall know the delights of that old-fashioned pair.
 
 
 At Pelletier's
@@ -3352,39 +3144,35 @@ At Pelletier's
           Mortals ever built a city."
 
 
-
-
 At Christmas
 
           A man is at his finest towards the finish of the year;
           He is almost what he should be when the Christmas season's here;
           Then he's thinking more of others than be's thought the months before,
-          And the laughter of his children is a joy worth toiling for.
-          He is less a selfish creature than at any other time;
-          When the Christmas spirit rules him he comes close to the sublime.
+And the laughter of his children is a joy worth toiling for.
+He is less a selfish creature than at any other time;
+When the Christmas spirit rules him he comes close to the sublime.
 
-          When it's Christmas man is bigger and is better in his part;
-          He is keener for the service that is prompted by the heart.
-          All the petty thoughts and narrow seem to vanish for awhile
-          And the true reward he's seeking is the glory of a smile.
-          Then for others he is toiling and somehow it seems to me
-          That at Christmas he is almost what God wanted him to be.
+When it's Christmas man is bigger and is better in his part;
+He is keener for the service that is prompted by the heart.
+All the petty thoughts and narrow seem to vanish for awhile
+And the true reward he's seeking is the glory of a smile.
+Then for others he is toiling and somehow it seems to me
+That at Christmas he is almost what God wanted him to be.
 
-          If I had to paint a picture of a man I think I'd wait
-          Till he'd fought his selfish battles and had put aside his hate.
-          I'd not catch him at his labors when his thoughts are all of pelf,
-          On the long days and the dreary when he's striving for himself.
-          I'd not take him when he's sneering, when he's scornful or depressed,
-          But I'd look for him at Christmas when he's shining at his best.
+If I had to paint a picture of a man I think I'd wait
+Till he'd fought his selfish battles and had put aside his hate.
+I'd not catch him at his labors when his thoughts are all of pelf,
+On the long days and the dreary when he's striving for himself.
+I'd not take him when he's sneering, when he's scornful or depressed,
+But I'd look for him at Christmas when he's shining at his best.
 
           Man is ever in a struggle and he's oft misunderstood;
           There are days the worst that's in him is the master of the good,
           But at Christmas kindness rules him and he puts himself aside
-          And his petty hates are vanquished and his heart is opened wide.
-          Oh, I don't know how to say it, but somehow it seems to me
-          That at Christmas man is almost what God sent him here to be.
-
-
+And his petty hates are vanquished and his heart is opened wide.
+Oh, I don't know how to say it, but somehow it seems to me
+That at Christmas man is almost what God sent him here to be.
 
 
 The Little Army
@@ -3440,8 +3228,6 @@ The Little Army
           You have but to smile to win.
           Come and take him where he stays
           Dreaming of his by-gone days.
-
-
 
 
 Who Is Your Boss?
@@ -3501,8 +3287,6 @@ Who Is Your Boss?
           They are the ones who really lose.
 
 
-
-
 The Truth About Envy
 
           I like to see the flowers grow,
@@ -3534,8 +3318,6 @@ The Truth About Envy
           If I would work like those who do.
 
 
-
-
 Living
 
           If through the years we're not to do
@@ -3565,8 +3347,6 @@ Living
             Deserves our praises and our cheers,
           Who ventures all for one great deed
           And gives his life to serve life's need.
-
-
 
 
 On Being Broke
@@ -3611,8 +3391,6 @@ On Being Broke
             I've done my best with what I had.
 
 
-
-
 The Broken Drum
 
           There is sorrow in the household;
@@ -3650,8 +3428,6 @@ The Broken Drum
           In the years that are to come
           Will learn that many pleasures
           Are as empty as his drum.
-
-
 
 
 Mother's Excuses
@@ -3702,8 +3478,6 @@ Mother's Excuses
           Put it over on him, too.
 
 
-
-
 As It Is
 
           I might wish the world were better,
@@ -3744,8 +3518,6 @@ As It Is
             As we shall some distant day
           We should see that He who planned it
             Knew our needs along the way.
-
-
 
 
 A Boy's Tribute
@@ -3796,8 +3568,6 @@ A Boy's Tribute
                  Is Ma.
 
 
-
-
 Up to the Ceiling
 
           Up to the ceiling
@@ -3840,8 +3610,6 @@ Up to the Ceiling
           He plays with his lad.
 
 
-
-
 Thanksgiving
 
           Gettin' together to smile an' rejoice,
@@ -3879,8 +3647,6 @@ Thanksgiving
           See the old faces unblemished by wrong,
           See the old table with all of its chairs
           An I'll put soul in my Thanksgivin' prayers.
-
-
 
 
 The Boy Soldier
@@ -3922,8 +3688,6 @@ The Boy Soldier
             Just as he captured me.
 
 
-
-
 My Land
 
           My land is where the kind folks are,
@@ -3961,8 +3725,6 @@ My Land
             Its distant scenes to see,
           My land would keep my heart at home
             And there I'd always be.
-
-
 
 
 Daddies
@@ -4004,8 +3766,6 @@ Daddies
             Are the happiest men alive.
 
 
-
-
 Loafing
 
           Under the shade of trees,
@@ -4043,8 +3803,6 @@ Loafing
           From worry gain release,
           Resting in perfect peace,
             Free from all care.
-
-
 
 
 When Father Played Baseball
@@ -4122,8 +3880,6 @@ When Father Played Baseball
             The day he played baseball.
 
 
-
-
 About Boys
 
           Show me the boy who never threw
@@ -4142,8 +3898,6 @@ About Boys
             That grieve us sore to tell;
           And I'll show you a little boy
             Who must be far from well.
-
-
 
 
 Curly Locks
@@ -4165,8 +3919,6 @@ Curly Locks
             Can it be that you really know
           That beyond your youth there are joy and ruth,
             On the way that you soon must go?
-
-
 
 
 Baby's Got a Tooth
@@ -4211,8 +3963,6 @@ Baby's Got a Tooth
               "The baby, my dear, has a tooth."
 
 
-
-
 Home and the Baby
 
           Home was never home before,
@@ -4241,8 +3991,6 @@ Home and the Baby
           Love not really so complete,
           Joy had never found our street
             Till the baby came.
-
-
 
 
 The Fisherman
@@ -4290,8 +4038,6 @@ The Fisherman
             I know him as a fisherman.
 
 
-
-
 The March of Mortality
 
           Over the hills of time to the valley of endless years;
@@ -4302,20 +4048,18 @@ The March of Mortality
           Troopers we are in life, warring at times with wrong,
           But promised ever unbroken rest at last in a land of song;
           And whether we serve or rule, and whether we fall or rise,
-          We shall come, in time, to that golden vale where never the spirit dies.
+We shall come, in time, to that golden vale where never the spirit dies.
 
-          Back of the strife for gain, and under the toil for fame,
-          The dreams of men in this mortal march have ever remained the same.
-          They have lived through their days and years for the great rewards to be,
-          When earth's dusty garb shall be laid aside for the robes of eternity.
+Back of the strife for gain, and under the toil for fame,
+The dreams of men in this mortal march have ever remained the same.
+They have lived through their days and years for the great rewards to be,
+When earth's dusty garb shall be laid aside for the robes of eternity.
 
           This is the march of mortality, whatever man's race or creed,
           And whether he's one of the savage tribe or one of a higher breed,
           He is conscious dimly of better things that were promised him long ago,
           And he keeps his place in the line with men for
               the joys that his soul shall know.
-
-
 
 
 Growing Down
@@ -4357,8 +4101,6 @@ Growing Down
             And so to him I'm growing down.
 
 
-
-
 The Roads of Happiness
 
           The roads of happiness are not
@@ -4398,8 +4140,6 @@ The Roads of Happiness
               And days were not with burdens freighted.
 
 
-
-
 June
 
           June is here, the month of roses, month of brides and month of bees,
@@ -4415,9 +4155,7 @@ June
           Month of love and month of sunshine, month of happiness and song,
           Month that cheers the sad wayfarer as he plods the road along;
           Spreading out a velvet carpet, green and yellow, for his feet,
-          And affording for his rest hours many a cool and sweet retreat.
-
-
+And affording for his rest hours many a cool and sweet retreat.
 
 
 When Mother Sleeps
@@ -4448,8 +4186,6 @@ When Mother Sleeps
             It in her heart there lies
           A love that causes her to wake
             The moment baby cries.
-
-
 
 
 The Weaver
@@ -4491,8 +4227,6 @@ The Weaver
             That shall stand as the record of me?
 
 
-
-
 The Few
 
           The easy roads are crowded
@@ -4514,14 +4248,12 @@ The Few
             For the never-wavering few.
 
 
-
-
 Real Swimming
 
-          I saw him in the distance, as the train went speeding by,
-          A shivery little fellow standing in the sun to dry.
-          And a little pile of clothing very near him I could see:
-          He was owner of a gladness that had once belonged to me.
+I saw him in the distance, as the train went speeding by,
+A shivery little fellow standing in the sun to dry.
+And a little pile of clothing very near him I could see:
+He was owner of a gladness that had once belonged to me.
           I have shivered as he shivered, I have dried the way he dried,
           I've stood naked in God's sunshine with my garments at my side;
           And I thought as I beheld him, of the many weary men
@@ -4539,13 +4271,11 @@ Real Swimming
           Back to me there came the pictures that I never shall forget
           When I dared not travel homewards if my shock of hair was wet,
           When I did my brief undressing under fine and friendly trees
-          In the days before convention rigged us up in b.v.d's.
-          And I dived for stones and metal on the mill pond's muddy floor,
-          Then stood naked in the sunshine till my blood grew warm once more.
-          I was back again, a youngster, in those golden days of old,
-          When my teeth were wont to chatter and my lips were blue with cold.
-
-
+In the days before convention rigged us up in b.v.d's.
+And I dived for stones and metal on the mill pond's muddy floor,
+Then stood naked in the sunshine till my blood grew warm once more.
+I was back again, a youngster, in those golden days of old,
+When my teeth were wont to chatter and my lips were blue with cold.
 
 
 The Love of the Game
@@ -4596,8 +4326,6 @@ The Love of the Game
             Our joy in the love of the game.
 
 
-
-
 Roses and Sunshine
 
           Rough is the road I am journeying now,
@@ -4621,370 +4349,3 @@ Roses and Sunshine
             What a coward I'd be
             If I tried not to see
           The roses of hope and the sunshine of cheer.
-
-
-
-
-
-
-End of the Project Gutenberg EBook of Just Folks, by Edgar A. Guest
-
-*** END OF THIS PROJECT GUTENBERG EBOOK JUST FOLKS ***
-
-***** This file should be named 941.txt or 941.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/9/4/941/
-
-Produced by An Anonymous Volunteer
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

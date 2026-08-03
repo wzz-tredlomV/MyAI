@@ -1,45 +1,10 @@
-﻿The Project Gutenberg eBook, Songs of Travel, by Robert Louis Stevenson,
-Edited by Sidney Colvin
-
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-
-
-
-Title: Songs of Travel
-       and other verses
-
-
-Author: Robert Louis Stevenson
-
-Editor: Sidney Colvin
-
-Release Date: October 27, 2009  [eBook #487]
-
-Language: English
-
-Character set encoding: UTF-8
-
-
-***START OF THE PROJECT GUTENBERG EBOOK SONGS OF TRAVEL***
-
-
-Transcribed from the 1908 Chatto & Windus edition by David Price, email
 ccx074@pglaf.org
 
 
+Songs of Travel
 
 
-
-                             Songs of Travel
-
-
-                             AND OTHER VERSES
+AND OTHER VERSES
 
                                     BY
                           ROBERT LOUIS STEVENSON
@@ -52,28 +17,16 @@ ccx074@pglaf.org
 
                                   LONDON
                              CHATTO & WINDUS
-                                   1908
 
-_The following collection of verses_, _written at various times and
-places_, _principally after the author’s final departure from England in_
-1887, _was sent home by him for publication some months before his
-death_.  _He had tried them in several different orders and under several
-different titles_, _as_ “_Songs and Notes of Travel_,” “_Posthumous
-Poems_,” _etc._, _and in the end left their naming and arrangement to the
-present editor_, _with the suggestion that they should be added as Book
-III. to future editions of_ “_Underwoods_.”  _This suggestion it is
-proposed to carry out_; _but in the meantime_, _for the benefit of those
-who possess_ “_Underwoods_” _in its original form_, _it has been thought
-desirable to publish them separately in the present volume_.  _They have
-already been included in the Edinburgh Edition of the author’s works_.
+_The following collection of verses_, _written at various times and places_, _principally after the author’s final departure from England in_ 1887, _was sent home by him for publication some months before his death_.  _He had tried them in several different orders and under several different titles_, _as_ “_Songs and Notes of Travel_,” “_Posthumous Poems_,” _etc._, _and in the end left their naming and arrangement to the present editor_, _with the suggestion that they should be added as Book III. to future editions of_ “_Underwoods_.”  _This suggestion it is proposed to carry out_; _but in the meantime_, _for the benefit of those who possess_ “_Underwoods_” _in its original form_, _it has been thought desirable to publish them separately in the present volume_.  _They have already been included in the Edinburgh Edition of the author’s works_.
 
-                                                                   _S. C._
+_S. C._
 
-                                 CONTENTS
+CONTENTS
 
-           I.  THE VAGABOND—Give to me the life I love
+I.  THE VAGABOND—Give to me the life I love
 
-          II.  YOUTH AND LOVE: I.—Once only by the garden gate
+II.  YOUTH AND LOVE: I.—Once only by the garden gate
 
          III.  YOUTH AND LOVE: II.—To the heart of youth the world is
                a highwayside
@@ -169,8 +122,7 @@ already been included in the Edinburgh Edition of the author’s works_.
 
         XLIV.  EVENSONG—The embers of the day are red
 
-I—THE VAGABOND
-(_To an air of Schubert_)
+I—THE VAGABOND (_To an air of Schubert_)
 
 
    Give to me the life I love,
@@ -210,8 +162,6 @@ I—THE VAGABOND
       And the road below me.
 
 
-
-
 II—YOUTH AND LOVE—I
 
 
@@ -236,8 +186,6 @@ II—YOUTH AND LOVE—I
       For God to plough them under.
 
 
-
-
 III—YOUTH AND LOVE—II
 
 
@@ -252,8 +200,6 @@ III—YOUTH AND LOVE—II
    Fares; and but waves a hand as he passes on,
    Cries but a wayside word to her at the garden gate,
    Sings but a boyish stave and his face is gone.
-
-
 
 
 IV
@@ -275,8 +221,6 @@ IV
          Forgets you not.
 
 
-
-
 V
 
 
@@ -296,8 +240,6 @@ V
       As I recall the blue?
 
 
-
-
 VI
 
 
@@ -315,8 +257,6 @@ VI
       The stars stood over the sea,
    Till lo!  I looked in the dusk
       And a star had come down to me.
-
-
 
 
 VII
@@ -353,8 +293,6 @@ VII
       He bows and goes again.
 
 
-
-
 VIII
 
 
@@ -377,8 +315,6 @@ VIII
       Shall gild her tawny knees.
 
 
-
-
 IX
 
 
@@ -395,8 +331,6 @@ IX
          When the shades ascend,
    Let her wake to the kiss of a tender friend
          To render again and receive!
-
-
 
 
 X
@@ -418,8 +352,6 @@ X
       And every bramble dear.
 
 
-
-
 XI
 
 
@@ -436,13 +368,10 @@ XI
    And this shall be for music when no one else is near,
    The fine song for singing, the rare song to hear!
    That only I remember, that only you admire,
-   Of the broad road that stretches and the roadside fire.
+Of the broad road that stretches and the roadside fire.
 
 
-
-
-XII—WE HAVE LOVED OF YORE
-(_To an air of Diabelli_)
+XII—WE HAVE LOVED OF YORE (_To an air of Diabelli_)
 
 
    Berried brake and reedy island,
@@ -476,28 +405,24 @@ XII—WE HAVE LOVED OF YORE
          O, we have loved of yore.
 
 
-
-
 XIII—MATER TRIUMPHANS
 
 
-   Son of my woman’s body, you go, to the drum and fife,
-   To taste the colour of love and the other side of life—
-   From out of the dainty the rude, the strong from out of the frail,
-   Eternally through the ages from the female comes the male.
+Son of my woman’s body, you go, to the drum and fife,
+To taste the colour of love and the other side of life—
+From out of the dainty the rude, the strong from out of the frail,
+Eternally through the ages from the female comes the male.
 
    The ten fingers and toes, and the shell-like nail on each,
    The eyes blind as gems and the tongue attempting speech;
    Impotent hands in my bosom, and yet they shall wield the sword!
-   Drugged with slumber and milk, you wait the day of the Lord.
+Drugged with slumber and milk, you wait the day of the Lord.
 
-   Infant bridegroom, uncrowned king, unanointed priest,
-   Soldier, lover, explorer, I see you nuzzle the breast.
+Infant bridegroom, uncrowned king, unanointed priest,
+Soldier, lover, explorer, I see you nuzzle the breast.
    You that grope in my bosom shall load the ladies with rings,
    You, that came forth through the doors, shall burst the doors of
    kings.
-
-
 
 
 XIV
@@ -520,8 +445,6 @@ XIV
       With the sunset embers,
    The lover lingers and sings
       And the maid remembers.
-
-
 
 
 XV
@@ -555,10 +478,7 @@ XV
    Life and death.
 
 
-
-
-XVI
-(_To the tune of Wandering Willie_)
+XVI (_To the tune of Wandering Willie_)
 
 
    Home no more home to me, whither must I wander?
@@ -575,9 +495,9 @@ XVI
    Fire and the windows bright glittered on the moorland;
       Song, tuneful song, built a palace in the wild.
    Now, when day dawns on the brow of the moorland,
-      Lone stands the house, and the chimney-stone is cold.
-   Lone let it stand, now the friends are all departed,
-      The kind hearts, the true hearts, that loved the place of old.
+Lone stands the house, and the chimney-stone is cold.
+Lone let it stand, now the friends are all departed,
+The kind hearts, the true hearts, that loved the place of old.
 
    Spring shall come, come again, calling up the moorfowl,
       Spring shall bring the sun and rain, bring the bees and flowers;
@@ -587,8 +507,6 @@ XVI
       Fair shine the day on the house with open door;
    Birds come and cry there and twitter in the chimney—
       But I go for ever and come again no more.
-
-
 
 
 XVII—WINTER
@@ -608,8 +526,6 @@ XVII—WINTER
    More fair than roses, lo, the flowers of fire!
 
 _Saranac Lake_.
-
-
 
 
 XVIII
@@ -634,10 +550,7 @@ XVIII
    My rescued sailor shares the fire with me!’
 
 
-
-
-XIX—TO DR. HAKE
-(_On receiving a Copy of Verses_)
+XIX—TO DR. HAKE (_On receiving a Copy of Verses_)
 
 
    In the belovèd hour that ushers day,
@@ -658,8 +571,6 @@ XIX—TO DR. HAKE
    All silent, sat an ancient nightingale.
    My sparrow notes he heard; thereat awoke;
    And with a tide of song his silence broke.
-
-
 
 
 XX—TO ---
@@ -700,8 +611,6 @@ XX—TO ---
    O Felix, to behold thee still unchanged.
 
 
-
-
 XXI
 
 
@@ -714,8 +623,6 @@ XXI
    (My work untrimmed) the sunset gun too soon.
 
 
-
-
 XXII
 
 
@@ -723,8 +630,6 @@ XXII
    I have endured and done in days before;
    I have longed for all, and bid farewell to hope;
    And I have lived and loved, and closed the door.
-
-
 
 
 XXIII
@@ -739,8 +644,6 @@ XXIII
       God for hope and man for friend,
    Content to see, glad to remember,
       Expectant of the certain end.
-
-
 
 
 XXIV
@@ -765,8 +668,6 @@ XXIV
    Give me to sleep, give me to wake
    Girded and shod, and bid me play
    The hero in the coming day!
-
-
 
 
 XXV—IF THIS WERE FAITH
@@ -814,8 +715,6 @@ XXV—IF THIS WERE FAITH
    Lord, if that were enough?
 
 
-
-
 XXVI—MY WIFE
 
 
@@ -836,8 +735,6 @@ XXVI—MY WIFE
    Heart-whole and soul-free
    The august father
    Gave to me.
-
-
 
 
 XXVII—TO THE MUSE
@@ -867,8 +764,6 @@ XXVII—TO THE MUSE
       Sans finish and sans frame,
    Leave unadorned by needless art
       The picture as it came.
-
-
 
 
 XXVIII—TO AN ISLAND PRINCESS
@@ -922,10 +817,7 @@ XXVIII—TO AN ISLAND PRINCESS
 _Tantira_, _Tahiti_, _Nov._ 5, 1888.
 
 
-
-
-XXIX—TO KALAKAUA
-(_With a present of a Pearl_)
+XXIX—TO KALAKAUA (_With a present of a Pearl_)
 
 
    The Silver Ship, my King—that was her name
@@ -947,18 +839,10 @@ XXIX—TO KALAKAUA
 _Honolulu_, _Feb._ 3, 1889.
 
 
-
-
 XXX—TO PRINCESS KAIULANI
 
 
-[Written in April to Kaiulani in the April of her age; and at Waikiki,
-within easy walk of Kaiulani’s banyan!  When she comes to my land and her
-father’s, and the rain beats upon the window (as I fear it will), let her
-look at this page; it will be like a weed gathered and pressed at home;
-and she will remember her own islands, and the shadow of the mighty tree;
-and she will hear the peacocks screaming in the dusk and the wind blowing
-in the palms; and she will think of her father sitting there alone.—R. L.
+[Written in April to Kaiulani in the April of her age; and at Waikiki, within easy walk of Kaiulani’s banyan!  When she comes to my land and her father’s, and the rain beats upon the window (as I fear it will), let her look at this page; it will be like a weed gathered and pressed at home; and she will remember her own islands, and the shadow of the mighty tree; and she will hear the peacocks screaming in the dusk and the wind blowing in the palms; and she will think of her father sitting there alone.—R. L.
 S.]
 
    Forth from her land to mine she goes,
@@ -979,8 +863,6 @@ S.]
 _Honolulu_.
 
 
-
-
 XXXI—TO MOTHER MARYANNE
 
 
@@ -996,33 +878,28 @@ XXXI—TO MOTHER MARYANNE
 _Guest House_, _Kalawao_, _Molokai_.
 
 
-
-
 XXXII—IN MEMORIAM E. H.
 
 
    I knew a silver head was bright beyond compare,
    I knew a queen of toil with a crown of silver hair.
    Garland of valour and sorrow, of beauty and renown,
-   Life, that honours the brave, crowned her himself with the crown.
+Life, that honours the brave, crowned her himself with the crown.
 
-   The beauties of youth are frail, but this was a jewel of age.
-   Life, that delights in the brave, gave it himself for a gage.
-   Fair was the crown to behold, and beauty its poorest part—
-   At once the scar of the wound and the order pinned on the heart.
+The beauties of youth are frail, but this was a jewel of age.
+Life, that delights in the brave, gave it himself for a gage.
+Fair was the crown to behold, and beauty its poorest part—
+At once the scar of the wound and the order pinned on the heart.
 
    The beauties of man are frail, and the silver lies in the dust,
    And the queen that we call to mind sleeps with the brave and the just;
    Sleeps with the weary at length; but, honoured and ever fair,
-   Shines in the eye of the mind the crown of the silver hair.
+Shines in the eye of the mind the crown of the silver hair.
 
 _Honolulu_.
 
 
-
-
-XXXIII—TO MY WIFE
-(_A Fragment_)
+XXXIII—TO MY WIFE (_A Fragment_)
 
 
    Long must elapse ere you behold again
@@ -1056,8 +933,6 @@ XXXIII—TO MY WIFE
    Of the wild-swerving cabin, hour by hour . . .
 
 _Schooner_ ‘_Equator_.’
-
-
 
 
 XXXIV—TO MY OLD FAMILIARS
@@ -1105,8 +980,6 @@ XXXIV—TO MY OLD FAMILIARS
 _Apemama_.
 
 
-
-
 XXXV
 
 
@@ -1140,8 +1013,6 @@ XXXV
    In that denoted city of the dead.
 
 _Apemama_.
-
-
 
 
 XXXVI—TO S. C.
@@ -1192,24 +1063,12 @@ XXXVI—TO S. C.
 _Apemama_.
 
 
-
-
 XXXVII—THE HOUSE OF TEMBINOKA
 
 
-[At my departure from the island of Apemama, for which you will look in
-vain in most atlases, the King and I agreed, since we both set up to be
-in the poetical way, that we should celebrate our separation in verse.
-Whether or not his Majesty has been true to his bargain, the laggard
-posts of the Pacific may perhaps inform me in six months, perhaps not
-before a year.  The following lines represent my part of the contract,
-and it is hoped, by their pictures of strange manners, they may entertain
-a civilised audience.  Nothing throughout has been invented or
-exaggerated; the lady herein referred to as the author’s muse has
-confined herself to stringing into rhyme facts or legends that I saw or
-heard during two months’ residence upon the island.—R. L. S.]
+[At my departure from the island of Apemama, for which you will look in vain in most atlases, the King and I agreed, since we both set up to be in the poetical way, that we should celebrate our separation in verse. Whether or not his Majesty has been true to his bargain, the laggard posts of the Pacific may perhaps inform me in six months, perhaps not before a year.  The following lines represent my part of the contract, and it is hoped, by their pictures of strange manners, they may entertain a civilised audience.  Nothing throughout has been invented or exaggerated; the lady herein referred to as the author’s muse has confined herself to stringing into rhyme facts or legends that I saw or heard during two months’ residence upon the island.—R. L. S.]
 
-   _ENVOI_
+_ENVOI_
 
    _Let us_, _who part like brothers_, _part like bards_;
    _And you in your tongue and measure_, _I in mine_,
@@ -1346,8 +1205,6 @@ heard during two months’ residence upon the island.—R. L. S.]
    For ever the loud song divert his ear.
 
 _Schooner_ ‘_Equator_,’ _at Sea_.
-
-
 
 
 XXXVIII—THE WOODMAN
@@ -1505,37 +1362,33 @@ XXXVIII—THE WOODMAN
 _Vailima_.
 
 
-
-
 XXXIX—TROPIC RAIN
 
 
    As the single pang of the blow, when the metal is mingled well,
    Rings and lives and resounds in all the bounds of the bell,
    So the thunder above spoke with a single tongue,
-   So in the heart of the mountain the sound of it rumbled and clung.
+So in the heart of the mountain the sound of it rumbled and clung.
 
-   Sudden the thunder was drowned—quenched was the levin light—
-   And the angel-spirit of rain laughed out loud in the night.
+Sudden the thunder was drowned—quenched was the levin light—
+And the angel-spirit of rain laughed out loud in the night.
    Loud as the maddened river raves in the cloven glen,
    Angel of rain! you laughed and leaped on the roofs of men;
 
    And the sleepers sprang in their beds, and joyed and feared as you
    fell.
-   You struck, and my cabin quailed; the roof of it roared like a bell.
-   You spoke, and at once the mountain shouted and shook with brooks.
-   You ceased, and the day returned, rosy, with virgin looks.
+You struck, and my cabin quailed; the roof of it roared like a bell.
+You spoke, and at once the mountain shouted and shook with brooks.
+You ceased, and the day returned, rosy, with virgin looks.
 
    And methought that beauty and terror are only one, not two;
    And the world has room for love, and death, and thunder, and dew;
    And all the sinews of hell slumber in summer air;
-   And the face of God is a rock, but the face of the rock is fair.
-   Beneficent streams of tears flow at the finger of pain;
-   And out of the cloud that smites, beneficent rivers of rain.
+And the face of God is a rock, but the face of the rock is fair.
+Beneficent streams of tears flow at the finger of pain;
+And out of the cloud that smites, beneficent rivers of rain.
 
 _Vailima_.
-
-
 
 
 XL—AN END OF TRAVEL
@@ -1550,8 +1403,6 @@ XL—AN END OF TRAVEL
    Conveyed you dreaming, bear your body dead.
 
 _Vailima_.
-
-
 
 
 XLI
@@ -1570,8 +1421,6 @@ XLI
    The long forgotten.  Ere the morrow die,
    He too, returning, through the curtain comes,
    And the new age forgets us and goes on.
-
-
 
 
 XLII
@@ -1608,10 +1457,7 @@ XLII
       All that was me is gone.
 
 
-
-
-XLIII—TO S. R. CROCKETT
-(_On receiving a Dedication_)
+XLIII—TO S. R. CROCKETT (_On receiving a Dedication_)
 
 
    Blows the wind to-day, and the sun and the rain are flying,
@@ -1632,8 +1478,6 @@ XLIII—TO S. R. CROCKETT
 _Vailima_.
 
 
-
-
 XLIV—EVENSONG
 
 
@@ -1652,383 +1496,15 @@ XLIV—EVENSONG
    And claps my cottage door.
    I hear the signal, Lord—I understand.
    The night at Thy command
-   Comes.  I will eat and sleep and will not question more.
+Comes.  I will eat and sleep and will not question more.
 
 _Vailima_.
-
-
 
 
 Footnotes
 
 
-{44}  This is the same Princess Moë whose charms of person and
-disposition have been recorded by the late Lord Pembroke in _South Sea
-Bubbles_, and by M. Pierre Loti in the _Mariage de Loti_.
+{44}  This is the same Princess Moë whose charms of person and disposition have been recorded by the late Lord Pembroke in _South Sea Bubbles_, and by M. Pierre Loti in the _Mariage de Loti_.
 
 {45}  The yacht _Casco_ had been so called by the people of Fakarava in
 the Paumotus.
-
-
-
-
-***END OF THE PROJECT GUTENBERG EBOOK SONGS OF TRAVEL***
-
-
-******* This file should be named 487-0.txt or 487-0.zip *******
-
-
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/4/8/487
-
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://www.gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.gutenberg.org/fundraising/pglaf.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://www.gutenberg.org/about/contact
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://www.gutenberg.org/fundraising/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit:
-http://www.gutenberg.org/fundraising/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-

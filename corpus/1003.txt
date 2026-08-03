@@ -1,5 +1,3 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 1003 ***
-
 The Divine Comedy
 
 of Dante Alighieri
@@ -12,42 +10,8 @@ PARADISO
 
 Contents
 
-I. The Ascent to the First Heaven. The Sphere of Fire.
-II. The First Heaven, the Moon: Spirits who, having taken Sacred Vows, were forced to violate them. The Lunar Spots.
-III. Piccarda Donati and the Empress Constance.
-IV. Questionings of the Soul and of Broken Vows.
-V. Discourse of Beatrice on Vows and Compensations. Ascent to the Second Heaven, Mercury: Spirits who for the Love of Fame achieved great Deeds.
-VI. Justinian. The Roman Eagle. The Empire. Romeo.
-VII. Beatrice’s Discourse of the Crucifixion, the Incarnation, the Immortality of the Soul, and the Resurrection of the Body.
-VIII. Ascent to the Third Heaven, Venus: Lovers. Charles Martel. Discourse on diverse Natures.
-IX. Cunizza da Romano, Folco of Marseilles, and Rahab. Neglect of the Holy Land.
-X. The Fourth Heaven, the Sun: Theologians and Fathers of the Church. The First Circle. St. Thomas of Aquinas.
-XI. St. Thomas recounts the Life of St. Francis. Lament over the State of the Dominican Order.
-XII. St. Buonaventura recounts the Life of St. Dominic. Lament over the State of the Franciscan Order. The Second Circle.
-XIII. Of the Wisdom of Solomon. St. Thomas reproaches Dante’s Judgement.
-XIV. The Third Circle. Discourse on the Resurrection of the Flesh. The Fifth Heaven, Mars: Martyrs and Crusaders who died fighting for the true Faith. The Celestial Cross.
-XV. Cacciaguida. Florence in the Olden Time.
-XVI. Dante’s Noble Ancestry. Cacciaguida’s Discourse of the Great Florentines.
-XVII. Cacciaguida’s Prophecy of Dante’s Banishment.
-XVIII. The Sixth Heaven, Jupiter: Righteous Kings and Rulers. The Celestial Eagle. Dante’s Invectives against ecclesiastical Avarice.
-XIX. The Eagle discourses of Salvation, Faith, and Virtue. Condemnation of the vile Kings of A.D. 1300.
-XX. The Eagle praises the Righteous Kings of old. Benevolence of the Divine Will.
-XXI. The Seventh Heaven, Saturn: The Contemplative. The Celestial Stairway. St. Peter Damiano. His Invectives against the Luxury of the Prelates.
-XXII. St. Benedict. His Lamentation over the Corruption of Monks. The Eighth Heaven, the Fixed Stars.
-XXIII. The Triumph of Christ. The Virgin Mary. The Apostles. Gabriel.
-XXIV. The Radiant Wheel. St. Peter examines Dante on Faith.
-XXV. The Laurel Crown. St. James examines Dante on Hope. Dante’s Blindness.
-XXVI. St. John examines Dante on Charity. Dante’s Sight. Adam.
-XXVII. St. Peter’s reproof of bad Popes. The Ascent to the Ninth Heaven, the ‘Primum Mobile.’
-XXVIII. God and the Angelic Hierarchies.
-XXIX. Beatrice’s Discourse of the Creation of the Angels, and of the Fall of Lucifer. Her Reproof of Foolish and Avaricious Preachers.
-XXX. The Tenth Heaven, or Empyrean. The River of Light. The Two Courts of Heaven. The White Rose of Paradise. The great Throne.
-XXXI. The Glory of Paradise. Departure of Beatrice. St. Bernard.
-XXXII. St. Bernard points out the Saints in the White Rose.
-XXXIII. Prayer to the Virgin. The Threefold Circle of the Trinity. Mystery of the Divine and Human Nature.
+I. The Ascent to the First Heaven. The Sphere of Fire. II. The First Heaven, the Moon: Spirits who, having taken Sacred Vows, were forced to violate them. The Lunar Spots. III. Piccarda Donati and the Empress Constance. IV. Questionings of the Soul and of Broken Vows. V. Discourse of Beatrice on Vows and Compensations. Ascent to the Second Heaven, Mercury: Spirits who for the Love of Fame achieved great Deeds. VI. Justinian. The Roman Eagle. The Empire. Romeo. VII. Beatrice’s Discourse of the Crucifixion, the Incarnation, the Immortality of the Soul, and the Resurrection of the Body. VIII. Ascent to the Third Heaven, Venus: Lovers. Charles Martel. Discourse on diverse Natures. IX. Cunizza da Romano, Folco of Marseilles, and Rahab. Neglect of the Holy Land. X. The Fourth Heaven, the Sun: Theologians and Fathers of the Church. The First Circle. St. Thomas of Aquinas. XI. St. Thomas recounts the Life of St. Francis. Lament over the State of the Dominican Order. XII. St. Buonaventura recounts the Life of St. Dominic. Lament over the State of the Franciscan Order. The Second Circle. XIII. Of the Wisdom of Solomon. St. Thomas reproaches Dante’s Judgement. XIV. The Third Circle. Discourse on the Resurrection of the Flesh. The Fifth Heaven, Mars: Martyrs and Crusaders who died fighting for the true Faith. The Celestial Cross. XV. Cacciaguida. Florence in the Olden Time. XVI. Dante’s Noble Ancestry. Cacciaguida’s Discourse of the Great Florentines. XVII. Cacciaguida’s Prophecy of Dante’s Banishment. XVIII. The Sixth Heaven, Jupiter: Righteous Kings and Rulers. The Celestial Eagle. Dante’s Invectives against ecclesiastical Avarice. XIX. The Eagle discourses of Salvation, Faith, and Virtue. Condemnation of the vile Kings of A.D. 1300. XX. The Eagle praises the Righteous Kings of old. Benevolence of the Divine Will. XXI. The Seventh Heaven, Saturn: The Contemplative. The Celestial Stairway. St. Peter Damiano. His Invectives against the Luxury of the Prelates. XXII. St. Benedict. His Lamentation over the Corruption of Monks. The Eighth Heaven, the Fixed Stars. XXIII. The Triumph of Christ. The Virgin Mary. The Apostles. Gabriel. XXIV. The Radiant Wheel. St. Peter examines Dante on Faith. XXV. The Laurel Crown. St. James examines Dante on Hope. Dante’s Blindness. XXVI. St. John examines Dante on Charity. Dante’s Sight. Adam. XXVII. St. Peter’s reproof of bad Popes. The Ascent to the Ninth Heaven, the ‘Primum Mobile.’ XXVIII. God and the Angelic Hierarchies. XXIX. Beatrice’s Discourse of the Creation of the Angels, and of the Fall of Lucifer. Her Reproof of Foolish and Avaricious Preachers. XXX. The Tenth Heaven, or Empyrean. The River of Light. The Two Courts of Heaven. The White Rose of Paradise. The great Throne. XXXI. The Glory of Paradise. Departure of Beatrice. St. Bernard. XXXII. St. Bernard points out the Saints in the White Rose. XXXIII. Prayer to the Virgin. The Threefold Circle of the Trinity. Mystery of the Divine and Human Nature.
 APPENDIX
-
-
 
 
 Paradiso: Canto I
@@ -242,8 +206,6 @@ Marvel it would be in thee, if deprived
     As if on earth the living fire were quiet.”
 
 Thereat she heavenward turned again her face.
-
-
 
 
 Paradiso: Canto II
@@ -448,8 +410,6 @@ From this proceeds whate’er from light to light
 According to its goodness, dark and bright.”
 
 
-
-
 Paradiso: Canto III
 
 
@@ -626,8 +586,6 @@ And wholly unto Beatrice reverted;
     That at the first my sight endured it not;
 
 And this in questioning more backward made me.
-
-
 
 
 Paradiso: Canto IV
@@ -824,8 +782,6 @@ Beatrice gazed upon me with her eyes
 And almost lost myself with eyes downcast.
 
 
-
-
 Paradiso: Canto V
 
 
@@ -1014,8 +970,6 @@ By greater rapture thus concealed itself
     And thus close, close enfolded answered me
 
 In fashion as the following Canto sings.
-
-
 
 
 Paradiso: Canto VI
@@ -1210,8 +1164,6 @@ Then he departed poor and stricken in years,
     In begging bit by bit his livelihood,
 
 Though much it laud him, it would laud him more.”
-
-
 
 
 Paradiso: Canto VII
@@ -1416,8 +1368,6 @@ And thou from this mayst argue furthermore
 When the first parents both of them were made.”
 
 
-
-
 Paradiso: Canto VIII
 
 
@@ -1567,7 +1517,7 @@ If that were not, the heaven which thou dost walk
 
 This cannot be, if the Intelligences
     That keep these stars in motion are not maimed,
-    And maimed the First that has not made them perfect.
+And maimed the First that has not made them perfect.
 
 Wilt thou this truth have clearer made to thee?”
     And I: “Not so; for ’tis impossible
@@ -1618,8 +1568,6 @@ But you unto religion wrench aside
     And make a king of him who is for sermons;
 
 Therefore your footsteps wander from the road.”
-
-
 
 
 Paradiso: Canto IX
@@ -1814,8 +1762,6 @@ But Vatican and the other parts elect
     Unto the soldiery that followed Peter
 
 Shall soon be free from this adultery.”
-
-
 
 
 Paradiso: Canto X
@@ -2020,8 +1966,6 @@ Thus I beheld the glorious wheel move round,
 Excepting there where joy is made eternal.
 
 
-
-
 Paradiso: Canto XI
 
 
@@ -2210,8 +2154,6 @@ In part contented shall thy wishes be;
     And the rebuke that lieth in the words,
 
 ‘Where well one fattens, if he strayeth not.’”
-
-
 
 
 Paradiso: Canto XII
@@ -2412,8 +2354,6 @@ To celebrate so great a paladin
 And with me they have moved this company.”
 
 
-
-
 Paradiso: Canto XIII
 
 
@@ -2608,8 +2548,6 @@ Let not Dame Bertha nor Ser Martin think,
 For one may rise, and fall the other may.”
 
 
-
-
 Paradiso: Canto XIV
 
 
@@ -2798,8 +2736,6 @@ Can me excuse, if I myself accuse
     For here the holy joy is not disclosed,
 
 Because ascending it becomes more pure.
-
-
 
 
 Paradiso: Canto XV
@@ -3002,8 +2938,6 @@ There by that execrable race was I
     The love of which defileth many souls,
 
 And came from martyrdom unto this peace.”
-
-
 
 
 Paradiso: Canto XVI
@@ -3216,8 +3150,6 @@ With all these families beheld so just
 Nor by division was vermilion made.”
 
 
-
-
 Paradiso: Canto XVII
 
 
@@ -3412,8 +3344,6 @@ Because the spirit of the hearer rests not,
 Or other reason that is not apparent.”
 
 
-
-
 Paradiso: Canto XVIII
 
 
@@ -3598,8 +3528,6 @@ Well canst thou say: “So steadfast my desire
     And for a dance was led to martyrdom,
 
 That I know not the Fisherman nor Paul.”
-
-
 
 
 Paradiso: Canto XIX
@@ -3804,8 +3732,6 @@ And each one may believe that now, as hansel
 Who from the others’ flank departeth not.”
 
 
-
-
 Paradiso: Canto XX
 
 
@@ -4008,8 +3934,6 @@ So, while it spake, do I remember me
 Moving unto the words their little flames.
 
 
-
-
 Paradiso: Canto XXI
 
 
@@ -4202,8 +4126,6 @@ Round about this one came they and stood still,
     It here could find no parallel, nor I
 
 Distinguished it, the thunder so o’ercame me.
-
-
 
 
 Paradiso: Canto XXII
@@ -4416,8 +4338,6 @@ The threshing-floor that maketh us so proud,
 Then to the beauteous eyes mine eyes I turned.
 
 
-
-
 Paradiso: Canto XXIII
 
 
@@ -4608,8 +4528,6 @@ There triumpheth, beneath the exalted Son
 He who doth keep the keys of such a glory.
 
 
-
-
 Paradiso: Canto XXIV
 
 
@@ -4751,7 +4669,7 @@ And I: “The proofs, which show the truth to me,
 
 ’Twas answered me: “Say, who assureth thee
     That those works ever were? the thing itself
-    That must be proved, nought else to thee affirms it.”
+That must be proved, nought else to thee affirms it.”
 
 “Were the world to Christianity converted,”
     I said, “withouten miracles, this one
@@ -4818,8 +4736,6 @@ So, giving me its benediction, singing,
     The apostolic light, at whose command
 
 I spoken had, in speaking I so pleased him.
-
-
 
 
 Paradiso: Canto XXV
@@ -5010,8 +4926,6 @@ Ah, how much in my mind was I disturbed,
     That her I could not see, although I was
 
 Close at her side and in the Happy World!
-
-
 
 
 Paradiso: Canto XXVI
@@ -5206,8 +5120,6 @@ Upon the mount that highest o’er the wave
     From the first hour to that which is the second,
 
 As the sun changes quadrant, to the sixth.”
-
-
 
 
 Paradiso: Canto XXVII
@@ -5412,8 +5324,6 @@ The tempest that has been so long awaited
 And the true fruit shall follow on the flower.”
 
 
-
-
 Paradiso: Canto XXVIII
 
 
@@ -5602,8 +5512,6 @@ And if so much of secret truth a mortal
     For he who saw it here revealed it to him,
 
 With much more of the truth about these circles.”
-
-
 
 
 Paradiso: Canto XXIX
@@ -5802,8 +5710,6 @@ The height behold now and the amplitude
     Itself so many mirrors, where ’tis broken,
 
 One in itself remaining as before.”
-
-
 
 
 Paradiso: Canto XXX
@@ -6008,8 +5914,6 @@ But long of God he will not be endured
 And make him of Alagna lower go!”
 
 
-
-
 Paradiso: Canto XXXI
 
 
@@ -6202,8 +6106,6 @@ Bernard, as soon as he beheld mine eyes
     His own with such affection turned to her
 
 That it made mine more ardent to behold.
-
-
 
 
 Paradiso: Canto XXXII
@@ -6412,8 +6314,6 @@ Grace from that one who has the power to aid thee;
 And he began this holy orison.
 
 
-
-
 Paradiso: Canto XXXIII
 
 
@@ -6612,13 +6512,10 @@ Here vigour failed the lofty fantasy:
 The Love which moves the sun and the other stars.
 
 
-
-
 APPENDIX
 
 
-SIX SONNETS ON DANTE’S DIVINE COMEDY BY HENRY WADSWORTH LONGFELLOW
-(1807-1882)
+SIX SONNETS ON DANTE’S DIVINE COMEDY BY HENRY WADSWORTH LONGFELLOW (1807-1882)
 
 
 I
@@ -6727,5 +6624,3 @@ Thy fame is blown abroad from all the heights,
 Strangers of Rome, and the new proselytes,
     In their own language hear thy wondrous word,
     And many are amazed and many doubt.
-
-*** END OF THE PROJECT GUTENBERG EBOOK 1003 ***

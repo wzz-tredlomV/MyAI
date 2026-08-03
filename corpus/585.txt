@@ -1,13 +1,9 @@
-Project Gutenberg Etext of Running a Thousand Miles for Freedom
-by William and Ellen Craft
+Project Gutenberg Etext of Running a Thousand Miles for Freedom by William and Ellen Craft
 
 
-Copyright laws are changing all over the world, be sure to check
-the copyright laws for your country before posting these files!
+Copyright laws are changing all over the world, be sure to check the copyright laws for your country before posting these files!
 
-Please take a look at the important information in this header.
-We encourage you to keep this file on your own disk, keeping an
-electronic path open for the next readers.  Do not remove this.
+Please take a look at the important information in this header. We encourage you to keep this file on your own disk, keeping an electronic path open for the next readers.  Do not remove this.
 
 
 **Welcome To The World of Free Plain Vanilla Electronic Texts**
@@ -16,8 +12,7 @@ electronic path open for the next readers.  Do not remove this.
 
 *These Etexts Prepared By Hundreds of Volunteers and Donations*
 
-Information on contacting Project Gutenberg to get Etexts, and
-further information is included below.  We need your donations.
+Information on contacting Project Gutenberg to get Etexts, and further information is included below.  We need your donations.
 
 
 Running a Thousand Miles for Freedom
@@ -27,81 +22,44 @@ by William and Ellen Craft
 July 4, 1996 [Etext #585]
 
 
-Project Gutenberg Etext of Running a Thousand Miles for Freedom
-*****This file should be named runng10.txt or runng10.zip******
+Project Gutenberg Etext of Running a Thousand Miles for Freedom *****This file should be named runng10.txt or runng10.zip******
 
-Corrected EDITIONS of our etexts get a new NUMBER, runng11.txt.
-VERSIONS based on separate sources get new LETTER, runng10a.txt.
+Corrected EDITIONS of our etexts get a new NUMBER, runng11.txt. VERSIONS based on separate sources get new LETTER, runng10a.txt.
 
 
 This etext was created by Judith Boss, Omaha, Nebraska.
 
 
-We are now trying to release all our books one month in advance
-of the official release dates, for time for better editing.
+We are now trying to release all our books one month in advance of the official release dates, for time for better editing.
 
-Please note:  neither this list nor its contents are final till
-midnight of the last day of the month of any such announcement.
-The official release date of all Project Gutenberg Etexts is at
-Midnight, Central Time, of the last day of the stated month.  A
-preliminary version may often be posted for suggestion, comment
-and editing by those who wish to do so.  To be sure you have an
-up to date first edition [xxxxx10x.xxx] please check file sizes
-in the first week of the next month.  Since our ftp program has
-a bug in it that scrambles the date [tried to fix and failed] a
-look at the file size will have to do, but we will try to see a
-new copy has at least one byte more or less.
+Please note:  neither this list nor its contents are final till midnight of the last day of the month of any such announcement. The official release date of all Project Gutenberg Etexts is at Midnight, Central Time, of the last day of the stated month.  A preliminary version may often be posted for suggestion, comment and editing by those who wish to do so.  To be sure you have an up to date first edition [xxxxx10x.xxx] please check file sizes in the first week of the next month.  Since our ftp program has a bug in it that scrambles the date [tried to fix and failed] a look at the file size will have to do, but we will try to see a new copy has at least one byte more or less.
 
 
 Information about Project Gutenberg (one page)
 
-We produce about two million dollars for each hour we work.  The
-fifty hours is one conservative estimate for how long it we take
-to get any etext selected, entered, proofread, edited, copyright
-searched and analyzed, the copyright letters written, etc.  This
-projected audience is one hundred million readers.  If our value
-per text is nominally estimated at one dollar then we produce $4
-million dollars per hour this year as we release some eight text
-files per month:  thus upping our productivity from $2 million.
+We produce about two million dollars for each hour we work.  The fifty hours is one conservative estimate for how long it we take to get any etext selected, entered, proofread, edited, copyright searched and analyzed, the copyright letters written, etc.  This projected audience is one hundred million readers.  If our value per text is nominally estimated at one dollar then we produce $4 million dollars per hour this year as we release some eight text files per month:  thus upping our productivity from $2 million.
 
-The Goal of Project Gutenberg is to Give Away One Trillion Etext
-Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
-This is ten thousand titles each to one hundred million readers,
-which is 10% of the expected number of computer users by the end
+The Goal of Project Gutenberg is to Give Away One Trillion Etext Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion] This is ten thousand titles each to one hundred million readers, which is 10% of the expected number of computer users by the end
 of the year 2001.
 
 We need your donations more than ever!
 
-All donations should be made to "Project Gutenberg/IBC", and are
-tax deductible to the extent allowable by law ("IBC" is Illinois
-Benedictine College).  (Subscriptions to our paper newsletter go
-to IBC, too)
+All donations should be made to "Project Gutenberg/IBC", and are tax deductible to the extent allowable by law ("IBC" is Illinois Benedictine College).  (Subscriptions to our paper newsletter go to IBC, too)
 
 For these and other matters, please mail to:
 
-Project Gutenberg
-P. O. Box  2782
-Champaign, IL 61825
+Project Gutenberg P. O. Box  2782 Champaign, IL 61825
 
-When all other email fails try our Michael S. Hart, Executive
-Director:
-hart@vmd.cso.uiuc.edu (internet)   hart@uiucvmd   (bitnet)
+When all other email fails try our Michael S. Hart, Executive Director: hart@vmd.cso.uiuc.edu (internet)   hart@uiucvmd   (bitnet)
 
-We would prefer to send you this information by email
-(Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
+We would prefer to send you this information by email (Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
 
-******
-If you have an FTP program (or emulator), please
-FTP directly to the Project Gutenberg archives:
-[Mac users, do NOT point and click. . .type]
+If you have an FTP program (or emulator), please FTP directly to the Project Gutenberg archives: [Mac users, do NOT point and click. . .type]
 
 ftp uiarchive.cso.uiuc.edu
 login:  anonymous
 password:  your@login
-cd etext/etext90 through /etext96
-or cd etext/articles [get suggest gut for more information]
-dir [to see files]
-get or mget [to get files. . .set bin for zip files]
+cd etext/etext90 through /etext96 or cd etext/articles [get suggest gut for more information] dir [to see files] get or mget [to get files. . .set bin for zip files]
 GET INDEX?00.GUT
 for a list of books
 and
@@ -109,70 +67,24 @@ GET NEW GUT for general information
 and
 MGET GUT* for newsletters.
 
-**Information prepared by the Project Gutenberg legal advisor**
-(Three Pages)
+**Information prepared by the Project Gutenberg legal advisor** (Three Pages)
 
 
-***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
-Why is this "Small Print!" statement here?  You know: lawyers.
-They tell us you might sue us if there is something wrong with
-your copy of this etext, even if you got it for free from
-someone other than us, and even if what's wrong is not our
-fault.  So, among other things, this "Small Print!" statement
-disclaims most of our liability to you.  It also tells you how
-you can distribute copies of this etext if you want to.
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START*** Why is this "Small Print!" statement here?  You know: lawyers. They tell us you might sue us if there is something wrong with your copy of this etext, even if you got it for free from someone other than us, and even if what's wrong is not our fault.  So, among other things, this "Small Print!" statement disclaims most of our liability to you.  It also tells you how you can distribute copies of this etext if you want to.
 
-*BEFORE!* YOU USE OR READ THIS ETEXT
-By using or reading any part of this PROJECT GUTENBERG-tm
-etext, you indicate that you understand, agree to and accept
-this "Small Print!" statement.  If you do not, you can receive
-a refund of the money (if any) you paid for this etext by
-sending a request within 30 days of receiving it to the person
-you got it from.  If you received this etext on a physical
-medium (such as a disk), you must return it with your request.
+*BEFORE!* YOU USE OR READ THIS ETEXT By using or reading any part of this PROJECT GUTENBERG-tm etext, you indicate that you understand, agree to and accept this "Small Print!" statement.  If you do not, you can receive a refund of the money (if any) you paid for this etext by sending a request within 30 days of receiving it to the person you got it from.  If you received this etext on a physical medium (such as a disk), you must return it with your request.
 
-ABOUT PROJECT GUTENBERG-TM ETEXTS
-This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
-tm etexts, is a "public domain" work distributed by Professor
-Michael S. Hart through the Project Gutenberg Association at
-Illinois Benedictine College (the "Project").  Among other
-things, this means that no one owns a United States copyright
-on or for this work, so the Project (and you!) can copy and
-distribute it in the United States without permission and
-without paying copyright royalties.  Special rules, set forth
-below, apply if you wish to copy and distribute this etext
-under the Project's "PROJECT GUTENBERG" trademark.
+ABOUT PROJECT GUTENBERG-TM ETEXTS This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG- tm etexts, is a "public domain" work distributed by Professor Michael S. Hart through the Project Gutenberg Association at Illinois Benedictine College (the "Project").  Among other things, this means that no one owns a United States copyright on or for this work, so the Project (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties.  Special rules, set forth below, apply if you wish to copy and distribute this etext under the Project's "PROJECT GUTENBERG" trademark.
 
-To create these etexts, the Project expends considerable
-efforts to identify, transcribe and proofread public domain
-works.  Despite these efforts, the Project's etexts and any
-medium they may be on may contain "Defects".  Among other
-things, Defects may take the form of incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged
-disk or other etext medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
+To create these etexts, the Project expends considerable efforts to identify, transcribe and proofread public domain works.  Despite these efforts, the Project's etexts and any medium they may be on may contain "Defects".  Among other things, Defects may take the form of incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other etext medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
 
-LIMITED WARRANTY; DISCLAIMER OF DAMAGES
-But for the "Right of Replacement or Refund" described below,
-[1] the Project (and any other party you may receive this
-etext from as a PROJECT GUTENBERG-tm etext) disclaims all
-liability to you for damages, costs and expenses, including
-legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES But for the "Right of Replacement or Refund" described below, [1] the Project (and any other party you may receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims all liability to you for damages, costs and expenses, including legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
 UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
 INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
 OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
 POSSIBILITY OF SUCH DAMAGES.
 
-If you discover a Defect in this etext within 90 days of
-receiving it, you can receive a refund of the money (if any)
-you paid for it by sending an explanatory note within that
-time to the person you received it from.  If you received it
-on a physical medium, you must return it with your note, and
-such person may choose to alternatively give you a replacement
-copy.  If you received it electronically, such person may
-choose to alternatively give you a second opportunity to
-receive it electronically.
+If you discover a Defect in this etext within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending an explanatory note within that time to the person you received it from.  If you received it on a physical medium, you must return it with your note, and such person may choose to alternatively give you a replacement copy.  If you received it electronically, such person may choose to alternatively give you a second opportunity to receive it electronically.
 
 THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
@@ -180,24 +92,11 @@ TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
 LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
 PARTICULAR PURPOSE.
 
-Some states do not allow disclaimers of implied warranties or
-the exclusion or limitation of consequential damages, so the
-above disclaimers and exclusions may not apply to you, and you
-may have other legal rights.
+Some states do not allow disclaimers of implied warranties or the exclusion or limitation of consequential damages, so the above disclaimers and exclusions may not apply to you, and you may have other legal rights.
 
-INDEMNITY
-You will indemnify and hold the Project, its directors,
-officers, members and agents harmless from all liability, cost
-and expense, including legal fees, that arise directly or
-indirectly from any of the following that you do or cause:
-[1] distribution of this etext, [2] alteration, modification,
-or addition to the etext, or [3] any Defect.
+INDEMNITY You will indemnify and hold the Project, its directors, officers, members and agents harmless from all liability, cost and expense, including legal fees, that arise directly or indirectly from any of the following that you do or cause: [1] distribution of this etext, [2] alteration, modification, or addition to the etext, or [3] any Defect.
 
-DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
-You may distribute copies of this etext electronically, or by
-disk, book or any other medium if you either delete this
-"Small Print!" and all other references to Project Gutenberg,
-or:
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm" You may distribute copies of this etext electronically, or by disk, book or any other medium if you either delete this "Small Print!" and all other references to Project Gutenberg, or:
 
 [1]  Only give exact copies of it.  Among other things, this
      requires that you do not remove, alter or modify the
@@ -228,7 +127,7 @@ or:
           or other equivalent proprietary form).
 
 [2]  Honor the etext refund and replacement provisions of this
-     "Small Print!" statement.
+"Small Print!" statement.
 
 [3]  Pay a trademark license fee to the Project of 20% of the
      net profits you derive calculated using the method you
@@ -236,20 +135,12 @@ or:
      don't derive profits, no royalty is due.  Royalties are
      payable to "Project Gutenberg Association / Illinois
      Benedictine College" within the 60 days following each
-     date you prepare (or were legally required to prepare)
-     your annual (or equivalent periodic) tax return.
+date you prepare (or were legally required to prepare)
+your annual (or equivalent periodic) tax return.
 
-WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
-The Project gratefully accepts contributions in money, time,
-scanning machines, OCR software, public domain etexts, royalty
-free copyright licenses, and every other sort of contribution
-you can think of.  Money should be paid to "Project Gutenberg
-Association / Illinois Benedictine College".
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO? The Project gratefully accepts contributions in money, time, scanning machines, OCR software, public domain etexts, royalty free copyright licenses, and every other sort of contribution you can think of.  Money should be paid to "Project Gutenberg Association / Illinois Benedictine College".
 
 *END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
-
-
-
 
 
 THE AMERICAN NEGRO
@@ -257,15 +148,9 @@ THE AMERICAN NEGRO
 HIS HISTORY AND LITERATURE
 
 
-
-
-
-
 RUNNING A THOUSAND MILES FOR FREEDOM
 
 William and Ellen Craft
-
-
 
 
 RUNNING A THOUSAND MILES FOR FREEDOM
@@ -273,21 +158,12 @@ OR, THE ESCAPE OF WILLIAM AND ELLEN CRAFT
 FROM SLAVERY.
 
 
-
-"Slaves cannot breathe in England: if their lungs
- Receive our air, that moment they are free;
- They touch our country, and their shackles fall."
+"Slaves cannot breathe in England: if their lungs Receive our air, that moment they are free; They touch our country, and their shackles fall."
 
 COWPER
 
 
-
-
-
 RUNNING A THOUSAND MILES FOR FREEDOM
-
-
-
 
 
 PREFACE.
@@ -307,8 +183,7 @@ gerous and exciting task of "running a thousand
 miles" in order to obtain those rights which are so
 vividly set forth in the Declaration.
 
-I beg those who would know the particulars of
-our journey, to peruse these pages.
+I beg those who would know the particulars of our journey, to peruse these pages.
 
 This book is not intended as a full history of the
 life of my wife, nor of myself; but merely as an
@@ -318,21 +193,15 @@ some minds a deeper abhorrence of the sinful and
 abominable practice of enslaving and brutifying our
 fellow-creatures.
 
-Without stopping to write a long apology for
-offering this little volume to the public, I shall
-commence at once to pursue my simple story.
+Without stopping to write a long apology for offering this little volume to the public, I shall commence at once to pursue my simple story.
 
 
 W. CRAFT.
 
 
-
 12, CAMBRIDGE ROAD,
 HAMMERSMITH,
 LONDON.
-
-
-
 
 
 RUNNING A THOUSAND MILES FOR
@@ -373,8 +242,7 @@ after it was first thought of we were free from the
 horrible trammels of slavery, rejoicing and praising
 God in the glorious sunshine of liberty.
 
-My wife's first master was her father, and her
-mother his slave, and the latter is still the slave of
+My wife's first master was her father, and her mother his slave, and the latter is still the slave of
 his widow.
 
 Notwithstanding my wife being of African ex-
@@ -429,9 +297,7 @@ fever of the country.  They immediately sent for
 the two girls; but they had disappeared, and the
 relatives, notwithstanding repeated and persevering
 inquiries and researches, could find no traces of
-them.  They were at length given up for dead.
-Dorothea was never again heard of; nor was any
-thing known of Salome from 1818 till 1843.
+them.  They were at length given up for dead. Dorothea was never again heard of; nor was any thing known of Salome from 1818 till 1843.
 
 In the summer of that year, Madame Karl, a
 German woman who had come over in the same
@@ -467,8 +333,7 @@ as certain the plaintiff was Salome Muller, the
 daughter of Daniel and Dorothea Muller, as of
 their own existence."
 
-Among the witnesses who appeared in Court was
-the midwife who had assisted at the birth of Salome.
+Among the witnesses who appeared in Court was the midwife who had assisted at the birth of Salome.
 She testified to the existence of certain peculiar
 marks upon the body of the child, which were
 found, exactly as described, by the surgeons who
@@ -539,9 +404,7 @@ bondage.  But Shakespeare, that great observer
 of human nature, says:--
 
 
-"With caution judge of probabilities.
-Things deemed unlikely, e'en impossible,
-Experience often shews us to be true."
+"With caution judge of probabilities. Things deemed unlikely, e'en impossible, Experience often shews us to be true."
 
 
 My wife's new mistress was decidedly more
@@ -579,11 +442,7 @@ will not let the oppressor of the weak, and the
 spoiler of the virtuous, escape unpunished here and
 hereafter.
 
-I believe a similar retribution to that which
-destroyed Sodom is hanging over the slaveholders.
-My sincere prayer is that they may not provoke
-God, by persisting in a reckless course of wicked-
-ness, to pour out his consuming wrath upon them.
+I believe a similar retribution to that which destroyed Sodom is hanging over the slaveholders. My sincere prayer is that they may not provoke God, by persisting in a reckless course of wicked- ness, to pour out his consuming wrath upon them.
 
 I must now return to our history.
 
@@ -642,9 +501,7 @@ master was unable to meet his payments; so the
 bank had us placed upon the auction stand and
 sold to the highest bidder.
 
-My poor sister was sold first: she was knocked
-down to a planter who resided at some distance
-in the country.  Then I was called upon the stand.
+My poor sister was sold first: she was knocked down to a planter who resided at some distance in the country.  Then I was called upon the stand.
 While the auctioneer was crying the bids, I saw
 the man that had purchased my sister getting her
 into a cart, to take her to his home.  I at once
@@ -740,8 +597,7 @@ suffer such punishment as would be inflicted in
 case the like offence had been committed on a free
 white person, and on the like proof, except in case
 of insurrection of such slave, and unless SUCH
-DEATH SHOULD HAPPEN BY ACCIDENT IN GIVING
-SUCH SLAVE MODERATE CORRECTION."--Prince's
+DEATH SHOULD HAPPEN BY ACCIDENT IN GIVING SUCH SLAVE MODERATE CORRECTION."--Prince's
 Digest, 559.
 
 I have known slaves to be beaten to death, but
@@ -842,14 +698,7 @@ I knew a very humane and wealthy gentleman,
 that bought a woman, with whom he lived as his
 
 
-* It is unlawful in the slave States for any one of purely
-European descent to intermarry with a person of African ex-
-traction; though a white man may live with as many coloured
-women as he pleases without materially damaging his reputa-
-tion in Southern society.
-wife.  They brought up a family of children,
-among whom were three nearly white, well edu-
-cated, and beautiful girls.
+* It is unlawful in the slave States for any one of purely European descent to intermarry with a person of African ex- traction; though a white man may live with as many coloured women as he pleases without materially damaging his reputa- tion in Southern society. wife.  They brought up a family of children, among whom were three nearly white, well edu- cated, and beautiful girls.
 
 On the father being suddenly killed it was found
 that he had not left a will; but, as the family had
@@ -871,9 +720,7 @@ calling itself a court of justice, but before whom
 no coloured person, nor an abolitionist, was ever
 known to get his full rights.
 
-A verdict was given in favour of the plaintiff,
-whom the better portion of the community thought
-had wilfully conspired to cheat the family.
+A verdict was given in favour of the plaintiff, whom the better portion of the community thought had wilfully conspired to cheat the family.
 
 The heartless wretch not only took the ordi-
 nary property, but actually had the aged and
@@ -906,7 +753,7 @@ tion, and
 "O, deep was the anguish of that slave mother's heart,
  When called from her darlings for ever to part;
  The poor mourning mother of reason bereft,
- Soon ended her sorrows, and sank cold in death."
+Soon ended her sorrows, and sank cold in death."
 
 
 Antoinette, the flower of the family, a girl who
@@ -918,7 +765,6 @@ an uneducated and drunken salve-dealer.
 I cannot give a more correct description of the
 scene, when she was called from her brother to the
 stand, than will be found in the following lines--
-
 
 
 "Why stands she near the auction stand?
@@ -960,10 +806,7 @@ menced by saying, "You should remember, Sir,
 that there is a just God."  Hoskens not under-
 standing Mrs. Huston, interrupted her by saying,
 "I does, and guess its monstrous kind an' him to
-send such likely niggers for our convenience."  Mrs.
-Huston finding that a long course of reckless
-wickedness, drunkenness, and vice, had destroyed
-in Hoskens every noble impulse, left him.
+send such likely niggers for our convenience."  Mrs. Huston finding that a long course of reckless wickedness, drunkenness, and vice, had destroyed in Hoskens every noble impulse, left him.
 
 Antoinette, poor girl, also seeing that there was
 no help for her, became frantic.  I can never forget
@@ -986,9 +829,7 @@ Antoinette like many other noble women who
 are deprived of liberty, still
 
 "Holds something sacred, something undefiled;
-Some pledge and keepsake of their higher nature.
-And, like the diamond in the dark, retains
-Some quenchless gleam of the celestial light."
+Some pledge and keepsake of their higher nature. And, like the diamond in the dark, retains Some quenchless gleam of the celestial light."
 
 
 On Hoskens fully realizing the fact that his
@@ -1011,22 +852,16 @@ for another purpose."  Mrs. Huston understood
 what this meant, and instantly exclaimed, "Oh,
 but she is your cousin!"  "The devil she is!" said
 Slator; and added, "Do you mean to insult me,
-Madam, by saying that I am related to niggers?"
-"No," replied Mrs. Huston, "I do not wish to
-offend you, Sir.  But wasn't Mr. Slator, Mary's
-father, your uncle?"  "Yes, I calculate he was,"
+Madam, by saying that I am related to niggers?" "No," replied Mrs. Huston, "I do not wish to offend you, Sir.  But wasn't Mr. Slator, Mary's father, your uncle?"  "Yes, I calculate he was,"
 said Slator; "but I want you and everybody to
 understand that I'm no kin to his niggers."  "Oh,
 very well," said Mrs. Huston; adding, "Now what
 will you take for the poor girl?"  "Nothin'," he
 replied; "for, as I said before, I'm not goin' to
-sell, so you needn't trouble yourself no more.
-If the critter behaves herself, I'll do as well by her
-as any man."
+sell, so you needn't trouble yourself no more. If the critter behaves herself, I'll do as well by her as any man."
 
 Slator spoke up boldly, but his manner and
 sheepish look clearly indicated that
-
 
 
 "His heart within him was at strife
@@ -1097,11 +932,7 @@ Savannah.  So Slator and several slavehunters on
 horseback started off in full tilt, with their blood-
 hounds, in pursuit of Frank and Mary.
 
-On arriving at Savannah, the hunters found that
-the fugitives had sold the horses and trap, and
-embarked as free white persons, for New York.
-Slator's disappointment and rascality so preyed
-upon his base mind, that he, like Judas, went and
+On arriving at Savannah, the hunters found that the fugitives had sold the horses and trap, and embarked as free white persons, for New York. Slator's disappointment and rascality so preyed upon his base mind, that he, like Judas, went and
 hanged himself.
 
 As soon as Frank and Mary were safe, they
@@ -1109,10 +940,7 @@ endeavoured to redeem their good mother.  But,
 alas! she was gone; she had passed on to the
 realm of spirit life.
 
-In due time Frank learned from his friends in
-Georgia where his little brother and sister dwelt.
-So he wrote at once to purchase them, but the
-persons with whom they lived would not sell them.
+In due time Frank learned from his friends in Georgia where his little brother and sister dwelt. So he wrote at once to purchase them, but the persons with whom they lived would not sell them.
 After failing in several attempts to buy them,
 Frank cultivated large whiskers and moustachios,
 cut off his hair, put on a wig and glasses, and
@@ -1135,19 +963,13 @@ to tears,--for she knew the face.  Frank might
 have said to her
 
 
-
 "'O, Emma!  O, my sister, speak to me!
  Dost thou not know me, that I am thy brother?
  Come to me, little Emma, thou shalt dwell
- With me henceforth, and know no care or want.'
- Emma was silent for a space, as if
- 'Twere hard to summon up a human voice."
-Frank and Mary's mother was my wife's own
+With me henceforth, and know no care or want.' Emma was silent for a space, as if 'Twere hard to summon up a human voice." Frank and Mary's mother was my wife's own
 dear aunt.
 
-After this great diversion from our narrative,
-which I hope dear reader, you will excuse, I shall
-return at once to it.
+After this great diversion from our narrative, which I hope dear reader, you will excuse, I shall return at once to it.
 
 My wife was torn from her mother's embrace
 in childhood, and taken to a distant part of the
@@ -1163,8 +985,7 @@ the marriage, but agreed to assist her in trying to
 devise some plan by which we might escape from
 our unhappy condition, and then be married.
 
-We thought of plan after plan, but they all
-seemed crowded with insurmountable difficulties.
+We thought of plan after plan, but they all seemed crowded with insurmountable difficulties.
 We knew it was unlawful for any public convey-
 ance to take us as passengers, without our master's
 consent.  We were also perfectly aware of the
@@ -1188,10 +1009,7 @@ victims to atoms, than allow one of them to escape
 to a free country, and expose the infamous system
 from which he fled.
 
-The greatest excitement prevails at a slave-hunt.
-The slaveholders and their hired ruffians appear to
-take more pleasure in this inhuman pursuit than
-English sportsmen do in chasing a fox or a stag.
+The greatest excitement prevails at a slave-hunt. The slaveholders and their hired ruffians appear to take more pleasure in this inhuman pursuit than English sportsmen do in chasing a fox or a stag.
 Therefore, knowing what we should have been
 compelled to suffer, if caught and taken back,
 we were more than anxious to hit upon a plan
@@ -1210,8 +1028,7 @@ upon the glimmering hope of liberty, and earnestly
 pray God mercifully to assist us to escape from our
 unjust thraldom.
 
-We were married, and prayed and toiled on till
-December, 1848, at which time (as I have stated)
+We were married, and prayed and toiled on till December, 1848, at which time (as I have stated)
 a plan suggested itself that proved quite success-
 ful, and in eight days after it was first thought of
 we were free from the horrible trammels of slavery,
@@ -1287,9 +1104,7 @@ soon as the time granted was up.  I thanked him
 kindly; but somehow I have not been able to make
 it convenient to return yet; and, as the free air of
 good old England agrees so well with my wife and our
-dear little ones, as well as with myself, it is not at all
-likely we shall return at present to the "peculiar in-
-stitution" of chains and stripes.
+dear little ones, as well as with myself, it is not at all likely we shall return at present to the "peculiar in- stitution" of chains and stripes.
 
 On reaching my wife's cottage she handed me
 her pass, and I showed mine, but at that time
@@ -1300,8 +1115,7 @@ tached, such as fines and imprisonment, which will
 be vigorously enforced upon any one who is humane
 enough to violate the so-called law.
 
-The following case will serve to show how per-
-sons are treated in the most enlightened slavehold-
+The following case will serve to show how per- sons are treated in the most enlightened slavehold-
 ing community.
 
 "INDICTMENT.
@@ -1362,10 +1176,7 @@ However, at first, we were highly delighted at
 the idea of having gained permission to be absent
 for a few days; but when the thought flashed
 across my wife's mind, that it was customary for
-travellers to register their names in the visitors'
-book at hotels, as well as in the clearance or
-Custom-house book at Charleston, South Carolina
---it made our spirits droop within us.
+travellers to register their names in the visitors' book at hotels, as well as in the clearance or Custom-house book at Charleston, South Carolina --it made our spirits droop within us.
 
 So, while sitting in our little room upon the
 verge of despair, all at once my wife raised her
@@ -1384,8 +1195,7 @@ to be worn under the chin, up the cheeks, and to
 tie over the head.  This nearly hid the expression
 of the countenance, as well as the beardless chin.
 
-The poultice is left off in the engraving, because
-the likeness could not have been taken well with
+The poultice is left off in the engraving, because the likeness could not have been taken well with
 it on.
 
 My wife, knowing that she would be thrown
@@ -1399,8 +1209,7 @@ We sat up all night discussing the plan, and
 making preparations.  Just before the time arrived,
 in the morning, for us to leave, I cut off my wife's
 hair square at the back of the head, and got her to
-dress in the disguise and stand out on the floor.
-I found that she made a most respectable looking
+dress in the disguise and stand out on the floor. I found that she made a most respectable looking
 gentleman.
 
 My wife had no ambition whatever to assume
@@ -1453,9 +1262,7 @@ public officers.  Should the prisoner prove to be a
 free man, he is most likely to be both whipped
 and fined.
 
-The great majority of slaveholders hate this class
-of persons with a hatred that can only be equalled
-by the condemned spirits of the infernal regions.
+The great majority of slaveholders hate this class of persons with a hatred that can only be equalled by the condemned spirits of the infernal regions.
 They have no mercy upon, nor sympathy for, any
 negro whom they cannot enslave.  They say that
 God made the black man to be a slave for the white,
@@ -1522,7 +1329,6 @@ and were it to their temporal interest, sell their
 country's independence, and barter away every
 man's birthright for a mess of pottage.  Well
 may Thomas Campbell say--
-
 
 
 United States, your banner wears,
@@ -1609,9 +1415,7 @@ but my MASTER (as I will now call my wife) took a
 longer way round, and only arrived there with the
 bulk of the passengers.  He obtained a ticket
 for himself and one for his slave to Savannah, the
-first port, which was about two hundred miles off.
-My master then had the luggage stowed away, and
-stepped into one of the best carriages.
+first port, which was about two hundred miles off. My master then had the luggage stowed away, and stepped into one of the best carriages.
 
 But just before the train moved off I peeped
 through the window, and, to my great astonishment,
@@ -1656,19 +1460,14 @@ into conversation and recognise his voice, my
 master resolved to feign deafness as the only means
 of self-defence.
 
-After a little while, Mr. Cray said to my master,
-"It is a very fine morning, sir."  The latter took
-no notice, but kept looking out of the window.
-Mr. Cray soon repeated this remark, in a little
-louder tone, but my master remained as before.
+After a little while, Mr. Cray said to my master, "It is a very fine morning, sir."  The latter took no notice, but kept looking out of the window. Mr. Cray soon repeated this remark, in a little louder tone, but my master remained as before.
 This indifference attracted the attention of the
 passengers near, one of whom laughed out.  This,
 I suppose, annoyed the old gentleman; so he said,
 "I will make him hear;" and in a loud tone of
 voice repeated, "It is a very fine morning, sir."
 
-My master turned his head, and with a polite
-bow said, "Yes," and commenced looking out of
+My master turned his head, and with a polite bow said, "Yes," and commenced looking out of
 the window again.
 
 One of the gentlemen remarked that it was a
@@ -1692,9 +1491,7 @@ persons who were opposed to oppression; and
 therefore, in his opinion, not the lowest, but the
 very highest, of God's creatures.
 
-Without the slightest objection on my master's
-part, the gentlemen left the carriage at Gordon,
-for Milledgeville (the capital of the State).
+Without the slightest objection on my master's part, the gentlemen left the carriage at Gordon, for Milledgeville (the capital of the State).
 
 We arrived at Savannah early in the evening,
 and got into an omnibus, which stopped at the
@@ -1737,10 +1534,7 @@ breakfast.
 He was seated at the right hand of the captain,
 who, together with all the passengers, inquired very
 kindly after his health.  As my master had one
-hand in a sling, it was my duty to carve his food.
-But when I went out the captain said, "You have
-a very attentive boy, sir; but you had better watch
-him like a hawk when you get on to the North.
+hand in a sling, it was my duty to carve his food. But when I went out the captain said, "You have a very attentive boy, sir; but you had better watch him like a hawk when you get on to the North.
 He seems all very well here, but he may act quite
 differently there.  I know several gentlemen who
 have lost their valuable niggers among them d----d
@@ -1838,8 +1632,7 @@ breakfast-table a young southern military officer,
 with whom he had travelled some distance the pre-
 vious day.
 
-After passing the usual compliments the conver-
-sation turned upon the old subject,--niggers.
+After passing the usual compliments the conver- sation turned upon the old subject,--niggers.
 
 The officer, who was also travelling with a man-
 servant, said to my master, "You will excuse me, Sir,
@@ -1864,18 +1657,14 @@ speak to them.  If every nigger was drilled in this
 manner, they would be as humble as dogs, and
 never dare to run away.
 
-The gentleman urged my master not to go to
-the North for the restoration of his health, but to
-visit the Warm Springs in Arkansas.
+The gentleman urged my master not to go to the North for the restoration of his health, but to visit the Warm Springs in Arkansas.
 
 My master said, he thought the air of Phila-
 delphia would suit his complaint best; and, not
 only so, he thought he could get better advice
 there.
 
-The boat had now reached the wharf.  The
-officer wished my master a safe and pleasant jour-
-ney, and left the saloon.
+The boat had now reached the wharf.  The officer wished my master a safe and pleasant jour- ney, and left the saloon.
 
 There were a large number of persons on the
 quay waiting the arrival of the steamer: but we
@@ -1930,9 +1719,7 @@ may state here, that on the sea-coast of South
 Carolina and Georgia the slaves speak worse Eng-
 lish than in any other part of the country.  This
 is owing to the frequent importation, or smug-
-gling in, of Africans, who mingle with the natives.
-Consequently the language cannot properly be
-called English or African, but a corruption of
+gling in, of Africans, who mingle with the natives. Consequently the language cannot properly be called English or African, but a corruption of
 the two.
 
 The shrewd son of African parents to whom I
@@ -1942,14 +1729,11 @@ don up buckra" (white man)?
 
 I replied, "To Philadelphia."
 
-"What!" he exclaimed, with astonishment, "to
-Philumadelphy?"
+"What!" he exclaimed, with astonishment, "to Philumadelphy?"
 
 "Yes," I said.
 
-"By squash!  I wish I was going wid you!  I
-hears um say dat dare's no slaves way over in dem
-parts; is um so?"
+"By squash!  I wish I was going wid you!  I hears um say dat dare's no slaves way over in dem parts; is um so?"
 
 I quietly said, "I have heard the same thing."
 
@@ -1977,9 +1761,7 @@ never forget his earnest request, nor fail to do
 what little I can to release the millions of unhappy
 bondmen, of whom he was one.
 
-At the proper time my master had the poultices
-placed on, came down, and seated himself at a table
-in a very brilliant dining-room, to have his dinner.
+At the proper time my master had the poultices placed on, came down, and seated himself at a table in a very brilliant dining-room, to have his dinner.
 I had to have something at the same time, in order
 to be ready for the boat; so they gave me my
 dinner in an old broken plate, with a rusty knife
@@ -2071,11 +1853,9 @@ a rule to be very strict at Charleston.  I have
 known families to be detained there with their
 slaves till reliable information could be received
 respecting them.  If they were not very careful,
-any d----d abolitionist might take off a lot of valuable
-niggers."
+any d----d abolitionist might take off a lot of valuable niggers."
 
-My master said, "I suppose so," and thanked
-him again for helping him over the difficulty.
+My master said, "I suppose so," and thanked him again for helping him over the difficulty.
 
 We reached Wilmington the next morning, and
 took the train for Richmond, Virginia.  I have
@@ -2120,8 +1900,7 @@ sir," replied the gentleman in the poultices.
 I be allowed to ask?"  "Inflammatory rheumatism,
 sir."  "Oh! that is very bad, sir," said the kind
 gentleman: "I can sympathise with you; for I know
-from bitter experience what the rheumatism is."
-If he did, he knew a good deal more than Mr.
+from bitter experience what the rheumatism is." If he did, he knew a good deal more than Mr.
 Johnson.
 
 The gentleman thought my master would feel
@@ -2144,9 +1923,7 @@ fell in love with the wrong chap."
 After my master had been lying a little while he
 got up, the gentleman assisted him in getting on
 his cloak, the ladies took their shawls, and soon
-they were all seated.  They then insisted upon Mr.
-Johnson taking some of their refreshments, which
-of course he did, out of courtesy to the ladies.
+they were all seated.  They then insisted upon Mr. Johnson taking some of their refreshments, which of course he did, out of courtesy to the ladies.
 All went on enjoying themselves until they reached
 Richmond, where the ladies and their father left
 the train.  But, before doing so, the good old
@@ -2169,8 +1946,7 @@ takes place.  After changing trains we went on a
 little beyond Fredericksburg, and took a steamer
 to Washington.
 
-At Richmond, a stout elderly lady, whose whole
-demeanour indicated that she belonged (as Mrs.
+At Richmond, a stout elderly lady, whose whole demeanour indicated that she belonged (as Mrs.
 Stowe's Aunt Chloe expresses it) to one of the
 "firstest families," stepped into the carriage, and
 took a seat near my master.  Seeing me passing
@@ -2180,9 +1956,7 @@ there goes my nigger, Ned!"
 
 My master said, "No; that is my boy."
 
-The lady paid no attention to this; she poked
-her head out of the window, and bawled to me,
-"You Ned, come to me, sir, you runaway rascal!"
+The lady paid no attention to this; she poked her head out of the window, and bawled to me, "You Ned, come to me, sir, you runaway rascal!"
 
 On my looking round she drew her head in, and
 said to my master, "I beg your pardon, sir, I was
@@ -2202,12 +1976,9 @@ without having any cause whatever."
 
 "When did he leave you?" asked Mr. Johnson.
 
-"About eighteen months ago, and I have never
-seen hair or hide of him since."
+"About eighteen months ago, and I have never seen hair or hide of him since."
 
-"Did he have a wife?" enquired a very respect-
-able-looking young gentleman, who was sitting near
-my master and opposite to the lady.
+"Did he have a wife?" enquired a very respect- able-looking young gentleman, who was sitting near my master and opposite to the lady.
 
 "No, sir; not when he left, though he did have
 one a little before that.  She was very unlike him;
@@ -2217,8 +1988,7 @@ so ill, that she was unable to do much work; so I
 thought it would be best to sell her, to go to New
 Orleans, where the climate is nice and warm."
 
-"I suppose she was very glad to go South for the
-restoration of her health?" said the gentleman.
+"I suppose she was very glad to go South for the restoration of her health?" said the gentleman.
 
 "No; she was not," replied the lady, "for
 niggers never know what is best for them.  She
@@ -2268,9 +2038,7 @@ had he been in his right mind, and, therefore we
 had the will altered as it should have been in the
 first place."
 
-"Did you mean, madam," asked my master,
-"that willing the slaves free was unjust to yourself,
-or unkind to them?"
+"Did you mean, madam," asked my master, "that willing the slaves free was unjust to yourself, or unkind to them?"
 
 "I mean that it was decidedly unkind to the
 servants themselves.  It always seems to me such
@@ -2284,11 +2052,9 @@ own account, for they are a great deal more trouble
 than they are worth, I sometimes wish that there
 was not one of them in the world; for the un-
 grateful wretches are always running away.  I have
-lost no less than ten since my poor husband died.
-It's ruinous, sir!"
+lost no less than ten since my poor husband died. It's ruinous, sir!"
 
-"But as you are well provided for, I suppose you
-do not feel the loss very much," said the pas-
+"But as you are well provided for, I suppose you do not feel the loss very much," said the pas-
 senger.
 
 "I don't feel it at all," haughtily continued the
@@ -2307,10 +2073,7 @@ have concluded to do.  I have just been to Rich-
 mond and made arrangements with my agent to
 make clean work of the forty that are left."
 
-"Your son being a good Christian minister,"
-said the gentleman, "It's strange he did not advise
-you to let the poor negroes have their liberty and
-go North."
+"Your son being a good Christian minister," said the gentleman, "It's strange he did not advise you to let the poor negroes have their liberty and go North."
 
 "It's not at all strange, sir; it's not at all
 strange.  My son knows what's best for the nig-
@@ -2344,8 +2107,7 @@ hides well for them!  God forgive me," added the
 old soul, "the niggers will make me lose all my
 religion!"
 
-By this time the lady had reached her destination.
-The gentleman got out at the next station beyond.
+By this time the lady had reached her destination. The gentleman got out at the next station beyond.
 As soon as she was gone, the young Southerner
 said to my master, "What a d----d shame it is for
 that old whining hypocritical humbug to cheat
@@ -2361,10 +2123,7 @@ an uncouth planter, who had been watching me
 very closely, said to my master, "I reckon, stranger,
 you are 'SPILING' that ere nigger of yourn, by letting
 him wear such a devilish fine hat.  Just look at the
-quality on it; the President couldn't wear a better.
-I should just like to go and kick it overboard."
-His friend touched him, and said, "Don't speak so
-to a gentleman."  "Why not?" exclaimed the fellow.
+quality on it; the President couldn't wear a better. I should just like to go and kick it overboard." His friend touched him, and said, "Don't speak so to a gentleman."  "Why not?" exclaimed the fellow.
 He grated his short teeth, which appeared to be
 nearly worn away by the incessant chewing of
 tobacco, and said, "It always makes me itch all
@@ -2382,10 +2141,7 @@ making any reply.  In a few minutes we were
 landed at Washington, where we took a conveyance
 and hurried off to the train for Baltimore.
 
-We left our cottage on Wednesday morning, the
-21st of December, 1848, and arrived at Baltimore,
-Saturday evening, the 24th (Christmas Eve).
-Baltimore was the last slave port of any note at
+We left our cottage on Wednesday morning, the 21st of December, 1848, and arrived at Baltimore, Saturday evening, the 24th (Christmas Eve). Baltimore was the last slave port of any note at
 which we stopped.
 
 On arriving there we felt more anxious than
@@ -2405,10 +2161,7 @@ to step into mine, an officer, a full-blooded Yankee
 of the lower order, saw me.  He came quickly up,
 and, tapping me on the shoulder, said in his un-
 mistakable native twang, together with no little dis-
-play of his authority, "Where are you going, boy?"
-"To Philadelphia, sir," I humbly replied.  "Well,
-what are you going there for?"  "I am travelling
-with my master, who is in the next carriage, sir."
+play of his authority, "Where are you going, boy?" "To Philadelphia, sir," I humbly replied.  "Well, what are you going there for?"  "I am travelling with my master, who is in the next carriage, sir."
 "Well, I calculate you had better get him out; and
 be mighty quick about it, because the train will
 soon be starting.  It is against my rules to let any
@@ -2546,11 +2299,7 @@ the best carriages, and leaped into mine just as
 the train was gliding off towards our happy desti-
 nation.
 
-We thought of this plan about four days before
-we left Macon; and as we had our daily employ-
-ment to attend to, we only saw each other at night.
-So we sat up the four long nights talking over the
-plan and making preparations.
+We thought of this plan about four days before we left Macon; and as we had our daily employ- ment to attend to, we only saw each other at night. So we sat up the four long nights talking over the plan and making preparations.
 
 We had also been four days on the journey;
 and as we travelled night and day, we got but
@@ -2617,10 +2366,7 @@ hoping to meet me some day in a land of liberty,
 and as he had the tickets, he thought it best
 upon the whole to enter the boat and come off to
 Philadelphia, and endeavour to make his way alone
-in this cold and hollow world as best he could.
-The time was now up, so he went on board and
-came across with feelings that can be better
-imagined than described.
+in this cold and hollow world as best he could. The time was now up, so he went on board and came across with feelings that can be better imagined than described.
 
 After the train had got fairly on the way to
 Philadelphia, the guard came into my car and gave
@@ -2654,21 +2400,13 @@ liberty."  "No, sir," I indifferently replied, "I
 can't promise to do that."  "Why not?" said the
 
 
-* I may state here that every man slave is called boy till he
-is very old, then the more respectable slaveholders call him
-uncle.  The women are all girls till they are aged, then they
-are called aunts.  This is the reason why Mrs. Stowe calls her
-characters Uncle Tom, Aunt Chloe, Uncle Tiff, &c.
+* I may state here that every man slave is called boy till he is very old, then the more respectable slaveholders call him uncle.  The women are all girls till they are aged, then they are called aunts.  This is the reason why Mrs. Stowe calls her characters Uncle Tom, Aunt Chloe, Uncle Tiff, &c.
 conductor, evidently much surprised; "don't you
 want your liberty?"  "Yes, sir," I replied; "but
 I shall never run away from such a good master as
 I have at present."
 
-One of the men said to the guard, "Let him
-alone; I guess he will open his eyes when he gets
-to Philadelphia, and see things in another light."
-After giving me a good deal of information, which
-I afterwards found to be very useful, they left me
+One of the men said to the guard, "Let him alone; I guess he will open his eyes when he gets to Philadelphia, and see things in another light." After giving me a good deal of information, which I afterwards found to be very useful, they left me
 alone.
 
 I also met with a coloured gentleman on this
@@ -2725,9 +2463,6 @@ difficulties, in escaping out of the jaws of the
 wicked.
 
 
-
-
-
 PART II.
 
 --------------
@@ -2773,9 +2508,7 @@ opposed to slavery and to kidnapping, that it was
 almost impossible for any one to take a fugitive
 slave out of that State.
 
-So we took the advice of our good Philadelphia
-friends, and settled at Boston.  I shall have some-
-thing to say about our sojourn there presently.
+So we took the advice of our good Philadelphia friends, and settled at Boston.  I shall have some- thing to say about our sojourn there presently.
 
 Among other friends we met with at Philadel-
 phia, was Robert Purves, Esq., a well educated and
@@ -2914,12 +2647,10 @@ hunted human being, but also should assist, if
 called upon by the authorities, to seize the unhappy
 fugitive and send him back to slavery.
 
-In no case is a person's evidence admitted in
-Court, in defence of his liberty, when arrested
+In no case is a person's evidence admitted in Court, in defence of his liberty, when arrested
 under this law.
 
-If the judge decides that the prisoner is a slave,
-he gets ten dollars; but if he sets him at liberty, he
+If the judge decides that the prisoner is a slave, he gets ten dollars; but if he sets him at liberty, he
 only receives five.
 
 After the prisoner has been sentenced to slavery,
@@ -2929,9 +2660,7 @@ Government, to summon a sufficient force to take
 the poor creature back to slavery, and to the lash,
 from which he fled.
 
-Our old masters sent agents to Boston after us.
-They took out warrants, and placed them in the
-hands of the United States Marshal to execute.
+Our old masters sent agents to Boston after us. They took out warrants, and placed them in the hands of the United States Marshal to execute.
 But the following letter from our highly esteemed
 and faithful friend, the Rev. Samuel May, of Bos-
 ton, to our equally dear and much lamented friend,
@@ -2939,9 +2668,7 @@ Dr. Estlin of Bristol, will show why we were not
 taken into custody.
 
 
-
-"21, Cornhill, Boston,
-"November 6th, 1850.
+"21, Cornhill, Boston, "November 6th, 1850.
 
 "My dear Mr Estlin,
 
@@ -2949,9 +2676,7 @@ taken into custody.
 will be handed to you in safety by our good friends,
 William and Ellen Craft.  They have lived amongst
 us about two years, and have proved themselves worthy,
-in all respects, of our confidence and regard.
-The laws of this republican and Christian land
-(tell it not in Moscow, nor in Constantinople)
+in all respects, of our confidence and regard. The laws of this republican and Christian land (tell it not in Moscow, nor in Constantinople)
 regard them only as slaves--chattels--
 personal property.  But they nobly vindicated their
 title and right to freedom, two years since, by win-
@@ -3068,7 +2793,6 @@ for all your kind words and deeds towards us,
 "SAMUEL MAY, JUN."
 
 
-
 Our old masters, having heard how their agents
 were treated at Boston, wrote to Mr. Filmore, who
 was then President of the States, to know what
@@ -3115,9 +2839,7 @@ the generous protection that is given to unfortunate
 refugees of every rank, and of every colour and
 clime.
 
-On the passing of the Fugitive Slave Bill, the
-following learned doctors, as well as a host of lesser
-traitors, came out strongly in its defence.
+On the passing of the Fugitive Slave Bill, the following learned doctors, as well as a host of lesser traitors, came out strongly in its defence.
 
 The Rev. Dr. Gardiner Spring, an eminent
 Presbyterian Clergyman of New York, well known
@@ -3147,10 +2869,7 @@ The Rev. Dr. Spencer, of Brooklyn, New York,
 has come forward in support of the "Fugitive
 Slave Bill," by publishing a sermon entitled the
 "Religious Duty of Obedience to the Laws," which
-has elicited the highest encomiums from Dr.
-Samuel H. Cox, the Presbyterian minister of
-Brooklyn (notorious both in this country and
-America for his sympathy with the slaveholder).
+has elicited the highest encomiums from Dr. Samuel H. Cox, the Presbyterian minister of Brooklyn (notorious both in this country and America for his sympathy with the slaveholder).
 
 The Rev. W. M. Rogers, an orthodox minister
 of Boston, delivered a sermon in which he
@@ -3245,10 +2964,7 @@ with thee, even among you, in that place which he
 shall choose in one of thy gates, where it liketh him
 best: thou shalt not oppress him."
 
-"Hide the outcast.  Bewray not him that wan-
-dereth.  Let mine outcasts dwell with thee.  Be
-thou a covert to them from the face of the spoiler."
---(Isa. xvi. 3, 4.)
+"Hide the outcast.  Bewray not him that wan- dereth.  Let mine outcasts dwell with thee.  Be thou a covert to them from the face of the spoiler." --(Isa. xvi. 3, 4.)
 
 The great majority of the American ministers are
 not content with uttering sentences similar to the
@@ -3277,20 +2993,15 @@ digestion.
 "I venerate the man whose heart is warm,
  Whose hands are pure; whose doctrines and whose life
  Coincident, exhibit lucid proof
- That he is honest in the sacred cause."
+That he is honest in the sacred cause."
 
 
-"But grace abused brings forth the foulest deeds,
- As richest soil the most luxuriant weeds."
+"But grace abused brings forth the foulest deeds, As richest soil the most luxuriant weeds."
 
 
+I must now leave the reverend gentlemen in the hands of Him who knows best how to deal with a recreant ministry.
 
-I must now leave the reverend gentlemen in
-the hands of Him who knows best how to deal with
-a recreant ministry.
-
-I do not wish it to be understood that all the
-ministers of the States are of the Balaam stamp.
+I do not wish it to be understood that all the ministers of the States are of the Balaam stamp.
 There are those who are as uncompromising with
 slaveholders as Moses was with Pharaoh, and, like
 Daniel, will never bow down before the great false
@@ -3305,8 +3016,7 @@ of being the guest of the late and much lamented
 Daniel Oliver, Esq., one of the best and most hospi-
 table men in the State.  By simply fulfilling the
 Scripture injunction, to take in the stranger, &c.,
-he ran the risk of incurring a penalty of 2,000
-dollars, and twelve months' imprisonment.
+he ran the risk of incurring a penalty of 2,000 dollars, and twelve months' imprisonment.
 
 But neither the Fugitive Slave Law, nor any other
 Satanic enactment, can ever drive the spirit of
@@ -3366,8 +3076,7 @@ which we came that we were bound for England,
 the proprietor's native country, he treated us in the
 most respectful manner.
 
-At the above house, the boots (whose name I for-
-get) was a fugitive slave, a very intelligent and active
+At the above house, the boots (whose name I for- get) was a fugitive slave, a very intelligent and active
 man, about forty-five years of age.  Soon after his
 marriage, while in slavery, his bride was sold away
 from him, and he could never learn where the poor
@@ -3431,8 +3140,7 @@ arrive at Halifax at dark, just two hours after the
 steamer had gone; consequently we had to wait
 there a fortnight, for the Cambria.
 
-The coach was patched up, and reached Halifax
-with the luggage, soon after the passengers arrived.
+The coach was patched up, and reached Halifax with the luggage, soon after the passengers arrived.
 The only respectable hotel that was then in the
 town had suspended business, and was closed; so
 we went to the inn, opposite the market, where
@@ -3457,12 +3165,7 @@ you; he is my husband."  "My God!" exclaimed
 the woman as she flounced out and banged to the
 door.  On going upstairs, I heard what had taken
 place: but, as we were there, and did not mean
-to leave that night, we did not disturb ourselves.
-On our ordering tea, the landlady sent word back
-to say that we must take it in the kitchen, or in our
-bed-room, as she had no other room for "niggers."
-We replied that we were not particular, and that
-they could sent it up to our room,--which they did.
+to leave that night, we did not disturb ourselves. On our ordering tea, the landlady sent word back to say that we must take it in the kitchen, or in our bed-room, as she had no other room for "niggers." We replied that we were not particular, and that they could sent it up to our room,--which they did.
 
 After the pro-slavery persons who were staying
 there heard that we were in, the whole house
@@ -3472,8 +3175,7 @@ coming among white folks."  Some of them said
 they would not stop there a minute if there was
 another house to go to.
 
-The mistress came up the next morning to know
-how long we wished to stop.  We said a fortnight.
+The mistress came up the next morning to know how long we wished to stop.  We said a fortnight.
 "Oh! dear me, it is impossible for us to accom-
 modate you, and I think you had better go: you
 must understand, I have no prejudice myself; I
@@ -3527,12 +3229,9 @@ my wife was very poorly, and was also so ill on the
 voyage that I did not believe she could live to see
 Liverpool.
 
-However, I am thankful to say she arrived;
-and, after laying up at Liverpool very ill for two or
-three weeks, gradually recovered.
+However, I am thankful to say she arrived; and, after laying up at Liverpool very ill for two or three weeks, gradually recovered.
 
-It was not until we stepped upon the shore at
-Liverpool that we were free from every slavish
+It was not until we stepped upon the shore at Liverpool that we were free from every slavish
 fear.
 
 We raised our thankful hearts to Heaven, and
@@ -3540,8 +3239,7 @@ could have knelt down, like the Neapolitan exiles,
 and kissed the soil; for we felt that from slavery
 
 
-"Heaven sure had kept this spot of earth uncurs'd,
- To show how all lthings were created first."
+"Heaven sure had kept this spot of earth uncurs'd, To show how all lthings were created first."
 
 
 In a few days after we landed, the Rev. Francis
@@ -3555,9 +3253,7 @@ to Mr. Estlin, who at once wrote to invite us to his
 house at Bristol.  On arriving there, both Mr. and
 Miss Estlin received us as cordially as did our first
 good Quaker friends in Pennsylvania.  It grieves
-me much to have to mention that he is no more.
-Everyone who knew him can truthfully say--
-
+me much to have to mention that he is no more. Everyone who knew him can truthfully say--
 
 
 "Peace to the memory of a man of worth,
@@ -3618,9 +3314,6 @@ trodden and outraged humanity.
 JAMES RUSSELL LOWELL.
 
 
-
-
-
 In the preceding pages I have not dwelt upon
 the great barbarities which are practised upon the
 slaves; because I wish to present the system in its
@@ -3645,29 +3338,16 @@ notoriously mean and cruel towards all coloured
 persons, whether they are bond or free.
 
 
-
      "Oh, tyrant, thou who sleepest
  On a volcano, from whose pent-up wrath,
  Already some red flashes bursting up,
- Beware!"
-
-
-
-
+Beware!"
 
 
 End of the Project Gutenberg Etext of Running a Thousand Miles for Freedom
 
 
-
-
-Note:  I have omitted the running heads [RUNNING A THOUSAND MILES
-and FOR FREEDOM], the cedilla on "Macon" [pages 15, 55, 74, and
-89], the acute accent on "Salome" [pages 3, 4, 5, and 6], and
-the circumflex accent on "prima" [page 36], and the signatures
-[B through H2, pages 1, 3, 17, 33, 35, 49, 51, 65, 67, 81, 83, 97,
-and 99].  In addition I have made the following changes to the
-text:
+Note:  I have omitted the running heads [RUNNING A THOUSAND MILES and FOR FREEDOM], the cedilla on "Macon" [pages 15, 55, 74, and 89], the acute accent on "Salome" [pages 3, 4, 5, and 6], and the circumflex accent on "prima" [page 36], and the signatures [B through H2, pages 1, 3, 17, 33, 35, 49, 51, 65, 67, 81, 83, 97, and 99].  In addition I have made the following changes to the text:
 PAGE  LINE  ORIGINAL          CHANGED TO
   14    21  "mode ate         moderate
   22    18  Hoskins,          Hoskens,
@@ -3686,8 +3366,3 @@ PAGE  LINE  ORIGINAL          CHANGED TO
  101    18  house."           house.
  102     5  "Please           "Please,
  103    27  long she          long as she
-  
-
-
-End of the Project Gutenberg Etext of Running a Thousand Miles for Freedom
-

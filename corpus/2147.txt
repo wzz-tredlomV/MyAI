@@ -1,8 +1,3 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 2147 ***
-
-
-
-
 The Works of Edgar Allan Poe
 
 by Edgar Allan Poe
@@ -12,26 +7,24 @@ The Raven Edition
 
 Contents
 
- PREFACE
- LIFE OF POE
- DEATH OF POE
- THE UNPARALLELED ADVENTURES OF ONE HANS PFAALL
- THE GOLD-BUG
- FOUR BEASTS IN ONE—THE HOMO-CAMELEOPARD
- THE MURDERS IN THE RUE MORGUE
- THE MYSTERY OF MARIE ROGET.(*1)
- THE BALLOON-HOAX
- MS. FOUND IN A BOTTLE
- THE OVAL PORTRAIT
-
-
+PREFACE
+LIFE OF POE
+DEATH OF POE
+THE UNPARALLELED ADVENTURES OF ONE HANS PFAALL
+THE GOLD-BUG
+FOUR BEASTS IN ONE—THE HOMO-CAMELEOPARD
+THE MURDERS IN THE RUE MORGUE
+THE MYSTERY OF MARIE ROGET.(*1)
+THE BALLOON-HOAX
+MS. FOUND IN A BOTTLE
+THE OVAL PORTRAIT
 
 
 EDGAR ALLAN POE
 AN APPRECIATION
 
-   Caught from some unhappy master whom unmerciful Disaster
-   Followed fast and followed faster till his songs one burden bore—
+Caught from some unhappy master whom unmerciful Disaster
+Followed fast and followed faster till his songs one burden bore—
    Till the dirges of his Hope that melancholy burden bore
          Of “never—never more!”
 
@@ -82,11 +75,11 @@ AN APPRECIATION
       “Ligeia”; such fascinating hoaxes as “The Unparalleled Adventure
       of Hans Pfaall,” “MSS. Found in a Bottle,” “A Descent Into a
       Maelstrom” and “The Balloon-Hoax”; such tales of conscience as
-      “William Wilson,” “The Black Cat” and “The Tell-tale Heart,”
-      wherein the retributions of remorse are portrayed with an awful
-      fidelity; such tales of natural beauty as “The Island of the Fay”
-      and “The Domain of Arnheim”; such marvellous studies in
-      ratiocination as the “Gold-bug,” “The Murders in the Rue Morgue,”
+“William Wilson,” “The Black Cat” and “The Tell-tale Heart,”
+wherein the retributions of remorse are portrayed with an awful
+fidelity; such tales of natural beauty as “The Island of the Fay”
+and “The Domain of Arnheim”; such marvellous studies in
+ratiocination as the “Gold-bug,” “The Murders in the Rue Morgue,”
       “The Purloined Letter” and “The Mystery of Marie Roget,” the
       latter, a recital of fact, demonstrating the author’s wonderful
       capability of correctly analyzing the mysteries of the human
@@ -117,20 +110,20 @@ AN APPRECIATION
       claim!
 
       Edgar’s father, a son of General David Poe, the American
-      revolutionary patriot and friend of Lafayette, had married Mrs.
-      Hopkins, an English actress, and, the match meeting with parental
-      disapproval, had himself taken to the stage as a profession.
-      Notwithstanding Mrs. Poe’s beauty and talent the young couple had
-      a sorry struggle for existence. When Edgar, at the age of two
-      years, was orphaned, the family was in the utmost destitution.
+revolutionary patriot and friend of Lafayette, had married Mrs.
+Hopkins, an English actress, and, the match meeting with parental
+disapproval, had himself taken to the stage as a profession.
+Notwithstanding Mrs. Poe’s beauty and talent the young couple had
+a sorry struggle for existence. When Edgar, at the age of two
+years, was orphaned, the family was in the utmost destitution.
       Apparently the future poet was to be cast upon the world homeless
       and friendless. But fate decreed that a few glimmers of sunshine
       were to illumine his life, for the little fellow was adopted by
       John Allan, a wealthy merchant of Richmond, Va. A brother and
-      sister, the remaining children, were cared for by others.
+sister, the remaining children, were cared for by others.
 
-      In his new home Edgar found all the luxury and advantages money
-      could provide. He was petted, spoiled and shown off to strangers.
+In his new home Edgar found all the luxury and advantages money
+could provide. He was petted, spoiled and shown off to strangers.
       In Mrs. Allan he found all the affection a childless wife could
       bestow. Mr. Allan took much pride in the captivating, precocious
       lad. At the age of five the boy recited, with fine effect,
@@ -183,14 +176,14 @@ AN APPRECIATION
 
       Poe’s first genuine victory was won in 1833, when he was the
       successful competitor for a prize of $100 offered by a Baltimore
-      periodical for the best prose story. “A MSS. Found in a Bottle”
-      was the winning tale. Poe had submitted six stories in a volume.
-      “Our only difficulty,” says Mr. Latrobe, one of the judges, “was
-      in selecting from the rich contents of the volume.”
+periodical for the best prose story. “A MSS. Found in a Bottle”
+was the winning tale. Poe had submitted six stories in a volume.
+“Our only difficulty,” says Mr. Latrobe, one of the judges, “was
+in selecting from the rich contents of the volume.”
 
-      During the fifteen years of his literary life Poe was connected
-      with various newspapers and magazines in Richmond, Philadelphia
-      and New York. He was faithful, punctual, industrious, thorough.
+During the fifteen years of his literary life Poe was connected
+with various newspapers and magazines in Richmond, Philadelphia
+and New York. He was faithful, punctual, industrious, thorough.
       N. P. Willis, who for some time employed Poe as critic and
       sub-editor on the “Evening Mirror,” wrote thus:
 
@@ -296,15 +289,13 @@ AN APPRECIATION
 W. H. R.
 
 
-
-
 EDGAR ALLAN POE
 
 
 By James Russell Lowell
 
-      The situation of American literature is anomalous. It has no
-      centre, or, if it have, it is like that of the sphere of Hermes.
+The situation of American literature is anomalous. It has no
+centre, or, if it have, it is like that of the sphere of Hermes.
       It is divided into many systems, each revolving round its several
       suns, and often presenting to the rest only the faint glimmer of
       a milk-and-water way. Our capital city, unlike London or Paris,
@@ -631,9 +622,7 @@ On the harmony there?
       attained an individual eminence in our literature which he will
       keep. He has given proof of power and originality. He has done
       that which could only be done once with success or safety, and
-      the imitation or repetition of which would produce weariness.
-
-
+the imitation or repetition of which would produce weariness.
 
 
 DEATH OF EDGAR A. POE
@@ -837,12 +826,12 @@ Till the dirges of his Hope that melancholy burden bore
       this, may I beg you to take out of the tomb, and bring them to
       light in the ‘Home Journal?’ If you can oblige me so far as to
       copy them, I do not think it will be necessary to say ‘From the
-      ——,’ that would be too bad; and, perhaps, ‘From a late —— paper,’
-      would do.
+——,’ that would be too bad; and, perhaps, ‘From a late —— paper,’
+would do.
 
-      “I have not forgotten how a ‘good word in season’ from you made
-      ‘The Raven,’ and made ‘Ulalume’ (which by-the-way, people have
-      done me the honor of attributing to you), therefore, I _would_
+“I have not forgotten how a ‘good word in season’ from you made
+‘The Raven,’ and made ‘Ulalume’ (which by-the-way, people have
+done me the honor of attributing to you), therefore, I _would_
       ask you (if I dared) to say something of these lines if they
       please you.
 
@@ -875,8 +864,8 @@ Till the dirges of his Hope that melancholy burden bore
       all. I have chosen a broad text: ‘The Universe.’
 
       “Having thus given you _the facts_ of the case, I leave all the
-      rest to the suggestions of your own tact and generosity.
-      Gratefully, _most gratefully,_
+rest to the suggestions of your own tact and generosity.
+Gratefully, _most gratefully,_
 
 “Your friend always,
 “EDGAR A. POE.”
@@ -948,9 +937,9 @@ Till the dirges of his Hope that melancholy burden bore
       is—to warrant the truth of the picture we have drawn above, and
       add force to the appeal we wish to make for her:
 
-      “I have this morning heard of the death of my darling Eddie....
-      Can you give me any circumstances or particulars?... Oh! do not
-      desert your poor friend in his bitter affliction!... Ask Mr. ——
+“I have this morning heard of the death of my darling Eddie....
+Can you give me any circumstances or particulars?... Oh! do not
+desert your poor friend in his bitter affliction!... Ask Mr. ——
       to come, as I must deliver a message to him from my poor
       Eddie.... I need not ask you to notice his death and to speak
       well of him. I know you will. But say what an affectionate son he
@@ -970,8 +959,6 @@ Till the dirges of his Hope that melancholy burden bore
       far or near, will send to us what may aid and cheer her through
       the remainder of her life, we will joyfully place it in her
       hands.
-
-
 
 
 THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL (*1)
@@ -1094,11 +1081,11 @@ THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL (*1)
       suddenly seized with a fit of trepidation, and appeared
       disinclined to make any nearer approach to terra firma. Throwing
       out, therefore, a quantity of sand from a canvas bag, which, he
-      lifted with great difficulty, he became stationary in an instant.
-      He then proceeded, in a hurried and agitated manner, to extract
-      from a side-pocket in his surtout a large morocco pocket-book.
-      This he poised suspiciously in his hand, then eyed it with an air
-      of extreme surprise, and was evidently astonished at its weight.
+lifted with great difficulty, he became stationary in an instant.
+He then proceeded, in a hurried and agitated manner, to extract
+from a side-pocket in his surtout a large morocco pocket-book.
+This he poised suspiciously in his hand, then eyed it with an air
+of extreme surprise, and was evidently astonished at its weight.
       He at length opened it, and drawing there from a huge letter
       sealed with red sealing-wax and tied carefully with red tape, let
       it fall precisely at the feet of the burgomaster, Superbus Von
@@ -1653,9 +1640,9 @@ THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL (*1)
       the horizon obliquely upward, and follows generally the direction
       of the sun’s equator. It appeared to me evidently in the nature
       of a rare atmosphere extending from the sun outward, beyond the
-      orbit of Venus at least, and I believed indefinitely farther.(*2)
-      Indeed, this medium I could not suppose confined to the path of
-      the comet’s ellipse, or to the immediate neighborhood of the sun.
+orbit of Venus at least, and I believed indefinitely farther.(*2)
+Indeed, this medium I could not suppose confined to the path of
+the comet’s ellipse, or to the immediate neighborhood of the sun.
       It was easy, on the contrary, to imagine it pervading the entire
       regions of our planetary system, condensed into what we call
       atmosphere at the planets themselves, and perhaps at some of them
@@ -1846,13 +1833,13 @@ THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL (*1)
       and the possible consequences to myself, should I return,
       operated to deter me for the moment. I lay down in the bottom of
       the car, and endeavored to collect my faculties. In this I so far
-      succeeded as to determine upon the experiment of losing blood.
-      Having no lancet, however, I was constrained to perform the
-      operation in the best manner I was able, and finally succeeded in
-      opening a vein in my right arm, with the blade of my penknife.
-      The blood had hardly commenced flowing when I experienced a
-      sensible relief, and by the time I had lost about half a moderate
-      basin full, most of the worst symptoms had abandoned me entirely.
+succeeded as to determine upon the experiment of losing blood.
+Having no lancet, however, I was constrained to perform the
+operation in the best manner I was able, and finally succeeded in
+opening a vein in my right arm, with the blade of my penknife.
+The blood had hardly commenced flowing when I experienced a
+sensible relief, and by the time I had lost about half a moderate
+basin full, most of the worst symptoms had abandoned me entirely.
       I nevertheless did not think it expedient to attempt getting on
       my feet immediately; but, having tied up my arm as well as I
       could, I lay still for about a quarter of an hour. At the end of
@@ -1932,11 +1919,11 @@ THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL (*1)
       seemed in a great measure recovered from her illness, now made a
       hearty meal of the dead bird and then went to sleep with much
       apparent satisfaction. Her kittens were quite lively, and so far
-      evinced not the slightest sign of any uneasiness whatever.
+evinced not the slightest sign of any uneasiness whatever.
 
-      “At a quarter-past eight, being no longer able to draw breath
-      without the most intolerable pain, I proceeded forthwith to
-      adjust around the car the apparatus belonging to the condenser.
+“At a quarter-past eight, being no longer able to draw breath
+without the most intolerable pain, I proceeded forthwith to
+adjust around the car the apparatus belonging to the condenser.
       This apparatus will require some little explanation, and your
       Excellencies will please to bear in mind that my object, in the
       first place, was to surround myself and cat entirely with a
@@ -2260,10 +2247,10 @@ THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL (*1)
       condenser, I retired again to bed. These regular interruptions to
       my slumber caused me even less discomfort than I had anticipated;
       and when I finally arose for the day, it was seven o’clock, and
-      the sun had attained many degrees above the line of my horizon.
+the sun had attained many degrees above the line of my horizon.
 
-      “April 3d. I found the balloon at an immense height indeed, and
-      the earth’s apparent convexity increased in a material degree.
+“April 3d. I found the balloon at an immense height indeed, and
+the earth’s apparent convexity increased in a material degree.
       Below me in the ocean lay a cluster of black specks, which
       undoubtedly were islands. Far away to the northward I perceived a
       thin, white, and exceedingly brilliant line, or streak, on the
@@ -2511,11 +2498,11 @@ THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL (*1)
       vast difference, in appearance, between the surface below me, and
       the surface of my mother earth. The latter was indeed over my
       head, and completely hidden by the balloon, while the moon—the
-      moon itself in all its glory—lay beneath me, and at my feet.
+moon itself in all its glory—lay beneath me, and at my feet.
 
-      “The stupor and surprise produced in my mind by this
-      extraordinary change in the posture of affairs was perhaps, after
-      all, that part of the adventure least susceptible of explanation.
+“The stupor and surprise produced in my mind by this
+extraordinary change in the posture of affairs was perhaps, after
+all, that part of the adventure least susceptible of explanation.
       For the bouleversement in itself was not only natural and
       inevitable, but had been long actually anticipated as a
       circumstance to be expected whenever I should arrive at that
@@ -2749,9 +2736,9 @@ THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL (*1)
       accusation. Let us see what they say:
 
       Imprimus. That certain wags in Rotterdam have certain especial
-      antipathies to certain burgomasters and astronomers.
+antipathies to certain burgomasters and astronomers.
 
-      Don’t understand at all.
+Don’t understand at all.
 
       Secondly. That an odd little dwarf and bottle conjurer, both of
       whose ears, for some misdemeanor, have been cut off close to his
@@ -2996,30 +2983,10 @@ Notes to Hans Pfaal
       I cannot forbear giving a specimen of the general _philosophy_ of
       the volume.
 
-“I must not forget here, that the stars appeared only on that side of
-the globe turned toward the moon, and that the closer they were to it
-the larger they seemed. I have also me and the earth. As to the stars,
-_since there was no night where I was, they always had the same
-appearance; not brilliant, as usual, but pale, and very nearly like the
-moon of a morning. _But few of them were visible, and these ten times
-larger (as well as I could judge) than they seem to the inhabitants of
-the earth. The moon, which wanted two days of being full, was of a
+“I must not forget here, that the stars appeared only on that side of the globe turned toward the moon, and that the closer they were to it the larger they seemed. I have also me and the earth. As to the stars, _since there was no night where I was, they always had the same appearance; not brilliant, as usual, but pale, and very nearly like the moon of a morning. _But few of them were visible, and these ten times larger (as well as I could judge) than they seem to the inhabitants of the earth. The moon, which wanted two days of being full, was of a
 terrible bigness.
 
-“I must not forget here, that the stars appeared only on that side of
-the globe turned toward the moon, and that the closer they were to it
-the larger they seemed. I have also to inform you that, whether it was
-calm weather or stormy, I found myself _always immediately between the
-moon and the earth._ I_ _was convinced of this for two reasons-because
-my birds always flew in a straight line; and because whenever we
-attempted to rest, _we were carried insensibly around the globe of the
-earth. _For I admit the opinion of Copernicus, who maintains that it
-never ceases to revolve _from the east to the west, _not upon the poles
-of the Equinoctial, commonly called the poles of the world, but upon
-those of the Zodiac, a question of which I propose to speak more at
-length here-after, when I shall have leisure to refresh my memory in
-regard to the astrology which I learned at Salamanca when young, and
-have since forgotten.”
+“I must not forget here, that the stars appeared only on that side of the globe turned toward the moon, and that the closer they were to it the larger they seemed. I have also to inform you that, whether it was calm weather or stormy, I found myself _always immediately between the moon and the earth._ I_ _was convinced of this for two reasons-because my birds always flew in a straight line; and because whenever we attempted to rest, _we were carried insensibly around the globe of the earth. _For I admit the opinion of Copernicus, who maintains that it never ceases to revolve _from the east to the west, _not upon the poles of the Equinoctial, commonly called the poles of the world, but upon those of the Zodiac, a question of which I propose to speak more at length here-after, when I shall have leisure to refresh my memory in regard to the astrology which I learned at Salamanca when young, and have since forgotten.”
 
       Notwithstanding the blunders italicized, the book is not without
       some claim to attention, as affording a naive specimen of the
@@ -3087,13 +3054,10 @@ have since forgotten.”
       refracted.
 
 
-
-
 THE GOLD-BUG
 
 
-What ho! what ho! this fellow is dancing mad!
-He hath been bitten by the Tarantula.
+What ho! what ho! this fellow is dancing mad! He hath been bitten by the Tarantula.
 
 _—All in the Wrong._
 
@@ -3177,9 +3141,9 @@ _—All in the Wrong._
       home I met Lieutenant G——, from the fort, and, very foolishly, I
       lent him the bug; so it will be impossible for you to see it
       until the morning. Stay here to-night, and I will send Jup down
-      for it at sunrise. It is the loveliest thing in creation!”
+for it at sunrise. It is the loveliest thing in creation!”
 
-      “What?—sunrise?”
+“What?—sunrise?”
 
       “Nonsense! no!—the bug. It is of a brilliant gold color—about the
       size of a large hickory-nut—with two jet black spots near one
@@ -3331,21 +3295,21 @@ _—All in the Wrong._
       anything unpleasant happened since I saw you?”
 
       “No, massa, dey aint bin noffin onpleasant _since_ den—‘twas
-      _’fore_ den I’m feared—‘twas de berry day you was dare.”
+_’fore_ den I’m feared—‘twas de berry day you was dare.”
 
-      “How? what do you mean?”
+“How? what do you mean?”
 
-      “Why, massa, I mean de bug—dare now.”
+“Why, massa, I mean de bug—dare now.”
 
-      “The what?”
+“The what?”
 
       “De bug,—I’m berry sartain dat Massa Will bin bit somewhere ’bout
       de head by dat goole-bug.”
 
-      “And what cause have you, Jupiter, for such a supposition?”
+“And what cause have you, Jupiter, for such a supposition?”
 
-      “Claws enuff, massa, and mouff too. I nebber did see sick a
-      deuced bug—he kick and he bite ebery ting what cum near him.
+“Claws enuff, massa, and mouff too. I nebber did see sick a
+deuced bug—he kick and he bite ebery ting what cum near him.
       Massa Will cotch him fuss, but had for to let him go ’gin mighty
       quick, I tell you—den was de time he must ha’ got de bite. I did
       n’t like de look oh de bug mouff, myself, no how, so I would n’t
@@ -3388,14 +3352,14 @@ _—All in the Wrong._
       Would you believe it?—he had prepared a huge stick, the other
       day, with which to chastise me for giving him the slip, and
       spending the day, _solus_, among the hills on the main land. I
-      verily believe that my ill looks alone saved me a flogging.
+verily believe that my ill looks alone saved me a flogging.
 
-      “I have made no addition to my cabinet since we met.
+“I have made no addition to my cabinet since we met.
 
-      “If you can, in any way, make it convenient, come over with
-      Jupiter. _Do_ come. I wish to see you to-_night_, upon business
-      of importance. I assure you that it is of the _highest_
-      importance.
+“If you can, in any way, make it convenient, come over with
+Jupiter. _Do_ come. I wish to see you to-_night_, upon business
+of importance. I assure you that it is of the _highest_
+importance.
 
 “Ever yours,
 “WILLIAM LEGRAND”.
@@ -3414,11 +3378,11 @@ _—All in the Wrong._
       apparently new, lying in the bottom of the boat in which we were
       to embark.
 
-      “What is the meaning of all this, Jup?” I inquired.
+“What is the meaning of all this, Jup?” I inquired.
 
-      “Him syfe, massa, and spade.”
+“Him syfe, massa, and spade.”
 
-      “Very true; but what are they doing here?”
+“Very true; but what are they doing here?”
 
       “Him de syfe and de spade what Massa Will sis pon my buying for
       him in de town, and de debbil’s own lot of money I had to gib for
@@ -3446,12 +3410,12 @@ _—All in the Wrong._
 
       “Oh, yes,” he replied, coloring violently, “I got it from him the
       next morning. Nothing should tempt me to part with that
-      _scarabæus_. Do you know that Jupiter is quite right about it?”
+_scarabæus_. Do you know that Jupiter is quite right about it?”
 
-      “In what way?” I asked, with a sad foreboding at heart.
+“In what way?” I asked, with a sad foreboding at heart.
 
-      “In supposing it to be a bug of _real gold_.” He said this with
-      an air of profound seriousness, and I felt inexpressibly shocked.
+“In supposing it to be a bug of _real gold_.” He said this with
+an air of profound seriousness, and I felt inexpressibly shocked.
 
       “This bug is to make my fortune,” he continued, with a triumphant
       smile, “to reinstate me in my family possessions. Is it any
@@ -3513,7 +3477,7 @@ _—All in the Wrong._
       “Then, Legrand, I can become a party to no such absurd
       proceeding.”
 
-      “I am sorry—very sorry—for we shall have to try it by ourselves.”
+“I am sorry—very sorry—for we shall have to try it by ourselves.”
 
       “Try it by yourselves! The man is surely mad!—but stay!—how long
       do you propose to be absent?”
@@ -3587,7 +3551,7 @@ _—All in the Wrong._
       examined it with minute attention. When he had completed his
       scrutiny, he merely said,
 
-      “Yes, massa, Jup climb any tree he ebber see in he life.”
+“Yes, massa, Jup climb any tree he ebber see in he life.”
 
       “Then up with you as soon as possible, for it will soon be too
       dark to see what we are about.”
@@ -3608,10 +3572,10 @@ _—All in the Wrong._
 
       “What de matter now, massa?” said Jup, evidently shamed into
       compliance; “always want for to raise fuss wid old nigger. Was
-      only funnin any how. _Me_ feered de bug! what I keer for de bug?”
-      Here he took cautiously hold of the extreme end of the string,
-      and, maintaining the insect as far from his person as
-      circumstances would permit, prepared to ascend the tree.
+only funnin any how. _Me_ feered de bug! what I keer for de bug?”
+Here he took cautiously hold of the extreme end of the string,
+and, maintaining the insect as far from his person as
+circumstances would permit, prepared to ascend the tree.
 
       In youth, the tulip-tree, or _Liriodendron Tulipferum_, the most
       magnificent of American foresters, has a trunk peculiarly smooth,
@@ -3634,11 +3598,11 @@ _—All in the Wrong._
       The negro obeyed him promptly, and apparently with but little
       trouble; ascending higher and higher, until no glimpse of his
       squat figure could be obtained through the dense foliage which
-      enveloped it. Presently his voice was heard in a sort of halloo.
+enveloped it. Presently his voice was heard in a sort of halloo.
 
-      “How much fudder is got for go?”
+“How much fudder is got for go?”
 
-      “How high up are you?” asked Legrand.
+“How high up are you?” asked Legrand.
 
       “Ebber so fur,” replied the negro; “can see de sky fru de top ob
       de tree.”
@@ -3703,11 +3667,11 @@ _—All in the Wrong._
       As sure as you drop that beetle I’ll break your neck. Look here,
       Jupiter, do you hear me?”
 
-      “Yes, massa, needn’t hollo at poor nigger dat style.”
+“Yes, massa, needn’t hollo at poor nigger dat style.”
 
-      “Well! now listen!—if you will venture out on the limb as far as
-      you think safe, and not let go the beetle, I’ll make you a
-      present of a silver dollar as soon as you get down.”
+“Well! now listen!—if you will venture out on the limb as far as
+you think safe, and not let go the beetle, I’ll make you a
+present of a silver dollar as soon as you get down.”
 
       “I’m gwine, Massa Will—deed I is,” replied the negro very
       promptly—“mos out to the eend now.”
@@ -3718,10 +3682,10 @@ _—All in the Wrong._
       “Soon be to de eend, massa,—o-o-o-o-oh! Lor-gol-a-marcy! what is
       dis here pon de tree?”
 
-      “Well!” cried Legrand, highly delighted, “what is it?”
+“Well!” cried Legrand, highly delighted, “what is it?”
 
-      “Why taint noffin but a skull—somebody bin lef him head up de
-      tree, and de crows done gobble ebery bit ob de meat off.”
+“Why taint noffin but a skull—somebody bin lef him head up de
+tree, and de crows done gobble ebery bit ob de meat off.”
 
       “A skull, you say!—very well—how is it fastened to the limb?—what
       holds it on?”
@@ -3730,13 +3694,13 @@ _—All in the Wrong._
       pon my word—dare’s a great big nail in de skull, what fastens ob
       it on to de tree.”
 
-      “Well now, Jupiter, do exactly as I tell you—do you hear?”
+“Well now, Jupiter, do exactly as I tell you—do you hear?”
 
-      “Yes, massa.”
+“Yes, massa.”
 
-      “Pay attention, then—find the left eye of the skull.”
+“Pay attention, then—find the left eye of the skull.”
 
-      “Hum! hoo! dat’s good! why dare aint no eye lef at all.”
+“Hum! hoo! dat’s good! why dare aint no eye lef at all.”
 
       “Curse your stupidity! do you know your right hand from your
       left?”
@@ -3746,10 +3710,10 @@ _—All in the Wrong._
 
       “To be sure! you are left-handed; and your left eye is on the
       same side as your left hand. Now, I suppose, you can find the
-      left eye of the skull, or the place where the left eye has been.
-      Have you found it?”
+left eye of the skull, or the place where the left eye has been.
+Have you found it?”
 
-      Here was a long pause. At length the negro asked,
+Here was a long pause. At length the negro asked,
 
       “Is de lef eye of de skull pon de same side as de lef hand of de
       skull, too?—cause de skull aint got not a bit ob a hand at
@@ -3946,9 +3910,9 @@ _—All in the Wrong._
       anxiety. In an instant, a treasure of incalculable value lay
       gleaming before us. As the rays of the lanterns fell within the
       pit, there flashed upwards a glow and a glare, from a confused
-      heap of gold and of jewels, that absolutely dazzled our eyes.
+heap of gold and of jewels, that absolutely dazzled our eyes.
 
-      I shall not pretend to describe the feelings with which I gazed.
+I shall not pretend to describe the feelings with which I gazed.
       Amazement was, of course, predominant. Legrand appeared exhausted
       with excitement, and spoke very few words. Jupiter’s countenance
       wore, for some minutes, as deadly a pallor as it is possible, in
@@ -4047,9 +4011,9 @@ _—All in the Wrong._
       remark had some little foundation in fact. Still, the sneer at my
       graphic powers irritated me—for I am considered a good
       artist—and, therefore, when you handed me the scrap of parchment,
-      I was about to crumple it up and throw it angrily into the fire.”
+I was about to crumple it up and throw it angrily into the fire.”
 
-      “The scrap of paper, you mean,” said I.
+“The scrap of paper, you mean,” said I.
 
       “No; it had much of the appearance of paper, and at first I
       supposed it to be such, but when I came to draw upon it, I
@@ -4164,8 +4128,8 @@ _—All in the Wrong._
       was no skull apparent upon the parchment. When I had completed
       the drawing I gave it to you, and observed you narrowly until you
       returned it. You, therefore, did not design the skull, and no one
-      else was present to do it. Then it was not done by human agency.
-      And nevertheless it was done.
+else was present to do it. Then it was not done by human agency.
+And nevertheless it was done.
 
       “At this stage of my reflections I endeavored to remember, and
       did remember, with entire distinctness, every incident which
@@ -4214,9 +4178,9 @@ _—All in the Wrong._
       goat—pirates, you know, have nothing to do with goats; they
       appertain to the farming interest.”
 
-      “But I have just said that the figure was not that of a goat.”
+“But I have just said that the figure was not that of a goat.”
 
-      “Well, a kid then—pretty much the same thing.”
+“Well, a kid then—pretty much the same thing.”
 
       “Pretty much, but not altogether,” said Legrand. “You may have
       heard of one Captain Kidd. I at once looked upon the figure of
@@ -4242,9 +4206,9 @@ _—All in the Wrong._
       or may be, sufficiently cool for fire, and that without the fire,
       or without the intervention of the dog at the precise moment in
       which he appeared, I should never have become aware of the
-      death’s-head, and so never the possessor of the treasure?”
+death’s-head, and so never the possessor of the treasure?”
 
-      “But proceed—I am all impatience.”
+“But proceed—I am all impatience.”
 
       “Well; you have heard, of course, the many stories current—the
       thousand vague rumors afloat about money buried, somewhere upon
@@ -4273,9 +4237,9 @@ _—All in the Wrong._
       took it for granted, therefore, that the earth still held them;
       and you will scarcely be surprised when I tell you that I felt a
       hope, nearly amounting to certainty, that the parchment so
-      strangely found, involved a lost record of the place of deposit.”
+strangely found, involved a lost record of the place of deposit.”
 
-      “But how did you proceed?”
+“But how did you proceed?”
 
       “I held the vellum again to the fire, after increasing the heat;
       but nothing appeared. I now thought it possible that the coating
@@ -4294,10 +4258,10 @@ _—All in the Wrong._
       inspection. The following characters were rudely traced, in a red
       tint, between the death’s-head and the goat:
 
-     “53‡‡†305))6*;4826)4‡.)4‡);806*;48†8¶60))85;1‡(;:‡*8†83(88)5*†
-     ;46(;88*96*?;8)*‡(;485);5*†2:*‡(;4956*2(5*—4)8¶8*;4069285);)
-     6†8)4‡‡;1(‡9;48081;8:8‡1;48†85;4)485†528806*81(‡9;48;(88;4(‡?3
-     4;48)4‡;161;:188;‡?;”
+“53‡‡†305))6*;4826)4‡.)4‡);806*;48†8¶60))85;1‡(;:‡*8†83(88)5*†
+;46(;88*96*?;8)*‡(;485);5*†2:*‡(;4956*2(5*—4)8¶8*;4069285);)
+6†8)4‡‡;1(‡9;48081;8:8‡1;48†85;4)485†528806*81(‡9;48;(88;4(‡?3
+4;48)4‡;161;:188;‡?;”
 
       “But,” said I, returning him the slip, “I am as much in the dark
       as ever. Were all the jewels of Golconda awaiting me upon my
@@ -4312,9 +4276,9 @@ _—All in the Wrong._
       suppose him capable of constructing any of the more abstruse
       cryptographs. I made up my mind, at once, that this was of a
       simple species—such, however, as would appear, to the crude
-      intellect of the sailor, absolutely insoluble without the key.”
+intellect of the sailor, absolutely insoluble without the key.”
 
-      “And you really solved it?”
+“And you really solved it?”
 
       “Readily; I have solved others of an abstruseness ten thousand
       times greater. Circumstances, and a certain bias of mind, have
@@ -4402,9 +4366,9 @@ _—All in the Wrong._
       immediately ensuing is the commencement of a word, and, of the
       six characters succeeding this ‘the,’ we are cognizant of no less
       than five. Let us set these characters down, thus, by the letters
-      we know them to represent, leaving a space for the unknown—
+we know them to represent, leaving a space for the unknown—
 
-      t eeth.
+t eeth.
 
       “Here we are enabled, at once, to discard the ‘th,’ as forming no
       portion of the word commencing with the first t; since, by
@@ -4535,7 +4499,7 @@ _—All in the Wrong._
       of the death’s-head—a bee-line from the tree through the shot
       fifty feet out.’”
 
-      “Even this division,” said I, “leaves me still in the dark.”
+“Even this division,” said I, “leaves me still in the dark.”
 
       “It left me also in the dark,” replied Legrand, “for a few days;
       during which I made diligent inquiry, in the neighborhood of
@@ -4632,11 +4596,11 @@ _—All in the Wrong._
       contrived to give him the slip, and went into the hills in search
       of the tree. After much toil I found it. When I came home at
       night my valet proposed to give me a flogging. With the rest of
-      the adventure I believe you are as well acquainted as myself.”
+the adventure I believe you are as well acquainted as myself.”
 
-      “I suppose,” said I, “you missed the spot, in the first attempt
-      at digging, through Jupiter’s stupidity in letting the bug fall
-      through the right instead of through the left eye of the skull.”
+“I suppose,” said I, “you missed the spot, in the first attempt
+at digging, through Jupiter’s stupidity in letting the bug fall
+through the right instead of through the left eye of the skull.”
 
       “Precisely. This mistake made a difference of about two inches
       and a half in the ‘shot’—that is to say, in the position of the
@@ -4663,9 +4627,9 @@ _—All in the Wrong._
       weight suggested the latter idea.”
 
       “Yes, I perceive; and now there is only one point which puzzles
-      me. What are we to make of the skeletons found in the hole?”
+me. What are we to make of the skeletons found in the hole?”
 
-      “That is a question I am no more able to answer than yourself.
+“That is a question I am no more able to answer than yourself.
       There seems, however, only one plausible way of accounting for
       them—and yet it is dreadful to believe in such atrocity as my
       suggestion would imply. It is clear that Kidd—if Kidd indeed
@@ -4675,8 +4639,6 @@ _—All in the Wrong._
       his secret. Perhaps a couple of blows with a mattock were
       sufficient, while his coadjutors were busy in the pit; perhaps it
       required a dozen—who shall tell?”
-
-
 
 
 FOUR BEASTS IN ONE—THE HOMO-CAMELEOPARD
@@ -4760,9 +4722,9 @@ Chacun a ses vertus.
 
       Very true.
 
-      “There are a prodigious number of stately palaces.”
+“There are a prodigious number of stately palaces.”
 
-      There are.
+There are.
 
       “And the numerous temples, sumptuous and magnificent, may bear
       comparison with the most lauded of antiquity.”
@@ -4804,9 +4766,9 @@ Chacun a ses vertus.
       laudable comicality of the king’s.
 
       “But what have we here? Heavens! the town is swarming with wild
-      beasts! How terrible a spectacle!—how dangerous a peculiarity!”
+beasts! How terrible a spectacle!—how dangerous a peculiarity!”
 
-      Terrible, if you please; but not in the least degree dangerous.
+Terrible, if you please; but not in the least degree dangerous.
       Each animal if you will take the pains to observe, is following,
       very quietly, in the wake of its master. Some few, to be sure,
       are led with a rope about the neck, but these are chiefly the
@@ -4889,8 +4851,8 @@ Chacun a ses vertus.
       “Do you hear that flourish of trumpets?”
 
       Yes—the king is coming! See! the people are aghast with
-      admiration, and lift up their eyes to the heavens in reverence.
-      He comes!—he is coming!—there he is!
+admiration, and lift up their eyes to the heavens in reverence.
+He comes!—he is coming!—there he is!
 
       “Who?—where?—the king?—do not behold him—cannot say that I
       perceive him.”
@@ -4948,7 +4910,7 @@ Chacun a ses vertus.
       the poetic wreath, in anticipation of his victory at the
       approaching Olympics.
 
-      “But, good Jupiter! what is the matter in the crowd behind us?”
+“But, good Jupiter! what is the matter in the crowd behind us?”
 
       Behind us, did you say?—oh! ah!—I perceive. My friend, it is well
       that you spoke in time. Let us get into a place of safety as soon
@@ -4992,9 +4954,9 @@ Chacun a ses vertus.
       wilderness of people! what a jumble of all ranks and ages! what a
       multiplicity of sects and nations! what a variety of costumes!
       what a Babel of languages! what a screaming of beasts! what a
-      tinkling of instruments! what a parcel of philosophers!”
+tinkling of instruments! what a parcel of philosophers!”
 
-      Come let us be off.
+Come let us be off.
 
       “Stay a moment! I see a vast hubbub in the hippodrome; what is
       the meaning of it, I beseech you?”
@@ -5006,7 +4968,7 @@ Chacun a ses vertus.
       than their duty to invest his brows (in addition to the poetic
       crown) with the wreath of victory in the footrace—a wreath which
       it is evident he must obtain at the celebration of the next
-      Olympiad, and which, therefore, they now give him in advance.
+Olympiad, and which, therefore, they now give him in advance.
 
 Footnotes—Four Beasts
 
@@ -5014,8 +4976,6 @@ Footnotes—Four Beasts
       sung by the rabble upon the occasion of Aurelian, in the Sarmatic
       war, having slain, with his own hand, nine hundred and fifty of
       the enemy.
-
-
 
 
 THE MURDERS IN THE RUE MORGUE
@@ -5110,10 +5070,10 @@ THE MURDERS IN THE RUE MORGUE
       the countenance of his partner, comparing it carefully with that
       of each of his opponents. He considers the mode of assorting the
       cards in each hand; often counting trump by trump, and honor by
-      honor, through the glances bestowed by their holders upon each.
-      He notes every variation of face as the play progresses,
-      gathering a fund of thought from the differences in the
-      expression of certainty, of surprise, of triumph, or of chagrin.
+honor, through the glances bestowed by their holders upon each.
+He notes every variation of face as the play progresses,
+gathering a fund of thought from the differences in the
+expression of certainty, of surprise, of triumph, or of chagrin.
       From the manner of gathering up a trick he judges whether the
       person taking it can make another in the suit. He recognises what
       is played through feint, by the manner with which it is thrown
@@ -5141,14 +5101,14 @@ THE MURDERS IN THE RUE MORGUE
       and the analytic ability there exists a difference far greater,
       indeed, than that between the fancy and the imagination, but of a
       character very strictly analogous. It will be found, in fact,
-      that the ingenious are always fanciful, and the _truly_
-      imaginative never otherwise than analytic.
+that the ingenious are always fanciful, and the _truly_
+imaginative never otherwise than analytic.
 
-      The narrative which follows will appear to the reader somewhat in
-      the light of a commentary upon the propositions just advanced.
+The narrative which follows will appear to the reader somewhat in
+the light of a commentary upon the propositions just advanced.
 
-      Residing in Paris during the spring and part of the summer of
-      18—, I there became acquainted with a Monsieur C. Auguste Dupin.
+Residing in Paris during the spring and part of the summer of
+18—, I there became acquainted with a Monsieur C. Auguste Dupin.
       This young gentleman was of an excellent, indeed of an
       illustrious family, but, by a variety of untoward events, had
       been reduced to such poverty that the energy of his character
@@ -5251,9 +5211,9 @@ THE MURDERS IN THE RUE MORGUE
       knew of whom I thought.
 
       “—— of Chantilly,” said he, “why do you pause? You were remarking
-      to yourself that his diminutive figure unfitted him for tragedy.”
+to yourself that his diminutive figure unfitted him for tragedy.”
 
-      This was precisely what had formed the subject of my reflections.
+This was precisely what had formed the subject of my reflections.
       Chantilly was a _quondam_ cobbler of the Rue St. Denis, who,
       becoming stage-mad, had attempted the _rôle_ of Xerxes, in
       Crébillon’s tragedy so called, and been notoriously Pasquinaded
@@ -5268,7 +5228,7 @@ THE MURDERS IN THE RUE MORGUE
       the conclusion that the mender of soles was not of sufficient
       height for Xerxes _et id genus omne_.”
 
-      “The fruiterer!—you astonish me—I know no fruiterer whomsoever.”
+“The fruiterer!—you astonish me—I know no fruiterer whomsoever.”
 
       “The man who ran up against you as we entered the street—it may
       have been fifteen minutes ago.”
@@ -5329,10 +5289,10 @@ THE MURDERS IN THE RUE MORGUE
       that bitter _tirade_ upon Chantilly, which appeared in
       yesterday’s ‘_Musée_,’ the satirist, making some disgraceful
       allusions to the cobbler’s change of name upon assuming the
-      buskin, quoted a Latin line about which we have often conversed.
-      I mean the line
+buskin, quoted a Latin line about which we have often conversed.
+I mean the line
 
-     Perdidit antiquum litera prima sonum.
+Perdidit antiquum litera prima sonum.
 
       “I had told you that this was in reference to Orion, formerly
       written Urion; and, from certain pungencies connected with this
@@ -5411,7 +5371,7 @@ THE MURDERS IN THE RUE MORGUE
       “To this horrible mystery there is not as yet, we believe, the
       slightest clew.”
 
-      The next day’s paper had these additional particulars.
+The next day’s paper had these additional particulars.
 
       “_The Tragedy in the Rue Morgue._—Many individuals have been
       examined in relation to this most extraordinary and frightful
@@ -5448,20 +5408,20 @@ THE MURDERS IN THE RUE MORGUE
       old lady and her daughter, a porter once or twice, and a
       physician some eight or ten times.
 
-      “Many other persons, neighbors, gave evidence to the same effect.
-      No one was spoken of as frequenting the house. It was not known
-      whether there were any living connexions of Madame L. and her
-      daughter. The shutters of the front windows were seldom opened.
+“Many other persons, neighbors, gave evidence to the same effect.
+No one was spoken of as frequenting the house. It was not known
+whether there were any living connexions of Madame L. and her
+daughter. The shutters of the front windows were seldom opened.
       Those in the rear were always closed, with the exception of the
       large back room, fourth story. The house was a good house—not
       very old.
 
       “_Isidore Musèt_, _gendarme_, deposes that he was called to the
       house about three o’clock in the morning, and found some twenty
-      or thirty persons at the gateway, endeavoring to gain admittance.
-      Forced it open, at length, with a bayonet—not with a crowbar. Had
-      but little difficulty in getting it open, on account of its being
-      a double or folding gate, and bolted neither at bottom not top.
+or thirty persons at the gateway, endeavoring to gain admittance.
+Forced it open, at length, with a bayonet—not with a crowbar. Had
+but little difficulty in getting it open, on account of its being
+a double or folding gate, and bolted neither at bottom not top.
       The shrieks were continued until the gate was forced—and then
       suddenly ceased. They seemed to be screams of some person (or
       persons) in great agony—were loud and drawn out, not short and
@@ -5529,9 +5489,9 @@ THE MURDERS IN THE RUE MORGUE
       distinctly ‘_sacré_’ and ‘_mon Dieu._’ There was a sound at the
       moment as if of several persons struggling—a scraping and
       scuffling sound. The shrill voice was very loud—louder than the
-      gruff one. Is sure that it was not the voice of an Englishman.
-      Appeared to be that of a German. Might have been a woman’s voice.
-      Does not understand German.
+gruff one. Is sure that it was not the voice of an Englishman.
+Appeared to be that of a German. Might have been a woman’s voice.
+Does not understand German.
 
       “Four of the above-named witnesses, being recalled, deposed that
       the door of the chamber in which was found the body of
@@ -5585,10 +5545,10 @@ THE MURDERS IN THE RUE MORGUE
 
       “_Paul Dumas_, physician, deposes that he was called to view the
       bodies about day-break. They were both then lying on the sacking
-      of the bedstead in the chamber where Mademoiselle L. was found.
-      The corpse of the young lady was much bruised and excoriated. The
-      fact that it had been thrust up the chimney would sufficiently
-      account for these appearances. The throat was greatly chafed.
+of the bedstead in the chamber where Mademoiselle L. was found.
+The corpse of the young lady was much bruised and excoriated. The
+fact that it had been thrust up the chimney would sufficiently
+account for these appearances. The throat was greatly chafed.
       There were several deep scratches just below the chin, together
       with a series of livid spots which were evidently the impression
       of fingers. The face was fearfully discolored, and the eye-balls
@@ -5611,8 +5571,8 @@ THE MURDERS IN THE RUE MORGUE
       a razor.
 
       “_Alexandre Etienne_, surgeon, was called with M. Dumas to view
-      the bodies. Corroborated the testimony, and the opinions of M.
-      Dumas.
+the bodies. Corroborated the testimony, and the opinions of M.
+Dumas.
 
       “Nothing farther of importance was elicited, although several
       other persons were examined. A murder so mysterious, and so
@@ -6074,10 +6034,10 @@ THE MURDERS IN THE RUE MORGUE
 
       “Turn, now, to other indications of the employment of a vigor
       most marvellous. On the hearth were thick tresses—very thick
-      tresses—of grey human hair. These had been torn out by the roots.
-      You are aware of the great force necessary in tearing thus from
-      the head even twenty or thirty hairs together. You saw the locks
-      in question as well as myself. Their roots (a hideous sight!)
+tresses—of grey human hair. These had been torn out by the roots.
+You are aware of the great force necessary in tearing thus from
+the head even twenty or thirty hairs together. You saw the locks
+in question as well as myself. Their roots (a hideous sight!)
       were clotted with fragments of the flesh of the scalp—sure token
       of the prodigious power which had been exerted in uprooting
       perhaps half a million of hairs at a time. The throat of the old
@@ -6111,12 +6071,12 @@ THE MURDERS IN THE RUE MORGUE
 
       “In some respects,” he replied, “your idea is not irrelevant. But
       the voices of madmen, even in their wildest paroxysms, are never
-      found to tally with that peculiar voice heard upon the stairs.
-      Madmen are of some nation, and their language, however incoherent
-      in its words, has always the coherence of syllabification.
-      Besides, the hair of a madman is not such as I now hold in my
-      hand. I disentangled this little tuft from the rigidly clutched
-      fingers of Madame L’Espanaye. Tell me what you can make of it.”
+found to tally with that peculiar voice heard upon the stairs.
+Madmen are of some nation, and their language, however incoherent
+in its words, has always the coherence of syllabification.
+Besides, the hair of a madman is not such as I now hold in my
+hand. I disentangled this little tuft from the rigidly clutched
+fingers of Madame L’Espanaye. Tell me what you can make of it.”
 
       “Dupin!” I said, completely unnerved; “this hair is most
       unusual—this is no _human_ hair.”
@@ -6146,10 +6106,10 @@ THE MURDERS IN THE RUE MORGUE
       circumference of which is about that of the throat. Wrap the
       drawing around it, and try the experiment again.”
 
-      I did so; but the difficulty was even more obvious than before.
-      “This,” I said, “is the mark of no human hand.”
+I did so; but the difficulty was even more obvious than before.
+“This,” I said, “is the mark of no human hand.”
 
-      “Read now,” replied Dupin, “this passage from Cuvier.”
+“Read now,” replied Dupin, “this passage from Cuvier.”
 
       It was a minute anatomical and generally descriptive account of
       the large fulvous Ourang-Outang of the East Indian Islands. The
@@ -6252,7 +6212,7 @@ THE MURDERS IN THE RUE MORGUE
       but stepped up with decision, and rapped at the door of our
       chamber.
 
-      “Come in,” said Dupin, in a cheerful and hearty tone.
+“Come in,” said Dupin, in a cheerful and hearty tone.
 
       A man entered. He was a sailor, evidently,—a tall, stout, and
       muscular-looking person, with a certain dare-devil expression of
@@ -6276,11 +6236,11 @@ THE MURDERS IN THE RUE MORGUE
 
       “Oh no, we had no conveniences for keeping him here. He is at a
       livery stable in the Rue Dubourg, just by. You can get him in the
-      morning. Of course you are prepared to identify the property?”
+morning. Of course you are prepared to identify the property?”
 
-      “To be sure I am, sir.”
+“To be sure I am, sir.”
 
-      “I shall be sorry to part with him,” said Dupin.
+“I shall be sorry to part with him,” said Dupin.
 
       “I don’t mean that you should be at all this trouble for nothing,
       sir,” said the man. “Couldn’t expect it. Am very willing to pay a
@@ -6292,10 +6252,10 @@ THE MURDERS IN THE RUE MORGUE
       shall be this. You shall give me all the information in your
       power about these murders in the Rue Morgue.”
 
-      Dupin said the last words in a very low tone, and very quietly.
-      Just as quietly, too, he walked toward the door, locked it and
-      put the key in his pocket. He then drew a pistol from his bosom
-      and placed it, without the least flurry, upon the table.
+Dupin said the last words in a very low tone, and very quietly.
+Just as quietly, too, he walked toward the door, locked it and
+put the key in his pocket. He then drew a pistol from his bosom
+and placed it, without the least flurry, upon the table.
 
       The sailor’s face flushed up as if he were struggling with
       suffocation. He started to his feet and grasped his cudgel, but
@@ -6443,11 +6403,11 @@ THE MURDERS IN THE RUE MORGUE
       This functionary, however well disposed to my friend, could not
       altogether conceal his chagrin at the turn which affairs had
       taken, and was fain to indulge in a sarcasm or two, about the
-      propriety of every person minding his own business.
+propriety of every person minding his own business.
 
-      “Let him talk,” said Dupin, who had not thought it necessary to
-      reply. “Let him discourse; it will ease his conscience, I am
-      satisfied with having defeated him in his own castle.
+“Let him talk,” said Dupin, who had not thought it necessary to
+reply. “Let him discourse; it will ease his conscience, I am
+satisfied with having defeated him in his own castle.
       Nevertheless, that he failed in the solution of this mystery, is
       by no means that matter for wonder which he supposes it; for, in
       truth, our friend the Prefect is somewhat too cunning to be
@@ -6462,12 +6422,10 @@ THE MURDERS IN THE RUE MORGUE
       (*) Rousseau—Nouvelle Heloïse.
 
 
-
-
 THE MYSTERY OF MARIE ROGET.(*1)
 
 
-      A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
+A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
   Es giebt eine Reihe idealischer Begebenheiten, die der Wirklichkeit
   parallel lauft. Selten fallen sie zusammen. Menschen und zufalle
@@ -6499,11 +6457,11 @@ THE MYSTERY OF MARIE ROGET.(*1)
       public, will be found to form, as regards sequence of time, the
       primary branch of a series of scarcely intelligible coincidences,
       whose secondary or concluding branch will be recognized by all
-      readers in the late murder of Mary Cecila Rogers, at New York.
+readers in the late murder of Mary Cecila Rogers, at New York.
 
-      When, in an article entitled “The Murders in the Rue Morgue,” I
-      endeavored, about a year ago, to depict some very remarkable
-      features in the mental character of my friend, the Chevalier C.
+When, in an article entitled “The Murders in the Rue Morgue,” I
+endeavored, about a year ago, to depict some very remarkable
+features in the mental character of my friend, the Chevalier C.
       Auguste Dupin, it did not occur to me that I should ever resume
       the subject. This depicting of character constituted my design;
       and this design was thoroughly fulfilled in the wild train of
@@ -6915,8 +6873,8 @@ THE MYSTERY OF MARIE ROGET.(*1)
       Barrière, is no proof as to where it was thrown into the
       water..... A piece of one of the unfortunate girl’s petticoats,
       two feet long and one foot wide, was torn out and tied under her
-      chin around the back of her head, probably to prevent screams.
-      This was done by fellows who had no pocket-handkerchief.”
+chin around the back of her head, probably to prevent screams.
+This was done by fellows who had no pocket-handkerchief.”
 
       A day or two before the Prefect called upon us, however, some
       important information reached the police, which seemed to
@@ -7067,9 +7025,9 @@ THE MYSTERY OF MARIE ROGET.(*1)
       “What I mean to say is, that it is the mingled epigram and
       melodrame of the idea, that Marie Rogêt still lives, rather than
       any true plausibility in this idea, which have suggested it to
-      L’Etoile, and secured it a favorable reception with the public.
-      Let us examine the heads of this journal’s argument; endeavoring
-      to avoid the incoherence with which it is originally set forth.
+L’Etoile, and secured it a favorable reception with the public.
+Let us examine the heads of this journal’s argument; endeavoring
+to avoid the incoherence with which it is originally set forth.
 
       “The first aim of the writer is to show, from the brevity of the
       interval between Marie’s disappearance and the finding of the
@@ -7137,8 +7095,8 @@ THE MYSTERY OF MARIE ROGET.(*1)
       into the water immediately after death by violence, require from
       six to ten days for sufficient decomposition to take place to
       bring them to the top of the water. Even when a cannon is fired
-      over a corpse, and it rises before at least five or six days’
-      immersion, it sinks again if let alone.’
+over a corpse, and it rises before at least five or six days’
+immersion, it sinks again if let alone.’
 
       “These assertions have been tacitly received by every paper in
       Paris, with the exception of Le Moniteur. (*15) This latter print
@@ -7203,11 +7161,11 @@ THE MYSTERY OF MARIE ROGET.(*1)
       now fills them. This difference is sufficient to cause the body
       to sink, as a general rule; but is insufficient in the cases of
       individuals with small bones and an abnormal quantity of flaccid
-      or fatty matter. Such individuals float even after drowning.
+or fatty matter. Such individuals float even after drowning.
 
-      “The corpse, being supposed at the bottom of the river, will
-      there remain until, by some means, its specific gravity again
-      becomes less than that of the bulk of water which it displaces.
+“The corpse, being supposed at the bottom of the river, will
+there remain until, by some means, its specific gravity again
+becomes less than that of the bulk of water which it displaces.
       This effect is brought about by decomposition, or otherwise. The
       result of decomposition is the generation of gas, distending the
       cellular tissues and all the cavities, and giving the puffed
@@ -7245,8 +7203,8 @@ THE MYSTERY OF MARIE ROGET.(*1)
       into the water immediately after death by violence, require from
       six to ten days for sufficient decomposition to take place to
       bring them to the top of the water. Even when a cannon is fired
-      over a corpse, and it rises before at least five or six days’
-      immersion, it sinks again if let alone.’
+over a corpse, and it rises before at least five or six days’
+immersion, it sinks again if let alone.’
 
       “The whole of this paragraph must now appear a tissue of
       inconsequence and incoherence. All experience does not show that
@@ -7301,12 +7259,12 @@ THE MYSTERY OF MARIE ROGET.(*1)
       “‘And furthermore it is exceedingly improbable,’ continues our
       journal, ‘that any villains who had committed such a murder as is
       here supposed, would have thrown the body in without weight to
-      sink it, when such a precaution could have so easily been taken.’
-      Observe, here, the laughable confusion of thought! No one—not
-      even L’Etoile—disputes the murder committed _on the body found_.
-      The marks of violence are too obvious. It is our reasoner’s
-      object merely to show that this body is not Marie’s. He wishes to
-      prove that Marie is not assassinated—not that the corpse was not.
+sink it, when such a precaution could have so easily been taken.’
+Observe, here, the laughable confusion of thought! No one—not
+even L’Etoile—disputes the murder committed _on the body found_.
+The marks of violence are too obvious. It is our reasoner’s
+object merely to show that this body is not Marie’s. He wishes to
+prove that Marie is not assassinated—not that the corpse was not.
       Yet his observation proves only the latter point. Here is a
       corpse without weight attached. Murderers, casting it in, would
       not have failed to attach a weight. Therefore it was not thrown
@@ -7314,10 +7272,10 @@ THE MYSTERY OF MARIE ROGET.(*1)
       The question of identity is not even approached, and L’Etoile has
       been at great pains merely to gainsay now what it has admitted
       only a moment before. ‘We are perfectly convinced,’ it says,
-      ‘that the body found was that of a murdered female.’
+‘that the body found was that of a murdered female.’
 
-      “Nor is this the sole instance, even in this division of his
-      subject, where our reasoner unwittingly reasons against himself.
+“Nor is this the sole instance, even in this division of his
+subject, where our reasoner unwittingly reasons against himself.
       His evident object, I have already said, is to reduce, as much as
       possible, the interval between Marie’s disappearance and the
       finding of the corpse. Yet we find him urging the point that no
@@ -7630,8 +7588,8 @@ THE MYSTERY OF MARIE ROGET.(*1)
       debaucheries. A quarrel, it is supposed, providentially led to
       her return home. We have the name of the Lothario in question,
       who is, at present, stationed in Paris, but, for obvious reasons,
-      forbear to make it public.”—Le Mercurie—Tuesday Morning, June 24.
-      (*18)
+forbear to make it public.”—Le Mercurie—Tuesday Morning, June 24.
+(*18)
 
       “An outrage of the most atrocious character was perpetrated near
       this city the day before yesterday. A gentleman, with his wife
@@ -7823,10 +7781,10 @@ THE MYSTERY OF MARIE ROGET.(*1)
       “Notwithstanding the acclamation with which the discovery of this
       thicket was received by the press, and the unanimity with which
       it was supposed to indicate the precise scene of the outrage, it
-      must be admitted that there was some very good reason for doubt.
-      That it was the scene, I may or I may not believe—but there was
-      excellent reason for doubt. Had the true scene been, as Le
-      Commerciel suggested, in the neighborhood of the Rue Pavée St.
+must be admitted that there was some very good reason for doubt.
+That it was the scene, I may or I may not believe—but there was
+excellent reason for doubt. Had the true scene been, as Le
+Commerciel suggested, in the neighborhood of the Rue Pavée St.
       Andrée, the perpetrators of the crime, supposing them still
       resident in Paris, would naturally have been stricken with terror
       at the public attention thus acutely directed into the proper
@@ -8158,8 +8116,8 @@ THE MYSTERY OF MARIE ROGET.(*1)
       somewhat tardy and very suspicious evidence of Madame Deluc, is
       the only gang which is represented by that honest and scrupulous
       old lady as having eaten her cakes and swallowed her brandy,
-      without putting themselves to the trouble of making her payment.
-      Et hinc illæ iræ?
+without putting themselves to the trouble of making her payment.
+Et hinc illæ iræ?
 
       “But what is the precise evidence of Madame Deluc? ‘A gang of
       miscreants made their appearance, behaved boisterously, ate and
@@ -8202,10 +8160,10 @@ THE MYSTERY OF MARIE ROGET.(*1)
       any body of men, would not long ago have betrayed his
       accomplices. Each one of a gang so placed, is not so much greedy
       of reward, or anxious for escape, as fearful of betrayal. He
-      betrays eagerly and early that he may not himself be betrayed.
-      That the secret has not been divulged, is the very best of proof
-      that it is, in fact, a secret. The horrors of this dark deed are
-      known only to one, or two, living human beings, and to God.
+betrays eagerly and early that he may not himself be betrayed.
+That the secret has not been divulged, is the very best of proof
+that it is, in fact, a secret. The horrors of this dark deed are
+known only to one, or two, living human beings, and to God.
 
       “Let us sum up now the meagre yet certain fruits of our long
       analysis. We have attained the idea either of a fatal accident
@@ -8447,14 +8405,14 @@ FOOTNOTES—Marie Rogêt
 
       (*11) New York “Journal of Commerce.”
 
-      (*12) Philadelphia “Saturday Evening Post,” edited by C. I.
-      Peterson, Esq.
+(*12) Philadelphia “Saturday Evening Post,” edited by C. I.
+Peterson, Esq.
 
-      (*13) Adam
+(*13) Adam
 
-      (*14) See “Murders in the Rue Morgue.”
+(*14) See “Murders in the Rue Morgue.”
 
-      (*15) The New York “Commercial Advertiser,” edited by Col. Stone.
+(*15) The New York “Commercial Advertiser,” edited by Col. Stone.
 
       (*16) “A theory based on the qualities of an object, will prevent
       its being unfolded according to its objects; and he who arranges
@@ -8464,39 +8422,32 @@ FOOTNOTES—Marie Rogêt
       it ceases to be justice. The errors into which a blind devotion
       to principles of classification has led the common law, will be
       seen by observing how often the legislature has been obliged to
-      come forward to restore the equity its scheme had lost.”—Landor.
+come forward to restore the equity its scheme had lost.”—Landor.
 
-      (*17) New York “Express”
+(*17) New York “Express”
 
-      (*18) New York “Herald.”
+(*18) New York “Herald.”
 
-      (*19) New York “Courier and Inquirer.”
+(*19) New York “Courier and Inquirer.”
 
-      (*20) Mennais was one of the parties originally suspected and
-      arrested, but discharged through total lack of evidence.
+(*20) Mennais was one of the parties originally suspected and
+arrested, but discharged through total lack of evidence.
 
-      (*21) New York “Courier and Inquirer.”
+(*21) New York “Courier and Inquirer.”
 
-      (*22) New York “Evening Post.”
+(*22) New York “Evening Post.”
 
       (*23) Of the Magazine in which the article was originally
       published.
 
 
-
-
 THE BALLOON-HOAX
 
 
-[Astounding News by Express, _via_ Norfolk!—The Atlantic crossed in
-Three Days!  Signal Triumph of Mr. Monck Mason’s Flying
-Machine!—Arrival at Sullivan’s Island, near Charlestown, S.C., of Mr.
-Mason, Mr. Robert Holland, Mr. Henson, Mr. Harrison Ainsworth, and four
-others, in the Steering Balloon, “Victoria,” after a passage of
-Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
-    The subjoined _jeu d’esprit_ with the preceding heading in
-    magnificent capitals, well interspersed with notes of admiration,
-    was originally published, as matter of fact, in the “New York Sun,”
+[Astounding News by Express, _via_ Norfolk!—The Atlantic crossed in Three Days!  Signal Triumph of Mr. Monck Mason’s Flying Machine!—Arrival at Sullivan’s Island, near Charlestown, S.C., of Mr. Mason, Mr. Robert Holland, Mr. Henson, Mr. Harrison Ainsworth, and four others, in the Steering Balloon, “Victoria,” after a passage of Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
+The subjoined _jeu d’esprit_ with the preceding heading in
+magnificent capitals, well interspersed with notes of admiration,
+was originally published, as matter of fact, in the “New York Sun,”
     a daily newspaper, and therein fully subserved the purpose of
     creating indigestible aliment for the _quidnuncs_ during the few
     hours intervening between a couple of the Charleston mails.  The
@@ -8517,9 +8468,9 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
       the public with a detailed account of this most extraordinary
       voyage, which was performed between Saturday, the 6th instant, at
       11, A.M., and 2, P.M., on Tuesday, the 9th instant, by Sir
-      Everard Bringhurst; Mr. Osborne, a nephew of Lord Bentinck’s; Mr.
-      Monck Mason and Mr. Robert Holland, the well-known æronauts; Mr.
-      Harrison Ainsworth, author of “Jack Sheppard,” &c.; and Mr.
+Everard Bringhurst; Mr. Osborne, a nephew of Lord Bentinck’s; Mr.
+Monck Mason and Mr. Robert Holland, the well-known æronauts; Mr.
+Harrison Ainsworth, author of “Jack Sheppard,” &c.; and Mr.
       Henson, the projector of the late unsuccessful flying
       machine—with two seamen from Woolwich—in all, eight persons. The
       particulars furnished below may be relied on as authentic and
@@ -8637,9 +8588,9 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
       ærostation. The project, at the desire of Mr. Osborne, was kept a
       profound secret from the public—the only persons entrusted with
       the design being those actually engaged in the construction of
-      the machine, which was built (under the superintendence of Mr.
-      Mason, Mr. Holland, Sir Everard Bringhurst, and Mr. Osborne,) at
-      the seat of the latter gentleman near Penstruthal, in Wales. Mr.
+the machine, which was built (under the superintendence of Mr.
+Mason, Mr. Holland, Sir Everard Bringhurst, and Mr. Osborne,) at
+the seat of the latter gentleman near Penstruthal, in Wales. Mr.
       Henson, accompanied by his friend Mr. Ainsworth, was admitted to
       a private view of the balloon, on Saturday last—when the two
       gentlemen made final arrangements to be included in the
@@ -8731,9 +8682,9 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
       sea, while the balloon is free; the latter, consequently, is
       always in advance, when any progress whatever is made: a
       comparison, therefore, by means of the compass, of the relative
-      positions of the two objects, will always indicate the _course_.
-      In the same way, the angle formed by the rope with the vertical
-      axis of the machine, indicates the _velocity_. When there is _no_
+positions of the two objects, will always indicate the _course_.
+In the same way, the angle formed by the rope with the vertical
+axis of the machine, indicates the _velocity_. When there is _no_
       angle—in other words, when the rope hangs perpendicularly, the
       whole apparatus is stationary; but the larger the angle, that is
       to say, the farther the balloon precedes the end of the rope, the
@@ -8756,12 +8707,12 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
       first half hour, of either the screw or the rudder. We proceed
       now with the journal, as transcribed by Mr. Forsyth from the
       joint MSS. of Mr. Monck Mason, and Mr. Ainsworth. The body of the
-      journal, as given, is in the hand-writing of Mr. Mason, and a P.
-      S. is appended, each day, by Mr. Ainsworth, who has in
-      preparation, and will shortly give the public a more minute, and
-      no doubt, a thrillingly interesting account of the voyage.
+journal, as given, is in the hand-writing of Mr. Mason, and a P.
+S. is appended, each day, by Mr. Ainsworth, who has in
+preparation, and will shortly give the public a more minute, and
+no doubt, a thrillingly interesting account of the voyage.
 
-      “THE JOURNAL.
+“THE JOURNAL.
 
       “_Saturday, April the 6th_.—Every preparation likely to embarrass
       us, having been made over night, we commenced the inflation this
@@ -8883,10 +8834,10 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
       with any other phenomenon presenting itself. The waters give up
       no voice to the heavens. The immense flaming ocean writhes and is
       tortured uncomplainingly. The mountainous surges suggest the idea
-      of innumerable dumb gigantic fiends struggling in impotent agony.
-      In a night such as is this to me, a man _lives_—lives a whole
-      century of ordinary life—nor would I forego this rapturous
-      delight for that of a whole century of ordinary existence.
+of innumerable dumb gigantic fiends struggling in impotent agony.
+In a night such as is this to me, a man _lives_—lives a whole
+century of ordinary life—nor would I forego this rapturous
+delight for that of a whole century of ordinary existence.
 
       “_Sunday, the seventh_. [Mr. Mason’s MS.] This morning the gale,
       by 10, had subsided to an eight or nine—knot breeze, (for a
@@ -8950,11 +8901,11 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
       well as I can judge—but it is very difficult to determine this
       point, since we move _with_ the air so completely. I have not
       slept since quitting Wheal-Vor, but can stand it no longer, and
-      must take a nap. We cannot be far from the American coast.
+must take a nap. We cannot be far from the American coast.
 
-      “_Tuesday, the_ 9_th_. [Mr. Ainsworth’s MS.] _One, P.M. We are in
-      full view of the low coast of South Carolina_. The great problem
-      is accomplished. We have crossed the Atlantic—fairly and _easily_
+“_Tuesday, the_ 9_th_. [Mr. Ainsworth’s MS.] _One, P.M. We are in
+full view of the low coast of South Carolina_. The great problem
+is accomplished. We have crossed the Atlantic—fairly and _easily_
       crossed it in a balloon! God be praised! Who shall say that
       anything is impossible hereafter?”
 
@@ -9008,13 +8959,10 @@ Seventy-five Hours from Land to Land!  Full Particulars of the Voyage!
       become apparent.
 
 
-
-
 MS. FOUND IN A BOTTLE
 
 
-Qui n’a plus qu’un moment a vivre
-N’a plus rien a dissimuler.
+Qui n’a plus qu’un moment a vivre N’a plus rien a dissimuler.
 
 —Quinault—Atys.
 
@@ -9185,11 +9133,11 @@ N’a plus rien a dissimuler.
       became more dismally appalling. At times we gasped for breath at
       an elevation beyond the albatross—at times became dizzy with the
       velocity of our descent into some watery hell, where the air grew
-      stagnant, and no sound disturbed the slumbers of the kraken.
+stagnant, and no sound disturbed the slumbers of the kraken.
 
-      We were at the bottom of one of these abysses, when a quick
-      scream from my companion broke fearfully upon the night. “See!
-      see!” cried he, shrieking in my ears, “Almighty God! see! see!”
+We were at the bottom of one of these abysses, when a quick
+scream from my companion broke fearfully upon the night. “See!
+see!” cried he, shrieking in my ears, “Almighty God! see! see!”
       As he spoke, I became aware of a dull, sullen glare of red light
       which streamed down the sides of the vast chasm where we lay, and
       threw a fitful brilliancy upon our deck. Casting my eyes upwards,
@@ -9259,11 +9207,11 @@ N’a plus rien a dissimuler.
       that I shall never—be satisfied with regard to the nature of my
       conceptions. Yet it is not wonderful that these conceptions are
       indefinite, since they have their origin in sources so utterly
-      novel. A new sense—a new entity is added to my soul.
+novel. A new sense—a new entity is added to my soul.
 
 
-      It is long since I first trod the deck of this terrible ship, and
-      the rays of my destiny are, I think, gathering to a focus.
+It is long since I first trod the deck of this terrible ship, and
+the rays of my destiny are, I think, gathering to a focus.
       Incomprehensible men! Wrapped up in meditations of a kind which I
       cannot divine, they pass me by unnoticed. Concealment is utter
       folly on my part, for the people will not see. It was but just
@@ -9285,10 +9233,10 @@ N’a plus rien a dissimuler.
       I unwittingly daubed with a tar-brush the edges of a
       neatly-folded studding-sail which lay near me on a barrel. The
       studding-sail is now bent upon the ship, and the thoughtless
-      touches of the brush are spread out into the word DISCOVERY.
+touches of the brush are spread out into the word DISCOVERY.
 
-      I have made many observations lately upon the structure of the
-      vessel. Although well armed, she is not, I think, a ship of war.
+I have made many observations lately upon the structure of the
+vessel. Although well armed, she is not, I think, a ship of war.
       Her rigging, build, and general equipment, all negative a
       supposition of this kind. What she is not, I can easily
       perceive—what she is I fear it is impossible to say. I know not
@@ -9297,7 +9245,7 @@ N’a plus rien a dissimuler.
       severely simple bow and antiquated stern, there will occasionally
       flash across my mind a sensation of familiar things, and there is
       always mixed up with such indistinct shadows of recollection, an
-      unaccountable memory of old foreign chronicles and ages long ago.
+unaccountable memory of old foreign chronicles and ages long ago.
 
 
       I have been looking at the timbers of the ship. She is built of a
@@ -9391,7 +9339,7 @@ N’a plus rien a dissimuler.
       very soul has become a ruin.
 
 
-      When I look around me I feel ashamed of my former apprehensions.
+When I look around me I feel ashamed of my former apprehensions.
       If I trembled at the blast which has hitherto attended us, shall
       I not stand aghast at a warring of wind and ocean, to convey any
       idea of which the words tornado and simoom are trivial and
@@ -9399,7 +9347,7 @@ N’a plus rien a dissimuler.
       blackness of eternal night, and a chaos of foamless water; but,
       about a league on either side of us, may be seen, indistinctly
       and at intervals, stupendous ramparts of ice, towering away into
-      the desolate sky, and looking like the walls of the universe.
+the desolate sky, and looking like the walls of the universe.
 
 
       As I imagined, the ship proves to be in a current—if that
@@ -9442,8 +9390,6 @@ N’a plus rien a dissimuler.
       Gulf, to be absorbed into the bowels of the earth; the Pole
       itself being represented by a black rock, towering to a
       prodigious height.
-
-
 
 
 THE OVAL PORTRAIT
@@ -9510,12 +9456,12 @@ THE OVAL PORTRAIT
       and filigreed in Moresque. As a thing of art nothing could be
       more admirable than the painting itself. But it could have been
       neither the execution of the work, nor the immortal beauty of the
-      countenance, which had so suddenly and so vehemently moved me.
-      Least of all, could it have been that my fancy, shaken from its
-      half slumber, had mistaken the head for that of a living person.
-      I saw at once that the peculiarities of the design, of the
-      vignetting, and of the frame, must have instantly dispelled such
-      idea—must have prevented even its momentary entertainment.
+countenance, which had so suddenly and so vehemently moved me.
+Least of all, could it have been that my fancy, shaken from its
+half slumber, had mistaken the head for that of a living person.
+I saw at once that the peculiarities of the design, of the
+vignetting, and of the frame, must have instantly dispelled such
+idea—must have prevented even its momentary entertainment.
       Thinking earnestly upon these points, I remained, for an hour
       perhaps, half sitting, half reclining, with my vision riveted
       upon the portrait. At length, satisfied with the true secret of
@@ -9570,6 +9516,3 @@ THE OVAL PORTRAIT
       pallid, and aghast, and crying with a loud voice, ‘This is indeed
       Life itself!’ turned suddenly to regard his beloved:—She was
       dead!”
-
-
-*** END OF THE PROJECT GUTENBERG EBOOK 2147 ***

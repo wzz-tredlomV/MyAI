@@ -1,40 +1,10 @@
-The Project Gutenberg EBook of A Dome of Many-Coloured Glass, by Amy Lowell
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: A Dome of Many-Coloured Glass
-
-Author: Amy Lowell
-
-Release Date: July 3, 2008 [EBook #261]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK A DOME OF MANY-COLOURED GLASS ***
-
-
-
-
-Produced by A. Light and Linda Bowser
-
-
-
-
-
 A DOME OF MANY-COLOURED GLASS
 
 by Amy Lowell
 
 [American (Massachusetts) poet and critic -- 1874-1925.]
 
-[This etext has been transcribed from the 3rd printing (1916),
-of the 1912 (original) edition.]
+[This etext has been transcribed from the 3rd printing (1916), of the 1912 (original) edition.]
 
 
      "Life, like a dome of many-coloured glass,
@@ -49,13 +19,10 @@ of the 1912 (original) edition.]
                               Albert Samain.
 
 
+Contents
 
 
-     Contents
-
-
-
-          Lyrical Poems
+Lyrical Poems
 
 
      Before the Altar
@@ -92,7 +59,7 @@ of the 1912 (original) edition.]
      March Evening
 
 
-          Sonnets
+Sonnets
 
      Leisure
      On Carpaccio's Picture:  The Dream of St. Ursula
@@ -124,11 +91,10 @@ of the 1912 (original) edition.]
      To John Keats
 
 
-          The Boston Athenaeum
+The Boston Athenaeum
 
 
-
-          Verses for Children
+Verses for Children
 
      Sea Shell
      Fringed Gentians
@@ -140,20 +106,12 @@ of the 1912 (original) edition.]
      The Pleiades
 
 
-
-Thanks are due to the editor of the 'Atlantic Monthly',
-and to Messrs. G. Schirmer, Inc., for their courteous permission
-to reprint certain of these poems which have been copyrighted by them.
+Thanks are due to the editor of the 'Atlantic Monthly', and to Messrs. G. Schirmer, Inc., for their courteous permission to reprint certain of these poems which have been copyrighted by them.
 
 [All these copyrights are now expired.]
 
 
-
-
-
 LYRICAL POEMS
-
-
 
 
 Before the Altar
@@ -222,8 +180,6 @@ Before the Altar
           The smoke rose straight in the quiet night.
 
 
-
-
 Suggested by the Cover of a Volume of Keats's Poems
 
 
@@ -258,9 +214,7 @@ Suggested by the Cover of a Volume of Keats's Poems
           Who felt this burning beauty, and whose heart
           Was full of loveliest things, sang all he knew
           A little while, and then he died; too frail
-          To bear this untamed, passionate burst of song.
-
-
+To bear this untamed, passionate burst of song.
 
 
 Apples of Hesperides
@@ -292,8 +246,6 @@ Apples of Hesperides
           Glowing with a saffron fire,
           Splendid, unassailed, the golden
            Apples of Hesperides!
-
-
 
 
 Azure and Gold
@@ -335,8 +287,6 @@ Azure and Gold
            The sapphire shaft, which is truth.
 
 
-
-
 Petals
 
 
@@ -358,13 +308,10 @@ Petals
           Ever beyond into infinite ways.
           We alone stay
           While years hurry on,
-          The flower fared forth, though its fragrance still stays.
-
-
+The flower fared forth, though its fragrance still stays.
 
 
 Venetian Glass
-
 
 
           As one who sails upon a wide, blue sea
@@ -384,8 +331,6 @@ Venetian Glass
           Having just left you, I can say:  "'T is well.
           Thank God that I have known a soul so true,
           So nobly just, so worthy to be loved!"
-
-
 
 
 Fatigue
@@ -409,9 +354,7 @@ Fatigue
           Let each day pass, well ordered in its usefulness,
            Unlit by sunshine, unscarred by storm;
           Dower me with strength and curb all foolish eagerness --
-           The law exacts obedience.  Instruct, I will conform.
-
-
+The law exacts obedience.  Instruct, I will conform.
 
 
 A Japanese Wood-Carving
@@ -458,8 +401,6 @@ A Japanese Wood-Carving
           And seabirds scream in wanton happiness.
 
 
-
-
 A Little Song
 
 
@@ -485,8 +426,6 @@ A Little Song
           Be afternoon for ages long.
           And, Moon, let you and your lesser lights
           Watch over a century of nights.
-
-
 
 
 Behind a Wall
@@ -521,8 +460,6 @@ Behind a Wall
               Of a waking fish.
 
 
-
-
 A Winter Ride
 
 
@@ -539,8 +476,6 @@ A Winter Ride
            Strong with the strength of my horse as we run.
           Joy in the touch of the wind and the sunlight!
            Joy!  With the vigorous earth I am one.
-
-
 
 
 A Coloured Print by Shokei
@@ -573,8 +508,6 @@ A Coloured Print by Shokei
            To see what there is behind;
           For it must lead to a happy land,
           This little path by a waterfall spanned.
-
-
 
 
 Song
@@ -621,8 +554,6 @@ Song
            Make a sea of purpose mightier than we dream to-day?
 
 
-
-
 The Fool Errant
 
 
@@ -654,10 +585,10 @@ The Fool Errant
           Then out of the cloud of settling dust
            The burly form of an abbot appeared,
           Reading his office he rode to the town.
-           And the fool got up, for his heart was cheered.
+And the fool got up, for his heart was cheered.
 
-          He stood in the midst of the long, white road
-           And swept off his cap till it touched the ground.
+He stood in the midst of the long, white road
+And swept off his cap till it touched the ground.
           "Ah, Reverent Sir, well met," said the fool,
            "A worthier transport never was found.
 
@@ -727,8 +658,6 @@ The Fool Errant
            For at last he knew he was only a fool.
 
 
-
-
 The Green Bowl
 
 
@@ -748,8 +677,6 @@ The Green Bowl
           Should be their setting; once more they will dream
           They hear winds wandering through lofty trees
           And see the sun smiling between the leaves.
-
-
 
 
 Hora Stellatrix
@@ -774,8 +701,6 @@ Hora Stellatrix
           Starfire sparkles, your coronal.
 
 
-
-
 Fragment
 
 
@@ -787,8 +712,6 @@ Fragment
            Beauty a thing of awe; where sunbeams caught,
            Transmuted fall in sheafs of rainbows fraught
           With storied meaning for religion's sake.
-
-
 
 
 Loon Point
@@ -840,8 +763,6 @@ Loon Point
            And the manifold whisper of leaves.
 
 
-
-
 Summer
 
 
@@ -889,18 +810,14 @@ Summer
           The pulse and throb of life which makes us men!
 
 
-
-
 "To-morrow to Fresh Woods and Pastures New"
 
 
-          As for a moment he stands, in hardy masculine beauty,
-          Poised on the fircrested rock, over the pool which below him
-          Gleams in the wavering sunlight, waiting the shock of his plunging.
-          So for a moment I stand, my feet planted firm in the present,
-          Eagerly scanning the future which is so soon to possess me.
-
-
+As for a moment he stands, in hardy masculine beauty,
+Poised on the fircrested rock, over the pool which below him
+Gleams in the wavering sunlight, waiting the shock of his plunging.
+So for a moment I stand, my feet planted firm in the present,
+Eagerly scanning the future which is so soon to possess me.
 
 
 The Way
@@ -924,10 +841,10 @@ The Way
           Later the solitude vanished, confused and distracted the road
           Where many were seeking and jostling.  Left behind were the trees
             and the flowers,
-          The half-realized beauty of quiet, the sacred unconscious communing.
-          And now he is come to a river, a line of gray, sullen water,
-          Not blue and splashing, but dark, rolling somberly on to the ocean.
-          But on the far side is a city whose windows flame gold in the sunset.
+The half-realized beauty of quiet, the sacred unconscious communing.
+And now he is come to a river, a line of gray, sullen water,
+Not blue and splashing, but dark, rolling somberly on to the ocean.
+But on the far side is a city whose windows flame gold in the sunset.
           It lies fair and shining before him, a gem set betwixt sky and water,
           And spanning the river a bridge, frail promise to longing desire,
           Flung by man in his infinite courage, across the stern force of the water;
@@ -936,8 +853,6 @@ The Way
           His life to its fragile keeping, if it fails the waves will engulf him.
           O Arches! be strong to uphold him, and bear him across to the city,
           The beautiful city whose spires still glow with the fires of sunset!
-
-
 
 
 Diya  {original title is Greek, Delta-iota-psi-alpha}
@@ -993,8 +908,6 @@ Diya  {original title is Greek, Delta-iota-psi-alpha}
           Beloved, is it true?
 
 
-
-
 Roads
 
 
@@ -1040,9 +953,7 @@ Roads
           O Roads that journey to fairyland!
            Radiant highways whose vistas gleam,
           Leading me on, under crimson leaves,
-           To the opaline gates of the Castles of Dream.
-
-
+To the opaline gates of the Castles of Dream.
 
 
 Teatro Bambino.  Dublin, N. H.
@@ -1067,8 +978,8 @@ Teatro Bambino.  Dublin, N. H.
            His train in woven baskets bear ripe fruit
            And weave a dance with ropes of gray acorns,
           So light their touch the grasses scarcely sway
-           As they the measure tread to the lilting flute.
-           Alas! 't is only Fancy thus adorns.
+As they the measure tread to the lilting flute.
+Alas! 't is only Fancy thus adorns.
 
           A cloud drifts idly over the shining sun.
            How damp it seems, how silent, still, and strange!
@@ -1091,8 +1002,6 @@ Teatro Bambino.  Dublin, N. H.
           Some deep emotion, satisfying, great.
            It grows a living presence, bold and shy,
            Cradling the future in a glorious past.
-
-
 
 
 The Road to Avignon
@@ -1164,8 +1073,6 @@ The Road to Avignon
              One morning in the spring.
 
 
-
-
 New York at Night
 
 
@@ -1208,8 +1115,6 @@ New York at Night
            The long still hours are here, no jot
           Of dear communing do I know;
           Instead the glaring, man-filled city groans below!
-
-
 
 
 A Fairy Tale
@@ -1267,8 +1172,6 @@ A Fairy Tale
           Force me forever through the passing days.
 
 
-
-
 Crowned
 
 
@@ -1285,8 +1188,6 @@ Crowned
            And dropped; and the thorns started through.
           Bitter thorns to proclaim me your lover,
            A diadem woven with rue.
-
-
 
 
 To Elizabeth Ward Perkins
@@ -1333,8 +1234,6 @@ To Elizabeth Ward Perkins
           And thaw its music in your hand.
 
 
-
-
 The Promise of the Morning Star
 
 
@@ -1364,10 +1263,7 @@ The Promise of the Morning Star
           New music ringing through my fading youth.
 
 
-
-
 J--K. Huysmans
-
 
 
           A flickering glimmer through a window-pane,
@@ -1408,16 +1304,14 @@ J--K. Huysmans
           An organ boomed majestic harmonies;
           He only knew that what he saw was light!
           He bowed himself before a cross of flame
-          And shut his eyes in fear lest it should fade.
-
-
+And shut his eyes in fear lest it should fade.
 
 
 March Evening
 
 
-          Blue through the window burns the twilight;
-           Heavy, through trees, blows the warm south wind.
+Blue through the window burns the twilight;
+Heavy, through trees, blows the warm south wind.
           Glistening, against the chill, gray sky light,
            Wet, black branches are barred and entwined.
 
@@ -1437,12 +1331,7 @@ March Evening
            Travails to birth in the womb of the storm.
 
 
-
-
-
 SONNETS
-
-
 
 
 Leisure
@@ -1464,8 +1353,6 @@ Leisure
           The dreaming lapse of slow, unmeasured time.
 
 
-
-
 On Carpaccio's Picture:  The Dream of St. Ursula
 
 
@@ -1483,8 +1370,6 @@ On Carpaccio's Picture:  The Dream of St. Ursula
            The morning breeze scarce stirs the coverlet,
            A shadow falls across the sunlight; wait!
           A lark is singing as he flies away.
-
-
 
 
 The Matrix
@@ -1506,8 +1391,6 @@ The Matrix
           Reach out my hand and pluck a nectarine.
 
 
-
-
 Monadnock in Early Spring
 
 
@@ -1527,8 +1410,6 @@ Monadnock in Early Spring
           Thou pledge of greater majesty unseen.
 
 
-
-
 The Little Garden
 
 
@@ -1544,10 +1425,8 @@ The Little Garden
           Here butterflies and bees fare far to rove
            Amid the crumpled leaves of poppy flowers;
           Here four o'clocks, to the passionate night above
-           Fling whiffs of perfume, like pale incense showers.
-          A little garden, loved with a great love!
-
-
+Fling whiffs of perfume, like pale incense showers.
+A little garden, loved with a great love!
 
 
 To an Early Daffodil
@@ -1566,9 +1445,7 @@ To an Early Daffodil
            Nodding at every gust of wind to-day,
           To-morrow jewelled with raindrops.  Always bold
            To stand erect, full in the dazzling play
-          Of April's sun, for thou hast caught his gold.
-
-
+Of April's sun, for thou hast caught his gold.
 
 
 Listening
@@ -1590,8 +1467,6 @@ Listening
            One music with a thousand cadences.
 
 
-
-
 The Lamp of Life
 
 
@@ -1609,8 +1484,6 @@ The Lamp of Life
            But just a little farther on.  Distraught,
            But lighted ever onward, we are brought
           Upon our way unknowing, in a dream.
-
-
 
 
 Hero-Worship
@@ -1632,8 +1505,6 @@ Hero-Worship
           Burns on, and it is much to have believed.
 
 
-
-
 In Darkness
 
 
@@ -1653,8 +1524,6 @@ In Darkness
            And hour follows hour, nerveless, slack.
 
 
-
-
 Before Dawn
 
 
@@ -1671,9 +1540,7 @@ Before Dawn
           He knows no rule by which to move or stay,
            And teased with restlessness and desperate fears
           He dares not watch in silence thy wise way
-              Bringing about results none could have guessed.
-
-
+Bringing about results none could have guessed.
 
 
 The Poet
@@ -1695,8 +1562,6 @@ The Poet
            Life's loneliness of dreaming ecstasy.
 
 
-
-
 At Night
 
 
@@ -1714,8 +1579,6 @@ At Night
            O Star! is filled with your white light, from far,
            So suffer me this one night to enjoy
           The freedom of the onward sweeping wind.
-
-
 
 
 The Fruit Garden Path
@@ -1737,8 +1600,6 @@ The Fruit Garden Path
           You are my home, do you not understand?
 
 
-
-
 Mirage
 
 
@@ -1754,10 +1615,8 @@ Mirage
           A thousand misconceptions may prevent
            Our souls from coming near enough to blend;
           Let me but think we have the same intent,
-           That each one needs to call the other, "friend!"
-          It may be vain illusion.  I'm content.
-
-
+That each one needs to call the other, "friend!"
+It may be vain illusion.  I'm content.
 
 
 To a Friend
@@ -1779,8 +1638,6 @@ To a Friend
            O stay your hand, and leave my heart its songs!
 
 
-
-
 A Fixed Idea
 
 
@@ -1800,8 +1657,6 @@ A Fixed Idea
           In mercy lift your drooping wings and go.
 
 
-
-
 Dreams
 
 
@@ -1818,9 +1673,7 @@ Dreams
            To me the very essence of the day
           Reveals its inner purpose and its moods;
            As poplars feel the rain and then straightway
-          Reverse their leaves and shimmer through the woods.
-
-
+Reverse their leaves and shimmer through the woods.
 
 
 Frankincense and Myrrh
@@ -1842,8 +1695,6 @@ Frankincense and Myrrh
              And life ablaze with beauty, I am dumb.
 
 
-
-
 From One Who Stays
 
 
@@ -1857,19 +1708,17 @@ From One Who Stays
           But all these noises blur to one long moan.
            What quest is worth pursuing?  And how strange
           That other men still go accustomed ways!
-             I hate their interest in the things they do.
-           A spectre-horde repeating without change
-          An old routine.  Alone I know the days
-             Are still-born, and the world stopped, lacking you.
-
-
+I hate their interest in the things they do.
+A spectre-horde repeating without change
+An old routine.  Alone I know the days
+Are still-born, and the world stopped, lacking you.
 
 
 Crepuscule du Matin
 
 
-          All night I wrestled with a memory
-           Which knocked insurgent at the gates of thought.
+All night I wrestled with a memory
+Which knocked insurgent at the gates of thought.
            The crumbled wreck of years behind has wrought
           Its disillusion; now I only cry
           For peace, for power to forget the lie
@@ -1882,8 +1731,6 @@ Crepuscule du Matin
           Cherished our love in darkness.  From the lawn
            A sudden, quivering birdnote, like a taunt.
           My arms held nothing but the empty dawn.
-
-
 
 
 Aftermath
@@ -1905,8 +1752,6 @@ Aftermath
           And whisper words of love which no one hears.
 
 
-
-
 The End
 
 
@@ -1926,13 +1771,11 @@ The End
           And with my trembling lips I touch the rim.
 
 
-
-
 The Starling
 
 
-               "'I can't get out', said the starling."
-                              Sterne's 'Sentimental Journey'.
+"'I can't get out', said the starling."
+Sterne's 'Sentimental Journey'.
 
 
           Forever the impenetrable wall
@@ -1949,8 +1792,6 @@ The Starling
            I weary for desires never guessed,
             For alien passions, strange imaginings,
           To be some other person for a day.
-
-
 
 
 Market Day
@@ -1970,8 +1811,6 @@ Market Day
           Arched doorway peals an organ, suddenly --
            Crashing, triumphant in its pregnant tide,
           Quenching the square in vibrant harmony.
-
-
 
 
 Epitaph in a Church-Yard in Charleston, South Carolina
@@ -1999,8 +1838,6 @@ Epitaph in a Church-Yard in Charleston, South Carolina
            Ached with fatigue at never seeing home.
 
 
-
-
 Francis II, King of Naples
 
 Written after reading Trevelyan's "Garibaldi and the making of Italy"
@@ -2019,9 +1856,7 @@ Written after reading Trevelyan's "Garibaldi and the making of Italy"
           No challenge screamed from hostile carabine.
            A single vessel waited, shadowy;
            All night she ploughed her solitary way
-          Beneath the stars, and through a tranquil sea.
-
-
+Beneath the stars, and through a tranquil sea.
 
 
 To John Keats
@@ -2043,14 +1878,10 @@ To John Keats
           Faint throbbings of thy music overhear.
 
 
-
-
-
-
 THE BOSTON ATHENAEUM
 
 
-                   The Boston Athenaeum
+The Boston Athenaeum
 
 
           Thou dear and well-loved haunt of happy hours,
@@ -2115,9 +1946,9 @@ THE BOSTON ATHENAEUM
           The shifting sun pierces the young green leaves
           Of elm trees, newly coming into bud,
           And splashes on the floor and on the books
-          Through old, high, rounded windows, dim with age.
-          The noisy city-sounds of modern life
-          Float softened to us across the old graveyard.
+Through old, high, rounded windows, dim with age.
+The noisy city-sounds of modern life
+Float softened to us across the old graveyard.
           The room is filled with a warm, mellow light,
           No garish colours jar on our content,
           The books upon the shelves are old and worn.
@@ -2203,12 +2034,7 @@ THE BOSTON ATHENAEUM
           And man's blind foolishness so quickly mar.
 
 
-
-
-
 VERSES FOR CHILDREN
-
-
 
 
 Sea Shell
@@ -2226,8 +2052,6 @@ Sea Shell
 
           Sea Shell, Sea Shell,
           Sing of the things you know so well.
-
-
 
 
 Fringed Gentians
@@ -2252,8 +2076,6 @@ Fringed Gentians
           Must we pick any gentians -- ever!
           For if we carried them away
           They'd die of homesickness that day.
-
-
 
 
 The Painted Ceiling
@@ -2300,8 +2122,6 @@ The Painted Ceiling
            It is only because you are short.
 
 
-
-
 The Crescent Moon
 
 
@@ -2331,8 +2151,6 @@ The Crescent Moon
            To please a little boy.
 
 
-
-
 Climbing
 
 
@@ -2354,9 +2172,7 @@ Climbing
           Today to the end of the marvelous stair,
           Where those glittering pinacles flash in the air!
           Climbing, climbing, higher I go,
-          With the sky close above me, the earth far below.
-
-
+With the sky close above me, the earth far below.
 
 
 The Trout
@@ -2381,8 +2197,6 @@ The Trout
           Hours and hours I've sat to watch you;
           But you never will come out,
           Naughty little speckled trout!
-
-
 
 
 Wind
@@ -2416,10 +2230,7 @@ Wind
              Each is the wind I like the best.
 
 
-
-
 The Pleiades
-
 
 
           By day you cannot see the sky
@@ -2453,478 +2264,54 @@ The Pleiades
           To feel that they had stars for toys!
 
 
-
-                    THE END
-
+THE END
 
 
-
-
-
-----------------------------------------------
-| Advertisements of books by the same author |
-----------------------------------------------
+---------------------------------------------- | Advertisements of books by the same author | ----------------------------------------------
 
 (These are taken from the back of the 1916 printing.)
 
 
-
-
-
-
-A Dome of Many-Coloured Glass
-By AMY LOWELL
-New edition, cloth, $1.25
+A Dome of Many-Coloured Glass By AMY LOWELL New edition, cloth, $1.25
 
 
 PRESS NOTICES
 
 
+"These poems arouse interest, and justify it by the result. Miss Lowell is the sister of President Lowell of Harvard.  Her art, however, needs no reflection from such distinguished influence to make apparent its distinction.  Such verse as this is delightful, has a sort of personal flavour, a loyalty to the fundamentals of life and nationality. . . . The child poems are particularly graceful." -- 'Boston Evening Transcript', Boston, Mass.
 
-"These poems arouse interest, and justify it by the result. Miss Lowell
-is the sister of President Lowell of Harvard.  Her art, however, needs
-no reflection from such distinguished influence to make apparent its
-distinction.  Such verse as this is delightful, has a sort of personal
-flavour, a loyalty to the fundamentals of life and nationality. . . .
-The child poems are particularly graceful." -- 'Boston Evening
-Transcript', Boston, Mass.
+"Miss Lowell has given expression in exquisite form to many beautiful thoughts, inspired by a variety of subjects and based on some of the loftiest ideals. . . .
 
-"Miss Lowell has given expression in exquisite form to many beautiful
-thoughts, inspired by a variety of subjects and based on some of the
-loftiest ideals. . . .
+"The verses are grouped under the captions 'Lyrical Poems', 'Sonnets', and 'Verses for Children'. . . .
 
-"The verses are grouped under the captions 'Lyrical Poems', 'Sonnets',
-and 'Verses for Children'. . . .
+"It is difficult to say which of these are the most successful.  Indeed, all reveal Miss Lowell's powers of observation from the view-point of a lover of nature.  Moreover, Miss Lowell writes with a gentle philosophy and a deep knowledge of humanity. . . .
 
-"It is difficult to say which of these are the most successful.  Indeed,
-all reveal Miss Lowell's powers of observation from the view-point of a
-lover of nature.  Moreover, Miss Lowell writes with a gentle philosophy
-and a deep knowledge of humanity. . . .
+"The sonnets are especially appealing and touch the heart strings so tenderly that there comes immediate response in the same spirit. . . .
 
-"The sonnets are especially appealing and touch the heart strings so
-tenderly that there comes immediate response in the same spirit. . . .
-
-"That she knows the workings of the juvenile mind is plainly indicated
-by her verses written for their reading."  -- 'Boston Sunday Globe',
+"That she knows the workings of the juvenile mind is plainly indicated by her verses written for their reading."  -- 'Boston Sunday Globe',
 Boston, Mass.
 
 "A quite delightful little collection of verses." -- 'Toronto Globe',
 Toronto, Canada.
 
-"The Lyrics are true to the old definition; they would sing well to the
-accompaniment of the strings.  We should like to hear "Hora Stellatrix"
-rendered by an artist." -- 'Hartford Courant', Hartford, Conn.
+"The Lyrics are true to the old definition; they would sing well to the accompaniment of the strings.  We should like to hear "Hora Stellatrix" rendered by an artist." -- 'Hartford Courant', Hartford, Conn.
 
-"Verses that show delicate appreciation of the beautiful, and
-imaginative quality.  A sonnet entitled 'Dreams' is peculiarly full of
-sympathy and feeling." -- 'The Sun', Baltimore, Md.
+"Verses that show delicate appreciation of the beautiful, and imaginative quality.  A sonnet entitled 'Dreams' is peculiarly full of sympathy and feeling." -- 'The Sun', Baltimore, Md.
 
 ----------
 
 
-
-By the same author
-Sword Blades and Poppy Seed
-Price, $1.25
+By the same author Sword Blades and Poppy Seed Price, $1.25
 
 
 Opinions of Leading Reviewers
 
 
+"Against the multitudinous array of daily verse our times produce this volume utters itself with a range and brilliancy wholly remarkable. I cannot see that Miss Lowell's use of unrhymed 'vers libre' has been surpassed in English.  Read 'The Captured Goddess', 'Music', and 'The Precinct.  Rochester', a piece of mastercraft in this kind. A wealth of subtleties and sympathies, gorgeously wrought, full of macabre effects (as many of the poems are) and brilliantly worked out.  The things of splendor she has made she will hardly outdo in their kind." -- Josephine Preston Peabody, 'The Boston Herald'.
 
-"Against the multitudinous array of daily verse our times produce this
-volume utters itself with a range and brilliancy wholly remarkable. I
-cannot see that Miss Lowell's use of unrhymed 'vers libre' has been
-surpassed in English.  Read 'The Captured Goddess', 'Music', and 'The
-Precinct.  Rochester', a piece of mastercraft in this kind. A wealth of
-subtleties and sympathies, gorgeously wrought, full of macabre effects
-(as many of the poems are) and brilliantly worked out.  The things of
-splendor she has made she will hardly outdo in their kind." -- Josephine
-Preston Peabody, 'The Boston Herald'.
+"For quaint pictorial exactitude and bizarrerie of color these poems remind one of Flemish masters and Dutch tulip gardens; again, they are fine and fantastic, like Venetian glass; and they are all curiously flooded with the moonlight of dreams. . . . Miss Lowell has a remarkable gift of what one might call the dramatic-decorative.  Her decorative imagery is intensely dramatic, and her dramatic pictures are in themselves vivid and fantastic decorations." -- Richard Le Gallienne, 'New York Times Book Review'.
 
-"For quaint pictorial exactitude and bizarrerie of color these poems
-remind one of Flemish masters and Dutch tulip gardens; again, they are
-fine and fantastic, like Venetian glass; and they are all curiously
-flooded with the moonlight of dreams. . . . Miss Lowell has a remarkable
-gift of what one might call the dramatic-decorative.  Her decorative
-imagery is intensely dramatic, and her dramatic pictures are in
-themselves vivid and fantastic decorations." -- Richard Le Gallienne,
-'New York Times Book Review'.
+"The book as a whole is notable for the organic relation it bears to life and to art.  Miss Lowell can find authentic inspiration equally in the lapidarian stanzas of Henri de Regnier and in the color effects produced by the flicking of the tail of the great northern pike. Her work is always vivid, sincere, poetically energetic. Throughout it run, in the quaint phrase of an old poet, 'bright shoots of everlastingnesse'." -- Ferris Greenslet, in the 'New Republic'.
 
-"The book as a whole is notable for the organic relation it bears to
-life and to art.  Miss Lowell can find authentic inspiration equally in
-the lapidarian stanzas of Henri de Regnier and in the color effects
-produced by the flicking of the tail of the great northern pike. Her
-work is always vivid, sincere, poetically energetic. Throughout it run,
-in the quaint phrase of an old poet, 'bright shoots of
-everlastingnesse'." -- Ferris Greenslet, in the 'New Republic'.
-
-"Such poems as 'A Lady', 'Music', 'White and Green', are well-nigh
-flawless in their beauty -- perfect 'images'." -- Harriet Monroe,
+"Such poems as 'A Lady', 'Music', 'White and Green', are well-nigh flawless in their beauty -- perfect 'images'." -- Harriet Monroe,
 'Poetry'.
-
-
-
-
-
-End of Project Gutenberg's A Dome of Many-Coloured Glass, by Amy Lowell
-
-*** END OF THIS PROJECT GUTENBERG EBOOK A DOME OF MANY-COLOURED GLASS ***
-
-***** This file should be named 261.txt or 261.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/2/6/261/
-
-Produced by A. Light and Linda Bowser
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

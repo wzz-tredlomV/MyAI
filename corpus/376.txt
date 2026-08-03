@@ -1,36 +1,3 @@
-﻿The Project Gutenberg eBook of A Journal of the Plague Year, by Daniel Defoe
-
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org. If you are not located in the United States, you
-will have to check the laws of the country where you are located before
-using this eBook.
-
-Title: A Journal of the Plague Year
-
-Author: Daniel Defoe
-
-Release Date:December, 1995 [eBook #376]
-[Most recently updated: June 24, 2023]
-
-Language: English
-
-Text file produced by Tokuya Matsumoto
-
-HTML file produced by David Widger
-
-*** START OF THE PROJECT GUTENBERG EBOOK A JOURNAL OF THE PLAGUE YEAR ***
-
-
-
-
-[Illustration]
-
-
-
-
 A Journal of the Plague Year
 
 by Daniel Defoe
@@ -109,27 +76,27 @@ by Daniel Defoe
       St Andrew’s, Holborn, were from twelve to seventeen or nineteen
       each, few more or less; but from the time that the plague first
       began in St Giles’s parish, it was observed that the ordinary
-      burials increased in number considerably. For example:—
+burials increased in number considerably. For example:—
 
 From December 27 to January 3  { St Giles’s      16
-     ”                              { St Andrew’s     17
+”                              { St Andrew’s     17
 
-     ”     January 3  ”    ”    10  { St Giles’s      12
-     ”                              { St Andrew’s     25
+”     January 3  ”    ”    10  { St Giles’s      12
+”                              { St Andrew’s     25
 
-     ”     January 10 ”    ”    17  { St Giles’s      18
-     ”                              { St Andrew’s     28
+”     January 10 ”    ”    17  { St Giles’s      18
+”                              { St Andrew’s     28
 
-     ”     January 17 ”    ”    24  { St Giles’s      23
-     ”                              { St Andrew’s     16
+”     January 17 ”    ”    24  { St Giles’s      23
+”                              { St Andrew’s     16
 
-     ”     January 24 ”    ”    31  { St Giles’s      24
-     ”                              { St Andrew’s     15
+”     January 24 ”    ”    31  { St Giles’s      24
+”                              { St Andrew’s     15
 
-     ”     January 30 ” February 7  { St Giles’s      21
-     ”                              { St Andrew’s     23
+”     January 30 ” February 7  { St Giles’s      21
+”                              { St Andrew’s     23
 
-     ”     February 7 ”     ”   14  { St Giles’s      24
+”     February 7 ”     ”   14  { St Giles’s      24
 
       The like increase of the bills was observed in the parishes of St
       Bride’s, adjoining on one side of Holborn parish, and in the
@@ -139,28 +106,28 @@ From December 27 to January 3  { St Giles’s      16
       were increased as follows:—
 
 From December 20 to December 27  { St Bride’s     0
-     ”                                { St James’s     8
+”                                { St James’s     8
 
-     ”    December 27 to January   3  { St Bride’s     6
-     ”                                { St James’s     9
+”    December 27 to January   3  { St Bride’s     6
+”                                { St James’s     9
 
-     ”    January  3  ”    ”      10  { St Bride’s    11
-     ”                                { St James’s     7
+”    January  3  ”    ”      10  { St Bride’s    11
+”                                { St James’s     7
 
-     ”    January 10  ”    ”      17  { St Bride’s    12
-     ”                                { St James’s     9
+”    January 10  ”    ”      17  { St Bride’s    12
+”                                { St James’s     9
 
-     ”    January 17  ”    ”      24  { St Bride’s     9
-     ”                                { St James’s    15
+”    January 17  ”    ”      24  { St Bride’s     9
+”                                { St James’s    15
 
-     ”    January 24  ”    ”      31  { St Bride’s     8
-     ”                                { St James’s    12
+”    January 24  ”    ”      31  { St Bride’s     8
+”                                { St James’s    12
 
-     ”    January 31  ” February   7  { St Bride’s    13
-     ”                                { St James’s     5
+”    January 31  ” February   7  { St Bride’s    13
+”                                { St James’s     5
 
-     ”    February 7  ”    ”      14  { St Bride’s     12
-     ”                                { St James’s     6
+”    February 7  ”    ”      14  { St Bride’s     12
+”                                { St James’s     6
       Besides this, it was observed with great uneasiness by the people
       that the weekly bills in general increased very much during these
       weeks, although it was at a time of the year when usually the
@@ -171,12 +138,12 @@ From December 20 to December 27  { St Bride’s     0
       esteemed a pretty high bill; but after this we found the bills
       successively increasing as follows:—
 
- Buried.  Increased.
-     December the 20th to the 27th               291       ...
-     ”     ”      27th  ”     3rd January        349        58
-     January  the  3rd  ”    10th   ”            394        45
-     ”     ”      10th  ”    17th   ”            415        21
-     ”     ”      17th  ”    24th   ”            474        59
+Buried.  Increased.
+December the 20th to the 27th               291       ...
+”     ”      27th  ”     3rd January        349        58
+January  the  3rd  ”    10th   ”            394        45
+”     ”      10th  ”    17th   ”            415        21
+”     ”      17th  ”    24th   ”            474        59
 
       This last bill was really frightful, being a higher number than
       had been known to have been buried in one week since the
@@ -724,10 +691,10 @@ From December 20 to December 27  { St Bride’s     0
       thousand people more than ever it held before; nay, some took
       upon them to say it had twice as many, because all the ruined
       families of the royal party flocked hither. All the old soldiers
-      set up trades here, and abundance of families settled here.
-      Again, the Court brought with them a great flux of pride, and new
-      fashions. All people were grown gay and luxurious, and the joy of
-      the Restoration had brought a vast many families to London.
+set up trades here, and abundance of families settled here.
+Again, the Court brought with them a great flux of pride, and new
+fashions. All people were grown gay and luxurious, and the joy of
+the Restoration had brought a vast many families to London.
 
       I often thought that as Jerusalem was besieged by the Romans when
       the Jews were assembled together to celebrate the Passover—by
@@ -1161,10 +1128,10 @@ From December 20 to December 27  { St Bride’s     0
       with doctors’ bills and papers of ignorant fellows, quacking and
       tampering in physic, and inviting the people to come to them for
       remedies, which was generally set off with such flourishes as
-      these, viz.: ‘Infallible preventive pills against the plague.’
-      ‘Neverfailing preservatives against the infection.’ ‘Sovereign
-      cordials against the corruption of the air.’ ‘Exact regulations
-      for the conduct of the body in case of an infection.’
+these, viz.: ‘Infallible preventive pills against the plague.’
+‘Neverfailing preservatives against the infection.’ ‘Sovereign
+cordials against the corruption of the air.’ ‘Exact regulations
+for the conduct of the body in case of an infection.’
       ‘Anti-pestilential pills.’ ‘Incomparable drink against the
       plague, never found out before.’ ‘An universal remedy for the
       plague.’ ‘The only true plague water.’ ‘The royal antidote
@@ -1194,10 +1161,10 @@ From December 20 to December 27  { St Bride’s     0
       antidotes against all sorts of poison and infection, has, after
       forty years’ practice, arrived to such skill as may, with God’s
       blessing, direct persons how to prevent their being touched by
-      any contagious distemper whatsoever. He directs the poor gratis.’
+any contagious distemper whatsoever. He directs the poor gratis.’
 
-      I take notice of these by way of specimen. I could give you two
-      or three dozen of the like and yet have abundance left behind.
+I take notice of these by way of specimen. I could give you two
+or three dozen of the like and yet have abundance left behind.
       ’Tis sufficient from these to apprise any one of the humour of
       those times, and how a set of thieves and pickpockets not only
       robbed and cheated the poor people of their money, but poisoned
@@ -1358,11 +1325,11 @@ From December 20 to December 27  { St Bride’s     0
       use of the poor and for cheap medicines, it was made public, so
       that everybody might see it, and copies were given gratis to all
       that desired it. But as it is public, and to be seen on all
-      occasions, I need not give the reader of this the trouble of it.
+occasions, I need not give the reader of this the trouble of it.
 
-      I shall not be supposed to lessen the authority or capacity of
-      the physicians when I say that the violence of the distemper,
-      when it came to its extremity, was like the fire the next year.
+I shall not be supposed to lessen the authority or capacity of
+the physicians when I say that the violence of the distemper,
+when it came to its extremity, was like the fire the next year.
       The fire, which consumed what the plague could not touch, defied
       all the application of remedies; the fire-engines were broken,
       the buckets thrown away, and the power of man was baffled and
@@ -1449,8 +1416,8 @@ From December 20 to December 27  { St Bride’s     0
       the latter end of June, and took place from the 1st of July, and
       were as follows, viz.:—
 
-      ORDERS CONCEIVED AND PUBLISHED BY THE LORD MAYOR AND ALDERMEN OF
-      THE CITY OF LONDON CONCERNING THE INFECTION OF THE PLAGUE, 1665.
+ORDERS CONCEIVED AND PUBLISHED BY THE LORD MAYOR AND ALDERMEN OF
+THE CITY OF LONDON CONCERNING THE INFECTION OF THE PLAGUE, 1665.
 
       ‘WHEREAS in the reign of our late Sovereign King James, of happy
       memory, an Act was made for the charitable relief and ordering of
@@ -1546,9 +1513,9 @@ From December 20 to December 27  { St Bride’s     0
       all other cures, and kept only to this disease of the infection,
       it is ordered that every of the said chirurgeons shall have
       twelve-pence a body searched by them, to be paid out of the goods
-      of the party searched, if he be able, or otherwise by the parish.
+of the party searched, if he be able, or otherwise by the parish.
 
-      Nurse-keepers.
+Nurse-keepers.
 
       ‘If any nurse-keeper shall remove herself out of any infected
       house before twenty-eight days after the decease of any person
@@ -1556,9 +1523,9 @@ From December 20 to December 27  { St Bride’s     0
       doth so remove herself shall be shut up until the said
       twenty-eight days be expired.’
 
-      ORDERS CONCERNING INFECTED HOUSES AND PERSONS SICK OF THE PLAGUE.
+ORDERS CONCERNING INFECTED HOUSES AND PERSONS SICK OF THE PLAGUE.
 
-      Notice to be given of the Sickness.
+Notice to be given of the Sickness.
 
       ‘The master of every house, as soon as any one in his house
       complaineth, either of blotch or purple, or swelling in any part
@@ -1591,7 +1558,7 @@ From December 20 to December 27  { St Bride’s     0
       being not allowed, the house wherein he inhabiteth shall be shut
       up for certain days by the examiner’s direction.
 
-      None to be removed out of infected Houses, but, &C.
+None to be removed out of infected Houses, but, &C.
 
       ‘Item, that none be removed out of the house where he falleth
       sick of the infection into any other house in the city (except it
@@ -1608,9 +1575,9 @@ From December 20 to December 27  { St Bride’s     0
       he send away first his sound, he not after send thither his sick,
       nor again unto the sick the sound; and that the same which he
       sendeth be for one week at the least shut up and secluded from
-      company, for fear of some infection at the first not appearing.
+company, for fear of some infection at the first not appearing.
 
-      Burial of the Dead.
+Burial of the Dead.
 
       ‘That the burial of the dead by this visitation be at most
       convenient hours, always either before sun-rising or after
@@ -1627,9 +1594,9 @@ From December 20 to December 27  { St Bride’s     0
       feet deep.
 
       ‘And further, all public assemblies at other burials are to be
-      foreborne during the continuance of this visitation.
+foreborne during the continuance of this visitation.
 
-      No infected Stuff to be uttered.
+No infected Stuff to be uttered.
 
       ‘That no clothes, stuff, bedding, or garments be suffered to be
       carried or conveyed out of any infected houses, and that the
@@ -1644,7 +1611,7 @@ From December 20 to December 27  { St Bride’s     0
       there, his house shall be shut up as infected, and so shall
       continue shut up twenty days at the least.
 
-      No Person to be conveyed out of any infected House.
+No Person to be conveyed out of any infected House.
 
       ‘If any person visited do fortune, by negligent looking unto, or
       by any other means, to come or be conveyed from a place infected
@@ -1688,37 +1655,37 @@ From December 20 to December 27  { St Bride’s     0
       or family of such house shall be suffered to remove him or
       themselves without a certificate from the examiners of health of
       that parish; or in default thereof, the house whither he or they
-      so remove shall be shut up as in case of visitation.
+so remove shall be shut up as in case of visitation.
 
-      Hackney-Coaches.
+Hackney-Coaches.
 
       ‘That care be taken of hackney-coachmen, that they may not (as
       some of them have been observed to do after carrying of infected
       persons to the pest-house and other places) be admitted to common
       use till their coaches be well aired, and have stood unemployed
-      by the space of five or six days after such service.’
+by the space of five or six days after such service.’
 
-      ORDERS FOR CLEANSING AND KEEPING OF THE STREETS SWEPT.
+ORDERS FOR CLEANSING AND KEEPING OF THE STREETS SWEPT.
 
-      The Streets to be kept Clean.
+The Streets to be kept Clean.
 
-      ‘First, it is thought necessary, and so ordered, that every
-      householder do cause the street to be daily prepared before his
-      door, and so to keep it clean swept all the week long.
+‘First, it is thought necessary, and so ordered, that every
+householder do cause the street to be daily prepared before his
+door, and so to keep it clean swept all the week long.
 
-      That Rakers take it from out the Houses.
+That Rakers take it from out the Houses.
 
-      ‘That the sweeping and filth of houses be daily carried away by
-      the rakers, and that the raker shall give notice of his coming by
-      the blowing of a horn, as hitherto hath been done.
+‘That the sweeping and filth of houses be daily carried away by
+the rakers, and that the raker shall give notice of his coming by
+the blowing of a horn, as hitherto hath been done.
 
-      Laystalls to be made far off from the City.
+Laystalls to be made far off from the City.
 
-      ‘That the laystalls be removed as far as may be out of the city
-      and common passages, and that no nightman or other be suffered to
-      empty a vault into any garden near about the city.
+‘That the laystalls be removed as far as may be out of the city
+and common passages, and that no nightman or other be suffered to
+empty a vault into any garden near about the city.
 
-      Care to be had of unwholesome Fish or Flesh, and of musty Corn.
+Care to be had of unwholesome Fish or Flesh, and of musty Corn.
 
       ‘That special care be taken that no stinking fish, or unwholesome
       flesh, or musty corn, or other corrupt fruits of what sort
@@ -1733,11 +1700,11 @@ From December 20 to December 27  { St Bride’s     0
       be or stray in the streets or lanes, but that such swine be
       impounded by the beadle or any other officer, and the owner
       punished according to Act of Common Council, and that the dogs be
-      killed by the dog-killers appointed for that purpose.’
+killed by the dog-killers appointed for that purpose.’
 
-      ORDERS CONCERNING LOOSE PERSONS AND IDLE ASSEMBLIES.
+ORDERS CONCERNING LOOSE PERSONS AND IDLE ASSEMBLIES.
 
-      Beggars.
+Beggars.
 
       ‘Forasmuch as nothing is more complained of than the multitude of
       rogues and wandering beggars that swarm in every place about the
@@ -1806,17 +1773,17 @@ From December 20 to December 27  { St Bride’s     0
       least, nor begin to be very violent, till the beginning of
       August. For example, the whole bill from the 11th to the 18th of
       July was 1761, yet there died but 71 of the plague in all those
-      parishes we call the Tower Hamlets, and they were as follows:—
+parishes we call the Tower Hamlets, and they were as follows:—
 
 -                           The next week   And to the 1st
-     -                             was thus:     of Aug. thus:
-     Aldgate               14          34               65
-     Stepney               33          58               76
-     Whitechappel          21          48               79
-     St Katherine, Tower    2           4                4
-     Trinity, Minories      1           1                4
-     -                    —-         —-              —-
-     -                     71         145              228
+-                             was thus:     of Aug. thus:
+Aldgate               14          34               65
+Stepney               33          58               76
+Whitechappel          21          48               79
+St Katherine, Tower    2           4                4
+Trinity, Minories      1           1                4
+-                    —-         —-              —-
+-                     71         145              228
 
       It was indeed coming on amain, for the burials that same week
       were in the next adjoining parishes thus:—
@@ -1824,11 +1791,11 @@ From December 20 to December 27  { St Bride’s     0
 -                                The next week
      -                                prodigiously    To the 1st of
      -                                increased, as:   Aug. thus:
-     St Leonard’s, Shoreditch      64       84          110
-     St Botolph’s, Bishopsgate     65      105          116
-     St Giles’s, Cripplegate      213      421          554
-     -                            —-      —-          —-
-     -                            342      610          780
+St Leonard’s, Shoreditch      64       84          110
+St Botolph’s, Bishopsgate     65      105          116
+St Giles’s, Cripplegate      213      421          554
+-                            —-      —-          —-
+-                            342      610          780
 
       This shutting up of houses was at first counted a very cruel and
       unchristian method, and the poor people so confined made bitter
@@ -1972,10 +1939,10 @@ From December 20 to December 27  { St Bride’s     0
       this, the maid must perish either of the distemper or be starved
       for want of food, for he was resolved none of his family should
       go near her; and she lay in the garret four storey high, where
-      she could not cry out, or call to anybody for help.
+she could not cry out, or call to anybody for help.
 
-      The watchman consented to that, and went and fetched a nurse, as
-      he was appointed, and brought her to them the same evening.
+The watchman consented to that, and went and fetched a nurse, as
+he was appointed, and brought her to them the same evening.
       During this interval the master of the house took his opportunity
       to break a large hole through his shop into a bulk or stall,
       where formerly a cobbler had sat, before or under his
@@ -2254,10 +2221,10 @@ From December 20 to December 27  { St Bride’s     0
       desolation should happen here; and if there may be no such
       occasion, which God of His infinite mercy grant us, still the
       story may have its uses so many ways as that it will, I hope,
-      never be said that the relating has been unprofitable.
+never be said that the relating has been unprofitable.
 
-      I say all this previous to the history, having yet, for the
-      present, much more to say before I quit my own part.
+I say all this previous to the history, having yet, for the
+present, much more to say before I quit my own part.
 
       I went all the first part of the time freely about the streets,
       though not so freely as to run myself into apparent danger,
@@ -2922,10 +2889,10 @@ From December 20 to December 27  { St Bride’s     0
       such loud and lamentable cries were to be heard as we walked
       along the streets that would pierce the very heart to think of,
       especially when it was to be considered that the same dreadful
-      scourge might be expected every moment to seize upon ourselves.
+scourge might be expected every moment to seize upon ourselves.
 
-      I cannot say but that now I began to faint in my resolutions; my
-      heart failed me very much, and sorely I repented of my rashness.
+I cannot say but that now I began to faint in my resolutions; my
+heart failed me very much, and sorely I repented of my rashness.
       When I had been out, and met with such terrible things as these I
       have talked of, I say I repented my rashness in venturing to
       abide in town. I wished often that I had not taken upon me to
@@ -3492,9 +3459,9 @@ From December 20 to December 27  { St Bride’s     0
       that attended about the work; but after some pause John Hayward,
       recovering himself, said, ‘Lord, bless us! There’s somebody in
       the cart not quite dead!’ So another called to him and said, ‘Who
-      are you?’ The fellow answered, ‘I am the poor piper. Where am I?’
-      ‘Where are you?’ says Hayward. ‘Why, you are in the dead-cart,
-      and we are going to bury you.’ ‘But I an’t dead though, am I?’
+are you?’ The fellow answered, ‘I am the poor piper. Where am I?’
+‘Where are you?’ says Hayward. ‘Why, you are in the dead-cart,
+and we are going to bury you.’ ‘But I an’t dead though, am I?’
       says the piper, which made them laugh a little though, as John
       said, they were heartily frighted at first; so they helped the
       poor fellow down, and he went about his business.
@@ -3565,8 +3532,8 @@ From December 20 to December 27  { St Bride’s     0
       inhabitants of the Southwark side of the water; one quarter to
       the liberty and parts within of the city, exclusive of the city
       within the walls; and one-fourth part to the suburbs in the
-      county of Middlesex, and the east and north parts of the city.
-      But this latter I only speak of as a report.
+county of Middlesex, and the east and north parts of the city.
+But this latter I only speak of as a report.
 
       Certain it is, the greatest part of the poor or families who
       formerly lived by their labour, or by retail trade, lived now on
@@ -3761,21 +3728,21 @@ From December 20 to December 27  { St Bride’s     0
       carried the dead, that in some places no account at all was kept,
       but they worked on, the clerks and sextons not attending for
       weeks together, and not knowing what number they carried. This
-      account is verified by the following bills of mortality:—
+account is verified by the following bills of mortality:—
 
- -                        Of all of the
-     -                        Diseases.      Plague
-     From August   8    to August 15          5319          3880
-     ”     ”      15         ”    22          5568          4237
-     ”     ”      22         ”    29          7496          6102
-     ”     ”      29 to September  5          8252          6988
-     ”  September  5         ”    12          7690          6544
-     ”     ”      12         ”    19          8297          7165
-     ”     ”      19         ”    26          6460          5533
-     ”     ”      26 to October    3          5720          4979
-     ”   October   3         ”    10          5068          4327
-     -                                       ——-         ——-
-     -                                      59,870        49,705
+-                        Of all of the
+-                        Diseases.      Plague
+From August   8    to August 15          5319          3880
+”     ”      15         ”    22          5568          4237
+”     ”      22         ”    29          7496          6102
+”     ”      29 to September  5          8252          6988
+”  September  5         ”    12          7690          6544
+”     ”      12         ”    19          8297          7165
+”     ”      19         ”    26          6460          5533
+”     ”      26 to October    3          5720          4979
+”   October   3         ”    10          5068          4327
+-                                       ——-         ——-
+-                                      59,870        49,705
 
       So that the gross of the people were carried off in these two
       months; for, as the whole number which was brought in to die of
@@ -4093,11 +4060,11 @@ From December 20 to December 27  { St Bride’s     0
       fetch it.’
 
       ‘Well, friend,’ says I, ‘but how can you get any money as a
-      waterman? Does any body go by water these times?’ ‘Yes, sir,’
-      says he, ‘in the way I am employed there does. Do you see there,’
-      says he, ‘five ships lie at anchor’ (pointing down the river a
-      good way below the town), ‘and do you see’, says he, ‘eight or
-      ten ships lie at the chain there, and at anchor yonder?’
+waterman? Does any body go by water these times?’ ‘Yes, sir,’
+says he, ‘in the way I am employed there does. Do you see there,’
+says he, ‘five ships lie at anchor’ (pointing down the river a
+good way below the town), ‘and do you see’, says he, ‘eight or
+ten ships lie at the chain there, and at anchor yonder?’
       (pointing above the town). ‘All those ships have families on
       board, of their merchants and owners, and such-like, who have
       locked themselves up and live on board, close shut in, for fear
@@ -4134,20 +4101,20 @@ From December 20 to December 27  { St Bride’s     0
       only to call on my wife and hear how my family do, and give them
       a little money, which I received last night.’
 
-      ‘Poor man!’ said I; ‘and how much hast thou gotten for them?’
+‘Poor man!’ said I; ‘and how much hast thou gotten for them?’
 
-      ‘I have gotten four shillings,’ said he, ‘which is a great sum,
-      as things go now with poor men; but they have given me a bag of
-      bread too, and a salt fish and some flesh; so all helps out.’
-      ‘Well,’ said I, ‘and have you given it them yet?’
+‘I have gotten four shillings,’ said he, ‘which is a great sum,
+as things go now with poor men; but they have given me a bag of
+bread too, and a salt fish and some flesh; so all helps out.’
+‘Well,’ said I, ‘and have you given it them yet?’
 
       ‘No,’ said he; ‘but I have called, and my wife has answered that
       she cannot come out yet, but in half-an-hour she hopes to come,
       and I am waiting for her. Poor woman!’ says he, ‘she is brought
       sadly down. She has a swelling, and it is broke, and I hope she
-      will recover; but I fear the child will die, but it is the Lord—’
+will recover; but I fear the child will die, but it is the Lord—’
 
-      Here he stopped, and wept very much.
+Here he stopped, and wept very much.
 
       ‘Well, honest friend,’ said I, ‘thou hast a sure Comforter, if
       thou hast brought thyself to be resigned to the will of God; He
@@ -4162,10 +4129,10 @@ From December 20 to December 27  { St Bride’s     0
       than mine; that he had nowhere to fly; that he had a family to
       bind him to attendance, which I had not; and mine was mere
       presumption, his a true dependence and a courage resting on God;
-      and yet that he used all possible caution for his safety.
+and yet that he used all possible caution for his safety.
 
-      I turned a little way from the man while these thoughts engaged
-      me, for, indeed, I could no more refrain from tears than he.
+I turned a little way from the man while these thoughts engaged
+me, for, indeed, I could no more refrain from tears than he.
 
       At length, after some further talk, the poor woman opened the
       door and called, ‘Robert, Robert’. He answered, and bid her stay
@@ -4188,9 +4155,9 @@ From December 20 to December 27  { St Bride’s     0
 
       ‘Yes, yes,’ says he; ‘you shall hear her own it.’ So he calls
       again, ‘Rachel, Rachel,’ which it seems was her name, ‘did you
-      take up the money?’ ‘Yes,’ said she. ‘How much was it?’ said he.
-      ‘Four shillings and a groat,’ said she. ‘Well, well,’ says he,
-      ‘the Lord keep you all’; and so he turned to go away.
+take up the money?’ ‘Yes,’ said she. ‘How much was it?’ said he.
+‘Four shillings and a groat,’ said she. ‘Well, well,’ says he,
+‘the Lord keep you all’; and so he turned to go away.
 
       As I could not refrain contributing tears to this man’s story, so
       neither could I refrain my charity for his assistance. So I
@@ -4319,10 +4286,10 @@ From December 20 to December 27  { St Bride’s     0
       there died above 3000 a week, yet had the people in Redriff, and
       in Wapping and Ratcliff, on both sides of the river, and almost
       all Southwark side, a mighty fancy that they should not be
-      visited, or at least that it would not be so violent among them.
-      Some people fancied the smell of the pitch and tar, and such
-      other things as oil and rosin and brimstone, which is so much
-      used by all trades relating to shipping, would preserve them.
+visited, or at least that it would not be so violent among them.
+Some people fancied the smell of the pitch and tar, and such
+other things as oil and rosin and brimstone, which is so much
+used by all trades relating to shipping, would preserve them.
       Others argued it, because it was in its extreamest violence in
       Westminster and the parish of St Giles and St Andrew, &c., and
       began to abate again before it came among them—which was true
@@ -4454,42 +4421,42 @@ From December 20 to December 27  { St Bride’s     0
       has died of the plague, and the infant, it may be, half born, or
       born but not parted from the mother. Some died in the very pains
       of their travail, and not delivered at all; and so many were the
-      cases of this kind that it is hard to judge of them.
+cases of this kind that it is hard to judge of them.
 
-      Something of it will appear in the unusual numbers which are put
-      into the weekly bills (though I am far from allowing them to be
-      able to give anything of a full account) under the articles of—
+Something of it will appear in the unusual numbers which are put
+into the weekly bills (though I am far from allowing them to be
+able to give anything of a full account) under the articles of—
 
-     Child-bed. Abortive and Still-born. Chrisoms and Infants.
+Child-bed. Abortive and Still-born. Chrisoms and Infants.
 
       Take the weeks in which the plague was most violent, and compare
       them with the weeks before the distemper began, even in the same
       year. For example:—
 
 Child-bed. Abortive.  Still-born.
-     From January 3 to January  10     7        1           13
-     ”     ”   10       ”       17     8        6           11
-     ”     ”   17       ”       24     9        5           15
-     ”     ”   24       ”       31     3        2            9
-     ”     ”   31 to February    7     3        3            8
-     ” February 7        ”      14     6        2           11
-     ”     ”   14       ”       21     5        2           13
-     ”     ”   21       ”       28     2        2           10
-     ”     ”   28 to March       7     5        1           10
-     -                               —-      —-         ——
-     -                                48       24          100
+From January 3 to January  10     7        1           13
+”     ”   10       ”       17     8        6           11
+”     ”   17       ”       24     9        5           15
+”     ”   24       ”       31     3        2            9
+”     ”   31 to February    7     3        3            8
+” February 7        ”      14     6        2           11
+”     ”   14       ”       21     5        2           13
+”     ”   21       ”       28     2        2           10
+”     ”   28 to March       7     5        1           10
+-                               —-      —-         ——
+-                                48       24          100
 
-     From August  1 to August    8    25        5           11
-     ”     ”    8       ”       15    23        6            8
-     ”     ”   15       ”       22    28        4            4
-     ”     ”   22       ”       29    40        6           10
-     ”     ”   29 to September   5    38        2           11
-     September  5       ”       12    39       23          ...
-     ”     ”   12       ”       19    42        5           17
-     ”     ”   19       ”       26    42        6           10
-     ”     ”   26 to October     3    14        4            9
-     -                               —-       —          —-
-     -                               291       61           80
+From August  1 to August    8    25        5           11
+”     ”    8       ”       15    23        6            8
+”     ”   15       ”       22    28        4            4
+”     ”   22       ”       29    40        6           10
+”     ”   29 to September   5    38        2           11
+September  5       ”       12    39       23          ...
+”     ”   12       ”       19    42        5           17
+”     ”   19       ”       26    42        6           10
+”     ”   26 to October     3    14        4            9
+-                               —-       —          —-
+-                               291       61           80
 
       To the disparity of these numbers it is to be considered and
       allowed for, that according to our usual opinion who were then
@@ -4500,10 +4467,10 @@ Child-bed. Abortive.  Still-born.
       year before, was thus:—
 
       1664.                               1665.
-     Child-bed                   189     Child-bed                   625
-     Abortive and still-born     458     Abortive and still-born     617
-     -                          ——                                ——
-     -                           647                                1242
+Child-bed                   189     Child-bed                   625
+Abortive and still-born     458     Abortive and still-born     617
+-                          ——                                ——
+-                           647                                1242
 
 
       This inequality, I say, is exceedingly augmented when the numbers
@@ -5028,8 +4995,8 @@ Child-bed. Abortive.  Still-born.
       directly to the barn, when one of our travellers challenged, like
       soldiers upon the guard, with ‘Who comes there?’ The people did
       not answer immediately, but one of them speaking to another that
-      was behind him, ‘Alas! alas! we are all disappointed,’ says he.
-      ‘Here are some people before us; the barn is taken up.’
+was behind him, ‘Alas! alas! we are all disappointed,’ says he.
+‘Here are some people before us; the barn is taken up.’
 
       They all stopped upon that, as under some surprise, and it seems
       there was about thirteen of them in all, and some women among
@@ -5257,13 +5224,10 @@ Child-bed. Abortive.  Still-born.
       [1] It seems John was in the tent, but hearing them call, he
       steps out, and taking the gun upon his shoulder, talked to them
       as if he had been the sentinel placed there upon the guard by
-      some officer that was his superior. [Footnote in the original.]
+some officer that was his superior. [Footnote in the original.]
 
 
-
-
-
-      ‘Why, what do you intend to do?’ says the constable. ‘To do,’
+‘Why, what do you intend to do?’ says the constable. ‘To do,’
       says John; ‘what would you have us to do?’ Constable. Why don’t
       you be gone? What do you stay there for?
 
@@ -5290,13 +5254,13 @@ Child-bed. Abortive.  Still-born.
       you from that.
 
       John. No; it is a stronger enemy than you that keeps us from
-      doing that, or else we should not have come hither.
+doing that, or else we should not have come hither.
 
-      Constable. Well, you may go any other way, then.
+Constable. Well, you may go any other way, then.
 
-      John. No, no; I suppose you see we are able to send you going,
-      and all the people of your parish, and come through your town
-      when we will; but since you have stopped us here, we are content.
+John. No, no; I suppose you see we are able to send you going,
+and all the people of your parish, and come through your town
+when we will; but since you have stopped us here, we are content.
       You see we have encamped here, and here we will live. We hope you
       will furnish us with victuals.
 
@@ -5305,7 +5269,7 @@ Child-bed. Abortive.  Still-born.
       John. Why, you would not have us starve, would you? If you stop
       us here, you must keep us.
 
-      Constable. You will be ill kept at our maintenance.
+Constable. You will be ill kept at our maintenance.
 
       John. If you stint us, we shall make ourselves the better
       allowance.
@@ -5362,11 +5326,11 @@ Child-bed. Abortive.  Still-born.
       the ways against us.
 
       Constable. If they all furnish you with food, what will you be
-      the worse? I see you have tents; you want no lodging.
+the worse? I see you have tents; you want no lodging.
 
-      John. Well, what quantity of provisions will you send us?
+John. Well, what quantity of provisions will you send us?
 
-      Constable. How many are you?
+Constable. How many are you?
 
       John. Nay, we do not ask enough for all our company; we are in
       three companies. If you will send us bread for twenty men and
@@ -5940,20 +5904,20 @@ Child-bed. Abortive.  Still-born.
       them. I have heard the accounts of several, such as they were
       reckoned up, as follows:—
 
-     In Enfield           32          In Uxbridge        117
-     ”  Hornsey           58               ”  Hertford    90
-     ”  Newington         17          ”  Ware            160
-     ”  Tottenham         42          ”  Hodsdon          30
-     ”  Edmonton          19          ”  Waltham Abbey    23
-     ”  Barnet and Hadly  19          ”  Epping           26
-     ”  St Albans        121          ”  Deptford        623
-     ”  Watford           45          ”  Greenwich       231
-     ”  Eltham and Lusum  85          ”  Kingston        122
-     ”  Croydon           61          ”  Stanes           82
-     ”  Brentwood         70          ”  Chertsey         18
-     ”  Rumford          109          ”  Windsor         103
-     ”  Barking Abbot    200
-     ”  Brentford        432                       Cum aliis.
+In Enfield           32          In Uxbridge        117
+”  Hornsey           58               ”  Hertford    90
+”  Newington         17          ”  Ware            160
+”  Tottenham         42          ”  Hodsdon          30
+”  Edmonton          19          ”  Waltham Abbey    23
+”  Barnet and Hadly  19          ”  Epping           26
+”  St Albans        121          ”  Deptford        623
+”  Watford           45          ”  Greenwich       231
+”  Eltham and Lusum  85          ”  Kingston        122
+”  Croydon           61          ”  Stanes           82
+”  Brentwood         70          ”  Chertsey         18
+”  Rumford          109          ”  Windsor         103
+”  Barking Abbot    200
+”  Brentford        432                       Cum aliis.
 
       Another thing might render the country more strict with respect
       to the citizens, and especially with respect to the poor, and
@@ -6902,13 +6866,13 @@ Child-bed. Abortive.  Still-born.
       September, being but five weeks. The particulars of the bills are
       as follows, viz.:—
 
-     From August the   22nd to the 29th             7496
-     ”     ”           29th     ”    5th September  8252
-     ”    September the 5th     ”   12th            7690
-     ”     ”           12th     ”   19th            8297
-     ”     ”           19th     ”   26th            6460
-                                                    ————
-                                                  38,195
+From August the   22nd to the 29th             7496
+”     ”           29th     ”    5th September  8252
+”    September the 5th     ”   12th            7690
+”     ”           12th     ”   19th            8297
+”     ”           19th     ”   26th            6460
+————
+38,195
 
       This was a prodigious number of itself, but if I should add the
       reasons which I have to believe that this account was deficient,
@@ -6949,10 +6913,10 @@ Child-bed. Abortive.  Still-born.
       The vigilance of the magistrates was now put to the utmost
       trial—and, it must be confessed, can never be enough acknowledged
       on this occasion also; whatever expense or trouble they were at,
-      two things were never neglected in the city or suburbs either:—
+two things were never neglected in the city or suburbs either:—
 
-      (1) Provisions were always to be had in full plenty, and the
-      price not much raised neither, hardly worth speaking.
+(1) Provisions were always to be had in full plenty, and the
+price not much raised neither, hardly worth speaking.
 
       (2) No dead bodies lay unburied or uncovered; and if one walked
       from one end of the city to another, no funeral or sign of it was
@@ -7201,20 +7165,20 @@ Child-bed. Abortive.  Still-born.
       Even when the north and north-west suburbs were fully infected,
       viz., Cripplegate, Clarkenwell, Bishopsgate, and Shoreditch, yet
       still all the rest were tolerably well. For example from 25th
-      July to 1st August the bill stood thus of all diseases:—
+July to 1st August the bill stood thus of all diseases:—
 
-     St Giles, Cripplegate                              554
-     St Sepulchers                                      250
-     Clarkenwell                                        103
-     Bishopsgate                                        116
-     Shoreditch                                         110
-     Stepney parish                                     127
-     Aldgate                                             92
-     Whitechappel                                       104
-     All the ninety-seven parishes within the walls     228
-     All the parishes in Southwark                      205
-     -                                                ——-
-     -    Total                                        1889
+St Giles, Cripplegate                              554
+St Sepulchers                                      250
+Clarkenwell                                        103
+Bishopsgate                                        116
+Shoreditch                                         110
+Stepney parish                                     127
+Aldgate                                             92
+Whitechappel                                       104
+All the ninety-seven parishes within the walls     228
+All the parishes in Southwark                      205
+-                                                ——-
+-    Total                                        1889
 
       So that, in short, there died more that week in the two parishes
       of Cripplegate and St Sepulcher by forty-eight than in all the
@@ -7252,18 +7216,18 @@ Child-bed. Abortive.  Still-born.
       the west and north side of the city, stands thus—
 
 From the 12th of September to the 19th—
-     -    St Giles, Cripplegate                            456
-     -    St Giles-in-the-Fields                           140
-     -    Clarkenwell                                       77
-     -    St Sepulcher                                     214
-     -    St Leonard, Shoreditch                           183
-     -    Stepney parish                                   716
-     -    Aldgate                                          623
-     -    Whitechappel                                     532
-     -    In the ninety-seven parishes within the walls   1493
-     -    In the eight parishes on Southwark side         1636
-     -                                                    ————
-     -         Total                                      6060
+-    St Giles, Cripplegate                            456
+-    St Giles-in-the-Fields                           140
+-    Clarkenwell                                       77
+-    St Sepulcher                                     214
+-    St Leonard, Shoreditch                           183
+-    Stepney parish                                   716
+-    Aldgate                                          623
+-    Whitechappel                                     532
+-    In the ninety-seven parishes within the walls   1493
+-    In the eight parishes on Southwark side         1636
+-                                                    ————
+-         Total                                      6060
 
       Here is a strange change of things indeed, and a sad change it
       was; and had it held for two months more than it did, very few
@@ -7276,32 +7240,32 @@ From the 12th of September to the 19th—
       other part of the town. For example:—
 
 From the 19th of September to the 26th—
-     -    St Giles, Cripplegate                           277
-     -    St Giles-in-the-Fields                          119
-     -    Clarkenwell                                      76
-     -    St Sepulchers                                   193
-     -    St Leonard, Shoreditch                          146
-     -    Stepney parish                                  616
-     -    Aldgate                                         496
-     -    Whitechappel                                    346
-     -    In the ninety-seven parishes within the walls  1268
-     -    In the eight parishes on Southwark side        1390
-     -                                                   ————
-     -              Total                                4927
+-    St Giles, Cripplegate                           277
+-    St Giles-in-the-Fields                          119
+-    Clarkenwell                                      76
+-    St Sepulchers                                   193
+-    St Leonard, Shoreditch                          146
+-    Stepney parish                                  616
+-    Aldgate                                         496
+-    Whitechappel                                    346
+-    In the ninety-seven parishes within the walls  1268
+-    In the eight parishes on Southwark side        1390
+-                                                   ————
+-              Total                                4927
 
-     From the 26th of September to the 3rd of October—
-     -    St Giles, Cripplegate                           196
-     -    St Giles-in-the-Fields                           95
-     -    Clarkenwell                                      48
-     -    St Sepulchers                                   137
-     -    St Leonard, Shoreditch                          128
-     -    Stepney parish                                  674
-     -    Aldgate                                         372
-     -    Whitechappel                                    328
-     -    In the ninety-seven parishes within the walls  1149
-     -    In the eight parishes on Southwark side        1201
-     -                                                   ————
-     -    Total                                          4382
+From the 26th of September to the 3rd of October—
+-    St Giles, Cripplegate                           196
+-    St Giles-in-the-Fields                           95
+-    Clarkenwell                                      48
+-    St Sepulchers                                   137
+-    St Leonard, Shoreditch                          128
+-    Stepney parish                                  674
+-    Aldgate                                         372
+-    Whitechappel                                    328
+-    In the ninety-seven parishes within the walls  1149
+-    In the eight parishes on Southwark side        1201
+-                                                   ————
+-    Total                                          4382
 
       And now the misery of the city and of the said east and south
       parts was complete indeed; for, as you see, the weight of the
@@ -7813,11 +7777,11 @@ From the 19th of September to the 26th—
       Some have proposed that such persons should breathe hard upon
       warm water, and that they would leave an unusual scum upon it, or
       upon several other things, especially such as are of a glutinous
-      substance and are apt to receive a scum and support it.
+substance and are apt to receive a scum and support it.
 
-      But from the whole I found that the nature of this contagion was
-      such that it was impossible to discover it at all, or to prevent
-      its spreading from one to another by any human skill.
+But from the whole I found that the nature of this contagion was
+such that it was impossible to discover it at all, or to prevent
+its spreading from one to another by any human skill.
 
       Here was indeed one difficulty which I could never thoroughly get
       over to this time, and which there is but one way of answering
@@ -7887,33 +7851,33 @@ From the 19th of September to the 26th—
       example:—
 
      Dead of other diseases beside the plague—
-          From the 18th July  to  the 25th                     942
-          ”        25th July       ”  1st August              1004
-          ”         1st August     ”  8th                     1213
-          ”         8th            ” 15th                     1439
-          ”        15th            ” 22nd                     1331
-          ”        22nd            ” 29th                     1394
-          ”        29th            ”  5th September           1264
-          ”         5th September to the 12th                 1056
-          ”        12th            ” 19th                     1132
-          ”        19th            ” 26th                      927
+From the 18th July  to  the 25th                     942
+”        25th July       ”  1st August              1004
+”         1st August     ”  8th                     1213
+”         8th            ” 15th                     1439
+”        15th            ” 22nd                     1331
+”        22nd            ” 29th                     1394
+”        29th            ”  5th September           1264
+”         5th September to the 12th                 1056
+”        12th            ” 19th                     1132
+”        19th            ” 26th                      927
 
       Now it was not doubted but the greatest part of these, or a great
       part of them, were dead of the plague, but the officers were
       prevailed with to return them as above, and the numbers of some
-      particular articles of distempers discovered is as follows:—
+particular articles of distempers discovered is as follows:—
 
-      Aug.    Aug.    Aug.    Aug.    Aug.    Sept.  Sept.   Sept.
-                1       8       15      22     29        5     12      19
-               to 8   to 15   to 22   to 29 to Sept.5  to 12  to 19   to 26
+Aug.    Aug.    Aug.    Aug.    Aug.    Sept.  Sept.   Sept.
+1       8       15      22     29        5     12      19
+to 8   to 15   to 22   to 29 to Sept.5  to 12  to 19   to 26
 
-     Fever     314     353     348     383     364     332     309     268
-     Spotted   174     190     166     165     157      97     101      65
-     Fever
-     Surfeit    85      87      74      99      68      45      49      36
-     Teeth      90     113     111     133     138     128     121     112
-                ——      ——      ——      ——      ——      ——      ——      ——
-               663     743     699     780     727     602     580     481
+Fever     314     353     348     383     364     332     309     268
+Spotted   174     190     166     165     157      97     101      65
+Fever
+Surfeit    85      87      74      99      68      45      49      36
+Teeth      90     113     111     133     138     128     121     112
+——      ——      ——      ——      ——      ——      ——      ——
+663     743     699     780     727     602     580     481
 
       There were several other articles which bore a proportion to
       these, and which, it is easy to perceive, were increased on the
@@ -8164,11 +8128,11 @@ From the 19th of September to the 26th—
       quite another sort of people; and I cannot but acknowledge that
       there was too much of that common temper of mankind to be found
       among us all at that time, namely, to forget the deliverance when
-      the danger is past. But I shall come to speak of that part again.
+the danger is past. But I shall come to speak of that part again.
 
-      It must not be forgot here to take some notice of the state of
-      trade during the time of this common calamity, and this with
-      respect to foreign trade, as also to our home trade.
+It must not be forgot here to take some notice of the state of
+trade during the time of this common calamity, and this with
+respect to foreign trade, as also to our home trade.
 
       As to foreign trade, there needs little to be said. The trading
       nations of Europe were all afraid of us; no port of France, or
@@ -8224,10 +8188,10 @@ From the 19th of September to the 26th—
       I heard likewise that the plague was carried into those countries
       by some of our ships, and particularly to the port of Faro in the
       kingdom of Algarve, belonging to the King of Portugal, and that
-      several persons died of it there; but it was not confirmed.
+several persons died of it there; but it was not confirmed.
 
-      On the other hand, though the Spaniards and Portuguese were so
-      shy of us, it is most certain that the plague (as has been said)
+On the other hand, though the Spaniards and Portuguese were so
+shy of us, it is most certain that the plague (as has been said)
       keeping at first much at that end of the town next Westminster,
       the merchandising part of the town (such as the city and the
       water-side) was perfectly sound till at least the beginning of
@@ -8345,18 +8309,10 @@ From the 19th of September to the 26th—
       river Medway, where several of them ran in; and others lay at the
       Nore, and in the Hope below Gravesend. So that by the latter end
       of October there was a very great fleet of homeward-bound ships
-      to come up, such as the like had not been known for many years.
+to come up, such as the like had not been known for many years.
 
 
-
-
- [5] That part of the river where the ships lie up when they come home
- is called the Pool, and takes in all the river on both sides of the
- water, from the Tower to Cuckold’s Point and Limehouse. [Footnote in
- the original.]
-
-
-
+[5] That part of the river where the ships lie up when they come home is called the Pool, and takes in all the river on both sides of the water, from the Tower to Cuckold’s Point and Limehouse. [Footnote in the original.]
 
 
       Two particular trades were carried on by water-carriage all the
@@ -8473,10 +8429,10 @@ From the 19th of September to the 26th—
       enemies I do not remember, but the price of coals was exceeding
       dear, even as high as 4 l. a chalder; but it soon abated when the
       ships came in, and as afterwards they had a freer passage, the
-      price was very reasonable all the rest of that year.
+price was very reasonable all the rest of that year.
 
-      The public fires which were made on these occasions, as I have
-      calculated it, must necessarily have cost the city about 200
+The public fires which were made on these occasions, as I have
+calculated it, must necessarily have cost the city about 200
       chalders of coals a week, if they had continued, which was indeed
       a very great quantity; but as it was thought necessary, nothing
       was spared. However, as some of the physicians cried them down,
@@ -8489,9 +8445,9 @@ From the 19th of September to the 26th—
       Gracechurch; one at the north and one at the south gate of the
       Royal Exchange; one at Guild Hall, and one at Blackwell Hall
       gate; one at the Lord Mayor’s door in St Helen’s, one at the west
-      entrance into St Paul’s, and one at the entrance into Bow Church.
-      I do not remember whether there was any at the city gates, but
-      one at the Bridge-foot there was, just by St Magnus Church.
+entrance into St Paul’s, and one at the entrance into Bow Church.
+I do not remember whether there was any at the city gates, but
+one at the Bridge-foot there was, just by St Magnus Church.
 
       I know some have quarrelled since that at the experiment, and
       said that there died the more people because of those fires; but
@@ -8734,9 +8690,9 @@ From the 19th of September to the 26th—
       without fear or forecast, and began to show themselves in the
       streets as if all the danger was over. It was indeed surprising
       to see it, for though there died still from 1000 to 1800 a week,
-      yet the people flocked to town as if all had been well.
+yet the people flocked to town as if all had been well.
 
-      The consequence of this was, that the bills increased again 400
+The consequence of this was, that the bills increased again 400
       the very first week in November; and if I might believe the
       physicians, there was above 3000 fell sick that week, most of
       them new-comers, too.
@@ -9389,12 +9345,12 @@ From the 19th of September to the 26th—
       It is impossible to express the change that appeared in the very
       countenances of the people that Thursday morning when the weekly
       bill came out. It might have been perceived in their countenances
-      that a secret surprise and smile of joy sat on everybody’s face.
-      They shook one another by the hands in the streets, who would
-      hardly go on the same side of the way with one another before.
-      Where the streets were not too broad they would open their
-      windows and call from one house to another, and ask how they did,
-      and if they had heard the good news that the plague was abated.
+that a secret surprise and smile of joy sat on everybody’s face.
+They shook one another by the hands in the streets, who would
+hardly go on the same side of the way with one another before.
+Where the streets were not too broad they would open their
+windows and call from one house to another, and ask how they did,
+and if they had heard the good news that the plague was abated.
       Some would return, when they said good news, and ask, ‘What good
       news?’ and when they answered that the plague was abated and the
       bills decreased almost two thousand, they would cry out, ‘God be
@@ -9513,354 +9469,5 @@ From the 19th of September to the 26th—
 
      H. F.
 
-[Illustration]
 
 FINIS
-
-
-*** END OF THE PROJECT GUTENBERG EBOOK A JOURNAL OF THE PLAGUE YEAR ***
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the
-United States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away--you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg™ mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full
-Project Gutenberg™ License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg™ electronic works
-
-1.A. By reading or using any part of this Project Gutenberg™
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg™ electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg™ electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. “Project Gutenberg” is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg™ electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg™ electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg™
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation (“the
-Foundation” or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg™ electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg™ mission of promoting
-free access to electronic works by freely sharing Project Gutenberg™
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg™ name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg™ License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg™ work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country other than the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg™ License must appear
-prominently whenever any copy of a Project Gutenberg™ work (any work
-on which the phrase “Project Gutenberg” appears, or with which the
-phrase “Project Gutenberg” is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you will have to check the laws of the country where
-  you are located before using this eBook.
-
-1.E.2. If an individual Project Gutenberg™ electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase “Project
-Gutenberg” associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg™
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg™ electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg™ License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg™.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg™ License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg™ work in a format
-other than “Plain Vanilla ASCII” or other format used in the official
-version posted on the official Project Gutenberg™ website
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original “Plain
-Vanilla ASCII” or other form. Any alternate format must include the
-full Project Gutenberg™ License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg™ works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg™ electronic works
-provided that:
-
-• You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg™ works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg™ trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, “Information about donations to the Project Gutenberg
-  Literary Archive Foundation.”
-
-• You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg™
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg™
-  works.
-
-• You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-• You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg™ works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg™ electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg™ trademark. Contact the Foundation as set
-forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg™ collection. Despite these efforts, Project Gutenberg™
-electronic works, and the medium on which they may be stored, may
-contain “Defects,” such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg™ trademark, and any other party distributing a Project
-Gutenberg™ electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg™ electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg™
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg™ work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg™ work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg™
-
-Project Gutenberg™ is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg™'s
-goals and ensuring that the Project Gutenberg™ collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg™ and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org.
-
-Section 3. Information about the Project Gutenberg Literary
-Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation’s EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation’s business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation’s website
-and official page at www.gutenberg.org/contact.
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg™ depends upon and cannot survive without
-widespread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate.
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate.
-
-Section 5. General Information About Project Gutenberg™ electronic works
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg™ concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg™ eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg™ eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our website which has the main PG search
-facility: www.gutenberg.org.
-
-This website includes information about Project Gutenberg™,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

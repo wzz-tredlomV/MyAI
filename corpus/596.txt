@@ -1,36 +1,3 @@
-The Project Gutenberg EBook of Rivers to the Sea, by Sara Teasdale
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Rivers to the Sea
-
-Author: Sara Teasdale
-
-Posting Date: July 30, 2008 [EBook #596]
-Release Date: July, 1996
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK RIVERS TO THE SEA ***
-
-
-
-
-Produced by Judith Boss
-
-
-
-
-
-
-
-
 RIVERS TO THE SEA
 
 
@@ -39,17 +6,14 @@ BY
 SARA TEASDALE
 
 
-
-
   To
   ERNST
 
 
+CONTENTS
 
-  CONTENTS
 
-
-  PART I
+PART I
 
 
   SPRING NIGHT
@@ -101,7 +65,7 @@ SARA TEASDALE
   A PRAYER
 
 
-  PART II
+PART II
 
   INDIAN SUMMER
   THE SEA WIND
@@ -138,7 +102,7 @@ SARA TEASDALE
   THE ANSWER
 
 
-  PART III
+PART III
 
   OVER THE ROOFS
   A CRY
@@ -149,26 +113,23 @@ SARA TEASDALE
   GIFTS
 
 
-  PART IV
+PART IV
 
   FROM THE SEA
   VIGNETTES OVERSEAS
 
 
-  PART V
+PART V
 
-  SAPPHO
-
-
-
-  ----------------------------------
-
-  I
+SAPPHO
 
 
+----------------------------------
+
+I
 
 
-  SPRING NIGHT
+SPRING NIGHT
 
   THE park is filled with night and fog,
      The veils are drawn about the world,
@@ -199,9 +160,7 @@ SARA TEASDALE
   Why am I crying after love?
 
 
-
-
-  THE FLIGHT
+THE FLIGHT
 
   LOOK back with longing eyes and know that I will follow,
   Lift me up in your love as a light wind lifts a swallow,
@@ -212,12 +171,10 @@ SARA TEASDALE
   Take me far away to the hills that hide your home;
   Peace shall thatch the roof and love shall latch the door--
 
-  BUT WHAT IF I HEARD MY FIRST LOVE CALLING ME ONCE MORE?
+BUT WHAT IF I HEARD MY FIRST LOVE CALLING ME ONCE MORE?
 
 
-
-
-  NEW LOVE AND OLD
+NEW LOVE AND OLD
 
   IN my heart the old love
      Struggled with the new;
@@ -240,8 +197,7 @@ SARA TEASDALE
      Or to you?
 
 
-
-  THE LOOK
+THE LOOK
 
   STREPHON kissed me in the spring,
      Robin in the fall,
@@ -254,9 +210,7 @@ SARA TEASDALE
      Haunts me night and day.
 
 
-
-
-  SPRING
+SPRING
 
   IN Central Park the lovers sit,
      On every hilly path they stroll,
@@ -274,9 +228,7 @@ SARA TEASDALE
      To lose your battle in the end?
 
 
-
-
-  THE LIGHTED WINDOW
+THE LIGHTED WINDOW
 
   HE SAID:
   "In the winter dusk
@@ -309,9 +261,7 @@ SARA TEASDALE
   I left my boyhood."
 
 
-
-
-  THE KISS
+THE KISS
 
   BEFORE YOU kissed me only winds of heaven
      Had kissed me, and the tenderness of rain--
@@ -334,9 +284,7 @@ SARA TEASDALE
         Where a king stood before?
 
 
-
-
-  SWANS
+SWANS
 
   NIGHT is over the park, and a few brave stars
      Look on the lights that link it with chains of gold,
@@ -349,8 +297,7 @@ SARA TEASDALE
      We watch the swans and never a word is said.
 
 
-
-  THE OLD MAID
+THE OLD MAID
 
   I SAW her in a Broadway car,
      The woman I might grow to be;
@@ -373,8 +320,7 @@ SARA TEASDALE
      The woman I shall never be.
 
 
-
-  FROM THE WOOLWORTH TOWER
+FROM THE WOOLWORTH TOWER
 
   VIVID with love, eager for greater beauty
   Out of the night we come
@@ -456,8 +402,7 @@ SARA TEASDALE
   Victors.
 
 
-
-  AT NIGHT
+AT NIGHT
 
   WE are apart; the city grows quiet between us,
      She hushes herself, for midnight makes heavy her eyes,
@@ -467,12 +412,10 @@ SARA TEASDALE
   Oh are you asleep, or lying awake, my lover?
      Open your dreams to my love and your heart to my words,
   I send you my thoughts-the air between us is laden,
-     My thoughts fly in at your window, a flock of wild birds.
+My thoughts fly in at your window, a flock of wild birds.
 
 
-
-
-  THE YEARS
+THE YEARS
 
   TO-NIGHT I close my eyes and see
   A strange procession passing me--
@@ -489,9 +432,7 @@ SARA TEASDALE
   That strove to sing with voices drowned in tears.
 
 
-
-
-  PEACE
+PEACE
 
   PEACE flows into me
        AS the tide to the pool by the shore;
@@ -509,9 +450,7 @@ SARA TEASDALE
   Give me your stars to hold.
 
 
-
-
-  APRIL
+APRIL
 
   THE roofs are shining from the rain,
      The sparrows twitter as they fly,
@@ -524,9 +463,7 @@ SARA TEASDALE
      Save that it sings in me.
 
 
-
-
-  COME
+COME
 
   COME, when the pale moon like a petal
      Floats in the pearly dusk of spring,
@@ -539,9 +476,7 @@ SARA TEASDALE
      Will be as the gray stones in the grass.
 
 
-
-
-  MOODS
+MOODS
 
   I AM the still rain falling,
      Too tired for singing mirth--
@@ -553,8 +488,7 @@ SARA TEASDALE
      Oh, be for me the sky!
 
 
-
-  APRIL SONG
+APRIL SONG
 
   WILLOW in your April gown
      Delicate and gleaming,
@@ -572,9 +506,7 @@ SARA TEASDALE
      Love is near me!
 
 
-
-
-  MAY DAY
+MAY DAY
 
   THE shining line of motors,
      The swaying motor-bus,
@@ -597,9 +529,7 @@ SARA TEASDALE
      Too beautiful to bear.
 
 
-
-
-  CROWNED
+CROWNED
 
   I WEAR a crown invisible and clear,
      And go my lifted royal way apart
@@ -617,9 +547,7 @@ SARA TEASDALE
      And bind my brow forever with a thorn.
 
 
-
-
-  TO A CASTILIAN SONG
+TO A CASTILIAN SONG
 
   WE held the book together timidly,
      Whose antique music in an alien tongue
@@ -637,9 +565,7 @@ SARA TEASDALE
      And not a breath divides my love from me!
 
 
-
-
-  BROADWAY
+BROADWAY
 
   THIS is the quiet hour; the theaters
      Have gathered in their crowds, and steadily
@@ -657,9 +583,7 @@ SARA TEASDALE
         A strain of music thru an open door.
 
 
-
-
-  A WINTER BLUEJAY
+A WINTER BLUEJAY
 
   CRISPLY the bright snow whispered,
   Crunching beneath our feet;
@@ -688,9 +612,7 @@ SARA TEASDALE
   Or set the bounds of beauty?
 
 
-
-
-  IN A RESTAURANT
+IN A RESTAURANT
 
   THE darkened street was muffled with the snow,
      The falling flakes had made your shoulders white,
@@ -708,9 +630,7 @@ SARA TEASDALE
         And once more on your shoulders fell the snow.
 
 
-
-
-  JOY
+JOY
 
   I AM wild, I will sing to the trees,
      I will sing to the stars in the sky,
@@ -723,9 +643,7 @@ SARA TEASDALE
      Now at last I can live!
 
 
-
-
-  IN A RAILROAD STATION
+IN A RAILROAD STATION
 
   WE stood in the shrill electric light,
      Dumb and sick in the whirling din
@@ -738,9 +656,7 @@ SARA TEASDALE
      My tears were hidden in my heart.
 
 
-
-
-  IN THE TRAIN
+IN THE TRAIN
 
   FIELDS beneath a quilt of snow
      From which the rocks and stubble peep,
@@ -753,9 +669,7 @@ SARA TEASDALE
      And in my heart a timid star.
 
 
-
-
-  TO ONE AWAY
+TO ONE AWAY
 
   I HEARD a cry in the night,
      A thousand miles it came,
@@ -768,9 +682,7 @@ SARA TEASDALE
      I know, I know!
 
 
-
-
-  SONG
+SONG
 
   Love me with your whole heart
      Or give no love to me,
@@ -784,9 +696,7 @@ SARA TEASDALE
      And good-by to you.
 
 
-
-
-  DEEP IN THE NIGHT
+DEEP IN THE NIGHT
 
   DEEP in the night the cry of a swallow,
      Under the stars he flew,
@@ -799,9 +709,7 @@ SARA TEASDALE
      Stilled by the stars at night.
 
 
-
-
-  THE INDIA WHARF
+THE INDIA WHARF
 
   HERE in the velvet stillness
   The wide sown fields fall to the faint horizon,
@@ -838,9 +746,7 @@ SARA TEASDALE
   Of ivory and scarlet.
 
 
-
-
-  I SHALL NOT CARE
+I SHALL NOT CARE
 
   WHEN I am dead and over me bright April
      Shakes out her rain-drenched hair,
@@ -853,9 +759,7 @@ SARA TEASDALE
      Than you are now.
 
 
-
-
-  DESERT POOLS
+DESERT POOLS
 
   I LOVE too much; I am a river
      Surging with spring that seeks the sea,
@@ -874,9 +778,7 @@ SARA TEASDALE
      In stagnant water keen as fire.
 
 
-
-
-  LONGING
+LONGING
 
   I AM not sorry for my soul
      That it must go unsatisfied,
@@ -889,9 +791,7 @@ SARA TEASDALE
      Without the joy it longed to know.
 
 
-
-
-  PITY
+PITY
 
   THEY never saw my lover's face,
      They only know our love was brief,
@@ -910,9 +810,7 @@ SARA TEASDALE
      Men who have never seen God's face.
 
 
-
-
-  AFTER PARTING
+AFTER PARTING
 
   OH I have sown my love so wide
      That he will find it everywhere;
@@ -925,9 +823,7 @@ SARA TEASDALE
      And in the night a shaft of fire.
 
 
-
-
-  ENOUGH
+ENOUGH
 
   IT is enough for me by day
      To walk the same bright earth with him;
@@ -940,9 +836,7 @@ SARA TEASDALE
      Blow by like music over me.
 
 
-
-
-  ALCHEMY
+ALCHEMY
 
   I LIFT my heart as spring lifts up
      A yellow daisy to the rain;
@@ -955,9 +849,7 @@ SARA TEASDALE
      To living gold.
 
 
-
-
-  FEBRUARY
+FEBRUARY
 
   THEY spoke of him I love
      With cruel words and gay;
@@ -975,9 +867,7 @@ SARA TEASDALE
      Hidden in you.
 
 
-
-
-  MORNING
+MORNING
 
   I WENT out on an April morning
      All alone, for my heart was high,
@@ -990,9 +880,7 @@ SARA TEASDALE
      Swept as a sea-bird out to sea.
 
 
-
-
-  MAY NIGHT
+MAY NIGHT
 
   THE spring is fresh and fearless
      And every leaf is new,
@@ -1005,9 +893,7 @@ SARA TEASDALE
      And over-brimmed with spring.
 
 
-
-
-  DUSK IN JUNE
+DUSK IN JUNE
 
   EVENING, and all the birds
      In a chorus of shimmering sound
@@ -1020,9 +906,7 @@ SARA TEASDALE
      Sing before night.
 
 
-
-
-  LOVE-FREE
+LOVE-FREE
 
   I AM free of love as a bird flying south in the autumn,
   Swift and intent, asking no joy from another,
@@ -1035,9 +919,7 @@ SARA TEASDALE
        I am my lover's.
 
 
-
-
-  SUMMER NIGHT, RIVERSIDE
+SUMMER NIGHT, RIVERSIDE
 
   IN the wild soft summer darkness
   How many and many a night we two together
@@ -1065,9 +947,7 @@ SARA TEASDALE
   This year's blossoms, clinging in its coils ?
 
 
-
-
-  IN A SUBWAY STATION
+IN A SUBWAY STATION
 
   AFTER a year I came again to the place;
   The tireless lights and the reverberation,
@@ -1088,9 +968,7 @@ SARA TEASDALE
   The hunted hurrying people were still the same....
 
 
-
-
-  AFTER LOVE
+AFTER LOVE
 
   THERE is no magic when we meet,
      We speak as other people do,
@@ -1108,9 +986,7 @@ SARA TEASDALE
      For all its peace.
 
 
-
-
-  DOORYARD ROSES
+DOORYARD ROSES
 
   I HAVE come the selfsame path
      To the selfsame door,
@@ -1123,9 +999,7 @@ SARA TEASDALE
      Fire in the heart.
 
 
-
-
-  A PRAYER
+A PRAYER
 
   UNTIL I lose my soul and lie
      Blind to the beauty of the earth,
@@ -1138,14 +1012,10 @@ SARA TEASDALE
      Careless if I am loved again.
 
 
+II
 
 
-
-
-  II
-
-
-  INDIAN SUMMER
+INDIAN SUMMER
 
   LYRIC night of the lingering Indian Summer,
   Shadowy fields that are scentless but full of singing,
@@ -1168,9 +1038,7 @@ SARA TEASDALE
        Lest they forget them.
 
 
-
-
-  THE SEA WIND
+THE SEA WIND
 
   I AM a pool in a peaceful place,
   I greet the great sky face to face,
@@ -1187,9 +1055,7 @@ SARA TEASDALE
   The far-off, terrible call of the sea?
 
 
-
-
-  THE CLOUD
+THE CLOUD
 
   I AM a cloud in the heaven's height,
   The stars are lit for my delight,
@@ -1206,9 +1072,7 @@ SARA TEASDALE
   Whispering always, "Rest, rest."
 
 
-
-
-  THE POOR HOUSE
+THE POOR HOUSE
 
   HOPE went by and Peace went by
      And would not enter in;
@@ -1226,9 +1090,7 @@ SARA TEASDALE
      "They can wait to die."
 
 
-
-
-  NEW YEAR'S DAWN--BROADWAY
+NEW YEAR'S DAWN--BROADWAY
 
   WHEN the horns wear thin
   And the noise, like a garment outworn,
@@ -1257,9 +1119,7 @@ SARA TEASDALE
   Dizzy and sick.
 
 
-
-
-  THE STAR
+THE STAR
 
   A WHITE star born in the evening glow
   Looked to the round green world below,
@@ -1283,9 +1143,7 @@ SARA TEASDALE
   In a bit of floating cloud like lace.
 
 
-
-
-  DOCTORS
+DOCTORS
 
   EVERY night I lie awake
      And every day I lie abed
@@ -1301,7 +1159,6 @@ SARA TEASDALE
      It should be matter for some pride
   To have such noted fellows here,
      Conferring at my side.
-
 
 
   .
@@ -1333,9 +1190,7 @@ SARA TEASDALE
      And barred the outer door.
 
 
-
-
-  IN THE CARPENTER'S SHOP
+IN THE CARPENTER'S SHOP
 
   MARY sat in the corner dreaming,
      Dim was the room and low,
@@ -1363,9 +1218,7 @@ SARA TEASDALE
            All the years.
 
 
-
-
-  THE CARPENTER'S SON
+THE CARPENTER'S SON
 
   THE summer dawn came over-soon,
   The earth was like hot iron at noon
@@ -1466,9 +1319,7 @@ SARA TEASDALE
            Voices like these.
 
 
-
-
-  THE MOTHER OF A POET
+THE MOTHER OF A POET
 
   SHE is too kind, I think, for mortal things,
   Too gentle for the gusty ways of earth;
@@ -1551,9 +1402,7 @@ SARA TEASDALE
   Breaks like brave April thru a wintry wood.
 
 
-
-
-  RIVERS TO THE SEA
+RIVERS TO THE SEA
 
   But what of her whose heart is troubled by it,
   The mother who would soothe and set him free,
@@ -1562,10 +1411,9 @@ SARA TEASDALE
   The strong wind-driven sea.
 
 
+.
 
-  .
-
-  IN MEMORIAM F. O. S.
+IN MEMORIAM F. O. S.
 
   You go a long and lovely journey,
      For all the stars, like burning dew,
@@ -1578,9 +1426,7 @@ SARA TEASDALE
      Far past the birthplace of the sun?
 
 
-
-
-  TWILIGHT
+TWILIGHT
 
   THE stately tragedy of dusk
      Drew to its perfect close,
@@ -1588,9 +1434,7 @@ SARA TEASDALE
      Sank, and the red moon rose.
 
 
-
-
-  SWALLOW FLIGHT
+SWALLOW FLIGHT
 
   I LOVE my hour of wind and light,
      I love men's faces and their eyes,
@@ -1598,9 +1442,7 @@ SARA TEASDALE
      Like swallows under evening skies,
 
 
-
-
-  THOUGHTS
+THOUGHTS
 
   WHEN I can make my thoughts come forth
      To walk like ladies up and down,
@@ -1613,9 +1455,7 @@ SARA TEASDALE
      So much more lovely than the rest?
 
 
-
-
-  TO DICK, ON HIS SIXTH BIRTHDAY
+TO DICK, ON HIS SIXTH BIRTHDAY
 
   Tho' I am very old and wise,
      And you are neither wise nor old,
@@ -1641,9 +1481,7 @@ SARA TEASDALE
   The angel sent the stars to you.
 
 
-
-
-  TO ROSE
+TO ROSE
 
   ROSE, when I remember you,
   Little lady, scarcely two,
@@ -1672,9 +1510,7 @@ SARA TEASDALE
   Very, very much like Rose."
 
 
-
-
-  THE FOUNTAIN
+THE FOUNTAIN
 
   On in the deep blue night
      The fountain sang alone;
@@ -1702,9 +1538,7 @@ SARA TEASDALE
      And the gleaming dew-drops fell.
 
 
-
-
-  THE ROSE
+THE ROSE
 
   BENEATH my chamber window
   Pierrot was singing, singing;
@@ -1725,9 +1559,7 @@ SARA TEASDALE
         Beside a laughing boy.
 
 
-
-
-  DREAMS
+DREAMS
 
   I GAVE my life to another lover,
      I gave my love, and all, and all--
@@ -1740,9 +1572,7 @@ SARA TEASDALE
      Is waiting tho' I see him not.
 
 
-
-
-  "I AM NOT YOURS "
+"I AM NOT YOURS "
 
   I AM not yours, not lost in you,
      Not lost, altho' I long to be
@@ -1760,11 +1590,9 @@ SARA TEASDALE
      A taper in a rushing wind.
 
 
+PIERROT'S SONG
 
-
-  PIERROT'S SONG
-
-  (For a picture by Dugald Walker)
+(For a picture by Dugald Walker)
 
   LADY, light in the east hangs low,
      Draw your veils of dream apart,
@@ -1781,9 +1609,7 @@ SARA TEASDALE
      Another stanza for her sake!)
 
 
-
-
-  NIGHT IN ARIZONA
+NIGHT IN ARIZONA
 
   THE moon is a charring ember
      Dying into the dark;
@@ -1802,9 +1628,7 @@ SARA TEASDALE
         And cry like a child.
 
 
-
-
-  DUSK IN WAR TIME
+DUSK IN WAR TIME
 
   A HALF-HOUR more and you will lean
      To gather me close in the old sweet way--
@@ -1817,9 +1641,7 @@ SARA TEASDALE
      Waiting at dusk for one who is dead!
 
 
-
-
-  SPRING IN WAR TIME
+SPRING IN WAR TIME
 
   I FEEL the Spring far off, far off,
      The faint far scent of bud and leaf--
@@ -1846,9 +1668,7 @@ SARA TEASDALE
         Gray Death?
 
 
-
-
-  WHILE I MAY
+WHILE I MAY
 
   WIND and hail and veering rain,
      Driven mist that veils the day,
@@ -1861,9 +1681,7 @@ SARA TEASDALE
      Even pain denied to me.
 
 
-
-
-  DEBT
+DEBT
 
   WHAT do I owe to you
      Who loved me deep and long?
@@ -1877,9 +1695,7 @@ SARA TEASDALE
      That led thru heaven's wall.
 
 
-
-
-  FROM THE NORTH
+FROM THE NORTH
 
   THE northern woods are delicately sweet,
      The lake is folded softly by the shore,
@@ -1897,9 +1713,7 @@ SARA TEASDALE
         The first keen sea-breath from the open sea.
 
 
-
-
-  THE LIGHTS OF NEW YORK
+THE LIGHTS OF NEW YORK
 
   THE lightning spun your garment for the night
      Of silver filaments with fire shot thru,
@@ -1917,9 +1731,7 @@ SARA TEASDALE
   A fire that neither wind nor rain can dim.
 
 
-
-
-  SEA LONGING
+SEA LONGING
 
   A THOUSAND miles beyond this sun-steeped wall
      Somewhere the waves creep cool along the sand,
@@ -1937,9 +1749,7 @@ SARA TEASDALE
   Less than the sea-gulls calling to the sea.
 
 
-
-
-  THE RIVER
+THE RIVER
 
   I CAME from the sunny valleys
      And sought for the open sea,
@@ -1957,9 +1767,7 @@ SARA TEASDALE
      Am bitter as the sea.
 
 
-
-
-  LEAVES
+LEAVES
 
   ONE by one, like leaves from a tree,
   All my faiths have forsaken me;
@@ -1981,9 +1789,7 @@ SARA TEASDALE
   Stars above and earth below.
 
 
-
-
-  THE ANSWER
+THE ANSWER
 
   WHEN I go back to earth
   And all my joyous body
@@ -2004,20 +1810,12 @@ SARA TEASDALE
   Than you could find in joy."
 
 
+III
 
 
+OVER THE ROOFS
 
-
-
-  III
-
-
-
-
-
-  OVER THE ROOFS
-
-  I
+I
 
   OH chimes set high on the sunny tower
      Ring on, ring on unendingly,
@@ -2073,9 +1871,7 @@ SARA TEASDALE
      Unless you set me free."
 
 
-
-
-  A CRY
+A CRY
 
   OH, there are eyes that he can see,
      And hands to make his hands rejoice,
@@ -2088,9 +1884,7 @@ SARA TEASDALE
            Only a cry.
 
 
-
-
-  CHANCE
+CHANCE
 
   How many times we must have met
      Here on the street as strangers do,
@@ -2099,9 +1893,7 @@ SARA TEASDALE
      The door of heaven and never knew.
 
 
-
-
-  IMMORTAL
+IMMORTAL
 
   So soon my body will have gone
      Beyond the sound and sight of men,
@@ -2113,9 +1905,7 @@ SARA TEASDALE
      A wave that never finds the shore.
 
 
-
-
-  AFTER DEATH
+AFTER DEATH
 
   Now while my lips are living
      Their words must stay unsaid,
@@ -2128,9 +1918,7 @@ SARA TEASDALE
      And then you could not hear.
 
 
-
-
-  TESTAMENT
+TESTAMENT
 
   I SAID, "I will take my life
      And throw it away;
@@ -2153,9 +1941,7 @@ SARA TEASDALE
      And suffer with my race."
 
 
-
-
-  GIFTS
+GIFTS
 
   I GAVE my first love laughter,
      I gave my second tears,
@@ -2168,19 +1954,10 @@ SARA TEASDALE
      Who gave my soul to me.
 
 
+IV
 
 
-
-
-
-  IV
-
-
-
-
-
-
-  FROM THE SEA
+FROM THE SEA
 
   ALL beauty calls you to me, and you seem,
   Past twice a thousand miles of shifting sea,
@@ -2267,13 +2044,11 @@ SARA TEASDALE
   A heaven of unborn evanescent stars.
 
 
+VIGNETTES OVERSEAS
 
+I
 
-  VIGNETTES OVERSEAS
-
-  I
-
-  Off Gibraltar
+Off Gibraltar
 
   BEYOND the sleepy hills of Spain,
      The sun goes down in yellow mist,
@@ -2286,9 +2061,9 @@ SARA TEASDALE
      For me a delicate despair.
 
 
-  II
+II
 
-  Off Algiers
+Off Algiers
 
   Oh give me neither love nor tears,
      Nor dreams that sear the night with fire,
@@ -2301,9 +2076,9 @@ SARA TEASDALE
      Like sudden sunlight on the sea.
 
 
-  III
+III
 
-  Naples
+Naples
 
   Nisida and Prosida are laughing in the light,
   Capri is a dewy flower lifting into sight,
@@ -2313,9 +2088,9 @@ SARA TEASDALE
   Oh when God made Italy he was gay and young!
 
 
-  IV
+IV
 
-  Capri
+Capri
 
   When beauty grows too great to bear
      How shall I ease me of its ache,
@@ -2328,9 +2103,9 @@ SARA TEASDALE
      Could give me rest.
 
 
-  V
+V
 
-  Night Song at Amalfi
+Night Song at Amalfi
 
   I asked the heaven of stars
      What I should give my love--
@@ -2348,9 +2123,9 @@ SARA TEASDALE
   My whole life long?
 
 
-  VI
+VI
 
-  Ruins of Paestum
+Ruins of Paestum
 
   On lowlands where the temples lie
      The marsh-grass mingles with the flowers,
@@ -2363,9 +2138,9 @@ SARA TEASDALE
      The swift brown birds by day.
 
 
-  VII
+VII
 
-  Rome
+Rome
 
   Oh for the rising moon
      Over the roofs of Rome,
@@ -2378,9 +2153,9 @@ SARA TEASDALE
      With unremembered things?
 
 
-  VIII
+VIII
 
-  Florence
+Florence
 
   The bells ring over the Anno,
      Midnight, the long, long chime;
@@ -2393,9 +2168,9 @@ SARA TEASDALE
      He gives eternity.
 
 
-  IX
+IX
 
-  Villa Serbelloni, Bellaggio
+Villa Serbelloni, Bellaggio
 
   The fountain shivers lightly in the rain,
      The laurels drip, the fading roses fall,
@@ -2408,9 +2183,9 @@ SARA TEASDALE
      Change to a laurel in the glancing shower.
 
 
-  X
+X
 
-  Stresa
+Stresa
 
   The moon grows out of the hills
      A yellow flower,
@@ -2423,9 +2198,9 @@ SARA TEASDALE
      From shore to shore.
 
 
-  XI
+XI
 
-  Hamburg
+Hamburg
 
   The day that I come home,
      What will you find to say,--
@@ -2438,18 +2213,14 @@ SARA TEASDALE
      Beating under the foam.
 
 
+V
+
+SAPPHO
 
 
+SAPPHO
 
-  V
-
-  SAPPHO
-
-
-
-  SAPPHO
-
-  I
+I
 
   MIDNIGHT, and in the darkness not a sound,
   So, with hushed breathing, sleeps the autumn night;
@@ -2560,7 +2331,7 @@ SARA TEASDALE
   As one grown tired who hopes to sleep, I go.
 
 
-  II
+II
 
   Oh Litis, little slave, why will you sleep?
   These long Egyptian noons bend down your head
@@ -2625,7 +2396,7 @@ SARA TEASDALE
   Egypt and islands of the inner seas,
   Love came to me, and Cercolas was love.
 
-  III &sup1;         &sup1; From " Helen of Troy and Other Poems."
+III &sup1;         &sup1; From " Helen of Troy and Other Poems."
 
   The twilight's inner flame grows blue and deep,
   And in my Lesbos, over leagues of sea,
@@ -2685,374 +2456,3 @@ SARA TEASDALE
   Ah, Love that tuned my lips to Iyres of thine,
   I taught the world thy music, now alone
   I sing for one who falls asleep to hear.
-
-
-
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of Rivers to the Sea, by Sara Teasdale
-
-*** END OF THIS PROJECT GUTENBERG EBOOK RIVERS TO THE SEA ***
-
-***** This file should be named 596.txt or 596.zip *****
-This and all associated files of various formats will be found in:
-        https://www.gutenberg.org/5/9/596/
-
-Produced by Judith Boss
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-https://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at https://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at https://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit https://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: https://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     https://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

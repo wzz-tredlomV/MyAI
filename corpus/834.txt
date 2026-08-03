@@ -1,40 +1,10 @@
-﻿The Project Gutenberg eBook of The Memoirs of Sherlock Holmes, by Arthur Conan Doyle
-
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org. If you are not located in the United States, you
-will have to check the laws of the country where you are located before
-using this eBook.
-
-Title: The Memoirs of Sherlock Holmes
-
-Author: Arthur Conan Doyle
-
-Release Date: March, 1997 [eBook #834]
-[Most recently updated: December 2, 2023]
-
-Language: English
-
-Produced by: Angela M. Cable
-
-*** START OF THE PROJECT GUTENBERG EBOOK THE MEMOIRS OF SHERLOCK HOLMES ***
-
-
-
-
-cover 
-
-
+cover
 
 
 THE MEMOIRS OF SHERLOCK HOLMES
 
 
-
 by Arthur Conan Doyle
-
 
 
 Contents
@@ -52,8 +22,6 @@ Contents
    X. The Greek Interpreter
    XI. The Naval Treaty
    XII. The Final Problem
-
-
 
 
 I. Silver Blaze
@@ -106,7 +74,7 @@ I. Silver Blaze
       at his watch. “Our rate at present is fifty-three and a half
       miles an hour.”
 
-      “I have not observed the quarter-mile posts,” said I.
+“I have not observed the quarter-mile posts,” said I.
 
       “Nor have I. But the telegraph posts upon this line are sixty
       yards apart, and the calculation is a simple one. I presume that
@@ -125,13 +93,13 @@ I. Silver Blaze
       undeniable fact—from the embellishments of theorists and
       reporters. Then, having established ourselves upon this sound
       basis, it is our duty to see what inferences may be drawn and
-      what are the special points upon which the whole mystery turns.
-      On Tuesday evening I received telegrams from both Colonel Ross,
-      the owner of the horse, and from Inspector Gregory, who is
-      looking after the case, inviting my co-operation.”
+what are the special points upon which the whole mystery turns.
+On Tuesday evening I received telegrams from both Colonel Ross,
+the owner of the horse, and from Inspector Gregory, who is
+looking after the case, inviting my co-operation.”
 
-      “Tuesday evening!” I exclaimed. “And this is Thursday morning.
-      Why didn’t you go down yesterday?”
+“Tuesday evening!” I exclaimed. “And this is Thursday morning.
+Why didn’t you go down yesterday?”
 
       “Because I made a blunder, my dear Watson—which is, I am afraid,
       a more common occurrence than any one would think who only knew
@@ -218,9 +186,9 @@ I. Silver Blaze
       than under it.
 
       “‘Can you tell me where I am?’ he asked. ‘I had almost made up my
-      mind to sleep on the moor, when I saw the light of your lantern.’
+mind to sleep on the moor, when I saw the light of your lantern.’
 
-      “‘You are close to the King’s Pyland training-stables,’ said she.
+“‘You are close to the King’s Pyland training-stables,’ said she.
 
       “‘Oh, indeed! What a stroke of luck!’ he cried. ‘I understand
       that a stable-boy sleeps there alone every night. Perhaps that is
@@ -418,7 +386,7 @@ I. Silver Blaze
       suggested, but I wish to leave no stone unturned in trying to
       avenge poor Straker and in recovering my horse.”
 
-      “Have there been any fresh developments?” asked Holmes.
+“Have there been any fresh developments?” asked Holmes.
 
       “I am sorry to say that we have made very little progress,” said
       the Inspector. “We have an open carriage outside, and as you
@@ -444,8 +412,8 @@ I. Silver Blaze
       “We have quite come to the conclusion that he wounded himself in
       his fall.”
 
-      “My friend Dr. Watson made that suggestion to me as we came down.
-      If so, it would tell against this man Simpson.”
+“My friend Dr. Watson made that suggestion to me as we came down.
+If so, it would tell against this man Simpson.”
 
       “Undoubtedly. He has neither a knife nor any sign of a wound. The
       evidence against him is certainly very strong. He had a great
@@ -476,9 +444,9 @@ I. Silver Blaze
 
       “He acknowledges that it is his, and declares that he had lost
       it. But a new element has been introduced into the case which may
-      account for his leading the horse from the stable.”
+account for his leading the horse from the stable.”
 
-      Holmes pricked up his ears.
+Holmes pricked up his ears.
 
       “We have found traces which show that a party of gypsies encamped
       on Monday night within a mile of the spot where the murder took
@@ -493,9 +461,9 @@ I. Silver Blaze
       examined every stable and out-house in Tavistock, and for a
       radius of ten miles.”
 
-      “There is another training-stable quite close, I understand?”
+“There is another training-stable quite close, I understand?”
 
-      “Yes, and that is a factor which we must certainly not neglect.
+“Yes, and that is a factor which we must certainly not neglect.
       As Desborough, their horse, was second in the betting, they had
       an interest in the disappearance of the favourite. Silas Brown,
       the trainer, is known to have had large bets upon the event, and
@@ -507,9 +475,9 @@ I. Silver Blaze
 
       “Nothing at all.”
 
-      Holmes leaned back in the carriage, and the conversation ceased.
-      A few minutes later our driver pulled up at a neat little
-      red-brick villa with overhanging eaves which stood by the road.
+Holmes leaned back in the carriage, and the conversation ceased.
+A few minutes later our driver pulled up at a neat little
+red-brick villa with overhanging eaves which stood by the road.
       Some distance off, across a paddock, lay a long grey-tiled
       out-building. In every other direction the low curves of the
       moor, bronze-coloured from the fading ferns, stretched away to
@@ -534,11 +502,11 @@ I. Silver Blaze
       one or two questions of detail. Straker was brought back here, I
       presume?”
 
-      “Yes; he lies upstairs. The inquest is to-morrow.”
+“Yes; he lies upstairs. The inquest is to-morrow.”
 
-      “He has been in your service some years, Colonel Ross?”
+“He has been in your service some years, Colonel Ross?”
 
-      “I have always found him an excellent servant.”
+“I have always found him an excellent servant.”
 
       “I presume that you made an inventory of what he had in his
       pockets at the time of his death, Inspector?”
@@ -558,14 +526,14 @@ I. Silver Blaze
 
       “This is a very singular knife,” said Holmes, lifting it up and
       examining it minutely. “I presume, as I see blood-stains upon it,
-      that it is the one which was found in the dead man’s grasp.
-      Watson, this knife is surely in your line?”
+that it is the one which was found in the dead man’s grasp.
+Watson, this knife is surely in your line?”
 
-      “It is what we call a cataract knife,” said I.
+“It is what we call a cataract knife,” said I.
 
-      “I thought so. A very delicate blade devised for very delicate
-      work. A strange thing for a man to carry with him upon a rough
-      expedition, especially as it would not shut in his pocket.”
+“I thought so. A very delicate blade devised for very delicate
+work. A strange thing for a man to carry with him upon a rough
+expedition, especially as it would not shut in his pocket.”
 
       “The tip was guarded by a disk of cork which we found beside his
       body,” said the Inspector. “His wife tells us that the knife had
@@ -578,9 +546,9 @@ I. Silver Blaze
       “Three of them are receipted hay-dealers’ accounts. One of them
       is a letter of instructions from Colonel Ross. This other is a
       milliner’s account for thirty-seven pounds fifteen made out by
-      Madame Lesurier, of Bond Street, to William Derbyshire. Mrs.
-      Straker tells us that Derbyshire was a friend of her husband’s
-      and that occasionally his letters were addressed here.”
+Madame Lesurier, of Bond Street, to William Derbyshire. Mrs.
+Straker tells us that Derbyshire was a friend of her husband’s
+and that occasionally his letters were addressed here.”
 
       “Madam Derbyshire had somewhat expensive tastes,” remarked
       Holmes, glancing down the account. “Twenty-two guineas is rather
@@ -592,7 +560,7 @@ I. Silver Blaze
       Inspector’s sleeve. Her face was haggard and thin and eager,
       stamped with the print of a recent horror.
 
-      “Have you got them? Have you found them?” she panted.
+“Have you got them? Have you found them?” she panted.
 
       “No, Mrs. Straker. But Mr. Holmes here has come from London to
       help us, and we shall do all that is possible.”
@@ -603,18 +571,18 @@ I. Silver Blaze
       “No, sir; you are mistaken.”
 
       “Dear me! Why, I could have sworn to it. You wore a costume of
-      dove-coloured silk with ostrich-feather trimming.”
+dove-coloured silk with ostrich-feather trimming.”
 
-      “I never had such a dress, sir,” answered the lady.
+“I never had such a dress, sir,” answered the lady.
 
       “Ah, that quite settles it,” said Holmes. And with an apology he
       followed the Inspector outside. A short walk across the moor took
       us to the hollow in which the body had been found. At the brink
-      of it was the furze-bush upon which the coat had been hung.
+of it was the furze-bush upon which the coat had been hung.
 
-      “There was no wind that night, I understand,” said Holmes.
+“There was no wind that night, I understand,” said Holmes.
 
-      “None; but very heavy rain.”
+“None; but very heavy rain.”
 
       “In that case the overcoat was not blown against the furze-bush,
       but placed there.”
@@ -733,11 +701,11 @@ I. Silver Blaze
       the tracks. Then we lost them for half a mile, but only to pick
       them up once more quite close to Mapleton. It was Holmes who saw
       them first, and he stood pointing with a look of triumph upon his
-      face. A man’s track was visible beside the horse’s.
+face. A man’s track was visible beside the horse’s.
 
-      “The horse was alone before,” I cried.
+“The horse was alone before,” I cried.
 
-      “Quite so. It was alone before. Hullo, what is this?”
+“Quite so. It was alone before. Hullo, what is this?”
 
       The double track turned sharp off and took the direction of
       King’s Pyland. Holmes whistled, and we both followed along after
@@ -753,7 +721,7 @@ I. Silver Blaze
       up to the gates of the Mapleton stables. As we approached, a
       groom ran out from them.
 
-      “We don’t want any loiterers about here,” said he.
+“We don’t want any loiterers about here,” said he.
 
       “I only wished to ask a question,” said Holmes, with his finger
       and thumb in his waistcoat pocket. “Should I be too early to see
@@ -776,12 +744,12 @@ I. Silver Blaze
       sweetest of voices.
 
       “I’ve no time to talk to every gadabout. We want no strangers
-      here. Be off, or you may find a dog at your heels.”
+here. Be off, or you may find a dog at your heels.”
 
-      Holmes leaned forward and whispered something in the trainer’s
-      ear. He started violently and flushed to the temples.
+Holmes leaned forward and whispered something in the trainer’s
+ear. He started violently and flushed to the temples.
 
-      “It’s a lie!” he shouted, “an infernal lie!”
+“It’s a lie!” he shouted, “an infernal lie!”
 
       “Very good. Shall we argue about it here in public or talk it
       over in your parlour?”
@@ -800,22 +768,22 @@ I. Silver Blaze
       gone too, and he cringed along at my companion’s side like a dog
       with its master.
 
-      “Your instructions will be done. It shall all be done,” said he.
+“Your instructions will be done. It shall all be done,” said he.
 
-      “There must be no mistake,” said Holmes, looking round at him.
-      The other winced as he read the menace in his eyes.
+“There must be no mistake,” said Holmes, looking round at him.
+The other winced as he read the menace in his eyes.
 
       “Oh no, there shall be no mistake. It shall be there. Should I
       change it first or not?”
 
-      Holmes thought a little and then burst out laughing. “No, don’t,”
-      said he; “I shall write to you about it. No tricks, now, or—”
+Holmes thought a little and then burst out laughing. “No, don’t,”
+said he; “I shall write to you about it. No tricks, now, or—”
 
-      “Oh, you can trust me, you can trust me!”
+“Oh, you can trust me, you can trust me!”
 
-      “Yes, I think I can. Well, you shall hear from me to-morrow.” He
-      turned upon his heel, disregarding the trembling hand which the
-      other held out to him, and we set off for King’s Pyland.
+“Yes, I think I can. Well, you shall hear from me to-morrow.” He
+turned upon his heel, disregarding the trembling hand which the
+other held out to him, and we set off for King’s Pyland.
 
       “A more perfect compound of the bully, coward, and sneak than
       Master Silas Brown I have seldom met with,” remarked Holmes as we
@@ -838,11 +806,11 @@ I. Silver Blaze
       him back to King’s Pyland, and how the devil had shown him how he
       could hide the horse until the race was over, and how he had led
       it back and concealed it at Mapleton. When I told him every
-      detail he gave it up and thought only of saving his own skin.”
+detail he gave it up and thought only of saving his own skin.”
 
-      “But his stables had been searched?”
+“But his stables had been searched?”
 
-      “Oh, an old horse-faker like him has many a dodge.”
+“Oh, an old horse-faker like him has many a dodge.”
 
       “But are you not afraid to leave the horse in his power now,
       since he has every interest in injuring it?”
@@ -867,7 +835,7 @@ I. Silver Blaze
 
       “And you will devote yourself to that?”
 
-      “On the contrary, we both go back to London by the night train.”
+“On the contrary, we both go back to London by the night train.”
 
       I was thunderstruck by my friend’s words. We had only been a few
       hours in Devonshire, and that he should give up an investigation
@@ -892,7 +860,7 @@ I. Silver Blaze
       have your jockey in readiness. Might I ask for a photograph of
       Mr. John Straker?”
 
-      The Inspector took one from an envelope and handed it to him.
+The Inspector took one from an envelope and handed it to him.
 
       “My dear Gregory, you anticipate all my wants. If I might ask you
       to wait here for an instant, I have a question which I should
@@ -911,18 +879,18 @@ I. Silver Blaze
       I was about to make some reply in defence of my friend when he
       entered the room again.
 
-      “Now, gentlemen,” said he, “I am quite ready for Tavistock.”
+“Now, gentlemen,” said he, “I am quite ready for Tavistock.”
 
-      As we stepped into the carriage one of the stable-lads held the
-      door open for us. A sudden idea seemed to occur to Holmes, for he
-      leaned forward and touched the lad upon the sleeve.
+As we stepped into the carriage one of the stable-lads held the
+door open for us. A sudden idea seemed to occur to Holmes, for he
+leaned forward and touched the lad upon the sleeve.
 
       “You have a few sheep in the paddock,” he said. “Who attends to
       them?”
 
       “I do, sir.”
 
-      “Have you noticed anything amiss with them of late?”
+“Have you noticed anything amiss with them of late?”
 
       “Well, sir, not of much account; but three of them have gone
       lame, sir.”
@@ -946,11 +914,11 @@ I. Silver Blaze
       “Is there any point to which you would wish to draw my
       attention?”
 
-      “To the curious incident of the dog in the night-time.”
+“To the curious incident of the dog in the night-time.”
 
-      “The dog did nothing in the night-time.”
+“The dog did nothing in the night-time.”
 
-      “That was the curious incident,” remarked Sherlock Holmes.
+“That was the curious incident,” remarked Sherlock Holmes.
 
       Four days later Holmes and I were again in the train, bound for
       Winchester to see the race for the Wessex Cup. Colonel Ross met
@@ -974,7 +942,7 @@ I. Silver Blaze
       to one yesterday, but the price has become shorter and shorter,
       until you can hardly get three to one now.”
 
-      “Hum!” said Holmes. “Somebody knows something, that is clear.”
+“Hum!” said Holmes. “Somebody knows something, that is clear.”
 
       As the drag drew up in the enclosure near the grand stand I
       glanced at the card to see the entries. It ran:—
@@ -982,21 +950,21 @@ I. Silver Blaze
       Wessex Plate. 50 sovs each h ft with 1000 sovs added for four and
       five year olds. Second, £300. Third, £200. New course (one mile
       and five furlongs).
-      1. Mr. Heath Newton’s The Negro (red cap, cinnamon jacket).
-      2. Colonel Wardlaw’s Pugilist (pink cap, blue and black jacket).
-      3. Lord Backwater’s Desborough (yellow cap and sleeves).
-      4. Colonel Ross’s Silver Blaze (black cap, red jacket).
-      5. Duke of Balmoral’s Iris (yellow and black stripes).
-      6. Lord Singleford’s Rasper (purple cap, black sleeves).
+1. Mr. Heath Newton’s The Negro (red cap, cinnamon jacket).
+2. Colonel Wardlaw’s Pugilist (pink cap, blue and black jacket).
+3. Lord Backwater’s Desborough (yellow cap and sleeves).
+4. Colonel Ross’s Silver Blaze (black cap, red jacket).
+5. Duke of Balmoral’s Iris (yellow and black stripes).
+6. Lord Singleford’s Rasper (purple cap, black sleeves).
 
-      “We scratched our other one, and put all hopes on your word,”
-      said the Colonel. “Why, what is that? Silver Blaze favourite?”
+“We scratched our other one, and put all hopes on your word,”
+said the Colonel. “Why, what is that? Silver Blaze favourite?”
 
       “Five to four against Silver Blaze!” roared the ring. “Five to
       four against Silver Blaze! Five to fifteen against Desborough!
       Five to four on the field!”
 
-      “There are the numbers up,” I cried. “They are all six there.”
+“There are the numbers up,” I cried. “They are all six there.”
 
       “All six there? Then my horse is running,” cried the Colonel in
       great agitation. “But I don’t see him. My colours have not
@@ -1009,11 +977,11 @@ I. Silver Blaze
       well-known black and red of the Colonel.
 
       “That’s not my horse,” cried the owner. “That beast has not a
-      white hair upon its body. What is this that you have done, Mr.
-      Holmes?”
+white hair upon its body. What is this that you have done, Mr.
+Holmes?”
 
-      “Well, well, let us see how he gets on,” said my friend,
-      imperturbably. For a few minutes he gazed through my field-glass.
+“Well, well, let us see how he gets on,” said my friend,
+imperturbably. For a few minutes he gazed through my field-glass.
       “Capital! An excellent start!” he cried suddenly. “There they
       are, coming round the curve!”
 
@@ -1217,8 +1185,6 @@ I. Silver Blaze
       might interest you.”
 
 
-
-
 II. The Adventure of the Cardboard Box
 
 
@@ -1355,11 +1321,11 @@ II. The Adventure of the Cardboard Box
       problem which may prove to be more difficult of solution than my
       small essay in thought reading. Have you observed in the paper a
       short paragraph referring to the remarkable contents of a packet
-      sent through the post to Miss Cushing, of Cross Street, Croydon?”
+sent through the post to Miss Cushing, of Cross Street, Croydon?”
 
-      “No, I saw nothing.”
+“No, I saw nothing.”
 
-      “Ah! then you must have overlooked it. Just toss it over to me.
+“Ah! then you must have overlooked it. Just toss it over to me.
       Here it is, under the financial column. Perhaps you would be good
       enough to read it aloud.”
 
@@ -1406,9 +1372,9 @@ II. The Adventure of the Cardboard Box
       to spare I should be very happy to see you out here. I shall be
       either at the house or in the police-station all day.’ What say
       you, Watson? Can you rise superior to the heat and run down to
-      Croydon with me on the off chance of a case for your annals?”
+Croydon with me on the off chance of a case for your annals?”
 
-      “I was longing for something to do.”
+“I was longing for something to do.”
 
       “You shall have it then. Ring for our boots and tell them to
       order a cab. I’ll be back in a moment when I have changed my
@@ -1435,11 +1401,11 @@ II. The Adventure of the Cardboard Box
       altogether.”
 
       “So I shall, Miss Cushing. I only kept them here until my friend,
-      Mr. Holmes, should have seen them in your presence.”
+Mr. Holmes, should have seen them in your presence.”
 
-      “Why in my presence, sir?”
+“Why in my presence, sir?”
 
-      “In case he wished to ask any questions.”
+“In case he wished to ask any questions.”
 
       “What is the use of asking me questions when I tell you I know
       nothing whatever about it?”
@@ -1480,9 +1446,9 @@ II. The Adventure of the Cardboard Box
       effect,” said Lestrade complacently.
 
       “So much for the string, then,” said Holmes, smiling, “now for
-      the box wrapper. Brown paper, with a distinct smell of coffee.
-      What, did you not observe it? I think there can be no doubt of
-      it. Address printed in rather straggling characters: ‘Miss S.
+the box wrapper. Brown paper, with a distinct smell of coffee.
+What, did you not observe it? I think there can be no doubt of
+it. Address printed in rather straggling characters: ‘Miss S.
       Cushing, Cross Street, Croydon.’ Done with a broad-pointed pen,
       probably a J, and with very inferior ink. The word ‘Croydon’ has
       been originally spelled with an ‘i,’ which has been changed to
@@ -1560,9 +1526,9 @@ II. The Adventure of the Cardboard Box
       not wish to shield him she would give his name. There is a tangle
       here which needs straightening out.” He had been talking in a
       high, quick voice, staring blankly up over the garden fence, but
-      now he sprang briskly to his feet and walked towards the house.
+now he sprang briskly to his feet and walked towards the house.
 
-      “I have a few questions to ask Miss Cushing,” said he.
+“I have a few questions to ask Miss Cushing,” said he.
 
       “In that case I may leave you here,” said Lestrade, “for I have
       another small business on hand. I think that I have nothing
@@ -1595,11 +1561,11 @@ II. The Adventure of the Cardboard Box
 
       “There were one or two questions——”
 
-      “Oh, I am weary of questions!” cried Miss Cushing impatiently.
+“Oh, I am weary of questions!” cried Miss Cushing impatiently.
 
-      “You have two sisters, I believe.”
+“You have two sisters, I believe.”
 
-      “How could you know that?”
+“How could you know that?”
 
       “I observed the very instant that I entered the room that you
       have a portrait group of three ladies upon the mantelpiece, one
@@ -1607,7 +1573,7 @@ II. The Adventure of the Cardboard Box
       exceedingly like you that there could be no doubt of the
       relationship.”
 
-      “Yes, you are quite right. Those are my sisters, Sarah and Mary.”
+“Yes, you are quite right. Those are my sisters, Sarah and Mary.”
 
       “And here at my elbow is another portrait, taken at Liverpool, of
       your younger sister, in the company of a man who appears to be a
@@ -1653,7 +1619,7 @@ II. The Adventure of the Cardboard Box
       against my own sister, but she was always meddlesome and hard to
       please, was Sarah.”
 
-      “You say that she quarrelled with your Liverpool relations.”
+“You say that she quarrelled with your Liverpool relations.”
 
       “Yes, and they were the best of friends at one time. Why, she
       went up there to live in order to be near them. And now she has
@@ -1668,11 +1634,11 @@ II. The Adventure of the Cardboard Box
       over a case with which, as you say, you have nothing whatever to
       do.”
 
-      There was a cab passing as we came out, and Holmes hailed it.
+There was a cab passing as we came out, and Holmes hailed it.
 
-      “How far to Wallington?” he asked.
+“How far to Wallington?” he asked.
 
-      “Only about a mile, sir.”
+“Only about a mile, sir.”
 
       “Very good. Jump in, Watson. We must strike while the iron is
       hot. Simple as the case is, there have been one or two very
@@ -1696,9 +1662,9 @@ II. The Adventure of the Cardboard Box
       again in ten days.” He drew on his gloves, closed the door, and
       marched off down the street.
 
-      “Well, if we can’t we can’t,” said Holmes, cheerfully.
+“Well, if we can’t we can’t,” said Holmes, cheerfully.
 
-      “Perhaps she could not or would not have told you much.”
+“Perhaps she could not or would not have told you much.”
 
       “I did not wish her to tell me anything. I only wanted to look at
       her. However, I think that I have got all that I want. Drive us
@@ -1720,18 +1686,18 @@ II. The Adventure of the Cardboard Box
       “A telegram for you, Mr. Holmes,” said he.
 
       “Ha! It is the answer!” He tore it open, glanced his eyes over
-      it, and crumpled it into his pocket. “That’s all right,” said he.
+it, and crumpled it into his pocket. “That’s all right,” said he.
 
-      “Have you found out anything?”
+“Have you found out anything?”
 
-      “I have found out everything!”
+“I have found out everything!”
 
-      “What!” Lestrade stared at him in amazement. “You are joking.”
+“What!” Lestrade stared at him in amazement. “You are joking.”
 
-      “I was never more serious in my life. A shocking crime has been
-      committed, and I think I have now laid bare every detail of it.”
+“I was never more serious in my life. A shocking crime has been
+committed, and I think I have now laid bare every detail of it.”
 
-      “And the criminal?”
+“And the criminal?”
 
       Holmes scribbled a few words upon the back of one of his visiting
       cards and threw it over to Lestrade.
@@ -1768,7 +1734,7 @@ II. The Adventure of the Cardboard Box
 
       “Oh! it is more than a suspicion.”
 
-      “And yet I cannot see anything save very vague indications.”
+“And yet I cannot see anything save very vague indications.”
 
       “On the contrary, to my mind nothing could be more clear. Let me
       run over the principal steps. We approached the case, you
@@ -1874,11 +1840,11 @@ II. The Adventure of the Cardboard Box
       her illness dated from that time—had such an effect upon her as
       to bring on brain fever. It was clearer than ever that she
       understood its full significance, but equally clear that we
-      should have to wait some time for any assistance from her.
+should have to wait some time for any assistance from her.
 
-      “However, we were really independent of her help. Our answers
-      were waiting for us at the police-station, where I had directed
-      Algar to send them. Nothing could be more conclusive. Mrs.
+“However, we were really independent of her help. Our answers
+were waiting for us at the police-station, where I had directed
+Algar to send them. Nothing could be more conclusive. Mrs.
       Browner’s house had been closed for more than three days, and the
       neighbours were of opinion that she had gone south to see her
       relatives. It had been ascertained at the shipping offices that
@@ -1892,8 +1858,8 @@ II. The Adventure of the Cardboard Box
       note from the detective, and a typewritten document, which
       covered several pages of foolscap.
 
-      “Lestrade has got him all right,” said Holmes, glancing up at me.
-      “Perhaps it would interest you to hear what he says.
+“Lestrade has got him all right,” said Holmes, glancing up at me.
+“Perhaps it would interest you to hear what he says.
 
       “My dear Mr. Holmes,—In accordance with the scheme which we had
       formed in order to test our theories”—“the ‘we’ is rather fine,
@@ -2033,10 +1999,10 @@ II. The Adventure of the Cardboard Box
       she could have mistaken for mine. If I could have seen him then I
       should have killed him, for I have always been like a madman when
       my temper gets loose. Mary saw the devil’s light in my eyes, and
-      she ran forward with her hands on my sleeve. ‘Don’t, Jim, don’t!’
-      says she. ‘Where’s Sarah?’ I asked. ‘In the kitchen,’ says she.
-      ‘Sarah,’ says I as I went in, ‘this man Fairbairn is never to
-      darken my door again.’ ‘Why not?’ says she. ‘Because I order it.’
+she ran forward with her hands on my sleeve. ‘Don’t, Jim, don’t!’
+says she. ‘Where’s Sarah?’ I asked. ‘In the kitchen,’ says she.
+‘Sarah,’ says I as I went in, ‘this man Fairbairn is never to
+darken my door again.’ ‘Why not?’ says she. ‘Because I order it.’
       ‘Oh!’ says she, ‘if my friends are not good enough for this
       house, then I am not good enough for it either.’ ‘You can do what
       you like,’ says I, ‘but if Fairbairn shows his face here again
@@ -2140,8 +2106,6 @@ II. The Adventure of the Cardboard Box
       reason is as far from an answer as ever.”
 
 
-
-
 III. The Yellow Face
 
 
@@ -2179,11 +2143,11 @@ III. The Yellow Face
       breaking out upon the elms, and the sticky spear-heads of the
       chestnuts were just beginning to burst into their five-fold
       leaves. For two hours we rambled about together, in silence for
-      the most part, as befits two men who know each other intimately.
-      It was nearly five before we were back in Baker Street once more.
+the most part, as befits two men who know each other intimately.
+It was nearly five before we were back in Baker Street once more.
 
-      “Beg pardon, sir,” said our page-boy, as he opened the door.
-      “There’s been a gentleman here asking for you, sir.”
+“Beg pardon, sir,” said our page-boy, as he opened the door.
+“There’s been a gentleman here asking for you, sir.”
 
       Holmes glanced reproachfully at me. “So much for afternoon
       walks!” said he. “Has this gentleman gone, then?”
@@ -2197,9 +2161,9 @@ III. The Yellow Face
       “How long did he wait?”
 
       “Half an hour, sir. He was a very restless gentleman, sir,
-      a-walkin’ and a-stampin’ all the time he was here. I was waitin’
-      outside the door, sir, and I could hear him. At last he outs into
-      the passage, and he cries, ‘Is that man never goin’ to come?’
+a-walkin’ and a-stampin’ all the time he was here. I was waitin’
+outside the door, sir, and I could hear him. At last he outs into
+the passage, and he cries, ‘Is that man never goin’ to come?’
       Those were his very words, sir. ‘You’ll only need to wait a
       little longer,’ says I. ‘Then I’ll wait in the open air, for I
       feel half choked,’ says he. ‘I’ll be back before long.’ And with
@@ -2217,7 +2181,7 @@ III. The Yellow Face
       his mind to leave a pipe behind him which he evidently values
       highly.”
 
-      “How do you know that he values it highly?” I asked.
+“How do you know that he values it highly?” I asked.
 
       “Well, I should put the original cost of the pipe at seven and
       sixpence. Now it has, you see, been twice mended, once in the
@@ -2288,7 +2252,7 @@ III. The Yellow Face
       “I wanted your advice, sir. I don’t know what to do and my whole
       life seems to have gone to pieces.”
 
-      “You wish to employ me as a consulting detective?”
+“You wish to employ me as a consulting detective?”
 
       “Not that only. I want your opinion as a judicious man—as a man
       of the world. I want to know what I ought to do next. I hope to
@@ -2333,8 +2297,8 @@ III. The Yellow Face
       thought or word or deed. And now, since last Monday, there has
       suddenly sprung up a barrier between us, and I find that there is
       something in her life and in her thought of which I know as
-      little as if she were the woman who brushes by me in the street.
-      We are estranged, and I want to know why.
+little as if she were the woman who brushes by me in the street.
+We are estranged, and I want to know why.
 
       “Now there is one thing that I want to impress upon you before I
       go any further, Mr. Holmes. Effie loves me. Don’t let there be
@@ -2389,21 +2353,21 @@ III. The Yellow Face
       “‘Well,’ said she, ‘I want a hundred pounds.’
 
       “I was a bit staggered at this, for I had imagined it was simply
-      a new dress or something of the kind that she was after.
+a new dress or something of the kind that she was after.
 
-      “‘What on earth for?’ I asked.
+“‘What on earth for?’ I asked.
 
-      “‘Oh,’ said she, in her playful way, ‘you said that you were only
-      my banker, and bankers never ask questions, you know.’
+“‘Oh,’ said she, in her playful way, ‘you said that you were only
+my banker, and bankers never ask questions, you know.’
 
-      “‘If you really mean it, of course you shall have the money,’
-      said I.
+“‘If you really mean it, of course you shall have the money,’
+said I.
 
-      “‘Oh, yes, I really mean it.’
+“‘Oh, yes, I really mean it.’
 
-      “‘And you won’t tell me what you want it for?’
+“‘And you won’t tell me what you want it for?’
 
-      “‘Some day, perhaps, but not just at present, Jack.’
+“‘Some day, perhaps, but not just at present, Jack.’
 
       “So I had to be content with that, though it was the first time
       that there had ever been any secret between us. I gave her a
@@ -2448,7 +2412,7 @@ III. The Yellow Face
       at the door, which was instantly opened by a tall, gaunt woman
       with a harsh, forbidding face.
 
-      “‘What may you be wantin’?’ she asked, in a Northern accent.
+“‘What may you be wantin’?’ she asked, in a Northern accent.
 
       “‘I am your neighbour over yonder,’ said I, nodding towards my
       house. ‘I see that you have only just moved in, so I thought that
@@ -2558,9 +2522,9 @@ III. The Yellow Face
       any assistance to our new neighbours. Why do you look at me like
       that, Jack? You are not angry with me?’
 
-      “‘So,’ said I, ‘this is where you went during the night.’
+“‘So,’ said I, ‘this is where you went during the night.’
 
-      “‘What do you mean?’ she cried.
+“‘What do you mean?’ she cried.
 
       “‘You came here. I am sure of it. Who are these people, that you
       should visit them at such an hour?’
@@ -2584,13 +2548,13 @@ III. The Yellow Face
       “‘Trust me, Jack!’ she cried. ‘Trust me only this once. You will
       never have cause to regret it. You know that I would not have a
       secret from you if it were not for your own sake. Our whole lives
-      are at stake in this. If you come home with me, all will be well.
-      If you force your way into that cottage, all is over between us.’
+are at stake in this. If you come home with me, all will be well.
+If you force your way into that cottage, all is over between us.’
 
-      “There was such earnestness, such despair, in her manner that her
-      words arrested me, and I stood irresolute before the door.
+“There was such earnestness, such despair, in her manner that her
+words arrested me, and I stood irresolute before the door.
 
-      “‘I will trust you on one condition, and on one condition only,’
+“‘I will trust you on one condition, and on one condition only,’
       said I at last. ‘It is that this mystery comes to an end from
       now. You are at liberty to preserve your secret, but you must
       promise me that there shall be no more nightly visits, no more
@@ -2617,13 +2581,13 @@ III. The Yellow Face
       back from this secret influence which drew her away from her
       husband and her duty.
 
-      “I had gone into town on that day, but I returned by the 2.40
-      instead of the 3.36, which is my usual train. As I entered the
-      house the maid ran into the hall with a startled face.
+“I had gone into town on that day, but I returned by the 2.40
+instead of the 3.36, which is my usual train. As I entered the
+house the maid ran into the hall with a startled face.
 
-      “‘Where is your mistress?’ I asked.
+“‘Where is your mistress?’ I asked.
 
-      “‘I think that she has gone out for a walk,’ she answered.
+“‘I think that she has gone out for a walk,’ she answered.
 
       “My mind was instantly filled with suspicion. I rushed upstairs
       to make sure that she was not in the house. As I did so I
@@ -2695,17 +2659,17 @@ III. The Yellow Face
       “Each time that I saw it I was some distance away from it, so
       that it is impossible for me to say.”
 
-      “You appear, however, to have been disagreeably impressed by it.”
+“You appear, however, to have been disagreeably impressed by it.”
 
       “It seemed to be of an unnatural colour, and to have a strange
       rigidity about the features. When I approached, it vanished with
       a jerk.”
 
-      “How long is it since your wife asked you for a hundred pounds?”
+“How long is it since your wife asked you for a hundred pounds?”
 
-      “Nearly two months.”
+“Nearly two months.”
 
-      “Have you ever seen a photograph of her first husband?”
+“Have you ever seen a photograph of her first husband?”
 
       “No; there was a great fire at Atlanta very shortly after his
       death, and all her papers were destroyed.”
@@ -2715,19 +2679,19 @@ III. The Yellow Face
 
       “Yes; she got a duplicate after the fire.”
 
-      “Did you ever meet any one who knew her in America?”
+“Did you ever meet any one who knew her in America?”
 
-      “No.”
+“No.”
 
-      “Did she ever talk of revisiting the place?”
+“Did she ever talk of revisiting the place?”
 
-      “No.”
+“No.”
 
-      “Or get letters from it?”
+“Or get letters from it?”
 
-      “No.”
+“No.”
 
-      “Thank you. I should like to think over the matter a little now.
+“Thank you. I should like to think over the matter a little now.
       If the cottage is now permanently deserted we may have some
       difficulty. If, on the other hand, as I fancy is more likely, the
       inmates were warned of your coming, and left before you entered
@@ -2751,12 +2715,12 @@ III. The Yellow Face
 
       “It had an ugly sound,” I answered.
 
-      “Yes. There’s blackmail in it, or I am much mistaken.”
+“Yes. There’s blackmail in it, or I am much mistaken.”
 
-      “And who is the blackmailer?”
+“And who is the blackmailer?”
 
-      “Well, it must be the creature who lives in the only comfortable
-      room in the place, and has her photograph above his fireplace.
+“Well, it must be the creature who lives in the only comfortable
+room in the place, and has her photograph above his fireplace.
       Upon my word, Watson, there is something very attractive about
       that livid face at the window, and I would not have missed the
       case for worlds.”
@@ -2799,10 +2763,10 @@ III. The Yellow Face
       the inmates out at the back door, into the grove of fir-trees,
       probably, which was mentioned as standing near. In this way he
       found the place deserted. I shall be very much surprised,
-      however, if it is still so when he reconnoitres it this evening.
-      What do you think of my theory?”
+however, if it is still so when he reconnoitres it this evening.
+What do you think of my theory?”
 
-      “It is all surmise.”
+“It is all surmise.”
 
       “But at least it covers all the facts. When new facts come to our
       knowledge which cannot be covered by it, it will be time enough
@@ -2829,9 +2793,9 @@ III. The Yellow Face
       house. I wish you both to be there as witnesses.”
 
       “You are quite determined to do this, in spite of your wife’s
-      warning that it is better that you should not solve the mystery?”
+warning that it is better that you should not solve the mystery?”
 
-      “Yes, I am determined.”
+“Yes, I am determined.”
 
       “Well, I think that you are in the right. Any truth is better
       than indefinite doubt. We had better go up at once. Of course,
@@ -2891,14 +2855,14 @@ III. The Yellow Face
       merriment; but Grant Munro stood staring, with his hand clutching
       his throat.
 
-      “My God!” he cried. “What can be the meaning of this?”
+“My God!” he cried. “What can be the meaning of this?”
 
       “I will tell you the meaning of it,” cried the lady, sweeping
       into the room with a proud, set face. “You have forced me,
       against my own judgment, to tell you, and now we must both make
-      the best of it. My husband died at Atlanta. My child survived.”
+the best of it. My husband died at Atlanta. My child survived.”
 
-      “Your child?”
+“Your child?”
 
       She drew a large silver locket from her bosom. “You have never
       seen this open.”
@@ -2980,8 +2944,6 @@ III. The Yellow Face
       ear, and I shall be infinitely obliged to you.”
 
 
-
-
 IV. The Stockbroker’s Clerk
 
 
@@ -3025,7 +2987,7 @@ IV. The Stockbroker’s Clerk
       looking over my old notes, and classifying some of our past
       results.”
 
-      “I trust that you don’t consider your collection closed.”
+“I trust that you don’t consider your collection closed.”
 
       “Not at all. I should wish nothing better than to have some more
       of such experiences.”
@@ -3128,9 +3090,9 @@ IV. The Stockbroker’s Clerk
       pulled down in a half-comical distress. It was not, however,
       until we were all in a first-class carriage and well started upon
       our journey to Birmingham that I was able to learn what the
-      trouble was which had driven him to Sherlock Holmes.
+trouble was which had driven him to Sherlock Holmes.
 
-      “We have a clear run here of seventy minutes,” Holmes remarked.
+“We have a clear run here of seventy minutes,” Holmes remarked.
       “I want you, Mr. Hall Pycroft, to tell my friend your very
       interesting experience exactly as you have told it to me, or with
       more detail if possible. It will be of use to me to hear the
@@ -3140,16 +3102,16 @@ IV. The Stockbroker’s Clerk
       as dear to you as they are to me. Now, Mr. Pycroft, I shall not
       interrupt you again.”
 
-      Our young companion looked at me with a twinkle in his eye.
+Our young companion looked at me with a twinkle in his eye.
 
       “The worst of the story is,” said he, “that I show myself up as
       such a confounded fool. Of course it may work out all right, and
       I don’t see that I could have done otherwise; but if I have lost
       my crib and get nothing in exchange I shall feel what a soft
-      Johnnie I have been. I’m not very good at telling a story, Dr.
-      Watson, but it is like this with me:
+Johnnie I have been. I’m not very good at telling a story, Dr.
+Watson, but it is like this with me:
 
-      “I used to have a billet at Coxon & Woodhouse, of Drapers’
+“I used to have a billet at Coxon & Woodhouse, of Drapers’
       Gardens, but they were let in early in the spring through the
       Venezuelan loan, as no doubt you remember, and came a nasty
       cropper. I had been with them five years, and old Coxon gave me a
@@ -3193,15 +3155,15 @@ IV. The Stockbroker’s Clerk
 
       “‘Mr. Hall Pycroft, I believe?’” said he.
 
-      “‘Yes, sir,’ I answered, pushing a chair towards him.
+“‘Yes, sir,’ I answered, pushing a chair towards him.
 
-      “‘Lately engaged at Coxon & Woodhouse’s?’
+“‘Lately engaged at Coxon & Woodhouse’s?’
 
-      “‘Yes, sir.’
+“‘Yes, sir.’
 
-      “‘And now on the staff of Mawson’s.’
+“‘And now on the staff of Mawson’s.’
 
-      “‘Quite so.’
+“‘Quite so.’
 
       “‘Well,’ said he, ‘the fact is that I have heard some really
       extraordinary stories about your financial ability. You remember
@@ -3219,7 +3181,7 @@ IV. The Stockbroker’s Clerk
       “‘Have you kept in touch with the market while you have been out
       of work?’ he asked.
 
-      “‘Yes; I read the Stock Exchange List every morning.’
+“‘Yes; I read the Stock Exchange List every morning.’
 
       “‘Now that shows real application!’ he cried. ‘That is the way to
       prosper! You won’t mind my testing you, will you? Let me see. How
@@ -3263,7 +3225,7 @@ IV. The Stockbroker’s Clerk
       thirty-four branches in the towns and villages of France, not
       counting one in Brussels and one in San Remo.’
 
-      “This took my breath away. ‘I never heard of it,’ said I.
+“This took my breath away. ‘I never heard of it,’ said I.
 
       “‘Very likely not. It has been kept very quiet, for the capital
       was all privately subscribed, and it’s too good a thing to let
@@ -3305,10 +3267,10 @@ IV. The Stockbroker’s Clerk
       my pocket here which you will take to my brother. You will find
       him at 126B, Corporation Street, where the temporary offices of
       the company are situated. Of course he must confirm your
-      engagement, but between ourselves it will be all right.’
+engagement, but between ourselves it will be all right.’
 
-      “‘Really, I hardly know how to express my gratitude, Mr. Pinner,’
-      said I.
+“‘Really, I hardly know how to express my gratitude, Mr. Pinner,’
+said I.
 
       “‘Not at all, my boy. You have only got your deserts. There are
       one or two small things—mere formalities—which I must arrange
@@ -3317,7 +3279,7 @@ IV. The Stockbroker’s Clerk
       Franco-Midland Hardware Company, Limited, at a minimum salary of
       £500.”’
 
-      “I did as he asked, and he put the paper in his pocket.
+“I did as he asked, and he put the paper in his pocket.
 
       “‘There is one other detail,’ said he. ‘What do you intend to do
       about Mawson’s?’
@@ -3380,7 +3342,7 @@ IV. The Stockbroker’s Clerk
       I had a note from my brother this morning in which he sang your
       praises very loudly.’
 
-      “‘I was just looking for the offices when you came.’
+“‘I was just looking for the offices when you came.’
 
       “‘We have not got our name up yet, for we only secured these
       temporary premises last week. Come up with me, and we will talk
@@ -3397,12 +3359,12 @@ IV. The Stockbroker’s Clerk
       “‘Don’t be disheartened, Mr. Pycroft,’ said my new acquaintance,
       seeing the length of my face. ‘Rome was not built in a day, and
       we have lots of money at our backs, though we don’t cut much dash
-      yet in offices. Pray sit down, and let me have your letter.’
+yet in offices. Pray sit down, and let me have your letter.’
 
-      “I gave it to him, and he read it over very carefully.
+“I gave it to him, and he read it over very carefully.
 
-      “‘You seem to have made a vast impression upon my brother
-      Arthur,’ said he; ‘and I know that he is a pretty shrewd judge.
+“‘You seem to have made a vast impression upon my brother
+Arthur,’ said he; ‘and I know that he is a pretty shrewd judge.
       He swears by London, you know; and I by Birmingham; but this time
       I shall follow his advice. Pray consider yourself definitely
       engaged.’
@@ -3417,14 +3379,14 @@ IV. The Stockbroker’s Clerk
 
       “‘How?’
 
-      “For answer, he took a big red book out of a drawer.
+“For answer, he took a big red book out of a drawer.
 
       “‘This is a directory of Paris,’ said he, ‘with the trades after
       the names of the people. I want you to take it home with you, and
       to mark off all the hardware sellers, with their addresses. It
       would be of the greatest use to me to have them.’
 
-      “‘Surely there are classified lists?’ I suggested.
+“‘Surely there are classified lists?’ I suggested.
 
       “‘Not reliable ones. Their system is different from ours. Stick
       at it, and let me have the lists by Monday, at twelve. Good-day,
@@ -3442,8 +3404,8 @@ IV. The Stockbroker’s Clerk
       only got as far as H. I went round to my employer, found him in
       the same dismantled kind of room, and was told to keep at it
       until Wednesday, and then come again. On Wednesday it was still
-      unfinished, so I hammered away until Friday—that is, yesterday.
-      Then I brought it round to Mr. Harry Pinner.
+unfinished, so I hammered away until Friday—that is, yesterday.
+Then I brought it round to Mr. Harry Pinner.
 
       “‘Thank you very much,’ said he; ‘I fear that I underrated the
       difficulty of the task. This list will be of very material
@@ -3466,10 +3428,10 @@ IV. The Stockbroker’s Clerk
       Sherlock Holmes rubbed his hands with delight, and I stared with
       astonishment at our client.
 
-      “You may well look surprised, Dr. Watson; but it is this way,”
-      said he: “When I was speaking to the other chap in London, at the
-      time that he laughed at my not going to Mawson’s, I happened to
-      notice that his tooth was stuffed in this very identical fashion.
+“You may well look surprised, Dr. Watson; but it is this way,”
+said he: “When I was speaking to the other chap in London, at the
+time that he laughed at my not going to Mawson’s, I happened to
+notice that his tooth was stuffed in this very identical fashion.
       The glint of the gold in each case caught my eye, you see. When I
       put that with the voice and figure being the same, and only those
       things altered which might be changed by a razor or a wig, I
@@ -3566,18 +3528,18 @@ IV. The Stockbroker’s Clerk
 
       “Very possibly! Very possibly!” cried Mr. Pinner with a ghastly
       smile. “Yes, I have no doubt that we shall be able to do
-      something for you. What is your particular line, Mr. Harris?”
+something for you. What is your particular line, Mr. Harris?”
 
-      “I am an accountant,” said Holmes.
+“I am an accountant,” said Holmes.
 
-      “Ah yes, we shall want something of the sort. And you, Mr.
-      Price?”
+“Ah yes, we shall want something of the sort. And you, Mr.
+Price?”
 
-      “A clerk,” said I.
+“A clerk,” said I.
 
-      “I have every hope that the company may accommodate you. I will
-      let you know about it as soon as we come to any conclusion. And
-      now I beg that you will go. For God’s sake leave me to myself!”
+“I have every hope that the company may accommodate you. I will
+let you know about it as soon as we come to any conclusion. And
+now I beg that you will go. For God’s sake leave me to myself!”
 
       These last words were shot out of him, as though the constraint
       which he was evidently setting upon himself had suddenly and
@@ -3595,33 +3557,33 @@ IV. The Stockbroker’s Clerk
       to us, he passed out through a door at the farther end of the
       room, which he closed behind him.
 
-      “What now?” whispered Holmes. “Is he giving us the slip?”
+“What now?” whispered Holmes. “Is he giving us the slip?”
 
-      “Impossible,” answered Pycroft.
+“Impossible,” answered Pycroft.
 
-      “Why so?”
+“Why so?”
 
-      “That door leads into an inner room.”
+“That door leads into an inner room.”
 
-      “There is no exit?”
+“There is no exit?”
 
-      “None.”
+“None.”
 
-      “Is it furnished?”
+“Is it furnished?”
 
-      “It was empty yesterday.”
+“It was empty yesterday.”
 
       “Then what on earth can he be doing? There is something which I
       don’t understand in this manner. If ever a man was three parts
       mad with terror, that man’s name is Pinner. What can have put the
       shivers on him?”
 
-      “He suspects that we are detectives,” I suggested.
+“He suspects that we are detectives,” I suggested.
 
-      “That’s it,” cried Pycroft.
+“That’s it,” cried Pycroft.
 
-      Holmes shook his head. “He did not turn pale. He was pale when we
-      entered the room,” said he. “It is just possible that—”
+Holmes shook his head. “He did not turn pale. He was pale when we
+entered the room,” said he. “It is just possible that—”
 
       His words were interrupted by a sharp rat-tat from the direction
       of the inner door.
@@ -3631,10 +3593,10 @@ IV. The Stockbroker’s Clerk
 
       Again and much louder came the rat-tat-tat. We all gazed
       expectantly at the closed door. Glancing at Holmes, I saw his
-      face turn rigid, and he leaned forward in intense excitement.
-      Then suddenly came a low guggling, gargling sound, and a brisk
-      drumming upon woodwork. Holmes sprang frantically across the room
-      and pushed at the door. It was fastened on the inner side.
+face turn rigid, and he leaned forward in intense excitement.
+Then suddenly came a low guggling, gargling sound, and a brisk
+drumming upon woodwork. Holmes sprang frantically across the room
+and pushed at the door. It was fastened on the inner side.
       Following his example, we threw ourselves upon it with all our
       weight. One hinge snapped, then the other, and down came the door
       with a crash. Rushing over it, we found ourselves in the inner
@@ -3685,7 +3647,7 @@ IV. The Stockbroker’s Clerk
 
       “You understand the rest, then?”
 
-      “I think that it is fairly obvious. What do you say, Watson?”
+“I think that it is fairly obvious. What do you say, Watson?”
 
       I shrugged my shoulders. “I must confess that I am out of my
       depths,” said I.
@@ -3706,9 +3668,9 @@ IV. The Stockbroker’s Clerk
       for these arrangements are usually verbal, and there was no
       earthly business reason why this should be an exception. Don’t
       you see, my young friend, that they were very anxious to obtain a
-      specimen of your handwriting, and had no other way of doing it?”
+specimen of your handwriting, and had no other way of doing it?”
 
-      “And why?”
+“And why?”
 
       “Quite so. Why? When we answer that we have made some progress
       with our little problem. Why? There can be only one adequate
@@ -3721,16 +3683,16 @@ IV. The Stockbroker’s Clerk
       had never seen, was about to enter the office upon the Monday
       morning.”
 
-      “My God!” cried our client, “what a blind beetle I have been!”
+“My God!” cried our client, “what a blind beetle I have been!”
 
       “Now you see the point about the handwriting. Suppose that some
       one turned up in your place who wrote a completely different hand
       from that in which you had applied for the vacancy, of course the
       game would have been up. But in the interval the rogue had
       learned to imitate you, and his position was therefore secure, as
-      I presume that nobody in the office had ever set eyes upon you.”
+I presume that nobody in the office had ever set eyes upon you.”
 
-      “Not a soul,” groaned Hall Pycroft.
+“Not a soul,” groaned Hall Pycroft.
 
       “Very good. Of course it was of the utmost importance to prevent
       you from thinking better of it, and also to keep you from coming
@@ -3741,28 +3703,28 @@ IV. The Stockbroker’s Clerk
       where you might have burst their little game up. That is all
       plain enough.”
 
-      “But why should this man pretend to be his own brother?”
+“But why should this man pretend to be his own brother?”
 
       “Well, that is pretty clear also. There are evidently only two of
       them in it. The other is impersonating you at the office. This
       one acted as your engager, and then found that he could not find
-      you an employer without admitting a third person into his plot.
-      That he was most unwilling to do. He changed his appearance as
-      far as he could, and trusted that the likeness, which you could
-      not fail to observe, would be put down to a family resemblance.
+you an employer without admitting a third person into his plot.
+That he was most unwilling to do. He changed his appearance as
+far as he could, and trusted that the likeness, which you could
+not fail to observe, would be put down to a family resemblance.
       But for the happy chance of the gold stuffing, your suspicions
       would probably never have been aroused.”
 
       Hall Pycroft shook his clinched hands in the air. “Good Lord!” he
       cried, “while I have been fooled in this way, what has this other
-      Hall Pycroft been doing at Mawson’s? What should we do, Mr.
-      Holmes? Tell me what to do.”
+Hall Pycroft been doing at Mawson’s? What should we do, Mr.
+Holmes? Tell me what to do.”
 
-      “We must wire to Mawson’s.”
+“We must wire to Mawson’s.”
 
-      “They shut at twelve on Saturdays.”
+“They shut at twelve on Saturdays.”
 
-      “Never mind. There may be some door-keeper or attendant—”
+“Never mind. There may be some door-keeper or attendant—”
 
       “Ah yes, they keep a permanent guard there on account of the
       value of the securities that they hold. I remember hearing it
@@ -3845,8 +3807,6 @@ IV. The Stockbroker’s Clerk
       the kindness to step out for the police.”
 
 
-
-
 V. The “_Gloria Scott_”
 
 
@@ -3882,7 +3842,7 @@ V. The “_Gloria Scott_”
       that there were very particular reasons why I should study this
       case?”
 
-      “Because it was the first in which I was ever engaged.”
+“Because it was the first in which I was ever engaged.”
 
       I had often endeavoured to elicit from my companion what had
       first turned his mind in the direction of criminal research, but
@@ -3921,9 +3881,9 @@ V. The “_Gloria Scott_”
       was excellent wild-duck shooting in the fens, remarkably good
       fishing, a small but select library, taken over, as I understood,
       from a former occupant, and a tolerable cook, so that he would be
-      a fastidious man who could not put in a pleasant month there.
+a fastidious man who could not put in a pleasant month there.
 
-      “Trevor senior was a widower, and my friend his only son.
+“Trevor senior was a widower, and my friend his only son.
 
       “There had been a daughter, I heard, but she had died of
       diphtheria while on a visit to Birmingham. The father interested
@@ -3976,21 +3936,21 @@ V. The “_Gloria Scott_”
       out of the straight?’
 
       “‘No,’ said I. ‘It is your ears. They have the peculiar
-      flattening and thickening which marks the boxing man.’
+flattening and thickening which marks the boxing man.’
 
-      “‘Anything else?’
+“‘Anything else?’
 
-      “‘You have done a good deal of digging by your callosities.’
+“‘You have done a good deal of digging by your callosities.’
 
-      “‘Made all my money at the gold fields.’
+“‘Made all my money at the gold fields.’
 
-      “‘You have been in New Zealand.’
+“‘You have been in New Zealand.’
 
-      “‘Right again.’
+“‘Right again.’
 
-      “‘You have visited Japan.’
+“‘You have visited Japan.’
 
-      “‘Quite true.’
+“‘Quite true.’
 
       “‘And you have been most intimately associated with some one
       whose initials were J. A., and whom you afterwards were eager to
@@ -4019,9 +3979,9 @@ V. The “_Gloria Scott_”
       Watson, the very first thing which ever made me feel that a
       profession might be made out of what had up to that time been the
       merest hobby. At the moment, however, I was too much concerned at
-      the sudden illness of my host to think of anything else.
+the sudden illness of my host to think of anything else.
 
-      “‘I hope that I have said nothing to pain you?’ said I.
+“‘I hope that I have said nothing to pain you?’ said I.
 
       “‘Well, you certainly touched upon rather a tender point. Might I
       ask how you know, and how much you know?’ He spoke now in a
@@ -4080,7 +4040,7 @@ V. The “_Gloria Scott_”
       He was back in a moment, and I smelt a strong reek of brandy as
       he passed me.
 
-      “‘Well, my man,’ said he, ‘what can I do for you?’
+“‘Well, my man,’ said he, ‘what can I do for you?’
 
       “The sailor stood looking at him with puckered eyes, and with the
       same loose-lipped smile upon his face.
@@ -4102,10 +4062,10 @@ V. The “_Gloria Scott_”
 
       “‘Thank you, sir,’ said the seaman, touching his forelock. ‘I’m
       just off a two-yearer in an eight-knot tramp, short-handed at
-      that, and I wants a rest. I thought I’d get it either with Mr.
-      Beddoes or with you.’
+that, and I wants a rest. I thought I’d get it either with Mr.
+Beddoes or with you.’
 
-      “‘Ah!’ cried Trevor. ‘You know where Mr. Beddoes is?’
+“‘Ah!’ cried Trevor. ‘You know where Mr. Beddoes is?’
 
       “‘Bless you, sir, I know where all my old friends are,’ said the
       fellow with a sinister smile, and he slouched off after the maid
@@ -4132,9 +4092,9 @@ V. The “_Gloria Scott_”
       him. He had grown thin and careworn, and had lost the loud,
       cheery manner for which he had been remarkable.
 
-      “‘The governor is dying,’ were the first words he said.
+“‘The governor is dying,’ were the first words he said.
 
-      “‘Impossible!’ I cried. ‘What is the matter?’
+“‘Impossible!’ I cried. ‘What is the matter?’
 
       “‘Apoplexy. Nervous shock, He’s been on the verge all day. I
       doubt if we shall find him alive.’
@@ -4150,13 +4110,13 @@ V. The “_Gloria Scott_”
 
       “‘Perfectly.’
 
-      “‘Do you know who it was that we let into the house that day?’
+“‘Do you know who it was that we let into the house that day?’
 
-      “‘I have no idea.’
+“‘I have no idea.’
 
-      “‘It was the devil, Holmes,’ he cried.
+“‘It was the devil, Holmes,’ he cried.
 
-      “I stared at him in astonishment.
+“I stared at him in astonishment.
 
       “‘Yes, it was the devil himself. We have not had a peaceful hour
       since—not one. The governor has never held up his head from that
@@ -4213,14 +4173,14 @@ V. The “_Gloria Scott_”
       “‘That evening there came what seemed to me to be a grand
       release, for Hudson told us that he was going to leave us. He
       walked into the dining-room as we sat after dinner, and announced
-      his intention in the thick voice of a half-drunken man.
+his intention in the thick voice of a half-drunken man.
 
-      “‘“I’ve had enough of Norfolk,” said he. “I’ll run down to Mr.
+“‘“I’ve had enough of Norfolk,” said he. “I’ll run down to Mr.
       Beddoes in Hampshire. He’ll be as glad to see me as you were, I
       daresay.”
 
-      “‘“You’re not going away in an unkind spirit, Hudson, I hope,”
-      said my father, with a tameness which made my blood boil.
+“‘“You’re not going away in an unkind spirit, Hudson, I hope,”
+said my father, with a tameness which made my blood boil.
 
       “‘“I’ve not had my ’pology,” said he sulkily, glancing in my
       direction.
@@ -4326,7 +4286,7 @@ V. The “_Gloria Scott_”
       “It was short and terse, the warning, as I now read it to my
       companion:
 
-      “‘The game is up. Hudson has told all. Fly for your life.’
+“‘The game is up. Hudson has told all. Fly for your life.’
 
       “Victor Trevor sank his face into his shaking hands. ‘It must be
       that, I suppose,’ said he. ‘This is worse than death, for it
@@ -4443,7 +4403,7 @@ V. The “_Gloria Scott_”
       “‘“Hallao, chummy!” said he, “what’s your name, and what are you
       here for?”
 
-      “‘I answered him, and asked in turn who I was talking with.
+“‘I answered him, and asked in turn who I was talking with.
 
       “‘“I’m Jack Prendergast,” said he, “and by God! You’ll learn to
       bless my name before you’ve done with me.”
@@ -4455,25 +4415,25 @@ V. The “_Gloria Scott_”
       fraud obtained huge sums of money from the leading London
       merchants.
 
-      “‘“Ha, ha! You remember my case!” said he proudly.
+“‘“Ha, ha! You remember my case!” said he proudly.
 
-      “‘“Very well, indeed.”
+“‘“Very well, indeed.”
 
-      “‘“Then maybe you remember something queer about it?”
+“‘“Then maybe you remember something queer about it?”
 
-      “‘“What was that, then?”
+“‘“What was that, then?”
 
-      “‘“I’d had nearly a quarter of a million, hadn’t I?”
+“‘“I’d had nearly a quarter of a million, hadn’t I?”
 
-      “‘“So it was said.”
+“‘“So it was said.”
 
-      “‘“But none was recovered, eh?”
+“‘“But none was recovered, eh?”
 
-      “‘“No.”
+“‘“No.”
 
-      “‘“Well, where d’ye suppose the balance is?” he asked.
+“‘“Well, where d’ye suppose the balance is?” he asked.
 
-      “‘“I have no idea,” said I.
+“‘“I have no idea,” said I.
 
       “‘“Right between my finger and thumb,” he cried. “By God! I’ve
       got more pounds to my name than you’ve hairs on your head. And if
@@ -4518,9 +4478,9 @@ V. The “_Gloria Scott_”
       to-night, and see if he is to be trusted.”
 
       “‘I did so, and found my other neighbour to be a young fellow in
-      much the same position as myself, whose crime had been forgery.
-      His name was Evans, but he afterwards changed it, like myself,
-      and he is now a rich and prosperous man in the south of England.
+much the same position as myself, whose crime had been forgery.
+His name was Evans, but he afterwards changed it, like myself,
+and he is now a rich and prosperous man in the south of England.
       He was ready enough to join the conspiracy, as the only means of
       saving ourselves, and before we had crossed the Bay there were
       only two of the prisoners who were not in the secret. One of
@@ -4539,8 +4499,8 @@ V. The “_Gloria Scott_”
       right-hand man. The captain, the two mates, two warders,
       Lieutenant Martin, his eighteen soldiers, and the doctor were all
       that we had against us. Yet, safe as it was, we determined to
-      neglect no precaution, and to make our attack suddenly by night.
-      It came, however, more quickly than we expected, and in this way.
+neglect no precaution, and to make our attack suddenly by night.
+It came, however, more quickly than we expected, and in this way.
 
       “‘One evening, about the third week after our start, the doctor
       had come down to see one of the prisoners who was ill, and
@@ -4588,9 +4548,9 @@ V. The “_Gloria Scott_”
       devil, and he picked the soldiers up as if they had been children
       and threw them overboard alive or dead. There was one sergeant
       that was horribly wounded and yet kept on swimming for a
-      surprising time, until some one in mercy blew out his brains.
-      When the fighting was over there was no one left of our enemies
-      except just the warders, the mates, and the doctor.
+surprising time, until some one in mercy blew out his brains.
+When the fighting was over there was no one left of our enemies
+except just the warders, the mates, and the doctor.
 
       “‘It was over them that the great quarrel arose. There were many
       of us who were glad enough to win back our freedom, and yet who
@@ -4676,10 +4636,10 @@ V. The “_Gloria Scott_”
       After an excellent voyage the _Hotspur_ landed us at Sydney,
       where Evans and I changed our names and made our way to the
       diggings, where, among the crowds who were gathered from all
-      nations, we had no difficulty in losing our former identities.
+nations, we had no difficulty in losing our former identities.
 
-      “‘The rest I need not relate. We prospered, we travelled, we came
-      back as rich colonials to England, and we bought country estates.
+“‘The rest I need not relate. We prospered, we travelled, we came
+back as rich colonials to England, and we bought country estates.
       For more than twenty years we have led peaceful and useful lives,
       and we hoped that our past was forever buried. Imagine, then, my
       feelings when in the seaman who came to us I recognised instantly
@@ -4712,8 +4672,6 @@ V. The “_Gloria Scott_”
       are the facts of the case, Doctor, and if they are of any use to
       your collection, I am sure that they are very heartily at your
       service.”
-
-
 
 
 VI. The Musgrave Ritual
@@ -4888,7 +4846,7 @@ VI. The Musgrave Ritual
       Holmes, that you are turning to practical ends those powers with
       which you used to amaze us?’
 
-      “‘Yes,’ said I, ‘I have taken to living by my wits.’
+“‘Yes,’ said I, ‘I have taken to living by my wits.’
 
       “‘I am delighted to hear it, for your advice at present would be
       exceedingly valuable to me. We have had some very strange doings
@@ -4909,9 +4867,9 @@ VI. The Musgrave Ritual
 
       “‘You must know,’ said he, ‘that though I am a bachelor, I have
       to keep up a considerable staff of servants at Hurlstone, for it
-      is a rambling old place, and takes a good deal of looking after.
-      I preserve, too, and in the pheasant months I usually have a
-      house-party, so that it would not do to be short-handed.
+is a rambling old place, and takes a good deal of looking after.
+I preserve, too, and in the pheasant months I usually have a
+house-party, so that it would not do to be short-handed.
       Altogether there are eight maids, the cook, the butler, two
       footmen, and a boy. The garden and the stables of course have a
       separate staff.
@@ -5005,7 +4963,7 @@ VI. The Musgrave Ritual
       importance to the archaeologist, like our own blazonings and
       charges, but of no practical use whatever.’
 
-      “‘We had better come back to the paper afterwards,’ said I.
+“‘We had better come back to the paper afterwards,’ said I.
 
       “‘If you think it really necessary,’ he answered, with some
       hesitation. ‘To continue my statement, however: I relocked the
@@ -5020,9 +4978,9 @@ VI. The Musgrave Ritual
       despair. If you cannot keep me after what has passed, then for
       God’s sake let me give you notice and leave in a month, as if of
       my own free will. I could stand that, Mr. Musgrave, but not to be
-      cast out before all the folk that I know so well.”
+cast out before all the folk that I know so well.”
 
-      “‘“You don’t deserve much consideration, Brunton,” I answered.
+“‘“You don’t deserve much consideration, Brunton,” I answered.
       “Your conduct has been most infamous. However, as you have been a
       long time in the family, I have no wish to bring public disgrace
       upon you. A month, however is too long. Take yourself away in a
@@ -5165,15 +5123,15 @@ VI. The Musgrave Ritual
       “How was it stepped?’
 
       “‘North by ten and by ten, east by five and by five, south by two
-      and by two, west by one and by one, and so under.’
+and by two, west by one and by one, and so under.’
 
-      “‘What shall we give for it?’
+“‘What shall we give for it?’
 
-      “‘All that is ours.’
+“‘All that is ours.’
 
-      “‘Why should we give it?’
+“‘Why should we give it?’
 
-      “‘For the sake of the trust.’
+“‘For the sake of the trust.’
 
       “‘The original has no date, but is in the spelling of the middle
       of the seventeenth century,’ remarked Musgrave. ‘I am afraid,
@@ -5194,7 +5152,7 @@ VI. The Musgrave Ritual
       Brunton took the same view. He had probably seen it before that
       night on which you caught him.’
 
-      “‘It is very possible. We took no pains to hide it.’
+“‘It is very possible. We took no pains to hide it.’
 
       “‘He simply wished, I should imagine, to refresh his memory upon
       that last occasion. He had, as I understand, some sort of map or
@@ -5255,17 +5213,17 @@ VI. The Musgrave Ritual
       “‘Have you any old elms?’ I asked.
 
       “‘There used to be a very old one over yonder but it was struck
-      by lightning ten years ago, and we cut down the stump.’
+by lightning ten years ago, and we cut down the stump.’
 
-      “‘You can see where it used to be?’
+“‘You can see where it used to be?’
 
-      “‘Oh, yes.’
+“‘Oh, yes.’
 
-      “‘There are no other elms?’
+“‘There are no other elms?’
 
-      “‘No old ones, but plenty of beeches.’
+“‘No old ones, but plenty of beeches.’
 
-      “‘I should like to see where it grew.’
+“‘I should like to see where it grew.’
 
       “We had driven up in a dog-cart, and my client led me away at
       once, without our entering the house, to the scar on the lawn
@@ -5275,13 +5233,13 @@ VI. The Musgrave Ritual
       “‘I suppose it is impossible to find out how high the elm was?’ I
       asked.
 
-      “‘I can give you it at once. It was sixty-four feet.’
+“‘I can give you it at once. It was sixty-four feet.’
 
-      “‘How do you come to know it?’ I asked, in surprise.
+“‘How do you come to know it?’ I asked, in surprise.
 
-      “‘When my old tutor used to give me an exercise in trigonometry,
-      it always took the shape of measuring heights. When I was a lad I
-      worked out every tree and building in the estate.’
+“‘When my old tutor used to give me an exercise in trigonometry,
+it always took the shape of measuring heights. When I was a lad I
+worked out every tree and building in the estate.’
 
       “This was an unexpected piece of luck. My data were coming more
       quickly than I could have reasonably hoped.
@@ -5348,16 +5306,16 @@ VI. The Musgrave Ritual
       meaning of my proceedings, and who was now as excited as myself,
       took out his manuscript to check my calculation.
 
-      “‘And under,’ he cried. ‘You have omitted the “and under.”’
+“‘And under,’ he cried. ‘You have omitted the “and under.”’
 
       “I had thought that it meant that we were to dig, but now, of
       course, I saw at once that I was wrong. ‘There is a cellar under
       this then?’ I cried.
 
-      “‘Yes, and as old as the house. Down here, through this door.’
+“‘Yes, and as old as the house. Down here, through this door.’
 
-      “We went down a winding stone stair, and my companion, striking a
-      match, lit a large lantern which stood on a barrel in the corner.
+“We went down a winding stone stair, and my companion, striking a
+match, lit a large lantern which stood on a barrel in the corner.
       In an instant it was obvious that we had at last come upon the
       true place, and that we had not been the only people to visit the
       spot recently.
@@ -5551,18 +5509,16 @@ VI. The Musgrave Ritual
       oversight left this guide to his descendant without explaining
       the meaning of it. From that day to this it has been handed down
       from father to son, until at last it came within reach of a man
-      who tore its secret out of it and lost his life in the venture.’
+who tore its secret out of it and lost his life in the venture.’
 
-      “And that’s the story of the Musgrave Ritual, Watson. They have
-      the crown down at Hurlstone—though they had some legal bother and
-      a considerable sum to pay before they were allowed to retain it.
+“And that’s the story of the Musgrave Ritual, Watson. They have
+the crown down at Hurlstone—though they had some legal bother and
+a considerable sum to pay before they were allowed to retain it.
       I am sure that if you mentioned my name they would be happy to
       show it to you. Of the woman nothing was ever heard, and the
       probability is that she got away out of England and carried
       herself and the memory of her crime to some land beyond the
       seas.”
-
-
 
 
 VII. The Reigate Squires
@@ -5617,23 +5573,23 @@ VII. The Reigate Squires
 
       On the evening of our arrival we were sitting in the Colonel’s
       gun-room after dinner, Holmes stretched upon the sofa, while
-      Hayter and I looked over his little armoury of fire-arms.
+Hayter and I looked over his little armoury of fire-arms.
 
-      “By the way,” said he suddenly, “I think I’ll take one of these
-      pistols upstairs with me in case we have an alarm.”
+“By the way,” said he suddenly, “I think I’ll take one of these
+pistols upstairs with me in case we have an alarm.”
 
-      “An alarm!” said I.
+“An alarm!” said I.
 
       “Yes, we’ve had a scare in this part lately. Old Acton, who is
       one of our county magnates, had his house broken into last
       Monday. No great damage done, but the fellows are still at
       large.”
 
-      “No clue?” asked Holmes, cocking his eye at the Colonel.
+“No clue?” asked Holmes, cocking his eye at the Colonel.
 
-      “None as yet. But the affair is a petty one, one of our little
-      country crimes, which must seem too small for your attention, Mr.
-      Holmes, after this great international affair.”
+“None as yet. But the affair is a petty one, one of our little
+country crimes, which must seem too small for your attention, Mr.
+Holmes, after this great international affair.”
 
       Holmes waved away the compliment, though his smile showed that it
       had pleased him.
@@ -5676,9 +5632,9 @@ VII. The Reigate Squires
       “Have you heard the news, sir?” he gasped. “At the Cunningham’s
       sir!”
 
-      “Burglary!” cried the Colonel, with his coffee-cup in mid-air.
+“Burglary!” cried the Colonel, with his coffee-cup in mid-air.
 
-      “Murder!”
+“Murder!”
 
       The Colonel whistled. “By Jove!” said he. “Who’s killed, then?
       The J.P. or his son?”
@@ -5745,19 +5701,19 @@ VII. The Reigate Squires
       The Colonel waved his hand towards my friend, and the Inspector
       bowed.
 
-      “We thought that perhaps you would care to step across, Mr.
-      Holmes.”
+“We thought that perhaps you would care to step across, Mr.
+Holmes.”
 
       “The fates are against you, Watson,” said he, laughing. “We were
       chatting about the matter when you came in, Inspector. Perhaps
       you can let us have a few details.” As he leaned back in his
-      chair in the familiar attitude I knew that the case was hopeless.
+chair in the familiar attitude I knew that the case was hopeless.
 
-      “We had no clue in the Acton affair. But here we have plenty to
-      go on, and there’s no doubt it is the same party in each case.
-      The man was seen.”
+“We had no clue in the Acton affair. But here we have plenty to
+go on, and there’s no doubt it is the same party in each case.
+The man was seen.”
 
-      “Ah!”
+“Ah!”
 
       “Yes, sir. But he was off like a deer after the shot that killed
       poor William Kirwan was fired. Mr. Cunningham saw him from the
@@ -5787,7 +5743,7 @@ VII. The Reigate Squires
       must have just burst open the door—the lock has been forced—when
       William came upon him.”
 
-      “Did William say anything to his mother before going out?”
+“Did William say anything to his mother before going out?”
 
       “She is very old and deaf, and we can get no information from
       her. The shock has made her half-witted, but I understand that
@@ -5838,20 +5794,20 @@ scrap of paper
       in it which fascinates me extremely. If you will permit me,
       Colonel, I will leave my friend Watson and you, and I will step
       round with the Inspector to test the truth of one or two little
-      fancies of mine. I will be with you again in half an hour.”
+fancies of mine. I will be with you again in half an hour.”
 
-      An hour and half had elapsed before the Inspector returned alone.
+An hour and half had elapsed before the Inspector returned alone.
 
-      “Mr. Holmes is walking up and down in the field outside,” said
-      he. “He wants us all four to go up to the house together.”
+“Mr. Holmes is walking up and down in the field outside,” said
+he. “He wants us all four to go up to the house together.”
 
-      “To Mr. Cunningham’s?”
+“To Mr. Cunningham’s?”
 
-      “Yes, sir.”
+“Yes, sir.”
 
-      “What for?”
+“What for?”
 
-      The Inspector shrugged his shoulders. “I don’t quite know, sir.
+The Inspector shrugged his shoulders. “I don’t quite know, sir.
       Between ourselves, I think Mr. Holmes had not quite got over his
       illness yet. He’s been behaving very queerly, and he is very much
       excited.”
@@ -5894,9 +5850,9 @@ scrap of paper
       “Naturally.”
 
       “Then we had a look at this poor fellow’s mother. We could get no
-      information from her, however, as she is very old and feeble.”
+information from her, however, as she is very old and feeble.”
 
-      “And what is the result of your investigations?”
+“And what is the result of your investigations?”
 
       “The conviction that the crime is a very peculiar one. Perhaps
       our visit now may do something to make it less obscure. I think
@@ -5933,8 +5889,8 @@ scrap of paper
       letter by the afternoon post yesterday. The envelope was
       destroyed by him.”
 
-      “Excellent!” cried Holmes, clapping the Inspector on the back.
-      “You’ve seen the postman. It is a pleasure to work with you.
+“Excellent!” cried Holmes, clapping the Inspector on the back.
+“You’ve seen the postman. It is a pleasure to work with you.
       Well, here is the lodge, and if you will come up, Colonel, I will
       show you the scene of the crime.”
 
@@ -5963,7 +5919,7 @@ scrap of paper
       were never at fault. You don’t seem to be so very quick, after
       all.”
 
-      “Ah, you must give us a little time,” said Holmes good-humoredly.
+“Ah, you must give us a little time,” said Holmes good-humoredly.
 
       “You’ll want it,” said young Alec Cunningham. “Why, I don’t see
       that we have any clue at all.”
@@ -5983,7 +5939,7 @@ scrap of paper
       severe illness,” he explained. “I am liable to these sudden
       nervous attacks.”
 
-      “Shall I send you home in my trap?” asked old Cunningham.
+“Shall I send you home in my trap?” asked old Cunningham.
 
       “Well, since I am here, there is one point on which I should like
       to feel sure. We can very easily verify it.”
@@ -6021,9 +5977,9 @@ scrap of paper
       “He must have been a cool hand.”
 
       “Well, of course, if the case were not an odd one we should not
-      have been driven to ask you for an explanation,” said young Mr.
-      Alec. “But as to your ideas that the man had robbed the house
-      before William tackled him, I think it a most absurd notion.
+have been driven to ask you for an explanation,” said young Mr.
+Alec. “But as to your ideas that the man had robbed the house
+before William tackled him, I think it a most absurd notion.
       Wouldn’t we have found the place disarranged, and missed the
       things which he had taken?”
 
@@ -6068,7 +6024,7 @@ scrap of paper
       “Get it printed as soon as possible,” he said; “I think your idea
       is an excellent one.”
 
-      Holmes put the slip of paper carefully away into his pocket-book.
+Holmes put the slip of paper carefully away into his pocket-book.
 
       “And now,” said he, “it really would be a good thing that we
       should all go over the house together and make certain that this
@@ -6078,23 +6034,23 @@ scrap of paper
       Before entering, Holmes made an examination of the door which had
       been forced. It was evident that a chisel or strong knife had
       been thrust in, and the lock forced back with it. We could see
-      the marks in the wood where it had been pushed in.
+the marks in the wood where it had been pushed in.
 
-      “You don’t use bars, then?” he asked.
+“You don’t use bars, then?” he asked.
 
-      “We have never found it necessary.”
+“We have never found it necessary.”
 
-      “You don’t keep a dog?”
+“You don’t keep a dog?”
 
-      “Yes, but he is chained on the other side of the house.”
+“Yes, but he is chained on the other side of the house.”
 
-      “When do the servants go to bed?”
+“When do the servants go to bed?”
 
-      “About ten.”
+“About ten.”
 
-      “I understand that William was usually in bed also at that hour.”
+“I understand that William was usually in bed also at that hour.”
 
-      “Yes.”
+“Yes.”
 
       “It is singular that on this particular night he should have been
       up. Now, I should be very glad if you would have the kindness to
@@ -6125,15 +6081,15 @@ scrap of paper
       pushed open the door—“and that, I presume, is the dressing-room
       in which he sat smoking when the alarm was given. Where does the
       window of that look out to?” He stepped across the bedroom,
-      pushed open the door, and glanced round the other chamber.
+pushed open the door, and glanced round the other chamber.
 
-      “I hope that you are satisfied now?” said Mr. Cunningham, tartly.
+“I hope that you are satisfied now?” said Mr. Cunningham, tartly.
 
-      “Thank you, I think I have seen all that I wished.”
+“Thank you, I think I have seen all that I wished.”
 
-      “Then if it is really necessary we can go into my room.”
+“Then if it is really necessary we can go into my room.”
 
-      “If it is not too much trouble.”
+“If it is not too much trouble.”
 
       The J.P. shrugged his shoulders, and led the way into his own
       chamber, which was a plainly furnished and commonplace room. As
@@ -6153,9 +6109,9 @@ scrap of paper
       blame upon myself. The others did the same, and set the table on
       its legs again.
 
-      “Halloa!” cried the Inspector, “where’s he got to?”
+“Halloa!” cried the Inspector, “where’s he got to?”
 
-      Holmes had disappeared.
+Holmes had disappeared.
 
       “Wait here an instant,” said young Alec Cunningham. “The fellow
       is off his head, in my opinion. Come with me, father, and see
@@ -6184,13 +6140,13 @@ scrap of paper
 
       “On what charge?”
 
-      “That of murdering their coachman, William Kirwan!”
+“That of murdering their coachman, William Kirwan!”
 
       The Inspector stared about him in bewilderment. “Oh, come now,
       Mr. Holmes,” said he at last, “I’m sure you don’t really mean
       to—”
 
-      “Tut, man, look at their faces!” cried Holmes, curtly.
+“Tut, man, look at their faces!” cried Holmes, curtly.
 
       Never, certainly, have I seen a plainer confession of guilt upon
       human countenances. The older man seemed numbed and dazed with a
@@ -6209,13 +6165,13 @@ scrap of paper
 
       “Keep that,” said Holmes, quietly putting his foot upon it; “you
       will find it useful at the trial. But this is what we really
-      wanted.” He held up a little crumpled piece of paper.
+wanted.” He held up a little crumpled piece of paper.
 
-      “The remainder of the sheet!” cried the Inspector.
+“The remainder of the sheet!” cried the Inspector.
 
-      “Precisely.”
+“Precisely.”
 
-      “And where was it?”
+“And where was it?”
 
       “Where I was sure it must be. I’ll make the whole matter clear to
       you presently. I think, Colonel, that you and Watson might return
@@ -6225,8 +6181,8 @@ scrap of paper
 
       Sherlock Holmes was as good as his word, for about one o’clock he
       rejoined us in the Colonel’s smoking-room. He was accompanied by
-      a little elderly gentleman, who was introduced to me as the Mr.
-      Acton whose house had been the scene of the original burglary.
+a little elderly gentleman, who was introduced to me as the Mr.
+Acton whose house had been the scene of the original burglary.
 
       “I wished Mr. Acton to be present while I demonstrated this small
       matter to you,” said Holmes, “for it is natural that he should
@@ -6248,7 +6204,7 @@ scrap of paper
       shall help myself to a dash of your brandy, Colonel. My strength
       has been rather tried of late.”
 
-      “I trust that you had no more of those nervous attacks.”
+“I trust that you had no more of those nervous attacks.”
 
       Sherlock Holmes laughed heartily. “We will come to that in its
       turn,” said he. “I will lay an account of the case before you in
@@ -6277,14 +6233,14 @@ scrap of paper
       having any prejudices, and of following docilely wherever fact
       may lead me, and so, in the very first stage of the
       investigation, I found myself looking a little askance at the
-      part which had been played by Mr. Alec Cunningham.
+part which had been played by Mr. Alec Cunningham.
 
-      “And now I made a very careful examination of the corner of paper
-      which the Inspector had submitted to us. It was at once clear to
-      me that it formed part of a very remarkable document. Here it is.
-      Do you not now observe something very suggestive about it?”
+“And now I made a very careful examination of the corner of paper
+which the Inspector had submitted to us. It was at once clear to
+me that it formed part of a very remarkable document. Here it is.
+Do you not now observe something very suggestive about it?”
 
-      “It has a very irregular look,” said the Colonel.
+“It has a very irregular look,” said the Colonel.
 
       “My dear sir,” cried Holmes, “there cannot be the least doubt in
       the world that it has been written by two persons doing alternate
@@ -6301,9 +6257,9 @@ scrap of paper
       “Obviously the business was a bad one, and one of the men who
       distrusted the other was determined that, whatever was done, each
       should have an equal hand in it. Now, of the two men, it is clear
-      that the one who wrote the ‘at’ and ‘to’ was the ringleader.”
+that the one who wrote the ‘at’ and ‘to’ was the ringleader.”
 
-      “How do you get at that?”
+“How do you get at that?”
 
       “We might deduce it from the mere character of the one hand as
       compared with the other. But we have more assured reasons than
@@ -6329,9 +6285,9 @@ scrap of paper
       the rather broken-backed appearance of the other, which still
       retains its legibility although the t’s have begun to lose their
       crossing, we can say that the one was a young man and the other
-      was advanced in years without being positively decrepit.”
+was advanced in years without being positively decrepit.”
 
-      “Excellent!” cried Mr. Acton again.
+“Excellent!” cried Mr. Acton again.
 
       “There is a further point, however, which is subtler and of
       greater interest. There is something in common between these
@@ -6343,10 +6299,10 @@ scrap of paper
       of my examination of the paper. There were twenty-three other
       deductions which would be of more interest to experts than to
       you. They all tend to deepen the impression upon my mind that the
-      Cunninghams, father and son, had written this letter.
+Cunninghams, father and son, had written this letter.
 
-      “Having got so far, my next step was, of course, to examine into
-      the details of the crime, and to see how far they would help us.
+“Having got so far, my next step was, of course, to examine into
+the details of the crime, and to see how far they would help us.
       I went up to the house with the Inspector, and saw all that was
       to be seen. The wound upon the dead man was, as I was able to
       determine with absolute confidence, fired from a revolver at the
@@ -6407,11 +6363,11 @@ scrap of paper
       “It is an art which is often useful,” said he. “When I recovered
       I managed, by a device which had perhaps some little merit of
       ingenuity, to get old Cunningham to write the word ‘twelve,’ so
-      that I might compare it with the ‘twelve’ upon the paper.”
+that I might compare it with the ‘twelve’ upon the paper.”
 
-      “Oh, what an ass I have been!” I exclaimed.
+“Oh, what an ass I have been!” I exclaimed.
 
-      “I could see that you were commiserating me over my weakness,”
+“I could see that you were commiserating me over my weakness,”
       said Holmes, laughing. “I was sorry to cause you the sympathetic
       pain which I know that you felt. We then went upstairs together,
       and having entered the room and seen the dressing-gown hanging up
@@ -6447,8 +6403,7 @@ scrap of paper
 
       “And the note?” I asked.
 
-      Sherlock Holmes placed the subjoined paper before us.
-piece of paper
+Sherlock Holmes placed the subjoined paper before us. piece of paper
 
      If you will only come round at quarter to twelve
      to the east gate you will learn what
@@ -6467,8 +6422,6 @@ piece of paper
       think our quiet rest in the country has been a distinct success,
       and I shall certainly return much invigorated to Baker Street
       to-morrow.”
-
-
 
 
 VIII. The Crooked Man
@@ -6570,14 +6523,14 @@ VIII. The Crooked Man
 
       “I have no doubt Jackson would take my practice.”
 
-      “Very good. I want to start by the 11.10 from Waterloo.”
+“Very good. I want to start by the 11.10 from Waterloo.”
 
-      “That would give me time.”
+“That would give me time.”
 
-      “Then, if you are not too sleepy, I will give you a sketch of
-      what has happened, and of what remains to be done.”
+“Then, if you are not too sleepy, I will give you a sketch of
+what has happened, and of what remains to be done.”
 
-      “I was sleepy before you came. I am quite wakeful now.”
+“I was sleepy before you came. I am quite wakeful now.”
 
       “I will compress the story as far as may be done without omitting
       anything vital to the case. It is conceivable that you may even
@@ -6737,9 +6690,9 @@ VIII. The Crooked Man
       different countries in which he had fought, and it is conjectured
       by the police that his club was among his trophies. The servants
       deny having seen it before, but among the numerous curiosities in
-      the house it is possible that it may have been overlooked.
-      Nothing else of importance was discovered in the room by the
-      police, save the inexplicable fact that neither upon Mrs.
+the house it is possible that it may have been overlooked.
+Nothing else of importance was discovered in the room by the
+police, save the inexplicable fact that neither upon Mrs.
       Barclay’s person nor upon that of the victim nor in any part of
       the room was the missing key to be found. The door had eventually
       to be opened by a locksmith from Aldershot.
@@ -6850,9 +6803,9 @@ VIII. The Crooked Man
       “How do you deduce that?”
 
       “Because it ran up the curtain. A canary’s cage was hanging in
-      the window, and its aim seems to have been to get at the bird.”
+the window, and its aim seems to have been to get at the bird.”
 
-      “Then what was the beast?”
+“Then what was the beast?”
 
       “Ah, if I could give it a name it might go a long way towards
       solving the case. On the whole, it was probably some creature of
@@ -6881,7 +6834,7 @@ VIII. The Crooked Man
       might just as well tell you all this on our way to Aldershot
       to-morrow.”
 
-      “Thank you, you have gone rather too far to stop.”
+“Thank you, you have gone rather too far to stop.”
 
       “It is quite certain that when Mrs. Barclay left the house at
       half-past seven she was on good terms with her husband. She was
@@ -6957,9 +6910,9 @@ VIII. The Crooked Man
       puckered like a withered apple.
 
       “‘“Just walk on a little way, dear,” said Mrs. Barclay; “I want
-      to have a word with this man. There is nothing to be afraid of.”
-      She tried to speak boldly, but she was still deadly pale and
-      could hardly get her words out for the trembling of her lips.
+to have a word with this man. There is nothing to be afraid of.”
+She tried to speak boldly, but she was still deadly pale and
+could hardly get her words out for the trembling of her lips.
 
       “‘I did as she asked me, and they talked together for a few
       minutes. Then she came down the street with her eyes blazing, and
@@ -7009,19 +6962,19 @@ VIII. The Crooked Man
       quarrel between husband and wife through the window, that he
       rushed in, and that the creature which he carried in his box got
       loose. That is all very certain. But he is the only person in
-      this world who can tell us exactly what happened in that room.”
+this world who can tell us exactly what happened in that room.”
 
-      “And you intend to ask him?”
+“And you intend to ask him?”
 
-      “Most certainly—but in the presence of a witness.”
+“Most certainly—but in the presence of a witness.”
 
-      “And I am the witness?”
+“And I am the witness?”
 
       “If you will be so good. If he can clear the matter up, well and
       good. If he refuses, we have no alternative but to apply for a
       warrant.”
 
-      “But how do you know he’ll be there when we return?”
+“But how do you know he’ll be there when we return?”
 
       “You may be sure that I took some precautions. I have one of my
       Baker Street boys mounting guard over him who would stick to him
@@ -7058,16 +7011,16 @@ VIII. The Crooked Man
       yellow-shot, bilious eyes, and, without speaking or rising, he
       waved towards two chairs.
 
-      “Mr. Henry Wood, late of India, I believe,” said Holmes, affably.
-      “I’ve come over this little matter of Colonel Barclay’s death.”
+“Mr. Henry Wood, late of India, I believe,” said Holmes, affably.
+“I’ve come over this little matter of Colonel Barclay’s death.”
 
-      “What should I know about that?”
+“What should I know about that?”
 
-      “That’s what I want to ascertain. You know, I suppose, that
-      unless the matter is cleared up, Mrs. Barclay, who is an old
-      friend of yours, will in all probability be tried for murder.”
+“That’s what I want to ascertain. You know, I suppose, that
+unless the matter is cleared up, Mrs. Barclay, who is an old
+friend of yours, will in all probability be tried for murder.”
 
-      The man gave a violent start.
+The man gave a violent start.
 
       “I don’t know who you are,” he cried, “nor how you come to know
       what you do know, but will you swear that this is true that you
@@ -7214,9 +7167,9 @@ VIII. The Crooked Man
       “Well, some call them that, and some call them ichneumon,” said
       the man. “Snake-catcher is what I call them, and Teddy is amazing
       quick on cobras. I have one here without the fangs, and Teddy
-      catches it every night to please the folk in the canteen.
+catches it every night to please the folk in the canteen.
 
-      “Any other point, sir?”
+“Any other point, sir?”
 
       “Well, we may have to apply to you again if Mrs. Barclay should
       prove to be in serious trouble.”
@@ -7243,9 +7196,9 @@ VIII. The Crooked Man
       a simple case after all.”
 
       “Oh, remarkably superficial,” said Holmes, smiling. “Come,
-      Watson, I don’t think we shall be wanted in Aldershot any more.”
+Watson, I don’t think we shall be wanted in Aldershot any more.”
 
-      “There’s one thing,” said I, as we walked down to the station.
+“There’s one thing,” said I, as we walked down to the station.
       “If the husband’s name was James, and the other was Henry, what
       was this talk about David?”
 
@@ -7260,8 +7213,6 @@ VIII. The Crooked Man
       remember the small affair of Uriah and Bathsheba? My biblical
       knowledge is a trifle rusty, I fear, but you will find the story
       in the first or second of Samuel.”
-
-
 
 
 IX. The Resident Patient
@@ -7341,12 +7292,12 @@ IX. The Resident Patient
       necktie.
 
       “Good-evening, doctor,” said Holmes, cheerily. “I am glad to see
-      that you have only been waiting a very few minutes.”
+that you have only been waiting a very few minutes.”
 
-      “You spoke to my coachman, then?”
+“You spoke to my coachman, then?”
 
-      “No, it was the candle on the side-table that told me. Pray
-      resume your seat and let me know how I can serve you.”
+“No, it was the candle on the side-table that told me. Pray
+resume your seat and let me know how I can serve you.”
 
       “My name is Doctor Percy Trevelyan,” said our visitor, “and I
       live at 403, Brook Street.”
@@ -7357,11 +7308,11 @@ IX. The Resident Patient
       His pale cheeks flushed with pleasure at hearing that his work
       was known to me.
 
-      “I so seldom hear of the work that I thought it was quite dead,”
-      said he. “My publishers gave me a most discouraging account of
-      its sale. You are yourself, I presume, a medical man?”
+“I so seldom hear of the work that I thought it was quite dead,”
+said he. “My publishers gave me a most discouraging account of
+its sale. You are yourself, I presume, a medical man?”
 
-      “A retired Army surgeon.”
+“A retired Army surgeon.”
 
       “My own hobby has always been nervous disease. I should wish to
       make it an absolute specialty, but, of course, a man must take
@@ -7420,13 +7371,13 @@ IX. The Resident Patient
       interest to do so. You have all the cleverness which makes a
       successful man. Have you the tact?’
 
-      “I could not help smiling at the abruptness of the question.
+“I could not help smiling at the abruptness of the question.
 
-      “‘I trust that I have my share,’ I said.
+“‘I trust that I have my share,’ I said.
 
-      “‘Any bad habits? Not drawn towards drink, eh?’
+“‘Any bad habits? Not drawn towards drink, eh?’
 
-      “‘Really, sir!’ I cried.
+“‘Really, sir!’ I cried.
 
       “‘Quite right! That’s all right! But I was bound to ask. With all
       these qualities, why are you not in practice?’
@@ -7520,11 +7471,11 @@ IX. The Resident Patient
       man, surprisingly handsome, with a dark, fierce face, and the
       limbs and chest of a Hercules. He had his hand under the other’s
       arm as they entered, and helped him to a chair with a tenderness
-      which one would hardly have expected from his appearance.
+which one would hardly have expected from his appearance.
 
-      “‘You will excuse my coming in, doctor,’ said he to me, speaking
-      English with a slight lisp. ‘This is my father, and his health is
-      a matter of the most overwhelming importance to me.’
+“‘You will excuse my coming in, doctor,’ said he to me, speaking
+English with a slight lisp. ‘This is my father, and his health is
+a matter of the most overwhelming importance to me.’
 
       “I was touched by this filial anxiety. ‘You would, perhaps, care
       to remain during the consultation?’ said I.
@@ -7579,7 +7530,7 @@ IX. The Resident Patient
       “‘I feel that I owe you a great many apologies for my abrupt
       departure yesterday, doctor,’ said my patient.
 
-      “‘I confess that I was very much surprised at it,’ said I.
+“‘I confess that I was very much surprised at it,’ said I.
 
       “‘Well, the fact is,’ he remarked, ‘that when I recover from
       these attacks my mind is always very clouded as to all that has
@@ -7615,9 +7566,9 @@ IX. The Resident Patient
 
       “I passed over the grossness of his language, as he seemed half
       out of his mind with fear. When I went upstairs with him he
-      pointed to several footprints upon the light carpet.
+pointed to several footprints upon the light carpet.
 
-      “‘D’you mean to say those are mine?’ he cried.
+“‘D’you mean to say those are mine?’ he cried.
 
       “They were certainly very much larger than any which he could
       have made, and were evidently quite fresh. It rained hard this
@@ -7660,17 +7611,17 @@ IX. The Resident Patient
       “I have a pistol,” it cried. “I give you my word that I’ll fire
       if you come any nearer.”
 
-      “This really grows outrageous, Mr. Blessington,” cried Dr.
-      Trevelyan.
+“This really grows outrageous, Mr. Blessington,” cried Dr.
+Trevelyan.
 
       “Oh, then it is you, doctor,” said the voice, with a great heave
       of relief. “But those other gentlemen, are they what they pretend
       to be?”
 
-      We were conscious of a long scrutiny out of the darkness.
+We were conscious of a long scrutiny out of the darkness.
 
-      “Yes, yes, it’s all right,” said the voice at last. “You can come
-      up, and I am sorry if my precautions have annoyed you.”
+“Yes, yes, it’s all right,” said the voice at last. “You can come
+up, and I am sorry if my precautions have annoyed you.”
 
       He relit the stair gas as he spoke, and we saw before us a
       singular-looking man, whose appearance, as well as his voice,
@@ -7713,25 +7664,25 @@ IX. The Resident Patient
       Holmes looked at Blessington in his questioning way and shook his
       head.
 
-      “I cannot possibly advise you if you try to deceive me,” said he.
+“I cannot possibly advise you if you try to deceive me,” said he.
 
-      “But I have told you everything.”
+“But I have told you everything.”
 
       Holmes turned on his heel with a gesture of disgust. “Good-night,
       Dr. Trevelyan,” said he.
 
-      “And no advice for me?” cried Blessington, in a breaking voice.
+“And no advice for me?” cried Blessington, in a breaking voice.
 
-      “My advice to you, sir, is to speak the truth.”
+“My advice to you, sir, is to speak the truth.”
 
       A minute later we were in the street and walking for home. We had
       crossed Oxford Street and were half way down Harley Street before
       I could get a word from my companion.
 
       “Sorry to bring you out on such a fool’s errand, Watson,” he said
-      at last. “It is an interesting case, too, at the bottom of it.”
+at last. “It is an interesting case, too, at the bottom of it.”
 
-      “I can make little of it,” I confessed.
+“I can make little of it,” I confessed.
 
       “Well, it is quite evident that there are two men—more, perhaps,
       but at least two—who are determined for some reason to get at
@@ -7790,13 +7741,13 @@ IX. The Resident Patient
       daylight, I found him standing by my bedside in his
       dressing-gown.
 
-      “There’s a brougham waiting for us, Watson,” said he.
+“There’s a brougham waiting for us, Watson,” said he.
 
-      “What’s the matter, then?”
+“What’s the matter, then?”
 
-      “The Brook Street business.”
+“The Brook Street business.”
 
-      “Any fresh news?”
+“Any fresh news?”
 
       “Tragic, but ambiguous,” said he, pulling up the blind. “Look at
       this—a sheet from a note-book, with ‘For God’s sake come at
@@ -7805,33 +7756,33 @@ IX. The Resident Patient
       fellow, for it’s an urgent call.”
 
       In a quarter of an hour or so we were back at the physician’s
-      house. He came running out to meet us with a face of horror.
+house. He came running out to meet us with a face of horror.
 
-      “Oh, such a business!” he cried, with his hands to his temples.
+“Oh, such a business!” he cried, with his hands to his temples.
 
-      “What then?”
+“What then?”
 
-      “Blessington has committed suicide!”
+“Blessington has committed suicide!”
 
-      Holmes whistled.
+Holmes whistled.
 
-      “Yes, he hanged himself during the night.”
+“Yes, he hanged himself during the night.”
 
       We had entered, and the doctor had preceded us into what was
       evidently his waiting-room.
 
       “I really hardly know what I am doing,” he cried. “The police are
-      already upstairs. It has shaken me most dreadfully.”
+already upstairs. It has shaken me most dreadfully.”
 
-      “When did you find it out?”
+“When did you find it out?”
 
       “He has a cup of tea taken in to him early every morning. When
       the maid entered, about seven, there the unfortunate fellow was
       hanging in the middle of the room. He had tied his cord to the
       hook on which the heavy lamp used to hang, and he had jumped off
-      from the top of the very box that he showed us yesterday.”
+from the top of the very box that he showed us yesterday.”
 
-      Holmes stood for a moment in deep thought.
+Holmes stood for a moment in deep thought.
 
       “With your permission,” said he at last, “I should like to go
       upstairs and look into the matter.”
@@ -7869,29 +7820,29 @@ IX. The Resident Patient
       “I should say that he has been dead about three hours, judging by
       the rigidity of the muscles,” said I.
 
-      “Noticed anything peculiar about the room?” asked Holmes.
+“Noticed anything peculiar about the room?” asked Holmes.
 
-      “Found a screw-driver and some screws on the wash-hand stand.
+“Found a screw-driver and some screws on the wash-hand stand.
       Seems to have smoked heavily during the night, too. Here are four
       cigar-ends that I picked out of the fireplace.”
 
-      “Hum!” said Holmes, “have you got his cigar-holder?”
+“Hum!” said Holmes, “have you got his cigar-holder?”
 
-      “No, I have seen none.”
+“No, I have seen none.”
 
-      “His cigar-case, then?”
+“His cigar-case, then?”
 
-      “Yes, it was in his coat-pocket.”
+“Yes, it was in his coat-pocket.”
 
-      Holmes opened it and smelled the single cigar which it contained.
+Holmes opened it and smelled the single cigar which it contained.
 
       “Oh, this is a Havana, and these others are cigars of the
       peculiar sort which are imported by the Dutch from their East
       Indian colonies. They are usually wrapped in straw, you know, and
       are thinner for their length than any other brand.” He picked up
-      the four ends and examined them with his pocket-lens.
+the four ends and examined them with his pocket-lens.
 
-      “Two of these have been smoked from a holder and two without,”
+“Two of these have been smoked from a holder and two without,”
       said he. “Two have been cut by a not very sharp knife, and two
       have had the ends bitten off by a set of excellent teeth. This is
       no suicide, Mr. Lanner. It is a very deeply planned and
@@ -7938,9 +7889,9 @@ IX. The Resident Patient
       “Yes, the actual facts are very plain, and I shall be surprised
       if by the afternoon I cannot give you the reasons for them as
       well. I will take this photograph of Blessington, which I see
-      upon the mantelpiece, as it may help me in my inquiries.”
+upon the mantelpiece, as it may help me in my inquiries.”
 
-      “But you have told us nothing!” cried the doctor.
+“But you have told us nothing!” cried the doctor.
 
       “Oh, there can be no doubt as to the sequence of events,” said
       Holmes. “There were three of them in it: the young man, the old
@@ -8001,9 +7952,9 @@ IX. The Resident Patient
       and minute that, even when he had pointed them out to us, we
       could scarcely follow him in his reasoning. The inspector hurried
       away on the instant to make inquiries about the page, while
-      Holmes and I returned to Baker Street for breakfast.
+Holmes and I returned to Baker Street for breakfast.
 
-      “I’ll be back by three,” said he, when we had finished our meal.
+“I’ll be back by three,” said he, when we had finished our meal.
       “Both the inspector and the doctor will meet me here at that
       hour, and I hope by that time to have cleared up any little
       obscurity which the case may still present.”
@@ -8023,21 +7974,21 @@ IX. The Resident Patient
 
       “Well, at least I have got their identity. This so-called
       Blessington is, as I expected, well known at headquarters, and so
-      are his assailants. Their names are Biddle, Hayward, and Moffat.”
+are his assailants. Their names are Biddle, Hayward, and Moffat.”
 
-      “The Worthingdon bank gang,” cried the inspector.
+“The Worthingdon bank gang,” cried the inspector.
 
-      “Precisely,” said Holmes.
+“Precisely,” said Holmes.
 
-      “Then Blessington must have been Sutton.”
+“Then Blessington must have been Sutton.”
 
-      “Exactly,” said Holmes.
+“Exactly,” said Holmes.
 
-      “Why, that makes it as clear as crystal,” said the inspector.
+“Why, that makes it as clear as crystal,” said the inspector.
 
-      But Trevelyan and I looked at each other in bewilderment.
+But Trevelyan and I looked at each other in bewilderment.
 
-      “You must surely remember the great Worthingdon bank business,”
+“You must surely remember the great Worthingdon bank business,”
       said Holmes. “Five men were in it—these four and a fifth called
       Cartwright. Tobin, the caretaker, was murdered, and the thieves
       got away with seven thousand pounds. This was in 1875. They were
@@ -8049,15 +8000,15 @@ IX. The Resident Patient
       themselves, as you perceive, to hunt down the traitor and to
       avenge the death of their comrade upon him. Twice they tried to
       get at him and failed; a third time, you see, it came off. Is
-      there anything further which I can explain, Dr. Trevelyan?”
+there anything further which I can explain, Dr. Trevelyan?”
 
-      “I think you have made it all remarkably clear,” said the doctor.
+“I think you have made it all remarkably clear,” said the doctor.
       “No doubt the day on which he was perturbed was the day when he
       had seen of their release in the newspapers.”
 
-      “Quite so. His talk about a burglary was the merest blind.”
+“Quite so. His talk about a burglary was the merest blind.”
 
-      “But why could he not tell you this?”
+“But why could he not tell you this?”
 
       “Well, my dear sir, knowing the vindictive character of his old
       associates, he was trying to hide his own identity from everybody
@@ -8077,8 +8028,6 @@ IX. The Resident Patient
       page broke down for want of evidence, and the Brook Street
       Mystery, as it was called, has never until now been fully dealt
       with in any public print.
-
-
 
 
 X. The Greek Interpreter
@@ -8161,9 +8110,9 @@ X. The Greek Interpreter
       Regent’s Circus.
 
       “You wonder,” said my companion, “why it is that Mycroft does not
-      use his powers for detective work. He is incapable of it.”
+use his powers for detective work. He is incapable of it.”
 
-      “But I thought you said—”
+“But I thought you said—”
 
       “I said that he was my superior in observation and deduction. If
       the art of the detective began and ended in reasoning from an
@@ -8225,13 +8174,13 @@ X. The Greek Interpreter
       hand like the flipper of a seal. “I hear of Sherlock everywhere
       since you became his chronicler. By the way, Sherlock, I expected
       to see you round last week, to consult me over that Manor House
-      case. I thought you might be a little out of your depth.”
+case. I thought you might be a little out of your depth.”
 
-      “No, I solved it,” said my friend, smiling.
+“No, I solved it,” said my friend, smiling.
 
-      “It was Adams, of course.”
+“It was Adams, of course.”
 
-      “Yes, it was Adams.”
+“Yes, it was Adams.”
 
       “I was sure of it from the first.” The two sat down together in
       the bow-window of the club. “To any one who wishes to study
@@ -8251,25 +8200,25 @@ X. The Greek Interpreter
 
       “An old soldier, I perceive,” said Sherlock.
 
-      “And very recently discharged,” remarked the brother.
+“And very recently discharged,” remarked the brother.
 
-      “Served in India, I see.”
+“Served in India, I see.”
 
-      “And a non-commissioned officer.”
+“And a non-commissioned officer.”
 
-      “Royal Artillery, I fancy,” said Sherlock.
+“Royal Artillery, I fancy,” said Sherlock.
 
-      “And a widower.”
+“And a widower.”
 
-      “But with a child.”
+“But with a child.”
 
-      “Children, my dear boy, children.”
+“Children, my dear boy, children.”
 
-      “Come,” said I, laughing, “this is a little too much.”
+“Come,” said I, laughing, “this is a little too much.”
 
-      “Surely,” answered Holmes, “it is not hard to say that a man with
-      that bearing, expression of authority, and sunbaked skin, is a
-      soldier, is more than a private, and is not long from India.”
+“Surely,” answered Holmes, “it is not hard to say that a man with
+that bearing, expression of authority, and sunbaked skin, is a
+soldier, is more than a private, and is not long from India.”
 
       “That he has not left the service long is shown by his still
       wearing his ammunition boots, as they are called,” observed
@@ -8297,9 +8246,9 @@ X. The Greek Interpreter
       after your own heart—a most singular problem—submitted to my
       judgment. I really had not the energy to follow it up save in a
       very incomplete fashion, but it gave me a basis for some pleasing
-      speculation. If you would care to hear the facts—”
+speculation. If you would care to hear the facts—”
 
-      “My dear Mycroft, I should be delighted.”
+“My dear Mycroft, I should be delighted.”
 
       The brother scribbled a note upon a leaf of his pocket-book, and,
       ringing the bell, he handed it to the waiter.
@@ -8324,9 +8273,9 @@ X. The Greek Interpreter
       not,” said he in a wailing voice. “Just because they have never
       heard of it before, they think that such a thing cannot be. But I
       know that I shall never be easy in my mind until I know what has
-      become of my poor man with the sticking-plaster upon his face.”
+become of my poor man with the sticking-plaster upon his face.”
 
-      “I am all attention,” said Sherlock Holmes.
+“I am all attention,” said Sherlock Holmes.
 
       “This is Wednesday evening,” said Mr. Melas. “Well then, it was
       Monday night—only two days ago, you understand—that all this
@@ -8378,8 +8327,8 @@ X. The Greek Interpreter
       fellow, and, apart from the weapon, I should not have had the
       slightest chance in a struggle with him.
 
-      “‘This is very extraordinary conduct, Mr. Latimer,’ I stammered.
-      ‘You must be aware that what you are doing is quite illegal.’
+“‘This is very extraordinary conduct, Mr. Latimer,’ I stammered.
+‘You must be aware that what you are doing is quite illegal.’
 
       “‘It is somewhat of a liberty, no doubt,’ said he, ‘but we’ll
       make it up to you. I must warn you, however, Mr. Melas, that if
@@ -8409,24 +8358,24 @@ X. The Greek Interpreter
       window, and I caught a glimpse of a low, arched doorway with a
       lamp burning above it. As I was hurried from the carriage it
       swung open, and I found myself inside the house, with a vague
-      impression of a lawn and trees on each side of me as I entered.
-      Whether these were private grounds, however, or _bonâ-fide_
-      country was more than I could possibly venture to say.
+impression of a lawn and trees on each side of me as I entered.
+Whether these were private grounds, however, or _bonâ-fide_
+country was more than I could possibly venture to say.
 
       “There was a coloured gas-lamp inside which was turned so low
       that I could see little save that the hall was of some size and
       hung with pictures. In the dim light I could make out that the
       person who had opened the door was a small, mean-looking,
       middle-aged man with rounded shoulders. As he turned towards us
-      the glint of the light showed me that he was wearing glasses.
+the glint of the light showed me that he was wearing glasses.
 
-      “‘Is this Mr. Melas, Harold?’ said he.
+“‘Is this Mr. Melas, Harold?’ said he.
 
-      “‘Yes.’
+“‘Yes.’
 
-      “‘Well done, well done! No ill-will, Mr. Melas, I hope, but we
-      could not get on without you. If you deal fair with us you’ll not
-      regret it, but if you try any tricks, God help you!’
+“‘Well done, well done! No ill-will, Mr. Melas, I hope, but we
+could not get on without you. If you deal fair with us you’ll not
+regret it, but if you try any tricks, God help you!’
 
       He spoke in a nervous, jerky fashion, and with little giggling
       laughs in between, but somehow he impressed me with fear more
@@ -8463,13 +8412,13 @@ X. The Greek Interpreter
       strange being fell rather than sat down into a chair. ‘Are his
       hands loose? Now, then, give him the pencil. You are to ask the
       questions, Mr. Melas, and he will write the answers. Ask him
-      first of all whether he is prepared to sign the papers?’
+first of all whether he is prepared to sign the papers?’
 
-      “The man’s eyes flashed fire.
+“The man’s eyes flashed fire.
 
-      “‘Never!’ he wrote in Greek upon the slate.
+“‘Never!’ he wrote in Greek upon the slate.
 
-      “‘On no condition?’ I asked, at the bidding of our tyrant.
+“‘On no condition?’ I asked, at the bidding of our tyrant.
 
       “‘Only if I see her married in my presence by a Greek priest whom
       I know.’
@@ -8490,30 +8439,30 @@ X. The Greek Interpreter
       as I found that they showed no signs I played a more dangerous
       game. Our conversation ran something like this:
 
-      “‘You can do no good by this obstinacy. _Who are you?_’
+“‘You can do no good by this obstinacy. _Who are you?_’
 
-      “‘I care not. _I am a stranger in London._’
+“‘I care not. _I am a stranger in London._’
 
       “‘Your fate will be upon your own head. _How long have you been
       here?_’
 
       “‘Let it be so. _Three weeks._’
 
-      “‘The property can never be yours. _What ails you?_’
+“‘The property can never be yours. _What ails you?_’
 
-      “‘It shall not go to villains. _They are starving me._’
+“‘It shall not go to villains. _They are starving me._’
 
-      “‘You shall go free if you sign. _What house is this?_’
+“‘You shall go free if you sign. _What house is this?_’
 
-      “‘I will never sign. _I do not know._’
+“‘I will never sign. _I do not know._’
 
-      “‘You are not doing her any service. _What is your name?_’
+“‘You are not doing her any service. _What is your name?_’
 
-      “‘Let me hear her say so. _Kratides._’
+“‘Let me hear her say so. _Kratides._’
 
-      “‘You shall see her if you sign. _Where are you from?_’
+“‘You shall see her if you sign. _Where are you from?_’
 
-      “‘Then I shall never see her. _Athens._’
+“‘Then I shall never see her. _Athens._’
 
       “Another five minutes, Mr. Holmes, and I should have wormed out
       the whole story under their very noses. My very next question
@@ -8544,9 +8493,9 @@ X. The Greek Interpreter
       should not have troubled you, only that our friend who speaks
       Greek and who began these negotiations has been forced to return
       to the East. It was quite necessary for us to find some one to
-      take his place, and we were fortunate in hearing of your powers.’
+take his place, and we were fortunate in hearing of your powers.’
 
-      “I bowed.
+“I bowed.
 
       “‘There are five sovereigns here,’ said he, walking up to me,
       ‘which will, I hope, be a sufficient fee. But remember,’ he
@@ -8607,8 +8556,8 @@ X. The Greek Interpreter
       “So that was the end of my adventure, Mr. Holmes. I do not know
       where I was, nor whom I spoke with, nor anything save what I have
       told you. But I know that there is foul play going on, and I want
-      to help that unhappy man if I can. I told the whole story to Mr.
-      Mycroft Holmes next morning, and subsequently to the police.”
+to help that unhappy man if I can. I told the whole story to Mr.
+Mycroft Holmes next morning, and subsequently to the police.”
 
       We all sat in silence for some little time after listening to
       this extraordinary narrative. Then Sherlock looked across at his
@@ -8622,14 +8571,14 @@ X. The Greek Interpreter
       “‘Anybody supplying any information to the whereabouts of a Greek
       gentleman named Paul Kratides, from Athens, who is unable to
       speak English, will be rewarded. A similar reward paid to any one
-      giving information about a Greek lady whose first name is Sophy.
-      X 2473.’ That was in all the dailies. No answer.”
+giving information about a Greek lady whose first name is Sophy.
+X 2473.’ That was in all the dailies. No answer.”
 
-      “How about the Greek Legation?”
+“How about the Greek Legation?”
 
-      “I have inquired. They know nothing.”
+“I have inquired. They know nothing.”
 
-      “A wire to the head of the Athens police, then?”
+“A wire to the head of the Athens police, then?”
 
       “Sherlock has all the energy of the family,” said Mycroft,
       turning to me. “Well, you take the case up by all means, and let
@@ -8654,28 +8603,28 @@ X. The Greek Interpreter
 
       “Well, knowing as much as we do, it will be singular indeed if we
       fail to discover the rest. You must yourself have formed some
-      theory which will explain the facts to which we have listened.”
+theory which will explain the facts to which we have listened.”
 
-      “In a vague way, yes.”
+“In a vague way, yes.”
 
-      “What was your idea, then?”
+“What was your idea, then?”
 
-      “It seemed to me to be obvious that this Greek girl had been
-      carried off by the young Englishman named Harold Latimer.”
+“It seemed to me to be obvious that this Greek girl had been
+carried off by the young Englishman named Harold Latimer.”
 
-      “Carried off from where?”
+“Carried off from where?”
 
-      “Athens, perhaps.”
+“Athens, perhaps.”
 
-      Sherlock Holmes shook his head. “This young man could not talk a
-      word of Greek. The lady could talk English fairly well.
+Sherlock Holmes shook his head. “This young man could not talk a
+word of Greek. The lady could talk English fairly well.
       Inference, that she had been in England some little time, but he
       had not been in Greece.”
 
       “Well, then, we will presume that she had come on a visit to
-      England, and that this Harold had persuaded her to fly with him.”
+England, and that this Harold had persuaded her to fly with him.”
 
-      “That is more probable.”
+“That is more probable.”
 
       “Then the brother—for that, I fancy, must be the
       relationship—comes over from Greece to interfere. He imprudently
@@ -8690,10 +8639,10 @@ X. The Greek Interpreter
 
       “Excellent, Watson!” cried Holmes. “I really fancy that you are
       not far from the truth. You see that we hold all the cards, and
-      we have only to fear some sudden act of violence on their part.
-      If they give us time we must have them.”
+we have only to fear some sudden act of violence on their part.
+If they give us time we must have them.”
 
-      “But how can we find where this house lies?”
+“But how can we find where this house lies?”
 
       “Well, if our conjecture is correct and the girl’s name is or was
       Sophy Kratides, we should have no difficulty in tracing her. That
@@ -8713,23 +8662,23 @@ X. The Greek Interpreter
 
       “Come in, Sherlock! Come in, sir,” said he blandly, smiling at
       our surprised faces. “You don’t expect such energy from me, do
-      you, Sherlock? But somehow this case attracts me.”
+you, Sherlock? But somehow this case attracts me.”
 
-      “How did you get here?”
+“How did you get here?”
 
-      “I passed you in a hansom.”
+“I passed you in a hansom.”
 
-      “There has been some new development?”
+“There has been some new development?”
 
-      “I had an answer to my advertisement.”
+“I had an answer to my advertisement.”
 
-      “Ah!”
+“Ah!”
 
-      “Yes, it came within a few minutes of your leaving.”
+“Yes, it came within a few minutes of your leaving.”
 
-      “And to what effect?”
+“And to what effect?”
 
-      Mycroft Holmes took out a sheet of paper.
+Mycroft Holmes took out a sheet of paper.
 
       “Here it is,” said he, “written with a J pen on royal cream paper
       by a middle-aged man with a weak constitution. ‘Sir,’ he says,
@@ -8801,17 +8750,17 @@ X. The Greek Interpreter
       “The windows are all dark,” remarked the inspector. “The house
       seems deserted.”
 
-      “Our birds are flown and the nest empty,” said Holmes.
+“Our birds are flown and the nest empty,” said Holmes.
 
-      “Why do you say so?”
+“Why do you say so?”
 
       “A carriage heavily loaded with luggage has passed out during the
       last hour.”
 
       The inspector laughed. “I saw the wheel-tracks in the light of
-      the gate-lamp, but where does the luggage come in?”
+the gate-lamp, but where does the luggage come in?”
 
-      “You may have observed the same wheel-tracks going the other way.
+“You may have observed the same wheel-tracks going the other way.
       But the outward-bound ones were very much deeper—so much so that
       we can say for a certainty that there was a very considerable
       weight on the carriage.”
@@ -8854,7 +8803,7 @@ X. The Greek Interpreter
       Holmes flung open the door and rushed in, but he was out again in
       an instant, with his hand to his throat.
 
-      “It’s charcoal,” he cried. “Give it time. It will clear.”
+“It’s charcoal,” he cried. “Give it time. It will clear.”
 
       Peering in, we could see that the only light in the room came
       from a dull blue flame which flickered from a small brass tripod
@@ -8948,8 +8897,6 @@ X. The Greek Interpreter
       thinking, and holds to this day that, if one could find the
       Grecian girl, one might learn how the wrongs of herself and her
       brother came to be avenged.
-
-
 
 
 XI. The Naval Treaty
@@ -9163,17 +9110,17 @@ XI. The Naval Treaty
       should leak out. The French or the Russian embassy would pay an
       immense sum to learn the contents of these papers. They should
       not leave my bureau were it not that it is absolutely necessary
-      to have them copied. You have a desk in your office?’
+to have them copied. You have a desk in your office?’
 
-      “‘Yes, sir.’
+“‘Yes, sir.’
 
-      “‘Then take the treaty and lock it up there. I shall give
-      directions that you may remain behind when the others go, so that
-      you may copy it at your leisure without fear of being overlooked.
-      When you have finished, relock both the original and the draft in
-      the desk, and hand them over to me personally to-morrow morning.’
+“‘Then take the treaty and lock it up there. I shall give
+directions that you may remain behind when the others go, so that
+you may copy it at your leisure without fear of being overlooked.
+When you have finished, relock both the original and the draft in
+the desk, and hand them over to me personally to-morrow morning.’
 
-      “I took the papers and—”
+“I took the papers and—”
 
       “Excuse me an instant,” said Holmes. “Were you alone during this
       conversation?”
@@ -9193,7 +9140,7 @@ XI. The Naval Treaty
       “My uncle’s voice is always remarkably low. I hardly spoke at
       all.”
 
-      “Thank you,” said Holmes, shutting his eyes; “pray go on.”
+“Thank you,” said Holmes, shutting his eyes; “pray go on.”
 
       “I did exactly what he indicated, and waited until the other
       clerks had departed. One of them in my room, Charles Gorot, had
@@ -9241,8 +9188,8 @@ XI. The Naval Treaty
       down this staircase is a small landing, with another passage
       running into it at right angles. This second one leads by means
       of a second small stair to a side door, used by servants, and
-      also as a short cut by clerks when coming from Charles Street.
-      Here is a rough chart of the place.”
+also as a short cut by clerks when coming from Charles Street.
+Here is a rough chart of the place.”
 
 rough chart
 
@@ -9258,19 +9205,19 @@ rough chart
       still sleeping soundly, when a bell over his head rang loudly,
       and he woke with a start.
 
-      “‘Mr. Phelps, sir!’ said he, looking at me in bewilderment.
+“‘Mr. Phelps, sir!’ said he, looking at me in bewilderment.
 
-      “‘I came down to see if my coffee was ready.’
+“‘I came down to see if my coffee was ready.’
 
       “‘I was boiling the kettle when I fell asleep, sir.’ He looked at
       me and then up at the still quivering bell with an ever-growing
       astonishment upon his face.
 
-      “‘If you was here, sir, then who rang the bell?’ he asked.
+“‘If you was here, sir, then who rang the bell?’ he asked.
 
-      “‘The bell!’ I cried. ‘What bell is it?’
+“‘The bell!’ I cried. ‘What bell is it?’
 
-      “‘It’s the bell of the room you were working in.’
+“‘It’s the bell of the room you were working in.’
 
       “A cold hand seemed to close round my heart. Some one, then, was
       in that room where my precious treaty lay upon the table. I ran
@@ -9293,9 +9240,9 @@ rough chart
       described as dimly lighted?”
 
       “It is absolutely impossible. A rat could not conceal himself
-      either in the room or the corridor. There is no cover at all.”
+either in the room or the corridor. There is no cover at all.”
 
-      “Thank you. Pray proceed.”
+“Thank you. Pray proceed.”
 
       “The commissionnaire, seeing by my pale face that something was
       to be feared, had followed me upstairs. Now we both rushed along
@@ -9336,15 +9283,15 @@ rough chart
       “‘Which way did the woman go?’ I cried.
 
       “‘I don’t know, sir. I noticed her pass, but I had no special
-      reason for watching her. She seemed to be in a hurry.’
+reason for watching her. She seemed to be in a hurry.’
 
-      “‘How long ago was it?’
+“‘How long ago was it?’
 
-      “‘Oh, not very many minutes.’
+“‘Oh, not very many minutes.’
 
-      “‘Within the last five?’
+“‘Within the last five?’
 
-      “‘Well, it could not be more than five.’
+“‘Well, it could not be more than five.’
 
       “‘You’re only wasting your time, sir, and every minute now is of
       importance,’ cried the commissionnaire; ‘take my word for it that
@@ -9352,13 +9299,13 @@ rough chart
       other end of the street. Well, if you won’t, I will.’ And with
       that he rushed off in the other direction.
 
-      “But I was after him in an instant and caught him by the sleeve.
+“But I was after him in an instant and caught him by the sleeve.
 
-      “‘Where do you live?’ said I.
+“‘Where do you live?’ said I.
 
-      “‘16 Ivy Lane, Brixton,’ he answered. ‘But don’t let yourself be
-      drawn away upon a false scent, Mr. Phelps. Come to the other end
-      of the street and let us see if we can hear of anything.’
+“‘16 Ivy Lane, Brixton,’ he answered. ‘But don’t let yourself be
+drawn away upon a false scent, Mr. Phelps. Come to the other end
+of the street and let us see if we can hear of anything.’
 
       “Nothing was to be lost by following his advice. With the
       policeman we both hurried down, but only to find the street full
@@ -9379,9 +9326,9 @@ rough chart
       “How is it, then, that the woman who came into the room about
       nine left no traces with her muddy boots?”
 
-      “I am glad you raised the point. It occurred to me at the time.
-      The charwomen are in the habit of taking off their boots at the
-      commissionnaire’s office, and putting on list slippers.”
+“I am glad you raised the point. It occurred to me at the time.
+The charwomen are in the habit of taking off their boots at the
+commissionnaire’s office, and putting on list slippers.”
 
       “That is very clear. There were no marks, then, though the night
       was a wet one? The chain of events is certainly one of
@@ -9422,9 +9369,9 @@ rough chart
       of the place. He could give no explanation save that it was about
       the time when the woman always went home. The policeman and I
       agreed that our best plan would be to seize the woman before she
-      could get rid of the papers, presuming that she had them.
+could get rid of the papers, presuming that she had them.
 
-      “The alarm had reached Scotland Yard by this time, and Mr.
+“The alarm had reached Scotland Yard by this time, and Mr.
       Forbes, the detective, came round at once and took up the case
       with a great deal of energy. We hired a hansom, and in half an
       hour we were at the address which had been given to us. A young
@@ -9443,7 +9390,7 @@ rough chart
       recognising me, an expression of absolute astonishment came over
       her face.
 
-      “‘Why, if it isn’t Mr. Phelps, of the office!’ she cried.
+“‘Why, if it isn’t Mr. Phelps, of the office!’ she cried.
 
       “‘Come, come, who did you think we were when you ran away from
       us?’ asked my companion.
@@ -9486,11 +9433,11 @@ rough chart
       had it not been that Dr. Ferrier, who lives near me, was going
       down by that very train. The doctor most kindly took charge of
       me, and it was well he did so, for I had a fit in the station,
-      and before we reached home I was practically a raving maniac.
+and before we reached home I was practically a raving maniac.
 
-      “You can imagine the state of things here when they were roused
-      from their beds by the doctor’s ringing and found me in this
-      condition. Poor Annie here and my mother were broken-hearted. Dr.
+“You can imagine the state of things here when they were roused
+from their beds by the doctor’s ringing and found me in this
+condition. Poor Annie here and my mother were broken-hearted. Dr.
       Ferrier had just heard enough from the detective at the station
       to be able to give an idea of what had happened, and his story
       did not mend matters. It was evident to all that I was in for a
@@ -9538,13 +9485,13 @@ rough chart
       “No. I had not been back to Woking between getting the order and
       executing the commission.”
 
-      “And none of your people had by chance been to see you?”
+“And none of your people had by chance been to see you?”
 
-      “None.”
+“None.”
 
-      “Did any of them know their way about in the office?”
+“Did any of them know their way about in the office?”
 
-      “Oh, yes, all of them had been shown over it.”
+“Oh, yes, all of them had been shown over it.”
 
       “Still, of course, if you said nothing to any one about the
       treaty these inquiries are irrelevant.”
@@ -9586,8 +9533,8 @@ rough chart
       moss-rose between his fingers. It had lasted some minutes before
       the young lady broke in upon it.
 
-      “Do you see any prospect of solving this mystery, Mr. Holmes?”
-      she asked, with a touch of asperity in her voice.
+“Do you see any prospect of solving this mystery, Mr. Holmes?”
+she asked, with a touch of asperity in her voice.
 
       “Oh, the mystery!” he answered, coming back with a start to the
       realities of life. “Well, it would be absurd to deny that the
@@ -9650,9 +9597,9 @@ rough chart
       soon explained himself.
 
       “Look at those big, isolated clumps of building rising up above
-      the slates, like brick islands in a lead-coloured sea.”
+the slates, like brick islands in a lead-coloured sea.”
 
-      “The board-schools.”
+“The board-schools.”
 
       “Light-houses, my boy! Beacons of the future! Capsules with
       hundreds of bright little seeds in each, out of which will spring
@@ -9675,9 +9622,9 @@ rough chart
       her brother as escort. Then came the smash, and she stayed on to
       nurse her lover, while brother Joseph, finding himself pretty
       snug, stayed on too. I’ve been making a few independent
-      inquiries, you see. But to-day must be a day of inquiries.”
+inquiries, you see. But to-day must be a day of inquiries.”
 
-      “My practice—” I began.
+“My practice—” I began.
 
       “Oh, if you find your own cases more interesting than mine—” said
       Holmes, with some asperity.
@@ -9688,9 +9635,9 @@ rough chart
       “Excellent,” said he, recovering his good-humour. “Then we’ll
       look into this matter together. I think that we should begin by
       seeing Forbes. He can probably tell us all the details we want
-      until we know from what side the case is to be approached.”
+until we know from what side the case is to be approached.”
 
-      “You said you had a clue?”
+“You said you had a clue?”
 
       “Well, we have several, but we can only test their value by
       further inquiry. The most difficult crime to track is the one
@@ -9705,25 +9652,25 @@ rough chart
       in a position where he was not sorry to have such a document
       accidentally destroyed.”
 
-      “Not a statesman with the honourable record of Lord Holdhurst?”
+“Not a statesman with the honourable record of Lord Holdhurst?”
 
-      “It is a possibility and we cannot afford to disregard it. We
-      shall see the noble lord to-day and find out if he can tell us
-      anything. Meanwhile I have already set inquiries on foot.”
+“It is a possibility and we cannot afford to disregard it. We
+shall see the noble lord to-day and find out if he can tell us
+anything. Meanwhile I have already set inquiries on foot.”
 
-      “Already?”
+“Already?”
 
-      “Yes, I sent wires from Woking station to every evening paper in
-      London. This advertisement will appear in each of them.”
+“Yes, I sent wires from Woking station to every evening paper in
+London. This advertisement will appear in each of them.”
 
       He handed over a sheet torn from a note-book. On it was scribbled
       in pencil:
 
       “£10 Reward.—The number of the cab which dropped a fare at or
       about the door of the Foreign Office in Charles Street at quarter
-      to ten in the evening of May 23rd. Apply 221B, Baker Street.”
+to ten in the evening of May 23rd. Apply 221B, Baker Street.”
 
-      “You are confident that the thief came in a cab?”
+“You are confident that the thief came in a cab?”
 
       “If not, there is no harm done. But if Mr. Phelps is correct in
       stating that there is no hiding-place either in the room or the
@@ -9731,9 +9678,9 @@ rough chart
       came from outside on so wet a night, and yet left no trace of
       damp upon the linoleum, which was examined within a few minutes
       of his passing, then it is exceeding probable that he came in a
-      cab. Yes, I think that we may safely deduce a cab.”
+cab. Yes, I think that we may safely deduce a cab.”
 
-      “It sounds plausible.”
+“It sounds plausible.”
 
       “That is one of the clues of which I spoke. It may lead us to
       something. And then, of course, there is the bell—which is the
@@ -9762,15 +9709,15 @@ rough chart
       my name has only appeared in four, and the police have had all
       the credit in forty-nine. I don’t blame you for not knowing this,
       for you are young and inexperienced, but if you wish to get on in
-      your new duties you will work with me and not against me.”
+your new duties you will work with me and not against me.”
 
-      “I’d be very glad of a hint or two,” said the detective, changing
-      his manner. “I’ve certainly had no credit from the case so far.”
+“I’d be very glad of a hint or two,” said the detective, changing
+his manner. “I’ve certainly had no credit from the case so far.”
 
-      “What steps have you taken?”
+“What steps have you taken?”
 
-      “Tangey, the commissionnaire, has been shadowed. He left the
-      Guards with a good character and we can find nothing against him.
+“Tangey, the commissionnaire, has been shadowed. He left the
+Guards with a good character and we can find nothing against him.
       His wife is a bad lot, though. I fancy she knows more about this
       than appears.”
 
@@ -9780,11 +9727,11 @@ rough chart
       our woman has been with her twice when she was well on, but she
       could get nothing out of her.”
 
-      “I understand that they have had brokers in the house?”
+“I understand that they have had brokers in the house?”
 
-      “Yes, but they were paid off.”
+“Yes, but they were paid off.”
 
-      “Where did the money come from?”
+“Where did the money come from?”
 
       “That was all right. His pension was due. They have not shown any
       sign of being in funds.”
@@ -9801,10 +9748,10 @@ rough chart
       night? Her haste attracted the attention of the police
       constable.”
 
-      “She was later than usual and wanted to get home.”
+“She was later than usual and wanted to get home.”
 
-      “Did you point out to her that you and Mr. Phelps, who started at
-      least twenty minutes after her, got home before her?”
+“Did you point out to her that you and Mr. Phelps, who started at
+least twenty minutes after her, got home before her?”
 
       “She explains that by the difference between a ‘bus and a
       hansom.”
@@ -9821,26 +9768,26 @@ rough chart
 
       “She saw no one but the constable.”
 
-      “Well, you seem to have cross-examined her pretty thoroughly.
-      What else have you done?”
+“Well, you seem to have cross-examined her pretty thoroughly.
+What else have you done?”
 
       “The clerk Gorot has been shadowed all these nine weeks, but
       without result. We can show nothing against him.”
 
       “Anything else?”
 
-      “Well, we have nothing else to go upon—no evidence of any kind.”
+“Well, we have nothing else to go upon—no evidence of any kind.”
 
-      “Have you formed a theory about how that bell rang?”
+“Have you formed a theory about how that bell rang?”
 
-      “Well, I must confess that it beats me. It was a cool hand,
-      whoever it was, to go and give the alarm like that.”
+“Well, I must confess that it beats me. It was a cool hand,
+whoever it was, to go and give the alarm like that.”
 
       “Yes, it was a queer thing to do. Many thanks to you for what you
       have told me. If I can put the man into your hands you shall hear
       from me. Come along, Watson.”
 
-      “Where are we going to now?” I asked, as we left the office.
+“Where are we going to now?” I asked, as we left the office.
 
       “We are now going to interview Lord Holdhurst, the cabinet
       minister and future premier of England.”
@@ -9875,7 +9822,7 @@ rough chart
       “I had one or two questions which I wished to ask you, Lord
       Holdhurst.”
 
-      “I shall be happy to give you any information in my power.”
+“I shall be happy to give you any information in my power.”
 
       “Was it in this room that you gave your instructions as to the
       copying of the document?”
@@ -9900,8 +9847,8 @@ rough chart
       presence in the room was purely accidental. He saw his chance and
       he took it.”
 
-      The statesman smiled. “You take me out of my province there,”
-      said he.
+The statesman smiled. “You take me out of my province there,”
+said he.
 
       Holmes considered for a moment. “There is another very important
       point which I wish to discuss with you,” said he. “You feared, as
@@ -9945,9 +9892,9 @@ rough chart
       time, and we shall wish you good-day.”
 
       “Every success to your investigation, be the criminal who it
-      may,” answered the nobleman, as he bowed us out the door.
+may,” answered the nobleman, as he bowed us out the door.
 
-      “He’s a fine fellow,” said Holmes, as we came out into Whitehall.
+“He’s a fine fellow,” said Holmes, as we came out into Whitehall.
       “But he has a struggle to keep up his position. He is far from
       rich and has many calls. You noticed, of course, that his boots
       had been resoled. Now, Watson, I won’t detain you from your
@@ -9968,20 +9915,20 @@ rough chart
 
       We found our client still under the charge of his devoted nurse,
       but looking considerably better than before. He rose from the
-      sofa and greeted us without difficulty when we entered.
+sofa and greeted us without difficulty when we entered.
 
-      “Any news?” he asked, eagerly.
+“Any news?” he asked, eagerly.
 
-      “My report, as I expected, is a negative one,” said Holmes. “I
-      have seen Forbes, and I have seen your uncle, and I have set one
-      or two trains of inquiry upon foot which may lead to something.”
+“My report, as I expected, is a negative one,” said Holmes. “I
+have seen Forbes, and I have seen your uncle, and I have set one
+or two trains of inquiry upon foot which may lead to something.”
 
-      “You have not lost heart, then?”
+“You have not lost heart, then?”
 
-      “By no means.”
+“By no means.”
 
-      “God bless you for saying that!” cried Miss Harrison. “If we keep
-      our courage and our patience the truth must come out.”
+“God bless you for saying that!” cried Miss Harrison. “If we keep
+our courage and our patience the truth must come out.”
 
       “We have more to tell you than you have for us,” said Phelps,
       reseating himself upon the couch.
@@ -9993,9 +9940,9 @@ rough chart
       grave as he spoke, and a look of something akin to fear sprang up
       in his eyes. “Do you know,” said he, “that I begin to believe
       that I am the unconscious centre of some monstrous conspiracy,
-      and that my life is aimed at as well as my honour?”
+and that my life is aimed at as well as my honour?”
 
-      “Ah!” cried Holmes.
+“Ah!” cried Holmes.
 
       “It sounds incredible, for I have not, as far as I know, an enemy
       in the world. Yet from last night’s experience I can come to no
@@ -10136,9 +10083,9 @@ rough chart
 
       “And am I to remain here?”
 
-      “It is for his sake. You can serve him. Quick! Promise!”
+“It is for his sake. You can serve him. Quick! Promise!”
 
-      She gave a quick nod of assent just as the other two came up.
+She gave a quick nod of assent just as the other two came up.
 
       “Why do you sit moping there, Annie?” cried her brother. “Come
       out into the sunshine!”
@@ -10146,7 +10093,7 @@ rough chart
       “No, thank you, Joseph. I have a slight headache and this room is
       deliciously cool and soothing.”
 
-      “What do you propose now, Mr. Holmes?” asked our client.
+“What do you propose now, Mr. Holmes?” asked our client.
 
       “Well, in investigating this minor affair we must not lose sight
       of our main inquiry. It would be a very great help to me if you
@@ -10154,24 +10101,24 @@ rough chart
 
       “At once?”
 
-      “Well, as soon as you conveniently can. Say in an hour.”
+“Well, as soon as you conveniently can. Say in an hour.”
 
-      “I feel quite strong enough, if I can really be of any help.”
+“I feel quite strong enough, if I can really be of any help.”
 
-      “The greatest possible.”
+“The greatest possible.”
 
-      “Perhaps you would like me to stay there to-night?”
+“Perhaps you would like me to stay there to-night?”
 
-      “I was just going to propose it.”
+“I was just going to propose it.”
 
       “Then, if my friend of the night comes to revisit me, he will
       find the bird flown. We are all in your hands, Mr. Holmes, and
       you must tell us exactly what you would like done. Perhaps you
-      would prefer that Joseph came with us so as to look after me?”
+would prefer that Joseph came with us so as to look after me?”
 
-      “Oh, no; my friend Watson is a medical man, you know, and he’ll
-      look after you. We’ll have our lunch here, if you will permit us,
-      and then we shall all three set off for town together.”
+“Oh, no; my friend Watson is a medical man, you know, and he’ll
+look after you. We’ll have our lunch here, if you will permit us,
+and then we shall all three set off for town together.”
 
       It was arranged as he suggested, though Miss Harrison excused
       herself from leaving the bedroom, in accordance with Holmes’s
@@ -10204,10 +10151,10 @@ rough chart
       platform.
 
       “I hardly expect to go back to Briarbrae,” answered Holmes, and
-      waved his hand to us cheerily as we shot out from the station.
+waved his hand to us cheerily as we shot out from the station.
 
-      Phelps and I talked it over on our journey, but neither of us
-      could devise a satisfactory reason for this new development.
+Phelps and I talked it over on our journey, but neither of us
+could devise a satisfactory reason for this new development.
 
       “I suppose he wants to find out some clue as to the burglary last
       night, if a burglar it was. For myself, I don’t believe it was an
@@ -10221,25 +10168,25 @@ rough chart
       is aimed at by the conspirators. It sounds high-flown and absurd,
       but consider the facts! Why should a thief try to break in at a
       bedroom window, where there could be no hope of any plunder, and
-      why should he come with a long knife in his hand?”
+why should he come with a long knife in his hand?”
 
-      “You are sure it was not a house-breaker’s jimmy?”
+“You are sure it was not a house-breaker’s jimmy?”
 
       “Oh, no, it was a knife. I saw the flash of the blade quite
       distinctly.”
 
-      “But why on earth should you be pursued with such animosity?”
+“But why on earth should you be pursued with such animosity?”
 
-      “Ah, that is the question.”
+“Ah, that is the question.”
 
       “Well, if Holmes takes the same view, that would account for his
       action, would it not? Presuming that your theory is correct, if
       he can lay his hands upon the man who threatened you last night
       he will have gone a long way towards finding who took the naval
       treaty. It is absurd to suppose that you have two enemies, one of
-      whom robs you, while the other threatens your life.”
+whom robs you, while the other threatens your life.”
 
-      “But Holmes said that he was not going to Briarbrae.”
+“But Holmes said that he was not going to Briarbrae.”
 
       “I have known him for some time,” said I, “but I never knew him
       do anything yet without a very good reason,” and with that our
@@ -10259,12 +10206,12 @@ rough chart
 
       “I have seen him do some remarkable things.”
 
-      “But he never brought light into anything quite so dark as this?”
+“But he never brought light into anything quite so dark as this?”
 
       “Oh, yes; I have known him solve questions which presented fewer
       clues than yours.”
 
-      “But not where such large interests are at stake?”
+“But not where such large interests are at stake?”
 
       “I don’t know that. To my certain knowledge he has acted on
       behalf of three of the reigning houses of Europe in very vital
@@ -10272,11 +10219,11 @@ rough chart
 
       “But you know him well, Watson. He is such an inscrutable fellow
       that I never quite know what to make of him. Do you think he is
-      hopeful? Do you think he expects to make a success of it?”
+hopeful? Do you think he expects to make a success of it?”
 
-      “He has said nothing.”
+“He has said nothing.”
 
-      “That is a bad sign.”
+“That is a bad sign.”
 
       “On the contrary, I have noticed that when he is off the trail he
       generally says so. It is when he is on a scent and is not quite
@@ -10313,9 +10260,9 @@ rough chart
       “He looks like a beaten man,” cried Phelps.
 
       I was forced to confess that he was right. “After all,” said I,
-      “the clue of the matter lies probably here in town.”
+“the clue of the matter lies probably here in town.”
 
-      Phelps gave a groan.
+Phelps gave a groan.
 
       “I don’t know how it is,” said he, “but I had hoped for so much
       from his return. But surely his hand was not tied up like that
@@ -10380,8 +10327,8 @@ rough chart
       Watson here will tell you that I never can resist a touch of the
       dramatic.”
 
-      Phelps seized his hand and kissed it. “God bless you!” he cried.
-      “You have saved my honour.”
+Phelps seized his hand and kissed it. “God bless you!” he cried.
+“You have saved my honour.”
 
       “Well, my own was at stake, you know,” said Holmes. “I assure you
       it is just as hateful to me to fail in a case as it can be to you
@@ -10503,8 +10450,8 @@ rough chart
       either his sister’s happiness or your reputation to hold his
       hand.”
 
-      Percy Phelps sank back in his chair. “My head whirls,” said he.
-      “Your words have dazed me.”
+Percy Phelps sank back in his chair. “My head whirls,” said he.
+“Your words have dazed me.”
 
       “The principal difficulty in your case,” remarked Holmes, in his
       didactic fashion, “lay in the fact of there being too much
@@ -10522,9 +10469,9 @@ rough chart
       turned Joseph out when you arrived with the doctor—my suspicions
       all changed to certainties, especially as the attempt was made on
       the first night upon which the nurse was absent, showing that the
-      intruder was well acquainted with the ways of the house.”
+intruder was well acquainted with the ways of the house.”
 
-      “How blind I have been!”
+“How blind I have been!”
 
       “The facts of the case, as far as I have worked them out, are
       these: this Joseph Harrison entered the office through the
@@ -10571,17 +10518,15 @@ rough chart
       he might have entered by the door?”
 
       “In reaching the door he would have to pass seven bedrooms. On
-      the other hand, he could get out on to the lawn with ease.
-      Anything else?”
+the other hand, he could get out on to the lawn with ease.
+Anything else?”
 
       “You do not think,” asked Phelps, “that he had any murderous
       intention? The knife was only meant as a tool.”
 
       “It may be so,” answered Holmes, shrugging his shoulders. “I can
       only say for certain that Mr. Joseph Harrison is a gentleman to
-      whose mercy I should be extremely unwilling to trust.”
-
-
+whose mercy I should be extremely unwilling to trust.”
 
 
 XII. The Final Problem
@@ -10637,17 +10582,17 @@ XII. The Final Problem
 
       The only light in the room came from the lamp upon the table at
       which I had been reading. Holmes edged his way round the wall and
-      flinging the shutters together, he bolted them securely.
+flinging the shutters together, he bolted them securely.
 
-      “You are afraid of something?” I asked.
+“You are afraid of something?” I asked.
 
-      “Well, I am.”
+“Well, I am.”
 
-      “Of what?”
+“Of what?”
 
-      “Of air-guns.”
+“Of air-guns.”
 
-      “My dear Holmes, what do you mean?”
+“My dear Holmes, what do you mean?”
 
       “I think that you know me well enough, Watson, to understand that
       I am by no means a nervous man. At the same time, it is stupidity
@@ -10658,9 +10603,9 @@ XII. The Final Problem
 
       “I must apologise for calling so late,” said he, “and I must
       further beg you to be so unconventional as to allow me to leave
-      your house presently by scrambling over your back garden wall.”
+your house presently by scrambling over your back garden wall.”
 
-      “But what does it all mean?” I asked.
+“But what does it all mean?” I asked.
 
       He held out his hand, and I saw in the light of the lamp that two
       of his knuckles were burst and bleeding.
@@ -10689,11 +10634,11 @@ XII. The Final Problem
       together and his elbows upon his knees, he explained the
       situation.
 
-      “You have probably never heard of Professor Moriarty?” said he.
+“You have probably never heard of Professor Moriarty?” said he.
 
-      “Never.”
+“Never.”
 
-      “Aye, there’s the genius and the wonder of the thing!” he cried.
+“Aye, there’s the genius and the wonder of the thing!” he cried.
       “The man pervades London, and no one has heard of him. That’s
       what puts him on a pinnacle in the records of crime. I tell you,
       Watson, in all seriousness, that if I could beat that man, if I
@@ -10752,9 +10697,9 @@ XII. The Final Problem
       removed—the word is passed to the Professor, the matter is
       organized and carried out. The agent may be caught. In that case
       money is found for his bail or his defence. But the central power
-      which uses the agent is never caught—never so much as suspected.
-      This was the organization which I deduced, Watson, and which I
-      devoted my whole energy to exposing and breaking up.
+which uses the agent is never caught—never so much as suspected.
+This was the organization which I deduced, Watson, and which I
+devoted my whole energy to exposing and breaking up.
 
       “But the Professor was fenced round with safeguards so cunningly
       devised that, do what I would, it seemed impossible to get
@@ -10819,13 +10764,13 @@ XII. The Final Problem
       that I do. Pray take a chair. I can spare you five minutes if you
       have anything to say.’
 
-      “‘All that I have to say has already crossed your mind,’ said he.
+“‘All that I have to say has already crossed your mind,’ said he.
 
-      “‘Then possibly my answer has crossed yours,’ I replied.
+“‘Then possibly my answer has crossed yours,’ I replied.
 
-      “‘You stand fast?’
+“‘You stand fast?’
 
-      “‘Absolutely.’
+“‘Absolutely.’
 
       “He clapped his hand into his pocket, and I raised the pistol
       from the table. But he merely drew out a memorandum-book in which
@@ -10836,15 +10781,15 @@ XII. The Final Problem
       inconvenienced by you; at the end of March I was absolutely
       hampered in my plans; and now, at the close of April, I find
       myself placed in such a position through your continual
-      persecution that I am in positive danger of losing my liberty.
-      The situation is becoming an impossible one.’
+persecution that I am in positive danger of losing my liberty.
+The situation is becoming an impossible one.’
 
-      “‘Have you any suggestion to make?’ I asked.
+“‘Have you any suggestion to make?’ I asked.
 
-      “‘You must drop it, Mr. Holmes,’ said he, swaying his face about.
-      ‘You really must, you know.’
+“‘You must drop it, Mr. Holmes,’ said he, swaying his face about.
+‘You really must, you know.’
 
-      “‘After Monday,’ said I.
+“‘After Monday,’ said I.
 
       “‘Tut, tut,’ said he. ‘I am quite sure that a man of your
       intelligence will see that there can be but one outcome to this
@@ -10852,12 +10797,12 @@ XII. The Final Problem
       things in such a fashion that we have only one resource left. It
       has been an intellectual treat to me to see the way in which you
       have grappled with this affair, and I say, unaffectedly, that it
-      would be a grief to me to be forced to take any extreme measure.
-      You smile, sir, but I assure you that it really would.’
+would be a grief to me to be forced to take any extreme measure.
+You smile, sir, but I assure you that it really would.’
 
-      “‘Danger is part of my trade,’ I remarked.
+“‘Danger is part of my trade,’ I remarked.
 
-      “‘That is not danger,’ said he. ‘It is inevitable destruction.
+“‘That is not danger,’ said he. ‘It is inevitable destruction.
       You stand in the way not merely of an individual, but of a mighty
       organization, the full extent of which you, with all your
       cleverness, have been unable to realize. You must stand clear,
@@ -10876,9 +10821,9 @@ XII. The Final Problem
       Holmes. You hope to place me in the dock. I tell you that I will
       never stand in the dock. You hope to beat me. I tell you that you
       will never beat me. If you are clever enough to bring destruction
-      upon me, rest assured that I shall do as much to you.’
+upon me, rest assured that I shall do as much to you.’
 
-      “‘You have paid me several compliments, Mr. Moriarty,’ said I.
+“‘You have paid me several compliments, Mr. Moriarty,’ said I.
       ‘Let me pay you one in return when I say that if I were assured
       of the former eventuality I would, in the interests of the
       public, cheerfully accept the latter.’
@@ -10951,20 +10896,20 @@ XII. The Final Problem
       for you are now playing a double-handed game with me against the
       cleverest rogue and the most powerful syndicate of criminals in
       Europe. Now listen! You will dispatch whatever luggage you intend
-      to take by a trusty messenger unaddressed to Victoria to-night.
-      In the morning you will send for a hansom, desiring your man to
-      take neither the first nor the second which may present itself.
-      Into this hansom you will jump, and you will drive to the Strand
-      end of the Lowther Arcade, handing the address to the cabman upon
-      a slip of paper, with a request that he will not throw it away.
+to take by a trusty messenger unaddressed to Victoria to-night.
+In the morning you will send for a hansom, desiring your man to
+take neither the first nor the second which may present itself.
+Into this hansom you will jump, and you will drive to the Strand
+end of the Lowther Arcade, handing the address to the cabman upon
+a slip of paper, with a request that he will not throw it away.
       Have your fare ready, and the instant that your cab stops, dash
       through the Arcade, timing yourself to reach the other side at a
       quarter-past nine. You will find a small brougham waiting close
       to the curb, driven by a fellow with a heavy black cloak tipped
       at the collar with red. Into this you will step, and you will
-      reach Victoria in time for the Continental express.”
+reach Victoria in time for the Continental express.”
 
-      “Where shall I meet you?”
+“Where shall I meet you?”
 
       “At the station. The second first-class carriage from the front
       will be reserved for us.”
@@ -11049,48 +10994,48 @@ XII. The Final Problem
 
       “Baker Street?”
 
-      “They set fire to our rooms last night. No great harm was done.”
+“They set fire to our rooms last night. No great harm was done.”
 
-      “Good heavens, Holmes! This is intolerable.”
+“Good heavens, Holmes! This is intolerable.”
 
       “They must have lost my track completely after their bludgeon-man
       was arrested. Otherwise they could not have imagined that I had
       returned to my rooms. They have evidently taken the precaution of
       watching you, however, and that is what has brought Moriarty to
-      Victoria. You could not have made any slip in coming?”
+Victoria. You could not have made any slip in coming?”
 
-      “I did exactly what you advised.”
+“I did exactly what you advised.”
 
-      “Did you find your brougham?”
+“Did you find your brougham?”
 
-      “Yes, it was waiting.”
+“Yes, it was waiting.”
 
-      “Did you recognise your coachman?”
+“Did you recognise your coachman?”
 
-      “No.”
+“No.”
 
-      “It was my brother Mycroft. It is an advantage to get about in
-      such a case without taking a mercenary into your confidence. But
-      we must plan what we are to do about Moriarty now.”
+“It was my brother Mycroft. It is an advantage to get about in
+such a case without taking a mercenary into your confidence. But
+we must plan what we are to do about Moriarty now.”
 
-      “As this is an express, and as the boat runs in connection with
-      it, I should think we have shaken him off very effectively.”
+“As this is an express, and as the boat runs in connection with
+it, I should think we have shaken him off very effectively.”
 
       “My dear Watson, you evidently did not realize my meaning when I
       said that this man may be taken as being quite on the same
       intellectual plane as myself. You do not imagine that if I were
       the pursuer I should allow myself to be baffled by so slight an
-      obstacle. Why, then, should you think so meanly of him?”
+obstacle. Why, then, should you think so meanly of him?”
 
-      “What will he do?”
+“What will he do?”
 
-      “What I should do?”
+“What I should do?”
 
-      “What would you do, then?”
+“What would you do, then?”
 
-      “Engage a special.”
+“Engage a special.”
 
-      “But it must be late.”
+“But it must be late.”
 
       “By no means. This train stops at Canterbury; and there is always
       at least a quarter of an hour’s delay at the boat. He will catch
@@ -11138,9 +11083,9 @@ XII. The Final Problem
       “There he goes,” said Holmes, as we watched the carriage swing
       and rock over the points. “There are limits, you see, to our
       friend’s intelligence. It would have been a _coup-de-maître_ had
-      he deduced what I would deduce and acted accordingly.”
+he deduced what I would deduce and acted accordingly.”
 
-      “And what would he have done had he overtaken us?”
+“And what would he have done had he overtaken us?”
 
       “There cannot be the least doubt that he would have made a
       murderous attack upon me. It is, however, a game at which two may
@@ -11152,11 +11097,11 @@ XII. The Final Problem
       moving on upon the third day as far as Strasburg. On the Monday
       morning Holmes had telegraphed to the London police, and in the
       evening we found a reply waiting for us at our hotel. Holmes tore
-      it open, and then with a bitter curse hurled it into the grate.
+it open, and then with a bitter curse hurled it into the grate.
 
-      “I might have known it!” he groaned. “He has escaped!”
+“I might have known it!” he groaned. “He has escaped!”
 
-      “Moriarty?”
+“Moriarty?”
 
       “They have secured the whole gang with the exception of him. He
       has given them the slip. Of course, when I had left the country
@@ -11286,19 +11231,19 @@ XII. The Final Problem
 
       I could see his black figure clearly outlined against the green
       behind him. I noted him, and the energy with which he walked but
-      he passed from my mind again as I hurried on upon my errand.
+he passed from my mind again as I hurried on upon my errand.
 
-      It may have been a little over an hour before I reached
-      Meiringen. Old Steiler was standing at the porch of his hotel.
+It may have been a little over an hour before I reached
+Meiringen. Old Steiler was standing at the porch of his hotel.
 
       “Well,” said I, as I came hurrying up, “I trust that she is no
       worse?”
 
       A look of surprise passed over his face, and at the first quiver
-      of his eyebrows my heart turned to lead in my breast.
+of his eyebrows my heart turned to lead in my breast.
 
-      “You did not write this?” I said, pulling the letter from my
-      pocket. “There is no sick Englishwoman in the hotel?”
+“You did not write this?” I said, pulling the letter from my
+pocket. “There is no sick Englishwoman in the hotel?”
 
       “Certainly not!” he cried. “But it has the hotel mark upon it!
       Ha, it must have been written by that tall Englishman who came in
@@ -11399,355 +11344,3 @@ XII. The Final Problem
       those injudicious champions who have endeavoured to clear his
       memory by attacks upon him whom I shall ever regard as the best
       and the wisest man whom I have ever known.
-
-
-
-
-*** END OF THE PROJECT GUTENBERG EBOOK THE MEMOIRS OF SHERLOCK HOLMES ***
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the
-United States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away--you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg™ mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full
-Project Gutenberg™ License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg™ electronic works
-
-1.A. By reading or using any part of this Project Gutenberg™
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg™ electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg™ electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. “Project Gutenberg” is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg™ electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg™ electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg™
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation (“the
-Foundation” or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg™ electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg™ mission of promoting
-free access to electronic works by freely sharing Project Gutenberg™
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg™ name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg™ License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg™ work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country other than the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg™ License must appear
-prominently whenever any copy of a Project Gutenberg™ work (any work
-on which the phrase “Project Gutenberg” appears, or with which the
-phrase “Project Gutenberg” is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you will have to check the laws of the country where
-  you are located before using this eBook.
-
-1.E.2. If an individual Project Gutenberg™ electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase “Project
-Gutenberg” associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg™
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg™ electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg™ License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg™.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg™ License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg™ work in a format
-other than “Plain Vanilla ASCII” or other format used in the official
-version posted on the official Project Gutenberg™ website
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original “Plain
-Vanilla ASCII” or other form. Any alternate format must include the
-full Project Gutenberg™ License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg™ works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg™ electronic works
-provided that:
-
-• You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg™ works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg™ trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, “Information about donations to the Project Gutenberg
-  Literary Archive Foundation.”
-
-• You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg™
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg™
-  works.
-
-• You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-• You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg™ works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg™ electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg™ trademark. Contact the Foundation as set
-forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg™ collection. Despite these efforts, Project Gutenberg™
-electronic works, and the medium on which they may be stored, may
-contain “Defects,” such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg™ trademark, and any other party distributing a Project
-Gutenberg™ electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg™ electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg™
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg™ work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg™ work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg™
-
-Project Gutenberg™ is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg™'s
-goals and ensuring that the Project Gutenberg™ collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg™ and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org.
-
-Section 3. Information about the Project Gutenberg Literary
-Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation’s EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation’s business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation’s website
-and official page at www.gutenberg.org/contact.
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg™ depends upon and cannot survive without
-widespread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate.
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate.
-
-Section 5. General Information About Project Gutenberg™ electronic works
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg™ concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg™ eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg™ eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our website which has the main PG search
-facility: www.gutenberg.org.
-
-This website includes information about Project Gutenberg™,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
-

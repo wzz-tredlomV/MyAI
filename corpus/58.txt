@@ -1,46 +1,14 @@
-﻿The Project Gutenberg eBook of Paradise Regained, by John Milton
-
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org. If you are not located in the United States, you
-will have to check the laws of the country where you are located before
-using this eBook.
-
-Title: Paradise Regained
-
-Author: John Milton
-
-Release Date: March 29, 1993 [eBook #58]
-[Most recently updated: March 2, 2022]
-
-Language: English
-
-Character set encoding: UTF-8
-
-Produced by: Judy Boss
-
-*** START OF THE PROJECT GUTENBERG EBOOK PARADISE REGAINED ***
-
-
-
-
 Paradise Regained
 
 by John Milton
 
 
-
-
 Contents
 
- THE FIRST BOOK
- THE SECOND BOOK
- THE THIRD BOOK
- THE FOURTH BOOK
-
-
+THE FIRST BOOK
+THE SECOND BOOK
+THE THIRD BOOK
+THE FOURTH BOOK
 
 
 THE FIRST BOOK
@@ -53,9 +21,7 @@ By one man’s firm obedience fully tried
 Through all temptation, and the Tempter foiled
 In all his wiles, defeated and repulsed,
 And Eden raised in the waste Wilderness.
-    Thou Spirit, who led’st this glorious Eremite
-Into the desert, his victorious field
-Against the spiritual foe, and brought’st him thence     10
+Thou Spirit, who led’st this glorious Eremite Into the desert, his victorious field Against the spiritual foe, and brought’st him thence     10
 By proof the undoubted Son of God, inspire,
 As thou art wont, my prompted song, else mute,
 And bear through highth or depth of Nature’s bounds,
@@ -63,9 +29,7 @@ With prosperous wing full summed, to tell of deeds
 Above heroic, though in secret done,
 And unrecorded left through many an age:
 Worthy to have not remained so long unsung.
-    Now had the great Proclaimer, with a voice
-More awful than the sound of trumpet, cried
-Repentance, and Heaven’s kingdom nigh at hand     20
+Now had the great Proclaimer, with a voice More awful than the sound of trumpet, cried Repentance, and Heaven’s kingdom nigh at hand     20
 To all baptized. To his great baptism flocked
 With awe the regions round, and with them came
 From Nazareth the son of Joseph deemed
@@ -75,9 +39,7 @@ Descried, divinely warned, and witness bore
 As to his worthier, and would have resigned
 To him his heavenly office. Nor was long
 His witness unconfirmed: on him baptized
-Heaven opened, and in likeness of a Dove     30
-The Spirit descended, while the Father’s voice
-From Heaven pronounced him his beloved Son.
+Heaven opened, and in likeness of a Dove     30 The Spirit descended, while the Father’s voice From Heaven pronounced him his beloved Son.
 That heard the Adversary, who, roving still
 About the world, at that assembly famed
 Would not be last, and, with the voice divine
@@ -85,10 +47,7 @@ Nigh thunder-struck, the exalted man to whom
 Such high attest was given a while surveyed
 With wonder; then, with envy fraught and rage,
 Flies to his place, nor rests, but in mid air
-To council summons all his mighty Peers,     40
-Within thick clouds and dark tenfold involved,
-A gloomy consistory; and them amidst,
-With looks aghast and sad, he thus bespake:—
+To council summons all his mighty Peers,     40 Within thick clouds and dark tenfold involved, A gloomy consistory; and them amidst, With looks aghast and sad, he thus bespake:—
     “O ancient Powers of Air and this wide World
 (For much more willingly I mention Air,
 This our old conquest, than remember Hell,
@@ -105,12 +64,7 @@ Delay, for longest time to Him is short;
 And now, too soon for us, the circling hours
 This dreaded time have compassed, wherein we
 Must bide the stroke of that long-threatened wound
-(At least, if so we can, and by the head     60
-Broken be not intended all our power
-To be infringed, our freedom and our being
-In this fair empire won of Earth and Air)—
-For this ill news I bring: The Woman’s Seed,
-Destined to this, is late of woman born.
+(At least, if so we can, and by the head     60 Broken be not intended all our power To be infringed, our freedom and our being In this fair empire won of Earth and Air)— For this ill news I bring: The Woman’s Seed, Destined to this, is late of woman born.
 His birth to our just fear gave no small cause;
 But his growth now to youth’s full flower, displaying
 All virtue, grace and wisdom to achieve
@@ -135,10 +89,7 @@ His mother, than, is mortal, but his Sire
 He who obtains the monarchy of Heaven;
 And what will He not do to advance his Son?
 His first-begot we know, and sore have felt,
-When his fierce thunder drove us to the Deep;     90
-Who this is we must learn, for Man he seems
-In all his lineaments, though in his face
-The glimpses of his Father’s glory shine.
+When his fierce thunder drove us to the Deep;     90 Who this is we must learn, for Man he seems In all his lineaments, though in his face The glimpses of his Father’s glory shine.
 Ye see our danger on the utmost edge
 Of hazard, which admits no long debate,
 But must with something sudden be opposed
@@ -163,12 +114,7 @@ At first against mankind so well had thrived
 In Adam’s overthrow, and led their march
 From Hell’s deep-vaulted den to dwell in light,
 Regents, and potentates, and kings, yea gods,
-Of many a pleasant realm and province wide.
-So to the coast of Jordan he directs
-His easy steps, girded with snaky wiles,     120
-Where he might likeliest find this new-declared,
-This man of men, attested Son of God,
-Temptation and all guile on him to try—
+Of many a pleasant realm and province wide. So to the coast of Jordan he directs His easy steps, girded with snaky wiles,     120 Where he might likeliest find this new-declared, This man of men, attested Son of God, Temptation and all guile on him to try—
 So to subvert whom he suspected raised
 To end his reign on Earth so long enjoyed:
 But, contrary, unweeting he fulfilled
@@ -194,39 +140,25 @@ And vaunts of his great cunning to the throng
 Of his Apostasy. He might have learnt
 Less overweening, since he failed in Job,
 Whose constant perseverance overcame
-Whate’er his cruel malice could invent.
-He now shall know I can produce a man,     150
-Of female seed, far abler to resist
-All his solicitations, and at length
-All his vast force, and drive him back to Hell—
+Whate’er his cruel malice could invent. He now shall know I can produce a man,     150 Of female seed, far abler to resist All his solicitations, and at length All his vast force, and drive him back to Hell—
 Winning by conquest what the first man lost
 By fallacy surprised. But first I mean
 To exercise him in the Wilderness;
 There he shall first lay down the rudiments
 Of his great warfare, ere I send him forth
-To conquer Sin and Death, the two grand foes.
-By humiliation and strong sufferance     160
-His weakness shall o’ercome Satanic strength,
-And all the world, and mass of sinful flesh;
-That all the Angels and aethereal Powers—
+To conquer Sin and Death, the two grand foes. By humiliation and strong sufferance     160 His weakness shall o’ercome Satanic strength, And all the world, and mass of sinful flesh; That all the Angels and aethereal Powers—
 They now, and men hereafter—may discern
 From what consummate virtue I have chose
 This perfet man, by merit called my Son,
 To earn salvation for the sons of men.”
-    So spake the Eternal Father, and all Heaven
-Admiring stood a space; then into hymns
-Burst forth, and in celestial measures moved,     170
-Circling the throne and singing, while the hand
-Sung with the voice, and this the argument:—
+So spake the Eternal Father, and all Heaven Admiring stood a space; then into hymns Burst forth, and in celestial measures moved,     170 Circling the throne and singing, while the hand Sung with the voice, and this the argument:—
     “Victory and triumph to the Son of God,
 Now entering his great duel, not of arms,
 But to vanquish by wisdom hellish wiles!
 The Father knows the Son; therefore secure
 Ventures his filial virtue, though untried,
 Against whate’er may tempt, whate’er seduce,
-Allure, or terrify, or undermine.
-Be frustrate, all ye stratagems of Hell,     180
-And, devilish machinations, come to nought!”
+Allure, or terrify, or undermine. Be frustrate, all ye stratagems of Hell,     180 And, devilish machinations, come to nought!”
     So they in Heaven their odes and vigils tuned.
 Meanwhile the Son of God, who yet some days
 Lodged in Bethabara, where John baptized,
@@ -275,27 +207,18 @@ Misled; the stubborn only to subdue.
 These growing thoughts my mother soon perceiving,
 By words at times cast forth, inly rejoiced,
 And said to me apart, ‘High are thy thoughts,
-O Son! but nourish them, and let them soar     230
-To what highth sacred virtue and true worth
-Can raise them, though above example high;
-By matchless deeds express thy matchless Sire.
+O Son! but nourish them, and let them soar     230 To what highth sacred virtue and true worth Can raise them, though above example high; By matchless deeds express thy matchless Sire.
 For know, thou art no son of mortal man;
 Though men esteem thee low of parentage,
 Thy Father is the Eternal King who rules
-All Heaven and Earth, Angels and sons of men.
-A messenger from God foretold thy birth
-Conceived in me a virgin; he foretold
-Thou shouldst be great, and sit on David’s throne,     240
-And of thy kingdom there should be no end.
+All Heaven and Earth, Angels and sons of men. A messenger from God foretold thy birth Conceived in me a virgin; he foretold Thou shouldst be great, and sit on David’s throne,     240 And of thy kingdom there should be no end.
 At thy nativity a glorious quire
 Of Angels, in the fields of Bethlehem, sung
 To shepherds, watching at their folds by night,
 And told them the Messiah now was born,
 Where they might see him; and to thee they came,
 Directed to the manger where thou lay’st;
-For in the inn was left no better room.
-A Star, not seen before, in heaven appearing,
-Guided the Wise Men thither from the East,     250
+For in the inn was left no better room. A Star, not seen before, in heaven appearing, Guided the Wise Men thither from the East,     250
 To honour thee with incense, myrrh, and gold;
 By whose bright course led on they found the place,
 Affirming it thy star, new-graven in heaven,
@@ -303,29 +226,19 @@ By which they knew thee King of Israel born.
 Just Simeon and prophetic Anna, warned
 By vision, found thee in the Temple, and spake,
 Before the altar and the vested priest,
-Like things of thee to all that present stood.’
-This having heart, straight I again revolved
-The Law and Prophets, searching what was writ     260
+Like things of thee to all that present stood.’ This having heart, straight I again revolved The Law and Prophets, searching what was writ     260
 Concerning the Messiah, to our scribes
 Known partly, and soon found of whom they spake
 I am—this chiefly, that my way must lie
 Through many a hard assay, even to the death,
 Ere I the promised kingdom can attain,
-Or work redemption for mankind, whose sins’
-Full weight must be transferred upon my head.
-Yet, neither thus disheartened or dismayed,
-The time prefixed I waited; when behold
-The Baptist (of whose birth I oft had heard,     270
+Or work redemption for mankind, whose sins’ Full weight must be transferred upon my head. Yet, neither thus disheartened or dismayed, The time prefixed I waited; when behold The Baptist (of whose birth I oft had heard,     270
 Not knew by sight) now come, who was to come
 Before Messiah, and his way prepare!
 I, as all others, to his baptism came,
 Which I believed was from above; but he
 Straight knew me, and with loudest voice proclaimed
-Me him (for it was shewn him so from Heaven)—
-Me him whose harbinger he was; and first
-Refused on me his baptism to confer,
-As much his greater, and was hardly won.
-But, as I rose out of the laving stream,     280
+Me him (for it was shewn him so from Heaven)— Me him whose harbinger he was; and first Refused on me his baptism to confer, As much his greater, and was hardly won. But, as I rose out of the laving stream,     280
 Heaven opened her eternal doors, from whence
 The Spirit descended on me like a Dove;
 And last, the sum of all, my Father’s voice,
@@ -334,20 +247,12 @@ Me his beloved Son, in whom alone
 He was well pleased: by which I knew the time
 Now full, that I no more should live obscure,
 But openly begin, as best becomes
-The authority which I derived from Heaven.
-And now by some strong motion I am led     290
-Into this wilderness; to what intent
-I learn not yet. Perhaps I need not know;
-For what concerns my knowledge God reveals.”
-    So spake our Morning Star, then in his rise,
-And, looking round, on every side beheld
-A pathless desert, dusk with horrid shades.
+The authority which I derived from Heaven. And now by some strong motion I am led     290 Into this wilderness; to what intent I learn not yet. Perhaps I need not know; For what concerns my knowledge God reveals.”
+So spake our Morning Star, then in his rise, And, looking round, on every side beheld A pathless desert, dusk with horrid shades.
 The way he came, not having marked return,
 Was difficult, by human steps untrod;
 And he still on was led, but with such thoughts
-Accompanied of things past and to come     300
-Lodged in his breast as well might recommend
-Such solitude before choicest society.
+Accompanied of things past and to come     300 Lodged in his breast as well might recommend Such solitude before choicest society.
     Full forty days he passed—whether on hill
 Sometimes, anon in shady vale, each night
 Under the covert of some ancient oak
@@ -355,10 +260,7 @@ Or cedar to defend him from the dew,
 Or harboured in one cave, is not revealed;
 Nor tasted human food, nor hunger felt,
 Till those days ended; hungered then at last
-Among wild beasts. They at his sight grew mild,     310
-Nor sleeping him nor waking harmed; his walk
-The fiery serpent fled and noxious worm;
-The lion and fierce tiger glared aloof.
+Among wild beasts. They at his sight grew mild,     310 Nor sleeping him nor waking harmed; his walk The fiery serpent fled and noxious worm; The lion and fierce tiger glared aloof.
 But now an aged man in rural weeds,
 Following, as seemed, the quest of some stray eye,
 Or withered sticks to gather, which might serve
@@ -380,8 +282,7 @@ Who dwell this wild, constrained by want, come forth
 To town or village nigh (nighest is far),
 Where aught we hear, and curious are to hear,
 What happens new; fame also finds us out.”
-    To whom the Son of God:—“Who brought me hither
-Will bring me hence; no other guide I seek.”
+To whom the Son of God:—“Who brought me hither Will bring me hence; no other guide I seek.”
     “By miracle he may,” replied the swain;
 “What other way I see not; for we here
 Live on tough roots and stubs, to thirst inured
@@ -399,23 +300,14 @@ Proceeding from the mouth of God, who fed     350
 Our fathers here with manna? In the Mount
 Moses was forty days, nor eat nor drank;
 And forty days Eliah without food
-Wandered this barren waste; the same I now.
-Why dost thou, then, suggest to me distrust
-Knowing who I am, as I know who thou art?”
-    Whom thus answered the Arch-Fiend, now undisguised:—
-“’Tis true, I am that Spirit unfortunate
-Who, leagued with millions more in rash revolt,
-Kept not my happy station, but was driven     360
-With them from bliss to the bottomless Deep—
+Wandered this barren waste; the same I now. Why dost thou, then, suggest to me distrust Knowing who I am, as I know who thou art?”
+Whom thus answered the Arch-Fiend, now undisguised:— “’Tis true, I am that Spirit unfortunate Who, leagued with millions more in rash revolt, Kept not my happy station, but was driven     360 With them from bliss to the bottomless Deep—
 Yet to that hideous place not so confined
 By rigour unconniving but that oft,
 Leaving my dolorous prison, I enjoy
 Large liberty to round this globe of Earth,
 Or range in the Air; nor from the Heaven of Heavens
-Hath he excluded my resort sometimes.
-I came, among the Sons of God, when he
-Gave up into my hands Uzzean Job,
-To prove him, and illustrate his high worth;     370
+Hath he excluded my resort sometimes. I came, among the Sons of God, when he Gave up into my hands Uzzean Job, To prove him, and illustrate his high worth;     370
 And, when to all his Angels he proposed
 To draw the proud king Ahab into fraud,
 That he might fall in Ramoth, they demurring,
@@ -425,9 +317,7 @@ To his destruction, as I had in charge:
 For what he bids I do. Though I have lost
 Much lustre of my native brightness, lost
 To be beloved of God, I have not lost
-To love, at least contemplate and admire,     380
-What I see excellent in good, or fair,
-Or virtuous; I should so have lost all sense.
+To love, at least contemplate and admire,     380 What I see excellent in good, or fair, Or virtuous; I should so have lost all sense.
 What can be then less in me than desire
 To see thee and approach thee, whom I know
 Declared the Son of God, to hear attent
@@ -445,12 +335,7 @@ Whereby they may direct their future life.
 Envy, they say, excites me, thus to gain
 Companions of my misery and woe!
 At first it may be; but, long since with woe
-Nearer acquainted, now I feel by proof     400
-That fellowship in pain divides not smart,
-Nor lightens aught each man’s peculiar load;
-Small consolation, then, were Man adjoined.
-This wounds me most (what can it less?) that Man,
-Man fallen, shall be restored, I never more.”
+Nearer acquainted, now I feel by proof     400 That fellowship in pain divides not smart, Nor lightens aught each man’s peculiar load; Small consolation, then, were Man adjoined. This wounds me most (what can it less?) that Man, Man fallen, shall be restored, I never more.”
     To whom our Saviour sternly thus replied:—
 “Deservedly thou griev’st, composed of lies
 From the beginning, and in lies wilt end,
@@ -462,23 +347,13 @@ Among the prime in splendour, now deposed,
 Ejected, emptied, gazed, unpitied, shunned,
 A spectacle of ruin, or of scorn,
 To all the host of Heaven. The happy place
-Imparts to thee no happiness, no joy—
-Rather inflames thy torment, representing
-Lost bliss, to thee no more communicable;
-So never more in Hell than when in Heaven.     420
+Imparts to thee no happiness, no joy— Rather inflames thy torment, representing Lost bliss, to thee no more communicable; So never more in Hell than when in Heaven.     420
 But thou art serviceable to Heaven’s King!
 Wilt thou impute to obedience what thy fear
 Extorts, or pleasure to do ill excites?
 What but thy malice moved thee to misdeem
 Of righteous Job, then cruelly to afflict him
-With all inflictions? but his patience won.
-The other service was thy chosen task,
-To be a liar in four hundred mouths;
-For lying is thy sustenance, thy food.
-Yet thou pretend’st to truth! all oracles     430
-By thee are given, and what confessed more true
-Among the nations? That hath been thy craft,
-By mixing somewhat true to vent more lies.
+With all inflictions? but his patience won. The other service was thy chosen task, To be a liar in four hundred mouths; For lying is thy sustenance, thy food. Yet thou pretend’st to truth! all oracles     430 By thee are given, and what confessed more true Among the nations? That hath been thy craft, By mixing somewhat true to vent more lies.
 But what have been thy answers? what but dark,
 Ambiguous, and with double sense deluding,
 Which they who asked have seldom understood,
@@ -495,37 +370,25 @@ To thee not known, whence hast thou then thy truth,
 But from him, or his Angels president
 In every province, who, themselves disdaining
 To approach thy temples, give thee in command
-What, to the smallest tittle, thou shalt say     450
-To thy adorers? Thou, with trembling fear,
-Or like a fawning parasite, obey’st;
-Then to thyself ascrib’st the truth foretold.
+What, to the smallest tittle, thou shalt say     450 To thy adorers? Thou, with trembling fear, Or like a fawning parasite, obey’st; Then to thyself ascrib’st the truth foretold.
 But this thy glory shall be soon retrenched;
 No more shalt thou by oracling abuse
 The Gentiles; henceforth oracles are ceased,
 And thou no more with pomp and sacrifice
-Shalt be enquired at Delphos or elsewhere—
-At least in vain, for they shall find thee mute.
-God hath now sent his living Oracle     460
+Shalt be enquired at Delphos or elsewhere— At least in vain, for they shall find thee mute. God hath now sent his living Oracle     460
 Into the world to teach his final will,
 And sends his Spirit of Truth henceforth to dwell
 In pious hearts, an inward oracle
 To all truth requisite for men to know.”
-    So spake our Saviour; but the subtle Fiend,
-Though inly stung with anger and disdain,
-Dissembled, and this answer smooth returned:—
-    “Sharply thou hast insisted on rebuke,
-And urged me hard with doings which not will,
-But misery, hath wrested from me. Where     470
+So spake our Saviour; but the subtle Fiend, Though inly stung with anger and disdain, Dissembled, and this answer smooth returned:—
+“Sharply thou hast insisted on rebuke, And urged me hard with doings which not will, But misery, hath wrested from me. Where     470
 Easily canst thou find one miserable,
 And not inforced oft-times to part from truth,
 If it may stand him more in stead to lie,
 Say and unsay, feign, flatter, or abjure?
 But thou art placed above me; thou art Lord;
 From thee I can, and must, submiss, endure
-Cheek or reproof, and glad to scape so quit.
-Hard are the ways of truth, and rough to walk,
-Smooth on the tongue discoursed, pleasing to the ear,
-And tunable as sylvan pipe or song;     480
+Cheek or reproof, and glad to scape so quit. Hard are the ways of truth, and rough to walk, Smooth on the tongue discoursed, pleasing to the ear, And tunable as sylvan pipe or song;     480
 What wonder, then, if I delight to hear
 Her dictates from thy mouth? most men admire
 Virtue who follow not her lore. Permit me
@@ -535,9 +398,7 @@ Thy Father, who is holy, wise, and pure,
 Suffers the hypocrite or atheous priest
 To tread his sacred courts, and minister
 About his altar, handling holy things,
-Praying or vowing, and voutsafed his voice     490
-To Balaam reprobate, a prophet yet
-Inspired: disdain not such access to me.”
+Praying or vowing, and voutsafed his voice     490 To Balaam reprobate, a prophet yet Inspired: disdain not such access to me.”
     To whom our Saviour, with unaltered brow:—
 “Thy coming hither, though I know thy scope,
 I bid not, or forbid. Do as thou find’st
@@ -545,11 +406,7 @@ Permission from above; thou canst not more.”
     He added not; and Satan, bowling low
 His gray dissimulation, disappeared,
 Into thin air diffused: for now began
-Night with her sullen wing to double-shade     500
-The desert; fowls in their clay nests were couched;
-And now wild beasts came forth the woods to roam.
-
-
+Night with her sullen wing to double-shade     500 The desert; fowls in their clay nests were couched; And now wild beasts came forth the woods to roam.
 
 
 THE SECOND BOOK
@@ -562,19 +419,12 @@ Jesus Messiah, Son of God, declared,
 And on that high authority had believed,
 And with him talked, and with him lodged—I mean
 Andrew and Simon, famous after known,
-With others, though in Holy Writ not named—
-Now missing him, their joy so lately found,
-So lately found and so abruptly gone,     10
-Began to doubt, and doubted many days,
-And, as the days increased, increased their doubt.
+With others, though in Holy Writ not named— Now missing him, their joy so lately found, So lately found and so abruptly gone,     10 Began to doubt, and doubted many days, And, as the days increased, increased their doubt.
 Sometimes they thought he might be only shewn,
 And for a time caught up to God, as once
 Moses was in the Mount and missing long,
 And the great Thisbite, who on fiery wheels
-Rode up to Heaven, yet once again to come.
-Therefore, as those young prophets then with care
-Sought lost Eliah, so in each place these
-Nigh to Bethabara—in Jericho     20
+Rode up to Heaven, yet once again to come. Therefore, as those young prophets then with care Sought lost Eliah, so in each place these Nigh to Bethabara—in Jericho     20
 The city of palms, AEnon, and Salem old,
 Machaerus, and each town or city walled
 On this side the broad lake Genezaret,
@@ -588,43 +438,20 @@ Their unexpected loss and plaints outbreathed:—
 Unlooked for are we fallen! Our eyes beheld
 Messiah certainly now come, so long
 Expected of our fathers; we have heard
-His words, his wisdom full of grace and truth.
-‘Now, now, for sure, deliverance is at hand;
-The kingdom shall to Israel be restored:’
-Thus we rejoiced, but soon our joy is turned
-Into perplexity and new amaze.
-For whither is he gone? what accident
-Hath rapt him from us? will he now retire     40
-After appearance, and again prolong
-Our expectation? God of Israel,
-Send thy Messiah forth; the time is come.
+His words, his wisdom full of grace and truth. ‘Now, now, for sure, deliverance is at hand; The kingdom shall to Israel be restored:’ Thus we rejoiced, but soon our joy is turned Into perplexity and new amaze. For whither is he gone? what accident Hath rapt him from us? will he now retire     40 After appearance, and again prolong Our expectation? God of Israel, Send thy Messiah forth; the time is come.
 Behold the kings of the earth, how they oppress
 Thy Chosen, to what highth their power unjust
 They have exalted, and behind them cast
 All fear of Thee; arise, and vindicate
 Thy glory; free thy people from their yoke!
-But let us wait; thus far He hath performed—
-Sent his Anointed, and to us revealed him     50
-By his great Prophet pointed at and shown
-In public, and with him we have conversed.
-Let us be glad of this, and all our fears
-Lay on his providence; He will not fail,
-Nor will withdraw him now, nor will recall—
-Mock us with his blest sight, then snatch him hence:
-Soon we shall see our hope, our joy, return.”
-    Thus they out of their plaints new hope resume
-To find whom at the first they found unsought.
-But to his mother Mary, when she saw     60
+But let us wait; thus far He hath performed— Sent his Anointed, and to us revealed him     50 By his great Prophet pointed at and shown In public, and with him we have conversed. Let us be glad of this, and all our fears Lay on his providence; He will not fail, Nor will withdraw him now, nor will recall— Mock us with his blest sight, then snatch him hence: Soon we shall see our hope, our joy, return.”
+Thus they out of their plaints new hope resume To find whom at the first they found unsought. But to his mother Mary, when she saw     60
 Others returned from baptism, not her Son,
 Nor left at Jordan tidings of him none,
 Within her breast though calm, her breast though pure,
 Motherly cares and fears got head, and raised
 Some troubled thoughts, which she in sighs thus clad:—
-    “Oh, what avails me now that honour high,
-To have conceived of God, or that salute,
-‘Hail, highly favoured, among women blest!’
-While I to sorrows am no less advanced,
-And fears as eminent above the lot     70
+“Oh, what avails me now that honour high, To have conceived of God, or that salute, ‘Hail, highly favoured, among women blest!’ While I to sorrows am no less advanced, And fears as eminent above the lot     70
 Of other women, by the birth I bore:
 In such a season born, when scarce a shed
 Could be obtained to shelter him or me
@@ -632,9 +459,7 @@ From the bleak air? A stable was our warmth,
 A manger his; yet soon enforced to fly
 Thence into Egypt, till the murderous king
 Were dead, who sought his life, and, missing, filled
-With infant blood the streets of Bethlehem.
-From Egypt home returned, in Nazareth
-Hath been our dwelling many years; his life     80
+With infant blood the streets of Bethlehem. From Egypt home returned, in Nazareth Hath been our dwelling many years; his life     80
 Private, unactive, calm, contemplative,
 Little suspicious to any king. But now,
 Full grown to man, acknowledged, as I hear,
@@ -653,28 +478,17 @@ But where delays he now? Some great intent
 Conceals him. When twelve years he scarce had seen,
 I lost him, but so found as well I saw
 He could not lose himself, but went about
-His Father’s business. What he meant I mused—
-Since understand; much more his absence now     100
-Thus long to some great purpose he obscures.
-But I to wait with patience am inured;
-My heart hath been a storehouse long of things
-And sayings laid up, pretending strange events.”
+His Father’s business. What he meant I mused— Since understand; much more his absence now     100 Thus long to some great purpose he obscures. But I to wait with patience am inured; My heart hath been a storehouse long of things And sayings laid up, pretending strange events.”
     Thus Mary, pondering oft, and oft to mind
 Recalling what remarkably had passed
 Since first her Salutation heard, with thoughts
 Meekly composed awaited the fulfilling:
 The while her Son, tracing the desert wild,
-Sole, but with holiest meditations fed,     110
-Into himself descended, and at once
-All his great work to come before him set—
-How to begin, how to accomplish best
-His end of being on Earth, and mission high.
+Sole, but with holiest meditations fed,     110 Into himself descended, and at once All his great work to come before him set— How to begin, how to accomplish best His end of being on Earth, and mission high.
 For Satan, with sly preface to return,
 Had left him vacant, and with speed was gone
 Up to the middle region of thick air,
-Where all his Potentates in council sate.
-There, without sign of boast, or sign of joy,
-Solicitous and blank, he thus began:—     120
+Where all his Potentates in council sate. There, without sign of boast, or sign of joy, Solicitous and blank, he thus began:—     120
     “Princes, Heaven’s ancient Sons, AEthereal Thrones—
 Daemonian Spirits now, from the element
 Each of his reign allotted, rightlier called
@@ -682,9 +496,7 @@ Powers of Fire, Air, Water, and Earth beneath
 (So may we hold our place and these mild seats
 Without new trouble!)—such an enemy
 Is risen to invade us, who no less
-Threatens than our expulsion down to Hell.
-I, as I undertook, and with the vote
-Consenting in full frequence was impowered,     130
+Threatens than our expulsion down to Hell. I, as I undertook, and with the vote Consenting in full frequence was impowered,     130
 Have found him, viewed him, tasted him; but find
 Far other labour to be undergone
 Than when I dealt with Adam, first of men,
@@ -704,38 +516,26 @@ Thought none my equal, now be overmatched.”
     So spake the old Serpent, doubting, and from all
 With clamour was assured their utmost aid
 At his command; when from amidst them rose
-Belial, the dissolutest Spirit that fell,     150
-The sensualest, and, after Asmodai,
-The fleshliest Incubus, and thus advised:—
-    “Set women in his eye and in his walk,
-Among daughters of men the fairest found.
+Belial, the dissolutest Spirit that fell,     150 The sensualest, and, after Asmodai, The fleshliest Incubus, and thus advised:—
+“Set women in his eye and in his walk, Among daughters of men the fairest found.
 Many are in each region passing fair
 As the noon sky, more like to goddesses
 Than mortal creatures, graceful and discreet,
 Expert in amorous arts, enchanting tongues
 Persuasive, virgin majesty with mild
-And sweet allayed, yet terrible to approach,     160
-Skilled to retire, and in retiring draw
-Hearts after them tangled in amorous nets.
+And sweet allayed, yet terrible to approach,     160 Skilled to retire, and in retiring draw Hearts after them tangled in amorous nets.
 Such object hath the power to soften and tame
 Severest temper, smooth the rugged’st brow,
 Enerve, and with voluptuous hope dissolve,
 Draw out with credulous desire, and lead
 At will the manliest, resolutest breast,
-As the magnetic hardest iron draws.
-Women, when nothing else, beguiled the heart
-Of wisest Solomon, and made him build,     170
-And made him bow, to the gods of his wives.”
+As the magnetic hardest iron draws. Women, when nothing else, beguiled the heart Of wisest Solomon, and made him build,     170 And made him bow, to the gods of his wives.”
     To whom quick answer Satan thus returned:—
 “Belial, in much uneven scale thou weigh’st
 All others by thyself. Because of old
 Thou thyself doat’st on womankind, admiring
 Their shape, their colour, and attractive grace,
-None are, thou think’st, but taken with such toys.
-Before the Flood, thou, with thy lusty crew,
-False titled Sons of God, roaming the Earth,
-Cast wanton eyes on the daughters of men,     180
-And coupled with them, and begot a race.
+None are, thou think’st, but taken with such toys. Before the Flood, thou, with thy lusty crew, False titled Sons of God, roaming the Earth, Cast wanton eyes on the daughters of men,     180 And coupled with them, and begot a race.
 Have we not seen, or by relation heard,
 In courts and regal chambers how thou lurk’st,
 In wood or grove, by mossy fountain-side,
@@ -819,12 +619,7 @@ Communed in silent walk, then laid him down
 Under the hospitable covert nigh
 Of trees thick interwoven. There he slept,
 And dreamed, as appetite is wont to dream,
-Of meats and drinks, nature’s refreshment sweet.
-Him thought he by the brook of Cherith stood,
-And saw the ravens with their horny beaks
-Food to Elijah bringing even and morn—
-Though ravenous, taught to abstain from what they brought;
-He saw the Prophet also, how he fled     270
+Of meats and drinks, nature’s refreshment sweet. Him thought he by the brook of Cherith stood, And saw the ravens with their horny beaks Food to Elijah bringing even and morn— Though ravenous, taught to abstain from what they brought; He saw the Prophet also, how he fled     270
 Into the desert, and how there he slept
 Under a juniper—then how, awaked,
 He found his supper on the coals prepared,
@@ -832,19 +627,11 @@ And by the Angel was bid rise and eat,
 And eat the second time after repose,
 The strength whereof sufficed him forty days:
 Sometimes that with Elijah he partook,
-Or as a guest with Daniel at his pulse.
-Thus wore out night; and now the harald Lark
-Left his ground-nest, high towering to descry     280
-The Morn’s approach, and greet her with his song.
-As lightly from his grassy couch up rose
-Our Saviour, and found all was but a dream;
-Fasting he went to sleep, and fasting waked.
+Or as a guest with Daniel at his pulse. Thus wore out night; and now the harald Lark Left his ground-nest, high towering to descry     280 The Morn’s approach, and greet her with his song. As lightly from his grassy couch up rose Our Saviour, and found all was but a dream; Fasting he went to sleep, and fasting waked.
 Up to a hill anon his steps he reared,
 From whose high top to ken the prospect round,
 If cottage were in view, sheep-cote, or herd;
-But cottage, herd, or sheep-cote, none he saw—
-Only in a bottom saw a pleasant grove,
-With chaunt of tuneful birds resounding loud.     290
+But cottage, herd, or sheep-cote, none he saw— Only in a bottom saw a pleasant grove, With chaunt of tuneful birds resounding loud.     290
 Thither he bent his way, determined there
 To rest at noon, and entered soon the shade
 High-roofed, and walks beneath, and alleys brown,
@@ -868,16 +655,9 @@ By a providing Angel; all the race     310
 Of Israel here had famished, had not God
 Rained from heaven manna; and that Prophet bold,
 Native of Thebez, wandering here, was fed
-Twice by a voice inviting him to eat.
-Of thee those forty days none hath regard,
-Forty and more deserted here indeed.”
-    To whom thus Jesus:—“What conclud’st thou hence?
-They all had need; I, as thou seest, have none.”
-    “How hast thou hunger then?” Satan replied.
-“Tell me, if food were now before thee set,     320
-Wouldst thou not eat?” “Thereafter as I like
-the giver,” answered Jesus. “Why should that
-Cause thy refusal?” said the subtle Fiend.
+Twice by a voice inviting him to eat. Of thee those forty days none hath regard, Forty and more deserted here indeed.”
+To whom thus Jesus:—“What conclud’st thou hence? They all had need; I, as thou seest, have none.”
+“How hast thou hunger then?” Satan replied. “Tell me, if food were now before thee set,     320 Wouldst thou not eat?” “Thereafter as I like the giver,” answered Jesus. “Why should that Cause thy refusal?” said the subtle Fiend.
 “Hast thou not right to all created things?
 Owe not all creatures, by just right, to thee
 Duty and service, nor to stay till bid,
@@ -901,10 +681,7 @@ In pastry built, or from the spit, or boiled,
 Grisamber-steamed; all fish, from sea or shore,
 Freshet or purling brook, of shell or fin,
 And exquisitest name, for which was drained
-Pontus, and Lucrine bay, and Afric coast.
-Alas! how simple, to these cates compared,
-Was that crude Apple that diverted Eve!
-And at a stately sideboard, by the wine,     350
+Pontus, and Lucrine bay, and Afric coast. Alas! how simple, to these cates compared, Was that crude Apple that diverted Eve! And at a stately sideboard, by the wine,     350
 That fragrant smell diffused, in order stood
 Tall stripling youths rich-clad, of fairer hue
 Than Ganymed or Hylas; distant more,
@@ -919,22 +696,9 @@ Lancelot, or Pelleas, or Pellenore.
 And all the while harmonious airs were heard
 Of chiming strings or charming pipes; and winds
 Of gentlest gale Arabian odours fanned
-From their soft wings, and Flora’s earliest smells.
-Such was the splendour; and the Tempter now
-His invitation earnestly renewed:—
-    “What doubts the Son of God to sit and eat?
-These are not fruits forbidden; no interdict
-Defends the touching of these viands pure;     370
-Their taste no knowledge works, at least of evil,
-But life preserves, destroys life’s enemy,
-Hunger, with sweet restorative delight.
-All these are Spirits of air, and woods, and springs,
-Thy gentle ministers, who come to pay
-Thee homage, and acknowledge thee their Lord.
-What doubt’st thou, Son of God? Sit down and eat.”
-    To whom thus Jesus temperately replied:—
-“Said’st thou not that to all things I had right?
-And who withholds my power that right to use?     380
+From their soft wings, and Flora’s earliest smells. Such was the splendour; and the Tempter now His invitation earnestly renewed:—
+“What doubts the Son of God to sit and eat? These are not fruits forbidden; no interdict Defends the touching of these viands pure;     370 Their taste no knowledge works, at least of evil, But life preserves, destroys life’s enemy, Hunger, with sweet restorative delight. All these are Spirits of air, and woods, and springs, Thy gentle ministers, who come to pay Thee homage, and acknowledge thee their Lord. What doubt’st thou, Son of God? Sit down and eat.”
+To whom thus Jesus temperately replied:— “Said’st thou not that to all things I had right? And who withholds my power that right to use?     380
 Shall I receive by gift what of my own,
 When and where likes me best, I can command?
 I can at will, doubt not, as soon as thou,
@@ -974,29 +738,17 @@ Lost in a desert here and hunger-bit.
 Which way, or from what hope, dost thou aspire
 To greatness? whence authority deriv’st?
 What followers, what retinue canst thou gain,
-Or at thy heels the dizzy multitude,     420
-Longer than thou canst feed them on thy cost?
-Money brings honour, friends, conquest, and realms.
+Or at thy heels the dizzy multitude,     420 Longer than thou canst feed them on thy cost? Money brings honour, friends, conquest, and realms.
 What raised Antipater the Edomite,
 And his son Herod placed on Juda’s throne,
 Thy throne, but gold, that got him puissant friends?
 Therefore, if at great things thou wouldst arrive,
-Get riches first, get wealth, and treasure heap—
-Not difficult, if thou hearken to me.
-Riches are mine, fortune is in my hand;
-They whom I favour thrive in wealth amain,     430
-While virtue, valour, wisdom, sit in want.”
-    To whom thus Jesus patiently replied:—
-“Yet wealth without these three is impotent
-To gain dominion, or to keep it gained—
+Get riches first, get wealth, and treasure heap— Not difficult, if thou hearken to me. Riches are mine, fortune is in my hand; They whom I favour thrive in wealth amain,     430 While virtue, valour, wisdom, sit in want.”
+To whom thus Jesus patiently replied:— “Yet wealth without these three is impotent To gain dominion, or to keep it gained—
 Witness those ancient empires of the earth,
 In highth of all their flowing wealth dissolved;
 But men endued with these have oft attained,
-In lowest poverty, to highest deeds—
-Gideon, and Jephtha, and the shepherd lad
-Whose offspring on the throne of Juda sate     440
-So many ages, and shall yet regain
-That seat, and reign in Israel without end.
+In lowest poverty, to highest deeds— Gideon, and Jephtha, and the shepherd lad Whose offspring on the throne of Juda sate     440 So many ages, and shall yet regain That seat, and reign in Israel without end.
 Among the Heathen (for throughout the world
 To me is not unknown what hath been done
 Worthy of memorial) canst thou not remember
@@ -1019,14 +771,7 @@ To him who wears the regal diadem,
 When on his shoulders each man’s burden lies;
 For therein stands the office of a king,
 His honour, virtue, merit, and chief praise,
-That for the public all this weight he bears.
-Yet he who reigns within himself, and rules
-Passions, desires, and fears, is more a king—
-Which every wise and virtuous man attains;
-And who attains not, ill aspires to rule
-Cities of men, or headstrong multitudes,     470
-Subject himself to anarchy within,
-Or lawless passions in him, which he serves.
+That for the public all this weight he bears. Yet he who reigns within himself, and rules Passions, desires, and fears, is more a king— Which every wise and virtuous man attains; And who attains not, ill aspires to rule Cities of men, or headstrong multitudes,     470 Subject himself to anarchy within, Or lawless passions in him, which he serves.
 But to guide nations in the way of truth
 By saving doctrine, and from error lead
 To know, and, knowing, worship God aright,
@@ -1034,15 +779,7 @@ Is yet more kingly. This attracts the soul,
 Governs the inner man, the nobler part;
 That other o’er the body only reigns,
 And oft by force—which to a generous mind
-So reigning can be no sincere delight.     480
-Besides, to give a kingdom hath been thought
-Greater and nobler done, and to lay down
-Far more magnanimous, than to assume.
-Riches are needless, then, both for themselves,
-And for thy reason why they should be sought—
-To gain a sceptre, oftest better missed.”
-
-
+So reigning can be no sincere delight.     480 Besides, to give a kingdom hath been thought Greater and nobler done, and to lay down Far more magnanimous, than to assume. Riches are needless, then, both for themselves, And for thy reason why they should be sought— To gain a sceptre, oftest better missed.”
 
 
 THE THIRD BOOK
@@ -1083,13 +820,7 @@ Of Macedonian Philip had ere these
 Won Asia, and the throne of Cyrus held
 At his dispose; young Scipio had brought down
 The Carthaginian pride; young Pompey quelled
-The Pontic king, and in triumph had rode.
-Yet years, and to ripe years judgment mature,
-Quench not the thirst of glory, but augment.
-Great Julius, whom now all the world admires,
-The more he grew in years, the more inflamed     40
-With glory, wept that he had lived so long
-Ingloroious. But thou yet art not too late.”
+The Pontic king, and in triumph had rode. Yet years, and to ripe years judgment mature, Quench not the thirst of glory, but augment. Great Julius, whom now all the world admires, The more he grew in years, the more inflamed     40 With glory, wept that he had lived so long Ingloroious. But thou yet art not too late.”
     To whom our Saviour calmly thus replied:—
 “Thou neither dost persuade me to seek wealth
 For empire’s sake, nor empire to affect
@@ -1103,21 +834,14 @@ They praise and they admire they know not what,
 And know not whom, but as one leads the other;
 And what delight to be by such extolled,
 To live upon their tongues, and be their talk?
-Of whom to be dispraised were no small praise—
-His lot who dares be singularly good.
-The intelligent among them and the wise
-Are few, and glory scarce of few is raised.
-This is true glory and renown—when God,     60
+Of whom to be dispraised were no small praise— His lot who dares be singularly good. The intelligent among them and the wise Are few, and glory scarce of few is raised. This is true glory and renown—when God,     60
 Looking on the Earth, with approbation marks
 The just man, and divulges him through Heaven
 To all his Angels, who with true applause
 Recount his praises. Thus he did to Job,
 When, to extend his fame through Heaven and Earth,
 As thou to thy reproach may’st well remember,
-He asked thee, ‘Hast thou seen my servant Job?’
-Famous he was in Heaven; on Earth less known,
-Where glory is false glory, attributed
-To things not glorious, men not worthy of fame.     70
+He asked thee, ‘Hast thou seen my servant Job?’ Famous he was in Heaven; on Earth less known, Where glory is false glory, attributed To things not glorious, men not worthy of fame.     70
 They err who count it glorious to subdue
 By conquest far and wide, to overrun
 Large countries, and in field great battles win,
@@ -1134,30 +858,14 @@ Worshipped with temple, priest, and sacrifice?
 One is the son of Jove, of Mars the other;
 Till conqueror Death discover them scarce men,
 Rowling in brutish vices, and deformed,
-Violent or shameful death their due reward.
-But, if there be in glory aught of good;
-It may be means far different be attained,
-Without ambition, war, or violence—     90
+Violent or shameful death their due reward. But, if there be in glory aught of good; It may be means far different be attained, Without ambition, war, or violence—     90
 By deeds of peace, by wisdom eminent,
 By patience, temperance. I mention still
 Him whom thy wrongs, with saintly patience borne,
 Made famous in a land and times obscure;
 Who names not now with honour patient Job?
-Poor Socrates, (who next more memorable?)
-By what he taught and suffered for so doing,
-For truth’s sake suffering death unjust, lives now
-Equal in fame to proudest conquerors.
-Yet, if for fame and glory aught be done,     100
-Aught suffered—if young African for fame
-His wasted country freed from Punic rage—
-The deed becomes unpraised, the man at least,
-And loses, though but verbal, his reward.
-Shall I seek glory, then, as vain men seek,
-Oft not deserved? I seek not mine, but His
-Who sent me, and thereby witness whence I am.”
-    To whom the Tempter, murmuring, thus replied:—
-“Think not so slight of glory, therein least
-Resembling thy great Father. He seeks glory,     110
+Poor Socrates, (who next more memorable?) By what he taught and suffered for so doing, For truth’s sake suffering death unjust, lives now Equal in fame to proudest conquerors. Yet, if for fame and glory aught be done,     100 Aught suffered—if young African for fame His wasted country freed from Punic rage— The deed becomes unpraised, the man at least, And loses, though but verbal, his reward. Shall I seek glory, then, as vain men seek, Oft not deserved? I seek not mine, but His Who sent me, and thereby witness whence I am.”
+To whom the Tempter, murmuring, thus replied:— “Think not so slight of glory, therein least Resembling thy great Father. He seeks glory,     110
 And for his glory all things made, all things
 Orders and governs; nor content in Heaven,
 By all his Angels glorified, requires
@@ -1174,10 +882,7 @@ Though chiefly not for glory as prime end,
 But to shew forth his goodness, and impart
 His good communicable to every soul
 Freely; of whom what could He less expect
-Than glory and benediction—that is, thanks—
-The slightest, easiest, readiest recompense
-From them who could return him nothing else,
-And, not returning that, would likeliest render     130
+Than glory and benediction—that is, thanks— The slightest, easiest, readiest recompense From them who could return him nothing else, And, not returning that, would likeliest render     130
 Contempt instead, dishonour, obloquy?
 Hard recompense, unsuitable return
 For so much good, so much beneficience!
@@ -1197,8 +902,7 @@ Satan had not to answer, but stood struck
 With guilt of his own sin—for he himself,
 Insatiable of glory, had lost all;
 Yet of another plea bethought him soon:—
-    “Of glory, as thou wilt,” said he, “so deem;     150
-Worth or not worth the seeking, let it pass.
+“Of glory, as thou wilt,” said he, “so deem;     150 Worth or not worth the seeking, let it pass.
 But to a Kingdom thou art born—ordained
 To sit upon thy father David’s throne,
 By mother’s side thy father, though thy right
@@ -1221,44 +925,19 @@ With Modin and her suburbs once content.     170
 If kingdom move thee not, let move thee zeal
 And duty—zeal and duty are not slow,
 But on Occasion’s forelock watchful wait:
-They themselves rather are occasion best—
-Zeal of thy Father’s house, duty to free
-Thy country from her heathen servitude.
-So shalt thou best fulfil, best verify,
-The Prophets old, who sung thy endless reign—
-The happier reign the sooner it begins.
-Rein then; what canst thou better do the while?”     180
-    To whom our Saviour answer thus returned:—
-“All things are best fulfilled in their due time;
-And time there is for all things, Truth hath said.
-If of my reign Prophetic Writ hath told
-That it shall never end, so, when begin
-The Father in his purpose hath decreed—
-He in whose hand all times and seasons rowl.
-What if he hath decreed that I shall first
-Be tried in humble state, and things adverse,
-By tribulations, injuries, insults,     190
+They themselves rather are occasion best— Zeal of thy Father’s house, duty to free Thy country from her heathen servitude. So shalt thou best fulfil, best verify, The Prophets old, who sung thy endless reign— The happier reign the sooner it begins. Rein then; what canst thou better do the while?”     180
+To whom our Saviour answer thus returned:— “All things are best fulfilled in their due time; And time there is for all things, Truth hath said. If of my reign Prophetic Writ hath told That it shall never end, so, when begin The Father in his purpose hath decreed— He in whose hand all times and seasons rowl. What if he hath decreed that I shall first Be tried in humble state, and things adverse, By tribulations, injuries, insults,     190
 Contempts, and scorns, and snares, and violence,
 Suffering, abstaining, quietly expecting
 Without distrust or doubt, that He may know
 What I can suffer, how obey? Who best
 Can suffer best can do, best reign who first
 Well hath obeyed—just trial ere I merit
-My exaltation without change or end.
-But what concerns it thee when I begin
-My everlasting Kingdom? Why art thou
-Solicitous? What moves thy inquisition?     200
-Know’st thou not that my rising is thy fall,
-And my promotion will be thy destruction?”
+My exaltation without change or end. But what concerns it thee when I begin My everlasting Kingdom? Why art thou Solicitous? What moves thy inquisition?     200 Know’st thou not that my rising is thy fall, And my promotion will be thy destruction?”
     To whom the Tempter, inly racked, replied:—
 “Let that come when it comes. All hope is lost
 Of my reception into grace; what worse?
-For where no hope is left is left no fear.
-If there be worse, the expectation more
-Of worse torments me than the feeling can.
-I would be at the worst; worst is my port,
-My harbour, and my ultimate repose,     210
-The end I would attain, my final good.
+For where no hope is left is left no fear. If there be worse, the expectation more Of worse torments me than the feeling can. I would be at the worst; worst is my port, My harbour, and my ultimate repose,     210 The end I would attain, my final good.
 My error was my error, and my crime
 My crime; whatever, for itself condemned,
 And will alike be punished, whether thou
@@ -1267,9 +946,7 @@ Willingly I could fly, and hope thy reign,
 From that placid aspect and meek regard,
 Rather than aggravate my evil state,
 Would stand between me and thy Father’s ire
-(Whose ire I dread more than the fire of Hell)     220
-A shelter and a kind of shading cool
-Interposition, as a summer’s cloud.
+(Whose ire I dread more than the fire of Hell)     220 A shelter and a kind of shading cool Interposition, as a summer’s cloud.
 If I, then, to the worst that can be haste,
 Why move thy feet so slow to what is best?
 Happiest, both to thyself and all the world,
@@ -1281,39 +958,22 @@ What of perfection can in Man be found,     230
 Or human nature can receive, consider
 Thy life hath yet been private, most part spent
 At home, scarce viewed the Galilean towns,
-And once a year Jerusalem, few days’
-Short sojourn; and what thence couldst thou observe?
-The world thou hast not seen, much less her glory,
-Empires, and monarchs, and their radiant courts—
-Best school of best experience, quickest in sight
-In all things that to greatest actions lead.
-The wisest, unexperienced, will be ever     240
-Timorous, and loth, with novice modesty
-(As he who, seeking asses, found a kingdom)
-Irresolute, unhardy, unadventrous.
-But I will bring thee where thou soon shalt quit
-Those rudiments, and see before thine eyes
-The monarchies of the Earth, their pomp and state—
+And once a year Jerusalem, few days’ Short sojourn; and what thence couldst thou observe? The world thou hast not seen, much less her glory, Empires, and monarchs, and their radiant courts— Best school of best experience, quickest in sight In all things that to greatest actions lead. The wisest, unexperienced, will be ever     240 Timorous, and loth, with novice modesty (As he who, seeking asses, found a kingdom) Irresolute, unhardy, unadventrous. But I will bring thee where thou soon shalt quit Those rudiments, and see before thine eyes The monarchies of the Earth, their pomp and state—
 Sufficient introduction to inform
 Thee, of thyself so apt, in regal arts,
 And regal mysteries; that thou may’st know
 How best their opposition to withstand.”     250
-    With that (such power was given him then), he took
-The Son of God up to a mountain high.
+With that (such power was given him then), he took The Son of God up to a mountain high.
 It was a mountain at whose verdant feet
 A spacious plain outstretched in circuit wide
 Lay pleasant; from his side two rivers flowed,
 The one winding, the other straight, and left between
 Fair champaign, with less rivers interveined,
-Then meeting joined their tribute to the sea.
-Fertil of corn the glebe, of oil, and wine;
-With herds the pasture thronged, with flocks the hills;     260
+Then meeting joined their tribute to the sea. Fertil of corn the glebe, of oil, and wine; With herds the pasture thronged, with flocks the hills;     260
 Huge cities and high-towered, that well might seem
 The seats of mightiest monarchs; and so large
 The prospect was that here and there was room
-For barren desert, fountainless and dry.
-To this high mountain-top the Tempter brought
-Our Saviour, and new train of words began:—
+For barren desert, fountainless and dry. To this high mountain-top the Tempter brought Our Saviour, and new train of words began:—
     “Well have we speeded, and o’er hill and dale,
 Forest, and field, and flood, temples and towers,
 Cut shorter many a league. Here thou behold’st
@@ -1337,32 +997,18 @@ Ecbatana her structure vast there shews,
 And Hecatompylos her hunderd gates;
 There Susa by Choaspes, amber stream,
 The drink of none but kings; of later fame,
-Built by Emathian or by Parthian hands,     290
-The great Seleucia, Nisibis, and there
-Artaxata, Teredon, Ctesiphon,
-Turning with easy eye, thou may’st behold.
+Built by Emathian or by Parthian hands,     290 The great Seleucia, Nisibis, and there Artaxata, Teredon, Ctesiphon, Turning with easy eye, thou may’st behold.
 All these the Parthian (now some ages past
 By great Arsaces led, who founded first
 That empire) under his dominion holds,
-From the luxurious kings of Antioch won.
-And just in time thou com’st to have a view
-Of his great power; for now the Parthian king
-In Ctesiphon hath gathered all his host     300
+From the luxurious kings of Antioch won. And just in time thou com’st to have a view Of his great power; for now the Parthian king In Ctesiphon hath gathered all his host     300
 Against the Scythian, whose incursions wild
 Have wasted Sogdiana; to her aid
 He marches now in haste. See, though from far,
 His thousands, in what martial equipage
 They issue forth, steel bows and shafts their arms,
-Of equal dread in flight or in pursuit—
-All horsemen, in which fight they most excel;
-See how in warlike muster they appear,
-In rhombs, and wedges, and half-moons, and wings.”
-    He looked, and saw what numbers numberless     310
-The city gates outpoured, light-armed troops
-In coats of mail and military pride.
-In mail their horses clad, yet fleet and strong,
-Prauncing their riders bore, the flower and choice
-Of many provinces from bound to bound—
+Of equal dread in flight or in pursuit— All horsemen, in which fight they most excel; See how in warlike muster they appear, In rhombs, and wedges, and half-moons, and wings.”
+He looked, and saw what numbers numberless     310 The city gates outpoured, light-armed troops In coats of mail and military pride. In mail their horses clad, yet fleet and strong, Prauncing their riders bore, the flower and choice Of many provinces from bound to bound—
 From Arachosia, from Candaor east,
 And Margiana, to the Hyrcanian cliffs
 Of Caucasus, and dark Iberian dales;
@@ -1387,13 +1033,7 @@ And waggons fraught with utensils of war.
 Such forces met not, nor so wide a camp,
 When Agrican, with all his northern powers,
 Besieged Albracea, as romances tell,
-The city of Gallaphrone, from thence to win     340
-The fairest of her sex, Angelica,
-His daughter, sought by many prowest knights,
-Both Paynim and the peers of Charlemane.
-Such and so numerous was their chivalry;
-At sight whereof the Fiend yet more presumed,
-And to our Saviour thus his words renewed:—
+The city of Gallaphrone, from thence to win     340 The fairest of her sex, Angelica, His daughter, sought by many prowest knights, Both Paynim and the peers of Charlemane. Such and so numerous was their chivalry; At sight whereof the Fiend yet more presumed, And to our Saviour thus his words renewed:—
     “That thou may’st know I seek not to engage
 Thy virtue, and not every way secure
 On no slight grounds thy safety, hear and mark
@@ -1417,10 +1057,7 @@ Thy country, and captive lead away her kings,
 Antigonus and old Hyrcanus, bound,
 Maugre the Roman. It shall be my task
 To render thee the Parthian at dispose,
-Choose which thou wilt, by conquest or by league.     370
-By him thou shalt regain, without him not,
-That which alone can truly reinstall thee
-In David’s royal seat, his true successor—
+Choose which thou wilt, by conquest or by league.     370 By him thou shalt regain, without him not, That which alone can truly reinstall thee In David’s royal seat, his true successor—
 Deliverance of thy brethren, those Ten Tribes
 Whose offspring in his territory yet serve
 In Habor, and among the Medes dispersed:
@@ -1437,19 +1074,11 @@ Shalt reign, and Rome or Caesar not need fear.”
 “Much ostentation vain of fleshly arm
 And fragile arms, much instrument of war,
 Long in preparing, soon to nothing brought,
-Before mine eyes thou hast set, and in my ear     390
-Vented much policy, and projects deep
-Of enemies, of aids, battles, and leagues,
-Plausible to the world, to me worth naught.
+Before mine eyes thou hast set, and in my ear     390 Vented much policy, and projects deep Of enemies, of aids, battles, and leagues, Plausible to the world, to me worth naught.
 Means I must use, thou say’st; prediction else
 Will unpredict, and fail me of the throne!
 My time, I told thee (and that time for thee
-Were better farthest off), is not yet come.
-When that comes, think not thou to find me slack
-On my part aught endeavouring, or to need
-Thy politic maxims, or that cumbersome     400
-Luggage of war there shewn me—argument
-Of human weakness rather than of strength.
+Were better farthest off), is not yet come. When that comes, think not thou to find me slack On my part aught endeavouring, or to need Thy politic maxims, or that cumbersome     400 Luggage of war there shewn me—argument Of human weakness rather than of strength.
 My brethren, as thou call’st them, those Ten Tribes,
 I must deliver, if I mean to reign
 David’s true heir, and his full sceptre sway
@@ -1457,10 +1086,7 @@ To just extent over all Israel’s sons!
 But whence to thee this zeal? Where was it then
 For Israel, or for David, or his throne,
 When thou stood’st up his tempter to the pride
-Of numbering Israel—which cost the lives     410
-of threescore and ten thousand Israelites
-By three days’ pestilence? Such was thy zeal
-To Israel then, the same that now to me.
+Of numbering Israel—which cost the lives     410 of threescore and ten thousand Israelites By three days’ pestilence? Such was thy zeal To Israel then, the same that now to me.
 As for those captive tribes, themselves were they
 Who wrought their own captivity, fell off
 From God to worship calves, the deities
@@ -1477,22 +1103,15 @@ And God with idols in their worship joined.
 Should I of these the liberty regard,
 Who, freed, as to their ancient patrimony,
 Unhumbled, unrepentant, unreformed,
-Headlong would follow, and to their gods perhaps     430
-Of Bethel and of Dan? No; let them serve
-Their enemies who serve idols with God.
+Headlong would follow, and to their gods perhaps     430 Of Bethel and of Dan? No; let them serve Their enemies who serve idols with God.
 Yet He at length, time to himself best known,
 Remembering Abraham, by some wondrous call
 May bring them back, repentant and sincere,
 And at their passing cleave the Assyrian flood,
 While to their native land with joy they haste,
 As the Red Sea and Jordan once he cleft,
-When to the Promised Land their fathers passed.
-To his due time and providence I leave them.”     440
-    So spake Israel’s true King, and to the Fiend
-Made answer meet, that made void all his wiles.
-So fares it when with truth falsehood contends.
-
-
+When to the Promised Land their fathers passed. To his due time and providence I leave them.”     440
+So spake Israel’s true King, and to the Fiend Made answer meet, that made void all his wiles. So fares it when with truth falsehood contends.
 
 
 THE FOURTH BOOK
@@ -1536,11 +1155,7 @@ On seven small hills, with palaces adorned,
 Porches and theatres, baths, aqueducts,
 Statues and trophies, and triumphal arcs,
 Gardens and groves, presented to his eyes
-Above the highth of mountains interposed—
-By what strange parallax, or optic skill     40
-Of vision, multiplied through air, or glass
-Of telescope, were curious to enquire.
-And now the Tempter thus his silence broke:—
+Above the highth of mountains interposed— By what strange parallax, or optic skill     40 Of vision, multiplied through air, or glass Of telescope, were curious to enquire. And now the Tempter thus his silence broke:—
     “The city which thou seest no other deem
 Than great and glorious Rome, Queen of the Earth
 So far renowned, and with the spoils enriched
@@ -1606,8 +1221,7 @@ Aim, therefore, at no less than all the world;
 Aim at the highest; without the highest attained,
 Will be for thee no sitting, or not long,
 On David’s throne, be prophesied what will.”
-    To whom the Son of God, unmoved, replied:—
-“Nor doth this grandeur and majestic shew     110
+To whom the Son of God, unmoved, replied:— “Nor doth this grandeur and majestic shew     110
 Of luxury, though called magnificence,
 More than of arms before, allure mine eye,
 Much less my mind; though thou should’st add to tell
@@ -1637,9 +1251,7 @@ Peeling their provinces, exhausted all
 By lust and rapine; first ambitious grown
 Of triumph, that insulting vanity;
 Then cruel, by their sports to blood inured
-Of fighting beasts, and men to beasts exposed;     140
-Luxurious by their wealth, and greedier still,
-And from the daily Scene effeminate.
+Of fighting beasts, and men to beasts exposed;     140 Luxurious by their wealth, and greedier still, And from the daily Scene effeminate.
 What wise and valiant man would seek to free
 These, thus degenerate, by themselves enslaved,
 Or could of inward slaves make outward free?
@@ -1647,17 +1259,8 @@ Know, therefore, when my season comes to sit
 On David’s throne, it shall be like a tree
 Spreading and overshadowing all the earth,
 Or as a stone that shall to pieces dash
-All monarchies besides throughout the world;     150
-And of my Kingdom there shall be no end.
-Means there shall be to this; but what the means
-Is not for thee to know, nor me to tell.”
-    To whom the Tempter, impudent, replied:—
-“I see all offers made by me how slight
-Thou valuest, because offered, and reject’st.
-Nothing will please the difficult and nice,
-Or nothing more than still to contradict.
-On the other side know also thou that I
-On what I offer set as high esteem,     160
+All monarchies besides throughout the world;     150 And of my Kingdom there shall be no end. Means there shall be to this; but what the means Is not for thee to know, nor me to tell.”
+To whom the Tempter, impudent, replied:— “I see all offers made by me how slight Thou valuest, because offered, and reject’st. Nothing will please the difficult and nice, Or nothing more than still to contradict. On the other side know also thou that I On what I offer set as high esteem,     160
 Nor what I part with mean to give for naught,
 All these, which in a moment thou behold’st,
 The kingdoms of the world, to thee I give
@@ -1667,21 +1270,11 @@ On this condition, if thou wilt fall down,
 And worship me as thy superior Lord
 (Easily done), and hold them all of me;
 For what can less so great a gift deserve?”
-    Whom thus our Saviour answered with disdain:—     170
-“I never liked thy talk, thy offers less;
-Now both abhor, since thou hast dared to utter
-The abominable terms, impious condition.
+Whom thus our Saviour answered with disdain:—     170 “I never liked thy talk, thy offers less; Now both abhor, since thou hast dared to utter The abominable terms, impious condition.
 But I endure the time, till which expired
 Thou hast permission on me. It is written,
 The first of all commandments, ‘Thou shalt worship
-The Lord thy God, and only Him shalt serve.’
-And dar’st thou to the Son of God propound
-To worship thee, accursed? now more accursed
-For this attempt, bolder than that on Eve,     180
-And more blasphemous; which expect to rue.
-The kingdoms of the world to thee were given!
-Permitted rather, and by thee usurped;
-Other donation none thou canst produce.
+The Lord thy God, and only Him shalt serve.’ And dar’st thou to the Son of God propound To worship thee, accursed? now more accursed For this attempt, bolder than that on Eve,     180 And more blasphemous; which expect to rue. The kingdoms of the world to thee were given! Permitted rather, and by thee usurped; Other donation none thou canst produce.
 If given, by whom but by the King of kings,
 God over all supreme? If given to thee,
 By thee how fairly is the Giver now
@@ -1692,23 +1285,7 @@ To me my own, on such abhorred pact,
 That I fall down and worship thee as God?
 Get thee behind me! Plain thou now appear’st
 That Evil One, Satan for ever damned.”
-    To whom the Fiend, with fear abashed, replied:—
-“Be not so sore offended, Son of God—
-Though Sons of God both Angels are and Men—
-If I, to try whether in higher sort
-Than these thou bear’st that title, have proposed
-What both from Men and Angels I receive,     200
-Tetrarchs of Fire, Air, Flood, and on the Earth
-Nations besides from all the quartered winds—
-God of this World invoked, and World beneath.
-Who then thou art, whose coming is foretold
-To me most fatal, me it most concerns.
-The trial hath indamaged thee no way,
-Rather more honour left and more esteem;
-Me naught advantaged, missing what I aimed.
-Therefore let pass, as they are transitory,
-The kingdoms of this world; I shall no more     210
-Advise thee; gain them as thou canst, or not.
+To whom the Fiend, with fear abashed, replied:— “Be not so sore offended, Son of God— Though Sons of God both Angels are and Men— If I, to try whether in higher sort Than these thou bear’st that title, have proposed What both from Men and Angels I receive,     200 Tetrarchs of Fire, Air, Flood, and on the Earth Nations besides from all the quartered winds— God of this World invoked, and World beneath. Who then thou art, whose coming is foretold To me most fatal, me it most concerns. The trial hath indamaged thee no way, Rather more honour left and more esteem; Me naught advantaged, missing what I aimed. Therefore let pass, as they are transitory, The kingdoms of this world; I shall no more     210 Advise thee; gain them as thou canst, or not.
 And thou thyself seem’st otherwise inclined
 Than to a worldly crown, addicted more
 To contemplation and profound dispute;
@@ -1736,21 +1313,14 @@ Error by his own arms is best evinced.
 Look once more, ere we leave this specular mount,
 Westward, much nearer by south-west; behold
 Where on the AEgean shore a city stands,
-Built nobly, pure the air and light the soil—
-Athens, the eye of Greece, mother of arts     240
-And Eloquence, native to famous wits
-Or hospitable, in her sweet recess,
-City or suburban, studious walks and shades.
+Built nobly, pure the air and light the soil— Athens, the eye of Greece, mother of arts     240 And Eloquence, native to famous wits Or hospitable, in her sweet recess, City or suburban, studious walks and shades.
 See there the olive-grove of Academe,
 Plato’s retirement, where the Attic bird
 Trills her thick-warbled notes the summer long;
 There, flowery hill, Hymettus, with the sound
 Of bees’ industrious murmur, oft invites
 To studious musing; there Ilissus rowls
-His whispering stream. Within the walls then view     250
-The schools of ancient sages—his who bred
-Great Alexander to subdue the world,
-Lyceum there; and painted Stoa next.
+His whispering stream. Within the walls then view     250 The schools of ancient sages—his who bred Great Alexander to subdue the world, Lyceum there; and painted Stoa next.
 There thou shalt hear and learn the secret power
 Of harmony, in tones and numbers hit
 By voice or hand, and various-measured verse,
@@ -1767,11 +1337,7 @@ High actions and high passions best describing.
 Thence to the famous Orators repair,
 Those ancient whose resistless eloquence
 Wielded at will that fierce democraty,
-Shook the Arsenal, and fulmined over Greece     270
-To Macedon and Artaxerxes’ throne.
-To sage Philosophy next lend thine ear,
-From heaven descended to the low-roofed house
-Of Socrates—see there his tenement—
+Shook the Arsenal, and fulmined over Greece     270 To Macedon and Artaxerxes’ throne. To sage Philosophy next lend thine ear, From heaven descended to the low-roofed house Of Socrates—see there his tenement—
 Whom, well inspired, the Oracle pronounced
 Wisest of men; from whose mouth issued forth
 Mellifluous streams, that watered all the schools
@@ -1787,9 +1353,7 @@ Within thyself, much more with empire joined.”
 I know them not, not therefore am I short
 Of knowing what I ought. He who receives
 Light from above, from the Fountain of Light,
-No other doctrine needs, though granted true;     290
-But these are false, or little else but dreams,
-Conjectures, fancies, built on nothing firm.
+No other doctrine needs, though granted true;     290 But these are false, or little else but dreams, Conjectures, fancies, built on nothing firm.
 The first and wisest of them all professed
 To know this only, that he nothing knew;
 The next to fabling fell and smooth conceits;
@@ -1802,12 +1366,7 @@ By him called virtue, and his virtuous man,
 Wise, perfect in himself, and all possessing,
 Equal to God, oft shames not to prefer,
 As fearing God nor man, contemning all
-Wealth, pleasure, pain or torment, death and life—
-Which, when he lists, he leaves, or boasts he can;
-For all his tedious talk is but vain boast,
-Or subtle shifts conviction to evade.
-Alas! what can they teach, and not mislead,
-Ignorant of themselves, of God much more,     310
+Wealth, pleasure, pain or torment, death and life— Which, when he lists, he leaves, or boasts he can; For all his tedious talk is but vain boast, Or subtle shifts conviction to evade. Alas! what can they teach, and not mislead, Ignorant of themselves, of God much more,     310
 And how the World began, and how Man fell,
 Degraded by himself, on grace depending?
 Much of the Soul they talk, but all awry;
@@ -1835,11 +1394,7 @@ That solace? All our Law and Story strewed
 With hymns, our Psalms with artful terms inscribed,
 Our Hebrew songs and harps, in Babylon
 That pleased so well our victor’s ear, declare
-That rather Greece from us these arts derived—
-Ill imitated while they loudest sing
-The vices of their deities, and their own,     340
-In fable, hymn, or song, so personating
-Their gods ridiculous, and themselves past shame.
+That rather Greece from us these arts derived— Ill imitated while they loudest sing The vices of their deities, and their own,     340 In fable, hymn, or song, so personating Their gods ridiculous, and themselves past shame.
 Remove their swelling epithetes, thick-laid
 As varnish on a harlot’s cheek, the rest,
 Thin-sown with aught of profit or delight,
@@ -1847,9 +1402,7 @@ Will far be found unworthy to compare
 With Sion’s songs, to all true tastes excelling,
 Where God is praised aright and godlike men,
 The Holiest of Holies and his Saints
-(Such are from God inspired, not such from thee);     350
-Unless where moral virtue is expressed
-By light of Nature, not in all quite lost.
+(Such are from God inspired, not such from thee);     350 Unless where moral virtue is expressed By light of Nature, not in all quite lost.
 Their orators thou then extoll’st as those
 The top of eloquence—statists indeed,
 And lovers of their country, as may seem;
@@ -1862,12 +1415,8 @@ In them is plainest taught, and easiest learnt,
 What makes a nation happy, and keeps it so,
 What ruins kingdoms, and lays cities flat;
 These only, with our Law, best form a king.”
-    So spake the Son of God; but Satan, now
-Quite at a loss (for all his darts were spent),
-Thus to our Saviour, with stern brow, replied:—
-    “Since neither wealth nor honour, arms nor arts,
-Kingdom nor empire, pleases thee, nor aught
-By me proposed in life contemplative     370
+So spake the Son of God; but Satan, now Quite at a loss (for all his darts were spent), Thus to our Saviour, with stern brow, replied:—
+“Since neither wealth nor honour, arms nor arts, Kingdom nor empire, pleases thee, nor aught By me proposed in life contemplative     370
 Or active, tended on by glory or fame,
 What dost thou in this world? The Wilderness
 For thee is fittest place: I found thee there,
@@ -1885,12 +1434,7 @@ Voluminous, or single characters
 In their conjunction met, give me to spell,
 Sorrows and labours, opposition, hate,
 Attends thee; scorns, reproaches, injuries,
-Violence and stripes, and, lastly, cruel death.
-A kingdom they portend thee, but what kingdom,
-Real or allegoric, I discern not;     390
-Nor when: eternal sure—as without end,
-Without beginning; for no date prefixed
-Directs me in the starry rubric set.”
+Violence and stripes, and, lastly, cruel death. A kingdom they portend thee, but what kingdom, Real or allegoric, I discern not;     390 Nor when: eternal sure—as without end, Without beginning; for no date prefixed Directs me in the starry rubric set.”
     So saying, he took (for still he knew his power
 Not yet expired), and to the Wilderness
 Brought back, the Son of God, and left him there,
@@ -1917,12 +1461,7 @@ On the vexed wilderness, whose tallest pines,
 Though rooted deep as high, and sturdiest oaks,
 Bowed their stiff necks, loaden with stormy blasts,
 Or torn up sheer. Ill wast thou shrouded then,
-O patient Son of God, yet only stood’st     420
-Unshaken! Nor yet staid the terror there:
-Infernal ghosts and hellish furies round
-Environed thee; some howled, some yelled, some shrieked,
-Some bent at thee their fiery darts, while thou
-Sat’st unappalled in calm and sinless peace.
+O patient Son of God, yet only stood’st     420 Unshaken! Nor yet staid the terror there: Infernal ghosts and hellish furies round Environed thee; some howled, some yelled, some shrieked, Some bent at thee their fiery darts, while thou Sat’st unappalled in calm and sinless peace.
 Thus passed the night so foul, till Morning fair
 Came forth with pilgrim steps, in amice grey,
 Who with her radiant finger stilled the roar
@@ -1935,9 +1474,7 @@ From drooping plant, or dropping tree; the birds,
 Who all things now behold more fresh and green,
 After a night of storm so ruinous,
 Cleared up their choicest notes in bush and spray,
-To gratulate the sweet return of morn.
-Nor yet, amidst this joy and brightest morn,
-Was absent, after all his mischief done,     440
+To gratulate the sweet return of morn. Nor yet, amidst this joy and brightest morn, Was absent, after all his mischief done,     440
 The Prince of Darkness; glad would also seem
 Of this fair change, and to our Saviour came;
 Yet with no new device (they all were spent),
@@ -1961,9 +1498,7 @@ Yet, as being ofttimes noxious where they light     460
 On man, beast, plant, wasteful and turbulent,
 Like turbulencies in the affairs of men,
 Over whose heads they roar, and seem to point,
-They oft fore-signify and threaten ill.
-This tempest at this desert most was bent;
-Of men at thee, for only thou here dwell’st.
+They oft fore-signify and threaten ill. This tempest at this desert most was bent; Of men at thee, for only thou here dwell’st.
 Did I not tell thee, if thou didst reject
 The perfect season offered with my aid
 To win thy destined seat, but wilt prolong
@@ -1977,17 +1512,9 @@ Not when it must, but when it may be best.
 If thou observe not this, be sure to find
 What I foretold thee—many a hard assay
 Of dangers, and adversities, and pains,
-Ere thou of Israel’s sceptre get fast hold;     480
-Whereof this ominous night that closed thee round,
-So many terrors, voices, prodigies,
-May warn thee, as a sure foregoing sign.”
-    So talked he, while the Son of God went on,
-And staid not, but in brief him answered thus:—
-    “Me worse than wet thou find’st not; other harm
-Those terrors which thou speak’st of did me none.
-I never feared they could, though noising loud
-And threatening nigh: what they can do as signs
-Betokening or ill-boding I contemn     490
+Ere thou of Israel’s sceptre get fast hold;     480 Whereof this ominous night that closed thee round, So many terrors, voices, prodigies, May warn thee, as a sure foregoing sign.”
+So talked he, while the Son of God went on, And staid not, but in brief him answered thus:—
+“Me worse than wet thou find’st not; other harm Those terrors which thou speak’st of did me none. I never feared they could, though noising loud And threatening nigh: what they can do as signs Betokening or ill-boding I contemn     490
 As false portents, not sent from God, but thee;
 Who, knowing I shall reign past thy preventing,
 Obtrud’st thy offered aid, that I, accepting,
@@ -1996,9 +1523,7 @@ Ambitious Spirit! and would’st be thought my God;
 And storm’st, refused, thinking to terrify
 Me to thy will! Desist (thou art discerned,
 And toil’st in vain), nor me in vain molest.”
-    To whom the Fiend, now swoln with rage, replied:—
-“Then hear, O Son of David, virgin-born!     500
-For Son of God to me is yet in doubt.
+To whom the Fiend, now swoln with rage, replied:— “Then hear, O Son of David, virgin-born!     500 For Son of God to me is yet in doubt.
 Of the Messiah I have heard foretold
 By all the Prophets; of thy birth, at length
 Announced by Gabriel, with the first I knew,
@@ -2007,18 +1532,11 @@ On thy birth-night, that sung thee Saviour born.
 From that time seldom have I ceased to eye
 Thy infancy, thy childhood, and thy youth,
 Thy manhood last, though yet in private bred;
-Till, at the ford of Jordan, whither all     510
-Flocked to the Baptist, I among the rest
-(Though not to be baptized), by voice from Heaven
-Heard thee pronounced the Son of God beloved.
+Till, at the ford of Jordan, whither all     510 Flocked to the Baptist, I among the rest (Though not to be baptized), by voice from Heaven Heard thee pronounced the Son of God beloved.
 Thenceforth I thought thee worth my nearer view
 And narrower scrutiny, that I might learn
 In what degree or meaning thou art called
-The Son of God, which bears no single sense.
-The Son of God I also am, or was;
-And, if I was, I am; relation stands:
-All men are Sons of God; yet thee I thought     520
-In some respect far higher so declared.
+The Son of God, which bears no single sense. The Son of God I also am, or was; And, if I was, I am; relation stands: All men are Sons of God; yet thee I thought     520 In some respect far higher so declared.
 Therefore I watched thy footsteps from that hour,
 And followed thee still on to this waste wild,
 Where, by all best conjectures, I collect
@@ -2034,10 +1552,7 @@ Proof against all temptation, as a rock
 Of adamant and as a centre, firm
 To the utmost of mere man both wise and good,
 Not more; for honours, riches, kingdoms, glory,
-Have been before contemned, and may again.
-Therefore, to know what more thou art than man,
-Worth naming the Son of God by voice from Heaven,
-Another method I must now begin.”     540
+Have been before contemned, and may again. Therefore, to know what more thou art than man, Worth naming the Son of God by voice from Heaven, Another method I must now begin.”     540
     So saying, he caught him up, and, without wing
 Of hippogrif, bore through the air sublime,
 Over the wilderness and o’er the plain,
@@ -2048,18 +1563,14 @@ Her pile, far off appearing like a mount
 Of alablaster, topt with golden spires:
 There, on the highest pinnacle, he set
 The Son of God, and added thus in scorn:—     550
-    “There stand, if thou wilt stand; to stand upright
-Will ask thee skill. I to thy Father’s house
-Have brought thee, and highest placed: highest is best.
+“There stand, if thou wilt stand; to stand upright Will ask thee skill. I to thy Father’s house Have brought thee, and highest placed: highest is best.
 Now shew thy progeny; if not to stand,
 Cast thyself down. Safely, if Son of God;
 For it is written, ‘He will give command
 Concerning thee to his Angels; in their hands
 They shall uplift thee, lest at any time
 Thou chance to dash thy foot against a stone.’”
-    To whom thus Jesus: “Also it is written,     560
-‘Tempt not the Lord thy God.’” He said, and stood;
-But Satan, smitten with amazement, fell.
+To whom thus Jesus: “Also it is written,     560 ‘Tempt not the Lord thy God.’” He said, and stood; But Satan, smitten with amazement, fell.
 As when Earth’s son, Antaeus (to compare
 Small things with greatest), in Irassa strove
 With Jove’s Alcides, and, oft foiled, still rose,
@@ -2106,386 +1617,20 @@ Thou didst debel, and down from Heaven cast
 With all his army; now thou hast avenged
 Supplanted Adam, and, by vanquishing
 Temptation, hast regained lost Paradise,
-And frustrated the conquest fraudulent.
-He never more henceforth will dare set foot     610
-In paradise to tempt; his snares are broke.
+And frustrated the conquest fraudulent. He never more henceforth will dare set foot     610 In paradise to tempt; his snares are broke.
 For, though that seat of earthly bliss be failed,
 A fairer Paradise is founded now
 For Adam and his chosen sons, whom thou,
 A Saviour, art come down to reinstall;
 Where they shall dwell secure, when time shall be,
-Of tempter and temptation without fear.
-But thou, Infernal Serpent! shalt not long
-Rule in the clouds. Like an autumnal star,
-Or lightning, thou shalt fall from Heaven, trod down     620
-Under his feet. For proof, ere this thou feel’st
-Thy wound (yet not thy last and deadliest wound)
+Of tempter and temptation without fear. But thou, Infernal Serpent! shalt not long Rule in the clouds. Like an autumnal star, Or lightning, thou shalt fall from Heaven, trod down     620 Under his feet. For proof, ere this thou feel’st Thy wound (yet not thy last and deadliest wound)
 By this repulse received, and hold’st in Hell
 No triumph; in all her gates Abaddon rues
 Thy bold attempt. Hereafter learn with awe
 To dread the Son of God. He, all unarmed,
 Shall chase thee, with the terror of his voice,
-From thy demoniac holds, possession foul—
-Thee and thy legions; yelling they shall fly,
-And beg to hide them in a herd of swine,     630
-Lest he command them down into the Deep,
-Bound, and to torment sent before their time.
-Hail, Son of the Most High, heir of both Worlds,
-Queller of Satan! On thy glorious work
-Now enter, and begin to save Mankind.”
+From thy demoniac holds, possession foul— Thee and thy legions; yelling they shall fly, And beg to hide them in a herd of swine,     630 Lest he command them down into the Deep, Bound, and to torment sent before their time. Hail, Son of the Most High, heir of both Worlds, Queller of Satan! On thy glorious work Now enter, and begin to save Mankind.”
     Thus they the Son of God, our Saviour meek,
 Sung victor, and, from heavenly feast refreshed,
 Brought on his way with joy. He, unobserved,
 Home to his mother’s house private returned.
-
-
-
-
-*** END OF THE PROJECT GUTENBERG EBOOK PARADISE REGAINED ***
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the
-United States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away--you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country other than the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you will have to check the laws of the country where
-  you are located before using this eBook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm website
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that:
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg-tm trademark. Contact the Foundation as set
-forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-Section 3. Information about the Project Gutenberg Literary
-Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation's website
-and official page at www.gutenberg.org/contact
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without
-widespread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our website which has the main PG search
-facility: www.gutenberg.org
-
-This website includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
-

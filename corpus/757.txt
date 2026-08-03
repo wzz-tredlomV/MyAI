@@ -1,41 +1,6 @@
-﻿The Project Gutenberg eBook, Fifty Bab Ballads, by W. S. Gilbert
-
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions 
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at 
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-
-
-
-Title: Fifty Bab Ballads
-
-
-Author: W. S. Gilbert
-
-
-
-Release Date: August 19, 2019  [eBook #757]
-[This file was first posted on December 26, 1996]
-
-Language: English
-
-Character set encoding: UTF-8
-
-
-***START OF THE PROJECT GUTENBERG EBOOK FIFTY BAB BALLADS***
-
-
-Transcribed from the 1884 George Routledge and Sons editions by David
 Price, email ccx074@pglaf.org
 
-                          [Picture: Book cover]
-
-
-
+[Picture: Book cover]
 
 
                            FIFTY “BAB” BALLADS
@@ -47,111 +12,38 @@ Price, email ccx074@pglaf.org
 
                          [Picture: Baby at piano]
 
-                  _WITH ILLUSTRATIONS BY THE AUTHOR_ {1}
+_WITH ILLUSTRATIONS BY THE AUTHOR_ {1}
 
-                                * * * * *
+* * * * *
 
                                   LONDON
                         GEORGE ROUTLEDGE AND SONS
                           BROADWAY, LUDGATE HILL
                        NEW YORK: 9 LAFAYETTE PLACE
-                                   1884
 
                                 * * * * *
 
-           [Picture: Dalziel Brothers: Engravers and Printers]
+[Picture: Dalziel Brothers: Engravers and Printers]
 
-                                * * * * *
-
-
+* * * * *
 
 
 PREFACE.
 
 
-THE “BAB BALLADS” appeared originally in the columns of “FUN,” when that
-periodical was under the editorship of the late TOM HOOD.  They were
-subsequently republished in two volumes, one called “THE BAB BALLADS,”
-the other “MORE BAB BALLADS.”  The period during which they were written
-extended over some three or four years; many, however, were composed
-hastily, and under the discomforting necessity of having to turn out a
-quantity of lively verse by a certain day in every week.  As it seemed to
-me (and to others) that the volumes were disfigured by the presence of
-these hastily written impostors, I thought it better to withdraw from
-both volumes such Ballads as seemed to show evidence of carelessness or
-undue haste, and to publish the remainder in the compact form under which
-they are now presented to the reader.
+THE “BAB BALLADS” appeared originally in the columns of “FUN,” when that periodical was under the editorship of the late TOM HOOD.  They were subsequently republished in two volumes, one called “THE BAB BALLADS,” the other “MORE BAB BALLADS.”  The period during which they were written extended over some three or four years; many, however, were composed hastily, and under the discomforting necessity of having to turn out a quantity of lively verse by a certain day in every week.  As it seemed to me (and to others) that the volumes were disfigured by the presence of these hastily written impostors, I thought it better to withdraw from both volumes such Ballads as seemed to show evidence of carelessness or undue haste, and to publish the remainder in the compact form under which they are now presented to the reader.
 
-It may interest some to know that the first of the series, “The Yarn of
-the _Nancy Bell_,” was originally offered to “PUNCH,”—to which I was, at
-that time, an occasional contributor.  It was, however, declined by the
-then Editor, on the ground that it was “too cannibalistic for his
-readers’ tastes.”
+It may interest some to know that the first of the series, “The Yarn of the _Nancy Bell_,” was originally offered to “PUNCH,”—to which I was, at that time, an occasional contributor.  It was, however, declined by the then Editor, on the ground that it was “too cannibalistic for his readers’ tastes.”
 
-                                                            W. S. GILBERT.
+W. S. GILBERT.
 
 24 _The Boltons_, _South Kensington_,
          _August_, 1876.
 
 
-
-
 CONTENTS.
 
-                                                               PAGE
-_Captain Reece_                                                  13
-_The Rival Curates_                                              18
-_Only a Dancing Girl_                                            24
-_To a Little Maid_                                               27
-_The Troubadour_                                                 28
-_Ferdinando and Elvira_; _or_, _the Gentle Pieman_               33
-_To my Bride_                                                    37
-_Sir Macklin_                                                    39
-_The Yarn of the_ “_Nancy Bell_”                                 44
-_The Bishop of Rum-Ti-Foo_                                       48
-_The Precocious Baby_                                            54
-_To Phœbe_                                                       59
-_Baines Carew_, _Gentleman_                                      60
-_Thomas Winterbottom Hance_                                      66
-_A Discontented Sugar Broker_                                    72
-_The Pantomime_ “_Super_” _to his Mask_                          78
-_The Ghost_, _the Gallant_, _the Gael_, _and the Goblin_         80
-_The Phantom Curate_                                             85
-_King Borria Bungalee Boo_                                       88
-_Bob Polter_                                                     93
-_The Story of Prince Agib_                                       99
-_Ellen McJones Aberdeen_                                        104
-_Peter the Wag_                                                 109
-_To the Terrestrial Globe_                                      114
-_Gentle Alice Brown_                                            115
-_Mister William_                                                120
-_The Bumboat Woman’s Story_                                     125
-_Lost Mr. Blake_                                                131
-_The Baby’s Vengeance_                                          137
-_The Captain and the Mermaids_                                  143
-_Annie Protheroe_.  _A Legend of Stratford-le-Bow_              149
-_An Unfortunate Likeness_                                       155
-_The King of Canoodle-dum_                                      161
-_The Martinet_                                                  167
-_The Sailor Boy to his Lass_                                    173
-_The Reverend Simon Magus_                                      179
-_My Dream_                                                      184
-_The Bishop of Rum-Ti-Foo again_                                189
-_The Haughty Actor_                                             194
-_The Two Majors_                                                200
-_Emily_, _John_, _James_, _and I_.  _A Derby Legend_            205
-_The Perils of Invisibility_                                    210
-_The Mystic Selvagee_                                           215
-_Phrenology_                                                    221
-_The Fairy Curate_                                              226
-_The Way of Wooing_                                             233
-_Hongree and Mahry_.  _A Recollection of a Surrey               237
-Melodrama_
-_Etiquette_                                                     243
-_At a Pantomime_                                                249
-_Haunted_                                                       253
-
-
+PAGE _Captain Reece_                                                  13 _The Rival Curates_                                              18 _Only a Dancing Girl_                                            24 _To a Little Maid_                                               27 _The Troubadour_                                                 28 _Ferdinando and Elvira_; _or_, _the Gentle Pieman_               33 _To my Bride_                                                    37 _Sir Macklin_                                                    39 _The Yarn of the_ “_Nancy Bell_”                                 44 _The Bishop of Rum-Ti-Foo_                                       48 _The Precocious Baby_                                            54 _To Phœbe_                                                       59 _Baines Carew_, _Gentleman_                                      60 _Thomas Winterbottom Hance_                                      66 _A Discontented Sugar Broker_                                    72 _The Pantomime_ “_Super_” _to his Mask_                          78 _The Ghost_, _the Gallant_, _the Gael_, _and the Goblin_         80 _The Phantom Curate_                                             85 _King Borria Bungalee Boo_                                       88 _Bob Polter_                                                     93 _The Story of Prince Agib_                                       99 _Ellen McJones Aberdeen_                                        104 _Peter the Wag_                                                 109 _To the Terrestrial Globe_                                      114 _Gentle Alice Brown_                                            115 _Mister William_                                                120 _The Bumboat Woman’s Story_                                     125 _Lost Mr. Blake_                                                131 _The Baby’s Vengeance_                                          137 _The Captain and the Mermaids_                                  143 _Annie Protheroe_.  _A Legend of Stratford-le-Bow_              149 _An Unfortunate Likeness_                                       155 _The King of Canoodle-dum_                                      161 _The Martinet_                                                  167 _The Sailor Boy to his Lass_                                    173 _The Reverend Simon Magus_                                      179 _My Dream_                                                      184 _The Bishop of Rum-Ti-Foo again_                                189 _The Haughty Actor_                                             194 _The Two Majors_                                                200 _Emily_, _John_, _James_, _and I_.  _A Derby Legend_            205 _The Perils of Invisibility_                                    210 _The Mystic Selvagee_                                           215 _Phrenology_                                                    221 _The Fairy Curate_                                              226 _The Way of Wooing_                                             233 _Hongree and Mahry_.  _A Recollection of a Surrey               237 Melodrama_ _Etiquette_                                                     243 _At a Pantomime_                                                249 _Haunted_                                                       253
 
 
 CAPTAIN REECE.
@@ -273,8 +165,6 @@ CAPTAIN REECE.
    It was their duty, and they did.
 
 
-
-
 THE RIVAL CURATES.
 
 
@@ -394,8 +284,6 @@ THE RIVAL CURATES.
       The mildest curate going.
 
 
-
-
 ONLY A DANCING GIRL.
 
 
@@ -448,8 +336,6 @@ ONLY A DANCING GIRL.
    She’s a fairy truly, then!
 
 
-
-
 TO A LITTLE MAID
 BY A POLICEMAN.
 
@@ -483,8 +369,6 @@ BY A POLICEMAN.
             To work thy spell,
             In some cool cell
    In stately Pentonville!
-
-
 
 
 THE TROUBADOUR.
@@ -601,8 +485,6 @@ THE TROUBADOUR.
       He’d business at the Bank.
 
 
-
-
 FERDINANDO AND ELVIRA;
 OR, THE GENTLE PIEMAN.
 
@@ -614,95 +496,93 @@ PART I.
    One whom I will call ELVIRA, and we talked of love and TUPPER,
 
    MR. TUPPER and the Poets, very lightly with them dealing,
-   For I’ve always been distinguished for a strong poetic feeling.
+For I’ve always been distinguished for a strong poetic feeling.
 
-   Then we let off paper crackers, each of which contained a motto,
-   And she listened while I read them, till her mother told her not to.
+Then we let off paper crackers, each of which contained a motto,
+And she listened while I read them, till her mother told her not to.
 
-   Then she whispered, “To the ball-room we had better, dear, be walking;
-   If we stop down here much longer, really people will be talking.”
+Then she whispered, “To the ball-room we had better, dear, be walking;
+If we stop down here much longer, really people will be talking.”
 
-   There were noblemen in coronets, and military cousins,
-   There were captains by the hundred, there were baronets by dozens.
+There were noblemen in coronets, and military cousins,
+There were captains by the hundred, there were baronets by dozens.
 
-   Yet she heeded not their offers, but dismissed them with a blessing,
-   Then she let down all her back hair, which had taken long in dressing.
+Yet she heeded not their offers, but dismissed them with a blessing,
+Then she let down all her back hair, which had taken long in dressing.
 
-   Then she had convulsive sobbings in her agitated throttle,
-   Then she wiped her pretty eyes and smelt her pretty smelling-bottle.
+Then she had convulsive sobbings in her agitated throttle,
+Then she wiped her pretty eyes and smelt her pretty smelling-bottle.
 
-   So I whispered, “Dear ELVIRA, say,—what can the matter be with you?
-   Does anything you’ve eaten, darling POPSY, disagree with you?”
+So I whispered, “Dear ELVIRA, say,—what can the matter be with you?
+Does anything you’ve eaten, darling POPSY, disagree with you?”
 
-   But spite of all I said, her sobs grew more and more distressing,
-   And she tore her pretty back hair, which had taken long in dressing.
+But spite of all I said, her sobs grew more and more distressing,
+And she tore her pretty back hair, which had taken long in dressing.
 
-   Then she gazed upon the carpet, at the ceiling, then above me,
-   And she whispered, “FERDINANDO, do you really, _really_ love me?”
+Then she gazed upon the carpet, at the ceiling, then above me,
+And she whispered, “FERDINANDO, do you really, _really_ love me?”
 
-   “Love you?” said I, then I sighed, and then I gazed upon her sweetly—
-   For I think I do this sort of thing particularly neatly.
+“Love you?” said I, then I sighed, and then I gazed upon her sweetly—
+For I think I do this sort of thing particularly neatly.
 
    “Send me to the Arctic regions, or illimitable azure,
    On a scientific goose-chase, with my COXWELL or my GLAISHER!
 
-   “Tell me whither I may hie me—tell me, dear one, that I may know—
-   Is it up the highest Andes? down a horrible volcano?”
+“Tell me whither I may hie me—tell me, dear one, that I may know—
+Is it up the highest Andes? down a horrible volcano?”
 
-   But she said, “It isn’t polar bears, or hot volcanic grottoes:
-   Only find out who it is that writes those lovely cracker mottoes!”
-
-
+But she said, “It isn’t polar bears, or hot volcanic grottoes:
+Only find out who it is that writes those lovely cracker mottoes!”
 
 
 PART II.
 
 
-   “Tell me, HENRY WADSWORTH, ALFRED POET CLOSE, or MISTER TUPPER,
-   Do you write the bon bon mottoes my ELVIRA pulls at supper?”
+“Tell me, HENRY WADSWORTH, ALFRED POET CLOSE, or MISTER TUPPER,
+Do you write the bon bon mottoes my ELVIRA pulls at supper?”
 
-   But HENRY WADSWORTH smiled, and said he had not had that honour;
-   And ALFRED, too, disclaimed the words that told so much upon her.
+But HENRY WADSWORTH smiled, and said he had not had that honour;
+And ALFRED, too, disclaimed the words that told so much upon her.
 
-   “MISTER MARTIN TUPPER, POET CLOSE, I beg of you inform us;”
-   But my question seemed to throw them both into a rage enormous.
+“MISTER MARTIN TUPPER, POET CLOSE, I beg of you inform us;”
+But my question seemed to throw them both into a rage enormous.
 
    MISTER CLOSE expressed a wish that he could only get anigh to me;
    And MISTER MARTIN TUPPER sent the following reply to me:
 
-   “A fool is bent upon a twig, but wise men dread a bandit,”—
-   Which I know was very clever; but I didn’t understand it.
+“A fool is bent upon a twig, but wise men dread a bandit,”—
+Which I know was very clever; but I didn’t understand it.
 
-   Seven weary years I wandered—Patagonia, China, Norway,
-   Till at last I sank exhausted at a pastrycook his doorway.
+Seven weary years I wandered—Patagonia, China, Norway,
+Till at last I sank exhausted at a pastrycook his doorway.
 
-   There were fuchsias and geraniums, and daffodils and myrtle,
-   So I entered, and I ordered half a basin of mock turtle.
+There were fuchsias and geraniums, and daffodils and myrtle,
+So I entered, and I ordered half a basin of mock turtle.
 
-   He was plump and he was chubby, he was smooth and he was rosy,
-   And his little wife was pretty and particularly cosy.
+He was plump and he was chubby, he was smooth and he was rosy,
+And his little wife was pretty and particularly cosy.
 
    And he chirped and sang, and skipped about, and laughed with laughter
    hearty—
    He was wonderfully active for so very stout a party.
 
    And I said, “O gentle pieman, why so very, very merry?
-   Is it purity of conscience, or your one-and-seven sherry?”
+Is it purity of conscience, or your one-and-seven sherry?”
 
-   But he answered, “I’m so happy—no profession could be dearer—
-   If I am not humming ‘Tra! la! la!’ I’m singing ‘Tirer, lirer!’
+But he answered, “I’m so happy—no profession could be dearer—
+If I am not humming ‘Tra! la! la!’ I’m singing ‘Tirer, lirer!’
 
    “First I go and make the patties, and the puddings, and the jellies,
    Then I make a sugar bird-cage, which upon a table swell is;
 
    “Then I polish all the silver, which a supper-table lacquers;
-   Then I write the pretty mottoes which you find inside the crackers.”—
+Then I write the pretty mottoes which you find inside the crackers.”—
 
-   “Found at last!” I madly shouted.  “Gentle pieman, you astound me!”
-   Then I waved the turtle soup enthusiastically round me.
+“Found at last!” I madly shouted.  “Gentle pieman, you astound me!”
+Then I waved the turtle soup enthusiastically round me.
 
-   And I shouted and I danced until he’d quite a crowd around him—
-   And I rushed away exclaiming, “I have found him!  I have found him!”
+And I shouted and I danced until he’d quite a crowd around him—
+And I rushed away exclaiming, “I have found him!  I have found him!”
 
    And I heard the gentle pieman in the road behind me trilling,
    “‘Tira, lira!’ stop him, stop him!  ‘Tra! la! la!’ the soup’s a
@@ -710,8 +590,6 @@ PART II.
 
    But until I reached ELVIRA’S home, I never, never waited,
    And ELVIRA to her FERDINAND’S irrevocably mated!
-
-
 
 
 TO MY BRIDE
@@ -743,8 +621,8 @@ TO MY BRIDE
       His faults are not particularly shady,
    You’ll never find him “_shy_”—for, once or twice
       Already, he’s been driven by a lady,
-         Who parts with him—perhaps a poor excuse for him—
-         Because she hasn’t any further use for him.
+Who parts with him—perhaps a poor excuse for him—
+Because she hasn’t any further use for him.
 
    Oh! bride of mine—tall, dumpy, dark, or fair!
       Oh! widow—wife, maybe, or blushing maiden,
@@ -766,8 +644,6 @@ TO MY BRIDE
       And tell me, please, will she object to smoking?
          The colour of her eyes, too, you may mention:
          Come, Sibyl, prophesy—I’m all attention.
-
-
 
 
 SIR MACKLIN.
@@ -857,8 +733,6 @@ SIR MACKLIN.
       The priest completed of his stricture;
    “Oh, bosh!” the worthy Bishop said,
       And walked him off as in the picture.
-
-
 
 
 THE YARN OF THE “NANCY BELL.” {44}
@@ -982,8 +856,6 @@ THE YARN OF THE “NANCY BELL.” {44}
       And the crew of the captain’s gig!’”
 
 
-
-
 THE BISHOP OF RUM-TI-FOO.
 
 
@@ -1096,13 +968,11 @@ THE BISHOP OF RUM-TI-FOO.
       ’T would pain them very much!”
 
 
-
-
 THE PRECOCIOUS BABY.
 A VERY TRUE TALE.
 
 
-          (_To be sung to the Air of the_ “_Whistling Oyster_.”)
+(_To be sung to the Air of the_ “_Whistling Oyster_.”)
 
    AN elderly person—a prophet by trade—
             With his quips and tips
@@ -1203,8 +1073,6 @@ A VERY TRUE TALE.
    For your babes will be elderly—elderly too.
 
 
-
-
 TO PHŒBE. {59}
 
 
@@ -1225,8 +1093,6 @@ TO PHŒBE. {59}
       You’d perpetually hear,
    If I loved you fondly, madly;—
       But I do not, PHŒBE dear.
-
-
 
 
 BAINES CAREW, GENTLEMAN.
@@ -1348,8 +1214,6 @@ BAINES CAREW, GENTLEMAN.
       And gave the case to MR. COBB.
 
 
-
-
 THOMAS WINTERBOTTOM HANCE.
 
 
@@ -1462,8 +1326,6 @@ THOMAS WINTERBOTTOM HANCE.
       “L’Anglais pour ‘Va!’” the Frenchman crowed.
    And so, with undiminished pride,
       Each went on his respective road.
-
-
 
 
 A DISCONTENTED SUGAR BROKER.
@@ -1604,8 +1466,6 @@ A DISCONTENTED SUGAR BROKER.
    Of this East India broker.
 
 
-
-
 THE PANTOMIME “SUPER” TO HIS MASK.
 
 
@@ -1660,8 +1520,6 @@ THE PANTOMIME “SUPER” TO HIS MASK.
    A soul that weeps at _thy_ threadbare morality?
    Both grieving that _their_ individuality
             Is merged in thine?
-
-
 
 
 THE GHOST, THE GALLANT, THE GAEL, AND THE GOBLIN.
@@ -1776,8 +1634,6 @@ THE GHOST, THE GALLANT, THE GAEL, AND THE GOBLIN.
       The bet is undecided.
 
 
-
-
 THE PHANTOM CURATE.
 A FABLE.
 
@@ -1850,9 +1706,7 @@ A FABLE.
    To check their harmless pleasuring’s absurd;
       What laymen do without reproach, my clergy may.”
             He spake, and lo! at this concluding word of him,
-            The curate vanished—no one since has heard of him.
-
-
+The curate vanished—no one since has heard of him.
 
 
 KING BORRIA BUNGALEE BOO.
@@ -1985,8 +1839,6 @@ KING BORRIA BUNGALEE BOO.
       Exemplary TOOTLE-TUM-TEH!
 
 
-
-
 BOB POLTER.
 
 
@@ -2116,8 +1968,6 @@ BOB POLTER.
       And as I am I mean to be!”
 
 
-
-
 THE STORY OF PRINCE AGIB.
 
 
@@ -2222,8 +2072,6 @@ THE STORY OF PRINCE AGIB.
          Photographically lined
          On the tablet of my mind,
    When a yesterday has faded from its page
-
-
 
 
 ELLEN MCJONES ABERDEEN.
@@ -2333,8 +2181,6 @@ ELLEN MCJONES ABERDEEN.
    And they all of them vowed, as they dried up their tears,
    A pleasanter gentleman never was seen—
    Especially ELLEN MCJONES ABERDEEN.
-
-
 
 
 PETER THE WAG.
@@ -2449,8 +2295,6 @@ PETER THE WAG.
       The Men of London’s pet!
 
 
-
-
 TO THE TERRESTRIAL GLOBE.
 BY A MISERABLE WRETCH.
 
@@ -2475,9 +2319,7 @@ BY A MISERABLE WRETCH.
          Never _you_ mind!
                Roll on!
 
-                                                           [_It rolls on_.
-
-
+[_It rolls on_.
 
 
 GENTLE ALICE BROWN.
@@ -2516,25 +2358,25 @@ GENTLE ALICE BROWN.
    The worthy pastor heaved a sigh, and dropped a silent tear,
    And said, “You mustn’t judge yourself too heavily, my dear:
    It’s wrong to murder babies, little corals for to fleece;
-   But sins like these one expiates at half-a-crown apiece.
+But sins like these one expiates at half-a-crown apiece.
 
-   “Girls will be girls—you’re very young, and flighty in your mind;
-   Old heads upon young shoulders we must not expect to find:
-   We mustn’t be too hard upon these little girlish tricks—
-   Let’s see—five crimes at half-a-crown—exactly twelve-and-six.”
+“Girls will be girls—you’re very young, and flighty in your mind;
+Old heads upon young shoulders we must not expect to find:
+We mustn’t be too hard upon these little girlish tricks—
+Let’s see—five crimes at half-a-crown—exactly twelve-and-six.”
 
-   “Oh, father,” little Alice cried, “your kindness makes me weep,
-   You do these little things for me so singularly cheap—
+“Oh, father,” little Alice cried, “your kindness makes me weep,
+You do these little things for me so singularly cheap—
    Your thoughtful liberality I never can forget;
    But, oh! there is another crime I haven’t mentioned yet!
 
    “A pleasant-looking gentleman, with pretty purple eyes,
    I’ve noticed at my window, as I’ve sat a-catching flies;
    He passes by it every day as certain as can be—
-   I blush to say I’ve winked at him, and he has winked at me!”
+I blush to say I’ve winked at him, and he has winked at me!”
 
-   “For shame!” said FATHER PAUL, “my erring daughter!  On my word
-   This is the most distressing news that I have ever heard.
+“For shame!” said FATHER PAUL, “my erring daughter!  On my word
+This is the most distressing news that I have ever heard.
    Why, naughty girl, your excellent papa has pledged your hand
    To a promising young robber, the lieutenant of his band!
 
@@ -2546,10 +2388,10 @@ GENTLE ALICE BROWN.
    “The common country folk in this insipid neighbourhood
    Have nothing to confess, they’re so ridiculously good;
    And if you marry any one respectable at all,
-   Why, you’ll reform, and what will then become of FATHER PAUL?”
+Why, you’ll reform, and what will then become of FATHER PAUL?”
 
-   The worthy priest, he up and drew his cowl upon his crown,
-   And started off in haste to tell the news to ROBBER BROWN—
+The worthy priest, he up and drew his cowl upon his crown,
+And started off in haste to tell the news to ROBBER BROWN—
    To tell him how his daughter, who was now for marriage fit,
    Had winked upon a sorter, who reciprocated it.
 
@@ -2559,9 +2401,9 @@ GENTLE ALICE BROWN.
    And get my gentle wife to chop him into little bits.
 
    “I’ve studied human nature, and I know a thing or two:
-   Though a girl may fondly love a living gent, as many do—
-   A feeling of disgust upon her senses there will fall
-   When she looks upon his body chopped particularly small.”
+Though a girl may fondly love a living gent, as many do—
+A feeling of disgust upon her senses there will fall
+When she looks upon his body chopped particularly small.”
 
    He traced that gallant sorter to a still suburban square;
    He watched his opportunity, and seized him unaware;
@@ -2571,23 +2413,21 @@ GENTLE ALICE BROWN.
    And pretty little ALICE grew more settled in her mind,
    She never more was guilty of a weakness of the kind,
    Until at length good ROBBER BROWN bestowed her pretty hand
-   On the promising young robber, the lieutenant of his band.
-
-
+On the promising young robber, the lieutenant of his band.
 
 
 MISTER WILLIAM.
 
 
-   OH, listen to the tale of MISTER WILLIAM, if you please,
-   Whom naughty, naughty judges sent away beyond the seas.
+OH, listen to the tale of MISTER WILLIAM, if you please,
+Whom naughty, naughty judges sent away beyond the seas.
    He forged a party’s will, which caused anxiety and strife,
    Resulting in his getting penal servitude for life.
 
    He was a kindly goodly man, and naturally prone,
-   Instead of taking others’ gold, to give away his own.
-   But he had heard of Vice, and longed for only once to strike—
-   To plan _one_ little wickedness—to see what it was like.
+Instead of taking others’ gold, to give away his own.
+But he had heard of Vice, and longed for only once to strike—
+To plan _one_ little wickedness—to see what it was like.
 
    He argued with himself, and said, “A spotless man am I;
    I can’t be more respectable, however hard I try!
@@ -2617,22 +2457,22 @@ MISTER WILLIAM.
    “Still, I wouldn’t take advantage of this fact, but be content
    With some pardonable folly—it’s a mere experiment.
    The greater the temptation to go wrong, the less the sin;
-   So with something that’s particularly tempting I’ll begin.
+So with something that’s particularly tempting I’ll begin.
 
-   “I would not steal a penny, for my income’s very fair—
-   I do not want a penny—I have pennies and to spare—
-   And if I stole a penny from a money-bag or till,
-   The sin would be enormous—the temptation being _nil_.
+“I would not steal a penny, for my income’s very fair—
+I do not want a penny—I have pennies and to spare—
+And if I stole a penny from a money-bag or till,
+The sin would be enormous—the temptation being _nil_.
 
    “But if I broke asunder all such pettifogging bounds,
    And forged a party’s Will for (say) Five Hundred Thousand Pounds,
    With such an irresistible temptation to a haul,
    Of course the sin must be infinitesimally small.
 
-   “There’s WILSON who is dying—he has wealth from Stock and rent—
-   If I divert his riches from their natural descent,
-   I’m placed in a position to indulge each little whim.”
-   So he diverted them—and they, in turn, diverted him.
+“There’s WILSON who is dying—he has wealth from Stock and rent—
+If I divert his riches from their natural descent,
+I’m placed in a position to indulge each little whim.”
+So he diverted them—and they, in turn, diverted him.
 
    Unfortunately, though, by some unpardonable flaw,
    Temptation isn’t recognized by Britain’s Common Law;
@@ -2642,22 +2482,22 @@ MISTER WILLIAM.
    For, ah! he never reconciled himself to life in gaol,
    He fretted and he pined, and grew dispirited and pale;
    He was numbered like a cabman, too, which told upon him so
-   That his spirits, once so buoyant, grew uncomfortably low.
+That his spirits, once so buoyant, grew uncomfortably low.
 
-   And sympathetic gaolers would remark, “It’s very true,
-   He ain’t been brought up common, like the likes of me and you.”
-   So they took him into hospital, and gave him mutton chops,
-   And chocolate, and arrowroot, and buns, and malt and hops.
+And sympathetic gaolers would remark, “It’s very true,
+He ain’t been brought up common, like the likes of me and you.”
+So they took him into hospital, and gave him mutton chops,
+And chocolate, and arrowroot, and buns, and malt and hops.
 
    Kind Clergymen, besides, grew interested in his fate,
    Affected by the details of his pitiable state.
    They waited on the Secretary, somewhere in Whitehall,
-   Who said he would receive them any day they liked to call.
+Who said he would receive them any day they liked to call.
 
-   “Consider, sir, the hardship of this interesting case:
-   A prison life brings with it something very like disgrace;
-   It’s telling on young WILLIAM, who’s reduced to skin and bone—
-   Remember he’s a gentleman, with money of his own.
+“Consider, sir, the hardship of this interesting case:
+A prison life brings with it something very like disgrace;
+It’s telling on young WILLIAM, who’s reduced to skin and bone—
+Remember he’s a gentleman, with money of his own.
 
    “He had an ample income, and of course he stands in need
    Of sherry with his dinner, and his customary weed;
@@ -2671,8 +2511,8 @@ MISTER WILLIAM.
 
    “A burglar or garotter, or, indeed, a common thief
    Is very glad to batten on potatoes and on beef,
-   Or anything, in short, that prison kitchens can afford,—
-   A cut above the diet in a common workhouse ward.
+Or anything, in short, that prison kitchens can afford,—
+A cut above the diet in a common workhouse ward.
 
    “But beef and mutton-broth don’t seem to suit our WILLIAM’S whim,
    A boon to other prisoners—a punishment to him.
@@ -2690,15 +2530,13 @@ MISTER WILLIAM.
    And not begin experimentalizing any more.
 
 
-
-
 THE BUMBOAT WOMAN’S STORY.
 
 
-   I’M old, my dears, and shrivelled with age, and work, and grief,
-   My eyes are gone, and my teeth have been drawn by Time, the Thief!
-   For terrible sights I’ve seen, and dangers great I’ve run—
-   I’m nearly seventy now, and my work is almost done!
+I’M old, my dears, and shrivelled with age, and work, and grief,
+My eyes are gone, and my teeth have been drawn by Time, the Thief!
+For terrible sights I’ve seen, and dangers great I’ve run—
+I’m nearly seventy now, and my work is almost done!
 
    Ah!  I’ve been young in my time, and I’ve played the deuce with men!
    I’m speaking of ten years past—I was barely sixty then:
@@ -2708,17 +2546,17 @@ THE BUMBOAT WOMAN’S STORY.
    A bumboat woman was I, and I faithfully served the ships
    With apples and cakes, and fowls, and beer, and halfpenny dips,
    And beef for the generous mess, where the officers dine at nights,
-   And fine fresh peppermint drops for the rollicking midshipmites.
+And fine fresh peppermint drops for the rollicking midshipmites.
 
-   Of all the kind commanders who anchored in Portsmouth Bay,
-   By far the sweetest of all was kind LIEUTENANT BELAYE.’
-   LIEUTENANT BELAYE commanded the gunboat _Hot Cross Bun_,
-   She was seven and thirty feet in length, and she carried a gun.
+Of all the kind commanders who anchored in Portsmouth Bay,
+By far the sweetest of all was kind LIEUTENANT BELAYE.’
+LIEUTENANT BELAYE commanded the gunboat _Hot Cross Bun_,
+She was seven and thirty feet in length, and she carried a gun.
 
-   With a laudable view of enhancing his country’s naval pride,
-   When people inquired her size, LIEUTENANT BELAYE replied,
-   “Oh, my ship, my ship is the first of the Hundred and Seventy-ones!”
-   Which meant her tonnage, but people imagined it meant her guns.
+With a laudable view of enhancing his country’s naval pride,
+When people inquired her size, LIEUTENANT BELAYE replied,
+“Oh, my ship, my ship is the first of the Hundred and Seventy-ones!”
+Which meant her tonnage, but people imagined it meant her guns.
 
    Whenever I went on board he would beckon me down below,
    “Come down, Little Buttercup, come” (for he loved to call me so),
@@ -2726,45 +2564,45 @@ THE BUMBOAT WOMAN’S STORY.
    And so LIEUTENANT BELAYE won poor POLL PINEAPPLE’S heart!
 
    But at length his orders came, and he said one day, said he,
-   “I’m ordered to sail with the _Hot Cross Bun_ to the German Sea.”
-   And the Portsmouth maidens wept when they learnt the evil day,
-   For every Portsmouth maid loved good LIEUTENANT BELAYE.
+“I’m ordered to sail with the _Hot Cross Bun_ to the German Sea.”
+And the Portsmouth maidens wept when they learnt the evil day,
+For every Portsmouth maid loved good LIEUTENANT BELAYE.
 
-   And I went to a back back street, with plenty of cheap cheap shops,
-   And I bought an oilskin hat and a second-hand suit of slops,
-   And I went to LIEUTENANT BELAYE (and he never suspected _me_!)
-   And I entered myself as a chap as wanted to go to sea.
+And I went to a back back street, with plenty of cheap cheap shops,
+And I bought an oilskin hat and a second-hand suit of slops,
+And I went to LIEUTENANT BELAYE (and he never suspected _me_!)
+And I entered myself as a chap as wanted to go to sea.
 
    We sailed that afternoon at the mystic hour of one,—
    Remarkably nice young men were the crew of the _Hot Cross Bun_,
    I’m sorry to say that I’ve heard that sailors sometimes swear,
-   But I never yet heard a _Bun_ say anything wrong, I declare.
+But I never yet heard a _Bun_ say anything wrong, I declare.
 
-   When Jack Tars meet, they meet with a “Messmate, ho!  What cheer?”
-   But here, on the _Hot Cross Bun_, it was “How do you do, my dear?”
-   When Jack Tars growl, I believe they growl with a big big D—
-   But the strongest oath of the _Hot Cross Buns_ was a mild “Dear me!”
+When Jack Tars meet, they meet with a “Messmate, ho!  What cheer?”
+But here, on the _Hot Cross Bun_, it was “How do you do, my dear?”
+When Jack Tars growl, I believe they growl with a big big D—
+But the strongest oath of the _Hot Cross Buns_ was a mild “Dear me!”
 
    Yet, though they were all well-bred, you could scarcely call them
    slick:
    Whenever a sea was on, they were all extremely sick;
    And whenever the weather was calm, and the wind was light and fair,
-   They spent more time than a sailor should on his back back hair.
+They spent more time than a sailor should on his back back hair.
 
-   They certainly shivered and shook when ordered aloft to run,
-   And they screamed when LIEUTENANT BELAYE discharged his only gun.
-   And as he was proud of his gun—such pride is hardly wrong—
-   The Lieutenant was blazing away at intervals all day long.
+They certainly shivered and shook when ordered aloft to run,
+And they screamed when LIEUTENANT BELAYE discharged his only gun.
+And as he was proud of his gun—such pride is hardly wrong—
+The Lieutenant was blazing away at intervals all day long.
 
-   They all agreed very well, though at times you heard it said
-   That BILL had a way of his own of making his lips look red—
-   That JOE looked quite his age—or somebody might declare
-   That BARNACLE’S long pig-tail was never his own own hair.
+They all agreed very well, though at times you heard it said
+That BILL had a way of his own of making his lips look red—
+That JOE looked quite his age—or somebody might declare
+That BARNACLE’S long pig-tail was never his own own hair.
 
-   BELAYE would admit that his men were of no great use to him,
-   “But, then,” he would say, “there is little to do on a gunboat trim
-   I can hand, and reef, and steer, and fire my big gun too—
-   And it _is_ such a treat to sail with a gentle well-bred crew.”
+BELAYE would admit that his men were of no great use to him,
+“But, then,” he would say, “there is little to do on a gunboat trim
+I can hand, and reef, and steer, and fire my big gun too—
+And it _is_ such a treat to sail with a gentle well-bred crew.”
 
    I saw him every day.  How the happy moments sped!
    Reef topsails!  Make all taut!  There’s dirty weather ahead!
@@ -2784,16 +2622,14 @@ THE BUMBOAT WOMAN’S STORY.
    And then their hair came down, or off, as the case might be,
    And lo! the rest of the crew were simple girls, like me,
    Who all had fled from their homes in a sailor’s blue array,
-   To follow the shifting fate of kind LIEUTENANT BELAYE.
+To follow the shifting fate of kind LIEUTENANT BELAYE.
 
-                             * * * * * * * *
+* * * * * * * *
 
    It’s strange to think that _I_ should ever have loved young men,
    But I’m speaking of ten years past—I was barely sixty then,
    And now my cheeks are furrowed with grief and age, I trow!
    And poor POLL PINEAPPLE’S eyes have lost their lustre now!
-
-
 
 
 LOST MR. BLAKE.
@@ -2923,10 +2759,8 @@ LOST MR. BLAKE.
    Go to the parish church only on Sunday morning and afternoon and
    occasionally on a week-day, and spend their evenings in connubial
    fondlings and affectionate reciprocities,
-      And I should like to know where in the world (or rather, out of it)
-   they expect to go!
-
-
+And I should like to know where in the world (or rather, out of it)
+they expect to go!
 
 
 THE BABY’S VENGEANCE.
@@ -3056,8 +2890,6 @@ THE BABY’S VENGEANCE.
    He took the fever from MR. VOLLAIRE,
    Which killed poor FREDERICK WEST.  Meanwhile
    VOLLAIRE sailed off to Madeira’s isle.
-
-
 
 
 THE CAPTAIN AND THE MERMAIDS.
@@ -3190,26 +3022,24 @@ THE CAPTAIN AND THE MERMAIDS.
       You’ll only get half-pay!”
 
 
-
-
 ANNIE PROTHEROE.
 A LEGEND OF STRATFORD-LE-BOW.
 
 
-   OH! listen to the tale of little ANNIE PROTHEROE.
-   She kept a small post-office in the neighbourhood of Bow;
-   She loved a skilled mechanic, who was famous in his day—
-   A gentle executioner whose name was GILBERT CLAY.
+OH! listen to the tale of little ANNIE PROTHEROE.
+She kept a small post-office in the neighbourhood of Bow;
+She loved a skilled mechanic, who was famous in his day—
+A gentle executioner whose name was GILBERT CLAY.
 
-   I think I hear you say, “A dreadful subject for your rhymes!”
-   O reader, do not shrink—he didn’t live in modern times!
-   He lived so long ago (the sketch will show it at a glance)
-   That all his actions glitter with the lime-light of Romance.
+I think I hear you say, “A dreadful subject for your rhymes!”
+O reader, do not shrink—he didn’t live in modern times!
+He lived so long ago (the sketch will show it at a glance)
+That all his actions glitter with the lime-light of Romance.
 
-   In busy times he laboured at his gentle craft all day—
-   “No doubt you mean his Cal-craft,” you amusingly will say—
-   But, no—he didn’t operate with common bits of string,
-   He was a Public Headsman, which is quite another thing.
+In busy times he laboured at his gentle craft all day—
+“No doubt you mean his Cal-craft,” you amusingly will say—
+But, no—he didn’t operate with common bits of string,
+He was a Public Headsman, which is quite another thing.
 
    And when his work was over, they would ramble o’er the lea,
    And sit beneath the frondage of an elderberry tree,
@@ -3243,18 +3073,18 @@ A LEGEND OF STRATFORD-LE-BOW.
 
    Then GILBERT, who was irritable, rose and loudly swore
    He’d know the reason why if she refused to tell him more;
-   And she answered (all the woman in her flashing from her eyes)
-   “You mustn’t ask no questions, and you won’t be told no lies!
+And she answered (all the woman in her flashing from her eyes)
+“You mustn’t ask no questions, and you won’t be told no lies!
 
-   “Few lovers have the privilege enjoyed, my dear, by you,
-   Of chopping off a rival’s head and quartering him too!
-   Of vengeance, dear, to-morrow you will surely take your fill!”
-   And GILBERT ground his molars as he answered her, “I will!”
+“Few lovers have the privilege enjoyed, my dear, by you,
+Of chopping off a rival’s head and quartering him too!
+Of vengeance, dear, to-morrow you will surely take your fill!”
+And GILBERT ground his molars as he answered her, “I will!”
 
-   Young GILBERT rose from table with a stern determined look,
-   And, frowning, took an inexpensive hatchet from its hook;
-   And ANNIE watched his movements with an interested air—
-   For the morrow—for the morrow he was going to prepare!
+Young GILBERT rose from table with a stern determined look,
+And, frowning, took an inexpensive hatchet from its hook;
+And ANNIE watched his movements with an interested air—
+For the morrow—for the morrow he was going to prepare!
 
    He chipped it with a hammer and he chopped it with a bill,
    He poured sulphuric acid on the edge of it, until
@@ -3266,17 +3096,17 @@ A LEGEND OF STRATFORD-LE-BOW.
    He said, “It is intended for to lacerate and flay
    The neck of that unmitigated villain PETER GRAY!”
 
-   “Now, GILBERT,” ANNIE answered, “wicked headsman, just beware—
-   I won’t have PETER tortured with that horrible affair;
-   If you appear with that, you may depend you’ll rue the day.”
-   But GILBERT said, “Oh, shall I?” which was just his nasty way.
+“Now, GILBERT,” ANNIE answered, “wicked headsman, just beware—
+I won’t have PETER tortured with that horrible affair;
+If you appear with that, you may depend you’ll rue the day.”
+But GILBERT said, “Oh, shall I?” which was just his nasty way.
 
    He saw a look of anger from her eyes distinctly dart,
    For ANNIE was a woman, and had pity in her heart!
    She wished him a good evening—he answered with a glare;
-   She only said, “Remember, for your ANNIE will be there!”
+She only said, “Remember, for your ANNIE will be there!”
 
-                             * * * * * * * *
+* * * * * * * *
 
    The morrow GILBERT boldly on the scaffold took his stand,
    With a vizor on his face and with a hatchet in his hand,
@@ -3284,9 +3114,9 @@ A LEGEND OF STRATFORD-LE-BOW.
    Was far less like a hatchet than a dissipated saw.
 
    The felon very coolly loosed his collar and his stock,
-   And placed his wicked head upon the handy little block.
-   The hatchet was uplifted for to settle PETER GRAY,
-   When GILBERT plainly heard a woman’s voice exclaiming, “Stay!”
+And placed his wicked head upon the handy little block.
+The hatchet was uplifted for to settle PETER GRAY,
+When GILBERT plainly heard a woman’s voice exclaiming, “Stay!”
 
    ’Twas ANNIE, gentle ANNIE, as you’ll easily believe.
    “O GILBERT, you must spare him, for I bring him a reprieve,
@@ -3301,11 +3131,9 @@ A LEGEND OF STRATFORD-LE-BOW.
    “In anger at my secret (which I could not tell before),
    To lacerate poor PETER GRAY vindictively you swore;
    I told you if you used that blunted axe you’d rue the day,
-   And so you will, young GILBERT, for I’ll marry PETER GRAY!”
+And so you will, young GILBERT, for I’ll marry PETER GRAY!”
 
-                                                        [_And so she did_.
-
-
+[_And so she did_.
 
 
 AN UNFORTUNATE LIKENESS.
@@ -3435,8 +3263,6 @@ AN UNFORTUNATE LIKENESS.
       Had I a face of common wont:
    Don’t envy me—now, be advised!”
       And, now I think of it, I don’t!
-
-
 
 
 THE KING OF CANOODLE-DUM.
@@ -3569,8 +3395,6 @@ THE KING OF CANOODLE-DUM.
       HUM PICKETY WIMPLE TIP.
 
 
-
-
 THE MARTINET.
 
 
@@ -3700,8 +3524,6 @@ THE MARTINET.
       The saucy _Mantelpiece_.
 
 
-
-
 THE SAILOR BOY TO HIS LASS.
 
 
@@ -3821,8 +3643,6 @@ THE SAILOR BOY TO HIS LASS.
       Of what I’ve had to do, MATILDA,
    And be assured that I’ve endured
       It, all along of you, MATILDA!
-
-
 
 
 THE REVEREND SIMON MAGUS.
@@ -3949,8 +3769,6 @@ THE REVEREND SIMON MAGUS.
    Converting that unhappy Jew!”
 
 
-
-
 MY DREAM.
 
 
@@ -4070,8 +3888,6 @@ MY DREAM.
    I ought to do extremely well.
 
 
-
-
 THE BISHOP OF RUM-TI-FOO AGAIN.
 
 
@@ -4173,8 +3989,6 @@ THE BISHOP OF RUM-TI-FOO AGAIN.
    A little PETER’ll be on view;
    And that (if people tell me true)
       Is like to happen soon.
-
-
 
 
 THE HAUGHTY ACTOR.
@@ -4319,8 +4133,6 @@ THE HAUGHTY ACTOR.
          The papers praised him greatly.
 
 
-
-
 THE TWO MAJORS.
 
 
@@ -4430,8 +4242,6 @@ THE TWO MAJORS.
       Are reposing in peace in his skull.
 
 
-
-
 EMILY, JOHN, JAMES, AND I.
 A DERBY LEGEND.
 
@@ -4537,8 +4347,6 @@ A DERBY LEGEND.
       Though EMILY pleaded hard;
    And JOHNNY had EMILY JANE to wife
       (And I am a doggerel bard).
-
-
 
 
 THE PERILS OF INVISIBILITY.
@@ -4658,8 +4466,6 @@ THE PERILS OF INVISIBILITY.
    Resolved to train, and train, and train,
    Until he weighs twelve stone’ or so—
    And when he does, I’ll let you know.
-
-
 
 
 THE MYSTIC SELVAGEE.
@@ -4787,8 +4593,6 @@ THE MYSTIC SELVAGEE.
             Farewell, old JASPER!
 
 
-
-
 PHRENOLOGY.
 
 
@@ -4901,8 +4705,6 @@ PHRENOLOGY.
       (Phrenology had nettled it),
    He took that Bart. in charge—
       I don’t know how they settled it.
-
-
 
 
 THE FAIRY CURATE.
@@ -5080,8 +4882,6 @@ THE FAIRY CURATE.
    And became a Mormon!
 
 
-
-
 THE WAY OF WOOING.
 
 
@@ -5136,8 +4936,6 @@ THE WAY OF WOOING.
    “With pretty young maidens who can choose,
    ’T is not so much the gallant who woos,
       As the gallant’s _way_ of wooing!”
-
-
 
 
 HONGREE AND MAHRY.
@@ -5266,8 +5064,6 @@ A RECOLLECTION OF A SURREY MELODRAMA.
    To HONGREE, Sub-Lieutenant of Chassoores.
 
 
-
-
 ETIQUETTE. {243}
 
 
@@ -5284,12 +5080,12 @@ ETIQUETTE. {243}
    These passengers, by reason of their clinging to a mast,
    Upon a desert island were eventually cast.
    They hunted for their meals, as ALEXANDER SELKIRK used,
-   But they couldn’t chat together—they had not been introduced.
+But they couldn’t chat together—they had not been introduced.
 
-   For PETER GRAY, and SOMERS too, though certainly in trade,
-   Were properly particular about the friends they made;
-   And somehow thus they settled it without a word of mouth—
-   That GRAY should take the northern half, while SOMERS took the south.
+For PETER GRAY, and SOMERS too, though certainly in trade,
+Were properly particular about the friends they made;
+And somehow thus they settled it without a word of mouth—
+That GRAY should take the northern half, while SOMERS took the south.
 
    On PETER’S portion oysters grew—a delicacy rare,
    But oysters were a delicacy PETER couldn’t bear.
@@ -5299,12 +5095,12 @@ ETIQUETTE. {243}
    GRAY gnashed his teeth with envy as he saw a mighty store
    Of turtle unmolested on his fellow-creature’s shore.
    The oysters at his feet aside impatiently he shoved,
-   For turtle and his mother were the only things he loved.
+For turtle and his mother were the only things he loved.
 
-   And SOMERS sighed in sorrow as he settled in the south,
-   For the thought of PETER’S oysters brought the water to his mouth.
-   He longed to lay him down upon the shelly bed, and stuff:
-   He had often eaten oysters, but had never had enough.
+And SOMERS sighed in sorrow as he settled in the south,
+For the thought of PETER’S oysters brought the water to his mouth.
+He longed to lay him down upon the shelly bed, and stuff:
+He had often eaten oysters, but had never had enough.
 
    How they wished an introduction to each other they had had
    When on board the _Ballyshannon_!  And it drove them nearly mad
@@ -5322,9 +5118,9 @@ ETIQUETTE. {243}
    Hesitated, hummed and hawed a bit, then cleared his throat, and said:
 
    “I beg your pardon—pray forgive me if I seem too bold,
-   But you have breathed a name I knew familiarly of old.
-   You spoke aloud of ROBINSON—I happened to be by.
-   You know him?”  “Yes, extremely well.”  “Allow me, so do I.”
+But you have breathed a name I knew familiarly of old.
+You spoke aloud of ROBINSON—I happened to be by.
+You know him?”  “Yes, extremely well.”  “Allow me, so do I.”
 
    It was enough: they felt they could more pleasantly get on,
    For (ah, the magic of the fact!) they each knew ROBINSON!
@@ -5342,9 +5138,9 @@ ETIQUETTE. {243}
    And all because it happened that they both knew ROBINSON!
 
    They lived for many years on that inhospitable shore,
-   And day by day they learned to love each other more and more.
-   At last, to their astonishment, on getting up one day,
-   They saw a frigate anchored in the offing of the bay.
+And day by day they learned to love each other more and more.
+At last, to their astonishment, on getting up one day,
+They saw a frigate anchored in the offing of the bay.
 
    To PETER an idea occurred.  “Suppose we cross the main?
    So good an opportunity may not be found again.”
@@ -5379,9 +5175,7 @@ ETIQUETTE. {243}
    To allocate the island they agreed by word of mouth,
    And PETER takes the north again, and SOMERS takes the south;
    And PETER has the oysters, which he hates, in layers thick,
-   And SOMERS has the turtle—turtle always makes him sick.
-
-
+And SOMERS has the turtle—turtle always makes him sick.
 
 
 AT A PANTOMIME.
@@ -5474,8 +5268,6 @@ BY A BILIOUS ONE.
       For the Transformation Scene.
 
 
-
-
 HAUNTED.
 
 
@@ -5552,52 +5344,40 @@ HAUNTED.
       As an irreclaimable fogy.
 
 
-
-
 FOOTNOTES
 
 
-{1}  Apart from a few illustrations on the title page the 140
-illustrations have not yet been scanned for this transcription.  They
-will appear in due time.—DP.
+{1}  Apart from a few illustrations on the title page the 140 illustrations have not yet been scanned for this transcription.  They will appear in due time.—DP.
 
 {44}  A version of this ballad is published as a Song, by Mr. Jeffreys,
 Soho Square.
 
-{59}  This ballad is published as a Song, under the title “If,” by
-Messrs. Cramer and Co.
+{59}  This ballad is published as a Song, under the title “If,” by Messrs. Cramer and Co.
 
-{156a}  “Go with me to a Notary—seal me there
-Your single bond.”—_Merchant of Venice_, Act I., sc. 3.
+{156a}  “Go with me to a Notary—seal me there Your single bond.”—_Merchant of Venice_, Act I., sc. 3.
 
-{156b}  “And there shall she, at Friar Lawrence’ cell,
-Be shrived and married.”—_Romeo and Juliet_, Act II., sc. 4.
+{156b}  “And there shall she, at Friar Lawrence’ cell, Be shrived and married.”—_Romeo and Juliet_, Act II., sc. 4.
 
 {156c}  “And give the fasting horses provender.”—_Henry the Fifth_, Act
 IV., sc. 2.
 
-{156d}  “Let us, like merchants, show our foulest wares.”—_Troilus and
-Cressida_, Act I., sc. 3.
+{156d}  “Let us, like merchants, show our foulest wares.”—_Troilus and Cressida_, Act I., sc. 3.
 
 {156e}  “Then must the Jew be merciful.”—_Merchant of Venice_, Act IV.,
 sc. 1.
 
-{156f}  “The spring, the summer,
-The chilling autumn, angry winter, change
-Their wonted liveries.”—_Midsummer Night Dream_, Act IV., sc. 1.
+{156f}  “The spring, the summer, The chilling autumn, angry winter, change Their wonted liveries.”—_Midsummer Night Dream_, Act IV., sc. 1.
 
 {156g}  “In the county of Glo’ster, justice of the peace and _coram_.”
 
-                                  _Merry Wives of Windsor_, Act I., sc. 1.
+_Merry Wives of Windsor_, Act I., sc. 1.
 
 {156h}  “What lusty trumpet thus doth summon us?”—_King John_, Act V.,
 sc. 2.
 
-{156i}  “And I’ll provide his executioner.”—_Henry the Sixth_ (Second
-Part), Act III., sc. 1.
+{156i}  “And I’ll provide his executioner.”—_Henry the Sixth_ (Second Part), Act III., sc. 1.
 
-{156j}  “The lioness had torn some flesh away,
-Which all this while had bled.”—_As You Like It_, Act IV., sc. 3.
+{156j}  “The lioness had torn some flesh away, Which all this while had bled.”—_As You Like It_, Act IV., sc. 3.
 
 {192}  Described by MUNGO PARK.
 
@@ -5605,369 +5385,3 @@ Which all this while had bled.”—_As You Like It_, Act IV., sc. 3.
 
 {243}  Reprinted from the “The Graphic,” by permission of the
 proprietors.
-
-
-
-
-***END OF THE PROJECT GUTENBERG EBOOK FIFTY BAB BALLADS***
-
-
-******* This file should be named 757-0.txt or 757-0.zip *******
-
-
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/7/5/757
-
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org 
-
-Section 3. Information about the Project Gutenberg Literary 
-Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-

@@ -1,37 +1,3 @@
-The Project Gutenberg EBook of The Golden Threshold, by Sarojini Naidu
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The Golden Threshold
-
-Author: Sarojini Naidu
-
-Posting Date: August 30, 2008 [EBook #680]
-Release Date: October, 1996
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE GOLDEN THRESHOLD ***
-
-
-
-
-Produced by Judith Boss.
-
-
-
-
-
-
-
-
-
 THE GOLDEN THRESHOLD
 
 
@@ -40,18 +6,13 @@ BY
 SAROJINI NAIDU
 
 
-
 WITH AN INTRODUCTION BY ARTHUR SYMONS
-
-
-
 
 
 DEDICATED TO EDMUND GOSSE WHO FIRST SHOWED ME THE WAY TO THE
 GOLDEN THRESHOLD
 
 London, 1896 Hyderabad, 1905
-
 
 
 CONTENTS
@@ -103,259 +64,40 @@ POEMS
   To a Buddha seated on a Lotus
 
 
-
 INTRODUCTION
 
-It is at my persuasion that these poems are now published.  The
-earliest of them were read to me in London in 1896, when the
-writer was seventeen; the later ones were sent to me from India
-in 1904, when she was twenty-five; and they belong, I think,
-almost wholly to those two periods.  As they seemed to me to have
-an individual beauty of their own, I thought they ought to be
-published.  The writer hesitated.  "Your letter made me very
-proud and very sad," she wrote.  "Is it possible that I have
-written verses that are 'filled with beauty,' and is it possible
-that you really think them worthy of being given to the world?
-You know how high my ideal of Art is; and to me my poor casual
-little poems seem to be less than beautiful--I mean with that
-final enduring beauty that I desire."  And, in another letter,
-she writes: "I am not a poet really.  I have the vision and the
-desire, but not the voice.  If I could write just one poem full
-of beauty and the spirit of greatness, I should be exultantly
-silent for ever; but I sing just as the birds do, and my songs
-are as ephemeral."  It is for this bird-like quality of song, it
-seems to me, that they are to be valued.  They hint, in a sort of
-delicately evasive way, at a rare temperament, the temperament of
-a woman of the East, finding expression through a Western
-language and under partly Western influences.  They do not
-express the whole of that temperament; but they express, I think,
-its essence; and there is an Eastern magic in them.
+It is at my persuasion that these poems are now published.  The earliest of them were read to me in London in 1896, when the writer was seventeen; the later ones were sent to me from India in 1904, when she was twenty-five; and they belong, I think, almost wholly to those two periods.  As they seemed to me to have an individual beauty of their own, I thought they ought to be published.  The writer hesitated.  "Your letter made me very proud and very sad," she wrote.  "Is it possible that I have written verses that are 'filled with beauty,' and is it possible that you really think them worthy of being given to the world? You know how high my ideal of Art is; and to me my poor casual little poems seem to be less than beautiful--I mean with that final enduring beauty that I desire."  And, in another letter, she writes: "I am not a poet really.  I have the vision and the desire, but not the voice.  If I could write just one poem full of beauty and the spirit of greatness, I should be exultantly silent for ever; but I sing just as the birds do, and my songs are as ephemeral."  It is for this bird-like quality of song, it seems to me, that they are to be valued.  They hint, in a sort of delicately evasive way, at a rare temperament, the temperament of a woman of the East, finding expression through a Western language and under partly Western influences.  They do not express the whole of that temperament; but they express, I think, its essence; and there is an Eastern magic in them.
 
-Sarojini Chattopadhyay was born at Hyderabad on February 13,
-1879.  Her father, Dr. Aghorenath Chattopadhyay, is descended
-from the ancient family of Chattorajes of Bhramangram, who were
-noted throughout Eastern Bengal as patrons of Sanskrit learning,
-and for their practice of Yoga.  He took his degree of Doctor of
-Science at the University of Edinburgh in 1877, and afterwards
-studied brilliantly at Bonn.  On his return to India he founded
-the Nizam College at Hyderabad, and has since laboured incessantly,
-and at great personal sacrifice, in the cause of education.
+Sarojini Chattopadhyay was born at Hyderabad on February 13, 1879.  Her father, Dr. Aghorenath Chattopadhyay, is descended from the ancient family of Chattorajes of Bhramangram, who were noted throughout Eastern Bengal as patrons of Sanskrit learning, and for their practice of Yoga.  He took his degree of Doctor of Science at the University of Edinburgh in 1877, and afterwards studied brilliantly at Bonn.  On his return to India he founded the Nizam College at Hyderabad, and has since laboured incessantly, and at great personal sacrifice, in the cause of education.
 
-Sarojini was the eldest of a large family, all of whom were
-taught English at an early age.  "I," she writes, "was stubborn
-and refused to speak it.  So one day when I was nine years old my
-father punished me--the only time I was ever punished--by
-shutting me in a room alone for a whole day.  I came out of it a
-full-blown linguist.  I have never spoken any other language to
-him, or to my mother, who always speaks to me in Hindustani.  I
-don't think I had any special hankering to write poetry as a
-little child, though I was of a very fanciful and dreamy nature.
-My training under my father's eye was of a sternly scientific
-character.  He was determined that I should be a great mathematician
-or a scientist, but the poetic instinct, which I inherited from him
-and also from my mother (who wrote some lovely Bengali lyrics in her
-youth) proved stronger.  One day, when I was eleven, I was sighing
-over a sum in algebra: it WOULDN'T come right; but instead a whole
-poem came to me suddenly.  I wrote it down.
+Sarojini was the eldest of a large family, all of whom were taught English at an early age.  "I," she writes, "was stubborn and refused to speak it.  So one day when I was nine years old my father punished me--the only time I was ever punished--by shutting me in a room alone for a whole day.  I came out of it a full-blown linguist.  I have never spoken any other language to him, or to my mother, who always speaks to me in Hindustani.  I don't think I had any special hankering to write poetry as a little child, though I was of a very fanciful and dreamy nature. My training under my father's eye was of a sternly scientific character.  He was determined that I should be a great mathematician or a scientist, but the poetic instinct, which I inherited from him and also from my mother (who wrote some lovely Bengali lyrics in her youth) proved stronger.  One day, when I was eleven, I was sighing over a sum in algebra: it WOULDN'T come right; but instead a whole poem came to me suddenly.  I wrote it down.
 
-"From that day my 'poetic career' began.  At thirteen I wrote a
-long poem a la 'Lady of the Lake'--1300 lines in six days.  At
-thirteen I wrote a drama of 2000 lines, a full-fledged passionate
-thing that I began on the spur of the moment without forethought,
-just to spite my doctor who said I was very ill and must not
-touch a book.  My health broke down permanently about this time,
-and my regular studies being stopped I read voraciously.  I
-suppose the greater part of my reading was done between fourteen
-and sixteen.  I wrote a novel, I wrote fat volumes of journals; I
-took myself very seriously in those days."
+"From that day my 'poetic career' began.  At thirteen I wrote a long poem a la 'Lady of the Lake'--1300 lines in six days.  At thirteen I wrote a drama of 2000 lines, a full-fledged passionate thing that I began on the spur of the moment without forethought, just to spite my doctor who said I was very ill and must not touch a book.  My health broke down permanently about this time, and my regular studies being stopped I read voraciously.  I suppose the greater part of my reading was done between fourteen and sixteen.  I wrote a novel, I wrote fat volumes of journals; I took myself very seriously in those days."
 
-Before she was fifteen the great struggle of her life began.  Dr.
-Govindurajulu Naidu, now her husband, is, though of an old and
-honourable family, not a Brahmin.  The difference of caste roused
-an equal opposition, not only on the side of her family, but of
-his; and in 1895 she was sent to England, against her will, with
-a special scholarship from the Nizam.  She remained in England,
-with an interval of travel in Italy, till 1898, studying first at
-King's College, London, then, till her health again broke down,
-at Girton.  She returned to Hyderabad in September 1898, and in
-the December of that year, to the scandal of all India, broke
-through the bonds of caste, and married Dr. Naidu.  "Do you know
-I have some very beautiful poems floating in the air," she wrote
-to me in 1904; "and if the gods are kind I shall cast my soul
-like a net and capture them, this year.  If the gods are
-kind--and grant me a little measure of health.  It is all I need
-to make my life perfect, for the very 'Spirit of Delight' that
-Shelley wrote of dwells in my little home; it is full of the
-music of birds in the garden and children in the long arched
-verandah."  There are songs about the children in this book; they
-are called the Lord of Battles, the Sun of Victory, the
-Lotus-born, and the Jewel of Delight.
+Before she was fifteen the great struggle of her life began.  Dr. Govindurajulu Naidu, now her husband, is, though of an old and honourable family, not a Brahmin.  The difference of caste roused an equal opposition, not only on the side of her family, but of his; and in 1895 she was sent to England, against her will, with a special scholarship from the Nizam.  She remained in England, with an interval of travel in Italy, till 1898, studying first at King's College, London, then, till her health again broke down, at Girton.  She returned to Hyderabad in September 1898, and in the December of that year, to the scandal of all India, broke through the bonds of caste, and married Dr. Naidu.  "Do you know I have some very beautiful poems floating in the air," she wrote to me in 1904; "and if the gods are kind I shall cast my soul like a net and capture them, this year.  If the gods are kind--and grant me a little measure of health.  It is all I need to make my life perfect, for the very 'Spirit of Delight' that Shelley wrote of dwells in my little home; it is full of the music of birds in the garden and children in the long arched verandah."  There are songs about the children in this book; they are called the Lord of Battles, the Sun of Victory, the Lotus-born, and the Jewel of Delight.
 
-"My ancestors for thousands of years," I find written in one of
-her letters, "have been lovers of the forest and mountain caves,
-great dreamers, great scholars, great ascetics.  My father is a
-dreamer himself, a great dreamer, a great man whose life has been
-a magnificent failure.  I suppose in the whole of India there are
-few men whose learning is greater than his, and I don't think
-there are many men more beloved.  He has a great white beard and
-the profile of Homer, and a laugh that brings the roof down.  He
-has wasted all his money on two great objects: to help others,
-and on alchemy.  He holds huge courts every day in his garden of
-all the learned men of all religions--Rajahs and beggars and
-saints and downright villains all delightfully mixed up, and all
-treated as one.  And then his alchemy!  Oh dear, night and day
-the experiments are going on, and every man who brings a new
-prescription is welcome as a brother.  But this alchemy is, you
-know, only the material counterpart of a poet's craving for
-Beauty, the eternal Beauty.  'The makers of gold and the makers
-of verse,' they are the twin creators that sway the world's
-secret desire for mystery; and what in my father is the genius of
-curiosity--the very essence of all scientific genius--in me is
-the desire for beauty.  Do you remember Pater's phrase about
-Leonardo da Vinci, 'curiosity and the desire of beauty'?"
+"My ancestors for thousands of years," I find written in one of her letters, "have been lovers of the forest and mountain caves, great dreamers, great scholars, great ascetics.  My father is a dreamer himself, a great dreamer, a great man whose life has been a magnificent failure.  I suppose in the whole of India there are few men whose learning is greater than his, and I don't think there are many men more beloved.  He has a great white beard and the profile of Homer, and a laugh that brings the roof down.  He has wasted all his money on two great objects: to help others, and on alchemy.  He holds huge courts every day in his garden of all the learned men of all religions--Rajahs and beggars and saints and downright villains all delightfully mixed up, and all treated as one.  And then his alchemy!  Oh dear, night and day the experiments are going on, and every man who brings a new prescription is welcome as a brother.  But this alchemy is, you know, only the material counterpart of a poet's craving for Beauty, the eternal Beauty.  'The makers of gold and the makers of verse,' they are the twin creators that sway the world's secret desire for mystery; and what in my father is the genius of curiosity--the very essence of all scientific genius--in me is the desire for beauty.  Do you remember Pater's phrase about Leonardo da Vinci, 'curiosity and the desire of beauty'?"
 
-It was the desire of beauty that made her a poet; her "nerves of
-delight" were always quivering at the contact of beauty.  To
-those who knew her in England, all the life of the tiny figure
-seemed to concentrate itself in the eyes; they turned towards
-beauty as the sunflower turns towards the sun, opening wider and
-wider until one saw nothing but the eyes.
+It was the desire of beauty that made her a poet; her "nerves of delight" were always quivering at the contact of beauty.  To those who knew her in England, all the life of the tiny figure seemed to concentrate itself in the eyes; they turned towards beauty as the sunflower turns towards the sun, opening wider and wider until one saw nothing but the eyes.
 
-She was dressed always in clinging dresses of Eastern silk, and
-as she was so small, and her long black hair hung straight down
-her back, you might have taken her for a child.  She spoke
-little, and in a low voice, like gentle music; and she seemed,
-wherever she was, to be alone.
+She was dressed always in clinging dresses of Eastern silk, and as she was so small, and her long black hair hung straight down her back, you might have taken her for a child.  She spoke little, and in a low voice, like gentle music; and she seemed, wherever she was, to be alone.
 
-Through that soul I seemed to touch and take hold upon the East.
-And first there was the wisdom of the East. I have never known
-any one who seemed to exist on such "large draughts of intellectual
-day" as this child of seventeen, to whom one could tell all one's
-personal troubles and agitations, as to a wise old woman.  In the
-East, maturity comes early; and this child had already lived through
-all a woman's life.  But there was something else, something hardly
-personal, something which belonged to a consciousness older than the
-Christian, which I realised, wondered at, and admired, in her passionate
-tranquillity of mind, before which everything mean and trivial and
-temporary caught fire and burnt away in smoke.  Her body was never
-without suffering, or her heart without conflict; but neither the
-body's weakness nor the heart's violence could disturb that fixed
-contemplation, as of Buddha on his lotus-throne.
+Through that soul I seemed to touch and take hold upon the East. And first there was the wisdom of the East. I have never known any one who seemed to exist on such "large draughts of intellectual day" as this child of seventeen, to whom one could tell all one's personal troubles and agitations, as to a wise old woman.  In the East, maturity comes early; and this child had already lived through all a woman's life.  But there was something else, something hardly personal, something which belonged to a consciousness older than the Christian, which I realised, wondered at, and admired, in her passionate tranquillity of mind, before which everything mean and trivial and temporary caught fire and burnt away in smoke.  Her body was never without suffering, or her heart without conflict; but neither the body's weakness nor the heart's violence could disturb that fixed contemplation, as of Buddha on his lotus-throne.
 
-And along with this wisdom, as of age or of the age of a race,
-there was what I can hardly call less than an agony of sensation.
-Pain or pleasure transported her, and the whole of pain or
-pleasure might be held in a flower's cup or the imagined frown of
-a friend.  It was never found in those things which to others
-seemed things of importance.  At the age of twelve she passed the
-Matriculation of the Madras University, and awoke to find herself
-famous throughout India.  "Honestly," she said to me, "I was not
-pleased; such things did not appeal to me."  But here, in a
-letter from Hyderabad, bidding one "share a March morning" with
-her, there is, at the mere contact of the sun, this outburst:
-"Come and share my exquisite March morning with me: this
-sumptuous blaze of gold and sapphire sky; these scarlet lilies
-that adorn the sunshine; the voluptuous scents of neem and
-champak and serisha that beat upon the languid air with their
-implacable sweetness; the thousand little gold and blue and
-silver breasted birds bursting with the shrill ecstasy of life in
-nesting time. All is hot and fierce and passionate, ardent and
-unashamed in its exulting and importunate desire for life and
-love. And, do you know that the scarlet lilies are woven petal by
-petal from my heart's blood, these little quivering birds are my
-soul made incarnate music, these heavy perfumes are my emotions
-dissolved into aerial essence, this flaming blue and gold sky is
-the 'very me,' that part of me that incessantly and insolently,
-yes, and a little deliberately, triumphs over that other part--a
-thing of nerves and tissues that suffers and cries out, and that
-must die to-morrow perhaps, or twenty years hence."
+And along with this wisdom, as of age or of the age of a race, there was what I can hardly call less than an agony of sensation. Pain or pleasure transported her, and the whole of pain or pleasure might be held in a flower's cup or the imagined frown of a friend.  It was never found in those things which to others seemed things of importance.  At the age of twelve she passed the Matriculation of the Madras University, and awoke to find herself famous throughout India.  "Honestly," she said to me, "I was not pleased; such things did not appeal to me."  But here, in a letter from Hyderabad, bidding one "share a March morning" with her, there is, at the mere contact of the sun, this outburst: "Come and share my exquisite March morning with me: this sumptuous blaze of gold and sapphire sky; these scarlet lilies that adorn the sunshine; the voluptuous scents of neem and champak and serisha that beat upon the languid air with their implacable sweetness; the thousand little gold and blue and silver breasted birds bursting with the shrill ecstasy of life in nesting time. All is hot and fierce and passionate, ardent and unashamed in its exulting and importunate desire for life and love. And, do you know that the scarlet lilies are woven petal by petal from my heart's blood, these little quivering birds are my soul made incarnate music, these heavy perfumes are my emotions dissolved into aerial essence, this flaming blue and gold sky is the 'very me,' that part of me that incessantly and insolently, yes, and a little deliberately, triumphs over that other part--a thing of nerves and tissues that suffers and cries out, and that must die to-morrow perhaps, or twenty years hence."
 
-Then there was her humour, which was part of her strange wisdom,
-and was always awake and on the watch.  In all her letters,
-written in exquisite English prose, but with an ardent imagery
-and a vehement sincerity of emotion which make them, like the
-poems, indeed almost more directly, un-English, Oriental, there
-was always this intellectual, critical sense of humour, which
-could laugh at one's own enthusiasm as frankly as that enthusiasm
-had been set down.  And partly the humour, like the delicate
-reserve of her manner, was a mask or a shelter.  "I have taught
-myself," she writes to me from India, "to be commonplace and like
-everybody else superficially.  Every one thinks I am so nice and
-cheerful, so 'brave,' all the banal things that are so comfortable
-to be.  My mother knows me only as 'such a tranquil child, but so
-strong-willed.'  A tranquil child!" And she writes again, with deeper
-significance: "I too have learnt the subtle philosophy of living from
-moment to moment.  Yes, it is a subtle philosophy, though it appears
-merely an epicurean doctrine: 'Eat, drink, and be merry, for
-to-morrow we die.'  I have gone through so many yesterdays when I
-strove with Death that I have realised to its full the wisdom of that
-sentence; and it is to me not merely a figure of speech, but a
-literal fact.  Any to-morrow I might die.  It is scarcely two months
-since I came back from the grave:  is it worth while to be anything
-but radiantly glad? Of all things that life or perhaps my temperament
-has given me I prize the gift of laughter as beyond price."
+Then there was her humour, which was part of her strange wisdom, and was always awake and on the watch.  In all her letters, written in exquisite English prose, but with an ardent imagery and a vehement sincerity of emotion which make them, like the poems, indeed almost more directly, un-English, Oriental, there was always this intellectual, critical sense of humour, which could laugh at one's own enthusiasm as frankly as that enthusiasm had been set down.  And partly the humour, like the delicate reserve of her manner, was a mask or a shelter.  "I have taught myself," she writes to me from India, "to be commonplace and like everybody else superficially.  Every one thinks I am so nice and cheerful, so 'brave,' all the banal things that are so comfortable to be.  My mother knows me only as 'such a tranquil child, but so strong-willed.'  A tranquil child!" And she writes again, with deeper significance: "I too have learnt the subtle philosophy of living from moment to moment.  Yes, it is a subtle philosophy, though it appears merely an epicurean doctrine: 'Eat, drink, and be merry, for to-morrow we die.'  I have gone through so many yesterdays when I strove with Death that I have realised to its full the wisdom of that sentence; and it is to me not merely a figure of speech, but a literal fact.  Any to-morrow I might die.  It is scarcely two months since I came back from the grave:  is it worth while to be anything but radiantly glad? Of all things that life or perhaps my temperament has given me I prize the gift of laughter as beyond price."
 
-Her desire, always, was to be "a wild free thing of the air like
-the birds, with a song in my heart."  A spirit of too much fire
-in too frail a body, it was rarely that her desire was fully
-granted.  But in Italy she found what she could not find in
-England, and from Italy her letters are radiant.  "This Italy is
-made of gold," she writes from Florence, "the gold of dawn and
-daylight, the gold of the stars, and, now dancing in weird
-enchanting rhythms through this magic month of May, the gold of
-fireflies in the perfumed darkness--'aerial gold.'  I long to
-catch the subtle music of their fairy dances and make a poem with
-a rhythm like the quick irregular wild flash of their sudden
-movements.  Would it not be wonderful?  One black night I stood
-in a garden with fireflies in my hair like darting restless stars
-caught in a mesh of darkness.  It gave me a strange sensation, as
-if I were not human at all, but an elfin spirit.  I wonder why
-these little things move me so deeply?  It is because I have a
-most 'unbalanced intellect,' I suppose."  Then, looking out on
-Florence, she cries, "God! how beautiful it is, and how glad I am
-that I am alive to-day!"  And she tells me that she is drinking
-in the beauty like wine, "wine, golden and scented, and shining,
-fit for the gods; and the gods have drunk it, the dead gods of
-Etruria, two thousand years ago.  Did I say dead?  No, for the
-gods are immortal, and one might still find them loitering in
-some solitary dell on the grey hillsides of Fiesole.  Have I seen
-them?  Yes, looking with dreaming eyes, I have found them sitting
-under the olives, in their grave, strong, antique beauty--Etruscan
-gods!"
+Her desire, always, was to be "a wild free thing of the air like the birds, with a song in my heart."  A spirit of too much fire in too frail a body, it was rarely that her desire was fully granted.  But in Italy she found what she could not find in England, and from Italy her letters are radiant.  "This Italy is made of gold," she writes from Florence, "the gold of dawn and daylight, the gold of the stars, and, now dancing in weird enchanting rhythms through this magic month of May, the gold of fireflies in the perfumed darkness--'aerial gold.'  I long to catch the subtle music of their fairy dances and make a poem with a rhythm like the quick irregular wild flash of their sudden movements.  Would it not be wonderful?  One black night I stood in a garden with fireflies in my hair like darting restless stars caught in a mesh of darkness.  It gave me a strange sensation, as if I were not human at all, but an elfin spirit.  I wonder why these little things move me so deeply?  It is because I have a most 'unbalanced intellect,' I suppose."  Then, looking out on Florence, she cries, "God! how beautiful it is, and how glad I am that I am alive to-day!"  And she tells me that she is drinking in the beauty like wine, "wine, golden and scented, and shining, fit for the gods; and the gods have drunk it, the dead gods of Etruria, two thousand years ago.  Did I say dead?  No, for the gods are immortal, and one might still find them loitering in some solitary dell on the grey hillsides of Fiesole.  Have I seen them?  Yes, looking with dreaming eyes, I have found them sitting under the olives, in their grave, strong, antique beauty--Etruscan gods!"
 
-In Italy she watches the faces of the monks, and at one moment
-longs to attain to their peace by renunciation, longs for Nirvana;
-"then, when one comes out again into the hot sunshine that warms
-one's blood, and sees the eager hurrying faces of men and women
-in the street, dramatic faces over which the disturbing experiences
-of life have passed and left their symbols, one's heart thrills up
-into one's throat.  No, no, no, a thousand times no! how can one
-deliberately renounce this coloured, unquiet, fiery human life of
-the earth?"  And, all the time, her subtle criticism is alert, and
-this woman of the East marvels at the women of the West, "the
-beautiful worldly women of the West," whom she sees walking in the
-Cascine, "taking the air so consciously attractive in their brilliant
-toilettes, in the brilliant coquetry of their manner!"  She finds
-them "a little incomprehensible," "profound artists in all the subtle
-intricacies of fascination," and asks if these "incalculable
-frivolities and vanities and coquetries and caprices" are, to us,
-an essential part of their charm?  And she watches them with
-amusement as they flutter about her, petting her as if she were a
-nice child, a child or a toy, not dreaming that she is saying to
-herself sorrowfully:  "How utterly empty their lives must be of
-all spiritual beauty IF they are nothing more than they appear to be."
+In Italy she watches the faces of the monks, and at one moment longs to attain to their peace by renunciation, longs for Nirvana; "then, when one comes out again into the hot sunshine that warms one's blood, and sees the eager hurrying faces of men and women in the street, dramatic faces over which the disturbing experiences of life have passed and left their symbols, one's heart thrills up into one's throat.  No, no, no, a thousand times no! how can one deliberately renounce this coloured, unquiet, fiery human life of the earth?"  And, all the time, her subtle criticism is alert, and this woman of the East marvels at the women of the West, "the beautiful worldly women of the West," whom she sees walking in the Cascine, "taking the air so consciously attractive in their brilliant toilettes, in the brilliant coquetry of their manner!"  She finds them "a little incomprehensible," "profound artists in all the subtle intricacies of fascination," and asks if these "incalculable frivolities and vanities and coquetries and caprices" are, to us, an essential part of their charm?  And she watches them with amusement as they flutter about her, petting her as if she were a nice child, a child or a toy, not dreaming that she is saying to herself sorrowfully:  "How utterly empty their lives must be of all spiritual beauty IF they are nothing more than they appear to be."
 
-She sat in our midst, and judged us, and few knew what was
-passing behind that face "like an awakening soul," to use one of
-her own epithets.  Her eyes were like deep pools, and you seemed
-to fall through them into depths below depths.
+She sat in our midst, and judged us, and few knew what was passing behind that face "like an awakening soul," to use one of her own epithets.  Her eyes were like deep pools, and you seemed to fall through them into depths below depths.
 
 ARTHUR SYMONS.
 
 
-
 FOLK SONGS
-
 
 
 PALANQUIN BEARERS
@@ -375,10 +117,9 @@ PALANQUIN BEARERS
   We bear her along like a pearl on a string.
 
 
-
 WANDERING SINGERS
 
-  (Written to one of their Tunes)
+(Written to one of their Tunes)
 
   Where the voice of the wind calls our wandering feet,
   Through echoing forest and echoing street,
@@ -394,7 +135,6 @@ WANDERING SINGERS
   Where the wind calls our wandering footsteps we go.
   No love bids us tarry, no joy bids us wait:
   The voice of the wind is the voice of our fate.
-
 
 
 INDIAN WEAVERS
@@ -413,7 +153,6 @@ INDIAN WEAVERS
   What do you weave in the moonlight chill? . . .
   White as a feather and white as a cloud,
   We weave a dead man's funeral shroud.
-
 
 
 COROMANDEL FISHERS
@@ -446,7 +185,6 @@ COROMANDEL FISHERS
        where the low sky mates with the sea.
 
 
-
 THE SNAKE-CHARMER
 
   Whither dost thou hide from the magic of my flute-call?
@@ -463,7 +201,6 @@ THE SNAKE-CHARMER
   Where oleanders scatter their ambrosial fire?
   Come, thou subtle bride of my mellifluous wooing,
   Come, thou silver-breasted moonbeam of desire!
-
 
 
 CORN-GRINDERS
@@ -503,7 +240,6 @@ CORN-GRINDERS
   Alas! alas! my lord is dead.
 
 
-
 VILLAGE-SONG
 
   Honey, child, honey, child, whither are you going?
@@ -522,10 +258,9 @@ VILLAGE-SONG
   Your bridal cakes are on the hearth: O whither are you going?
 
   The bridal-songs and cradle-songs have cadences of sorrow,
-  The laughter of the sun to-day, the wind of death to-morrow.
-  Far sweeter sound the forest-notes where forest-streams are falling;
-  O mother mine, I cannot stay, the fairy-folk are calling.
-
+The laughter of the sun to-day, the wind of death to-morrow.
+Far sweeter sound the forest-notes where forest-streams are falling;
+O mother mine, I cannot stay, the fairy-folk are calling.
 
 
 IN PRAISE OF HENNA
@@ -549,10 +284,9 @@ IN PRAISE OF HENNA
   The red, the red of the henna-tree.
 
 
-
 HARVEST HYMN
 
-       Men's Voices
+Men's Voices
 
   Lord of the lotus, lord of the harvest,
   Bright and munificent lord of the morn!
@@ -573,7 +307,7 @@ HARVEST HYMN
   We praise thee, Varuna, with cymbal and pipe.
 
 
-       Women's Voices
+Women's Voices
 
   Queen of the gourd-flower, queen of the harvest,
   Sweet and omnipotent mother, O Earth!
@@ -585,7 +319,7 @@ HARVEST HYMN
   We praise thee, O Prithvi, with cymbal and drum.
 
 
-       All Voices
+All Voices
 
   Lord of the Universe, Lord of our being,
   Father eternal, ineffable Om!
@@ -597,10 +331,9 @@ HARVEST HYMN
   We praise thee, O Bramha, with cymbal and prayer.
 
 
-
 INDIAN LOVE-SONG
 
-      She
+She
 
   Like a serpent to the calling voice of flutes,
   Glides my heart into thy fingers, O my Love!
@@ -610,7 +343,7 @@ INDIAN LOVE-SONG
   Bright parrots cluster like vermilion flowers.
 
 
-       He
+He
 
   Like the perfume in the petals of a rose,
   Hides thy heart within my bosom, O my love!
@@ -618,7 +351,6 @@ INDIAN LOVE-SONG
   That hangs its nest in the asoka-tree.
   Lie still, O love, until the morning sows
   Her tents of gold on fields of ivory.
-
 
 
 CRADLE-SONG
@@ -645,7 +377,6 @@ CRADLE-SONG
   A little lovely dream.
 
 
-
 SUTTEE
 
   Lamp of my life, the lips of Death
@@ -662,7 +393,6 @@ SUTTEE
   Hath severed us like a broken word,
   Rent us in twain who are but one . .
   Shall the flesh survive when the soul is gone?
-
 
 
 SONGS FOR MUSIC
@@ -687,26 +417,24 @@ SONG OF A DREAM
   In that magical wood in the land of sleep.
 
 
-
 HUMAYUN TO ZOBEIDA
 
-  (From the Urdu)
+(From the Urdu)
 
-  You flaunt your beauty in the rose, your glory in the dawn,
-  Your sweetness in the nightingale, your whiteness in the swan.
+You flaunt your beauty in the rose, your glory in the dawn,
+Your sweetness in the nightingale, your whiteness in the swan.
 
-  You haunt my waking like a dream, my slumber like a moon,
-  Pervade me like a musky scent, possess me like a tune.
+You haunt my waking like a dream, my slumber like a moon,
+Pervade me like a musky scent, possess me like a tune.
 
-  Yet, when I crave of you, my sweet, one tender moment's grace,
-  You cry, "I SIT BEHIND THE VEIL, I CANNOT SHOW MY FACE."
+Yet, when I crave of you, my sweet, one tender moment's grace,
+You cry, "I SIT BEHIND THE VEIL, I CANNOT SHOW MY FACE."
 
   Shall any foolish veil divide my longing from my bliss?
   Shall any fragile curtain hide your beauty from my kiss?
 
   What war is this of THEE and ME? Give o'er the wanton strife,
-  You are the heart within my heart, the life within my life.
-
+You are the heart within my heart, the life within my life.
 
 
 AUTUMN SONG
@@ -724,7 +452,6 @@ AUTUMN SONG
      And why should I stay behind?
 
 
-
 ALABASTER
 
   Like this alabaster box whose art
@@ -736,7 +463,6 @@ ALABASTER
   Of rich and passionate memories blent
   Like odours of cinnamon, sandal and clove,
   Of song and sorrow and life and love.
-
 
 
 ECSTASY
@@ -752,7 +478,6 @@ ECSTASY
   And the burden of love, like the grace
      Of a flower that is smitten with rain:
   O shelter my soul from thy face!
-
 
 
 TO MY FAIRY FANCIES
@@ -774,12 +499,11 @@ TO MY FAIRY FANCIES
            Fly away!
 
 
-
 POEMS
 
-  ODE TO H.H. THE NIZAM OF HYDERABAD
+ODE TO H.H. THE NIZAM OF HYDERABAD
 
-  (Presented at the Ramzan Durbar)
+(Presented at the Ramzan Durbar)
 
   Deign, Prince, my tribute to receive,
   This lyric offering to your name,
@@ -828,7 +552,6 @@ POEMS
   Your music on a nation's tongue.
 
 
-
 LEILI
 
   The serpents are asleep among the poppies,
@@ -846,7 +569,6 @@ LEILI
   And make the gods their incense-offering.
 
 
-
 IN THE FOREST
 
   Here, O my heart, let us burn the dear dreams that are dead,
@@ -862,8 +584,7 @@ IN THE FOREST
   But soon we must rise, O my heart, we must wander again
   Into the war of the world and the strife of the throng;
   Let us rise, O my heart, let us gather the dreams that remain,
-  We will conquer the sorrow of life with the  sorrow of song.
-
+We will conquer the sorrow of life with the  sorrow of song.
 
 
 PAST AND FUTURE
@@ -881,7 +602,6 @@ PAST AND FUTURE
   Like a strange, fated bride as yet unknown,
   His timid future shrinking there alone,
   Beneath her marriage-veil of mysteries.
-
 
 
 LIFE
@@ -904,7 +624,6 @@ LIFE
   Children, ye have not lived: for this is life.
 
 
-
 THE POET'S LOVE-SONG
 
   In noon-tide hours, O Love, secure and strong,
@@ -920,7 +639,6 @@ THE POET'S LOVE-SONG
   And my soul hungers for thy voice, O then,
      Love, like the magic of wild melodies,
      Let thy soul answer mine across the seas.
-
 
 
 TO THE GOD OF PAIN
@@ -949,11 +667,10 @@ TO THE GOD OF PAIN
   To some dim shade and sink me down to sleep.
 
 
-
 THE SONG OF PRINCESS ZEB-UN-NISSA
-  IN PRAISE OF HER OWN BEAUTY
+IN PRAISE OF HER OWN BEAUTY
 
-  (From the Persian)
+(From the Persian)
 
   When from my cheek I lift my veil,
   The roses turn with envy pale,
@@ -969,7 +686,6 @@ THE SONG OF PRINCESS ZEB-UN-NISSA
   (Such loveliness is mine) a throng
        Of nightingales awake and strain
   Their souls into a quivering song.
-
 
 
 INDIAN DANCERS
@@ -1004,7 +720,6 @@ INDIAN DANCERS
         what passionate bosoms aflaming with fire!
 
 
-
 MY DEAD DREAM
 
   Have you found me, at last, O my Dream?
@@ -1035,10 +750,9 @@ MY DEAD DREAM
        clefts of my heart.
 
 
-
 DAMAYANTE TO NALA IN THE HOUR OF EXILE
 
-  (A fragment)
+(A fragment)
 
   Shalt thou be conquered of a human fate
   My liege, my lover, whose imperial head
@@ -1071,7 +785,6 @@ DAMAYANTE TO NALA IN THE HOUR OF EXILE
   Of Hope's triumphant keen flame-carven sword?
 
 
-
 THE QUEEN'S RIVAL
 
   QUEEN Gulnaar sat on her ivory bed,
@@ -1102,7 +815,7 @@ THE QUEEN'S RIVAL
   "Give me a rival, O King Feroz."
 
 
-  II
+II
 
   King Feroz spoke to his Chief Vizier:
   "Lo! ere to-morrow's dawn be here,
@@ -1135,7 +848,7 @@ THE QUEEN'S RIVAL
   "Where is my rival, O King Feroz?"
 
 
-  III
+III
 
   When spring winds wakened the mountain floods,
   And kindled the flame of the tulip buds,
@@ -1164,7 +877,6 @@ THE QUEEN'S RIVAL
   "Here is my rival, O King Feroz."
 
 
-
 THE POET TO DEATH
 
   Tarry a while, O Death, I cannot die
@@ -1181,7 +893,6 @@ THE POET TO DEATH
   Of love and grief, of earth and altering sky;
   Till all my human hungers are fulfilled,
   O Death, I cannot die!
-
 
 
 THE INDIAN GIPSY
@@ -1205,10 +916,9 @@ THE INDIAN GIPSY
   And drinks of life at Time's forgotten source.
 
 
-
 TO MY CHILDREN
 
-  Jaya Surya, aetat 4
+Jaya Surya, aetat 4
 
   Golden sun of victory, born
   In my life's unclouded morn,
@@ -1220,7 +930,7 @@ TO MY CHILDREN
   Sun of song and liberty.
 
 
-  Padmaja, aetat 3
+Padmaja, aetat 3
 
   Lotus-maiden, you who claim
   All the sweetness of your name,
@@ -1232,7 +942,7 @@ TO MY CHILDREN
   Fragrant of all ecstasy.
 
 
-  Ranadheera, aetat 2
+Ranadheera, aetat 2
 
   Little lord of battle, hail
   In your newly-tempered mail!
@@ -1244,7 +954,7 @@ TO MY CHILDREN
   Lord of love and chivalry.
 
 
-  Lilamani, aetat 1
+Lilamani, aetat 1
 
   Limpid jewel of delight
   Severed from the tender night
@@ -1254,7 +964,6 @@ TO MY CHILDREN
   In love's magic coronet.
   Living jewel, may you be
   Laughter-bound and sorrow-free.
-
 
 
 THE PARDAH NASHIN
@@ -1281,7 +990,6 @@ THE PARDAH NASHIN
   Or shield a woman's eyes from tears?
 
 
-
 TO YOUTH
 
   O Youth, sweet comrade Youth, wouldst thou be gone?
@@ -1298,7 +1006,6 @@ TO YOUTH
   But, O beloved comrade, ere we part,
   Upon my mournful eyelids and my brow
   Kiss me who hold thine image in my heart.
-
 
 
 NIGHTFALL IN THE CITY OF HYDERABAD
@@ -1325,7 +1032,6 @@ NIGHTFALL IN THE CITY OF HYDERABAD
   Borne like a queen to a sumptuous festival.
 
 
-
 STREET CRIES
 
   When dawn's first cymbals beat upon the sky,
@@ -1347,8 +1053,7 @@ STREET CRIES
   When lutes are strung and fragrant torches lit
   On white roof-terraces where lovers sit
   Drinking together of life's poignant sweet,
-  BUY FLOWERS, BUY FLOWERS, floats down the singing street.
-
+BUY FLOWERS, BUY FLOWERS, floats down the singing street.
 
 
 TO INDIA
@@ -1367,7 +1072,6 @@ TO INDIA
   To crescent honours, splendours, victories vast;
   Waken, O slumbering Mother and be crowned,
   Who once wert empress of the sovereign Past.
-
 
 
 THE ROYAL TOMBS OF GOLCONDA
@@ -1398,7 +1102,6 @@ THE ROYAL TOMBS OF GOLCONDA
   Their songs of your renascent loves;
   Your beauty wakens with the spring
   To kindle these pomegranate groves.
-
 
 
 TO A BUDDHA SEATED ON A LOTUS
@@ -1440,376 +1143,4 @@ TO A BUDDHA SEATED ON A LOTUS
   Nirvana of thy Lotus-throne?
 
 
-
 [end]
-
-
-
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of The Golden Threshold, by Sarojini Naidu
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE GOLDEN THRESHOLD ***
-
-***** This file should be named 680.txt or 680.zip *****
-This and all associated files of various formats will be found in:
-        https://www.gutenberg.org/6/8/680/
-
-Produced by Judith Boss.
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-https://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at https://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at https://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit https://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: https://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     https://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

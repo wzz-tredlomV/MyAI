@@ -1,31 +1,3 @@
-﻿The Project Gutenberg eBook of La Divina Commedia di Dante: Paradiso, by Dante Alighieri
-
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org. If you are not located in the United States, you
-will have to check the laws of the country where you are located before
-using this eBook.
-
-Title: La Divina Commedia di Dante
-       Paradiso
-
-Author: Dante Alighieri
-
-Release Date: August, 1997 [eBook #999]
-[Most recently updated: April 25, 2021]
-
-Language: Italian
-
-Character set encoding: UTF-8
-
-
-*** START OF THE PROJECT GUTENBERG EBOOK LA DIVINA COMMEDIA ***
-
-
-
-
 LA DIVINA COMMEDIA
 
 di Dante Alighieri
@@ -35,56 +7,50 @@ CANTICA III: PARADISO
 
 Contents
 
- PARADISO
- Canto I. 
- Canto II. 
- Canto III. 
- Canto IV. 
- Canto V. 
- Canto VI. 
- Canto VII. 
- Canto VIII. 
- Canto IX. 
- Canto X. 
- Canto XI. 
- Canto XII. 
- Canto XIII. 
- Canto XIV. 
- Canto XV. 
- Canto XVI. 
- Canto XVII. 
- Canto XVIII. 
- Canto XIX. 
- Canto XX. 
- Canto XXI. 
- Canto XXII. 
- Canto XXIII. 
- Canto XXIV. 
- Canto XXV. 
- Canto XXVI. 
- Canto XXVII. 
- Canto XXVIII. 
- Canto XXIX. 
- Canto XXX. 
- Canto XXXI. 
- Canto XXXII. 
- Canto XXXIII.
-
-
+PARADISO
+Canto I.
+Canto II.
+Canto III.
+Canto IV.
+Canto V.
+Canto VI.
+Canto VII.
+Canto VIII.
+Canto IX.
+Canto X.
+Canto XI.
+Canto XII.
+Canto XIII.
+Canto XIV.
+Canto XV.
+Canto XVI.
+Canto XVII.
+Canto XVIII.
+Canto XIX.
+Canto XX.
+Canto XXI.
+Canto XXII.
+Canto XXIII.
+Canto XXIV.
+Canto XXV.
+Canto XXVI.
+Canto XXVII.
+Canto XXVIII.
+Canto XXIX.
+Canto XXX.
+Canto XXXI.
+Canto XXXII.
+Canto XXXIII.
 
 
 PARADISO
-
-
 
 
 Paradiso
 Canto I
 
 
-La gloria di colui che tutto move
-per l’universo penetra, e risplende
-in una parte più e meno altrove.
+La gloria di colui che tutto move per l’universo penetra, e risplende in una parte più e meno altrove.
 
 Nel ciel che più de la sua luce prende
 fu’ io, e vidi cose che ridire
@@ -94,21 +60,13 @@ perché appressando sé al suo disire,
 nostro intelletto si profonda tanto,
 che dietro la memoria non può ire.
 
-Veramente quant’ io del regno santo
-ne la mia mente potei far tesoro,
-sarà ora materia del mio canto.
+Veramente quant’ io del regno santo ne la mia mente potei far tesoro, sarà ora materia del mio canto.
 
-O buono Appollo, a l’ultimo lavoro
-fammi del tuo valor sì fatto vaso,
-come dimandi a dar l’amato alloro.
+O buono Appollo, a l’ultimo lavoro fammi del tuo valor sì fatto vaso, come dimandi a dar l’amato alloro.
 
-Infino a qui l’un giogo di Parnaso
-assai mi fu; ma or con amendue
-m’è uopo intrar ne l’aringo rimaso.
+Infino a qui l’un giogo di Parnaso assai mi fu; ma or con amendue m’è uopo intrar ne l’aringo rimaso.
 
-Entra nel petto mio, e spira tue
-sì come quando Marsïa traesti
-de la vagina de le membra sue.
+Entra nel petto mio, e spira tue sì come quando Marsïa traesti de la vagina de le membra sue.
 
 O divina virtù, se mi ti presti
 tanto che l’ombra del beato regno
@@ -126,9 +84,7 @@ che parturir letizia in su la lieta
 delfica deïtà dovria la fronda
 peneia, quando alcun di sé asseta.
 
-Poca favilla gran fiamma seconda:
-forse di retro a me con miglior voci
-si pregherà perché Cirra risponda.
+Poca favilla gran fiamma seconda: forse di retro a me con miglior voci si pregherà perché Cirra risponda.
 
 Surge ai mortali per diverse foci
 la lucerna del mondo; ma da quella
@@ -154,9 +110,7 @@ così de l’atto suo, per li occhi infuso
 ne l’imagine mia, il mio si fece,
 e fissi li occhi al sole oltre nostr’ uso.
 
-Molto è licito là, che qui non lece
-a le nostre virtù, mercé del loco
-fatto per proprio de l’umana spece.
+Molto è licito là, che qui non lece a le nostre virtù, mercé del loco fatto per proprio de l’umana spece.
 
 Io nol soffersi molto, né sì poco,
 ch’io nol vedessi sfavillar dintorno,
@@ -166,21 +120,13 @@ e di sùbito parve giorno a giorno
 essere aggiunto, come quei che puote
 avesse il ciel d’un altro sole addorno.
 
-Beatrice tutta ne l’etterne rote
-fissa con li occhi stava; e io in lei
-le luci fissi, di là sù rimote.
+Beatrice tutta ne l’etterne rote fissa con li occhi stava; e io in lei le luci fissi, di là sù rimote.
 
-Nel suo aspetto tal dentro mi fei,
-qual si fé Glauco nel gustar de l’erba
-che ’l fé consorto in mar de li altri dèi.
+Nel suo aspetto tal dentro mi fei, qual si fé Glauco nel gustar de l’erba che ’l fé consorto in mar de li altri dèi.
 
-Trasumanar significar per verba
-non si poria; però l’essemplo basti
-a cui esperïenza grazia serba.
+Trasumanar significar per verba non si poria; però l’essemplo basti a cui esperïenza grazia serba.
 
-S’i’ era sol di me quel che creasti
-novellamente, amor che ’l ciel governi,
-tu ’l sai, che col tuo lume mi levasti.
+S’i’ era sol di me quel che creasti novellamente, amor che ’l ciel governi, tu ’l sai, che col tuo lume mi levasti.
 
 Quando la rota che tu sempiterni
 desiderato, a sé mi fece atteso
@@ -190,9 +136,7 @@ parvemi tanto allor del cielo acceso
 de la fiamma del sol, che pioggia o fiume
 lago non fece alcun tanto disteso.
 
-La novità del suono e ’l grande lume
-di lor cagion m’accesero un disio
-mai non sentito di cotanto acume.
+La novità del suono e ’l grande lume di lor cagion m’accesero un disio mai non sentito di cotanto acume.
 
 Ond’ ella, che vedea me sì com’ io,
 a quïetarmi l’animo commosso,
@@ -202,9 +146,7 @@ e cominciò: «Tu stesso ti fai grosso
 col falso imaginar, sì che non vedi
 ciò che vedresti se l’avessi scosso.
 
-Tu non se’ in terra, sì come tu credi;
-ma folgore, fuggendo il proprio sito,
-non corse come tu ch’ad esso riedi».
+Tu non se’ in terra, sì come tu credi; ma folgore, fuggendo il proprio sito, non corse come tu ch’ad esso riedi».
 
 S’io fui del primo dubbio disvestito
 per le sorrise parolette brevi,
@@ -222,9 +164,7 @@ e cominciò: «Le cose tutte quante
 hanno ordine tra loro, e questo è forma
 che l’universo a Dio fa simigliante.
 
-Qui veggion l’alte creature l’orma
-de l’etterno valore, il qual è fine
-al quale è fatta la toccata norma.
+Qui veggion l’alte creature l’orma de l’etterno valore, il qual è fine al quale è fatta la toccata norma.
 
 Ne l’ordine ch’io dico sono accline
 tutte nature, per diverse sorti,
@@ -262,17 +202,11 @@ e sì come veder si può cadere
 foco di nube, sì l’impeto primo
 l’atterra torto da falso piacere.
 
-Non dei più ammirar, se bene stimo,
-lo tuo salir, se non come d’un rivo
-se d’alto monte scende giuso ad imo.
+Non dei più ammirar, se bene stimo, lo tuo salir, se non come d’un rivo se d’alto monte scende giuso ad imo.
 
-Maraviglia sarebbe in te se, privo
-d’impedimento, giù ti fossi assiso,
-com’ a terra quïete in foco vivo».
+Maraviglia sarebbe in te se, privo d’impedimento, giù ti fossi assiso, com’ a terra quïete in foco vivo».
 
 Quinci rivolse inver’ lo cielo il viso.
-
-
 
 
 Paradiso
@@ -287,9 +221,7 @@ tornate a riveder li vostri liti:
 non vi mettete in pelago, ché forse,
 perdendo me, rimarreste smarriti.
 
-L’acqua ch’io prendo già mai non si corse;
-Minerva spira, e conducemi Appollo,
-e nove Muse mi dimostran l’Orse.
+L’acqua ch’io prendo già mai non si corse; Minerva spira, e conducemi Appollo, e nove Muse mi dimostran l’Orse.
 
 Voialtri pochi che drizzaste il collo
 per tempo al pan de li angeli, del quale
@@ -299,13 +231,9 @@ metter potete ben per l’alto sale
 vostro navigio, servando mio solco
 dinanzi a l’acqua che ritorna equale.
 
-Que’ glorïosi che passaro al Colco
-non s’ammiraron come voi farete,
-quando Iasón vider fatto bifolco.
+Que’ glorïosi che passaro al Colco non s’ammiraron come voi farete, quando Iasón vider fatto bifolco.
 
-La concreata e perpetüa sete
-del deïforme regno cen portava
-veloci quasi come ’l ciel vedete.
+La concreata e perpetüa sete del deïforme regno cen portava veloci quasi come ’l ciel vedete.
 
 Beatrice in suso, e io in lei guardava;
 e forse in tanto in quanto un quadrel posa
@@ -319,13 +247,9 @@ volta ver’ me, sì lieta come bella,
 «Drizza la mente in Dio grata», mi disse,
 «che n’ha congiunti con la prima stella».
 
-Parev’ a me che nube ne coprisse
-lucida, spessa, solida e pulita,
-quasi adamante che lo sol ferisse.
+Parev’ a me che nube ne coprisse lucida, spessa, solida e pulita, quasi adamante che lo sol ferisse.
 
-Per entro sé l’etterna margarita
-ne ricevette, com’ acqua recepe
-raggio di luce permanendo unita.
+Per entro sé l’etterna margarita ne ricevette, com’ acqua recepe raggio di luce permanendo unita.
 
 S’io era corpo, e qui non si concepe
 com’ una dimensione altra patio,
@@ -335,17 +259,11 @@ accender ne dovria più il disio
 di veder quella essenza in che si vede
 come nostra natura e Dio s’unio.
 
-Lì si vedrà ciò che tenem per fede,
-non dimostrato, ma fia per sé noto
-a guisa del ver primo che l’uom crede.
+Lì si vedrà ciò che tenem per fede, non dimostrato, ma fia per sé noto a guisa del ver primo che l’uom crede.
 
-Io rispuosi: «Madonna, sì devoto
-com’ esser posso più, ringrazio lui
-lo qual dal mortal mondo m’ha remoto.
+Io rispuosi: «Madonna, sì devoto com’ esser posso più, ringrazio lui lo qual dal mortal mondo m’ha remoto.
 
-Ma ditemi: che son li segni bui
-di questo corpo, che là giuso in terra
-fan di Cain favoleggiare altrui?».
+Ma ditemi: che son li segni bui di questo corpo, che là giuso in terra fan di Cain favoleggiare altrui?».
 
 Ella sorrise alquanto, e poi «S’elli erra
 l’oppinïon», mi disse, «d’i mortali
@@ -355,25 +273,15 @@ certo non ti dovrien punger li strali
 d’ammirazione omai, poi dietro ai sensi
 vedi che la ragione ha corte l’ali.
 
-Ma dimmi quel che tu da te ne pensi».
-E io: «Ciò che n’appar qua sù diverso
-credo che fanno i corpi rari e densi».
+Ma dimmi quel che tu da te ne pensi». E io: «Ciò che n’appar qua sù diverso credo che fanno i corpi rari e densi».
 
-Ed ella: «Certo assai vedrai sommerso
-nel falso il creder tuo, se bene ascolti
-l’argomentar ch’io li farò avverso.
+Ed ella: «Certo assai vedrai sommerso nel falso il creder tuo, se bene ascolti l’argomentar ch’io li farò avverso.
 
-La spera ottava vi dimostra molti
-lumi, li quali e nel quale e nel quanto
-notar si posson di diversi volti.
+La spera ottava vi dimostra molti lumi, li quali e nel quale e nel quanto notar si posson di diversi volti.
 
-Se raro e denso ciò facesser tanto,
-una sola virtù sarebbe in tutti,
-più e men distributa e altrettanto.
+Se raro e denso ciò facesser tanto, una sola virtù sarebbe in tutti, più e men distributa e altrettanto.
 
-Virtù diverse esser convegnon frutti
-di princìpi formali, e quei, for ch’uno,
-seguiterieno a tua ragion distrutti.
+Virtù diverse esser convegnon frutti di princìpi formali, e quei, for ch’uno, seguiterieno a tua ragion distrutti.
 
 Ancor, se raro fosse di quel bruno
 cagion che tu dimandi, o d’oltre in parte
@@ -383,13 +291,9 @@ esto pianeto, o, sì come comparte
 lo grasso e ’l magro un corpo, così questo
 nel suo volume cangerebbe carte.
 
-Se ’l primo fosse, fora manifesto
-ne l’eclissi del sol, per trasparere
-lo lume come in altro raro ingesto.
+Se ’l primo fosse, fora manifesto ne l’eclissi del sol, per trasparere lo lume come in altro raro ingesto.
 
-Questo non è: però è da vedere
-de l’altro; e s’elli avvien ch’io l’altro cassi,
-falsificato fia lo tuo parere.
+Questo non è: però è da vedere de l’altro; e s’elli avvien ch’io l’altro cassi, falsificato fia lo tuo parere.
 
 S’elli è che questo raro non trapassi,
 esser conviene un termine da onde
@@ -399,25 +303,15 @@ e indi l’altrui raggio si rifonde
 così come color torna per vetro
 lo qual di retro a sé piombo nasconde.
 
-Or dirai tu ch’el si dimostra tetro
-ivi lo raggio più che in altre parti,
-per esser lì refratto più a retro.
+Or dirai tu ch’el si dimostra tetro ivi lo raggio più che in altre parti, per esser lì refratto più a retro.
 
-Da questa instanza può deliberarti
-esperïenza, se già mai la provi,
-ch’esser suol fonte ai rivi di vostr’ arti.
+Da questa instanza può deliberarti esperïenza, se già mai la provi, ch’esser suol fonte ai rivi di vostr’ arti.
 
-Tre specchi prenderai; e i due rimovi
-da te d’un modo, e l’altro, più rimosso,
-tr’ambo li primi li occhi tuoi ritrovi.
+Tre specchi prenderai; e i due rimovi da te d’un modo, e l’altro, più rimosso, tr’ambo li primi li occhi tuoi ritrovi.
 
-Rivolto ad essi, fa che dopo il dosso
-ti stea un lume che i tre specchi accenda
-e torni a te da tutti ripercosso.
+Rivolto ad essi, fa che dopo il dosso ti stea un lume che i tre specchi accenda e torni a te da tutti ripercosso.
 
-Ben che nel quanto tanto non si stenda
-la vista più lontana, lì vedrai
-come convien ch’igualmente risplenda.
+Ben che nel quanto tanto non si stenda la vista più lontana, lì vedrai come convien ch’igualmente risplenda.
 
 Or, come ai colpi de li caldi rai
 de la neve riman nudo il suggetto
@@ -427,25 +321,15 @@ così rimaso te ne l’intelletto
 voglio informar di luce sì vivace,
 che ti tremolerà nel suo aspetto.
 
-Dentro dal ciel de la divina pace
-si gira un corpo ne la cui virtute
-l’esser di tutto suo contento giace.
+Dentro dal ciel de la divina pace si gira un corpo ne la cui virtute l’esser di tutto suo contento giace.
 
-Lo ciel seguente, c’ha tante vedute,
-quell’ esser parte per diverse essenze,
-da lui distratte e da lui contenute.
+Lo ciel seguente, c’ha tante vedute, quell’ esser parte per diverse essenze, da lui distratte e da lui contenute.
 
-Li altri giron per varie differenze
-le distinzion che dentro da sé hanno
-dispongono a lor fini e lor semenze.
+Li altri giron per varie differenze le distinzion che dentro da sé hanno dispongono a lor fini e lor semenze.
 
-Questi organi del mondo così vanno,
-come tu vedi omai, di grado in grado,
-che di sù prendono e di sotto fanno.
+Questi organi del mondo così vanno, come tu vedi omai, di grado in grado, che di sù prendono e di sotto fanno.
 
-Riguarda bene omai sì com’ io vado
-per questo loco al vero che disiri,
-sì che poi sappi sol tener lo guado.
+Riguarda bene omai sì com’ io vado per questo loco al vero che disiri, sì che poi sappi sol tener lo guado.
 
 Lo moto e la virtù d’i santi giri,
 come dal fabbro l’arte del martello,
@@ -463,21 +347,15 @@ così l’intelligenza sua bontate
 multiplicata per le stelle spiega,
 girando sé sovra sua unitate.
 
-Virtù diversa fa diversa lega
-col prezïoso corpo ch’ella avviva,
-nel qual, sì come vita in voi, si lega.
+Virtù diversa fa diversa lega col prezïoso corpo ch’ella avviva, nel qual, sì come vita in voi, si lega.
 
-Per la natura lieta onde deriva,
-la virtù mista per lo corpo luce
-come letizia per pupilla viva.
+Per la natura lieta onde deriva, la virtù mista per lo corpo luce come letizia per pupilla viva.
 
 Da essa vien ciò che da luce a luce
 par differente, non da denso e raro;
 essa è formal principio che produce,
 
 conforme a sua bontà, lo turbo e ’l chiaro».
-
-
 
 
 Paradiso
@@ -524,9 +402,7 @@ ma te rivolve, come suole, a vòto:
 vere sustanze son ciò che tu vedi,
 qui rilegate per manco di voto.
 
-Però parla con esse e odi e credi;
-ché la verace luce che le appaga
-da sé non lascia lor torcer li piedi».
+Però parla con esse e odi e credi; ché la verace luce che le appaga da sé non lascia lor torcer li piedi».
 
 E io a l’ombra che parea più vaga
 di ragionar, drizza’mi, e cominciai,
@@ -537,12 +413,9 @@ di vita etterna la dolcezza senti
 che, non gustata, non s’intende mai,
 
 grazïoso mi fia se mi contenti
-del nome tuo e de la vostra sorte».
-Ond’ ella, pronta e con occhi ridenti:
+del nome tuo e de la vostra sorte». Ond’ ella, pronta e con occhi ridenti:
 
-«La nostra carità non serra porte
-a giusta voglia, se non come quella
-che vuol simile a sé tutta sua corte.
+«La nostra carità non serra porte a giusta voglia, se non come quella che vuol simile a sé tutta sua corte.
 
 I’ fui nel mondo vergine sorella;
 e se la mente tua ben sé riguarda,
@@ -552,13 +425,9 @@ ma riconoscerai ch’i’ son Piccarda,
 che, posta qui con questi altri beati,
 beata sono in la spera più tarda.
 
-Li nostri affetti, che solo infiammati
-son nel piacer de lo Spirito Santo,
-letizian del suo ordine formati.
+Li nostri affetti, che solo infiammati son nel piacer de lo Spirito Santo, letizian del suo ordine formati.
 
-E questa sorte che par giù cotanto,
-però n’è data, perché fuor negletti
-li nostri voti, e vòti in alcun canto».
+E questa sorte che par giù cotanto, però n’è data, perché fuor negletti li nostri voti, e vòti in alcun canto».
 
 Ond’ io a lei: «Ne’ mirabili aspetti
 vostri risplende non so che divino
@@ -568,9 +437,7 @@ però non fui a rimembrar festino;
 ma or m’aiuta ciò che tu mi dici,
 sì che raffigurar m’è più latino.
 
-Ma dimmi: voi che siete qui felici,
-disiderate voi più alto loco
-per più vedere e per più farvi amici?».
+Ma dimmi: voi che siete qui felici, disiderate voi più alto loco per più vedere e per più farvi amici?».
 
 Con quelle altr’ ombre pria sorrise un poco;
 da indi mi rispuose tanto lieta,
@@ -596,13 +463,9 @@ sì che, come noi sem di soglia in soglia
 per questo regno, a tutto il regno piace
 com’ a lo re che ’n suo voler ne ’nvoglia.
 
-E ’n la sua volontade è nostra pace:
-ell’ è quel mare al qual tutto si move
-ciò ch’ella crïa o che natura face».
+E ’n la sua volontade è nostra pace: ell’ è quel mare al qual tutto si move ciò ch’ella crïa o che natura face».
 
-Chiaro mi fu allor come ogne dove
-in cielo è paradiso, etsi la grazia
-del sommo ben d’un modo non vi piove.
+Chiaro mi fu allor come ogne dove in cielo è paradiso, etsi la grazia del sommo ben d’un modo non vi piove.
 
 Ma sì com’ elli avvien, s’un cibo sazia
 e d’un altro rimane ancor la gola,
@@ -620,13 +483,9 @@ perché fino al morir si vegghi e dorma
 con quello sposo ch’ogne voto accetta
 che caritate a suo piacer conforma.
 
-Dal mondo, per seguirla, giovinetta
-fuggi’mi, e nel suo abito mi chiusi
-e promisi la via de la sua setta.
+Dal mondo, per seguirla, giovinetta fuggi’mi, e nel suo abito mi chiusi e promisi la via de la sua setta.
 
-Uomini poi, a mal più ch’a bene usi,
-fuor mi rapiron de la dolce chiostra:
-Iddio si sa qual poi mia vita fusi.
+Uomini poi, a mal più ch’a bene usi, fuor mi rapiron de la dolce chiostra: Iddio si sa qual poi mia vita fusi.
 
 E quest’ altro splendor che ti si mostra
 da la mia destra parte e che s’accende
@@ -636,17 +495,11 @@ ciò ch’io dico di me, di sé intende;
 sorella fu, e così le fu tolta
 di capo l’ombra de le sacre bende.
 
-Ma poi che pur al mondo fu rivolta
-contra suo grado e contra buona usanza,
-non fu dal vel del cor già mai disciolta.
+Ma poi che pur al mondo fu rivolta contra suo grado e contra buona usanza, non fu dal vel del cor già mai disciolta.
 
-Quest’ è la luce de la gran Costanza
-che del secondo vento di Soave
-generò ’l terzo e l’ultima possanza».
+Quest’ è la luce de la gran Costanza che del secondo vento di Soave generò ’l terzo e l’ultima possanza».
 
-Così parlommi, e poi cominciò ‘Ave,
-Maria’ cantando, e cantando vanio
-come per acqua cupa cosa grave.
+Così parlommi, e poi cominciò ‘Ave, Maria’ cantando, e cantando vanio come per acqua cupa cosa grave.
 
 La vista mia, che tanto lei seguio
 quanto possibil fu, poi che la perse,
@@ -657,8 +510,6 @@ ma quella folgorò nel mïo sguardo
 sì che da prima il viso non sofferse;
 
 e ciò mi fece a dimandar più tardo.
-
-
 
 
 Paradiso
@@ -677,9 +528,7 @@ per che, s’i’ mi tacea, me non riprendo,
 da li miei dubbi d’un modo sospinto,
 poi ch’era necessario, né commendo.
 
-Io mi tacea, ma ’l mio disir dipinto
-m’era nel viso, e ’l dimandar con ello,
-più caldo assai che per parlar distinto.
+Io mi tacea, ma ’l mio disir dipinto m’era nel viso, e ’l dimandar con ello, più caldo assai che per parlar distinto.
 
 Fé sì Beatrice qual fé Danïello,
 Nabuccodonosor levando d’ira,
@@ -689,17 +538,11 @@ e disse: «Io veggio ben come ti tira
 uno e altro disio, sì che tua cura
 sé stessa lega sì che fuor non spira.
 
-Tu argomenti: “Se ’l buon voler dura,
-la vïolenza altrui per qual ragione
-di meritar mi scema la misura?”.
+Tu argomenti: “Se ’l buon voler dura, la vïolenza altrui per qual ragione di meritar mi scema la misura?”.
 
-Ancor di dubitar ti dà cagione
-parer tornarsi l’anime a le stelle,
-secondo la sentenza di Platone.
+Ancor di dubitar ti dà cagione parer tornarsi l’anime a le stelle, secondo la sentenza di Platone.
 
-Queste son le question che nel tuo velle
-pontano igualmente; e però pria
-tratterò quella che più ha di felle.
+Queste son le question che nel tuo velle pontano igualmente; e però pria tratterò quella che più ha di felle.
 
 D’i Serafin colui che più s’india,
 Moïsè, Samuel, e quel Giovanni
@@ -713,13 +556,9 @@ ma tutti fanno bello il primo giro,
 e differentemente han dolce vita
 per sentir più e men l’etterno spiro.
 
-Qui si mostraro, non perché sortita
-sia questa spera lor, ma per far segno
-de la celestïal c’ha men salita.
+Qui si mostraro, non perché sortita sia questa spera lor, ma per far segno de la celestïal c’ha men salita.
 
-Così parlar conviensi al vostro ingegno,
-però che solo da sensato apprende
-ciò che fa poscia d’intelletto degno.
+Così parlar conviensi al vostro ingegno, però che solo da sensato apprende ciò che fa poscia d’intelletto degno.
 
 Per questo la Scrittura condescende
 a vostra facultate, e piedi e mano
@@ -729,9 +568,7 @@ e Santa Chiesa con aspetto umano
 Gabrïel e Michel vi rappresenta,
 e l’altro che Tobia rifece sano.
 
-Quel che Timeo de l’anime argomenta
-non è simile a ciò che qui si vede,
-però che, come dice, par che senta.
+Quel che Timeo de l’anime argomenta non è simile a ciò che qui si vede, però che, come dice, par che senta.
 
 Dice che l’alma a la sua stella riede,
 credendo quella quindi esser decisa
@@ -741,25 +578,15 @@ e forse sua sentenza è d’altra guisa
 che la voce non suona, ed esser puote
 con intenzion da non esser derisa.
 
-S’elli intende tornare a queste ruote
-l’onor de la influenza e ’l biasmo, forse
-in alcun vero suo arco percuote.
+S’elli intende tornare a queste ruote l’onor de la influenza e ’l biasmo, forse in alcun vero suo arco percuote.
 
-Questo principio, male inteso, torse
-già tutto il mondo quasi, sì che Giove,
-Mercurio e Marte a nominar trascorse.
+Questo principio, male inteso, torse già tutto il mondo quasi, sì che Giove, Mercurio e Marte a nominar trascorse.
 
-L’altra dubitazion che ti commove
-ha men velen, però che sua malizia
-non ti poria menar da me altrove.
+L’altra dubitazion che ti commove ha men velen, però che sua malizia non ti poria menar da me altrove.
 
-Parere ingiusta la nostra giustizia
-ne li occhi d’i mortali, è argomento
-di fede e non d’eretica nequizia.
+Parere ingiusta la nostra giustizia ne li occhi d’i mortali, è argomento di fede e non d’eretica nequizia.
 
-Ma perché puote vostro accorgimento
-ben penetrare a questa veritate,
-come disiri, ti farò contento.
+Ma perché puote vostro accorgimento ben penetrare a questa veritate, come disiri, ti farò contento.
 
 Se vïolenza è quando quel che pate
 nïente conferisce a quel che sforza,
@@ -769,9 +596,7 @@ ché volontà, se non vuol, non s’ammorza,
 ma fa come natura face in foco,
 se mille volte vïolenza il torza.
 
-Per che, s’ella si piega assai o poco,
-segue la forza; e così queste fero
-possendo rifuggir nel santo loco.
+Per che, s’ella si piega assai o poco, segue la forza; e così queste fero possendo rifuggir nel santo loco.
 
 Se fosse stato lor volere intero,
 come tenne Lorenzo in su la grada,
@@ -781,13 +606,9 @@ così l’avria ripinte per la strada
 ond’ eran tratte, come fuoro sciolte;
 ma così salda voglia è troppo rada.
 
-E per queste parole, se ricolte
-l’hai come dei, è l’argomento casso
-che t’avria fatto noia ancor più volte.
+E per queste parole, se ricolte l’hai come dei, è l’argomento casso che t’avria fatto noia ancor più volte.
 
-Ma or ti s’attraversa un altro passo
-dinanzi a li occhi, tal che per te stesso
-non usciresti: pria saresti lasso.
+Ma or ti s’attraversa un altro passo dinanzi a li occhi, tal che per te stesso non usciresti: pria saresti lasso.
 
 Io t’ho per certo ne la mente messo
 ch’alma beata non poria mentire,
@@ -805,21 +626,13 @@ come Almeone, che, di ciò pregato
 dal padre suo, la propria madre spense,
 per non perder pietà si fé spietato.
 
-A questo punto voglio che tu pense
-che la forza al voler si mischia, e fanno
-sì che scusar non si posson l’offense.
+A questo punto voglio che tu pense che la forza al voler si mischia, e fanno sì che scusar non si posson l’offense.
 
-Voglia assoluta non consente al danno;
-ma consentevi in tanto in quanto teme,
-se si ritrae, cadere in più affanno.
+Voglia assoluta non consente al danno; ma consentevi in tanto in quanto teme, se si ritrae, cadere in più affanno.
 
-Però, quando Piccarda quello spreme,
-de la voglia assoluta intende, e io
-de l’altra; sì che ver diciamo insieme».
+Però, quando Piccarda quello spreme, de la voglia assoluta intende, e io de l’altra; sì che ver diciamo insieme».
 
-Cotal fu l’ondeggiar del santo rio
-ch’uscì del fonte ond’ ogne ver deriva;
-tal puose in pace uno e altro disio.
+Cotal fu l’ondeggiar del santo rio ch’uscì del fonte ond’ ogne ver deriva; tal puose in pace uno e altro disio.
 
 «O amanza del primo amante, o diva»,
 diss’ io appresso, «il cui parlar m’inonda
@@ -829,33 +642,21 @@ non è l’affezion mia tanto profonda,
 che basti a render voi grazia per grazia;
 ma quei che vede e puote a ciò risponda.
 
-Io veggio ben che già mai non si sazia
-nostro intelletto, se ’l ver non lo illustra
-di fuor dal qual nessun vero si spazia.
+Io veggio ben che già mai non si sazia nostro intelletto, se ’l ver non lo illustra di fuor dal qual nessun vero si spazia.
 
-Posasi in esso, come fera in lustra,
-tosto che giunto l’ha; e giugner puollo:
-se non, ciascun disio sarebbe frustra.
+Posasi in esso, come fera in lustra, tosto che giunto l’ha; e giugner puollo: se non, ciascun disio sarebbe frustra.
 
-Nasce per quello, a guisa di rampollo,
-a piè del vero il dubbio; ed è natura
-ch’al sommo pinge noi di collo in collo.
+Nasce per quello, a guisa di rampollo, a piè del vero il dubbio; ed è natura ch’al sommo pinge noi di collo in collo.
 
-Questo m’invita, questo m’assicura
-con reverenza, donna, a dimandarvi
-d’un’altra verità che m’è oscura.
+Questo m’invita, questo m’assicura con reverenza, donna, a dimandarvi d’un’altra verità che m’è oscura.
 
-Io vo’ saper se l’uom può sodisfarvi
-ai voti manchi sì con altri beni,
-ch’a la vostra statera non sien parvi».
+Io vo’ saper se l’uom può sodisfarvi ai voti manchi sì con altri beni, ch’a la vostra statera non sien parvi».
 
 Beatrice mi guardò con li occhi pieni
 di faville d’amor così divini,
 che, vinta, mia virtute diè le reni,
 
 e quasi mi perdei con li occhi chini.
-
-
 
 
 Paradiso
@@ -878,9 +679,7 @@ e s’altra cosa vostro amor seduce,
 non è se non di quella alcun vestigio,
 mal conosciuto, che quivi traluce.
 
-Tu vuo’ saper se con altro servigio,
-per manco voto, si può render tanto
-che l’anima sicuri di letigio».
+Tu vuo’ saper se con altro servigio, per manco voto, si può render tanto che l’anima sicuri di letigio».
 
 Sì cominciò Beatrice questo canto;
 e sì com’ uom che suo parlar non spezza,
@@ -902,9 +701,7 @@ ché, nel fermar tra Dio e l’omo il patto,
 vittima fassi di questo tesoro,
 tal quale io dico; e fassi col suo atto.
 
-Dunque che render puossi per ristoro?
-Se credi bene usar quel c’hai offerto,
-di maltolletto vuo’ far buon lavoro.
+Dunque che render puossi per ristoro? Se credi bene usar quel c’hai offerto, di maltolletto vuo’ far buon lavoro.
 
 Tu se’ omai del maggior punto certo;
 ma perché Santa Chiesa in ciò dispensa,
@@ -914,13 +711,9 @@ convienti ancor sedere un poco a mensa,
 però che ’l cibo rigido c’hai preso,
 richiede ancora aiuto a tua dispensa.
 
-Apri la mente a quel ch’io ti paleso
-e fermalvi entro; ché non fa scïenza,
-sanza lo ritenere, avere inteso.
+Apri la mente a quel ch’io ti paleso e fermalvi entro; ché non fa scïenza, sanza lo ritenere, avere inteso.
 
-Due cose si convegnono a l’essenza
-di questo sacrificio: l’una è quella
-di che si fa; l’altr’ è la convenenza.
+Due cose si convegnono a l’essenza di questo sacrificio: l’una è quella di che si fa; l’altr’ è la convenenza.
 
 Quest’ ultima già mai non si cancella
 se non servata; e intorno di lei
@@ -930,9 +723,7 @@ però necessitato fu a li Ebrei
 pur l’offerere, ancor ch’alcuna offerta
 sì permutasse, come saver dei.
 
-L’altra, che per materia t’è aperta,
-puote ben esser tal, che non si falla
-se con altra materia si converta.
+L’altra, che per materia t’è aperta, puote ben esser tal, che non si falla se con altra materia si converta.
 
 Ma non trasmuti carco a la sua spalla
 per suo arbitrio alcun, sanza la volta
@@ -942,9 +733,7 @@ e ogne permutanza credi stolta,
 se la cosa dimessa in la sorpresa
 come ’l quattro nel sei non è raccolta.
 
-Però qualunque cosa tanto pesa
-per suo valor che tragga ogne bilancia,
-sodisfar non si può con altra spesa.
+Però qualunque cosa tanto pesa per suo valor che tragga ogne bilancia, sodisfar non si può con altra spesa.
 
 Non prendan li mortali il voto a ciancia;
 siate fedeli, e a ciò far non bieci,
@@ -958,13 +747,9 @@ onde pianse Efigènia il suo bel volto,
 e fé pianger di sé i folli e i savi
 ch’udir parlar di così fatto cólto.
 
-Siate, Cristiani, a muovervi più gravi:
-non siate come penna ad ogne vento,
-e non crediate ch’ogne acqua vi lavi.
+Siate, Cristiani, a muovervi più gravi: non siate come penna ad ogne vento, e non crediate ch’ogne acqua vi lavi.
 
-Avete il novo e ’l vecchio Testamento,
-e ’l pastor de la Chiesa che vi guida;
-questo vi basti a vostro salvamento.
+Avete il novo e ’l vecchio Testamento, e ’l pastor de la Chiesa che vi guida; questo vi basti a vostro salvamento.
 
 Se mala cupidigia altro vi grida,
 uomini siate, e non pecore matte,
@@ -974,9 +759,7 @@ Non fate com’ agnel che lascia il latte
 de la sua madre, e semplice e lascivo
 seco medesmo a suo piacer combatte!».
 
-Così Beatrice a me com’ ïo scrivo;
-poi si rivolse tutta disïante
-a quella parte ove ’l mondo è più vivo.
+Così Beatrice a me com’ ïo scrivo; poi si rivolse tutta disïante a quella parte ove ’l mondo è più vivo.
 
 Lo suo tacere e ’l trasmutar sembiante
 puoser silenzio al mio cupido ingegno,
@@ -986,9 +769,7 @@ e sì come saetta che nel segno
 percuote pria che sia la corda queta,
 così corremmo nel secondo regno.
 
-Quivi la donna mia vid’ io sì lieta,
-come nel lume di quel ciel si mise,
-che più lucente se ne fé ’l pianeta.
+Quivi la donna mia vid’ io sì lieta, come nel lume di quel ciel si mise, che più lucente se ne fé ’l pianeta.
 
 E se la stella si cambiò e rise,
 qual mi fec’ io che pur da mia natura
@@ -1002,9 +783,7 @@ sì vid’ io ben più di mille splendori
 trarsi ver’ noi, e in ciascun s’udia:
 «Ecco chi crescerà li nostri amori».
 
-E sì come ciascuno a noi venìa,
-vedeasi l’ombra piena di letizia
-nel folgór chiaro che di lei uscia.
+E sì come ciascuno a noi venìa, vedeasi l’ombra piena di letizia nel folgór chiaro che di lei uscia.
 
 Pensa, lettor, se quel che qui s’inizia
 non procedesse, come tu avresti
@@ -1022,9 +801,7 @@ del lume che per tutto il ciel si spazia
 noi semo accesi; e però, se disii
 di noi chiarirti, a tuo piacer ti sazia».
 
-Così da un di quelli spirti pii
-detto mi fu; e da Beatrice: «Dì, dì
-sicuramente, e credi come a dii».
+Così da un di quelli spirti pii detto mi fu; e da Beatrice: «Dì, dì sicuramente, e credi come a dii».
 
 «Io veggio ben sì come tu t’annidi
 nel proprio lume, e che de li occhi il traggi,
@@ -1034,9 +811,7 @@ ma non so chi tu se’, né perché aggi,
 anima degna, il grado de la spera
 che si vela a’ mortai con altrui raggi».
 
-Questo diss’ io diritto a la lumera
-che pria m’avea parlato; ond’ ella fessi
-lucente più assai di quel ch’ell’ era.
+Questo diss’ io diritto a la lumera che pria m’avea parlato; ond’ ella fessi lucente più assai di quel ch’ell’ era.
 
 Sì come il sol che si cela elli stessi
 per troppa luce, come ’l caldo ha róse
@@ -1047,8 +822,6 @@ dentro al suo raggio la figura santa;
 e così chiusa chiusa mi rispuose
 
 nel modo che ’l seguente canto canta.
-
-
 
 
 Paradiso
@@ -1067,9 +840,7 @@ e sotto l’ombra de le sacre penne
 governò ’l mondo lì di mano in mano,
 e, sì cangiando, in su la mia pervenne.
 
-Cesare fui e son Iustinïano,
-che, per voler del primo amor ch’i’ sento,
-d’entro le leggi trassi il troppo e ’l vano.
+Cesare fui e son Iustinïano, che, per voler del primo amor ch’i’ sento, d’entro le leggi trassi il troppo e ’l vano.
 
 E prima ch’io a l’ovra fossi attento,
 una natura in Cristo esser, non piùe,
@@ -1079,9 +850,7 @@ ma ’l benedetto Agapito, che fue
 sommo pastore, a la fede sincera
 mi dirizzò con le parole sue.
 
-Io li credetti; e ciò che ’n sua fede era,
-vegg’ io or chiaro sì, come tu vedi
-ogni contradizione e falsa e vera.
+Io li credetti; e ciò che ’n sua fede era, vegg’ io or chiaro sì, come tu vedi ogni contradizione e falsa e vera.
 
 Tosto che con la Chiesa mossi i piedi,
 a Dio per grazia piacque di spirarmi
@@ -1099,17 +868,11 @@ perché tu veggi con quanta ragione
 si move contr’ al sacrosanto segno
 e chi ’l s’appropria e chi a lui s’oppone.
 
-Vedi quanta virtù l’ha fatto degno
-di reverenza; e cominciò da l’ora
-che Pallante morì per darli regno.
+Vedi quanta virtù l’ha fatto degno di reverenza; e cominciò da l’ora che Pallante morì per darli regno.
 
-Tu sai ch’el fece in Alba sua dimora
-per trecento anni e oltre, infino al fine
-che i tre a’ tre pugnar per lui ancora.
+Tu sai ch’el fece in Alba sua dimora per trecento anni e oltre, infino al fine che i tre a’ tre pugnar per lui ancora.
 
-E sai ch’el fé dal mal de le Sabine
-al dolor di Lucrezia in sette regi,
-vincendo intorno le genti vicine.
+E sai ch’el fé dal mal de le Sabine al dolor di Lucrezia in sette regi, vincendo intorno le genti vicine.
 
 Sai quel ch’el fé portato da li egregi
 Romani incontro a Brenno, incontro a Pirro,
@@ -1119,49 +882,27 @@ onde Torquato e Quinzio, che dal cirro
 negletto fu nomato, i Deci e ’ Fabi
 ebber la fama che volontier mirro.
 
-Esso atterrò l’orgoglio de li Aràbi
-che di retro ad Anibale passaro
-l’alpestre rocce, Po, di che tu labi.
+Esso atterrò l’orgoglio de li Aràbi che di retro ad Anibale passaro l’alpestre rocce, Po, di che tu labi.
 
-Sott’ esso giovanetti trïunfaro
-Scipïone e Pompeo; e a quel colle
-sotto ’l qual tu nascesti parve amaro.
+Sott’ esso giovanetti trïunfaro Scipïone e Pompeo; e a quel colle sotto ’l qual tu nascesti parve amaro.
 
-Poi, presso al tempo che tutto ’l ciel volle
-redur lo mondo a suo modo sereno,
-Cesare per voler di Roma il tolle.
+Poi, presso al tempo che tutto ’l ciel volle redur lo mondo a suo modo sereno, Cesare per voler di Roma il tolle.
 
-E quel che fé da Varo infino a Reno,
-Isara vide ed Era e vide Senna
-e ogne valle onde Rodano è pieno.
+E quel che fé da Varo infino a Reno, Isara vide ed Era e vide Senna e ogne valle onde Rodano è pieno.
 
-Quel che fé poi ch’elli uscì di Ravenna
-e saltò Rubicon, fu di tal volo,
-che nol seguiteria lingua né penna.
+Quel che fé poi ch’elli uscì di Ravenna e saltò Rubicon, fu di tal volo, che nol seguiteria lingua né penna.
 
-Inver’ la Spagna rivolse lo stuolo,
-poi ver’ Durazzo, e Farsalia percosse
-sì ch’al Nil caldo si sentì del duolo.
+Inver’ la Spagna rivolse lo stuolo, poi ver’ Durazzo, e Farsalia percosse sì ch’al Nil caldo si sentì del duolo.
 
-Antandro e Simeonta, onde si mosse,
-rivide e là dov’ Ettore si cuba;
-e mal per Tolomeo poscia si scosse.
+Antandro e Simeonta, onde si mosse, rivide e là dov’ Ettore si cuba; e mal per Tolomeo poscia si scosse.
 
-Da indi scese folgorando a Iuba;
-onde si volse nel vostro occidente,
-ove sentia la pompeana tuba.
+Da indi scese folgorando a Iuba; onde si volse nel vostro occidente, ove sentia la pompeana tuba.
 
-Di quel che fé col baiulo seguente,
-Bruto con Cassio ne l’inferno latra,
-e Modena e Perugia fu dolente.
+Di quel che fé col baiulo seguente, Bruto con Cassio ne l’inferno latra, e Modena e Perugia fu dolente.
 
-Piangene ancor la trista Cleopatra,
-che, fuggendoli innanzi, dal colubro
-la morte prese subitana e atra.
+Piangene ancor la trista Cleopatra, che, fuggendoli innanzi, dal colubro la morte prese subitana e atra.
 
-Con costui corse infino al lito rubro;
-con costui puose il mondo in tanta pace,
-che fu serrato a Giano il suo delubro.
+Con costui corse infino al lito rubro; con costui puose il mondo in tanta pace, che fu serrato a Giano il suo delubro.
 
 Ma ciò che ’l segno che parlar mi face
 fatto avea prima e poi era fatturo
@@ -1175,21 +916,13 @@ ché la viva giustizia che mi spira,
 li concedette, in mano a quel ch’i’ dico,
 gloria di far vendetta a la sua ira.
 
-Or qui t’ammira in ciò ch’io ti replìco:
-poscia con Tito a far vendetta corse
-de la vendetta del peccato antico.
+Or qui t’ammira in ciò ch’io ti replìco: poscia con Tito a far vendetta corse de la vendetta del peccato antico.
 
-E quando il dente longobardo morse
-la Santa Chiesa, sotto le sue ali
-Carlo Magno, vincendo, la soccorse.
+E quando il dente longobardo morse la Santa Chiesa, sotto le sue ali Carlo Magno, vincendo, la soccorse.
 
-Omai puoi giudicar di quei cotali
-ch’io accusai di sopra e di lor falli,
-che son cagion di tutti vostri mali.
+Omai puoi giudicar di quei cotali ch’io accusai di sopra e di lor falli, che son cagion di tutti vostri mali.
 
-L’uno al pubblico segno i gigli gialli
-oppone, e l’altro appropria quello a parte,
-sì ch’è forte a veder chi più si falli.
+L’uno al pubblico segno i gigli gialli oppone, e l’altro appropria quello a parte, sì ch’è forte a veder chi più si falli.
 
 Faccian li Ghibellin, faccian lor arte
 sott’ altro segno, ché mal segue quello
@@ -1211,29 +944,17 @@ e quando li disiri poggian quivi,
 sì disvïando, pur convien che i raggi
 del vero amore in sù poggin men vivi.
 
-Ma nel commensurar d’i nostri gaggi
-col merto è parte di nostra letizia,
-perché non li vedem minor né maggi.
+Ma nel commensurar d’i nostri gaggi col merto è parte di nostra letizia, perché non li vedem minor né maggi.
 
-Quindi addolcisce la viva giustizia
-in noi l’affetto sì, che non si puote
-torcer già mai ad alcuna nequizia.
+Quindi addolcisce la viva giustizia in noi l’affetto sì, che non si puote torcer già mai ad alcuna nequizia.
 
-Diverse voci fanno dolci note;
-così diversi scanni in nostra vita
-rendon dolce armonia tra queste rote.
+Diverse voci fanno dolci note; così diversi scanni in nostra vita rendon dolce armonia tra queste rote.
 
-E dentro a la presente margarita
-luce la luce di Romeo, di cui
-fu l’ovra grande e bella mal gradita.
+E dentro a la presente margarita luce la luce di Romeo, di cui fu l’ovra grande e bella mal gradita.
 
-Ma i Provenzai che fecer contra lui
-non hanno riso; e però mal cammina
-qual si fa danno del ben fare altrui.
+Ma i Provenzai che fecer contra lui non hanno riso; e però mal cammina qual si fa danno del ben fare altrui.
 
-Quattro figlie ebbe, e ciascuna reina,
-Ramondo Beringhiere, e ciò li fece
-Romeo, persona umìle e peregrina.
+Quattro figlie ebbe, e ciascuna reina, Ramondo Beringhiere, e ciò li fece Romeo, persona umìle e peregrina.
 
 E poi il mosser le parole biece
 a dimandar ragione a questo giusto,
@@ -1246,15 +967,11 @@ mendicando sua vita a frusto a frusto,
 assai lo loda, e più lo loderebbe».
 
 
-
-
 Paradiso
 Canto VII
 
 
-«Osanna, sanctus Deus sabaòth,
-superillustrans claritate tua
-felices ignes horum malacòth!».
+«Osanna, sanctus Deus sabaòth, superillustrans claritate tua felices ignes horum malacòth!».
 
 Così, volgendosi a la nota sua,
 fu viso a me cantare essa sustanza,
@@ -1264,13 +981,9 @@ ed essa e l’altre mossero a sua danza,
 e quasi velocissime faville
 mi si velar di sùbita distanza.
 
-Io dubitava e dicea ‘Dille, dille!’
-fra me, ‘dille’ dicea, ‘a la mia donna
-che mi diseta con le dolci stille’.
+Io dubitava e dicea ‘Dille, dille!’ fra me, ‘dille’ dicea, ‘a la mia donna che mi diseta con le dolci stille’.
 
-Ma quella reverenza che s’indonna
-di tutto me, pur per Be e per ice,
-mi richinava come l’uom ch’assonna.
+Ma quella reverenza che s’indonna di tutto me, pur per Be e per ice, mi richinava come l’uom ch’assonna.
 
 Poco sofferse me cotal Beatrice
 e cominciò, raggiandomi d’un riso
@@ -1312,49 +1025,27 @@ e così nulla fu di tanta ingiura,
 guardando a la persona che sofferse,
 in che era contratta tal natura.
 
-Però d’un atto uscir cose diverse:
-ch’a Dio e a’ Giudei piacque una morte;
-per lei tremò la terra e ’l ciel s’aperse.
+Però d’un atto uscir cose diverse: ch’a Dio e a’ Giudei piacque una morte; per lei tremò la terra e ’l ciel s’aperse.
 
-Non ti dee oramai parer più forte,
-quando si dice che giusta vendetta
-poscia vengiata fu da giusta corte.
+Non ti dee oramai parer più forte, quando si dice che giusta vendetta poscia vengiata fu da giusta corte.
 
-Ma io veggi’ or la tua mente ristretta
-di pensiero in pensier dentro ad un nodo,
-del qual con gran disio solver s’aspetta.
+Ma io veggi’ or la tua mente ristretta di pensiero in pensier dentro ad un nodo, del qual con gran disio solver s’aspetta.
 
-Tu dici: “Ben discerno ciò ch’i’ odo;
-ma perché Dio volesse, m’è occulto,
-a nostra redenzion pur questo modo”.
+Tu dici: “Ben discerno ciò ch’i’ odo; ma perché Dio volesse, m’è occulto, a nostra redenzion pur questo modo”.
 
-Questo decreto, frate, sta sepulto
-a li occhi di ciascuno il cui ingegno
-ne la fiamma d’amor non è adulto.
+Questo decreto, frate, sta sepulto a li occhi di ciascuno il cui ingegno ne la fiamma d’amor non è adulto.
 
-Veramente, però ch’a questo segno
-molto si mira e poco si discerne,
-dirò perché tal modo fu più degno.
+Veramente, però ch’a questo segno molto si mira e poco si discerne, dirò perché tal modo fu più degno.
 
-La divina bontà, che da sé sperne
-ogne livore, ardendo in sé, sfavilla
-sì che dispiega le bellezze etterne.
+La divina bontà, che da sé sperne ogne livore, ardendo in sé, sfavilla sì che dispiega le bellezze etterne.
 
-Ciò che da lei sanza mezzo distilla
-non ha poi fine, perché non si move
-la sua imprenta quand’ ella sigilla.
+Ciò che da lei sanza mezzo distilla non ha poi fine, perché non si move la sua imprenta quand’ ella sigilla.
 
-Ciò che da essa sanza mezzo piove
-libero è tutto, perché non soggiace
-a la virtute de le cose nove.
+Ciò che da essa sanza mezzo piove libero è tutto, perché non soggiace a la virtute de le cose nove.
 
-Più l’è conforme, e però più le piace;
-ché l’ardor santo ch’ogne cosa raggia,
-ne la più somigliante è più vivace.
+Più l’è conforme, e però più le piace; ché l’ardor santo ch’ogne cosa raggia, ne la più somigliante è più vivace.
 
-Di tutte queste dote s’avvantaggia
-l’umana creatura, e s’una manca,
-di sua nobilità convien che caggia.
+Di tutte queste dote s’avvantaggia l’umana creatura, e s’una manca, di sua nobilità convien che caggia.
 
 Solo il peccato è quel che la disfranca
 e falla dissimìle al sommo bene,
@@ -1376,9 +1067,7 @@ o che Dio solo per sua cortesia
 dimesso avesse, o che l’uom per sé isso
 avesse sodisfatto a sua follia.
 
-Ficca mo l’occhio per entro l’abisso
-de l’etterno consiglio, quanto puoi
-al mio parlar distrettamente fisso.
+Ficca mo l’occhio per entro l’abisso de l’etterno consiglio, quanto puoi al mio parlar distrettamente fisso.
 
 Non potea l’uomo ne’ termini suoi
 mai sodisfar, per non potere ir giuso
@@ -1388,9 +1077,7 @@ quanto disobediendo intese ir suso;
 e questa è la cagion per che l’uom fue
 da poter sodisfar per sé dischiuso.
 
-Dunque a Dio convenia con le vie sue
-riparar l’omo a sua intera vita,
-dico con l’una, o ver con amendue.
+Dunque a Dio convenia con le vie sue riparar l’omo a sua intera vita, dico con l’una, o ver con amendue.
 
 Ma perché l’ovra tanto è più gradita
 da l’operante, quanto più appresenta
@@ -1412,9 +1099,7 @@ e tutti li altri modi erano scarsi
 a la giustizia, se ’l Figliuol di Dio
 non fosse umilïato ad incarnarsi.
 
-Or per empierti bene ogne disio,
-ritorno a dichiararti in alcun loco,
-perché tu veggi lì così com’ io.
+Or per empierti bene ogne disio, ritorno a dichiararti in alcun loco, perché tu veggi lì così com’ io.
 
 Tu dici: “Io veggio l’acqua, io veggio il foco,
 l’aere e la terra e tutte lor misture
@@ -1432,9 +1117,7 @@ ma li alimenti che tu hai nomati
 e quelle cose che di lor si fanno
 da creata virtù sono informati.
 
-Creata fu la materia ch’elli hanno;
-creata fu la virtù informante
-in queste stelle che ’ntorno a lor vanno.
+Creata fu la materia ch’elli hanno; creata fu la virtù informante in queste stelle che ’ntorno a lor vanno.
 
 L’anima d’ogne bruto e de le piante
 di complession potenzïata tira
@@ -1449,8 +1132,6 @@ vostra resurrezion, se tu ripensi
 come l’umana carne fessi allora
 
 che li primi parenti intrambo fensi».
-
-
 
 
 Paradiso
@@ -1473,9 +1154,7 @@ e da costei ond’ io principio piglio
 pigliavano il vocabol de la stella
 che ’l sol vagheggia or da coppa or da ciglio.
 
-Io non m’accorsi del salire in ella;
-ma d’esservi entro mi fé assai fede
-la donna mia ch’i’ vidi far più bella.
+Io non m’accorsi del salire in ella; ma d’esservi entro mi fé assai fede la donna mia ch’i’ vidi far più bella.
 
 E come in fiamma favilla si vede,
 e come in voce voce si discerne,
@@ -1497,9 +1176,7 @@ e dentro a quei che più innanzi appariro
 sonava ‘Osanna’ sì, che unque poi
 di rïudir non fui sanza disiro.
 
-Indi si fece l’un più presso a noi
-e solo incominciò: «Tutti sem presti
-al tuo piacer, perché di noi ti gioi.
+Indi si fece l’un più presso a noi e solo incominciò: «Tutti sem presti al tuo piacer, perché di noi ti gioi.
 
 Noi ci volgiam coi principi celesti
 d’un giro e d’un girare e d’una sete,
@@ -1525,13 +1202,9 @@ Così fatta, mi disse: «Il mondo m’ebbe
 giù poco tempo; e se più fosse stato,
 molto sarà di mal, che non sarebbe.
 
-La mia letizia mi ti tien celato
-che mi raggia dintorno e mi nasconde
-quasi animal di sua seta fasciato.
+La mia letizia mi ti tien celato che mi raggia dintorno e mi nasconde quasi animal di sua seta fasciato.
 
-Assai m’amasti, e avesti ben onde;
-che s’io fossi giù stato, io ti mostrava
-di mio amor più oltre che le fronde.
+Assai m’amasti, e avesti ben onde; che s’io fossi giù stato, io ti mostrava di mio amor più oltre che le fronde.
 
 Quella sinistra riva che si lava
 di Rodano poi ch’è misto con Sorga,
@@ -1541,9 +1214,7 @@ e quel corno d’Ausonia che s’imborga
 di Bari e di Gaeta e di Catona,
 da ove Tronto e Verde in mare sgorga.
 
-Fulgeami già in fronte la corona
-di quella terra che ’l Danubio riga
-poi che le ripe tedesche abbandona.
+Fulgeami già in fronte la corona di quella terra che ’l Danubio riga poi che le ripe tedesche abbandona.
 
 E la bella Trinacria, che caliga
 tra Pachino e Peloro, sopra ’l golfo
@@ -1565,9 +1236,7 @@ ché veramente proveder bisogna
 per lui, o per altrui, sì ch’a sua barca
 carcata più d’incarco non si pogna.
 
-La sua natura, che di larga parca
-discese, avria mestier di tal milizia
-che non curasse di mettere in arca».
+La sua natura, che di larga parca discese, avria mestier di tal milizia che non curasse di mettere in arca».
 
 «Però ch’i’ credo che l’alta letizia
 che ’l tuo parlar m’infonde, segnor mio,
@@ -1577,17 +1246,11 @@ per te si veggia come la vegg’ io,
 grata m’è più; e anco quest’ ho caro
 perché ’l discerni rimirando in Dio.
 
-Fatto m’hai lieto, e così mi fa chiaro,
-poi che, parlando, a dubitar m’hai mosso
-com’ esser può, di dolce seme, amaro».
+Fatto m’hai lieto, e così mi fa chiaro, poi che, parlando, a dubitar m’hai mosso com’ esser può, di dolce seme, amaro».
 
-Questo io a lui; ed elli a me: «S’io posso
-mostrarti un vero, a quel che tu dimandi
-terrai lo viso come tien lo dosso.
+Questo io a lui; ed elli a me: «S’io posso mostrarti un vero, a quel che tu dimandi terrai lo viso come tien lo dosso.
 
-Lo ben che tutto il regno che tu scandi
-volge e contenta, fa esser virtute
-sua provedenza in questi corpi grandi.
+Lo ben che tutto il regno che tu scandi volge e contenta, fa esser virtute sua provedenza in questi corpi grandi.
 
 E non pur le nature provedute
 sono in la mente ch’è da sé perfetta,
@@ -1605,17 +1268,11 @@ e ciò esser non può, se li ’ntelletti
 che muovon queste stelle non son manchi,
 e manco il primo, che non li ha perfetti.
 
-Vuo’ tu che questo ver più ti s’imbianchi?».
-E io: «Non già; ché impossibil veggio
-che la natura, in quel ch’è uopo, stanchi».
+Vuo’ tu che questo ver più ti s’imbianchi?». E io: «Non già; ché impossibil veggio che la natura, in quel ch’è uopo, stanchi».
 
-Ond’ elli ancora: «Or dì: sarebbe il peggio
-per l’omo in terra, se non fosse cive?».
-«Sì», rispuos’ io; «e qui ragion non cheggio».
+Ond’ elli ancora: «Or dì: sarebbe il peggio per l’omo in terra, se non fosse cive?». «Sì», rispuos’ io; «e qui ragion non cheggio».
 
-«E puot’ elli esser, se giù non si vive
-diversamente per diversi offici?
-Non, se ’l maestro vostro ben vi scrive».
+«E puot’ elli esser, se giù non si vive diversamente per diversi offici? Non, se ’l maestro vostro ben vi scrive».
 
 Sì venne deducendo infino a quici;
 poscia conchiuse: «Dunque esser diverse
@@ -1625,37 +1282,23 @@ per ch’un nasce Solone e altro Serse,
 altro Melchisedèch e altro quello
 che, volando per l’aere, il figlio perse.
 
-La circular natura, ch’è suggello
-a la cera mortal, fa ben sua arte,
-ma non distingue l’un da l’altro ostello.
+La circular natura, ch’è suggello a la cera mortal, fa ben sua arte, ma non distingue l’un da l’altro ostello.
 
-Quinci addivien ch’Esaù si diparte
-per seme da Iacòb; e vien Quirino
-da sì vil padre, che si rende a Marte.
+Quinci addivien ch’Esaù si diparte per seme da Iacòb; e vien Quirino da sì vil padre, che si rende a Marte.
 
-Natura generata il suo cammino
-simil farebbe sempre a’ generanti,
-se non vincesse il proveder divino.
+Natura generata il suo cammino simil farebbe sempre a’ generanti, se non vincesse il proveder divino.
 
-Or quel che t’era dietro t’è davanti:
-ma perché sappi che di te mi giova,
-un corollario voglio che t’ammanti.
+Or quel che t’era dietro t’è davanti: ma perché sappi che di te mi giova, un corollario voglio che t’ammanti.
 
-Sempre natura, se fortuna trova
-discorde a sé, com’ ogne altra semente
-fuor di sua regïon, fa mala prova.
+Sempre natura, se fortuna trova discorde a sé, com’ ogne altra semente fuor di sua regïon, fa mala prova.
 
-E se ’l mondo là giù ponesse mente
-al fondamento che natura pone,
-seguendo lui, avria buona la gente.
+E se ’l mondo là giù ponesse mente al fondamento che natura pone, seguendo lui, avria buona la gente.
 
 Ma voi torcete a la religïone
 tal che fia nato a cignersi la spada,
 e fate re di tal ch’è da sermone;
 
 onde la traccia vostra è fuor di strada».
-
-
 
 
 Paradiso
@@ -1670,9 +1313,7 @@ ma disse: «Taci e lascia muover li anni»;
 sì ch’io non posso dir se non che pianto
 giusto verrà di retro ai vostri danni.
 
-E già la vita di quel lume santo
-rivolta s’era al Sol che la rïempie
-come quel ben ch’a ogne cosa è tanto.
+E già la vita di quel lume santo rivolta s’era al Sol che la rïempie come quel ben ch’a ogne cosa è tanto.
 
 Ahi anime ingannate e fatture empie,
 che da sì fatto ben torcete i cuori,
@@ -1682,13 +1323,9 @@ Ed ecco un altro di quelli splendori
 ver’ me si fece, e ’l suo voler piacermi
 significava nel chiarir di fori.
 
-Li occhi di Bëatrice, ch’eran fermi
-sovra me, come pria, di caro assenso
-al mio disio certificato fermi.
+Li occhi di Bëatrice, ch’eran fermi sovra me, come pria, di caro assenso al mio disio certificato fermi.
 
-«Deh, metti al mio voler tosto compenso,
-beato spirto», dissi, «e fammi prova
-ch’i’ possa in te refletter quel ch’io penso!».
+«Deh, metti al mio voler tosto compenso, beato spirto», dissi, «e fammi prova ch’i’ possa in te refletter quel ch’io penso!».
 
 Onde la luce che m’era ancor nova,
 del suo profondo, ond’ ella pria cantava,
@@ -1730,9 +1367,7 @@ e dove Sile e Cagnan s’accompagna,
 tal signoreggia e va con la testa alta,
 che già per lui carpir si fa la ragna.
 
-Piangerà Feltro ancora la difalta
-de l’empio suo pastor, che sarà sconcia
-sì, che per simil non s’entrò in malta.
+Piangerà Feltro ancora la difalta de l’empio suo pastor, che sarà sconcia sì, che per simil non s’entrò in malta.
 
 Troppo sarebbe larga la bigoncia
 che ricevesse il sangue ferrarese,
@@ -1742,25 +1377,15 @@ che donerà questo prete cortese
 per mostrarsi di parte; e cotai doni
 conformi fieno al viver del paese.
 
-Sù sono specchi, voi dicete Troni,
-onde refulge a noi Dio giudicante;
-sì che questi parlar ne paion buoni».
+Sù sono specchi, voi dicete Troni, onde refulge a noi Dio giudicante; sì che questi parlar ne paion buoni».
 
-Qui si tacette; e fecemi sembiante
-che fosse ad altro volta, per la rota
-in che si mise com’ era davante.
+Qui si tacette; e fecemi sembiante che fosse ad altro volta, per la rota in che si mise com’ era davante.
 
-L’altra letizia, che m’era già nota
-per cara cosa, mi si fece in vista
-qual fin balasso in che lo sol percuota.
+L’altra letizia, che m’era già nota per cara cosa, mi si fece in vista qual fin balasso in che lo sol percuota.
 
-Per letiziar là sù fulgor s’acquista,
-sì come riso qui; ma giù s’abbuia
-l’ombra di fuor, come la mente è trista.
+Per letiziar là sù fulgor s’acquista, sì come riso qui; ma giù s’abbuia l’ombra di fuor, come la mente è trista.
 
-«Dio vede tutto, e tuo veder s’inluia»,
-diss’ io, «beato spirto, sì che nulla
-voglia di sé a te puot’ esser fuia.
+«Dio vede tutto, e tuo veder s’inluia», diss’ io, «beato spirto, sì che nulla voglia di sé a te puot’ esser fuia.
 
 Dunque la voce tua, che ’l ciel trastulla
 sempre col canto di quei fuochi pii
@@ -1778,13 +1403,9 @@ tra ’ discordanti liti contra ’l sole
 tanto sen va, che fa meridïano
 là dove l’orizzonte pria far suole.
 
-Di quella valle fu’ io litorano
-tra Ebro e Macra, che per cammin corto
-parte lo Genovese dal Toscano.
+Di quella valle fu’ io litorano tra Ebro e Macra, che per cammin corto parte lo Genovese dal Toscano.
 
-Ad un occaso quasi e ad un orto
-Buggea siede e la terra ond’ io fui,
-che fé del sangue suo già caldo il porto.
+Ad un occaso quasi e ad un orto Buggea siede e la terra ond’ io fui, che fé del sangue suo già caldo il porto.
 
 Folco mi disse quella gente a cui
 fu noto il nome mio; e questo cielo
@@ -1798,29 +1419,17 @@ né quella Rodopëa che delusa
 fu da Demofoonte, né Alcide
 quando Iole nel core ebbe rinchiusa.
 
-Non però qui si pente, ma si ride,
-non de la colpa, ch’a mente non torna,
-ma del valor ch’ordinò e provide.
+Non però qui si pente, ma si ride, non de la colpa, ch’a mente non torna, ma del valor ch’ordinò e provide.
 
-Qui si rimira ne l’arte ch’addorna
-cotanto affetto, e discernesi ’l bene
-per che ’l mondo di sù quel di giù torna.
+Qui si rimira ne l’arte ch’addorna cotanto affetto, e discernesi ’l bene per che ’l mondo di sù quel di giù torna.
 
-Ma perché tutte le tue voglie piene
-ten porti che son nate in questa spera,
-proceder ancor oltre mi convene.
+Ma perché tutte le tue voglie piene ten porti che son nate in questa spera, proceder ancor oltre mi convene.
 
-Tu vuo’ saper chi è in questa lumera
-che qui appresso me così scintilla
-come raggio di sole in acqua mera.
+Tu vuo’ saper chi è in questa lumera che qui appresso me così scintilla come raggio di sole in acqua mera.
 
-Or sappi che là entro si tranquilla
-Raab; e a nostr’ ordine congiunta,
-di lei nel sommo grado si sigilla.
+Or sappi che là entro si tranquilla Raab; e a nostr’ ordine congiunta, di lei nel sommo grado si sigilla.
 
-Da questo cielo, in cui l’ombra s’appunta
-che ’l vostro mondo face, pria ch’altr’ alma
-del trïunfo di Cristo fu assunta.
+Da questo cielo, in cui l’ombra s’appunta che ’l vostro mondo face, pria ch’altr’ alma del trïunfo di Cristo fu assunta.
 
 Ben si convenne lei lasciar per palma
 in alcun cielo de l’alta vittoria
@@ -1838,21 +1447,15 @@ produce e spande il maladetto fiore
 c’ha disvïate le pecore e li agni,
 però che fatto ha lupo del pastore.
 
-Per questo l’Evangelio e i dottor magni
-son derelitti, e solo ai Decretali
-si studia, sì che pare a’ lor vivagni.
+Per questo l’Evangelio e i dottor magni son derelitti, e solo ai Decretali si studia, sì che pare a’ lor vivagni.
 
-A questo intende il papa e ’ cardinali;
-non vanno i lor pensieri a Nazarette,
-là dove Gabrïello aperse l’ali.
+A questo intende il papa e ’ cardinali; non vanno i lor pensieri a Nazarette, là dove Gabrïello aperse l’ali.
 
 Ma Vaticano e l’altre parti elette
 di Roma che son state cimitero
 a la milizia che Pietro seguette,
 
 tosto libere fien de l’avoltero».
-
-
 
 
 Paradiso
@@ -1875,9 +1478,7 @@ e lì comincia a vagheggiar ne l’arte
 di quel maestro che dentro a sé l’ama,
 tanto che mai da lei l’occhio non parte.
 
-Vedi come da indi si dirama
-l’oblico cerchio che i pianeti porta,
-per sodisfare al mondo che li chiama.
+Vedi come da indi si dirama l’oblico cerchio che i pianeti porta, per sodisfare al mondo che li chiama.
 
 Che se la strada lor non fosse torta,
 molta virtù nel ciel sarebbe in vano,
@@ -1887,13 +1488,9 @@ e se dal dritto più o men lontano
 fosse ’l partire, assai sarebbe manco
 e giù e sù de l’ordine mondano.
 
-Or ti riman, lettor, sovra ’l tuo banco,
-dietro pensando a ciò che si preliba,
-s’esser vuoi lieto assai prima che stanco.
+Or ti riman, lettor, sovra ’l tuo banco, dietro pensando a ciò che si preliba, s’esser vuoi lieto assai prima che stanco.
 
-Messo t’ho innanzi: omai per te ti ciba;
-ché a sé torce tutta la mia cura
-quella materia ond’ io son fatto scriba.
+Messo t’ho innanzi: omai per te ti ciba; ché a sé torce tutta la mia cura quella materia ond’ io son fatto scriba.
 
 Lo ministro maggior de la natura,
 che del valor del ciel lo mondo imprenta
@@ -1907,9 +1504,7 @@ e io era con lui; ma del salire
 non m’accors’ io, se non com’ uom s’accorge,
 anzi ’l primo pensier, del suo venire.
 
-È Bëatrice quella che sì scorge
-di bene in meglio, sì subitamente
-che l’atto suo per tempo non si sporge.
+È Bëatrice quella che sì scorge di bene in meglio, sì subitamente che l’atto suo per tempo non si sporge.
 
 Quant’ esser convenia da sé lucente
 quel ch’era dentro al sol dov’ io entra’mi,
@@ -1919,17 +1514,11 @@ Perch’ io lo ’ngegno e l’arte e l’uso chiami,
 sì nol direi che mai s’imaginasse;
 ma creder puossi e di veder si brami.
 
-E se le fantasie nostre son basse
-a tanta altezza, non è maraviglia;
-ché sopra ’l sol non fu occhio ch’andasse.
+E se le fantasie nostre son basse a tanta altezza, non è maraviglia; ché sopra ’l sol non fu occhio ch’andasse.
 
-Tal era quivi la quarta famiglia
-de l’alto Padre, che sempre la sazia,
-mostrando come spira e come figlia.
+Tal era quivi la quarta famiglia de l’alto Padre, che sempre la sazia, mostrando come spira e come figlia.
 
-E Bëatrice cominciò: «Ringrazia,
-ringrazia il Sol de li angeli, ch’a questo
-sensibil t’ha levato per sua grazia».
+E Bëatrice cominciò: «Ringrazia, ringrazia il Sol de li angeli, ch’a questo sensibil t’ha levato per sua grazia».
 
 Cor di mortal non fu mai sì digesto
 a divozione e a rendersi a Dio
@@ -1939,9 +1528,7 @@ come a quelle parole mi fec’ io;
 e sì tutto ’l mio amore in lui si mise,
 che Bëatrice eclissò ne l’oblio.
 
-Non le dispiacque; ma sì se ne rise,
-che lo splendor de li occhi suoi ridenti
-mia mente unita in più cose divise.
+Non le dispiacque; ma sì se ne rise, che lo splendor de li occhi suoi ridenti mia mente unita in più cose divise.
 
 Io vidi più folgór vivi e vincenti
 far di noi centro e di sé far corona,
@@ -1979,29 +1566,17 @@ qual ti negasse il vin de la sua fiala
 per la tua sete, in libertà non fora
 se non com’ acqua ch’al mar non si cala.
 
-Tu vuo’ saper di quai piante s’infiora
-questa ghirlanda che ’ntorno vagheggia
-la bella donna ch’al ciel t’avvalora.
+Tu vuo’ saper di quai piante s’infiora questa ghirlanda che ’ntorno vagheggia la bella donna ch’al ciel t’avvalora.
 
-Io fui de li agni de la santa greggia
-che Domenico mena per cammino
-u’ ben s’impingua se non si vaneggia.
+Io fui de li agni de la santa greggia che Domenico mena per cammino u’ ben s’impingua se non si vaneggia.
 
-Questi che m’è a destra più vicino,
-frate e maestro fummi, ed esso Alberto
-è di Cologna, e io Thomas d’Aquino.
+Questi che m’è a destra più vicino, frate e maestro fummi, ed esso Alberto è di Cologna, e io Thomas d’Aquino.
 
-Se sì di tutti li altri esser vuo’ certo,
-di retro al mio parlar ten vien col viso
-girando su per lo beato serto.
+Se sì di tutti li altri esser vuo’ certo, di retro al mio parlar ten vien col viso girando su per lo beato serto.
 
-Quell’ altro fiammeggiare esce del riso
-di Grazïan, che l’uno e l’altro foro
-aiutò sì che piace in paradiso.
+Quell’ altro fiammeggiare esce del riso di Grazïan, che l’uno e l’altro foro aiutò sì che piace in paradiso.
 
-L’altro ch’appresso addorna il nostro coro,
-quel Pietro fu che con la poverella
-offerse a Santa Chiesa suo tesoro.
+L’altro ch’appresso addorna il nostro coro, quel Pietro fu che con la poverella offerse a Santa Chiesa suo tesoro.
 
 La quinta luce, ch’è tra noi più bella,
 spira di tale amor, che tutto ’l mondo
@@ -2011,29 +1586,17 @@ entro v’è l’alta mente u’ sì profondo
 saver fu messo, che, se ’l vero è vero,
 a veder tanto non surse il secondo.
 
-Appresso vedi il lume di quel cero
-che giù in carne più a dentro vide
-l’angelica natura e ’l ministero.
+Appresso vedi il lume di quel cero che giù in carne più a dentro vide l’angelica natura e ’l ministero.
 
-Ne l’altra piccioletta luce ride
-quello avvocato de’ tempi cristiani
-del cui latino Augustin si provide.
+Ne l’altra piccioletta luce ride quello avvocato de’ tempi cristiani del cui latino Augustin si provide.
 
-Or se tu l’occhio de la mente trani
-di luce in luce dietro a le mie lode,
-già de l’ottava con sete rimani.
+Or se tu l’occhio de la mente trani di luce in luce dietro a le mie lode, già de l’ottava con sete rimani.
 
-Per vedere ogne ben dentro vi gode
-l’anima santa che ’l mondo fallace
-fa manifesto a chi di lei ben ode.
+Per vedere ogne ben dentro vi gode l’anima santa che ’l mondo fallace fa manifesto a chi di lei ben ode.
 
-Lo corpo ond’ ella fu cacciata giace
-giuso in Cieldauro; ed essa da martiro
-e da essilio venne a questa pace.
+Lo corpo ond’ ella fu cacciata giace giuso in Cieldauro; ed essa da martiro e da essilio venne a questa pace.
 
-Vedi oltre fiammeggiar l’ardente spiro
-d’Isidoro, di Beda e di Riccardo,
-che a considerar fu più che viro.
+Vedi oltre fiammeggiar l’ardente spiro d’Isidoro, di Beda e di Riccardo, che a considerar fu più che viro.
 
 Questi onde a me ritorna il tuo riguardo,
 è ’l lume d’uno spirto che ’n pensieri
@@ -2058,8 +1621,6 @@ e in dolcezza ch’esser non pò nota
 se non colà dove gioir s’insempra.
 
 
-
-
 Paradiso
 Canto XI
 
@@ -2080,9 +1641,7 @@ quando, da tutte queste cose sciolto,
 con Bëatrice m’era suso in cielo
 cotanto glorïosamente accolto.
 
-Poi che ciascuno fu tornato ne lo
-punto del cerchio in che avanti s’era,
-fermossi, come a candellier candelo.
+Poi che ciascuno fu tornato ne lo punto del cerchio in che avanti s’era, fermossi, come a candellier candelo.
 
 E io senti’ dentro a quella lumera
 che pria m’avea parlato, sorridendo
@@ -2112,13 +1671,9 @@ in sé sicura e anche a lui più fida,
 due principi ordinò in suo favore,
 che quinci e quindi le fosser per guida.
 
-L’un fu tutto serafico in ardore;
-l’altro per sapïenza in terra fue
-di cherubica luce uno splendore.
+L’un fu tutto serafico in ardore; l’altro per sapïenza in terra fue di cherubica luce uno splendore.
 
-De l’un dirò, però che d’amendue
-si dice l’un pregiando, qual ch’om prende,
-perch’ ad un fine fur l’opere sue.
+De l’un dirò, però che d’amendue si dice l’un pregiando, qual ch’om prende, perch’ ad un fine fur l’opere sue.
 
 Intra Tupino e l’acqua che discende
 del colle eletto dal beato Ubaldo,
@@ -2128,13 +1683,9 @@ onde Perugia sente freddo e caldo
 da Porta Sole; e di rietro le piange
 per grave giogo Nocera con Gualdo.
 
-Di questa costa, là dov’ ella frange
-più sua rattezza, nacque al mondo un sole,
-come fa questo talvolta di Gange.
+Di questa costa, là dov’ ella frange più sua rattezza, nacque al mondo un sole, come fa questo talvolta di Gange.
 
-Però chi d’esso loco fa parole,
-non dica Ascesi, ché direbbe corto,
-ma Orïente, se proprio dir vuole.
+Però chi d’esso loco fa parole, non dica Ascesi, ché direbbe corto, ma Orïente, se proprio dir vuole.
 
 Non era ancor molto lontan da l’orto,
 ch’el cominciò a far sentir la terra
@@ -2160,9 +1711,7 @@ né valse esser costante né feroce,
 sì che, dove Maria rimase giuso,
 ella con Cristo pianse in su la croce.
 
-Ma perch’ io non proceda troppo chiuso,
-Francesco e Povertà per questi amanti
-prendi oramai nel mio parlar diffuso.
+Ma perch’ io non proceda troppo chiuso, Francesco e Povertà per questi amanti prendi oramai nel mio parlar diffuso.
 
 La lor concordia e i lor lieti sembianti,
 amore e maraviglia e dolce sguardo
@@ -2172,13 +1721,9 @@ tanto che ’l venerabile Bernardo
 si scalzò prima, e dietro a tanta pace
 corse e, correndo, li parve esser tardo.
 
-Oh ignota ricchezza! oh ben ferace!
-Scalzasi Egidio, scalzasi Silvestro
-dietro a lo sposo, sì la sposa piace.
+Oh ignota ricchezza! oh ben ferace! Scalzasi Egidio, scalzasi Silvestro dietro a lo sposo, sì la sposa piace.
 
-Indi sen va quel padre e quel maestro
-con la sua donna e con quella famiglia
-che già legava l’umile capestro.
+Indi sen va quel padre e quel maestro con la sua donna e con quella famiglia che già legava l’umile capestro.
 
 Né li gravò viltà di cuor le ciglia
 per esser fi’ di Pietro Bernardone,
@@ -2236,9 +1781,7 @@ e quanto le sue pecore remote
 e vagabunde più da esso vanno,
 più tornano a l’ovil di latte vòte.
 
-Ben son di quelle che temono ’l danno
-e stringonsi al pastor; ma son sì poche,
-che le cappe fornisce poco panno.
+Ben son di quelle che temono ’l danno e stringonsi al pastor; ma son sì poche, che le cappe fornisce poco panno.
 
 Or, se le mie parole non son fioche,
 se la tua audïenza è stata attenta,
@@ -2249,8 +1792,6 @@ perché vedrai la pianta onde si scheggia,
 e vedra’ il corrègger che argomenta
 
 “U’ ben s’impingua, se non si vaneggia”».
-
-
 
 
 Paradiso
@@ -2301,9 +1842,7 @@ e cominciò: «L’amor che mi fa bella
 mi tragge a ragionar de l’altro duca
 per cui del mio sì ben ci si favella.
 
-Degno è che, dov’ è l’un, l’altro s’induca:
-sì che, com’ elli ad una militaro,
-così la gloria loro insieme luca.
+Degno è che, dov’ è l’un, l’altro s’induca: sì che, com’ elli ad una militaro, così la gloria loro insieme luca.
 
 L’essercito di Cristo, che sì caro
 costò a rïarmar, dietro a la ’nsegna
@@ -2349,17 +1888,11 @@ e perché fosse qual era in costrutto,
 quinci si mosse spirito a nomarlo
 del possessivo di cui era tutto.
 
-Domenico fu detto; e io ne parlo
-sì come de l’agricola che Cristo
-elesse a l’orto suo per aiutarlo.
+Domenico fu detto; e io ne parlo sì come de l’agricola che Cristo elesse a l’orto suo per aiutarlo.
 
-Ben parve messo e famigliar di Cristo:
-che ’l primo amor che ’n lui fu manifesto,
-fu al primo consiglio che diè Cristo.
+Ben parve messo e famigliar di Cristo: che ’l primo amor che ’n lui fu manifesto, fu al primo consiglio che diè Cristo.
 
-Spesse fïate fu tacito e desto
-trovato in terra da la sua nutrice,
-come dicesse: ‘Io son venuto a questo’.
+Spesse fïate fu tacito e desto trovato in terra da la sua nutrice, come dicesse: ‘Io son venuto a questo’.
 
 Oh padre suo veramente Felice!
 oh madre sua veramente Giovanna,
@@ -2393,9 +1926,7 @@ e ne li sterpi eretici percosse
 l’impeto suo, più vivamente quivi
 dove le resistenze eran più grosse.
 
-Di lui si fecer poi diversi rivi
-onde l’orto catolico si riga,
-sì che i suoi arbuscelli stan più vivi.
+Di lui si fecer poi diversi rivi onde l’orto catolico si riga, sì che i suoi arbuscelli stan più vivi.
 
 Se tal fu l’una rota de la biga
 in che la Santa Chiesa si difese
@@ -2405,9 +1936,7 @@ ben ti dovrebbe assai esser palese
 l’eccellenza de l’altra, di cui Tomma
 dinanzi al mio venir fu sì cortese.
 
-Ma l’orbita che fé la parte somma
-di sua circunferenza, è derelitta,
-sì ch’è la muffa dov’ era la gromma.
+Ma l’orbita che fé la parte somma di sua circunferenza, è derelitta, sì ch’è la muffa dov’ era la gromma.
 
 La sua famiglia, che si mosse dritta
 coi piedi a le sue orme, è tanto volta,
@@ -2425,13 +1954,9 @@ ma non fia da Casal né d’Acquasparta,
 là onde vegnon tali a la scrittura,
 ch’uno la fugge e altro la coarta.
 
-Io son la vita di Bonaventura
-da Bagnoregio, che ne’ grandi offici
-sempre pospuosi la sinistra cura.
+Io son la vita di Bonaventura da Bagnoregio, che ne’ grandi offici sempre pospuosi la sinistra cura.
 
-Illuminato e Augustin son quici,
-che fuor de’ primi scalzi poverelli
-che nel capestro a Dio si fero amici.
+Illuminato e Augustin son quici, che fuor de’ primi scalzi poverelli che nel capestro a Dio si fero amici.
 
 Ugo da San Vittore è qui con elli,
 e Pietro Mangiadore e Pietro Spano,
@@ -2441,17 +1966,13 @@ Natàn profeta e ’l metropolitano
 Crisostomo e Anselmo e quel Donato
 ch’a la prim’ arte degnò porre mano.
 
-Rabano è qui, e lucemi dallato
-il calavrese abate Giovacchino
-di spirito profetico dotato.
+Rabano è qui, e lucemi dallato il calavrese abate Giovacchino di spirito profetico dotato.
 
 Ad inveggiar cotanto paladino
 mi mosse l’infiammata cortesia
 di fra Tommaso e ’l discreto latino;
 
 e mosse meco questa compagnia».
-
-
 
 
 Paradiso
@@ -2490,13 +2011,9 @@ poi ch’è tanto di là da nostra usanza,
 quanto di là dal mover de la Chiana
 si move il ciel che tutti li altri avanza.
 
-Lì si cantò non Bacco, non Peana,
-ma tre persone in divina natura,
-e in una persona essa e l’umana.
+Lì si cantò non Bacco, non Peana, ma tre persone in divina natura, e in una persona essa e l’umana.
 
-Compié ’l cantare e ’l volger sua misura;
-e attesersi a noi quei santi lumi,
-felicitando sé di cura in cura.
+Compié ’l cantare e ’l volger sua misura; e attesersi a noi quei santi lumi, felicitando sé di cura in cura.
 
 Ruppe il silenzio ne’ concordi numi
 poscia la luce in che mirabil vita
@@ -2522,9 +2039,7 @@ e però miri a ciò ch’io dissi suso,
 quando narrai che non ebbe ’l secondo
 lo ben che ne la quinta luce è chiuso.
 
-Or apri li occhi a quel ch’io ti rispondo,
-e vedräi il tuo credere e ’l mio dire
-nel vero farsi come centro in tondo.
+Or apri li occhi a quel ch’io ti rispondo, e vedräi il tuo credere e ’l mio dire nel vero farsi come centro in tondo.
 
 Ciò che non more e ciò che può morire
 non è se non splendor di quella idea
@@ -2546,13 +2061,9 @@ e queste contingenze essere intendo
 le cose generate, che produce
 con seme e sanza seme il ciel movendo.
 
-La cera di costoro e chi la duce
-non sta d’un modo; e però sotto ’l segno
-idëale poi più e men traluce.
+La cera di costoro e chi la duce non sta d’un modo; e però sotto ’l segno idëale poi più e men traluce.
 
-Ond’ elli avvien ch’un medesimo legno,
-secondo specie, meglio e peggio frutta;
-e voi nascete con diverso ingegno.
+Ond’ elli avvien ch’un medesimo legno, secondo specie, meglio e peggio frutta; e voi nascete con diverso ingegno.
 
 Se fosse a punto la cera dedutta
 e fosse il cielo in sua virtù supprema,
@@ -2562,9 +2073,7 @@ ma la natura la dà sempre scema,
 similemente operando a l’artista
 ch’a l’abito de l’arte ha man che trema.
 
-Però se ’l caldo amor la chiara vista
-de la prima virtù dispone e segna,
-tutta la perfezion quivi s’acquista.
+Però se ’l caldo amor la chiara vista de la prima virtù dispone e segna, tutta la perfezion quivi s’acquista.
 
 Così fu fatta già la terra degna
 di tutta l’animal perfezïone;
@@ -2574,13 +2083,9 @@ sì ch’io commendo tua oppinïone,
 che l’umana natura mai non fue
 né fia qual fu in quelle due persone.
 
-Or s’i’ non procedesse avanti piùe,
-‘Dunque, come costui fu sanza pare?’
-comincerebber le parole tue.
+Or s’i’ non procedesse avanti piùe, ‘Dunque, come costui fu sanza pare?’ comincerebber le parole tue.
 
-Ma perché paia ben ciò che non pare,
-pensa chi era, e la cagion che ’l mosse,
-quando fu detto “Chiedi”, a dimandare.
+Ma perché paia ben ciò che non pare, pensa chi era, e la cagion che ’l mosse, quando fu detto “Chiedi”, a dimandare.
 
 Non ho parlato sì, che tu non posse
 ben veder ch’el fu re, che chiese senno
@@ -2602,9 +2107,7 @@ e se al “surse” drizzi li occhi chiari,
 vedrai aver solamente respetto
 ai regi, che son molti, e ’ buon son rari.
 
-Con questa distinzion prendi ’l mio detto;
-e così puote star con quel che credi
-del primo padre e del nostro Diletto.
+Con questa distinzion prendi ’l mio detto; e così puote star con quel che credi del primo padre e del nostro Diletto.
 
 E questo ti sia sempre piombo a’ piedi,
 per farti mover lento com’ uom lasso
@@ -2618,9 +2121,7 @@ perch’ elli ’ncontra che più volte piega
 l’oppinïon corrente in falsa parte,
 e poi l’affetto l’intelletto lega.
 
-Vie più che ’ndarno da riva si parte,
-perché non torna tal qual e’ si move,
-chi pesca per lo vero e non ha l’arte.
+Vie più che ’ndarno da riva si parte, perché non torna tal qual e’ si move, chi pesca per lo vero e non ha l’arte.
 
 E di ciò sono al mondo aperte prove
 Parmenide, Melisso e Brisso e molti,
@@ -2647,8 +2148,6 @@ per vedere un furare, altro offerere,
 vederli dentro al consiglio divino;
 
 ché quel può surgere, e quel può cadere».
-
-
 
 
 Paradiso
@@ -2687,9 +2186,7 @@ così, a l’orazion pronta e divota,
 li santi cerchi mostrar nova gioia
 nel torneare e ne la mira nota.
 
-Qual si lamenta perché qui si moia
-per viver colà sù, non vide quive
-lo refrigerio de l’etterna ploia.
+Qual si lamenta perché qui si moia per viver colà sù, non vide quive lo refrigerio de l’etterna ploia.
 
 Quell’ uno e due e tre che sempre vive
 e regna sempre in tre e ’n due e ’n uno,
@@ -2707,9 +2204,7 @@ risponder: «Quanto fia lunga la festa
 di paradiso, tanto il nostro amore
 si raggerà dintorno cotal vesta.
 
-La sua chiarezza séguita l’ardore;
-l’ardor la visïone, e quella è tanta,
-quant’ ha di grazia sovra suo valore.
+La sua chiarezza séguita l’ardore; l’ardor la visïone, e quella è tanta, quant’ ha di grazia sovra suo valore.
 
 Come la carne glorïosa e santa
 fia rivestita, la nostra persona
@@ -2743,9 +2238,7 @@ forse non pur per lor, ma per le mamme,
 per li padri e per li altri che fuor cari
 anzi che fosser sempiterne fiamme.
 
-Ed ecco intorno, di chiarezza pari,
-nascere un lustro sopra quel che v’era,
-per guisa d’orizzonte che rischiari.
+Ed ecco intorno, di chiarezza pari, nascere un lustro sopra quel che v’era, per guisa d’orizzonte che rischiari.
 
 E sì come al salir di prima sera
 comincian per lo ciel nove parvenze,
@@ -2763,17 +2256,11 @@ Ma Bëatrice sì bella e ridente
 mi si mostrò, che tra quelle vedute
 si vuol lasciar che non seguir la mente.
 
-Quindi ripreser li occhi miei virtute
-a rilevarsi; e vidimi translato
-sol con mia donna in più alta salute.
+Quindi ripreser li occhi miei virtute a rilevarsi; e vidimi translato sol con mia donna in più alta salute.
 
-Ben m’accors’ io ch’io era più levato,
-per l’affocato riso de la stella,
-che mi parea più roggio che l’usato.
+Ben m’accors’ io ch’io era più levato, per l’affocato riso de la stella, che mi parea più roggio che l’usato.
 
-Con tutto ’l core e con quella favella
-ch’è una in tutti, a Dio feci olocausto,
-qual conveniesi a la grazia novella.
+Con tutto ’l core e con quella favella ch’è una in tutti, a Dio feci olocausto, qual conveniesi a la grazia novella.
 
 E non er’ anco del mio petto essausto
 l’ardor del sacrificio, ch’io conobbi
@@ -2819,13 +2306,9 @@ così da’ lumi che lì m’apparinno
 s’accogliea per la croce una melode
 che mi rapiva, sanza intender l’inno.
 
-Ben m’accors’ io ch’elli era d’alte lode,
-però ch’a me venìa «Resurgi» e «Vinci»
-come a colui che non intende e ode.
+Ben m’accors’ io ch’elli era d’alte lode, però ch’a me venìa «Resurgi» e «Vinci» come a colui che non intende e ode.
 
-Ïo m’innamorava tanto quinci,
-che ’nfino a lì non fu alcuna cosa
-che mi legasse con sì dolci vinci.
+Ïo m’innamorava tanto quinci, che ’nfino a lì non fu alcuna cosa che mi legasse con sì dolci vinci.
 
 Forse la mia parola par troppo osa,
 posponendo il piacer de li occhi belli,
@@ -2840,8 +2323,6 @@ per escusarmi, e vedermi dir vero:
 ché ’l piacer santo non è qui dischiuso,
 
 perché si fa, montando, più sincero.
-
-
 
 
 Paradiso
@@ -2880,13 +2361,9 @@ né si partì la gemma dal suo nastro,
 ma per la lista radïal trascorse,
 che parve foco dietro ad alabastro.
 
-Sì pïa l’ombra d’Anchise si porse,
-se fede merta nostra maggior musa,
-quando in Eliso del figlio s’accorse.
+Sì pïa l’ombra d’Anchise si porse, se fede merta nostra maggior musa, quando in Eliso del figlio s’accorse.
 
-«O sanguis meus, o superinfusa
-gratïa Deï, sicut tibi cui
-bis unquam celi ianüa reclusa?».
+«O sanguis meus, o superinfusa gratïa Deï, sicut tibi cui bis unquam celi ianüa reclusa?».
 
 Così quel lume: ond’ io m’attesi a lui;
 poscia rivolsi a la mia donna il viso,
@@ -2940,9 +2417,7 @@ la voce tua sicura, balda e lieta
 suoni la volontà, suoni ’l disio,
 a che la mia risposta è già decreta!».
 
-Io mi volsi a Beatrice, e quella udio
-pria ch’io parlassi, e arrisemi un cenno
-che fece crescer l’ali al voler mio.
+Io mi volsi a Beatrice, e quella udio pria ch’io parlassi, e arrisemi un cenno che fece crescer l’ali al voler mio.
 
 Poi cominciai così: «L’affetto e ’l senno,
 come la prima equalità v’apparse,
@@ -2960,13 +2435,9 @@ ond’ io, che son mortal, mi sento in questa
 disagguaglianza, e però non ringrazio
 se non col core a la paterna festa.
 
-Ben supplico io a te, vivo topazio
-che questa gioia prezïosa ingemmi,
-perché mi facci del tuo nome sazio».
+Ben supplico io a te, vivo topazio che questa gioia prezïosa ingemmi, perché mi facci del tuo nome sazio».
 
-«O fronda mia in che io compiacemmi
-pur aspettando, io fui la tua radice»:
-cotal principio, rispondendo, femmi.
+«O fronda mia in che io compiacemmi pur aspettando, io fui la tua radice»: cotal principio, rispondendo, femmi.
 
 Poscia mi disse: «Quel da cui si dice
 tua cognazione e che cent’ anni e piùe
@@ -2976,25 +2447,15 @@ mio figlio fu e tuo bisavol fue:
 ben si convien che la lunga fatica
 tu li raccorci con l’opere tue.
 
-Fiorenza dentro da la cerchia antica,
-ond’ ella toglie ancora e terza e nona,
-si stava in pace, sobria e pudica.
+Fiorenza dentro da la cerchia antica, ond’ ella toglie ancora e terza e nona, si stava in pace, sobria e pudica.
 
-Non avea catenella, non corona,
-non gonne contigiate, non cintura
-che fosse a veder più che la persona.
+Non avea catenella, non corona, non gonne contigiate, non cintura che fosse a veder più che la persona.
 
-Non faceva, nascendo, ancor paura
-la figlia al padre, che ’l tempo e la dote
-non fuggien quinci e quindi la misura.
+Non faceva, nascendo, ancor paura la figlia al padre, che ’l tempo e la dote non fuggien quinci e quindi la misura.
 
-Non avea case di famiglia vòte;
-non v’era giunto ancor Sardanapalo
-a mostrar ciò che ’n camera si puote.
+Non avea case di famiglia vòte; non v’era giunto ancor Sardanapalo a mostrar ciò che ’n camera si puote.
 
-Non era vinto ancora Montemalo
-dal vostro Uccellatoio, che, com’ è vinto
-nel montar sù, così sarà nel calo.
+Non era vinto ancora Montemalo dal vostro Uccellatoio, che, com’ è vinto nel montar sù, così sarà nel calo.
 
 Bellincion Berti vid’ io andar cinto
 di cuoio e d’osso, e venir da lo specchio
@@ -3004,9 +2465,7 @@ e vidi quel d’i Nerli e quel del Vecchio
 esser contenti a la pelle scoperta,
 e le sue donne al fuso e al pennecchio.
 
-Oh fortunate! ciascuna era certa
-de la sua sepultura, e ancor nulla
-era per Francia nel letto diserta.
+Oh fortunate! ciascuna era certa de la sua sepultura, e ancor nulla era per Francia nel letto diserta.
 
 L’una vegghiava a studio de la culla,
 e, consolando, usava l’idïoma
@@ -3016,9 +2475,7 @@ l’altra, traendo a la rocca la chioma,
 favoleggiava con la sua famiglia
 d’i Troiani, di Fiesole e di Roma.
 
-Saria tenuta allor tal maraviglia
-una Cianghella, un Lapo Salterello,
-qual or saria Cincinnato e Corniglia.
+Saria tenuta allor tal maraviglia una Cianghella, un Lapo Salterello, qual or saria Cincinnato e Corniglia.
 
 A così riposato, a così bello
 viver di cittadini, a così fida
@@ -3028,25 +2485,17 @@ Maria mi diè, chiamata in alte grida;
 e ne l’antico vostro Batisteo
 insieme fui cristiano e Cacciaguida.
 
-Moronto fu mio frate ed Eliseo;
-mia donna venne a me di val di Pado,
-e quindi il sopranome tuo si feo.
+Moronto fu mio frate ed Eliseo; mia donna venne a me di val di Pado, e quindi il sopranome tuo si feo.
 
-Poi seguitai lo ’mperador Currado;
-ed el mi cinse de la sua milizia,
-tanto per bene ovrar li venni in grado.
+Poi seguitai lo ’mperador Currado; ed el mi cinse de la sua milizia, tanto per bene ovrar li venni in grado.
 
-Dietro li andai incontro a la nequizia
-di quella legge il cui popolo usurpa,
-per colpa d’i pastor, vostra giustizia.
+Dietro li andai incontro a la nequizia di quella legge il cui popolo usurpa, per colpa d’i pastor, vostra giustizia.
 
 Quivi fu’ io da quella gente turpa
 disviluppato dal mondo fallace,
 lo cui amor molt’ anime deturpa;
 
 e venni dal martiro a questa pace».
-
-
 
 
 Paradiso
@@ -3061,9 +2510,7 @@ mirabil cosa non mi sarà mai:
 ché là dove appetito non si torce,
 dico nel cielo, io me ne gloriai.
 
-Ben se’ tu manto che tosto raccorce:
-sì che, se non s’appon di dì in die,
-lo tempo va dintorno con le force.
+Ben se’ tu manto che tosto raccorce: sì che, se non s’appon di dì in die, lo tempo va dintorno con le force.
 
 Dal ‘voi’ che prima a Roma s’offerie,
 in che la sua famiglia men persevra,
@@ -3073,13 +2520,9 @@ onde Beatrice, ch’era un poco scevra,
 ridendo, parve quella che tossio
 al primo fallo scritto di Ginevra.
 
-Io cominciai: «Voi siete il padre mio;
-voi mi date a parlar tutta baldezza;
-voi mi levate sì, ch’i’ son più ch’io.
+Io cominciai: «Voi siete il padre mio; voi mi date a parlar tutta baldezza; voi mi levate sì, ch’i’ son più ch’io.
 
-Per tanti rivi s’empie d’allegrezza
-la mente mia, che di sé fa letizia
-perché può sostener che non si spezza.
+Per tanti rivi s’empie d’allegrezza la mente mia, che di sé fa letizia perché può sostener che non si spezza.
 
 Ditemi dunque, cara mia primizia,
 quai fuor li vostri antichi e quai fuor li anni
@@ -3105,21 +2548,13 @@ al suo Leon cinquecento cinquanta
 e trenta fiate venne questo foco
 a rinfiammarsi sotto la sua pianta.
 
-Li antichi miei e io nacqui nel loco
-dove si truova pria l’ultimo sesto
-da quei che corre il vostro annüal gioco.
+Li antichi miei e io nacqui nel loco dove si truova pria l’ultimo sesto da quei che corre il vostro annüal gioco.
 
-Basti d’i miei maggiori udirne questo:
-chi ei si fosser e onde venner quivi,
-più è tacer che ragionare onesto.
+Basti d’i miei maggiori udirne questo: chi ei si fosser e onde venner quivi, più è tacer che ragionare onesto.
 
-Tutti color ch’a quel tempo eran ivi
-da poter arme tra Marte e ’l Batista,
-eran il quinto di quei ch’or son vivi.
+Tutti color ch’a quel tempo eran ivi da poter arme tra Marte e ’l Batista, eran il quinto di quei ch’or son vivi.
 
-Ma la cittadinanza, ch’è or mista
-di Campi, di Certaldo e di Fegghine,
-pura vediesi ne l’ultimo artista.
+Ma la cittadinanza, ch’è or mista di Campi, di Certaldo e di Fegghine, pura vediesi ne l’ultimo artista.
 
 Oh quanto fora meglio esser vicine
 quelle genti ch’io dico, e al Galluzzo
@@ -3157,9 +2592,7 @@ udir come le schiatte si disfanno
 non ti parrà nova cosa né forte,
 poscia che le cittadi termine hanno.
 
-Le vostre cose tutte hanno lor morte,
-sì come voi; ma celasi in alcuna
-che dura molto, e le vite son corte.
+Le vostre cose tutte hanno lor morte, sì come voi; ma celasi in alcuna che dura molto, e le vite son corte.
 
 E come ’l volger del ciel de la luna
 cuopre e discuopre i liti sanza posa,
@@ -3185,25 +2618,15 @@ erano i Ravignani, ond’ è disceso
 il conte Guido e qualunque del nome
 de l’alto Bellincione ha poscia preso.
 
-Quel de la Pressa sapeva già come
-regger si vuole, e avea Galigaio
-dorata in casa sua già l’elsa e ’l pome.
+Quel de la Pressa sapeva già come regger si vuole, e avea Galigaio dorata in casa sua già l’elsa e ’l pome.
 
-Grand’ era già la colonna del Vaio,
-Sacchetti, Giuochi, Fifanti e Barucci
-e Galli e quei ch’arrossan per lo staio.
+Grand’ era già la colonna del Vaio, Sacchetti, Giuochi, Fifanti e Barucci e Galli e quei ch’arrossan per lo staio.
 
-Lo ceppo di che nacquero i Calfucci
-era già grande, e già eran tratti
-a le curule Sizii e Arrigucci.
+Lo ceppo di che nacquero i Calfucci era già grande, e già eran tratti a le curule Sizii e Arrigucci.
 
-Oh quali io vidi quei che son disfatti
-per lor superbia! e le palle de l’oro
-fiorian Fiorenza in tutt’ i suoi gran fatti.
+Oh quali io vidi quei che son disfatti per lor superbia! e le palle de l’oro fiorian Fiorenza in tutt’ i suoi gran fatti.
 
-Così facieno i padri di coloro
-che, sempre che la vostra chiesa vaca,
-si fanno grassi stando a consistoro.
+Così facieno i padri di coloro che, sempre che la vostra chiesa vaca, si fanno grassi stando a consistoro.
 
 L’oltracotata schiatta che s’indraca
 dietro a chi fugge, e a chi mostra ’l dente
@@ -3213,13 +2636,9 @@ già venìa sù, ma di picciola gente;
 sì che non piacque ad Ubertin Donato
 che poï il suocero il fé lor parente.
 
-Già era ’l Caponsacco nel mercato
-disceso giù da Fiesole, e già era
-buon cittadino Giuda e Infangato.
+Già era ’l Caponsacco nel mercato disceso giù da Fiesole, e già era buon cittadino Giuda e Infangato.
 
-Io dirò cosa incredibile e vera:
-nel picciol cerchio s’entrava per porta
-che si nomava da quei de la Pera.
+Io dirò cosa incredibile e vera: nel picciol cerchio s’entrava per porta che si nomava da quei de la Pera.
 
 Ciascun che de la bella insegna porta
 del gran barone il cui nome e ’l cui pregio
@@ -3229,9 +2648,7 @@ da esso ebbe milizia e privilegio;
 avvegna che con popol si rauni
 oggi colui che la fascia col fregio.
 
-Già eran Gualterotti e Importuni;
-e ancor saria Borgo più quïeto,
-se di novi vicin fosser digiuni.
+Già eran Gualterotti e Importuni; e ancor saria Borgo più quïeto, se di novi vicin fosser digiuni.
 
 La casa di che nacque il vostro fleto,
 per lo giusto disdegno che v’ha morti
@@ -3245,21 +2662,15 @@ Molti sarebber lieti, che son tristi,
 se Dio t’avesse conceduto ad Ema
 la prima volta ch’a città venisti.
 
-Ma conveniesi a quella pietra scema
-che guarda ’l ponte, che Fiorenza fesse
-vittima ne la sua pace postrema.
+Ma conveniesi a quella pietra scema che guarda ’l ponte, che Fiorenza fesse vittima ne la sua pace postrema.
 
-Con queste genti, e con altre con esse,
-vid’ io Fiorenza in sì fatto riposo,
-che non avea cagione onde piangesse.
+Con queste genti, e con altre con esse, vid’ io Fiorenza in sì fatto riposo, che non avea cagione onde piangesse.
 
 Con queste genti vid’io glorïoso
 e giusto il popol suo, tanto che ’l giglio
 non era ad asta mai posto a ritroso,
 
 né per divisïon fatto vermiglio».
-
-
 
 
 Paradiso
@@ -3302,9 +2713,7 @@ per che la voglia mia saria contenta
 d’intender qual fortuna mi s’appressa:
 ché saetta previsa vien più lenta».
 
-Così diss’ io a quella luce stessa
-che pria m’avea parlato; e come volle
-Beatrice, fu la mia voglia confessa.
+Così diss’ io a quella luce stessa che pria m’avea parlato; e come volle Beatrice, fu la mia voglia confessa.
 
 Né per ambage, in che la gente folle
 già s’inviscava pria che fosse anciso
@@ -3322,29 +2731,17 @@ necessità però quindi non prende
 se non come dal viso in che si specchia
 nave che per torrente giù discende.
 
-Da indi, sì come viene ad orecchia
-dolce armonia da organo, mi viene
-a vista il tempo che ti s’apparecchia.
+Da indi, sì come viene ad orecchia dolce armonia da organo, mi viene a vista il tempo che ti s’apparecchia.
 
-Qual si partio Ipolito d’Atene
-per la spietata e perfida noverca,
-tal di Fiorenza partir ti convene.
+Qual si partio Ipolito d’Atene per la spietata e perfida noverca, tal di Fiorenza partir ti convene.
 
-Questo si vuole e questo già si cerca,
-e tosto verrà fatto a chi ciò pensa
-là dove Cristo tutto dì si merca.
+Questo si vuole e questo già si cerca, e tosto verrà fatto a chi ciò pensa là dove Cristo tutto dì si merca.
 
-La colpa seguirà la parte offensa
-in grido, come suol; ma la vendetta
-fia testimonio al ver che la dispensa.
+La colpa seguirà la parte offensa in grido, come suol; ma la vendetta fia testimonio al ver che la dispensa.
 
-Tu lascerai ogne cosa diletta
-più caramente; e questo è quello strale
-che l’arco de lo essilio pria saetta.
+Tu lascerai ogne cosa diletta più caramente; e questo è quello strale che l’arco de lo essilio pria saetta.
 
-Tu proverai sì come sa di sale
-lo pane altrui, e come è duro calle
-lo scendere e ’l salir per l’altrui scale.
+Tu proverai sì come sa di sale lo pane altrui, e come è duro calle lo scendere e ’l salir per l’altrui scale.
 
 E quel che più ti graverà le spalle,
 sarà la compagnia malvagia e scempia
@@ -3354,9 +2751,7 @@ che tutta ingrata, tutta matta ed empia
 si farà contr’ a te; ma, poco appresso,
 ella, non tu, n’avrà rossa la tempia.
 
-Di sua bestialitate il suo processo
-farà la prova; sì ch’a te fia bello
-averti fatta parte per te stesso.
+Di sua bestialitate il suo processo farà la prova; sì ch’a te fia bello averti fatta parte per te stesso.
 
 Lo primo tuo refugio e ’l primo ostello
 sarà la cortesia del gran Lombardo
@@ -3366,9 +2761,7 @@ ch’in te avrà sì benigno riguardo,
 che del fare e del chieder, tra voi due,
 fia primo quel che tra li altri è più tardo.
 
-Con lui vedrai colui che ’mpresso fue,
-nascendo, sì da questa stella forte,
-che notabili fier l’opere sue.
+Con lui vedrai colui che ’mpresso fue, nascendo, sì da questa stella forte, che notabili fier l’opere sue.
 
 Non se ne son le genti ancora accorte
 per la novella età, ché pur nove anni
@@ -3378,9 +2771,7 @@ ma pria che ’l Guasco l’alto Arrigo inganni,
 parran faville de la sua virtute
 in non curar d’argento né d’affanni.
 
-Le sue magnificenze conosciute
-saranno ancora, sì che ’ suoi nemici
-non ne potran tener le lingue mute.
+Le sue magnificenze conosciute saranno ancora, sì che ’ suoi nemici non ne potran tener le lingue mute.
 
 A lui t’aspetta e a’ suoi benefici;
 per lui fia trasmutata molta gente,
@@ -3390,13 +2781,9 @@ e portera’ne scritto ne la mente
 di lui, e nol dirai»; e disse cose
 incredibili a quei che fier presente.
 
-Poi giunse: «Figlio, queste son le chiose
-di quel che ti fu detto; ecco le ’nsidie
-che dietro a pochi giri son nascose.
+Poi giunse: «Figlio, queste son le chiose di quel che ti fu detto; ecco le ’nsidie che dietro a pochi giri son nascose.
 
-Non vo’ però ch’a’ tuoi vicini invidie,
-poscia che s’infutura la tua vita
-vie più là che ’l punir di lor perfidie».
+Non vo’ però ch’a’ tuoi vicini invidie, poscia che s’infutura la tua vita vie più là che ’l punir di lor perfidie».
 
 Poi che, tacendo, si mostrò spedita
 l’anima santa di metter la trama
@@ -3434,17 +2821,11 @@ indi rispuose: «Coscïenza fusca
 o de la propria o de l’altrui vergogna
 pur sentirà la tua parola brusca.
 
-Ma nondimen, rimossa ogne menzogna,
-tutta tua visïon fa manifesta;
-e lascia pur grattar dov’ è la rogna.
+Ma nondimen, rimossa ogne menzogna, tutta tua visïon fa manifesta; e lascia pur grattar dov’ è la rogna.
 
-Ché se la voce tua sarà molesta
-nel primo gusto, vital nodrimento
-lascerà poi, quando sarà digesta.
+Ché se la voce tua sarà molesta nel primo gusto, vital nodrimento lascerà poi, quando sarà digesta.
 
-Questo tuo grido farà come vento,
-che le più alte cime più percuote;
-e ciò non fa d’onor poco argomento.
+Questo tuo grido farà come vento, che le più alte cime più percuote; e ciò non fa d’onor poco argomento.
 
 Però ti son mostrate in queste rote,
 nel monte e ne la valle dolorosa
@@ -3455,8 +2836,6 @@ né ferma fede per essempro ch’aia
 la sua radice incognita e ascosa,
 
 né per altro argomento che non paia».
-
-
 
 
 Paradiso
@@ -3487,9 +2866,7 @@ fin che ’l piacere etterno, che diretto
 raggiava in Bëatrice, dal bel viso
 mi contentava col secondo aspetto.
 
-Vincendo me col lume d’un sorriso,
-ella mi disse: «Volgiti e ascolta;
-ché non pur ne’ miei occhi è paradiso».
+Vincendo me col lume d’un sorriso, ella mi disse: «Volgiti e ascolta; ché non pur ne’ miei occhi è paradiso».
 
 Come si vede qui alcuna volta
 l’affetto ne la vista, s’elli è tanto,
@@ -3507,29 +2884,17 @@ spiriti son beati, che giù, prima
 che venissero al ciel, fuor di gran voce,
 sì ch’ogne musa ne sarebbe opima.
 
-Però mira ne’ corni de la croce:
-quello ch’io nomerò, lì farà l’atto
-che fa in nube il suo foco veloce».
+Però mira ne’ corni de la croce: quello ch’io nomerò, lì farà l’atto che fa in nube il suo foco veloce».
 
-Io vidi per la croce un lume tratto
-dal nomar Iosuè, com’ el si feo;
-né mi fu noto il dir prima che ’l fatto.
+Io vidi per la croce un lume tratto dal nomar Iosuè, com’ el si feo; né mi fu noto il dir prima che ’l fatto.
 
-E al nome de l’alto Macabeo
-vidi moversi un altro roteando,
-e letizia era ferza del paleo.
+E al nome de l’alto Macabeo vidi moversi un altro roteando, e letizia era ferza del paleo.
 
-Così per Carlo Magno e per Orlando
-due ne seguì lo mio attento sguardo,
-com’ occhio segue suo falcon volando.
+Così per Carlo Magno e per Orlando due ne seguì lo mio attento sguardo, com’ occhio segue suo falcon volando.
 
-Poscia trasse Guiglielmo e Rinoardo
-e ’l duca Gottifredi la mia vista
-per quella croce, e Ruberto Guiscardo.
+Poscia trasse Guiglielmo e Rinoardo e ’l duca Gottifredi la mia vista per quella croce, e Ruberto Guiscardo.
 
-Indi, tra l’altre luci mota e mista,
-mostrommi l’alma che m’avea parlato
-qual era tra i cantor del cielo artista.
+Indi, tra l’altre luci mota e mista, mostrommi l’alma che m’avea parlato qual era tra i cantor del cielo artista.
 
 Io mi rivolsi dal mio destro lato
 per vedere in Beatrice il mio dovere,
@@ -3555,9 +2920,7 @@ tal fu ne li occhi miei, quando fui vòlto,
 per lo candor de la temprata stella
 sesta, che dentro a sé m’avea ricolto.
 
-Io vidi in quella giovïal facella
-lo sfavillar de l’amor che lì era
-segnare a li occhi miei nostra favella.
+Io vidi in quella giovïal facella lo sfavillar de l’amor che lì era segnare a li occhi miei nostra favella.
 
 E come augelli surti di rivera,
 quasi congratulando a lor pasture,
@@ -3567,9 +2930,7 @@ sì dentro ai lumi sante creature
 volitando cantavano, e faciensi
 or D, or I, or L in sue figure.
 
-Prima, cantando, a sua nota moviensi;
-poi, diventando l’un di questi segni,
-un poco s’arrestavano e taciensi.
+Prima, cantando, a sua nota moviensi; poi, diventando l’un di questi segni, un poco s’arrestavano e taciensi.
 
 O diva Pegasëa che li ’ngegni
 fai glorïosi e rendili longevi,
@@ -3583,17 +2944,11 @@ Mostrarsi dunque in cinque volte sette
 vocali e consonanti; e io notai
 le parti sì, come mi parver dette.
 
-‘DILIGITE IUSTITIAM’, primai
-fur verbo e nome di tutto ’l dipinto;
-‘QUI IUDICATIS TERRAM’, fur sezzai.
+‘DILIGITE IUSTITIAM’, primai fur verbo e nome di tutto ’l dipinto; ‘QUI IUDICATIS TERRAM’, fur sezzai.
 
-Poscia ne l’emme del vocabol quinto
-rimasero ordinate; sì che Giove
-pareva argento lì d’oro distinto.
+Poscia ne l’emme del vocabol quinto rimasero ordinate; sì che Giove pareva argento lì d’oro distinto.
 
-E vidi scendere altre luci dove
-era il colmo de l’emme, e lì quetarsi
-cantando, credo, il ben ch’a sé le move.
+E vidi scendere altre luci dove era il colmo de l’emme, e lì quetarsi cantando, credo, il ben ch’a sé le move.
 
 Poi, come nel percuoter d’i ciocchi arsi
 surgono innumerabili faville,
@@ -3607,13 +2962,9 @@ e quïetata ciascuna in suo loco,
 la testa e ’l collo d’un’aguglia vidi
 rappresentare a quel distinto foco.
 
-Quei che dipinge lì, non ha chi ’l guidi;
-ma esso guida, e da lui si rammenta
-quella virtù ch’è forma per li nidi.
+Quei che dipinge lì, non ha chi ’l guidi; ma esso guida, e da lui si rammenta quella virtù ch’è forma per li nidi.
 
-L’altra bëatitudo, che contenta
-pareva prima d’ingigliarsi a l’emme,
-con poco moto seguitò la ’mprenta.
+L’altra bëatitudo, che contenta pareva prima d’ingigliarsi a l’emme, con poco moto seguitò la ’mprenta.
 
 O dolce stella, quali e quante gemme
 mi dimostraro che nostra giustizia
@@ -3635,17 +2986,13 @@ Già si solea con le spade far guerra;
 ma or si fa togliendo or qui or quivi
 lo pan che ’l pïo Padre a nessun serra.
 
-Ma tu che sol per cancellare scrivi,
-pensa che Pietro e Paulo, che moriro
-per la vigna che guasti, ancor son vivi.
+Ma tu che sol per cancellare scrivi, pensa che Pietro e Paulo, che moriro per la vigna che guasti, ancor son vivi.
 
 Ben puoi tu dire: «I’ ho fermo ’l disiro
 sì a colui che volle viver solo
 e che per salti fu tratto al martiro,
 
 ch’io non conosco il pescator né Polo».
-
-
 
 
 Paradiso
@@ -3676,9 +3023,7 @@ e in terra lasciai la mia memoria
 sì fatta, che le genti lì malvage
 commendan lei, ma non seguon la storia».
 
-Così un sol calor di molte brage
-si fa sentir, come di molti amori
-usciva solo un suon di quella image.
+Così un sol calor di molte brage si fa sentir, come di molti amori usciva solo un suon di quella image.
 
 Ond’ io appresso: «O perpetüi fiori
 de l’etterna letizia, che pur uno
@@ -3688,13 +3033,9 @@ solvetemi, spirando, il gran digiuno
 che lungamente m’ha tenuto in fame,
 non trovandoli in terra cibo alcuno.
 
-Ben so io che, se ’n cielo altro reame
-la divina giustizia fa suo specchio,
-che ’l vostro non l’apprende con velame.
+Ben so io che, se ’n cielo altro reame la divina giustizia fa suo specchio, che ’l vostro non l’apprende con velame.
 
-Sapete come attento io m’apparecchio
-ad ascoltar; sapete qual è quello
-dubbio che m’è digiun cotanto vecchio».
+Sapete come attento io m’apparecchio ad ascoltar; sapete qual è quello dubbio che m’è digiun cotanto vecchio».
 
 Quasi falcone ch’esce del cappello,
 move la testa e con l’ali si plaude,
@@ -3736,9 +3077,7 @@ che, ben che da la proda veggia il fondo,
 in pelago nol vede; e nondimeno
 èli, ma cela lui l’esser profondo.
 
-Lume non è, se non vien dal sereno
-che non si turba mai; anzi è tenèbra
-od ombra de la carne o suo veleno.
+Lume non è, se non vien dal sereno che non si turba mai; anzi è tenèbra od ombra de la carne o suo veleno.
 
 Assai t’è mo aperta la latebra
 che t’ascondeva la giustizia viva,
@@ -3752,9 +3091,7 @@ e tutti suoi voleri e atti buoni
 sono, quanto ragione umana vede,
 sanza peccato in vita o in sermoni.
 
-Muore non battezzato e sanza fede:
-ov’ è questa giustizia che ’l condanna?
-ov’ è la colpa sua, se ei non crede?”.
+Muore non battezzato e sanza fede: ov’ è questa giustizia che ’l condanna? ov’ è la colpa sua, se ei non crede?”.
 
 Or tu chi se’, che vuo’ sedere a scranna,
 per giudicar di lungi mille miglia
@@ -3764,13 +3101,9 @@ Certo a colui che meco s’assottiglia,
 se la Scrittura sovra voi non fosse,
 da dubitar sarebbe a maraviglia.
 
-Oh terreni animali! oh menti grosse!
-La prima volontà, ch’è da sé buona,
-da sé, ch’è sommo ben, mai non si mosse.
+Oh terreni animali! oh menti grosse! La prima volontà, ch’è da sé buona, da sé, ch’è sommo ben, mai non si mosse.
 
-Cotanto è giusto quanto a lei consuona:
-nullo creato bene a sé la tira,
-ma essa, radïando, lui cagiona».
+Cotanto è giusto quanto a lei consuona: nullo creato bene a sé la tira, ma essa, radïando, lui cagiona».
 
 Quale sovresso il nido si rigira
 poi c’ha pasciuti la cicogna i figli,
@@ -3780,9 +3113,7 @@ cotal si fece, e sì leväi i cigli,
 la benedetta imagine, che l’ali
 movea sospinte da tanti consigli.
 
-Roteando cantava, e dicea: «Quali
-son le mie note a te, che non le ’ntendi,
-tal è il giudicio etterno a voi mortali».
+Roteando cantava, e dicea: «Quali son le mie note a te, che non le ’ntendi, tal è il giudicio etterno a voi mortali».
 
 Poi si quetaro quei lucenti incendi
 de lo Spirito Santo ancor nel segno
@@ -3808,21 +3139,13 @@ Lì si vedrà, tra l’opere d’Alberto,
 quella che tosto moverà la penna,
 per che ’l regno di Praga fia diserto.
 
-Lì si vedrà il duol che sovra Senna
-induce, falseggiando la moneta,
-quel che morrà di colpo di cotenna.
+Lì si vedrà il duol che sovra Senna induce, falseggiando la moneta, quel che morrà di colpo di cotenna.
 
-Lì si vedrà la superbia ch’asseta,
-che fa lo Scotto e l’Inghilese folle,
-sì che non può soffrir dentro a sua meta.
+Lì si vedrà la superbia ch’asseta, che fa lo Scotto e l’Inghilese folle, sì che non può soffrir dentro a sua meta.
 
-Vedrassi la lussuria e ’l viver molle
-di quel di Spagna e di quel di Boemme,
-che mai valor non conobbe né volle.
+Vedrassi la lussuria e ’l viver molle di quel di Spagna e di quel di Boemme, che mai valor non conobbe né volle.
 
-Vedrassi al Ciotto di Ierusalemme
-segnata con un i la sua bontate,
-quando ’l contrario segnerà un emme.
+Vedrassi al Ciotto di Ierusalemme segnata con un i la sua bontate, quando ’l contrario segnerà un emme.
 
 Vedrassi l’avarizia e la viltate
 di quei che guarda l’isola del foco,
@@ -3832,13 +3155,9 @@ e a dare ad intender quanto è poco,
 la sua scrittura fian lettere mozze,
 che noteranno molto in parvo loco.
 
-E parranno a ciascun l’opere sozze
-del barba e del fratel, che tanto egregia
-nazione e due corone han fatte bozze.
+E parranno a ciascun l’opere sozze del barba e del fratel, che tanto egregia nazione e due corone han fatte bozze.
 
-E quel di Portogallo e di Norvegia
-lì si conosceranno, e quel di Rascia
-che male ha visto il conio di Vinegia.
+E quel di Portogallo e di Norvegia lì si conosceranno, e quel di Rascia che male ha visto il conio di Vinegia.
 
 Oh beata Ungheria, se non si lascia
 più malmenare! e beata Navarra,
@@ -3849,8 +3168,6 @@ di questo, Niccosïa e Famagosta
 per la lor bestia si lamenti e garra,
 
 che dal fianco de l’altre non si scosta».
-
-
 
 
 Paradiso
@@ -3893,9 +3210,7 @@ così, rimosso d’aspettare indugio,
 quel mormorar de l’aguglia salissi
 su per lo collo, come fosse bugio.
 
-Fecesi voce quivi, e quindi uscissi
-per lo suo becco in forma di parole,
-quali aspettava il core ov’ io le scrissi.
+Fecesi voce quivi, e quindi uscissi per lo suo becco in forma di parole, quali aspettava il core ov’ io le scrissi.
 
 «La parte in me che vede e pate il sole
 ne l’aguglie mortali», incominciommi,
@@ -3977,9 +3292,7 @@ per non tenermi in ammirar sospeso:
 perch’ io le dico, ma non vedi come;
 sì che, se son credute, sono ascose.
 
-Fai come quei che la cosa per nome
-apprende ben, ma la sua quiditate
-veder non può se altri non la prome.
+Fai come quei che la cosa per nome apprende ben, ma la sua quiditate veder non può se altri non la prome.
 
 Regnum celorum vïolenza pate
 da caldo amore e da viva speranza,
@@ -3989,13 +3302,9 @@ non a guisa che l’omo a l’om sobranza,
 ma vince lei perché vuole esser vinta,
 e, vinta, vince con sua beninanza.
 
-La prima vita del ciglio e la quinta
-ti fa maravigliar, perché ne vedi
-la regïon de li angeli dipinta.
+La prima vita del ciglio e la quinta ti fa maravigliar, perché ne vedi la regïon de li angeli dipinta.
 
-D’i corpi suoi non uscir, come credi,
-Gentili, ma Cristiani, in ferma fede
-quel d’i passuri e quel d’i passi piedi.
+D’i corpi suoi non uscir, come credi, Gentili, ma Cristiani, in ferma fede quel d’i passuri e quel d’i passi piedi.
 
 Ché l’una de lo ’nferno, u’ non si riede
 già mai a buon voler, tornò a l’ossa;
@@ -4025,9 +3334,7 @@ ond’ ei credette in quella, e non sofferse
 da indi il puzzo più del paganesmo;
 e riprendiene le genti perverse.
 
-Quelle tre donne li fur per battesmo
-che tu vedesti da la destra rota,
-dinanzi al battezzar più d’un millesmo.
+Quelle tre donne li fur per battesmo che tu vedesti da la destra rota, dinanzi al battezzar più d’un millesmo.
 
 O predestinazion, quanto remota
 è la radice tua da quelli aspetti
@@ -4041,9 +3348,7 @@ ed ènne dolce così fatto scemo,
 perché il ben nostro in questo ben s’affina,
 che quel che vole Iddio, e noi volemo».
 
-Così da quella imagine divina,
-per farmi chiara la mia corta vista,
-data mi fu soave medicina.
+Così da quella imagine divina, per farmi chiara la mia corta vista, data mi fu soave medicina.
 
 E come a buon cantor buon citarista
 fa seguitar lo guizzo de la corda,
@@ -4056,15 +3361,11 @@ pur come batter d’occhi si concorda,
 con le parole mover le fiammette.
 
 
-
-
 Paradiso
 Canto XXI
 
 
-Già eran li occhi miei rifissi al volto
-de la mia donna, e l’animo con essi,
-e da ogne altro intento s’era tolto.
+Già eran li occhi miei rifissi al volto de la mia donna, e l’animo con essi, e da ogne altro intento s’era tolto.
 
 E quella non ridea; ma «S’io ridessi»,
 mi cominciò, «tu ti faresti quale
@@ -4078,13 +3379,9 @@ se non si temperasse, tanto splende,
 che ’l tuo mortal podere, al suo fulgore,
 sarebbe fronda che trono scoscende.
 
-Noi sem levati al settimo splendore,
-che sotto ’l petto del Leone ardente
-raggia mo misto giù del suo valore.
+Noi sem levati al settimo splendore, che sotto ’l petto del Leone ardente raggia mo misto giù del suo valore.
 
-Ficca di retro a li occhi tuoi la mente,
-e fa di quelli specchi a la figura
-che ’n questo specchio ti sarà parvente».
+Ficca di retro a li occhi tuoi la mente, e fa di quelli specchi a la figura che ’n questo specchio ti sarà parvente».
 
 Qual savesse qual era la pastura
 del viso mio ne l’aspetto beato
@@ -4102,9 +3399,7 @@ di color d’oro in che raggio traluce
 vid’ io uno scaleo eretto in suso
 tanto, che nol seguiva la mia luce.
 
-Vidi anche per li gradi scender giuso
-tanti splendor, ch’io pensai ch’ogne lume
-che par nel ciel, quindi fosse diffuso.
+Vidi anche per li gradi scender giuso tanti splendor, ch’io pensai ch’ogne lume che par nel ciel, quindi fosse diffuso.
 
 E come, per lo natural costume,
 le pole insieme, al cominciar del giorno,
@@ -4118,17 +3413,11 @@ tal modo parve me che quivi fosse
 in quello sfavillar che ’nsieme venne,
 sì come in certo grado si percosse.
 
-E quel che presso più ci si ritenne,
-si fé sì chiaro, ch’io dicea pensando:
-‘Io veggio ben l’amor che tu m’accenne.
+E quel che presso più ci si ritenne, si fé sì chiaro, ch’io dicea pensando: ‘Io veggio ben l’amor che tu m’accenne.
 
-Ma quella ond’ io aspetto il come e ’l quando
-del dire e del tacer, si sta; ond’ io,
-contra ’l disio, fo ben ch’io non dimando’.
+Ma quella ond’ io aspetto il come e ’l quando del dire e del tacer, si sta; ond’ io, contra ’l disio, fo ben ch’io non dimando’.
 
-Per ch’ella, che vedëa il tacer mio
-nel veder di colui che tutto vede,
-mi disse: «Solvi il tuo caldo disio».
+Per ch’ella, che vedëa il tacer mio nel veder di colui che tutto vede, mi disse: «Solvi il tuo caldo disio».
 
 E io incominciai: «La mia mercede
 non mi fa degno de la tua risposta;
@@ -4142,9 +3431,7 @@ e dì perché si tace in questa rota
 la dolce sinfonia di paradiso,
 che giù per l’altre suona sì divota».
 
-«Tu hai l’udir mortal sì come il viso»,
-rispuose a me; «onde qui non si canta
-per quel che Bëatrice non ha riso.
+«Tu hai l’udir mortal sì come il viso», rispuose a me; «onde qui non si canta per quel che Bëatrice non ha riso.
 
 Giù per li gradi de la scala santa
 discesi tanto sol per farti festa
@@ -4154,9 +3441,7 @@ né più amor mi fece esser più presta,
 ché più e tanto amor quinci sù ferve,
 sì come il fiammeggiar ti manifesta.
 
-Ma l’alta carità, che ci fa serve
-pronte al consiglio che ’l mondo governa,
-sorteggia qui sì come tu osserve».
+Ma l’alta carità, che ci fa serve pronte al consiglio che ’l mondo governa, sorteggia qui sì come tu osserve».
 
 «Io veggio ben», diss’ io, «sacra lucerna,
 come libero amore in questa corte
@@ -4178,9 +3463,7 @@ la cui virtù, col mio veder congiunta,
 mi leva sopra me tanto, ch’i’ veggio
 la somma essenza de la quale è munta.
 
-Quinci vien l’allegrezza ond’ io fiammeggio;
-per ch’a la vista mia, quant’ ella è chiara,
-la chiarità de la fiamma pareggio.
+Quinci vien l’allegrezza ond’ io fiammeggio; per ch’a la vista mia, quant’ ella è chiara, la chiarità de la fiamma pareggio.
 
 Ma quell’ alma nel ciel che più si schiara,
 quel serafin che ’n Dio più l’occhio ha fisso,
@@ -4190,17 +3473,11 @@ però che sì s’innoltra ne lo abisso
 de l’etterno statuto quel che chiedi,
 che da ogne creata vista è scisso.
 
-E al mondo mortal, quando tu riedi,
-questo rapporta, sì che non presumma
-a tanto segno più mover li piedi.
+E al mondo mortal, quando tu riedi, questo rapporta, sì che non presumma a tanto segno più mover li piedi.
 
-La mente, che qui luce, in terra fumma;
-onde riguarda come può là giùe
-quel che non pote perché ’l ciel l’assumma».
+La mente, che qui luce, in terra fumma; onde riguarda come può là giùe quel che non pote perché ’l ciel l’assumma».
 
-Sì mi prescrisser le parole sue,
-ch’io lasciai la quistione e mi ritrassi
-a dimandarla umilmente chi fue.
+Sì mi prescrisser le parole sue, ch’io lasciai la quistione e mi ritrassi a dimandarla umilmente chi fue.
 
 «Tra ’ due liti d’Italia surgon sassi,
 e non molto distanti a la tua patria,
@@ -4218,41 +3495,25 @@ che pur con cibi di liquor d’ulivi
 lievemente passava caldi e geli,
 contento ne’ pensier contemplativi.
 
-Render solea quel chiostro a questi cieli
-fertilemente; e ora è fatto vano,
-sì che tosto convien che si riveli.
+Render solea quel chiostro a questi cieli fertilemente; e ora è fatto vano, sì che tosto convien che si riveli.
 
-In quel loco fu’ io Pietro Damiano,
-e Pietro Peccator fu’ ne la casa
-di Nostra Donna in sul lito adriano.
+In quel loco fu’ io Pietro Damiano, e Pietro Peccator fu’ ne la casa di Nostra Donna in sul lito adriano.
 
-Poca vita mortal m’era rimasa,
-quando fui chiesto e tratto a quel cappello,
-che pur di male in peggio si travasa.
+Poca vita mortal m’era rimasa, quando fui chiesto e tratto a quel cappello, che pur di male in peggio si travasa.
 
-Venne Cefàs e venne il gran vasello
-de lo Spirito Santo, magri e scalzi,
-prendendo il cibo da qualunque ostello.
+Venne Cefàs e venne il gran vasello de lo Spirito Santo, magri e scalzi, prendendo il cibo da qualunque ostello.
 
-Or voglion quinci e quindi chi rincalzi
-li moderni pastori e chi li meni,
-tanto son gravi, e chi di rietro li alzi.
+Or voglion quinci e quindi chi rincalzi li moderni pastori e chi li meni, tanto son gravi, e chi di rietro li alzi.
 
-Cuopron d’i manti loro i palafreni,
-sì che due bestie van sott’ una pelle:
-oh pazïenza che tanto sostieni!».
+Cuopron d’i manti loro i palafreni, sì che due bestie van sott’ una pelle: oh pazïenza che tanto sostieni!».
 
-A questa voce vid’ io più fiammelle
-di grado in grado scendere e girarsi,
-e ogne giro le facea più belle.
+A questa voce vid’ io più fiammelle di grado in grado scendere e girarsi, e ogne giro le facea più belle.
 
 Dintorno a questa vennero e fermarsi,
 e fero un grido di sì alto suono,
 che non potrebbe qui assomigliarsi;
 
 né io lo ’ntesi, sì mi vinse il tuono.
-
-
 
 
 Paradiso
@@ -4279,17 +3540,11 @@ nel qual, se ’nteso avessi i prieghi suoi,
 già ti sarebbe nota la vendetta
 che tu vedrai innanzi che tu muoi.
 
-La spada di qua sù non taglia in fretta
-né tardo, ma’ ch’al parer di colui
-che disïando o temendo l’aspetta.
+La spada di qua sù non taglia in fretta né tardo, ma’ ch’al parer di colui che disïando o temendo l’aspetta.
 
-Ma rivolgiti omai inverso altrui;
-ch’assai illustri spiriti vedrai,
-se com’ io dico l’aspetto redui».
+Ma rivolgiti omai inverso altrui; ch’assai illustri spiriti vedrai, se com’ io dico l’aspetto redui».
 
-Come a lei piacque, li occhi ritornai,
-e vidi cento sperule che ’nsieme
-più s’abbellivan con mutüi rai.
+Come a lei piacque, li occhi ritornai, e vidi cento sperule che ’nsieme più s’abbellivan con mutüi rai.
 
 Io stava come quei che ’n sé repreme
 la punta del disio, e non s’attenta
@@ -4299,13 +3554,9 @@ e la maggiore e la più luculenta
 di quelle margherite innanzi fessi,
 per far di sé la mia voglia contenta.
 
-Poi dentro a lei udi’: «Se tu vedessi
-com’ io la carità che tra noi arde,
-li tuoi concetti sarebbero espressi.
+Poi dentro a lei udi’: «Se tu vedessi com’ io la carità che tra noi arde, li tuoi concetti sarebbero espressi.
 
-Ma perché tu, aspettando, non tarde
-a l’alto fine, io ti farò risposta
-pur al pensier, da che sì ti riguarde.
+Ma perché tu, aspettando, non tarde a l’alto fine, io ti farò risposta pur al pensier, da che sì ti riguarde.
 
 Quel monte a cui Cassino è ne la costa
 fu frequentato già in su la cima
@@ -4319,13 +3570,9 @@ e tanta grazia sopra me relusse,
 ch’io ritrassi le ville circunstanti
 da l’empio cólto che ’l mondo sedusse.
 
-Questi altri fuochi tutti contemplanti
-uomini fuoro, accesi di quel caldo
-che fa nascere i fiori e ’ frutti santi.
+Questi altri fuochi tutti contemplanti uomini fuoro, accesi di quel caldo che fa nascere i fiori e ’ frutti santi.
 
-Qui è Maccario, qui è Romoaldo,
-qui son li frati miei che dentro ai chiostri
-fermar li piedi e tennero il cor saldo».
+Qui è Maccario, qui è Romoaldo, qui son li frati miei che dentro ai chiostri fermar li piedi e tennero il cor saldo».
 
 E io a lui: «L’affetto che dimostri
 meco parlando, e la buona sembianza
@@ -4335,13 +3582,9 @@ così m’ha dilatata mia fidanza,
 come ’l sol fa la rosa quando aperta
 tanto divien quant’ ell’ ha di possanza.
 
-Però ti priego, e tu, padre, m’accerta
-s’io posso prender tanta grazia, ch’io
-ti veggia con imagine scoverta».
+Però ti priego, e tu, padre, m’accerta s’io posso prender tanta grazia, ch’io ti veggia con imagine scoverta».
 
-Ond’ elli: «Frate, il tuo alto disio
-s’adempierà in su l’ultima spera,
-ove s’adempion tutti li altri e ’l mio.
+Ond’ elli: «Frate, il tuo alto disio s’adempierà in su l’ultima spera, ove s’adempion tutti li altri e ’l mio.
 
 Ivi è perfetta, matura e intera
 ciascuna disïanza; in quella sola
@@ -4351,17 +3594,11 @@ perché non è in loco e non s’impola;
 e nostra scala infino ad essa varca,
 onde così dal viso ti s’invola.
 
-Infin là sù la vide il patriarca
-Iacobbe porger la superna parte,
-quando li apparve d’angeli sì carca.
+Infin là sù la vide il patriarca Iacobbe porger la superna parte, quando li apparve d’angeli sì carca.
 
-Ma, per salirla, mo nessun diparte
-da terra i piedi, e la regola mia
-rimasa è per danno de le carte.
+Ma, per salirla, mo nessun diparte da terra i piedi, e la regola mia rimasa è per danno de le carte.
 
-Le mura che solieno esser badia
-fatte sono spelonche, e le cocolle
-sacca son piene di farina ria.
+Le mura che solieno esser badia fatte sono spelonche, e le cocolle sacca son piene di farina ria.
 
 Ma grave usura tanto non si tolle
 contra ’l piacer di Dio, quanto quel frutto
@@ -4371,9 +3608,7 @@ ché quantunque la Chiesa guarda, tutto
 è de la gente che per Dio dimanda;
 non di parenti né d’altro più brutto.
 
-La carne d’i mortali è tanto blanda,
-che giù non basta buon cominciamento
-dal nascer de la quercia al far la ghianda.
+La carne d’i mortali è tanto blanda, che giù non basta buon cominciamento dal nascer de la quercia al far la ghianda.
 
 Pier cominciò sanz’ oro e sanz’ argento,
 e io con orazione e con digiuno,
@@ -4383,13 +3618,9 @@ e se guardi ’l principio di ciascuno,
 poscia riguardi là dov’ è trascorso,
 tu vederai del bianco fatto bruno.
 
-Veramente Iordan vòlto retrorso
-più fu, e ’l mar fuggir, quando Dio volse,
-mirabile a veder che qui ’l soccorso».
+Veramente Iordan vòlto retrorso più fu, e ’l mar fuggir, quando Dio volse, mirabile a veder che qui ’l soccorso».
 
-Così mi disse, e indi si raccolse
-al suo collegio, e ’l collegio si strinse;
-poi, come turbo, in sù tutto s’avvolse.
+Così mi disse, e indi si raccolse al suo collegio, e ’l collegio si strinse; poi, come turbo, in sù tutto s’avvolse.
 
 La dolce donna dietro a lor mi pinse
 con un sol cenno su per quella scala,
@@ -4419,9 +3650,7 @@ e poi, quando mi fu grazia largita
 d’entrar ne l’alta rota che vi gira,
 la vostra regïon mi fu sortita.
 
-A voi divotamente ora sospira
-l’anima mia, per acquistar virtute
-al passo forte che a sé la tira.
+A voi divotamente ora sospira l’anima mia, per acquistar virtute al passo forte che a sé la tira.
 
 «Tu se’ sì presso a l’ultima salute»,
 cominciò Bëatrice, «che tu dei
@@ -4443,13 +3672,9 @@ e quel consiglio per migliore approbo
 che l’ha per meno; e chi ad altro pensa
 chiamar si puote veramente probo.
 
-Vidi la figlia di Latona incensa
-sanza quell’ ombra che mi fu cagione
-per che già la credetti rara e densa.
+Vidi la figlia di Latona incensa sanza quell’ ombra che mi fu cagione per che già la credetti rara e densa.
 
-L’aspetto del tuo nato, Iperïone,
-quivi sostenni, e vidi com’ si move
-circa e vicino a lui Maia e Dïone.
+L’aspetto del tuo nato, Iperïone, quivi sostenni, e vidi com’ si move circa e vicino a lui Maia e Dïone.
 
 Quindi m’apparve il temperar di Giove
 tra ’l padre e ’l figlio; e quindi mi fu chiaro
@@ -4464,8 +3689,6 @@ volgendom’ io con li etterni Gemelli,
 tutta m’apparve da’ colli a le foci;
 
 poscia rivolsi li occhi a li occhi belli.
-
-
 
 
 Paradiso
@@ -4500,9 +3723,7 @@ e Bëatrice disse: «Ecco le schiere
 del trïunfo di Cristo e tutto ’l frutto
 ricolto del girar di queste spere!».
 
-Pariemi che ’l suo viso ardesse tutto,
-e li occhi avea di letizia sì pieni,
-che passarmen convien sanza costrutto.
+Pariemi che ’l suo viso ardesse tutto, e li occhi avea di letizia sì pieni, che passarmen convien sanza costrutto.
 
 Quale ne’ plenilunïi sereni
 Trivïa ride tra le ninfe etterne
@@ -4516,13 +3737,9 @@ e per la viva luce trasparea
 la lucente sustanza tanto chiara
 nel viso mio, che non la sostenea.
 
-Oh Bëatrice, dolce guida e cara!
-Ella mi disse: «Quel che ti sobranza
-è virtù da cui nulla si ripara.
+Oh Bëatrice, dolce guida e cara! Ella mi disse: «Quel che ti sobranza è virtù da cui nulla si ripara.
 
-Quivi è la sapïenza e la possanza
-ch’aprì le strade tra ’l cielo e la terra,
-onde fu già sì lunga disïanza».
+Quivi è la sapïenza e la possanza ch’aprì le strade tra ’l cielo e la terra, onde fu già sì lunga disïanza».
 
 Come foco di nube si diserra
 per dilatarsi sì che non vi cape,
@@ -4532,9 +3749,7 @@ la mente mia così, tra quelle dape
 fatta più grande, di sé stessa uscìo,
 e che si fesse rimembrar non sape.
 
-«Apri li occhi e riguarda qual son io;
-tu hai vedute cose, che possente
-se’ fatto a sostener lo riso mio».
+«Apri li occhi e riguarda qual son io; tu hai vedute cose, che possente se’ fatto a sostener lo riso mio».
 
 Io era come quei che si risente
 di visïone oblita e che s’ingegna
@@ -4572,9 +3787,7 @@ Quivi è la rosa in che ’l verbo divino
 carne si fece; quivi son li gigli
 al cui odor si prese il buon cammino».
 
-Così Beatrice; e io, che a’ suoi consigli
-tutto era pronto, ancora mi rendei
-a la battaglia de’ debili cigli.
+Così Beatrice; e io, che a’ suoi consigli tutto era pronto, ancora mi rendei a la battaglia de’ debili cigli.
 
 Come a raggio di sol, che puro mei
 per fratta nube, già prato di fiori
@@ -4584,9 +3797,7 @@ vid’ io così più turbe di splendori,
 folgorate di sù da raggi ardenti,
 sanza veder principio di folgóri.
 
-O benigna vertù che sì li ’mprenti,
-sù t’essaltasti, per largirmi loco
-a li occhi lì che non t’eran possenti.
+O benigna vertù che sì li ’mprenti, sù t’essaltasti, per largirmi loco a li occhi lì che non t’eran possenti.
 
 Il nome del bel fior ch’io sempre invoco
 e mane e sera, tutto mi ristrinse
@@ -4616,9 +3827,7 @@ e girerommi, donna del ciel, mentre
 che seguirai tuo figlio, e farai dia
 più la spera suprema perché lì entre».
 
-Così la circulata melodia
-si sigillava, e tutti li altri lumi
-facean sonare il nome di Maria.
+Così la circulata melodia si sigillava, e tutti li altri lumi facean sonare il nome di Maria.
 
 Lo real manto di tutti i volumi
 del mondo, che più ferve e più s’avviva
@@ -4640,9 +3849,7 @@ ciascun di quei candori in sù si stese
 con la sua cima, sì che l’alto affetto
 ch’elli avieno a Maria mi fu palese.
 
-Indi rimaser lì nel mio cospetto,
-‘Regina celi’ cantando sì dolce,
-che mai da me non si partì ’l diletto.
+Indi rimaser lì nel mio cospetto, ‘Regina celi’ cantando sì dolce, che mai da me non si partì ’l diletto.
 
 Oh quanta è l’ubertà che si soffolce
 in quelle arche ricchissime che fuoro
@@ -4657,8 +3864,6 @@ di Dio e di Maria, di sua vittoria,
 e con l’antico e col novo concilio,
 
 colui che tien le chiavi di tal gloria.
-
-
 
 
 Paradiso
@@ -4677,9 +3882,7 @@ ponete mente a l’affezione immensa
 e roratelo alquanto: voi bevete
 sempre del fonte onde vien quel ch’ei pensa».
 
-Così Beatrice; e quelle anime liete
-si fero spere sopra fissi poli,
-fiammando, a volte, a guisa di comete.
+Così Beatrice; e quelle anime liete si fero spere sopra fissi poli, fiammando, a volte, a guisa di comete.
 
 E come cerchi in tempra d’orïuoli
 si giran sì, che ’l primo a chi pon mente
@@ -4697,17 +3900,11 @@ e tre fïate intorno di Beatrice
 si volse con un canto tanto divo,
 che la mia fantasia nol mi ridice.
 
-Però salta la penna e non lo scrivo:
-ché l’imagine nostra a cotai pieghe,
-non che ’l parlare, è troppo color vivo.
+Però salta la penna e non lo scrivo: ché l’imagine nostra a cotai pieghe, non che ’l parlare, è troppo color vivo.
 
-«O santa suora mia che sì ne prieghe
-divota, per lo tuo ardente affetto
-da quella bella spera mi disleghe».
+«O santa suora mia che sì ne prieghe divota, per lo tuo ardente affetto da quella bella spera mi disleghe».
 
-Poscia fermato, il foco benedetto
-a la mia donna dirizzò lo spiro,
-che favellò così com’ i’ ho detto.
+Poscia fermato, il foco benedetto a la mia donna dirizzò lo spiro, che favellò così com’ i’ ho detto.
 
 Ed ella: «O luce etterna del gran viro
 a cui Nostro Segnor lasciò le chiavi,
@@ -4741,9 +3938,7 @@ poi mi volsi a Beatrice, ed essa pronte
 sembianze femmi perch’ ïo spandessi
 l’acqua di fuor del mio interno fonte.
 
-«La Grazia che mi dà ch’io mi confessi»,
-comincia’ io, «da l’alto primipilo,
-faccia li miei concetti bene espressi».
+«La Grazia che mi dà ch’io mi confessi», comincia’ io, «da l’alto primipilo, faccia li miei concetti bene espressi».
 
 E seguitai: «Come ’l verace stilo
 ne scrisse, padre, del tuo caro frate
@@ -4753,9 +3948,7 @@ fede è sustanza di cose sperate
 e argomento de le non parventi;
 e questa pare a me sua quiditate».
 
-Allora udi’: «Dirittamente senti,
-se bene intendi perché la ripuose
-tra le sustanze, e poi tra li argomenti».
+Allora udi’: «Dirittamente senti, se bene intendi perché la ripuose tra le sustanze, e poi tra li argomenti».
 
 E io appresso: «Le profonde cose
 che mi largiscon qui la lor parvenza,
@@ -4765,21 +3958,15 @@ che l’esser loro v’è in sola credenza,
 sopra la qual si fonda l’alta spene;
 e però di sustanza prende intenza.
 
-E da questa credenza ci convene
-silogizzar, sanz’ avere altra vista:
-però intenza d’argomento tene».
+E da questa credenza ci convene silogizzar, sanz’ avere altra vista: però intenza d’argomento tene».
 
-Allora udi’: «Se quantunque s’acquista
-giù per dottrina, fosse così ’nteso,
-non lì avria loco ingegno di sofista».
+Allora udi’: «Se quantunque s’acquista giù per dottrina, fosse così ’nteso, non lì avria loco ingegno di sofista».
 
 Così spirò di quello amore acceso;
 indi soggiunse: «Assai bene è trascorsa
 d’esta moneta già la lega e ’l peso;
 
-ma dimmi se tu l’hai ne la tua borsa».
-Ond’ io: «Sì ho, sì lucida e sì tonda,
-che nel suo conio nulla mi s’inforsa».
+ma dimmi se tu l’hai ne la tua borsa». Ond’ io: «Sì ho, sì lucida e sì tonda, che nel suo conio nulla mi s’inforsa».
 
 Appresso uscì de la luce profonda
 che lì splendeva: «Questa cara gioia
@@ -4793,17 +3980,11 @@ in su le vecchie e ’n su le nuove cuoia,
 acutamente sì, che ’nverso d’ella
 ogne dimostrazion mi pare ottusa».
 
-Io udi’ poi: «L’antica e la novella
-proposizion che così ti conchiude,
-perché l’hai tu per divina favella?».
+Io udi’ poi: «L’antica e la novella proposizion che così ti conchiude, perché l’hai tu per divina favella?».
 
-E io: «La prova che ’l ver mi dischiude,
-son l’opere seguite, a che natura
-non scalda ferro mai né batte incude».
+E io: «La prova che ’l ver mi dischiude, son l’opere seguite, a che natura non scalda ferro mai né batte incude».
 
-Risposto fummi: «Dì, chi t’assicura
-che quell’ opere fosser? Quel medesmo
-che vuol provarsi, non altri, il ti giura».
+Risposto fummi: «Dì, chi t’assicura che quell’ opere fosser? Quel medesmo che vuol provarsi, non altri, il ti giura».
 
 «Se ’l mondo si rivolse al cristianesmo»,
 diss’ io, «sanza miracoli, quest’ uno
@@ -4813,9 +3994,7 @@ ché tu intrasti povero e digiuno
 in campo, a seminar la buona pianta
 che fu già vite e ora è fatta pruno».
 
-Finito questo, l’alta corte santa
-risonò per le spere un ‘Dio laudamo’
-ne la melode che là sù si canta.
+Finito questo, l’alta corte santa risonò per le spere un ‘Dio laudamo’ ne la melode che là sù si canta.
 
 E quel baron che sì di ramo in ramo,
 essaminando, già tratto m’avea,
@@ -4853,13 +4032,9 @@ e credo in tre persone etterne, e queste
 credo una essenza sì una e sì trina,
 che soffera congiunto ‘sono’ ed ‘este’.
 
-De la profonda condizion divina
-ch’io tocco mo, la mente mi sigilla
-più volte l’evangelica dottrina.
+De la profonda condizion divina ch’io tocco mo, la mente mi sigilla più volte l’evangelica dottrina.
 
-Quest’ è ’l principio, quest’ è la favilla
-che si dilata in fiamma poi vivace,
-e come stella in cielo in me scintilla».
+Quest’ è ’l principio, quest’ è la favilla che si dilata in fiamma poi vivace, e come stella in cielo in me scintilla».
 
 Come ’l segnor ch’ascolta quel che i piace,
 da indi abbraccia il servo, gratulando
@@ -4870,8 +4045,6 @@ tre volte cinse me, sì com’ io tacqui,
 l’appostolico lume al cui comando
 
 io avea detto: sì nel dir li piacqui!
-
-
 
 
 Paradiso
@@ -4910,9 +4083,7 @@ così vid’ ïo l’un da l’altro grande
 principe glorïoso essere accolto,
 laudando il cibo che là sù li prande.
 
-Ma poi che ’l gratular si fu assolto,
-tacito coram me ciascun s’affisse,
-ignito sì che vincëa ’l mio volto.
+Ma poi che ’l gratular si fu assolto, tacito coram me ciascun s’affisse, ignito sì che vincëa ’l mio volto.
 
 Ridendo allora Bëatrice disse:
 «Inclita vita per cui la larghezza
@@ -4922,13 +4093,9 @@ fa risonar la spene in questa altezza:
 tu sai, che tante fiate la figuri,
 quante Iesù ai tre fé più carezza».
 
-«Leva la testa e fa che t’assicuri:
-che ciò che vien qua sù del mortal mondo,
-convien ch’ai nostri raggi si maturi».
+«Leva la testa e fa che t’assicuri: che ciò che vien qua sù del mortal mondo, convien ch’ai nostri raggi si maturi».
 
-Questo conforto del foco secondo
-mi venne; ond’ io leväi li occhi a’ monti
-che li ’ncurvaron pria col troppo pondo.
+Questo conforto del foco secondo mi venne; ond’ io leväi li occhi a’ monti che li ’ncurvaron pria col troppo pondo.
 
 «Poi che per grazia vuol che tu t’affronti
 lo nostro Imperadore, anzi la morte,
@@ -4939,8 +4106,7 @@ la spene, che là giù bene innamora,
 in te e in altrui di ciò conforte,
 
 di’ quel ch’ell’ è, di’ come se ne ’nfiora
-la mente tua, e dì onde a te venne».
-Così seguì ’l secondo lume ancora.
+la mente tua, e dì onde a te venne». Così seguì ’l secondo lume ancora.
 
 E quella pïa che guidò le penne
 de le mie ali a così alto volo,
@@ -4970,9 +4136,7 @@ perché la sua bontà si disasconda,
 de la gloria futura, il qual produce
 grazia divina e precedente merto.
 
-Da molte stelle mi vien questa luce;
-ma quei la distillò nel mio cor pria
-che fu sommo cantor del sommo duce.
+Da molte stelle mi vien questa luce; ma quei la distillò nel mio cor pria che fu sommo cantor del sommo duce.
 
 ‘Sperino in te’, ne la sua tëodia
 dice, ‘color che sanno il nome tuo’:
@@ -4982,9 +4146,7 @@ Tu mi stillasti, con lo stillar suo,
 ne la pistola poi; sì ch’io son pieno,
 e in altrui vostra pioggia repluo».
 
-Mentr’ io diceva, dentro al vivo seno
-di quello incendio tremolava un lampo
-sùbito e spesso a guisa di baleno.
+Mentr’ io diceva, dentro al vivo seno di quello incendio tremolava un lampo sùbito e spesso a guisa di baleno.
 
 Indi spirò: «L’amore ond’ ïo avvampo
 ancor ver’ la virtù che mi seguette
@@ -4994,9 +4156,7 @@ vuol ch’io respiri a te che ti dilette
 di lei; ed emmi a grato che tu diche
 quello che la speranza ti ’mpromette».
 
-E io: «Le nove e le scritture antiche
-pongon lo segno, ed esso lo mi addita,
-de l’anime che Dio s’ha fatte amiche.
+E io: «Le nove e le scritture antiche pongon lo segno, ed esso lo mi addita, de l’anime che Dio s’ha fatte amiche.
 
 Dice Isaia che ciascuna vestita
 ne la sua terra fia di doppia vesta:
@@ -5006,13 +4166,9 @@ e ’l tuo fratello assai vie più digesta,
 là dove tratta de le bianche stole,
 questa revelazion ci manifesta».
 
-E prima, appresso al fin d’este parole,
-‘Sperent in te’ di sopr’ a noi s’udì;
-a che rispuoser tutte le carole.
+E prima, appresso al fin d’este parole, ‘Sperent in te’ di sopr’ a noi s’udì; a che rispuoser tutte le carole.
 
-Poscia tra esse un lume si schiarì
-sì che, se ’l Cancro avesse un tal cristallo,
-l’inverno avrebbe un mese d’un sol dì.
+Poscia tra esse un lume si schiarì sì che, se ’l Cancro avesse un tal cristallo, l’inverno avrebbe un mese d’un sol dì.
 
 E come surge e va ed entra in ballo
 vergine lieta, sol per fare onore
@@ -5022,17 +4178,11 @@ così vid’ io lo schiarato splendore
 venire a’ due che si volgieno a nota
 qual conveniesi al loro ardente amore.
 
-Misesi lì nel canto e ne la rota;
-e la mia donna in lor tenea l’aspetto,
-pur come sposa tacita e immota.
+Misesi lì nel canto e ne la rota; e la mia donna in lor tenea l’aspetto, pur come sposa tacita e immota.
 
-«Questi è colui che giacque sopra ’l petto
-del nostro pellicano, e questi fue
-di su la croce al grande officio eletto».
+«Questi è colui che giacque sopra ’l petto del nostro pellicano, e questi fue di su la croce al grande officio eletto».
 
-La donna mia così; né però piùe
-mosser la vista sua di stare attenta
-poscia che prima le parole sue.
+La donna mia così; né però piùe mosser la vista sua di stare attenta poscia che prima le parole sue.
 
 Qual è colui ch’adocchia e s’argomenta
 di vedere eclissar lo sole un poco,
@@ -5046,9 +4196,7 @@ In terra è terra il mio corpo, e saragli
 tanto con li altri, che ’l numero nostro
 con l’etterno proposito s’agguagli.
 
-Con le due stole nel beato chiostro
-son le due luci sole che saliro;
-e questo apporterai nel mondo vostro».
+Con le due stole nel beato chiostro son le due luci sole che saliro; e questo apporterai nel mondo vostro».
 
 A questa voce l’infiammato giro
 si quïetò con esso il dolce mischio
@@ -5063,8 +4211,6 @@ quando mi volsi per veder Beatrice,
 per non poter veder, benché io fossi
 
 presso di lei, e nel mondo felice!
-
-
 
 
 Paradiso
@@ -5087,13 +4233,9 @@ perché la donna che per questa dia
 regïon ti conduce, ha ne lo sguardo
 la virtù ch’ebbe la man d’Anania».
 
-Io dissi: «Al suo piacere e tosto e tardo
-vegna remedio a li occhi, che fuor porte
-quand’ ella entrò col foco ond’ io sempr’ ardo.
+Io dissi: «Al suo piacere e tosto e tardo vegna remedio a li occhi, che fuor porte quand’ ella entrò col foco ond’ io sempr’ ardo.
 
-Lo ben che fa contenta questa corte,
-Alfa e O è di quanta scrittura
-mi legge Amore o lievemente o forte».
+Lo ben che fa contenta questa corte, Alfa e O è di quanta scrittura mi legge Amore o lievemente o forte».
 
 Quella medesma voce che paura
 tolta m’avea del sùbito abbarbaglio,
@@ -5119,29 +4261,17 @@ più che in altra convien che si mova
 la mente, amando, di ciascun che cerne
 il vero in che si fonda questa prova.
 
-Tal vero a l’intelletto mïo sterne
-colui che mi dimostra il primo amore
-di tutte le sustanze sempiterne.
+Tal vero a l’intelletto mïo sterne colui che mi dimostra il primo amore di tutte le sustanze sempiterne.
 
-Sternel la voce del verace autore,
-che dice a Moïsè, di sé parlando:
-‘Io ti farò vedere ogne valore’.
+Sternel la voce del verace autore, che dice a Moïsè, di sé parlando: ‘Io ti farò vedere ogne valore’.
 
-Sternilmi tu ancora, incominciando
-l’alto preconio che grida l’arcano
-di qui là giù sovra ogne altro bando».
+Sternilmi tu ancora, incominciando l’alto preconio che grida l’arcano di qui là giù sovra ogne altro bando».
 
-E io udi’: «Per intelletto umano
-e per autoritadi a lui concorde
-d’i tuoi amori a Dio guarda il sovrano.
+E io udi’: «Per intelletto umano e per autoritadi a lui concorde d’i tuoi amori a Dio guarda il sovrano.
 
-Ma dì ancor se tu senti altre corde
-tirarti verso lui, sì che tu suone
-con quanti denti questo amor ti morde».
+Ma dì ancor se tu senti altre corde tirarti verso lui, sì che tu suone con quanti denti questo amor ti morde».
 
-Non fu latente la santa intenzione
-de l’aguglia di Cristo, anzi m’accorsi
-dove volea menar mia professione.
+Non fu latente la santa intenzione de l’aguglia di Cristo, anzi m’accorsi dove volea menar mia professione.
 
 Però ricominciai: «Tutti quei morsi
 che posson far lo cor volgere a Dio,
@@ -5155,13 +4285,9 @@ con la predetta conoscenza viva,
 tratto m’hanno del mar de l’amor torto,
 e del diritto m’han posto a la riva.
 
-Le fronde onde s’infronda tutto l’orto
-de l’ortolano etterno, am’ io cotanto
-quanto da lui a lor di bene è porto».
+Le fronde onde s’infronda tutto l’orto de l’ortolano etterno, am’ io cotanto quanto da lui a lor di bene è porto».
 
-Sì com’ io tacqui, un dolcissimo canto
-risonò per lo cielo, e la mia donna
-dicea con li altri: «Santo, santo, santo!».
+Sì com’ io tacqui, un dolcissimo canto risonò per lo cielo, e la mia donna dicea con li altri: «Santo, santo, santo!».
 
 E come a lume acuto si disonna
 per lo spirto visivo che ricorre
@@ -5179,9 +4305,7 @@ onde mei che dinanzi vidi poi;
 e quasi stupefatto domandai
 d’un quarto lume ch’io vidi tra noi.
 
-E la mia donna: «Dentro da quei rai
-vagheggia il suo fattor l’anima prima
-che la prima virtù creasse mai».
+E la mia donna: «Dentro da quei rai vagheggia il suo fattor l’anima prima che la prima virtù creasse mai».
 
 Come la fronda che flette la cima
 nel transito del vento, e poi si leva
@@ -5223,9 +4347,7 @@ e quanto fu diletto a li occhi miei,
 e la propria cagion del gran disdegno,
 e l’idïoma ch’usai e che fei.
 
-Or, figluol mio, non il gustar del legno
-fu per sé la cagion di tanto essilio,
-ma solamente il trapassar del segno.
+Or, figluol mio, non il gustar del legno fu per sé la cagion di tanto essilio, ma solamente il trapassar del segno.
 
 Quindi onde mosse tua donna Virgilio,
 quattromilia trecento e due volumi
@@ -5243,9 +4365,7 @@ ché nullo effetto mai razïonabile,
 per lo piacere uman che rinovella
 seguendo il cielo, sempre fu durabile.
 
-Opera naturale è ch’uom favella;
-ma così o così, natura lascia
-poi fare a voi secondo che v’abbella.
+Opera naturale è ch’uom favella; ma così o così, natura lascia poi fare a voi secondo che v’abbella.
 
 Pria ch’i’ scendessi a l’infernale ambascia,
 I s’appellava in terra il sommo bene
@@ -5262,19 +4382,13 @@ da la prim’ ora a quella che seconda,
 come ’l sol muta quadra, l’ora sesta».
 
 
-
-
 Paradiso
 Canto XXVII
 
 
-‘Al Padre, al Figlio, a lo Spirito Santo’,
-cominciò, ‘gloria!’, tutto ’l paradiso,
-sì che m’inebrïava il dolce canto.
+‘Al Padre, al Figlio, a lo Spirito Santo’, cominciò, ‘gloria!’, tutto ’l paradiso, sì che m’inebrïava il dolce canto.
 
-Ciò ch’io vedeva mi sembiava un riso
-de l’universo; per che mia ebbrezza
-intrava per l’udire e per lo viso.
+Ciò ch’io vedeva mi sembiava un riso de l’universo; per che mia ebbrezza intrava per l’udire e per lo viso.
 
 Oh gioia! oh ineffabile allegrezza!
 oh vita intègra d’amore e di pace!
@@ -5304,9 +4418,7 @@ fatt’ ha del cimitero mio cloaca
 del sangue e de la puzza; onde ’l perverso
 che cadde di qua sù, là giù si placa».
 
-Di quel color che per lo sole avverso
-nube dipigne da sera e da mane,
-vid’ ïo allora tutto ’l ciel cosperso.
+Di quel color che per lo sole avverso nube dipigne da sera e da mane, vid’ ïo allora tutto ’l ciel cosperso.
 
 E come donna onesta che permane
 di sé sicura, e per l’altrui fallanza,
@@ -5364,13 +4476,9 @@ in sù vid’ io così l’etera addorno
 farsi e fioccar di vapor trïunfanti
 che fatto avien con noi quivi soggiorno.
 
-Lo viso mio seguiva i suoi sembianti,
-e seguì fin che ’l mezzo, per lo molto,
-li tolse il trapassar del più avanti.
+Lo viso mio seguiva i suoi sembianti, e seguì fin che ’l mezzo, per lo molto, li tolse il trapassar del più avanti.
 
-Onde la donna, che mi vide assolto
-de l’attendere in sù, mi disse: «Adima
-il viso e guarda come tu se’ vòlto».
+Onde la donna, che mi vide assolto de l’attendere in sù, mi disse: «Adima il viso e guarda come tu se’ vòlto».
 
 Da l’ora ch’ïo avea guardato prima
 i’ vidi mosso me per tutto l’arco
@@ -5380,9 +4488,7 @@ sì ch’io vedea di là da Gade il varco
 folle d’Ulisse, e di qua presso il lito
 nel qual si fece Europa dolce carco.
 
-E più mi fora discoverto il sito
-di questa aiuola; ma ’l sol procedea
-sotto i mie’ piedi un segno e più partito.
+E più mi fora discoverto il sito di questa aiuola; ma ’l sol procedea sotto i mie’ piedi un segno e più partito.
 
 La mente innamorata, che donnea
 con la mia donna sempre, di ridure
@@ -5396,13 +4502,9 @@ tutte adunate, parrebber nïente
 ver’ lo piacer divin che mi refulse,
 quando mi volsi al suo viso ridente.
 
-E la virtù che lo sguardo m’indulse,
-del bel nido di Leda mi divelse,
-e nel ciel velocissimo m’impulse.
+E la virtù che lo sguardo m’indulse, del bel nido di Leda mi divelse, e nel ciel velocissimo m’impulse.
 
-Le parti sue vivissime ed eccelse
-sì uniforme son, ch’i’ non so dire
-qual Bëatrice per loco mi scelse.
+Le parti sue vivissime ed eccelse sì uniforme son, ch’i’ non so dire qual Bëatrice per loco mi scelse.
 
 Ma ella, che vedëa ’l mio disire,
 incominciò, ridendo tanto lieta,
@@ -5416,9 +4518,7 @@ e questo cielo non ha altro dove
 che la mente divina, in che s’accende
 l’amor che ’l volge e la virtù ch’ei piove.
 
-Luce e amor d’un cerchio lui comprende,
-sì come questo li altri; e quel precinto
-colui che ’l cinge solamente intende.
+Luce e amor d’un cerchio lui comprende, sì come questo li altri; e quel precinto colui che ’l cinge solamente intende.
 
 Non è suo moto per altro distinto,
 ma li altri son mensurati da questo,
@@ -5436,9 +4536,7 @@ Ben fiorisce ne li uomini il volere;
 ma la pioggia continüa converte
 in bozzacchioni le sosine vere.
 
-Fede e innocenza son reperte
-solo ne’ parvoletti; poi ciascuna
-pria fugge che le guance sian coperte.
+Fede e innocenza son reperte solo ne’ parvoletti; poi ciascuna pria fugge che le guance sian coperte.
 
 Tale, balbuzïendo ancor, digiuna,
 che poi divora, con la lingua sciolta,
@@ -5448,13 +4546,9 @@ e tal, balbuzïendo, ama e ascolta
 la madre sua, che, con loquela intera,
 disïa poi di vederla sepolta.
 
-Così si fa la pelle bianca nera
-nel primo aspetto de la bella figlia
-di quel ch’apporta mane e lascia sera.
+Così si fa la pelle bianca nera nel primo aspetto de la bella figlia di quel ch’apporta mane e lascia sera.
 
-Tu, perché non ti facci maraviglia,
-pensa che ’n terra non è chi governi;
-onde sì svïa l’umana famiglia.
+Tu, perché non ti facci maraviglia, pensa che ’n terra non è chi governi; onde sì svïa l’umana famiglia.
 
 Ma prima che gennaio tutto si sverni
 per la centesma ch’è là giù negletta,
@@ -5465,8 +4559,6 @@ le poppe volgerà u’ son le prore,
 sì che la classe correrà diretta;
 
 e vero frutto verrà dopo ’l fiore».
-
-
 
 
 Paradiso
@@ -5513,9 +4605,7 @@ e questo era d’un altro circumcinto,
 e quel dal terzo, e ’l terzo poi dal quarto,
 dal quinto il quarto, e poi dal sesto il quinto.
 
-Sopra seguiva il settimo sì sparto
-già di larghezza, che ’l messo di Iuno
-intero a contenerlo sarebbe arto.
+Sopra seguiva il settimo sì sparto già di larghezza, che ’l messo di Iuno intero a contenerlo sarebbe arto.
 
 Così l’ottavo e ’l nono; e chiascheduno
 più tardo si movea, secondo ch’era
@@ -5525,13 +4615,9 @@ e quello avea la fiamma più sincera
 cui men distava la favilla pura,
 credo, però che più di lei s’invera.
 
-La donna mia, che mi vedëa in cura
-forte sospeso, disse: «Da quel punto
-depende il cielo e tutta la natura.
+La donna mia, che mi vedëa in cura forte sospeso, disse: «Da quel punto depende il cielo e tutta la natura.
 
-Mira quel cerchio che più li è congiunto;
-e sappi che ’l suo muovere è sì tosto
-per l’affocato amore ond’ elli è punto».
+Mira quel cerchio che più li è congiunto; e sappi che ’l suo muovere è sì tosto per l’affocato amore ond’ elli è punto».
 
 E io a lei: «Se ’l mondo fosse posto
 con l’ordine ch’io veggio in quelle rote,
@@ -5549,21 +4635,13 @@ udir convienmi ancor come l’essemplo
 e l’essemplare non vanno d’un modo,
 ché io per me indarno a ciò contemplo».
 
-«Se li tuoi diti non sono a tal nodo
-sufficïenti, non è maraviglia:
-tanto, per non tentare, è fatto sodo!».
+«Se li tuoi diti non sono a tal nodo sufficïenti, non è maraviglia: tanto, per non tentare, è fatto sodo!».
 
-Così la donna mia; poi disse: «Piglia
-quel ch’io ti dicerò, se vuo’ saziarti;
-e intorno da esso t’assottiglia.
+Così la donna mia; poi disse: «Piglia quel ch’io ti dicerò, se vuo’ saziarti; e intorno da esso t’assottiglia.
 
-Li cerchi corporai sono ampi e arti
-secondo il più e ’l men de la virtute
-che si distende per tutte lor parti.
+Li cerchi corporai sono ampi e arti secondo il più e ’l men de la virtute che si distende per tutte lor parti.
 
-Maggior bontà vuol far maggior salute;
-maggior salute maggior corpo cape,
-s’elli ha le parti igualmente compiute.
+Maggior bontà vuol far maggior salute; maggior salute maggior corpo cape, s’elli ha le parti igualmente compiute.
 
 Dunque costui che tutto quanto rape
 l’altro universo seco, corrisponde
@@ -5589,25 +4667,15 @@ così fec’ïo, poi che mi provide
 la donna mia del suo risponder chiaro,
 e come stella in cielo il ver si vide.
 
-E poi che le parole sue restaro,
-non altrimenti ferro disfavilla
-che bolle, come i cerchi sfavillaro.
+E poi che le parole sue restaro, non altrimenti ferro disfavilla che bolle, come i cerchi sfavillaro.
 
-L’incendio suo seguiva ogne scintilla;
-ed eran tante, che ’l numero loro
-più che ’l doppiar de li scacchi s’inmilla.
+L’incendio suo seguiva ogne scintilla; ed eran tante, che ’l numero loro più che ’l doppiar de li scacchi s’inmilla.
 
-Io sentiva osannar di coro in coro
-al punto fisso che li tiene a li ubi,
-e terrà sempre, ne’ quai sempre fuoro.
+Io sentiva osannar di coro in coro al punto fisso che li tiene a li ubi, e terrà sempre, ne’ quai sempre fuoro.
 
-E quella che vedëa i pensier dubi
-ne la mia mente, disse: «I cerchi primi
-t’hanno mostrato Serafi e Cherubi.
+E quella che vedëa i pensier dubi ne la mia mente, disse: «I cerchi primi t’hanno mostrato Serafi e Cherubi.
 
-Così veloci seguono i suoi vimi,
-per somigliarsi al punto quanto ponno;
-e posson quanto a veder son soblimi.
+Così veloci seguono i suoi vimi, per somigliarsi al punto quanto ponno; e posson quanto a veder son soblimi.
 
 Quelli altri amori che ’ntorno li vonno,
 si chiaman Troni del divino aspetto,
@@ -5633,33 +4701,21 @@ perpetüalemente ‘Osanna’ sberna
 con tre melode, che suonano in tree
 ordini di letizia onde s’interna.
 
-In essa gerarcia son l’altre dee:
-prima Dominazioni, e poi Virtudi;
-l’ordine terzo di Podestadi èe.
+In essa gerarcia son l’altre dee: prima Dominazioni, e poi Virtudi; l’ordine terzo di Podestadi èe.
 
-Poscia ne’ due penultimi tripudi
-Principati e Arcangeli si girano;
-l’ultimo è tutto d’Angelici ludi.
+Poscia ne’ due penultimi tripudi Principati e Arcangeli si girano; l’ultimo è tutto d’Angelici ludi.
 
-Questi ordini di sù tutti s’ammirano,
-e di giù vincon sì, che verso Dio
-tutti tirati sono e tutti tirano.
+Questi ordini di sù tutti s’ammirano, e di giù vincon sì, che verso Dio tutti tirati sono e tutti tirano.
 
-E Dïonisio con tanto disio
-a contemplar questi ordini si mise,
-che li nomò e distinse com’ io.
+E Dïonisio con tanto disio a contemplar questi ordini si mise, che li nomò e distinse com’ io.
 
-Ma Gregorio da lui poi si divise;
-onde, sì tosto come li occhi aperse
-in questo ciel, di sé medesmo rise.
+Ma Gregorio da lui poi si divise; onde, sì tosto come li occhi aperse in questo ciel, di sé medesmo rise.
 
 E se tanto secreto ver proferse
 mortale in terra, non voglio ch’ammiri:
 ché chi ’l vide qua sù gliel discoperse
 
 con altro assai del ver di questi giri».
-
-
 
 
 Paradiso
@@ -5678,9 +4734,7 @@ tanto, col volto di riso dipinto,
 si tacque Bëatrice, riguardando
 fiso nel punto che m’avëa vinto.
 
-Poi cominciò: «Io dico, e non dimando,
-quel che tu vuoli udir, perch’ io l’ho visto
-là ’ve s’appunta ogne ubi e ogne quando.
+Poi cominciò: «Io dico, e non dimando, quel che tu vuoli udir, perch’ io l’ho visto là ’ve s’appunta ogne ubi e ogne quando.
 
 Non per aver a sé di bene acquisto,
 ch’esser non può, ma perché suo splendore
@@ -5690,13 +4744,9 @@ in sua etternità di tempo fore,
 fuor d’ogne altro comprender, come i piacque,
 s’aperse in nuovi amor l’etterno amore.
 
-Né prima quasi torpente si giacque;
-ché né prima né poscia procedette
-lo discorrer di Dio sovra quest’ acque.
+Né prima quasi torpente si giacque; ché né prima né poscia procedette lo discorrer di Dio sovra quest’ acque.
 
-Forma e materia, congiunte e purette,
-usciro ad esser che non avia fallo,
-come d’arco tricordo tre saette.
+Forma e materia, congiunte e purette, usciro ad esser che non avia fallo, come d’arco tricordo tre saette.
 
 E come in vetro, in ambra o in cristallo
 raggio resplende sì, che dal venire
@@ -5726,21 +4776,13 @@ e anche la ragione il vede alquanto,
 che non concederebbe che ’ motori
 sanza sua perfezion fosser cotanto.
 
-Or sai tu dove e quando questi amori
-furon creati e come: sì che spenti
-nel tuo disïo già son tre ardori.
+Or sai tu dove e quando questi amori furon creati e come: sì che spenti nel tuo disïo già son tre ardori.
 
-Né giugneriesi, numerando, al venti
-sì tosto, come de li angeli parte
-turbò il suggetto d’i vostri alimenti.
+Né giugneriesi, numerando, al venti sì tosto, come de li angeli parte turbò il suggetto d’i vostri alimenti.
 
-L’altra rimase, e cominciò quest’ arte
-che tu discerni, con tanto diletto,
-che mai da circüir non si diparte.
+L’altra rimase, e cominciò quest’ arte che tu discerni, con tanto diletto, che mai da circüir non si diparte.
 
-Principio del cader fu il maladetto
-superbir di colui che tu vedesti
-da tutti i pesi del mondo costretto.
+Principio del cader fu il maladetto superbir di colui che tu vedesti da tutti i pesi del mondo costretto.
 
 Quelli che vedi qui furon modesti
 a riconoscer sé da la bontate
@@ -5754,9 +4796,7 @@ e non voglio che dubbi, ma sia certo,
 che ricever la grazia è meritorio
 secondo che l’affetto l’è aperto.
 
-Omai dintorno a questo consistorio
-puoi contemplare assai, se le parole
-mie son ricolte, sanz’ altro aiutorio.
+Omai dintorno a questo consistorio puoi contemplare assai, se le parole mie son ricolte, sanz’ altro aiutorio.
 
 Ma perché ’n terra per le vostre scole
 si legge che l’angelica natura
@@ -5786,13 +4826,9 @@ E ancor questo qua sù si comporta
 con men disdegno che quando è posposta
 la divina Scrittura o quando è torta.
 
-Non vi si pensa quanto sangue costa
-seminarla nel mondo e quanto piace
-chi umilmente con essa s’accosta.
+Non vi si pensa quanto sangue costa seminarla nel mondo e quanto piace chi umilmente con essa s’accosta.
 
-Per apparer ciascun s’ingegna e face
-sue invenzioni; e quelle son trascorse
-da’ predicanti e ’l Vangelio si tace.
+Per apparer ciascun s’ingegna e face sue invenzioni; e quelle son trascorse da’ predicanti e ’l Vangelio si tace.
 
 Un dice che la luna si ritorse
 ne la passion di Cristo e s’interpuose,
@@ -5818,9 +4854,7 @@ e quel tanto sonò ne le sue guance,
 sì ch’a pugnar per accender la fede
 de l’Evangelio fero scudo e lance.
 
-Ora si va con motti e con iscede
-a predicare, e pur che ben si rida,
-gonfia il cappuccio e più non si richiede.
+Ora si va con motti e con iscede a predicare, e pur che ben si rida, gonfia il cappuccio e più non si richiede.
 
 Ma tale uccel nel becchetto s’annida,
 che se ’l vulgo il vedesse, vederebbe
@@ -5830,13 +4864,9 @@ per cui tanta stoltezza in terra crebbe,
 che, sanza prova d’alcun testimonio,
 ad ogne promession si correrebbe.
 
-Di questo ingrassa il porco sant’ Antonio,
-e altri assai che sono ancor più porci,
-pagando di moneta sanza conio.
+Di questo ingrassa il porco sant’ Antonio, e altri assai che sono ancor più porci, pagando di moneta sanza conio.
 
-Ma perché siam digressi assai, ritorci
-li occhi oramai verso la dritta strada,
-sì che la via col tempo si raccorci.
+Ma perché siam digressi assai, ritorci li occhi oramai verso la dritta strada, sì che la via col tempo si raccorci.
 
 Questa natura sì oltre s’ingrada
 in numero, che mai non fu loquela
@@ -5846,21 +4876,15 @@ e se tu guardi quel che si revela
 per Danïel, vedrai che ’n sue migliaia
 determinato numero si cela.
 
-La prima luce, che tutta la raia,
-per tanti modi in essa si recepe,
-quanti son li splendori a chi s’appaia.
+La prima luce, che tutta la raia, per tanti modi in essa si recepe, quanti son li splendori a chi s’appaia.
 
-Onde, però che a l’atto che concepe
-segue l’affetto, d’amar la dolcezza
-diversamente in essa ferve e tepe.
+Onde, però che a l’atto che concepe segue l’affetto, d’amar la dolcezza diversamente in essa ferve e tepe.
 
 Vedi l’eccelso omai e la larghezza
 de l’etterno valor, poscia che tanti
 speculi fatti s’ha in che si spezza,
 
 uno manendo in sé come davanti».
-
-
 
 
 Paradiso
@@ -5887,13 +4911,9 @@ a poco a poco al mio veder si stinse:
 per che tornar con li occhi a Bëatrice
 nulla vedere e amor mi costrinse.
 
-Se quanto infino a qui di lei si dice
-fosse conchiuso tutto in una loda,
-poca sarebbe a fornir questa vice.
+Se quanto infino a qui di lei si dice fosse conchiuso tutto in una loda, poca sarebbe a fornir questa vice.
 
-La bellezza ch’io vidi si trasmoda
-non pur di là da noi, ma certo io credo
-che solo il suo fattor tutta la goda.
+La bellezza ch’io vidi si trasmoda non pur di là da noi, ma certo io credo che solo il suo fattor tutta la goda.
 
 Da questo passo vinto mi concedo
 più che già mai da punto di suo tema
@@ -5923,9 +4943,7 @@ luce intellettüal, piena d’amore;
 amor di vero ben, pien di letizia;
 letizia che trascende ogne dolzore.
 
-Qui vederai l’una e l’altra milizia
-di paradiso, e l’una in quelli aspetti
-che tu vedrai a l’ultima giustizia».
+Qui vederai l’una e l’altra milizia di paradiso, e l’una in quelli aspetti che tu vedrai a l’ultima giustizia».
 
 Come sùbito lampo che discetti
 li spiriti visivi, sì che priva
@@ -5935,9 +4953,7 @@ così mi circunfulse luce viva,
 e lasciommi fasciato di tal velo
 del suo fulgor, che nulla m’appariva.
 
-«Sempre l’amor che queta questo cielo
-accoglie in sé con sì fatta salute,
-per far disposto a sua fiamma il candelo».
+«Sempre l’amor che queta questo cielo accoglie in sé con sì fatta salute, per far disposto a sua fiamma il candelo».
 
 Non fur più tosto dentro a me venute
 queste parole brievi, ch’io compresi
@@ -5967,13 +4983,9 @@ ma di quest’ acqua convien che tu bei
 prima che tanta sete in te si sazi»:
 così mi disse il sol de li occhi miei.
 
-Anche soggiunse: «Il fiume e li topazi
-ch’entrano ed escono e ’l rider de l’erbe
-son di lor vero umbriferi prefazi.
+Anche soggiunse: «Il fiume e li topazi ch’entrano ed escono e ’l rider de l’erbe son di lor vero umbriferi prefazi.
 
-Non che da sé sian queste cose acerbe;
-ma è difetto da la parte tua,
-che non hai viste ancor tanto superbe».
+Non che da sé sian queste cose acerbe; ma è difetto da la parte tua, che non hai viste ancor tanto superbe».
 
 Non è fantin che sì sùbito rua
 col volto verso il latte, se si svegli
@@ -6003,13 +5015,9 @@ Lume è là sù che visibile face
 lo creatore a quella creatura
 che solo in lui vedere ha la sua pace.
 
-E’ si distende in circular figura,
-in tanto che la sua circunferenza
-sarebbe al sol troppo larga cintura.
+E’ si distende in circular figura, in tanto che la sua circunferenza sarebbe al sol troppo larga cintura.
 
-Fassi di raggio tutta sua parvenza
-reflesso al sommo del mobile primo,
-che prende quindi vivere e potenza.
+Fassi di raggio tutta sua parvenza reflesso al sommo del mobile primo, che prende quindi vivere e potenza.
 
 E come clivo in acqua di suo imo
 si specchia, quasi per vedersi addorno,
@@ -6027,9 +5035,7 @@ La vista mia ne l’ampio e ne l’altezza
 non si smarriva, ma tutto prendeva
 il quanto e ’l quale di quella allegrezza.
 
-Presso e lontano, lì, né pon né leva:
-ché dove Dio sanza mezzo governa,
-la legge natural nulla rileva.
+Presso e lontano, lì, né pon né leva: ché dove Dio sanza mezzo governa, la legge natural nulla rileva.
 
 Nel giallo de la rosa sempiterna,
 che si digrada e dilata e redole
@@ -6051,21 +5057,15 @@ sederà l’alma, che fia giù agosta,
 de l’alto Arrigo, ch’a drizzare Italia
 verrà in prima ch’ella sia disposta.
 
-La cieca cupidigia che v’ammalia
-simili fatti v’ha al fantolino
-che muor per fame e caccia via la balia.
+La cieca cupidigia che v’ammalia simili fatti v’ha al fantolino che muor per fame e caccia via la balia.
 
-E fia prefetto nel foro divino
-allora tal, che palese e coverto
-non anderà con lui per un cammino.
+E fia prefetto nel foro divino allora tal, che palese e coverto non anderà con lui per un cammino.
 
 Ma poco poi sarà da Dio sofferto
 nel santo officio; ch’el sarà detruso
 là dove Simon mago è per suo merto,
 
 e farà quel d’Alagna intrar più giuso».
-
-
 
 
 Paradiso
@@ -6088,13 +5088,9 @@ nel gran fior discendeva che s’addorna
 di tante foglie, e quindi risaliva
 là dove ’l süo amor sempre soggiorna.
 
-Le facce tutte avean di fiamma viva
-e l’ali d’oro, e l’altro tanto bianco,
-che nulla neve a quel termine arriva.
+Le facce tutte avean di fiamma viva e l’ali d’oro, e l’altro tanto bianco, che nulla neve a quel termine arriva.
 
-Quando scendean nel fior, di banco in banco
-porgevan de la pace e de l’ardore
-ch’elli acquistavan ventilando il fianco.
+Quando scendean nel fior, di banco in banco porgevan de la pace e de l’ardore ch’elli acquistavan ventilando il fianco.
 
 Né l’interporsi tra ’l disopra e ’l fiore
 di tanta moltitudine volante
@@ -6104,9 +5100,7 @@ ché la luce divina è penetrante
 per l’universo secondo ch’è degno,
 sì che nulla le puote essere ostante.
 
-Questo sicuro e gaudïoso regno,
-frequente in gente antica e in novella,
-viso e amore avea tutto ad un segno.
+Questo sicuro e gaudïoso regno, frequente in gente antica e in novella, viso e amore avea tutto ad un segno.
 
 O trina luce che ’n unica stella
 scintillando a lor vista, sì li appaga!
@@ -6136,9 +5130,7 @@ su per la viva luce passeggiando,
 menava ïo li occhi per li gradi,
 mo sù, mo giù e mo recirculando.
 
-Vedëa visi a carità süadi,
-d’altrui lume fregiati e di suo riso,
-e atti ornati di tutte onestadi.
+Vedëa visi a carità süadi, d’altrui lume fregiati e di suo riso, e atti ornati di tutte onestadi.
 
 La forma general di paradiso
 già tutta mïo sguardo avea compresa,
@@ -6148,13 +5140,9 @@ e volgeami con voglia rïaccesa
 per domandar la mia donna di cose
 di che la mente mia era sospesa.
 
-Uno intendëa, e altro mi rispuose:
-credea veder Beatrice e vidi un sene
-vestito con le genti glorïose.
+Uno intendëa, e altro mi rispuose: credea veder Beatrice e vidi un sene vestito con le genti glorïose.
 
-Diffuso era per li occhi e per le gene
-di benigna letizia, in atto pio
-quale a tenero padre si convene.
+Diffuso era per li occhi e per le gene di benigna letizia, in atto pio quale a tenero padre si convene.
 
 E «Ov’ è ella?», sùbito diss’ io.
 Ond’ elli: «A terminar lo tuo disiro
@@ -6164,9 +5152,7 @@ e se riguardi sù nel terzo giro
 dal sommo grado, tu la rivedrai
 nel trono che suoi merti le sortiro».
 
-Sanza risponder, li occhi sù levai,
-e vidi lei che si facea corona
-reflettendo da sé li etterni rai.
+Sanza risponder, li occhi sù levai, e vidi lei che si facea corona reflettendo da sé li etterni rai.
 
 Da quella regïon che più sù tona
 occhio mortale alcun tanto non dista,
@@ -6184,17 +5170,11 @@ di tante cose quant’ i’ ho vedute,
 dal tuo podere e da la tua bontate
 riconosco la grazia e la virtute.
 
-Tu m’hai di servo tratto a libertate
-per tutte quelle vie, per tutt’ i modi
-che di ciò fare avei la potestate.
+Tu m’hai di servo tratto a libertate per tutte quelle vie, per tutt’ i modi che di ciò fare avei la potestate.
 
-La tua magnificenza in me custodi,
-sì che l’anima mia, che fatt’ hai sana,
-piacente a te dal corpo si disnodi».
+La tua magnificenza in me custodi, sì che l’anima mia, che fatt’ hai sana, piacente a te dal corpo si disnodi».
 
-Così orai; e quella, sì lontana
-come parea, sorrise e riguardommi;
-poi si tornò a l’etterna fontana.
+Così orai; e quella, sì lontana come parea, sorrise e riguardommi; poi si tornò a l’etterna fontana.
 
 E ’l santo sene: «Acciò che tu assommi
 perfettamente», disse, «il tuo cammino,
@@ -6204,9 +5184,7 @@ vola con li occhi per questo giardino;
 ché veder lui t’acconcerà lo sguardo
 più al montar per lo raggio divino.
 
-E la regina del cielo, ond’ ïo ardo
-tutto d’amor, ne farà ogne grazia,
-però ch’i’ sono il suo fedel Bernardo».
+E la regina del cielo, ond’ ïo ardo tutto d’amor, ne farà ogne grazia, però ch’i’ sono il suo fedel Bernardo».
 
 Qual è colui che forse di Croazia
 viene a veder la Veronica nostra,
@@ -6263,8 +5241,6 @@ li suoi con tanto affetto volse a lei,
 che ’ miei di rimirar fé più ardenti.
 
 
-
-
 Paradiso
 Canto XXXII
 
@@ -6277,9 +5253,7 @@ e cominciò queste parole sante:
 quella ch’è tanto bella da’ suoi piedi
 è colei che l’aperse e che la punse.
 
-Ne l’ordine che fanno i terzi sedi,
-siede Rachel di sotto da costei
-con Bëatrice, sì come tu vedi.
+Ne l’ordine che fanno i terzi sedi, siede Rachel di sotto da costei con Bëatrice, sì come tu vedi.
 
 Sarra e Rebecca, Iudìt e colei
 che fu bisava al cantor che per doglia
@@ -6317,9 +5291,7 @@ e sotto lui così cerner sortiro
 Francesco, Benedetto e Augustino
 e altri fin qua giù di giro in giro.
 
-Or mira l’alto proveder divino:
-ché l’uno e l’altro aspetto de la fede
-igualmente empierà questo giardino.
+Or mira l’alto proveder divino: ché l’uno e l’altro aspetto de la fede igualmente empierà questo giardino.
 
 E sappi che dal grado in giù che fiede
 a mezzo il tratto le due discrezioni,
@@ -6329,13 +5301,9 @@ ma per l’altrui, con certe condizioni:
 ché tutti questi son spiriti ascolti
 prima ch’avesser vere elezïoni.
 
-Ben te ne puoi accorger per li volti
-e anche per le voci püerili,
-se tu li guardi bene e se li ascolti.
+Ben te ne puoi accorger per li volti e anche per le voci püerili, se tu li guardi bene e se li ascolti.
 
-Or dubbi tu e dubitando sili;
-ma io discioglierò ’l forte legame
-in che ti stringon li pensier sottili.
+Or dubbi tu e dubitando sili; ma io discioglierò ’l forte legame in che ti stringon li pensier sottili.
 
 Dentro a l’ampiezza di questo reame
 casüal punto non puote aver sito,
@@ -6357,17 +5325,11 @@ le menti tutte nel suo lieto aspetto
 creando, a suo piacer di grazia dota
 diversamente; e qui basti l’effetto.
 
-E ciò espresso e chiaro vi si nota
-ne la Scrittura santa in quei gemelli
-che ne la madre ebber l’ira commota.
+E ciò espresso e chiaro vi si nota ne la Scrittura santa in quei gemelli che ne la madre ebber l’ira commota.
 
-Però, secondo il color d’i capelli,
-di cotal grazia l’altissimo lume
-degnamente convien che s’incappelli.
+Però, secondo il color d’i capelli, di cotal grazia l’altissimo lume degnamente convien che s’incappelli.
 
-Dunque, sanza mercé di lor costume,
-locati son per gradi differenti,
-sol differendo nel primiero acume.
+Dunque, sanza mercé di lor costume, locati son per gradi differenti, sol differendo nel primiero acume.
 
 Bastavasi ne’ secoli recenti
 con l’innocenza, per aver salute,
@@ -6381,9 +5343,7 @@ ma poi che ’l tempo de la grazia venne,
 sanza battesmo perfetto di Cristo
 tale innocenza là giù si ritenne.
 
-Riguarda omai ne la faccia che a Cristo
-più si somiglia, ché la sua chiarezza
-sola ti può disporre a veder Cristo».
+Riguarda omai ne la faccia che a Cristo più si somiglia, ché la sua chiarezza sola ti può disporre a veder Cristo».
 
 Io vidi sopra lei tanta allegrezza
 piover, portata ne le menti sante
@@ -6397,9 +5357,7 @@ e quello amor che primo lì discese,
 cantando ‘Ave, Maria, gratïa plena’,
 dinanzi a lei le sue ali distese.
 
-Rispuose a la divina cantilena
-da tutte parti la beata corte,
-sì ch’ogne vista sen fé più serena.
+Rispuose a la divina cantilena da tutte parti la beata corte, sì ch’ogne vista sen fé più serena.
 
 «O santo padre, che per me comporte
 l’esser qua giù, lasciando il dolce loco
@@ -6409,9 +5367,7 @@ qual è quell’ angel che con tanto gioco
 guarda ne li occhi la nostra regina,
 innamorato sì che par di foco?».
 
-Così ricorsi ancora a la dottrina
-di colui ch’abbelliva di Maria,
-come del sole stella mattutina.
+Così ricorsi ancora a la dottrina di colui ch’abbelliva di Maria, come del sole stella mattutina.
 
 Ed elli a me: «Baldezza e leggiadria
 quant’ esser puote in angelo e in alma,
@@ -6421,9 +5377,7 @@ perch’ elli è quelli che portò la palma
 giuso a Maria, quando ’l Figliuol di Dio
 carcar si volse de la nostra salma.
 
-Ma vieni omai con li occhi sì com’ io
-andrò parlando, e nota i gran patrici
-di questo imperio giustissimo e pio.
+Ma vieni omai con li occhi sì com’ io andrò parlando, e nota i gran patrici di questo imperio giustissimo e pio.
 
 Quei due che seggon là sù più felici
 per esser propinquissimi ad Agusta,
@@ -6472,8 +5426,6 @@ sì che dal dicer mio lo cor non parti».
 E cominciò questa santa orazione:
 
 
-
-
 Paradiso
 Canto XXXIII
 
@@ -6486,25 +5438,15 @@ tu se’ colei che l’umana natura
 nobilitasti sì, che ’l suo fattore
 non disdegnò di farsi sua fattura.
 
-Nel ventre tuo si raccese l’amore,
-per lo cui caldo ne l’etterna pace
-così è germinato questo fiore.
+Nel ventre tuo si raccese l’amore, per lo cui caldo ne l’etterna pace così è germinato questo fiore.
 
-Qui se’ a noi meridïana face
-di caritate, e giuso, intra ’ mortali,
-se’ di speranza fontana vivace.
+Qui se’ a noi meridïana face di caritate, e giuso, intra ’ mortali, se’ di speranza fontana vivace.
 
-Donna, se’ tanto grande e tanto vali,
-che qual vuol grazia e a te non ricorre,
-sua disïanza vuol volar sanz’ ali.
+Donna, se’ tanto grande e tanto vali, che qual vuol grazia e a te non ricorre, sua disïanza vuol volar sanz’ ali.
 
-La tua benignità non pur soccorre
-a chi domanda, ma molte fïate
-liberamente al dimandar precorre.
+La tua benignità non pur soccorre a chi domanda, ma molte fïate liberamente al dimandar precorre.
 
-In te misericordia, in te pietate,
-in te magnificenza, in te s’aduna
-quantunque in creatura è di bontate.
+In te misericordia, in te pietate, in te magnificenza, in te s’aduna quantunque in creatura è di bontate.
 
 Or questi, che da l’infima lacuna
 de l’universo infin qui ha vedute
@@ -6522,13 +5464,9 @@ perché tu ogne nube li disleghi
 di sua mortalità co’ prieghi tuoi,
 sì che ’l sommo piacer li si dispieghi.
 
-Ancor ti priego, regina, che puoi
-ciò che tu vuoli, che conservi sani,
-dopo tanto veder, li affetti suoi.
+Ancor ti priego, regina, che puoi ciò che tu vuoli, che conservi sani, dopo tanto veder, li affetti suoi.
 
-Vinca tua guardia i movimenti umani:
-vedi Beatrice con quanti beati
-per li miei prieghi ti chiudon le mani!».
+Vinca tua guardia i movimenti umani: vedi Beatrice con quanti beati per li miei prieghi ti chiudon le mani!».
 
 Li occhi da Dio diletti e venerati,
 fissi ne l’orator, ne dimostraro
@@ -6538,9 +5476,7 @@ indi a l’etterno lume s’addrizzaro,
 nel qual non si dee creder che s’invii
 per creatura l’occhio tanto chiaro.
 
-E io ch’al fine di tutt’ i disii
-appropinquava, sì com’ io dovea,
-l’ardor del desiderio in me finii.
+E io ch’al fine di tutt’ i disii appropinquava, sì com’ io dovea, l’ardor del desiderio in me finii.
 
 Bernardo m’accennava, e sorridea,
 perch’ io guardassi suso; ma io era
@@ -6550,9 +5486,7 @@ ché la mia vista, venendo sincera,
 e più e più intrava per lo raggio
 de l’alta luce che da sé è vera.
 
-Da quinci innanzi il mio veder fu maggio
-che ’l parlar mostra, ch’a tal vista cede,
-e cede la memoria a tanto oltraggio.
+Da quinci innanzi il mio veder fu maggio che ’l parlar mostra, ch’a tal vista cede, e cede la memoria a tanto oltraggio.
 
 Qual è colüi che sognando vede,
 che dopo ’l sogno la passione impressa
@@ -6562,9 +5496,7 @@ cotal son io, ché quasi tutta cessa
 mia visïone, e ancor mi distilla
 nel core il dolce che nacque da essa.
 
-Così la neve al sol si disigilla;
-così al vento ne le foglie levi
-si perdea la sentenza di Sibilla.
+Così la neve al sol si disigilla; così al vento ne le foglie levi si perdea la sentenza di Sibilla.
 
 O somma luce che tanto ti levi
 da’ concetti mortali, a la mia mente
@@ -6578,13 +5510,9 @@ ché, per tornare alquanto a mia memoria
 e per sonare un poco in questi versi,
 più si conceperà di tua vittoria.
 
-Io credo, per l’acume ch’io soffersi
-del vivo raggio, ch’i’ sarei smarrito,
-se li occhi miei da lui fossero aversi.
+Io credo, per l’acume ch’io soffersi del vivo raggio, ch’i’ sarei smarrito, se li occhi miei da lui fossero aversi.
 
-E’ mi ricorda ch’io fui più ardito
-per questo a sostener, tanto ch’i’ giunsi
-l’aspetto mio col valore infinito.
+E’ mi ricorda ch’io fui più ardito per questo a sostener, tanto ch’i’ giunsi l’aspetto mio col valore infinito.
 
 Oh abbondante grazia ond’ io presunsi
 ficcar lo viso per la luce etterna,
@@ -6598,17 +5526,11 @@ sustanze e accidenti e lor costume
 quasi conflati insieme, per tal modo
 che ciò ch’i’ dico è un semplice lume.
 
-La forma universal di questo nodo
-credo ch’i’ vidi, perché più di largo,
-dicendo questo, mi sento ch’i’ godo.
+La forma universal di questo nodo credo ch’i’ vidi, perché più di largo, dicendo questo, mi sento ch’i’ godo.
 
-Un punto solo m’è maggior letargo
-che venticinque secoli a la ’mpresa
-che fé Nettuno ammirar l’ombra d’Argo.
+Un punto solo m’è maggior letargo che venticinque secoli a la ’mpresa che fé Nettuno ammirar l’ombra d’Argo.
 
-Così la mente mia, tutta sospesa,
-mirava fissa, immobile e attenta,
-e sempre di mirar faceasi accesa.
+Così la mente mia, tutta sospesa, mirava fissa, immobile e attenta, e sempre di mirar faceasi accesa.
 
 A quella luce cotal si diventa,
 che volgersi da lei per altro aspetto
@@ -6618,9 +5540,7 @@ però che ’l ben, ch’è del volere obietto,
 tutto s’accoglie in lei, e fuor di quella
 è defettivo ciò ch’è lì perfetto.
 
-Omai sarà più corta mia favella,
-pur a quel ch’io ricordo, che d’un fante
-che bagni ancor la lingua a la mammella.
+Omai sarà più corta mia favella, pur a quel ch’io ricordo, che d’un fante che bagni ancor la lingua a la mammella.
 
 Non perché più ch’un semplice sembiante
 fosse nel vivo lume ch’io mirava,
@@ -6638,9 +5558,7 @@ e l’un da l’altro come iri da iri
 parea reflesso, e ’l terzo parea foco
 che quinci e quindi igualmente si spiri.
 
-Oh quanto è corto il dire e come fioco
-al mio concetto! e questo, a quel ch’i’ vidi,
-è tanto, che non basta a dicer ‘poco’.
+Oh quanto è corto il dire e come fioco al mio concetto! e questo, a quel ch’i’ vidi, è tanto, che non basta a dicer ‘poco’.
 
 O luce etterna che sola in te sidi,
 sola t’intendi, e da te intelletta
@@ -6671,359 +5589,3 @@ ma già volgeva il mio disio e ’l velle,
 sì come rota ch’igualmente è mossa,
 
 l’amor che move il sole e l’altre stelle.
-
-
-
-
-*** END OF THE PROJECT GUTENBERG EBOOK LA DIVINA COMMEDIA ***
-
-***** This file should be named 999-0.txt or 999-0.zip *****
-This and all associated files of various formats will be found in:
-    https://www.gutenberg.org/9/9/999/
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the
-United States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away--you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country other than the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you will have to check the laws of the country where
-  you are located before using this eBook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm website
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that:
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg-tm trademark. Contact the Foundation as set
-forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-Section 3. Information about the Project Gutenberg Literary
-Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation's website
-and official page at www.gutenberg.org/contact
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without
-widespread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our website which has the main PG search
-facility: www.gutenberg.org
-
-This website includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
-

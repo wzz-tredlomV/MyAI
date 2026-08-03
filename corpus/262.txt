@@ -1,33 +1,3 @@
-Project Gutenberg's The Collected Poems of Rupert Brooke, by Rupert Brooke
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The Collected Poems of Rupert Brooke
-
-Author: Rupert Brooke
-
-Posting Date: July 10, 2008 [EBook #262]
-Release Date: May, 1995
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK POEMS OF RUPERT BROOKE ***
-
-
-
-
-Produced by A. Light, Linda Bowser, and  Rick Niles
-
-
-
-
-
 THE COLLECTED POEMS OF RUPERT BROOKE
 
 by Rupert Brooke
@@ -51,11 +21,8 @@ by Rupert Brooke
      Fellow of King's College, Cambridge, 1913
      Sub-Lieutenant, R.N.V.R., September, 1914
      Antwerp Expedition, October, 1914
-     Sailed with British Mediterranean Expeditionary Force, February 28, 1915
-     Died in the Aegean, April 23, 1915
-
-
-
+Sailed with British Mediterranean Expeditionary Force, February 28, 1915
+Died in the Aegean, April 23, 1915
 
 
 Introduction
@@ -63,71 +30,22 @@ Introduction
 
 I
 
-Rupert Brooke was both fair to see and winning in his ways.  There was
-at the first contact both bloom and charm; and most of all there was life.
-To use the word his friends describe him by, he was "vivid".
-This vitality, though manifold in expression, is felt primarily
-in his sensations -- surprise mingled with delight --
+Rupert Brooke was both fair to see and winning in his ways.  There was at the first contact both bloom and charm; and most of all there was life. To use the word his friends describe him by, he was "vivid". This vitality, though manifold in expression, is felt primarily in his sensations -- surprise mingled with delight --
 
-    "One after one, like tasting a sweet food."
+"One after one, like tasting a sweet food."
 
-This is life's "first fine rapture".  It makes him patient to
-name over those myriad things (each of which seems like a fresh discovery)
-curious but potent, and above all common, that he "loved", --
-he the "Great Lover".  Lover of what, then?  Why, of
+This is life's "first fine rapture".  It makes him patient to name over those myriad things (each of which seems like a fresh discovery) curious but potent, and above all common, that he "loved", -- he the "Great Lover".  Lover of what, then?  Why, of
 
     "White plates and cups clean-gleaming,
     Ringed with blue lines," --
 
-and the like, through thirty lines of exquisite words; and he is captivated
-by the multiple brevity of these vignettes of sense, keen, momentary,
-ecstatic with the morning dip of youth in the wonderful stream.
-The poem is a catalogue of vital sensations and "dear names" as well.
-"All these have been my loves."
+and the like, through thirty lines of exquisite words; and he is captivated by the multiple brevity of these vignettes of sense, keen, momentary, ecstatic with the morning dip of youth in the wonderful stream. The poem is a catalogue of vital sensations and "dear names" as well. "All these have been my loves."
 
-The spring of these emotions is the natural body, but it sends pulsations
-far into the spirit.  The feeling rises in direct observation,
-but it is soon aware of the "outlets of the sky".
-He sees objects practically unrelated, and links them in strings;
-or he sees them pictorially; or, he sees pictures immersed as it were
-in an atmosphere of thought.  When the process is complete,
-the thought suggests the picture and is its origin.
-Then the Great Lover revisits the bottom of the monstrous world,
-and imaginatively and thoughtfully recreates that strange under-sea,
-whose glooms and gleams and muds are well known to him as
-a strong and delighted swimmer; or, at the last, drifts through the dream
-of a South Sea lagoon, still with a philosophical question in his mouth.
-Yet one can hardly speak of "completion".  These are real first flights.
-What we have in this volume is not so much a work of art
-as an artist in his birth trying the wings of genius.
+The spring of these emotions is the natural body, but it sends pulsations far into the spirit.  The feeling rises in direct observation, but it is soon aware of the "outlets of the sky". He sees objects practically unrelated, and links them in strings; or he sees them pictorially; or, he sees pictures immersed as it were in an atmosphere of thought.  When the process is complete, the thought suggests the picture and is its origin. Then the Great Lover revisits the bottom of the monstrous world, and imaginatively and thoughtfully recreates that strange under-sea, whose glooms and gleams and muds are well known to him as a strong and delighted swimmer; or, at the last, drifts through the dream of a South Sea lagoon, still with a philosophical question in his mouth. Yet one can hardly speak of "completion".  These are real first flights. What we have in this volume is not so much a work of art as an artist in his birth trying the wings of genius.
 
-The poet loves his new-found element.  He clings to mortality;
-to life, not thought; or, as he puts it, to the concrete, --
-let the abstract "go pack!"  "There's little comfort in the wise," he ends.
-But in the unfolding of his precocious spirit, the literary control
-comes uppermost; his boat, finding its keel, swings to the helm of mind.
-How should it be otherwise for a youth well-born, well-bred,
-in college air?  Intellectual primacy showed itself to him
-in many wandering "loves", fine lover that he was; but in the end
-he was an intellectual lover, and the magnet seems to have been
-especially powerful in the ghosts of the men of "wit", Donne, Marvell --
-erudite lords of language, poets in another world than ours,
-a less "ample ether", a less "divine air", our fathers thought,
-but poets of "eternity".  A quintessential drop of intellect
-is apt to be in poetic blood.  How Platonism fascinates the poets,
-like a shining bait!  Rupert Brooke will have none of it;
-but at a turn of the verse he is back at it, examining, tasting, refusing.
-In those alternate drives of the thought in his South Sea idyl
-(clever as tennis play) how he slips from phenomenon to idea and reverses,
-happy with either, it seems, "were t'other dear charmer away".
-How bravely he tries to free himself from the cling of earth,
-at the close of the "Great Lover"!  How little he succeeds!
-His muse knew only earthly tongues, -- so far as he understood.
+The poet loves his new-found element.  He clings to mortality; to life, not thought; or, as he puts it, to the concrete, -- let the abstract "go pack!"  "There's little comfort in the wise," he ends. But in the unfolding of his precocious spirit, the literary control comes uppermost; his boat, finding its keel, swings to the helm of mind. How should it be otherwise for a youth well-born, well-bred, in college air?  Intellectual primacy showed itself to him in many wandering "loves", fine lover that he was; but in the end he was an intellectual lover, and the magnet seems to have been especially powerful in the ghosts of the men of "wit", Donne, Marvell -- erudite lords of language, poets in another world than ours, a less "ample ether", a less "divine air", our fathers thought, but poets of "eternity".  A quintessential drop of intellect is apt to be in poetic blood.  How Platonism fascinates the poets, like a shining bait!  Rupert Brooke will have none of it; but at a turn of the verse he is back at it, examining, tasting, refusing. In those alternate drives of the thought in his South Sea idyl (clever as tennis play) how he slips from phenomenon to idea and reverses, happy with either, it seems, "were t'other dear charmer away". How bravely he tries to free himself from the cling of earth, at the close of the "Great Lover"!  How little he succeeds! His muse knew only earthly tongues, -- so far as he understood.
 
-Why this persistent cling to mortality, -- with its quick-coming cry
-against death and its heaped anathemas on the transformations of decay?
-It is the old story once more: -- the vision of the first poets,
-the world that "passes away".  The poetic eye of Keats saw it, --
+Why this persistent cling to mortality, -- with its quick-coming cry against death and its heaped anathemas on the transformations of decay? It is the old story once more: -- the vision of the first poets, the world that "passes away".  The poetic eye of Keats saw it, --
 
                "Beauty that must die,
     And Joy whose hand is ever at his lips
@@ -167,95 +85,33 @@ again, best of all, in the last word, --
      And count, and touch, and turn them o'er,
     Musing upon them."
 
-He cannot forego his sensations, that "box of compacted sweets".
-He even forefeels a ghostly landscape where two shall go wandering
-through the night, "alone".  So the faith that broke its chrysalis
-in the first disillusionment of boyhood, in "Second Best",
-beautiful with the burden of Greek lyricism, ends triumphant
-with the spirit still unsubdued. --
+He cannot forego his sensations, that "box of compacted sweets". He even forefeels a ghostly landscape where two shall go wandering through the night, "alone".  So the faith that broke its chrysalis in the first disillusionment of boyhood, in "Second Best", beautiful with the burden of Greek lyricism, ends triumphant with the spirit still unsubdued. --
 
     "Proud, then, clear-eyed and laughing, go to greet
     Death as a friend."
 
-So go, "with unreluctant tread".  But in the disillusionment of beauty
-and of love there is an older tone.  With what bitter savor, with what
-grossness of diction, caught from the Elizabethan and satirical elements
-in his culture, he spends anger in words!  He reacts, he rebels, he storms.
-A dozen poems hardly exhaust his gall.  It is not merely
-that beauty and joy and love are transient, now, but in their going
-they are corrupted into their opposites, -- ugliness, pain, indifference.
-And his anger once stilled by speech, what lassitude follows!
+So go, "with unreluctant tread".  But in the disillusionment of beauty and of love there is an older tone.  With what bitter savor, with what grossness of diction, caught from the Elizabethan and satirical elements in his culture, he spends anger in words!  He reacts, he rebels, he storms. A dozen poems hardly exhaust his gall.  It is not merely that beauty and joy and love are transient, now, but in their going they are corrupted into their opposites, -- ugliness, pain, indifference. And his anger once stilled by speech, what lassitude follows!
 
-Life, in this volume, is hardly less evident by its ecstasy
-than by its collapse.  It is a book of youth, sensitive, vigorous, sound;
-but it is the fruit of intensity, and bears the traits.
-The search for solitude, the relief from crowds, the open door into nature;
-the sense of flight and escape; the repeated thought of safety,
-the insistent fatigue, the cry for sleep; -- all these bear confession
-in their faces.  "Flight", "Town and Country", "The Voice", are eloquent
-of what they leave untold; and the climax of "Retrospect", --
+Life, in this volume, is hardly less evident by its ecstasy than by its collapse.  It is a book of youth, sensitive, vigorous, sound; but it is the fruit of intensity, and bears the traits. The search for solitude, the relief from crowds, the open door into nature; the sense of flight and escape; the repeated thought of safety, the insistent fatigue, the cry for sleep; -- all these bear confession in their faces.  "Flight", "Town and Country", "The Voice", are eloquent of what they leave untold; and the climax of "Retrospect", --
 
-    "And I should sleep, and I should sleep," --
+"And I should sleep, and I should sleep," --
 
-or the sestet of "Waikiki", or the whole fainting sonnet
-entitled "A Memory", belong to the nadir of vitality.  At moments
-weariness set in like a spiritual tide.  I associate, too, with such moods,
-psychologically at least, his visions of the "arrested moment", as in
-"Dining-Room Tea", -- a sort of trance state -- or in the pendant sonnet.
-Analogous moods are not infrequent in the great poets.  Rupert Brooke
-seems to have faltered, nervously, at times; these poems mirror faithfully
-such moments.  But even when the image of life, imaginative or real,
-falters so, how essentially vital it still is, and clothed in an exquisite
-body of words like the traditional "rainbow hues of the dying fish"!
-For I cannot express too strongly my admiration of the literary sense
-of this young poet, and my delight in it.  "All these have been my loves,"
-he says, if I may repeat the phrase; but he seems to have loved the words,
-as much as the things, -- "dear names", he adds.  The born man of letters
-speaks there.  So, when his pulse is at its lowest,
-he cannot forget the beautiful surface of his South Sea idyls
-or of versified English gardens and lanes.  He cared as much
-for the expression as for the thing, which is what makes a man of letters.
-So fixed is this habit that his art, truly, is independent
-of his bodily state.  In his poems of "collapse" as in those of "ecstasy"
-he seems to me equally master of his mood, -- like those poets who are
-"for all time".  His literary skill in verse was ripe, how long so ever
-he might have to live.
+or the sestet of "Waikiki", or the whole fainting sonnet entitled "A Memory", belong to the nadir of vitality.  At moments weariness set in like a spiritual tide.  I associate, too, with such moods, psychologically at least, his visions of the "arrested moment", as in "Dining-Room Tea", -- a sort of trance state -- or in the pendant sonnet. Analogous moods are not infrequent in the great poets.  Rupert Brooke seems to have faltered, nervously, at times; these poems mirror faithfully such moments.  But even when the image of life, imaginative or real, falters so, how essentially vital it still is, and clothed in an exquisite body of words like the traditional "rainbow hues of the dying fish"! For I cannot express too strongly my admiration of the literary sense of this young poet, and my delight in it.  "All these have been my loves," he says, if I may repeat the phrase; but he seems to have loved the words, as much as the things, -- "dear names", he adds.  The born man of letters speaks there.  So, when his pulse is at its lowest, he cannot forget the beautiful surface of his South Sea idyls or of versified English gardens and lanes.  He cared as much for the expression as for the thing, which is what makes a man of letters. So fixed is this habit that his art, truly, is independent of his bodily state.  In his poems of "collapse" as in those of "ecstasy" he seems to me equally master of his mood, -- like those poets who are "for all time".  His literary skill in verse was ripe, how long so ever he might have to live.
 
 
 II
 
-To come, then, to art, which is above personality, what of that?  Art is,
-at most, but the mortal relic of genius; yet it is true of it that,
-like Ozymandias' statue, "nothing beside remains".  Rupert Brooke was
-already perfected in verbal and stylistic execution.  He might have grown
-in variety, richness and significance, in scope and in detail, no doubt;
-but as an artisan in metrical words and pauses, he was past apprenticeship.
-He was still a restless experimenter, but in much he was a master.
-In the brief stroke of description, which he inherited from
-his early attachment to the concrete; in the rush of words,
-especially verbs; in the concatenation of objects, the flow of things
-'en masse' through his verse, still with the impulse of "the bright speed"
-he had at the source; in his theatrical impersonation of abstractions,
-as in "The Funeral of Youth", where for once the abstract and the concrete
-are happily fused; -- in all these there are the elements, and in the last
-there is the perfection, of mastery.  For one thing, he knew how to end.
-It is with him a dramatic secret.  The brief stroke does this work
-time and time again in his verse, nowhere better than in
-"at dead YOUTH's funeral:" all were there, --
+To come, then, to art, which is above personality, what of that?  Art is, at most, but the mortal relic of genius; yet it is true of it that, like Ozymandias' statue, "nothing beside remains".  Rupert Brooke was already perfected in verbal and stylistic execution.  He might have grown in variety, richness and significance, in scope and in detail, no doubt; but as an artisan in metrical words and pauses, he was past apprenticeship. He was still a restless experimenter, but in much he was a master. In the brief stroke of description, which he inherited from his early attachment to the concrete; in the rush of words, especially verbs; in the concatenation of objects, the flow of things 'en masse' through his verse, still with the impulse of "the bright speed" he had at the source; in his theatrical impersonation of abstractions, as in "The Funeral of Youth", where for once the abstract and the concrete are happily fused; -- in all these there are the elements, and in the last there is the perfection, of mastery.  For one thing, he knew how to end. It is with him a dramatic secret.  The brief stroke does this work time and time again in his verse, nowhere better than in "at dead YOUTH's funeral:" all were there, --
 
-    "All, except only LOVE -- LOVE had died long ago."
+"All, except only LOVE -- LOVE had died long ago."
 
 The poem is like a vision of an old time MASQUE: --
 
-    "The sweet lad RHYME" ----
-    "ARDOUR, the sunlight on his greying hair" ----
-    "BEAUTY . . . pale in her black; dry-eyed, she stood alone."
+"The sweet lad RHYME" ----
+"ARDOUR, the sunlight on his greying hair" ----
+"BEAUTY . . . pale in her black; dry-eyed, she stood alone."
 
-How vivid!  The lines owe something to his eye for costume, for staging;
-but, as mere picture writing, it is as firm as if carved on an obelisk.
-And as he reconciled concrete and abstract here, so he had left
-his short breath, in those earlier lines, behind, and had come into
-the long sweep and open water of great style: --
+How vivid!  The lines owe something to his eye for costume, for staging; but, as mere picture writing, it is as firm as if carved on an obelisk. And as he reconciled concrete and abstract here, so he had left his short breath, in those earlier lines, behind, and had come into the long sweep and open water of great style: --
 
     "And light on waving grass, he knows not when,
     And feet that ran, but where, he cannot tell."
@@ -273,90 +129,27 @@ And this, --
 
     "And evening hush broken by homing wings,"
 
-Such lines as these, apart from their beauty, are in the best manner
-of English poetic style.  So, in many minor ways, he shuffled
-contrast and climax, and the like, adept in the handling
-of poetic rhetoric that he had come to be; but in three ways
-he was conspicuously successful in his art.
+Such lines as these, apart from their beauty, are in the best manner of English poetic style.  So, in many minor ways, he shuffled contrast and climax, and the like, adept in the handling of poetic rhetoric that he had come to be; but in three ways he was conspicuously successful in his art.
 
-The first of these -- they are all in the larger forms of art --
-is the dramatic sonnet, by which I do not mean merely
-a sonnet in dialogue or advancing by simple contrast;
-but one in which there may be these things, but also there is
-a tragic reversal or its equivalent.  Not to consider it too curiously,
-take "The Hill".  This sonnet is beautiful in action and diction;
-its eloquence speeds it on with a lift; the situation is
-the very crest of life; then, --
+The first of these -- they are all in the larger forms of art -- is the dramatic sonnet, by which I do not mean merely a sonnet in dialogue or advancing by simple contrast; but one in which there may be these things, but also there is a tragic reversal or its equivalent.  Not to consider it too curiously, take "The Hill".  This sonnet is beautiful in action and diction; its eloquence speeds it on with a lift; the situation is the very crest of life; then, --
 
-    "We shall go down with unreluctant tread,
-    Rose-crowned into the darkness! . . .  Proud we were,
-    And laughed, that had such brave true things to say.
-    -- And then you suddenly cried and turned away."
+"We shall go down with unreluctant tread,
+Rose-crowned into the darkness! . . .  Proud we were,
+And laughed, that had such brave true things to say.
+-- And then you suddenly cried and turned away."
 
-The dramatic sonnet in English has not gone beyond that, for beauty,
-for brevity, for tragic effect, -- nor, I add, for unspoken loyalty
-to reality.  Reality was, perhaps, what he most dearly wished for;
-here he achieved it.  In many another sonnet he won the laurel;
-but if I were to venture to choose, it is in the dramatic handling
-of the sonnet that he is most individual and characteristic.
+The dramatic sonnet in English has not gone beyond that, for beauty, for brevity, for tragic effect, -- nor, I add, for unspoken loyalty to reality.  Reality was, perhaps, what he most dearly wished for; here he achieved it.  In many another sonnet he won the laurel; but if I were to venture to choose, it is in the dramatic handling of the sonnet that he is most individual and characteristic.
 
-The second great success of his genius, formally considered,
-lay in the narrative idyl, either in the Miltonic way of flashing bits
-of English country landscape before the eye, as in "Grantchester",
-or by applying essentially the same method to the water world of fishes
-or the South Sea world, both on a philosophic background.
-These are all master poems of a kaleidoscopic beauty and charm,
-where the brief pictures play in and out of a woven veil of thought,
-irony, mood, with a delightful intellectual pleasuring.
-He thoroughly enjoys doing the poetical magic.  Such bits of
-English retreats or Pacific paradises, so full of idyllic charm,
-exquisite in image and movement, are among the rarest of poetic treasures.
-The thought of Milton and of Marvell only adds an old world charm
-to the most modern of the works of the Muses.  What lightness of touch,
-what ease of movement, what brilliancy of hue!  What vivacity throughout!
-Even in "Retrospect", what actuality!
+The second great success of his genius, formally considered, lay in the narrative idyl, either in the Miltonic way of flashing bits of English country landscape before the eye, as in "Grantchester", or by applying essentially the same method to the water world of fishes or the South Sea world, both on a philosophic background. These are all master poems of a kaleidoscopic beauty and charm, where the brief pictures play in and out of a woven veil of thought, irony, mood, with a delightful intellectual pleasuring. He thoroughly enjoys doing the poetical magic.  Such bits of English retreats or Pacific paradises, so full of idyllic charm, exquisite in image and movement, are among the rarest of poetic treasures. The thought of Milton and of Marvell only adds an old world charm to the most modern of the works of the Muses.  What lightness of touch, what ease of movement, what brilliancy of hue!  What vivacity throughout! Even in "Retrospect", what actuality!
 
-And the third success is what I should call the "melange".  That is,
-the method of indiscrimination by which he gathers up experience,
-and pours it out again in language, with full disregard
-of its relative values.  His good taste saves him from what in another
-would be shipwreck, but this indifference to values, this apparent lack
-of selection in material, while at times it gives a huddled flow,
-more than anything else "modernizes" the verse.  It yields, too,
-an effect of abundant vitality, and it makes facile the change
-from grave to gay and the like.  The "melange", as I call it,
-is rather an innovation in English verse, and to be found only rarely.
-It exists, however; and especially it was dear to Keats in his youth.
-It is by excellent taste, and by style, that the poet here overcomes
-its early difficulties.
+And the third success is what I should call the "melange".  That is, the method of indiscrimination by which he gathers up experience, and pours it out again in language, with full disregard of its relative values.  His good taste saves him from what in another would be shipwreck, but this indifference to values, this apparent lack of selection in material, while at times it gives a huddled flow, more than anything else "modernizes" the verse.  It yields, too, an effect of abundant vitality, and it makes facile the change from grave to gay and the like.  The "melange", as I call it, is rather an innovation in English verse, and to be found only rarely. It exists, however; and especially it was dear to Keats in his youth. It is by excellent taste, and by style, that the poet here overcomes its early difficulties.
 
-In these three formal ways, besides in minor matters, it appears to me
-that Rupert Brooke, judged by the most orthodox standards,
-had succeeded in poetry.
+In these three formal ways, besides in minor matters, it appears to me that Rupert Brooke, judged by the most orthodox standards, had succeeded in poetry.
 
 
 III
 
-But in his first notes, if I may indulge my private taste,
-I find more of the intoxication of the god.  These early poems
-are the lyrical cries and luminous flares of a dawn, no doubt;
-but they are incarnate of youth.  Capital among them is "Blue Evening".
-It is original and complete.  In its whispering embraces of sense,
-in the terror of seizure of the spirit, in the tranquil euthanasia
-of the end by the touch of speechless beauty, it seems to me a true symbol
-of life whole and entire.  It is beautiful in language and feeling,
-with an extraordinary clarity and rise of power; and, above all,
-though rare in experience, it is real.  A young poet's poem;
-but it has a quality never captured by perfect art.  A poem for poets,
-no doubt; but that is the best kind.  So, too, the poem,
-entitled "Sleeping Out", charms me and stirs me with
-its golden clangors and crying flames of emotion as it mounts up
-to "the white one flame", to "the laughter and the lips of light".
-It is like a holy Italian picture, -- remote, inaccessible, alone.
-The "white flame" seems to have had a mystic meaning to the boy;
-it occurs repeatedly.  And another poem, -- not to make
-too long a story of my private enthusiasms -- "Ante Aram", --
-wakes all my classical blood, --
+But in his first notes, if I may indulge my private taste, I find more of the intoxication of the god.  These early poems are the lyrical cries and luminous flares of a dawn, no doubt; but they are incarnate of youth.  Capital among them is "Blue Evening". It is original and complete.  In its whispering embraces of sense, in the terror of seizure of the spirit, in the tranquil euthanasia of the end by the touch of speechless beauty, it seems to me a true symbol of life whole and entire.  It is beautiful in language and feeling, with an extraordinary clarity and rise of power; and, above all, though rare in experience, it is real.  A young poet's poem; but it has a quality never captured by perfect art.  A poem for poets, no doubt; but that is the best kind.  So, too, the poem, entitled "Sleeping Out", charms me and stirs me with its golden clangors and crying flames of emotion as it mounts up to "the white one flame", to "the laughter and the lips of light". It is like a holy Italian picture, -- remote, inaccessible, alone. The "white flame" seems to have had a mystic meaning to the boy; it occurs repeatedly.  And another poem, -- not to make too long a story of my private enthusiasms -- "Ante Aram", -- wakes all my classical blood, --
 
         "voice more sweet than the far plaint of viols is,
     Or the soft moan of any grey-eyed lute player."
@@ -366,23 +159,15 @@ But these things are arcana.
 
 IV
 
-There is a grave in Scyros, amid the white and pinkish marble of the isle,
-the wild thyme and the poppies, near the green and blue waters.
-There Rupert Brooke was buried.  Thither have gone the thoughts
-of his countrymen, and the hearts of the young especially.
-It will long be so.  For a new star shines in the English heavens.
-                                                                   G. E. W.
-    Beverly, Mass., October, 1915.
-
-
-
+There is a grave in Scyros, amid the white and pinkish marble of the isle, the wild thyme and the poppies, near the green and blue waters. There Rupert Brooke was buried.  Thither have gone the thoughts of his countrymen, and the hearts of the young especially. It will long be so.  For a new star shines in the English heavens.
+G. E. W.
+Beverly, Mass., October, 1915.
 
 
 Contents
 
 
-
-              1905-1908
+1905-1908
 
           Second Best
           Day That I Have Loved
@@ -403,10 +188,10 @@ Contents
           The Beginning
 
 
-              1908-1911
+1908-1911
 
-          Sonnet:  "Oh! Death will find me, long before I tire"
-          Sonnet:  "I said I splendidly loved you; it's not true"
+Sonnet:  "Oh! Death will find me, long before I tire"
+Sonnet:  "I said I splendidly loved you; it's not true"
           Success
           Dust
           Kindliness
@@ -438,14 +223,12 @@ Contents
           Day and Night
 
 
-              Experiments
+Experiments
 
           Choriambics -- I
           Choriambics -- II
           Desertion
 
-
-              1914
 
           I.  Peace
           II.  Safety
@@ -455,7 +238,7 @@ Contents
           The Treasure
 
 
-              The South Seas
+The South Seas
 
           Tiare Tahiti
           Retrospect
@@ -474,7 +257,7 @@ Contents
           Mutability
 
 
-              Other Poems
+Other Poems
 
           The Busy Heart
           Love
@@ -489,13 +272,13 @@ Contents
           The Funeral of Youth:  Threnody
 
 
-              Grantchester
+Grantchester
 
           The Old Vicarage, Grantchester
           Fafaia
 
 
-              Addendum
+Addendum
 
           Fragment
           The Dance
@@ -511,16 +294,10 @@ Contents
           Rupert Brooke (A Biographical Note)
 
 
-
-
-
 1905-1908
 
 
-
-
 Second Best
-
 
 
    Here in the dark, O heart;
@@ -566,19 +343,16 @@ Second Best
    O heart, in the great dawn!
 
 
-
-
 Day That I Have Loved
 
 
+Tenderly, day that I have loved, I close your eyes,
+And smooth your quiet brow, and fold your thin dead hands.
+The grey veils of the half-light deepen; colour dies.
+I bear you, a light burden, to the shrouded sands,
 
-   Tenderly, day that I have loved, I close your eyes,
-    And smooth your quiet brow, and fold your thin dead hands.
-   The grey veils of the half-light deepen; colour dies.
-    I bear you, a light burden, to the shrouded sands,
-
-   Where lies your waiting boat, by wreaths of the sea's making
-    Mist-garlanded, with all grey weeds of the water crowned.
+Where lies your waiting boat, by wreaths of the sea's making
+Mist-garlanded, with all grey weeds of the water crowned.
    There you'll be laid, past fear of sleep or hope of waking;
     And over the unmoving sea, without a sound,
 
@@ -601,23 +375,20 @@ Day That I Have Loved
                                           From the inland meadows,
     Fragrant of June and clover, floats the dark, and fills
    The hollow sea's dead face with little creeping shadows,
-    And the white silence brims the hollow of the hills.
+And the white silence brims the hollow of the hills.
 
-   Close in the nest is folded every weary wing,
-    Hushed all the joyful voices; and we, who held you dear,
-   Eastward we turn and homeward, alone, remembering . . .
-    Day that I loved, day that I loved, the Night is here!
-
-
+Close in the nest is folded every weary wing,
+Hushed all the joyful voices; and we, who held you dear,
+Eastward we turn and homeward, alone, remembering . . .
+Day that I loved, day that I loved, the Night is here!
 
 
 Sleeping Out:  Full Moon
 
 
-
-   They sleep within. . . .
-   I cower to the earth, I waking, I only.
-   High and cold thou dreamest, O queen, high-dreaming and lonely.
+They sleep within. . . .
+I cower to the earth, I waking, I only.
+High and cold thou dreamest, O queen, high-dreaming and lonely.
 
    We have slept too long, who can hardly win
    The white one flame, and the night-long crying;
@@ -645,10 +416,7 @@ Sleeping Out:  Full Moon
    And the laughter, and the lips, of light.
 
 
-
-
 In Examination
-
 
 
    Lo! from quiet skies
@@ -679,10 +447,7 @@ In Examination
    Still scribbling, blear-eyed and stolid immortals.
 
 
-
-
 Pine-Trees and the Sky:  Evening
-
 
 
    I'd watched the sorrow of the evening sky,
@@ -709,10 +474,7 @@ Pine-Trees and the Sky:  Evening
    Being glad of you, O pine-trees and the sky!
 
 
-
-
 Wagner
-
 
 
    Creeps in half wanton, half asleep,
@@ -734,10 +496,7 @@ Wagner
      His pendulous stomach hangs a-shaking.
 
 
-
-
 The Vision of the Archangels
-
 
 
    Slowly up silent peaks, the white edge of the world,
@@ -757,10 +516,7 @@ The Vision of the Archangels
    With sorrowful quiet faces downward to the plain.
 
 
-
-
 Seaside
-
 
 
    Swiftly out from the friendly lilt of the band,
@@ -781,19 +537,16 @@ Seaside
    And dies between the seawall and the sea.
 
 
-
-
 On the Death of Smet-Smet, the Hippopotamus-Goddess
 
-   Song of a tribe of the ancient Egyptians
+Song of a tribe of the ancient Egyptians
 
 
-
-        (The Priests within the Temple)
-   She was wrinkled and huge and hideous?  She was our Mother.
-   She was lustful and lewd? -- but a God; we had none other.
-   In the day She was hidden and dumb, but at nightfall moaned in the shade;
-   We shuddered and gave Her Her will in the darkness; we were afraid.
+(The Priests within the Temple)
+She was wrinkled and huge and hideous?  She was our Mother.
+She was lustful and lewd? -- but a God; we had none other.
+In the day She was hidden and dumb, but at nightfall moaned in the shade;
+We shuddered and gave Her Her will in the darkness; we were afraid.
 
         (The People without)
              She sent us pain,
@@ -807,9 +560,9 @@ On the Death of Smet-Smet, the Hippopotamus-Goddess
 
         (The Priests within)
    She was hungry and ate our children; -- how should we stay Her?
-   She took our young men and our maidens; -- ours to obey Her.
-   We were loathed and mocked and reviled of all nations; that was our pride.
-   She fed us, protected us, loved us, and killed us; now She has died.
+She took our young men and our maidens; -- ours to obey Her.
+We were loathed and mocked and reviled of all nations; that was our pride.
+She fed us, protected us, loved us, and killed us; now She has died.
 
         (The People without)
              She was so strong;
@@ -822,13 +575,10 @@ On the Death of Smet-Smet, the Hippopotamus-Goddess
               Now God is dying?
 
 
-
-
 The Song of the Pilgrims
 
         (Halted around the fire by night, after moon-set,
         they sing this beneath the trees.)
-
 
 
    What light of unremembered skies
@@ -874,12 +624,9 @@ The Song of the Pilgrims
    Among the Forests of the Night.
 
 
-
-
 The Song of the Beasts
 
-        (Sung, on one night, in the cities, in the darkness.)
-
+(Sung, on one night, in the cities, in the darkness.)
 
 
    Come away!  Come away!
@@ -917,10 +664,7 @@ The Song of the Beasts
    To the black unresting plains of the calling sea.
 
 
-
-
 Failure
-
 
 
    Because God put His adamantine fate
@@ -940,10 +684,7 @@ Failure
     And stirred the heavy curtains on the walls.
 
 
-
-
 Ante Aram
-
 
 
    Before thy shrine I kneel, an unknown worshipper,
@@ -973,12 +714,9 @@ Ante Aram
     Or the soft moan of any grey-eyed lute-player.
 
 
-
-
 Dawn
 
-        (From the train between Bologna and Milan, second class.)
-
+(From the train between Bologna and Milan, second class.)
 
 
    Opposite me two Germans snore and sweat.
@@ -998,10 +736,7 @@ Dawn
    Opposite me two Germans sweat and snore.
 
 
-
-
 The Call
-
 
 
    Out of the nothingness of sleep,
@@ -1045,10 +780,7 @@ The Call
     The dust of the dead gods, alone.
 
 
-
-
 The Wayfarers
-
 
 
    Is it the hour?  We leave this resting-place
@@ -1068,10 +800,7 @@ The Wayfarers
        Into the waste we know not, into the night?
 
 
-
-
 The Beginning
-
 
 
    Some day I shall rise and leave my friends
@@ -1096,19 +825,10 @@ The Beginning
    -- And my heart is sick with memories.
 
 
-
-
-
-
 1908-1911
 
 
-
-
-
-
 Sonnet:  "Oh! Death will find me, long before I tire"
-
 
 
    Oh! Death will find me, long before I tire
@@ -1130,10 +850,7 @@ Sonnet:  "Oh! Death will find me, long before I tire"
    Amusedly, among the ancient Dead.
 
 
-
-
 Sonnet:  "I said I splendidly loved you; it's not true"
-
 
 
    I said I splendidly loved you; it's not true.
@@ -1152,10 +869,7 @@ Sonnet:  "I said I splendidly loved you; it's not true"
     And do not love at all.  Of these am I.
 
 
-
-
 Success
-
 
 
    I think if you had loved me when I wanted;
@@ -1174,10 +888,7 @@ Success
     And I'm alone; and you have not awoken.
 
 
-
-
 Dust
-
 
 
    When the white flame in us is gone,
@@ -1236,10 +947,7 @@ Dust
     One moment, what it is to love.
 
 
-
-
 Kindliness
-
 
 
    When love has changed to kindliness --
@@ -1280,10 +988,7 @@ Kindliness
    And love has changed to kindliness.
 
 
-
-
 Mummia
-
 
 
    As those of old drank mummia
@@ -1332,10 +1037,7 @@ Mummia
     Love, that our love be this!
 
 
-
-
 The Fish
-
 
 
    In a cool curving world he lies
@@ -1420,10 +1122,7 @@ The Fish
    And the dark tide are one with him.
 
 
-
-
 Thoughts on the Shape of the Human Body
-
 
 
    How can we find? how can we rest? how can
@@ -1458,10 +1157,7 @@ Thoughts on the Shape of the Human Body
    Patiently ever, through the eternal night!
 
 
-
-
 Flight
-
 
 
    Voices out of the shade that cried,
@@ -1507,10 +1203,7 @@ Flight
     And stroked my face.  I fell asleep.
 
 
-
-
 The Hill
-
 
 
    Breathless, we flung us on the windy hill,
@@ -1530,10 +1223,7 @@ The Hill
    -- And then you suddenly cried, and turned away.
 
 
-
-
 The One Before the Last
-
 
 
    I dreamt I was in love again
@@ -1576,10 +1266,7 @@ The One Before the Last
     YOU ever hurt abit!
 
 
-
-
 The Jolly Company
-
 
 
    The stars, a jolly company,
@@ -1604,10 +1291,7 @@ The Jolly Company
    Star to faint star, across the sky.
 
 
-
-
 The Life Beyond
-
 
 
    He wakes, who never thought to wake again,
@@ -1627,11 +1311,8 @@ The Life Beyond
    It's dead.  Alone, most strangely, I live on.
 
 
-
-
 Lines Written in the Belief That the Ancient Roman Festival of the Dead
-     Was Called Ambarvalia
-
+Was Called Ambarvalia
 
 
    Swings the way still by hollow and hill,
@@ -1725,10 +1406,7 @@ Lines Written in the Belief That the Ancient Roman Festival of the Dead
     Your Ambarvalia.
 
 
-
-
 Dead Men's Love
-
 
 
    There was a damned successful Poet;
@@ -1760,10 +1438,7 @@ Dead Men's Love
        The emptiness of eyes.
 
 
-
-
 Town and Country
-
 
 
    Here, where love's stuff is body, arm and side
@@ -1807,10 +1482,7 @@ Town and Country
     And dumb and mad and eyeless like the sky.
 
 
-
-
 Paralysis
-
 
 
    For moveless limbs no pity I crave,
@@ -1844,13 +1516,10 @@ Paralysis
    To you alone with your hills and heaven.
 
 
-
-
 Menelaus and Helen
 
 
-
-     I
+I
 
    Hot through Troy's ruin Menelaus broke
     To Priam's palace, sword in hand, to sate
@@ -1869,7 +1538,7 @@ Menelaus and Helen
    The perfect Knight before the perfect Queen.
 
 
-     II
+II
 
    So far the poet.  How should he behold
     That journey home, the long connubial years?
@@ -1888,10 +1557,7 @@ Menelaus and Helen
    And Paris slept on by Scamander side.
 
 
-
-
 Libido
-
 
 
    How should I know?  The enormous wheels of will
@@ -1911,10 +1577,7 @@ Libido
      Quieter than a dead man on a bed.
 
 
-
-
 Jealousy
-
 
 
    When I see you, who were so wise and cool,
@@ -1957,10 +1620,7 @@ Jealousy
    -- Oh, when THAT time comes, you'll be dirty too!
 
 
-
-
 Blue Evening
-
 
 
    My restless blood now lies a-quiver,
@@ -2005,10 +1665,7 @@ Blue Evening
     And "Hush!" she said, between the boughs.
 
 
-
-
 The Charm
-
 
 
    In darkness the loud sea makes moan;
@@ -2042,10 +1699,7 @@ The Charm
    And holiness upon the deep.
 
 
-
-
 Finding
-
 
 
    From the candles and dumb shadows,
@@ -2093,10 +1747,7 @@ Finding
     And a white dream of you.
 
 
-
-
 Song
-
 
 
    "Oh! Love," they said, "is King of Kings,
@@ -2127,10 +1778,7 @@ Song
     Love would be merely you.
 
 
-
-
 The Voice
-
 
 
    Safe in the magic of my woods
@@ -2183,10 +1831,7 @@ The Voice
    By God! I wish -- I wish that you were dead!
 
 
-
-
 Dining-Room Tea
-
 
 
    When you were there, and you, and you,
@@ -2264,10 +1909,7 @@ Dining-Room Tea
    When you were there, and you, and you.
 
 
-
-
 The Goddess in the Wood
-
 
 
    In a flowered dell the Lady Venus stood,
@@ -2287,10 +1929,7 @@ The Goddess in the Wood
     And the immortal eyes to look on death.
 
 
-
-
 A Channel Passage
-
 
 
    The damned ship lurched and slithered.  Quiet and quick
@@ -2310,10 +1949,7 @@ A Channel Passage
    To choose 'twixt love and nausea, heart and belly.
 
 
-
-
 Victory
-
 
 
    All night the ways of Heaven were desolate,
@@ -2333,10 +1969,7 @@ Victory
     Thundered the black battalions of the Gods.
 
 
-
-
 Day and Night
-
 
 
    Through my heart's palace Thoughts unnumbered throng;
@@ -2356,19 +1989,10 @@ Day and Night
     You, like a queen, pass out into the night.
 
 
-
-
-
-
 Experiments
 
 
-
-
-
-
 Choriambics -- I
-
 
 
    Ah! not now, when desire burns, and the wind calls, and the suns of spring
@@ -2389,13 +2013,10 @@ Choriambics -- I
    Feel you suddenly there, cool at my brow; then may I hear the peace
    Of your voice at the last, whispering love, calling, ere all can cease
    In the silence of death; then may I see dimly, and know, a space,
-   Bending over me, last light in the dark, once, as of old, your face.
-
-
+Bending over me, last light in the dark, once, as of old, your face.
 
 
 Choriambics -- II
-
 
 
    Here the flame that was ash, shrine that was void,
@@ -2420,13 +2041,10 @@ Choriambics -- II
    White and wonderful yet, white in your youth, stretched upon foreign earth,
    God, immortal and dead!
                             Therefore I go; never to rest, or win
-   Peace, and worship of you more, and the dumb wood and the shrine therein.
-
-
+Peace, and worship of you more, and the dumb wood and the shrine therein.
 
 
 Desertion
-
 
 
    So light we were, so right we were, so fair faith shone,
@@ -2452,19 +2070,7 @@ Desertion
    Whisper, and weep; and creep to you.  Good sleep to you!
 
 
-
-
-
-
-1914
-
-
-
-
-
-
 I.  Peace
-
 
 
    Now, God be thanked Who has matched us with His hour,
@@ -2484,10 +2090,7 @@ I.  Peace
      And the worst friend and enemy is but Death.
 
 
-
-
 II.  Safety
-
 
 
    Dear! of all happy in the hour, most blest
@@ -2506,10 +2109,7 @@ II.  Safety
    And if these poor limbs die, safest of all.
 
 
-
-
 III.  The Dead
-
 
 
    Blow out, you bugles, over the rich Dead!
@@ -2529,10 +2129,7 @@ III.  The Dead
     And we have come into our heritage.
 
 
-
-
 IV.  The Dead
-
 
 
    These hearts were woven of human joys and cares,
@@ -2552,10 +2149,7 @@ IV.  The Dead
    A width, a shining peace, under the night.
 
 
-
-
 V.  The Soldier
-
 
 
    If I should die, think only this of me:
@@ -2575,10 +2169,7 @@ V.  The Soldier
      In hearts at peace, under an English heaven.
 
 
-
-
 The Treasure
-
 
 
    When colour goes home into the eyes,
@@ -2598,19 +2189,10 @@ The Treasure
    When children sleep, ere night.
 
 
-
-
-
-
 The South Seas
 
 
-
-
-
-
 Tiare Tahiti
-
 
 
    Mamua, when our laughter ends,
@@ -2694,13 +2276,10 @@ Tiare Tahiti
    There's little comfort in the wise.
 
 
-   Papeete, February 1914
-
-
+Papeete, February 1914
 
 
 Retrospect
-
 
 
    In your arms was still delight,
@@ -2746,13 +2325,10 @@ Retrospect
    And I should sleep, and I should sleep!
 
 
-   Mataiea, January 1914
-
-
+Mataiea, January 1914
 
 
 The Great Lover
-
 
 
    I have been so great a lover:  filled my days
@@ -2831,16 +2407,13 @@ The Great Lover
    O dear my loves, O faithless, once again
    This one last gift I give:  that after men
    Shall know, and later lovers, far-removed,
-   Praise you, "All these were lovely"; say, "He loved."
+Praise you, "All these were lovely"; say, "He loved."
 
 
-   Mataiea, 1914
-
-
+Mataiea, 1914
 
 
 Heaven
-
 
 
    Fish (fly-replete, in depth of June,
@@ -2879,10 +2452,7 @@ Heaven
    There shall be no more land, say fish.
 
 
-
-
 Doubts
-
 
 
    When she sleeps, her soul, I know,
@@ -2907,10 +2477,7 @@ Doubts
    Why is fragrance in the hair?
 
 
-
-
 There's Wisdom in Women
-
 
 
    "Oh love is fair, and love is rare;" my dear one she said,
@@ -2924,10 +2491,7 @@ There's Wisdom in Women
    Have cried on love so bitterly, with so true a tongue?
 
 
-
-
 He Wonders Whether to Praise or to Blame Her
-
 
 
    I have peace to weigh your worth, now all is over,
@@ -2949,10 +2513,7 @@ He Wonders Whether to Praise or to Blame Her
    For, foul or lovely, 'twas a fool that loved you.
 
 
-
-
 A Memory (From a sonnet-sequence)
-
 
 
    Somewhile before the dawn I rose, and stept
@@ -2973,13 +2534,10 @@ A Memory (From a sonnet-sequence)
    Takes all too long to lay asleep again.
 
 
-   Waikiki, October 1913
-
-
+Waikiki, October 1913
 
 
 One Day
-
 
 
    Today I have been happy.  All the day
@@ -2999,13 +2557,10 @@ One Day
    And great kings turned to a little bitter mould.
 
 
-   The Pacific, October 1913
-
-
+The Pacific, October 1913
 
 
 Waikiki
-
 
 
    Warm perfumes like a breath from vine and tree
@@ -3025,13 +2580,10 @@ Waikiki
    A long while since, and by some other sea.
 
 
-   Waikiki, 1913
-
-
+Waikiki, 1913
 
 
 Hauntings
-
 
 
    In the grey tumult of these after years
@@ -3051,14 +2603,11 @@ Hauntings
    And feet that ran, but where, he cannot tell.
 
 
-   The Pacific, 1914
-
-
+The Pacific, 1914
 
 
 Sonnet (Suggested by some of the Proceedings
      of the Society for Psychical Research)
-
 
 
    Not with vain tears, when we're beyond the sun,
@@ -3078,10 +2627,7 @@ Sonnet (Suggested by some of the Proceedings
     And see, no longer blinded by our eyes.
 
 
-
-
 Clouds
-
 
 
    Down the blue night the unending columns press
@@ -3101,13 +2647,10 @@ Clouds
     And men, coming and going on the earth.
 
 
-   The Pacific, October 1913
-
-
+The Pacific, October 1913
 
 
 Mutability
-
 
 
    They say there's a high windless world and strange,
@@ -3124,29 +2667,20 @@ Mutability
     Love has no habitation but the heart.
    Poor straws! on the dark flood we catch awhile,
     Cling, and are borne into the night apart.
-    The laugh dies with the lips, 'Love' with the lover.
+The laugh dies with the lips, 'Love' with the lover.
 
 
-   South Kensington -- Makaweli, 1913
-
-
-
-
+South Kensington -- Makaweli, 1913
 
 
 Other Poems
 
 
-
-
-
-
 The Busy Heart
 
 
-
-   Now that we've done our best and worst, and parted,
-    I would fill my mind with thoughts that will not rend.
+Now that we've done our best and worst, and parted,
+I would fill my mind with thoughts that will not rend.
    (O heart, I do not dare go empty-hearted)
     I'll think of Love in books, Love without end;
    Women with child, content; and old men sleeping;
@@ -3161,10 +2695,7 @@ The Busy Heart
    I have need to busy my heart with quietude.
 
 
-
-
 Love
-
 
 
    Love is a breach in the walls, a broken gate,
@@ -3183,10 +2714,7 @@ Love
    All this is love; and all love is but this.
 
 
-
-
 Unfortunate
-
 
 
    Heart, you are restless as a paper scrap
@@ -3206,10 +2734,7 @@ Unfortunate
        Kinder than God.  But, heart, she will not care.
 
 
-
-
 The Chilterns
-
 
 
    Your hands, my dear, adorable,
@@ -3261,10 +2786,7 @@ The Chilterns
     And I daresay she will do.
 
 
-
-
 Home
-
 
 
    I came back late and tired last night
@@ -3297,10 +2819,7 @@ Home
     All night I could not sleep.
 
 
-
-
 The Night Journey
-
 
 
    Hands and lit faces eddy to a line;
@@ -3339,10 +2858,7 @@ The Night Journey
     The lamps fade; and the stars.  We are alone.
 
 
-
-
 Song
-
 
 
    All suddenly the wind comes soft,
@@ -3361,10 +2877,7 @@ Song
     And my heart puts forth its pain.
 
 
-
-
 Beauty and Beauty
-
 
 
    When Beauty and Beauty meet
@@ -3386,10 +2899,7 @@ Beauty and Beauty
     After -- after --
 
 
-
-
 The Way That Lovers Use
-
 
 
    The way that lovers use is this;
@@ -3408,10 +2918,7 @@ The Way That Lovers Use
     -- So lovers say.
 
 
-
-
 Mary and Gabriel
-
 
 
    Young Mary, loitering once her garden way,
@@ -3479,10 +2986,7 @@ Mary and Gabriel
    The air was colder, and grey.  She stood alone.
 
 
-
-
 The Funeral of Youth:  Threnody
-
 
 
    The day that YOUTH had died,
@@ -3545,21 +3049,12 @@ The Funeral of Youth:  Threnody
    All, except only LOVE.  LOVE had died long ago.
 
 
-
-
-
-
 Grantchester
-
-
-
-
 
 
 The Old Vicarage, Grantchester
 
-   (Cafe des Westens, Berlin, May 1912)
-
+(Cafe des Westens, Berlin, May 1912)
 
 
    Just now the lilac is in bloom,
@@ -3712,8 +3207,6 @@ The Old Vicarage, Grantchester
    And is there honey still for tea?
 
 
-
-
 Fafaia
 
    Stars that seem so close and bright,
@@ -3737,23 +3230,12 @@ Fafaia
    Saanapu, November 1913.
 
 
-
-
 Appendix
 
 
 NOTE
 
-The Appendix contains: (1) the only two coherent fragments found in the
-notebook which Brooke used in the last month of his life; a little song,
-written, I think on his travels; and a poem, dating probably from 1912,
-which for some reason he left unrevised; (2) a few "lighter" poems which
-I dare say he would have printed on their merits if he had published a
-volume in which they would not have been out of key.  Two of these, the
-"Letter to a Live Poet" and "The Little Dog's Day," were written for
-Westminster Gazette competitions, in which they won prizes. Edward Marsh
-
-
+The Appendix contains: (1) the only two coherent fragments found in the notebook which Brooke used in the last month of his life; a little song, written, I think on his travels; and a poem, dating probably from 1912, which for some reason he left unrevised; (2) a few "lighter" poems which I dare say he would have printed on their merits if he had published a volume in which they would not have been out of key.  Two of these, the "Letter to a Live Poet" and "The Little Dog's Day," were written for Westminster Gazette competitions, in which they won prizes. Edward Marsh
 
 
 Fragment
@@ -3784,10 +3266,9 @@ Fragment
    April 1915.
 
 
-
 The Dance
 
-                 A Song
+A Song
 
    As the Wind, and as the Wind,
        In a corner of the way,
@@ -3806,7 +3287,6 @@ The Dance
    April 1915.
 
 
-
 Song
 
    The way of love was thus.
@@ -3820,7 +3300,6 @@ Song
    There is no more to say.
 
    1913 (?).
-
 
 
 Sometimes Even Now . . .
@@ -3861,7 +3340,6 @@ Sometimes Even Now . . .
    1912 (?).
 
 
-
 Sonnet: in Time of Revolt
 
    The Thing must End. I am no boy! I am
@@ -3883,7 +3361,6 @@ Sonnet: in Time of Revolt
    Intolerable consanguinity.
 
    January 1908.
-
 
 
 A Letter to a Live Poet
@@ -3946,8 +3423,6 @@ A Letter to a Live Poet
    January 1911.
 
 
-
-
 Fragment on Painters
 
    There is an evil which that Race attaints
@@ -3959,8 +3434,6 @@ Fragment on Painters
    They'd snare the moon, and catch the immortal sun
    With madder brown and pale vermilion,
    Entrap an English evening's magic hush . . .
-
-
 
 
 The True Beatitude (Bouts-Rimes)
@@ -3984,7 +3457,6 @@ The True Beatitude (Bouts-Rimes)
    1913.
 
 
-
 Sonnet Reversed
 
    Hand trembling towards hand; the amazing lights
@@ -4004,7 +3476,6 @@ Sonnet Reversed
     And Henry, a stock-broker, doing well.
 
    Lulworth, 1 January 1911.
-
 
 
 It's Not Going to Happen Again
@@ -4028,7 +3499,6 @@ It's Not Going to Happen Again
     It's not going to happen again.
 
    Chateau Lake Louise, Canada, 1913.
-
 
 
 The Little Dog's Day
@@ -4071,15 +3541,11 @@ The Little Dog's Day
    July 1907.
 
 
-
 [Footnote 1: Now we're off]
 
 [Footnote 2: I'll make them sit up.]
 
 [Footnote 3: Pronounce either to suit rhyme.]
-
-
-
 
 
 [End of Poems.]
@@ -4088,167 +3554,35 @@ The Little Dog's Day
 London, October, 1915.
 
 
-
-
 Rupert Brooke:  A Biographical Note
 
 
+Any biographical account of Rupert Brooke must of necessity be brief; yet it is well to know the facts of his romantic career, and to see him as far as may be through the eyes of those who knew him (the writer was unfortunately not of this number) in order the better to appreciate his work.
 
-Any biographical account of Rupert Brooke must of necessity be brief;
-yet it is well to know the facts of his romantic career,
-and to see him as far as may be through the eyes of those who knew him
-(the writer was unfortunately not of this number) in order the better
-to appreciate his work.
+He was born at Rugby on August 3, 1887, his father, William Brooke, being an assistant master at the school.  Here Brooke was educated, and in 1905 won a prize for a poem called "The Bastille", which has been described as "fine, fluent stuff."  He took a keen interest in every form of athletic sport, and played both cricket and football for the school.  Though he afterwards dropped both these games, he developed as a sound tennis player, was a great walker, and found joy in swimming, like Byron and Swinburne, especially by night.  He delighted in the Russian ballet and went again and again to a good Revue.
 
-He was born at Rugby on August 3, 1887, his father, William Brooke,
-being an assistant master at the school.  Here Brooke was educated,
-and in 1905 won a prize for a poem called "The Bastille",
-which has been described as "fine, fluent stuff."  He took a keen interest
-in every form of athletic sport, and played both cricket and football
-for the school.  Though he afterwards dropped both these games,
-he developed as a sound tennis player, was a great walker, and found joy
-in swimming, like Byron and Swinburne, especially by night.  He delighted
-in the Russian ballet and went again and again to a good Revue.
+In 1906 he went up to King's College, Cambridge, where he made innumerable friends, and was considered one of the leading intellectuals of his day, among his peers being James Elroy Flecker, himself a poet of no small achievement, who died at Davos only a few months ago.  Mr. Ivan Lake, the editor of the 'Bodleian', a contemporary at Cambridge, tells me that although the two men moved in different sets, they frequented the same literary circles. Brooke, however, seldom, if ever, spoke at the Union, but was a member of the Cambridge Fabian Society, and held the posts of Secretary and President in turn.  His socialism was accompanied by a passing phase of vegetarianism, and with the ferment of youth working headily within him he could hardly escape the charge of being a crank, but "a crank, if a little thing, makes revolutions," and Brooke's youthful extravagances were utterly untinged with decadence. He took his classical tripos in 1909, and after spending some time as a student in Munich, returned to live near Cambridge at the Old Vicarage in "the lovely hamlet, Grantchester."  "It was there," writes Mr. Raglan H. E. H. Somerset in a letter I am privileged to quote, "that I used to wake him on Sunday mornings to bathe in the dam above Byron's Pool.  His bedroom was always littered with books, English, French, and German, in wild disorder.  About his bathing one thing stands out; time after time he would try to dive; he always failed and came absolutely flat, but seemed to like it, although it must have hurt excessively."  (This was only when he was learning.  Later he became an accomplished diver.) "Then we used to go back and feed, sometimes in the Orchard and sometimes in the Old Vicarage Garden, on eggs and that particular brand of honey referred to in the 'Grantchester' poem.  In those days he always dressed in the same way:  cricket shirt and trousers and no stockings; in fact, 'Rupert's mobile toes' were a subject for the admiration of his friends."
 
-In 1906 he went up to King's College, Cambridge, where he made
-innumerable friends, and was considered one of the leading intellectuals
-of his day, among his peers being James Elroy Flecker,
-himself a poet of no small achievement, who died at Davos
-only a few months ago.  Mr. Ivan Lake, the editor of the 'Bodleian',
-a contemporary at Cambridge, tells me that although the two men
-moved in different sets, they frequented the same literary circles.
-Brooke, however, seldom, if ever, spoke at the Union,
-but was a member of the Cambridge Fabian Society, and held the posts
-of Secretary and President in turn.  His socialism was accompanied by
-a passing phase of vegetarianism, and with the ferment of youth
-working headily within him he could hardly escape the charge
-of being a crank, but "a crank, if a little thing, makes revolutions,"
-and Brooke's youthful extravagances were utterly untinged with decadence.
-He took his classical tripos in 1909, and after spending some time
-as a student in Munich, returned to live near Cambridge
-at the Old Vicarage in "the lovely hamlet, Grantchester."  "It was there,"
-writes Mr. Raglan H. E. H. Somerset in a letter I am privileged to quote,
-"that I used to wake him on Sunday mornings to bathe in the dam
-above Byron's Pool.  His bedroom was always littered with books,
-English, French, and German, in wild disorder.  About his bathing
-one thing stands out; time after time he would try to dive;
-he always failed and came absolutely flat, but seemed to like it,
-although it must have hurt excessively."  (This was only
-when he was learning.  Later he became an accomplished diver.)
-"Then we used to go back and feed, sometimes in the Orchard and sometimes
-in the Old Vicarage Garden, on eggs and that particular brand of honey
-referred to in the 'Grantchester' poem.  In those days he always dressed
-in the same way:  cricket shirt and trousers and no stockings; in fact,
-'Rupert's mobile toes' were a subject for the admiration of his friends."
+Brooke occupied himself mainly with writing.  Poems, remarkable for a happy spontaneity such as characterized the work of T. E. Brown, the Manx poet, appeared in the 'Gownsman', the 'Cambridge Review', the 'Nation', the 'English Review', and the 'Westminster Gazette'. Students of the "Problem Page" in the 'Saturday Westminster' knew him as a brilliant competitor who infused the purely academic with the very spirit of youth.
 
-Brooke occupied himself mainly with writing.  Poems, remarkable for
-a happy spontaneity such as characterized the work of T. E. Brown,
-the Manx poet, appeared in the 'Gownsman', the 'Cambridge Review',
-the 'Nation', the 'English Review', and the 'Westminster Gazette'.
-Students of the "Problem Page" in the 'Saturday Westminster'
-knew him as a brilliant competitor who infused the purely academic
-with the very spirit of youth.
+To all who knew him, the man himself was at least as important as his work. "As to his talk" -- I quote again from Mr. Somerset -- "he was a spendthrift.  I mean that he never saved anything up as those writer fellows so often do.  He was quite inconsequent and just rippled on, but was always ready to attack a careless thinker. On the other hand, he was extremely tolerant of fools, even bad poets who are the worst kind of fools -- or rather the hardest to bear -- but that was kindness of heart."
 
-To all who knew him, the man himself was at least as important as his work.
-"As to his talk" -- I quote again from Mr. Somerset --
-"he was a spendthrift.  I mean that he never saved anything up
-as those writer fellows so often do.  He was quite inconsequent
-and just rippled on, but was always ready to attack a careless thinker.
-On the other hand, he was extremely tolerant of fools, even bad poets
-who are the worst kind of fools -- or rather the hardest to bear --
-but that was kindness of heart."
+Of his personal appearance a good deal has been said.  "One who knew him," writing in one of the daily papers, said that "to look at, he was part of the youth of the world.  He was one of the handsomest Englishmen of his time.  His moods seemed to be merely a disguise for the radiance of an early summer's day."
 
-Of his personal appearance a good deal has been said.  "One who knew him,"
-writing in one of the daily papers, said that "to look at, he was part
-of the youth of the world.  He was one of the handsomest Englishmen
-of his time.  His moods seemed to be merely a disguise for the radiance
-of an early summer's day."
+Mr. Edward Thomas speaks of him as "a golden young Apollo" who made friends, admirers, adorers, wherever he went. "He stretched himself out, drew his fingers through his waved fair hair, laughed, talked indolently, and admired as much as he was admired. . . . He was tall, broad, and easy in his movements.  Either he stooped, or he thrust his head forward unusually much to look at you with his steady blue eyes."
 
-Mr. Edward Thomas speaks of him as "a golden young Apollo"
-who made friends, admirers, adorers, wherever he went.
-"He stretched himself out, drew his fingers through his waved fair hair,
-laughed, talked indolently, and admired as much as he was admired. . . .
-He was tall, broad, and easy in his movements.  Either he stooped,
-or he thrust his head forward unusually much to look at you
-with his steady blue eyes."
+On Mr. H. W. Nevinson, who, in a fleeting editorial capacity, sent for Brooke to come and discuss his poems, he made a similar impression:
 
-On Mr. H. W. Nevinson, who, in a fleeting editorial capacity, sent for
-Brooke to come and discuss his poems, he made a similar impression:
+"Suddenly he came -- an astonishing apparition in any newspaper office: loose hair of deep, browny-gold; smooth, ruddy face; eyes not gray or bluish-white, but of living blue, really like the sky, and as frankly open; figure not very tall, but firm and strongly made, giving the sense of weight rather than of speed and yet so finely fashioned and healthy that it was impossible not to think of the line about 'a pard-like spirit'.  He was dressed just in the ordinary way, except that he wore a low blue collar, and blue shirt and tie, all uncommon in those days. Evidently he did not want to be conspicuous, but the whole effect was almost ludicrously beautiful."
 
-"Suddenly he came -- an astonishing apparition in any newspaper office:
-loose hair of deep, browny-gold; smooth, ruddy face;
-eyes not gray or bluish-white, but of living blue, really like the sky,
-and as frankly open; figure not very tall, but firm and strongly made,
-giving the sense of weight rather than of speed and yet
-so finely fashioned and healthy that it was impossible not to think
-of the line about 'a pard-like spirit'.  He was dressed
-just in the ordinary way, except that he wore a low blue collar,
-and blue shirt and tie, all uncommon in those days.
-Evidently he did not want to be conspicuous, but the whole effect
-was almost ludicrously beautiful."
-
-Notions of height are always comparative, and it will be noticed
-that Mr. Nevinson and Mr. Thomas differ in their ideas.
-Mr. Edward Marsh, however, Brooke's executor and one of his
-closest friends -- indeed the friend of all young poets --
-tells me that he was about six feet, so that all doubt on this minor point
+Notions of height are always comparative, and it will be noticed that Mr. Nevinson and Mr. Thomas differ in their ideas. Mr. Edward Marsh, however, Brooke's executor and one of his closest friends -- indeed the friend of all young poets -- tells me that he was about six feet, so that all doubt on this minor point
 may be set at rest.
 
-He had been in Munich, Berlin, and in Italy, and in May, 1913,
-he left England again for a wander year, passing through
-the United States and Canada on his way to the South Seas.
-Perhaps some of those who met him in Boston and elsewhere
-will some day contribute their quota to the bright record of his life.
-His own letters to the 'Westminster Gazette', though naturally
-of unequal merit, were full of humorous delight in the New World.
-In one of his travel papers he described the city of Quebec as having
-"the radiance and repose of an immortal."  "That, in so many words,"
-wrote Mr. Walter de la Mare, "brings back his living remembrance. . . .
-With him there was a happy shining impression that he might have just come
--- that very moment -- from another planet, one well within
-the solar system, but a little more like Utopia than ours."
-Not even Stevenson, it would seem, excited a greater enthusiasm
-among his friends; and between the two men an interesting parallel
-might be drawn.  Brooke made a pilgrimage to Stevenson's home in Samoa,
-and his life in the Pacific found full and happy expression in his verse.
-His thoughts, however, turned longingly to England,
-the land "where Men with Splendid Hearts may go," and he reappeared
-from the ends of the earth among his friends as apparently little changed
-"as one who gaily and laughingly goes to bed and gaily and laughingly
-comes down next morning after a perfectly refreshing sleep."
+He had been in Munich, Berlin, and in Italy, and in May, 1913, he left England again for a wander year, passing through the United States and Canada on his way to the South Seas. Perhaps some of those who met him in Boston and elsewhere will some day contribute their quota to the bright record of his life. His own letters to the 'Westminster Gazette', though naturally of unequal merit, were full of humorous delight in the New World. In one of his travel papers he described the city of Quebec as having "the radiance and repose of an immortal."  "That, in so many words," wrote Mr. Walter de la Mare, "brings back his living remembrance. . . . With him there was a happy shining impression that he might have just come -- that very moment -- from another planet, one well within the solar system, but a little more like Utopia than ours." Not even Stevenson, it would seem, excited a greater enthusiasm among his friends; and between the two men an interesting parallel might be drawn.  Brooke made a pilgrimage to Stevenson's home in Samoa, and his life in the Pacific found full and happy expression in his verse. His thoughts, however, turned longingly to England, the land "where Men with Splendid Hearts may go," and he reappeared from the ends of the earth among his friends as apparently little changed "as one who gaily and laughingly goes to bed and gaily and laughingly comes down next morning after a perfectly refreshing sleep."
 
-Then came the War.  "Well, if Armageddon's ON," he said,
-"I suppose one should be there."  It was a characteristic way
-of putting it.  He obtained a commission in the Hood Battalion
-of the Royal Naval Division in September, and was quickly ordered
-on the disastrous if heroic expedition to Antwerp.  Here he had
-his first experience of war, lying for some days in trenches
-shelled by the distant German guns.  Then followed a strange retreat
-by night along roads lit by the glare of burning towns,
-and swarming with pitiful crowds of Belgian refugees.
-Yet as Mr. Walter de la Mare said of him, when he returned from Antwerp,
-"Ulysses himself at the end of his voyagings was not more quietly
-accustomed to the shocks of novelty."
+Then came the War.  "Well, if Armageddon's ON," he said, "I suppose one should be there."  It was a characteristic way of putting it.  He obtained a commission in the Hood Battalion of the Royal Naval Division in September, and was quickly ordered on the disastrous if heroic expedition to Antwerp.  Here he had his first experience of war, lying for some days in trenches shelled by the distant German guns.  Then followed a strange retreat by night along roads lit by the glare of burning towns, and swarming with pitiful crowds of Belgian refugees. Yet as Mr. Walter de la Mare said of him, when he returned from Antwerp, "Ulysses himself at the end of his voyagings was not more quietly accustomed to the shocks of novelty."
 
-On Brooke, as on many other young men, to whom the gift of self-expression
-has perhaps been denied, the war had a swiftly maturing influence.
-Much of the impetuosity of youth fell away from him.  The boy who had been
-rather proud of his independent views -- a friend relates how
-at the age of twelve he sat on the platform at a pro-Boer meeting --
-grew suddenly, it seemed, into a man filled with the love of life indeed,
-but inspired most of all with the love of England.  Fortunately for himself
-and for us, Brooke's patriotism found passionate voice in the sonnets
-which are rightly given pride of place in the 1914 section of this volume.
-Mr. Clement Shorter, who gives us the skeleton of a bibliography
-that is all too brief, draws special attention to 'New Numbers',
-a quarterly publication issued in Gloucestershire,
-to which Brooke contributed in February, April, August, and December
-of last year, his fellow poets being Lascelles Abercrombie,
-John Drinkwater, and Wilfrid Wilson Gibson.  He spent the winter
-in training at Blandford Camp in Dorsetshire, and sailed with
-the British Mediterranean Expeditionary Force on the last day of February.
-He had a presentiment of his death, but he went, as so many others
-have gone,
+On Brooke, as on many other young men, to whom the gift of self-expression has perhaps been denied, the war had a swiftly maturing influence. Much of the impetuosity of youth fell away from him.  The boy who had been rather proud of his independent views -- a friend relates how at the age of twelve he sat on the platform at a pro-Boer meeting -- grew suddenly, it seemed, into a man filled with the love of life indeed, but inspired most of all with the love of England.  Fortunately for himself and for us, Brooke's patriotism found passionate voice in the sonnets which are rightly given pride of place in the 1914 section of this volume. Mr. Clement Shorter, who gives us the skeleton of a bibliography that is all too brief, draws special attention to 'New Numbers', a quarterly publication issued in Gloucestershire, to which Brooke contributed in February, April, August, and December of last year, his fellow poets being Lascelles Abercrombie, John Drinkwater, and Wilfrid Wilson Gibson.  He spent the winter in training at Blandford Camp in Dorsetshire, and sailed with the British Mediterranean Expeditionary Force on the last day of February. He had a presentiment of his death, but he went, as so many others have gone,
 
     "Unstumbling, unreluctant, strong, unknowing,
      Borne by a will not his, that lifts, that grows,
@@ -4256,65 +3590,15 @@ have gone,
      Out of the fire, out of the little room. . . .
     -- There is an end appointed, O my soul!"
 
-He never reached the Dardanelles.  He went first to Lemnos
-and then to Egypt.  Early in April he had a touch of sunstroke
-from which he recovered; but he died from blood-poisoning on board
-a French hospital ship at Scyros on Friday, April 23rd -- died for England
-on the day of St. Michael and Saint George.  He was buried at night,
-by torchlight, in an olive grove about a mile inland.  "If you go there,"
-writes Mr. Stephen Graham, "you will find a little wooden cross
-with just his name and the date of his birth and his death marked on it
-in black."  A few days later the news of his death was published
-in the 'Times' with the following appreciation:
+He never reached the Dardanelles.  He went first to Lemnos and then to Egypt.  Early in April he had a touch of sunstroke from which he recovered; but he died from blood-poisoning on board a French hospital ship at Scyros on Friday, April 23rd -- died for England on the day of St. Michael and Saint George.  He was buried at night, by torchlight, in an olive grove about a mile inland.  "If you go there," writes Mr. Stephen Graham, "you will find a little wooden cross with just his name and the date of his birth and his death marked on it in black."  A few days later the news of his death was published in the 'Times' with the following appreciation:
 
-"W. S. C." writes:  "Rupert Brooke is dead.  A telegram from the Admiral
-at Lemnos tells us that this life has closed at the moment when it seemed
-to have reached its springtime.  A voice had become audible,
-a note had been struck, more true, more thrilling, more able to do justice
-to the nobility of our youth in arms engaged in this present war,
-than any other -- more able to express their thoughts of self-surrender,
-and with a power to carry comfort to those who watch them so intently
-from afar.  The voice has been swiftly stilled.  Only the echoes
-and the memory remain; but they will linger.
+"W. S. C." writes:  "Rupert Brooke is dead.  A telegram from the Admiral at Lemnos tells us that this life has closed at the moment when it seemed to have reached its springtime.  A voice had become audible, a note had been struck, more true, more thrilling, more able to do justice to the nobility of our youth in arms engaged in this present war, than any other -- more able to express their thoughts of self-surrender, and with a power to carry comfort to those who watch them so intently from afar.  The voice has been swiftly stilled.  Only the echoes and the memory remain; but they will linger.
 
-"During the last few months of his life, months of preparation
-in gallant comradeship and open air, the poet-soldier told
-with all the simple force of genius the sorrow of youth about to die,
-and the sure, triumphant consolations of a sincere and valiant spirit.
-He expected to die; he was willing to die for the dear England
-whose beauty and majesty he knew; and he advanced toward the brink
-in perfect serenity, with absolute conviction of the rightness
-of his country's cause and a heart devoid of hate for fellowmen.
+"During the last few months of his life, months of preparation in gallant comradeship and open air, the poet-soldier told with all the simple force of genius the sorrow of youth about to die, and the sure, triumphant consolations of a sincere and valiant spirit. He expected to die; he was willing to die for the dear England whose beauty and majesty he knew; and he advanced toward the brink in perfect serenity, with absolute conviction of the rightness of his country's cause and a heart devoid of hate for fellowmen.
 
-"The thoughts to which he gave expression in the very few incomparable
-war sonnets which he has left behind will be shared by many thousands
-of young men moving resolutely and blithely forward into this, the hardest,
-the cruellest, and the least-rewarded of all the wars that men have fought.
-They are a whole history and revelation of Rupert Brooke himself.
-Joyous, fearless, versatile, deeply instructed, with classic symmetry
-of mind and body, ruled by high, undoubting purpose, he was all
-that one would wish England's noblest sons to be in days when no sacrifice
-but the most precious is acceptable, and the most precious is that
-which is most freely proffered."
+"The thoughts to which he gave expression in the very few incomparable war sonnets which he has left behind will be shared by many thousands of young men moving resolutely and blithely forward into this, the hardest, the cruellest, and the least-rewarded of all the wars that men have fought. They are a whole history and revelation of Rupert Brooke himself. Joyous, fearless, versatile, deeply instructed, with classic symmetry of mind and body, ruled by high, undoubting purpose, he was all that one would wish England's noblest sons to be in days when no sacrifice but the most precious is acceptable, and the most precious is that which is most freely proffered."
 
-"W. S. C.", as many probably guessed at the time, was the Rt. Hon.
-Winston Spencer Churchill, a personal friend and warm admirer of the poet.
-Many other tributes followed, notably from an anonymous writer
-in the 'Spectator', from Mr. Walter de la Mare, Mr. Edward Thomas,
-Mr. Holbrook Jackson, Mr. Jack Collings Squire, Mr. James Douglas,
-Mr. Drinkwater, Mr. Gibson, and Mr. Lascelles Abercrombie.
-From most of these writers I have already quoted at some length,
-but space must yet be found for the last three, the surviving members
-of the brilliant quartette who produced 'New Numbers'.  Mr. Drinkwater
-wrote as follows:  "There can have been no man of his years in England
-who had at once so impressive a personality and so inevitable an appeal
-to the affection of every one who knew him, while there has not been,
-I think, so grievous a loss to poetry since the death of Shelley.
-Some of us who knew him may live to be old men, but life is not likely
-to give us any richer memory than his; and the passion and shapely zest
-that are in his work will pass safely to the memory of posterity."
-Mr. Wilfrid Gibson's tribute took the form of a short poem
-called "The Going":
+"W. S. C.", as many probably guessed at the time, was the Rt. Hon. Winston Spencer Churchill, a personal friend and warm admirer of the poet. Many other tributes followed, notably from an anonymous writer in the 'Spectator', from Mr. Walter de la Mare, Mr. Edward Thomas, Mr. Holbrook Jackson, Mr. Jack Collings Squire, Mr. James Douglas, Mr. Drinkwater, Mr. Gibson, and Mr. Lascelles Abercrombie. From most of these writers I have already quoted at some length, but space must yet be found for the last three, the surviving members of the brilliant quartette who produced 'New Numbers'.  Mr. Drinkwater wrote as follows:  "There can have been no man of his years in England who had at once so impressive a personality and so inevitable an appeal to the affection of every one who knew him, while there has not been, I think, so grievous a loss to poetry since the death of Shelley. Some of us who knew him may live to be old men, but life is not likely to give us any richer memory than his; and the passion and shapely zest that are in his work will pass safely to the memory of posterity." Mr. Wilfrid Gibson's tribute took the form of a short poem called "The Going":
 
     He's gone.
     I do not understand.
@@ -4325,35 +3609,9 @@ called "The Going":
     And I was dazzled by a sunset glow --
     And he was gone.
 
-Mr. Lascelles Abercrombie, now perhaps the greatest of our younger poets
-and a warm personal friend of Brooke's, wrote at greater length:
+Mr. Lascelles Abercrombie, now perhaps the greatest of our younger poets and a warm personal friend of Brooke's, wrote at greater length:
 
-"'And the worst friend and enemy is but Death' . . .  'And if these
-poor limbs die, safest of all.'  So ended two of the five sonnets,
-with the common title '1914', which Rupert Brooke wrote
-while he was in training, between the Antwerp expedition and sailing
-for the Aegean.  These sonnets are incomparably the finest utterance
-of English poetry concerning the Great War.  We knew the splendid promise
-of Rupert Brooke's earlier poetry; these sonnets are the brief perfection
-of his achievement.  They are much more than that:  they are among
-the few supreme utterances of English patriotism.  It was natural, perhaps,
-that they should leave all else that has been written about the war
-so far behind.  It is not so much that they are the work of a talent
-scarcely, in its own way, to be equalled to-day; it was much more
-that they were the work of a poet who had for his material the feeling
-that he was giving up everything to fight for England --
-the feeling, I think, that he was giving his life for England.
-Reading these five sonnets now, it seems as if he had in them written
-his own epitaph.  I believe he thought so himself; a few words he said
-in my last talk with him makes me believe that -- now.  At any rate,
-the history of literature, so full of Fate's exquisite ironies,
-has nothing more poignantly ironic, and nothing at the same time
-more beautifully appropriate, than the publication of Rupert Brooke's
-noble sonnet-sequence, '1914', a few swift weeks before the death
-they had imagined, and had already made lovely.  Each one of these
-five sonnets faces, in a quiet exultation, the thought of death,
-of death for England; and understands, as seldom even English poetry
-has understood, the unspeakable beauty of the thought:
+"'And the worst friend and enemy is but Death' . . .  'And if these poor limbs die, safest of all.'  So ended two of the five sonnets, with the common title '1914', which Rupert Brooke wrote while he was in training, between the Antwerp expedition and sailing for the Aegean.  These sonnets are incomparably the finest utterance of English poetry concerning the Great War.  We knew the splendid promise of Rupert Brooke's earlier poetry; these sonnets are the brief perfection of his achievement.  They are much more than that:  they are among the few supreme utterances of English patriotism.  It was natural, perhaps, that they should leave all else that has been written about the war so far behind.  It is not so much that they are the work of a talent scarcely, in its own way, to be equalled to-day; it was much more that they were the work of a poet who had for his material the feeling that he was giving up everything to fight for England -- the feeling, I think, that he was giving his life for England. Reading these five sonnets now, it seems as if he had in them written his own epitaph.  I believe he thought so himself; a few words he said in my last talk with him makes me believe that -- now.  At any rate, the history of literature, so full of Fate's exquisite ironies, has nothing more poignantly ironic, and nothing at the same time more beautifully appropriate, than the publication of Rupert Brooke's noble sonnet-sequence, '1914', a few swift weeks before the death they had imagined, and had already made lovely.  Each one of these five sonnets faces, in a quiet exultation, the thought of death, of death for England; and understands, as seldom even English poetry has understood, the unspeakable beauty of the thought:
 
     "These laid the world away; poured out the red
     Sweet wine of youth; gave up the years to be
@@ -4361,8 +3619,7 @@ has understood, the unspeakable beauty of the thought:
      That men call age; and those who would have been,
     Their sons, they gave -- their immortality.
 
-I am strangely mistaken if the accent of the noblest English poetry
-does not speak to us in those lines.  And again:
+I am strangely mistaken if the accent of the noblest English poetry does not speak to us in those lines.  And again:
 
     "If I should die, think only this of me:
      That there's some corner of a foreign field
@@ -4373,64 +3630,20 @@ does not speak to us in those lines.  And again:
     A body of England's breathing, breathing English air,
      Washed by the rivers, blest by suns of home.
 
-"This -- this music, this beauty, this courage -- was Rupert Brooke.
-But it is, we may be sure, his immortality.  It is not yet tolerable
-to speak of personal loss.  The name seemed to stand for a magical vitality
-that must be safe -- safe!  Yes, 'and if these poor limbs die,
-safest of all!'  What poetry has lost in him cannot be judged by any one
-who has not read those last sonnets, now his farewell to England
-and the world.  I am not underrating the rest of his work.
-There was an intellectual keenness and brightness in it, a fire of imagery
-and (in the best sense) wit, the like of which had not been known,
-or known only in snatches, in our literature since the best days of
-the later Elizabethans.  And it was all penetrated by a mastering passion,
-the most elemental of all passions -- the passion for life.
-'I have been so great a lover,' he cries, and artfully leads us on
-to think he means the usual passion of a young poet's career.
-But it is just life he loves, and not in any abstract sense,
-but all the infinite little familiar details of life catalogued
-with delighted jest.  This was profoundly sincere:  no one ever loved life
-more wholly or more minutely.  And he celebrated his love exquisitely,
-often unforgettably, through all his earlier poetry,
-getting further intensity from a long sojourn in the South Seas.
-But this passion for life had never had seriously to fight for
-its rights and joys.  Like all great lovers of life, he had pleased himself
-with the thought of death and after death:  not insincerely, by any means,
-but simply because this gave a finer relish to the sense of being alive.
-Platonism, which offers delightful games for such subtle wit as his,
-he especially liked to play with.  It was one more element in the life
-of here and now, the life of mortal thought and sense and spirit,
-infinitely varying and by him infinitely loved.  And then came 1914;
-and his passion for life had suddenly to face the thought
-of voluntary death.  But there was no struggle; for instantly
-the passion for life became one with the will to die --
-and now it has become death itself.  But first Rupert Brooke
-had told the world once more how the passion for beautiful life
-may reach its highest passion and most radiant beauty when it is
-the determination to die."
+"This -- this music, this beauty, this courage -- was Rupert Brooke. But it is, we may be sure, his immortality.  It is not yet tolerable to speak of personal loss.  The name seemed to stand for a magical vitality that must be safe -- safe!  Yes, 'and if these poor limbs die, safest of all!'  What poetry has lost in him cannot be judged by any one who has not read those last sonnets, now his farewell to England and the world.  I am not underrating the rest of his work. There was an intellectual keenness and brightness in it, a fire of imagery and (in the best sense) wit, the like of which had not been known, or known only in snatches, in our literature since the best days of the later Elizabethans.  And it was all penetrated by a mastering passion, the most elemental of all passions -- the passion for life. 'I have been so great a lover,' he cries, and artfully leads us on to think he means the usual passion of a young poet's career. But it is just life he loves, and not in any abstract sense, but all the infinite little familiar details of life catalogued with delighted jest.  This was profoundly sincere:  no one ever loved life more wholly or more minutely.  And he celebrated his love exquisitely, often unforgettably, through all his earlier poetry, getting further intensity from a long sojourn in the South Seas. But this passion for life had never had seriously to fight for its rights and joys.  Like all great lovers of life, he had pleased himself with the thought of death and after death:  not insincerely, by any means, but simply because this gave a finer relish to the sense of being alive. Platonism, which offers delightful games for such subtle wit as his, he especially liked to play with.  It was one more element in the life of here and now, the life of mortal thought and sense and spirit, infinitely varying and by him infinitely loved.  And then came 1914; and his passion for life had suddenly to face the thought of voluntary death.  But there was no struggle; for instantly the passion for life became one with the will to die -- and now it has become death itself.  But first Rupert Brooke had told the world once more how the passion for beautiful life may reach its highest passion and most radiant beauty when it is the determination to die."
 
 
-                                                        Margaret Lavington.
+Margaret Lavington.
 
 London, October, 1915.
 
 
-
-
-
-
 Addendum
 
-Comprised of poems written in his memory by three poets contemporary
-to Rupert Brooke.  A short poem by Mr. Gibson is already included
-in the Biographical Note; a set of four of his sonnets is included here.
-The poems are Public Domain.
-
-
+Comprised of poems written in his memory by three poets contemporary to Rupert Brooke.  A short poem by Mr. Gibson is already included in the Biographical Note; a set of four of his sonnets is included here. The poems are Public Domain.
 
 
 In Memory of Rupert Brooke
-
 
 
    In alien earth, across a troubled sea,
@@ -4449,16 +3662,13 @@ In Memory of Rupert Brooke
    And David rests beneath Eternal wings,
     Song on his lips, and in his hand a sword.
 
-    --Joyce Kilmer, from 'Main Street and Other Poems', 1917.
-
-
+--Joyce Kilmer, from 'Main Street and Other Poems', 1917.
 
 
 Rupert Brooke
 
 
-
-     I
+I
 
    Your face was lifted to the golden sky
     Ablaze beyond the black roofs of the square
@@ -4477,7 +3687,7 @@ Rupert Brooke
     And look into my eyes and take my hand.
 
 
-     II
+II
 
    Once in my garret -- you being far away
     Tramping the hills and breathing upland air,
@@ -4496,7 +3706,7 @@ Rupert Brooke
     Fresh from the uplands of eternity.
 
 
-     III
+III
 
    Your eyes rejoiced in colour's ecstasy,
     Fulfilling even their uttermost desire,
@@ -4515,7 +3725,7 @@ Rupert Brooke
     Lethean poppies, shrivelling ashen grey.
 
 
-     IV
+IV
 
    October chestnuts showered their perishing gold
     Over us as beside the stream we lay
@@ -4536,10 +3746,7 @@ Rupert Brooke
     --Wilfrid Wilson Gibson, 1916.
 
 
-
-
 To Rupert Brooke
-
 
 
    Though we, a happy few,
@@ -4568,370 +3775,3 @@ To Rupert Brooke
    Hail, singer, and farewell!
 
    --Eden Phillpotts, from 'Plain Song, 1914-1916'.
-
-
-
-
-
-End of the Project Gutenberg EBook of The Collected Poems of Rupert Brooke, by 
-Rupert Brooke
-
-*** END OF THIS PROJECT GUTENBERG EBOOK POEMS OF RUPERT BROOKE ***
-
-***** This file should be named 262.txt or 262.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/2/6/262/
-
-Produced by A. Light, Linda Bowser, and  Rick Niles
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

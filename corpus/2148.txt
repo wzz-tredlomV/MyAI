@@ -1,8 +1,3 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 2148 ***
-
-
-
-
 The Works of Edgar Allan Poe
 
 by Edgar Allan Poe
@@ -14,34 +9,31 @@ VOLUME II.
 
 Contents
 
- THE PURLOINED LETTER
- THE THOUSAND-AND-SECOND TALE OF SCHEHERAZADE
- A DESCENT INTO THE MAELSTROM.
- VON KEMPELEN AND HIS DISCOVERY
- MESMERIC REVELATION
- THE FACTS IN THE CASE OF M. VALDEMAR
- THE BLACK CAT.
- THE FALL OF THE HOUSE OF USHER
- SILENCE—A FABLE
- THE MASQUE OF THE RED DEATH.
- THE CASK OF AMONTILLADO.
- THE IMP OF THE PERVERSE
- THE ISLAND OF THE FAY
- THE ASSIGNATION
- THE PIT AND THE PENDULUM
- THE PREMATURE BURIAL
- THE DOMAIN OF ARNHEIM
- LANDOR’S COTTAGE
- WILLIAM WILSO
- THE TELL-TALE HEART.
- BERENICE
- ELEONORA
- NOTES TO THE SECOND VOLUME
+THE PURLOINED LETTER
+THE THOUSAND-AND-SECOND TALE OF SCHEHERAZADE
+A DESCENT INTO THE MAELSTROM.
+VON KEMPELEN AND HIS DISCOVERY
+MESMERIC REVELATION
+THE FACTS IN THE CASE OF M. VALDEMAR
+THE BLACK CAT.
+THE FALL OF THE HOUSE OF USHER
+SILENCE—A FABLE
+THE MASQUE OF THE RED DEATH.
+THE CASK OF AMONTILLADO.
+THE IMP OF THE PERVERSE
+THE ISLAND OF THE FAY
+THE ASSIGNATION
+THE PIT AND THE PENDULUM
+THE PREMATURE BURIAL
+THE DOMAIN OF ARNHEIM
+LANDOR’S COTTAGE
+WILLIAM WILSO
+THE TELL-TALE HEART.
+BERENICE
+ELEONORA
+NOTES TO THE SECOND VOLUME
 
-[Redactor’s Note—Some endnotes are by Poe and some were added by
-Griswold. In this volume the notes are at the end.]
-
-
+[Redactor’s Note—Some endnotes are by Poe and some were added by Griswold. In this volume the notes are at the end.]
 
 
 THE PURLOINED LETTER
@@ -92,9 +84,9 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       “Oh no; nothing of that nature. The fact is, the business is very
       simple indeed, and I make no doubt that we can manage it
       sufficiently well ourselves; but then I thought Dupin would like
-      to hear the details of it, because it is so excessively odd.”
+to hear the details of it, because it is so excessively odd.”
 
-      “Simple and odd,” said Dupin.
+“Simple and odd,” said Dupin.
 
       “Why, yes; and not exactly that, either. The fact is, we have all
       been a good deal puzzled because the affair is so simple, and yet
@@ -106,35 +98,35 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       “What nonsense you do talk!” replied the Prefect, laughing
       heartily.
 
-      “Perhaps the mystery is a little too plain,” said Dupin.
+“Perhaps the mystery is a little too plain,” said Dupin.
 
-      “Oh, good heavens! who ever heard of such an idea?”
+“Oh, good heavens! who ever heard of such an idea?”
 
-      “A little too self-evident.”
+“A little too self-evident.”
 
-      “Ha! ha! ha—ha! ha! ha!—ho! ho! ho!” roared our visitor,
-      profoundly amused, “oh, Dupin, you will be the death of me yet!”
+“Ha! ha! ha—ha! ha! ha!—ho! ho! ho!” roared our visitor,
+profoundly amused, “oh, Dupin, you will be the death of me yet!”
 
-      “And what, after all, is the matter on hand?” I asked.
+“And what, after all, is the matter on hand?” I asked.
 
-      “Why, I will tell you,” replied the Prefect, as he gave a long,
-      steady and contemplative puff, and settled himself in his chair.
+“Why, I will tell you,” replied the Prefect, as he gave a long,
+steady and contemplative puff, and settled himself in his chair.
       “I will tell you in a few words; but, before I begin, let me
       caution you that this is an affair demanding the greatest
       secrecy, and that I should most probably lose the position I now
-      hold, were it known that I confided it to any one.”
+hold, were it known that I confided it to any one.”
 
-      “Proceed,” said I.
+“Proceed,” said I.
 
-      “Or not,” said Dupin.
+“Or not,” said Dupin.
 
       “Well, then; I have received personal information, from a very
       high quarter, that a certain document of the last importance has
       been purloined from the royal apartments. The individual who
       purloined it is known; this beyond a doubt; he was seen to take
-      it. It is known, also, that it still remains in his possession.”
+it. It is known, also, that it still remains in his possession.”
 
-      “How is this known?” asked Dupin.
+“How is this known?” asked Dupin.
 
       “It is clearly inferred,” replied the Prefect, “from the nature
       of the document, and from the non-appearance of certain results
@@ -216,8 +208,8 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       the danger which would result from giving him reason to suspect
       our design.”
 
-      “But,” said I, “you are quite au fait in these investigations.
-      The Parisian police have done this thing often before.”
+“But,” said I, “you are quite au fait in these investigations.
+The Parisian police have done this thing often before.”
 
       “Oh, yes; and for this reason I did not despair. The habits of
       the minister gave me, too, a great advantage. He is frequently
@@ -268,9 +260,9 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       meerschaum, “although I have been guilty of certain doggrel
       myself.”
 
-      “Suppose you detail,” said I, “the particulars of your search.”
+“Suppose you detail,” said I, “the particulars of your search.”
 
-      “Why the fact is, we took our time, and we searched _everywhere_.
+“Why the fact is, we took our time, and we searched _everywhere_.
       I have had long experience in these affairs. I took the entire
       building, room by room; devoting the nights of a whole week to
       each. We examined, first, the furniture of each apartment. We
@@ -292,7 +284,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       the cavity, and the top replaced. The bottoms and tops of
       bedposts are employed in the same way.”
 
-      “But could not the cavity be detected by sounding?” I asked.
+“But could not the cavity be detected by sounding?” I asked.
 
       “By no means, if, when the article is deposited, a sufficient
       wadding of cotton be placed around it. Besides, in our case, we
@@ -398,7 +390,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       Dupin suggested—but it was all labor lost, as I knew it would
       be.”
 
-      “How much was the reward offered, did you say?” asked Dupin.
+“How much was the reward offered, did you say?” asked Dupin.
 
       “Why, a very great deal—a very liberal reward—I don’t like to say
       how much, precisely; but one thing I will say, that I wouldn’t
@@ -425,20 +417,20 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       certain rich miser conceived the design of spunging upon this
       Abernethy for a medical opinion. Getting up, for this purpose, an
       ordinary conversation in a private company, he insinuated his
-      case to the physician, as that of an imaginary individual.
+case to the physician, as that of an imaginary individual.
 
-      “‘We will suppose,’ said the miser, ‘that his symptoms are such
-      and such; now, doctor, what would you have directed him to take?’
+“‘We will suppose,’ said the miser, ‘that his symptoms are such
+and such; now, doctor, what would you have directed him to take?’
 
-      “‘Take!’ said Abernethy, ‘why, take advice, to be sure.’”
+“‘Take!’ said Abernethy, ‘why, take advice, to be sure.’”
 
-      “But,” said the Prefect, a little discomposed, “I am perfectly
-      willing to take advice, and to pay for it. I would really give
-      fifty thousand francs to any one who would aid me in the matter.”
+“But,” said the Prefect, a little discomposed, “I am perfectly
+willing to take advice, and to pay for it. I would really give
+fifty thousand francs to any one who would aid me in the matter.”
 
-      “In that case,” replied Dupin, opening a drawer, and producing a
-      check-book, “you may as well fill me up a check for the amount
-      mentioned. When you have signed it, I will hand you the letter.”
+“In that case,” replied Dupin, opening a drawer, and producing a
+check-book, “you may as well fill me up a check for the amount
+mentioned. When you have signed it, I will hand you the letter.”
 
       I was astounded. The Prefect appeared absolutely
       thunder-stricken. For some minutes he remained speechless and
@@ -454,25 +446,25 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       hand, cast a rapid glance at its contents, and then, scrambling
       and struggling to the door, rushed at length unceremoniously from
       the room and from the house, without having uttered a syllable
-      since Dupin had requested him to fill up the check.
+since Dupin had requested him to fill up the check.
 
-      When he had gone, my friend entered into some explanations.
+When he had gone, my friend entered into some explanations.
 
       “The Parisian police,” he said, “are exceedingly able in their
       way. They are persevering, ingenious, cunning, and thoroughly
       versed in the knowledge which their duties seem chiefly to
       demand. Thus, when G—— detailed to us his mode of searching the
       premises at the Hotel D——, I felt entire confidence in his having
-      made a satisfactory investigation—so far as his labors extended.”
+made a satisfactory investigation—so far as his labors extended.”
 
-      “So far as his labors extended?” said I.
+“So far as his labors extended?” said I.
 
       “Yes,” said Dupin. “The measures adopted were not only the best
       of their kind, but carried out to absolute perfection. Had the
       letter been deposited within the range of their search, these
       fellows would, beyond a question, have found it.”
 
-      I merely laughed—but he seemed quite serious in all that he said.
+I merely laughed—but he seemed quite serious in all that he said.
 
       “The measures, then,” he continued, “were good in their kind, and
       well executed; their defect lay in their being inapplicable to
@@ -701,7 +693,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       signs, over the shop-doors, are the most attractive of
       attention?”
 
-      “I have never given the matter a thought,” I said.
+“I have never given the matter a thought,” I said.
 
       “There is a game of puzzles,” he resumed, “which is played upon a
       map. One party playing requires another to find a given word—the
@@ -846,9 +838,9 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       genius. I confess, however, that I should like very well to know
       the precise character of his thoughts, when, being defied by her
       whom the Prefect terms ‘a certain personage’ he is reduced to
-      opening the letter which I left for him in the card-rack.”
+opening the letter which I left for him in the card-rack.”
 
-      “How? did you put any thing particular in it?”
+“How? did you put any thing particular in it?”
 
       “Why—it did not seem altogether right to leave the interior
       blank—that would have been insulting. D——, at Vienna once, did me
@@ -863,8 +855,6 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       S’il n’est digne d’Atrée, est digne de Thyeste.
 
       They are to be found in Crébillon’s ‘Atrée.’”
-
-
 
 
 THE THOUSAND-AND-SECOND TALE OF SCHEHERAZADE
@@ -948,8 +938,8 @@ Truth is stranger than fiction.—_Old Saying_
       even over his sound religious principles, induced him for this
       once to postpone the fulfilment of his vow until next morning,
       for the purpose and with the hope of hearing that night how it
-      fared in the end with the black cat (a black cat, I think it was)
-      and the rat.
+fared in the end with the black cat (a black cat, I think it was)
+and the rat.
 
       The night having arrived, however, the lady Scheherazade not only
       put the finishing stroke to the black cat and the rat (the rat
@@ -1001,8 +991,8 @@ Truth is stranger than fiction.—_Old Saying_
       forgive me. But even yet it is not too late to remedy my great
       neglect—and as soon as I have given the king a pinch or two in
       order to wake him up so far that he may stop making that horrible
-      noise, I will forthwith entertain you (and him if he pleases)
-      with the sequel of this very remarkable story.”
+noise, I will forthwith entertain you (and him if he pleases)
+with the sequel of this very remarkable story.”
 
       Hereupon the sister of Scheherazade, as I have it from the
       “Isitsöornot,” expressed no very particular intensity of
@@ -1182,11 +1172,11 @@ Truth is stranger than fiction.—_Old Saying_
       home on the beast, which swam at a prodigious rate through the
       ocean; although the surface of the latter is, in that part of the
       world, by no means flat, but round like a pomegranate, so that we
-      went—so to say—either up hill or down hill all the time.’
+went—so to say—either up hill or down hill all the time.’
 
-      “That I think, was very singular,” interrupted the king.
+“That I think, was very singular,” interrupted the king.
 
-      “Nevertheless, it is quite true,” replied Scheherazade.
+“Nevertheless, it is quite true,” replied Scheherazade.
 
       “I have my doubts,” rejoined the king; “but, pray, be so good as
       to go on with the story.”
@@ -1238,10 +1228,10 @@ Truth is stranger than fiction.—_Old Saying_
       we met with a land in which the nature of things seemed
       reversed—for we here saw a great lake, at the bottom of which,
       more than a hundred feet beneath the surface of the water, there
-      flourished in full leaf a forest of tall and luxuriant trees.’”
-      (*6)
+flourished in full leaf a forest of tall and luxuriant trees.’”
+(*6)
 
-      “Hoo!” said the king.
+“Hoo!” said the king.
 
       “Some hundred miles farther on brought us to a climate where the
       atmosphere was so dense as to sustain iron or steel, just as our
@@ -1258,25 +1248,25 @@ Truth is stranger than fiction.—_Old Saying_
       perpendicular height, were crowned with ever-blossoming trees and
       perpetual sweet-scented flowers, that made the whole territory
       one gorgeous garden; but the name of this luxuriant land was the
-      Kingdom of Horror, and to enter it was inevitable death.’” (*8)
+Kingdom of Horror, and to enter it was inevitable death.’” (*8)
 
-      “Humph!” said the king.
+“Humph!” said the king.
 
-      “‘We left this kingdom in great haste, and, after some days, came
-      to another, where we were astonished to perceive myriads of
-      monstrous animals with horns resembling scythes upon their heads.
+“‘We left this kingdom in great haste, and, after some days, came
+to another, where we were astonished to perceive myriads of
+monstrous animals with horns resembling scythes upon their heads.
       These hideous beasts dig for themselves vast caverns in the soil,
       of a funnel shape, and line the sides of them with rocks, so
       disposed one upon the other that they fall instantly, when
       trodden upon by other animals, thus precipitating them into the
       monster’s dens, where their blood is immediately sucked, and
       their carcasses afterwards hurled contemptuously out to an
-      immense distance from “the caverns of death."’” (*9)
+immense distance from “the caverns of death."’” (*9)
 
-      “Pooh!” said the king.
+“Pooh!” said the king.
 
-      “‘Continuing our progress, we perceived a district with
-      vegetables that grew not upon any soil but in the air. (*10)
+“‘Continuing our progress, we perceived a district with
+vegetables that grew not upon any soil but in the air. (*10)
       There were others that sprang from the substance of other
       vegetables; (*11) others that derived their substance from the
       bodies of living animals; (*12) and then again, there were others
@@ -1364,9 +1354,9 @@ Truth is stranger than fiction.—_Old Saying_
       had black stones for his usual food; and yet, in spite of so hard
       a diet, he was so strong and swift that he would drag a load more
       weighty than the grandest temple in this city, at a rate
-      surpassing that of the flight of most birds.’” (*20)
+surpassing that of the flight of most birds.’” (*20)
 
-      “Twattle!” said the king.
+“Twattle!” said the king.
 
       “‘I saw, also, among these people a hen without feathers, but
       bigger than a camel; instead of flesh and bone she had iron and
@@ -1485,20 +1475,18 @@ Truth is stranger than fiction.—_Old Saying_
       inconceivable adventures.
 
 
-
-
 A DESCENT INTO THE MAELSTROM.
 
 
-  The ways of God in Nature, as in Providence, are not as our ways; 
+  The ways of God in Nature, as in Providence, are not as our ways;
   nor are the models that we frame any way commensurate to the
   vastness, profundity, and unsearchableness of His works, _which have
   a depth in them greater than the well of Democritus_.
 
 —_Joseph Glanville_.
 
-      We had now reached the summit of the loftiest crag. For some
-      minutes the old man seemed too much exhausted to speak.
+We had now reached the summit of the loftiest crag. For some
+minutes the old man seemed too much exhausted to speak.
 
       “Not long ago,” said he at length, “and I could have guided you
       on this route as well as the youngest of my sons; but, about
@@ -1720,9 +1708,9 @@ A DESCENT INTO THE MAELSTROM.
       “You have had a good look at the whirl now,” said the old man,
       “and if you will creep round this crag, so as to get in its lee,
       and deaden the roar of the water, I will tell you a story that
-      will convince you I ought to know something of the Moskoe-ström.”
+will convince you I ought to know something of the Moskoe-ström.”
 
-      I placed myself as desired, and he proceeded.
+I placed myself as desired, and he proceeded.
 
       “Myself and my two brothers once owned a schooner-rigged smack of
       about seventy tons burthen, with which we were in the habit of
@@ -1817,8 +1805,8 @@ A DESCENT INTO THE MAELSTROM.
       this and the driving spray, it became suddenly so dark that we
       could not see each other in the smack.
 
-      “Such a hurricane as then blew it is folly to attempt describing.
-      The oldest seaman in Norway never experienced any thing like it.
+“Such a hurricane as then blew it is folly to attempt describing.
+The oldest seaman in Norway never experienced any thing like it.
       We had let our sails go by the run before it cleverly took us;
       but, at the first puff, both our masts went by the board as if
       they had been sawed off—the mainmast taking with it my youngest
@@ -1900,11 +1888,11 @@ A DESCENT INTO THE MAELSTROM.
       “When a boat is well built, properly trimmed, and not deep laden,
       the waves in a strong gale, when she is going large, seem always
       to slip from beneath her—which appears very strange to a
-      landsman—and this is what is called _riding_, in sea phrase.
+landsman—and this is what is called _riding_, in sea phrase.
 
-      “Well, so far we had ridden the swells very cleverly; but
-      presently a gigantic sea happened to take us right under the
-      counter, and bore us with it as it rose—up—up—as if into the sky.
+“Well, so far we had ridden the swells very cleverly; but
+presently a gigantic sea happened to take us right under the
+counter, and bore us with it as it rose—up—up—as if into the sky.
       I would not have believed that any wave could rise so high. And
       then down we came with a sweep, a slide, and a plunge, that made
       me feel sick and dizzy, as if I was falling from some lofty
@@ -2016,8 +2004,8 @@ A DESCENT INTO THE MAELSTROM.
       the black walls, and far away down into the inmost recesses of
       the abyss.
 
-      “At first I was too much confused to observe anything accurately.
-      The general burst of terrific grandeur was all that I beheld.
+“At first I was too much confused to observe anything accurately.
+The general burst of terrific grandeur was all that I beheld.
       When I recovered myself a little, however, my gaze fell
       instinctively downward. In this direction I was able to obtain an
       unobstructed view, from the manner in which the smack hung on the
@@ -2168,8 +2156,6 @@ A DESCENT INTO THE MAELSTROM.
       than did the merry fishermen of Lofoden.”
 
 
-
-
 VON KEMPELEN AND HIS DISCOVERY
 
 
@@ -2208,9 +2194,9 @@ VON KEMPELEN AND HIS DISCOVERY
       confess, a little apocryphal, for several reasons; although there
       is nothing either impossible or very improbable in the statement
       made. I need not go into details. My opinion of the paragraph is
-      founded principally upon its manner. It does not look true.
-      Persons who are narrating facts, are seldom so particular as Mr.
-      Kissam seems to be, about day and date and precise location.
+founded principally upon its manner. It does not look true.
+Persons who are narrating facts, are seldom so particular as Mr.
+Kissam seems to be, about day and date and precise location.
       Besides, if Mr. Kissam actually did come upon the discovery he
       says he did, at the period designated—nearly eight years ago—how
       happens it that he took no steps, on the instant, to reap the
@@ -2290,10 +2276,10 @@ VON KEMPELEN AND HIS DISCOVERY
       with him was casual altogether; and I am scarcely warranted in
       saying that I know him at all; but to have seen and conversed
       with a man of so _prodigious_ a notoriety as he has attained, or
-      _will_ attain in a few days, is not a small matter, as times go.
+_will_ attain in a few days, is not a small matter, as times go.
 
-      “The Literary World” speaks of him, confidently, as a native of
-      Presburg (misled, perhaps, by the account in “The Home Journal”)
+“The Literary World” speaks of him, confidently, as a native of
+Presburg (misled, perhaps, by the account in “The Home Journal”)
       but I am pleased in being able to state _positively_, since I
       have it from his own lips, that he was born in Utica, in the
       State of New York, although both his parents, I believe, are of
@@ -2450,140 +2436,62 @@ VON KEMPELEN AND HIS DISCOVERY
       twenty-five per cent. that of silver.
 
 
-
-
 MESMERIC REVELATION
 
 
-Whatever doubt may still envelop the _rationale_ of mesmerism, its
-startling _facts_ are now almost universally admitted. Of these latter,
-those who doubt, are your mere doubters by profession—an unprofitable
-and disreputable tribe. There can be no more absolute waste of time
-than the attempt to _prove_, at the present day, that man, by mere
-exercise of will, can so impress his fellow, as to cast him into an
-abnormal condition, of which the phenomena resemble very closely those
-of _death_, or at least resemble them more nearly than they do the
-phenomena of any other normal condition within our cognizance; that,
-while in this state, the person so impressed employs only with effort,
-and then feebly, the external organs of sense, yet perceives, with
-keenly refined perception, and through channels supposed unknown,
-matters beyond the scope of the physical organs; that, moreover, his
-intellectual faculties are wonderfully exalted and invigorated; that
-his sympathies with the person so impressing him are profound; and,
-finally, that his susceptibility to the impression increases with its
-frequency, while, in the same proportion, the peculiar phenomena
-elicited are more extended and more _pronounced_.
+Whatever doubt may still envelop the _rationale_ of mesmerism, its startling _facts_ are now almost universally admitted. Of these latter, those who doubt, are your mere doubters by profession—an unprofitable and disreputable tribe. There can be no more absolute waste of time than the attempt to _prove_, at the present day, that man, by mere exercise of will, can so impress his fellow, as to cast him into an abnormal condition, of which the phenomena resemble very closely those of _death_, or at least resemble them more nearly than they do the phenomena of any other normal condition within our cognizance; that, while in this state, the person so impressed employs only with effort, and then feebly, the external organs of sense, yet perceives, with keenly refined perception, and through channels supposed unknown, matters beyond the scope of the physical organs; that, moreover, his intellectual faculties are wonderfully exalted and invigorated; that his sympathies with the person so impressing him are profound; and, finally, that his susceptibility to the impression increases with its frequency, while, in the same proportion, the peculiar phenomena elicited are more extended and more _pronounced_.
 
-I say that these—which are the laws of mesmerism in its general
-features—it would be supererogation to demonstrate; nor shall I inflict
-upon my readers so needless a demonstration; to-day. My purpose at
-present is a very different one indeed. I am impelled, even in the
-teeth of a world of prejudice, to detail without comment the very
-remarkable substance of a colloquy, occurring between a sleep-waker and
+I say that these—which are the laws of mesmerism in its general features—it would be supererogation to demonstrate; nor shall I inflict upon my readers so needless a demonstration; to-day. My purpose at present is a very different one indeed. I am impelled, even in the teeth of a world of prejudice, to detail without comment the very remarkable substance of a colloquy, occurring between a sleep-waker and
 myself.
 
-I had been long in the habit of mesmerizing the person in question (Mr.
-Vankirk), and the usual acute susceptibility and exaltation of the
-mesmeric perception had supervened. For many months he had been
-laboring under confirmed phthisis, the more distressing effects of
-which had been relieved by my manipulations; and on the night of
-Wednesday, the fifteenth instant, I was summoned to his bedside.
+I had been long in the habit of mesmerizing the person in question (Mr. Vankirk), and the usual acute susceptibility and exaltation of the mesmeric perception had supervened. For many months he had been laboring under confirmed phthisis, the more distressing effects of which had been relieved by my manipulations; and on the night of Wednesday, the fifteenth instant, I was summoned to his bedside.
 
-The invalid was suffering with acute pain in the region of the heart,
-and breathed with great difficulty, having all the ordinary symptoms of
-asthma. In spasms such as these he had usually found relief from the
-application of mustard to the nervous centres, but to-night this had
-been attempted in vain.
+The invalid was suffering with acute pain in the region of the heart, and breathed with great difficulty, having all the ordinary symptoms of asthma. In spasms such as these he had usually found relief from the application of mustard to the nervous centres, but to-night this had been attempted in vain.
 
-As I entered his room he greeted me with a cheerful smile, and although
-evidently in much bodily pain, appeared to be, mentally, quite at ease.
+As I entered his room he greeted me with a cheerful smile, and although evidently in much bodily pain, appeared to be, mentally, quite at ease.
 
-“I sent for you to-night,” he said, “not so much to administer to my
-bodily ailment, as to satisfy me concerning certain psychal impressions
-which, of late, have occasioned me much anxiety and surprise. I need
-not tell you how sceptical I have hitherto been on the topic of the
-soul’s immortality. I cannot deny that there has always existed, as if
-in that very soul which I have been denying, a vague half-sentiment of
-its own existence. But this half-sentiment at no time amounted to
-conviction. With it my reason had nothing to do. All attempts at
-logical inquiry resulted, indeed, in leaving me more sceptical than
-before. I had been advised to study Cousin. I studied him in his own
-works as well as in those of his European and American echoes. The
-‘Charles Elwood’ of Mr. Brownson, for example, was placed in my hands.
-I read it with profound attention. Throughout I found it logical, but
-the portions which were not _merely_ logical were unhappily the initial
-arguments of the disbelieving hero of the book. In his summing up it
-seemed evident to me that the reasoner had not even succeeded in
-convincing himself. His end had plainly forgotten his beginning, like
-the government of Trinculo. In short, I was not long in perceiving that
-if man is to be intellectually convinced of his own immortality, he
-will never be so convinced by the mere abstractions which have been so
-long the fashion of the moralists of England, of France, and of
-Germany. Abstractions may amuse and exercise, but take no hold on the
-mind. Here upon earth, at least, philosophy, I am persuaded, will
-always in vain call upon us to look upon qualities as things. The will
-may assent—the soul—the intellect, never.
+“I sent for you to-night,” he said, “not so much to administer to my bodily ailment, as to satisfy me concerning certain psychal impressions which, of late, have occasioned me much anxiety and surprise. I need not tell you how sceptical I have hitherto been on the topic of the soul’s immortality. I cannot deny that there has always existed, as if in that very soul which I have been denying, a vague half-sentiment of its own existence. But this half-sentiment at no time amounted to conviction. With it my reason had nothing to do. All attempts at logical inquiry resulted, indeed, in leaving me more sceptical than before. I had been advised to study Cousin. I studied him in his own works as well as in those of his European and American echoes. The ‘Charles Elwood’ of Mr. Brownson, for example, was placed in my hands. I read it with profound attention. Throughout I found it logical, but the portions which were not _merely_ logical were unhappily the initial arguments of the disbelieving hero of the book. In his summing up it seemed evident to me that the reasoner had not even succeeded in convincing himself. His end had plainly forgotten his beginning, like the government of Trinculo. In short, I was not long in perceiving that if man is to be intellectually convinced of his own immortality, he will never be so convinced by the mere abstractions which have been so long the fashion of the moralists of England, of France, and of Germany. Abstractions may amuse and exercise, but take no hold on the mind. Here upon earth, at least, philosophy, I am persuaded, will always in vain call upon us to look upon qualities as things. The will may assent—the soul—the intellect, never.
 
-“I repeat, then, that I only half felt, and never intellectually
-believed. But latterly there has been a certain deepening of the
-feeling, until it has come so nearly to resemble the acquiescence of
-reason, that I find it difficult to distinguish between the two. I am
-enabled, too, plainly to trace this effect to the mesmeric influence. I
-cannot better explain my meaning than by the hypothesis that the
-mesmeric exaltation enables me to perceive a train of ratiocination
-which, in my abnormal existence, convinces, but which, in full
-accordance with the mesmeric phenomena, does not extend, except through
-its _effect_, into my normal condition. In sleep-waking, the reasoning
-and its conclusion—the cause and its effect—are present together. In my
-natural state, the cause vanishing, the effect only, and perhaps only
+“I repeat, then, that I only half felt, and never intellectually believed. But latterly there has been a certain deepening of the feeling, until it has come so nearly to resemble the acquiescence of reason, that I find it difficult to distinguish between the two. I am enabled, too, plainly to trace this effect to the mesmeric influence. I cannot better explain my meaning than by the hypothesis that the mesmeric exaltation enables me to perceive a train of ratiocination which, in my abnormal existence, convinces, but which, in full accordance with the mesmeric phenomena, does not extend, except through its _effect_, into my normal condition. In sleep-waking, the reasoning and its conclusion—the cause and its effect—are present together. In my natural state, the cause vanishing, the effect only, and perhaps only
 partially, remains.
 
-“These considerations have led me to think that some good results might
-ensue from a series of well-directed questions propounded to me while
-mesmerized. You have often observed the profound self-cognizance
-evinced by the sleep-waker—the extensive knowledge he displays upon all
-points relating to the mesmeric condition itself; and from this
-self-cognizance may be deduced hints for the proper conduct of a
-catechism.”
+“These considerations have led me to think that some good results might ensue from a series of well-directed questions propounded to me while mesmerized. You have often observed the profound self-cognizance evinced by the sleep-waker—the extensive knowledge he displays upon all points relating to the mesmeric condition itself; and from this self-cognizance may be deduced hints for the proper conduct of a catechism.”
 
-I consented of course to make this experiment.  A few passes threw Mr.
-Vankirk into the mesmeric sleep. His breathing became immediately more
-easy, and he seemed to suffer no physical uneasiness. The following
-conversation then ensued:—V. in the dialogue representing the patient,
+I consented of course to make this experiment.  A few passes threw Mr. Vankirk into the mesmeric sleep. His breathing became immediately more easy, and he seemed to suffer no physical uneasiness. The following conversation then ensued:—V. in the dialogue representing the patient,
 and P. myself.
 
-      _P._ Are you asleep?
+_P._ Are you asleep?
 
-      _V._ Yes—no; I would rather sleep more soundly.
+_V._ Yes—no; I would rather sleep more soundly.
 
-      _P._ [_After a few more passes._] Do you sleep now?
+_P._ [_After a few more passes._] Do you sleep now?
 
-      _V._ Yes.
+_V._ Yes.
 
-      _P._ How do you think your present illness will result?
+_P._ How do you think your present illness will result?
 
-      _V._ [_After a long hesitation and speaking as if with effort_.]
-      I must die.
+_V._ [_After a long hesitation and speaking as if with effort_.]
+I must die.
 
-      _P._ Does the idea of death afflict you?
+_P._ Does the idea of death afflict you?
 
-      _V._ [_Very quickly_.] No—no!
+_V._ [_Very quickly_.] No—no!
 
-      _P._ Are you pleased with the prospect?
+_P._ Are you pleased with the prospect?
 
-      _V._ If I were awake I should like to die, but now it is no
-      matter. The mesmeric condition is so near death as to content me.
+_V._ If I were awake I should like to die, but now it is no
+matter. The mesmeric condition is so near death as to content me.
 
-      _P._ I wish you would explain yourself, Mr. Vankirk.
+_P._ I wish you would explain yourself, Mr. Vankirk.
 
-      _V._ I am willing to do so, but it requires more effort than I
-      feel able to make. You do not question me properly.
+_V._ I am willing to do so, but it requires more effort than I
+feel able to make. You do not question me properly.
 
-      _P._ What then shall I ask?
+_P._ What then shall I ask?
 
-      _V._ You must begin at the beginning.
+_V._ You must begin at the beginning.
 
-      _P._ The beginning! But where is the beginning?
+_P._ The beginning! But where is the beginning?
 
       _V._ You know that the beginning is GOD. [_This was said in a
       low, fluctuating tone, and with every sign of the most profound
@@ -2591,9 +2499,9 @@ and P. myself.
 
       _P._ What then, is God?
 
-      _V._ [_Hesitating for many minutes._] I cannot tell.
+_V._ [_Hesitating for many minutes._] I cannot tell.
 
-      _P._ Is not God spirit?
+_P._ Is not God spirit?
 
       _V._ While I was awake I knew what you meant by “spirit,” but now
       it seems only a word—such, for instance, as truth, beauty—a
@@ -2602,19 +2510,19 @@ and P. myself.
       _P._ Is not God immaterial?
 
       _V._ There is no immateriality—it is a mere word. That which is
-      not matter, is not at all—unless qualities are things.
+not matter, is not at all—unless qualities are things.
 
-      _P._ Is God, then, material?
+_P._ Is God, then, material?
 
-      _V._ No. [_This reply startled me very much._]
+_V._ No. [_This reply startled me very much._]
 
-      _P._ What, then, is he?
+_P._ What, then, is he?
 
-      _V._ [_After a long pause, and mutteringly._] I see—but it is a
-      thing difficult to tell. [_Another long pause._] He is not
-      spirit, for he exists. Nor is he matter, as _you understand it_.
-      But there are _gradations_ of matter of which man knows nothing;
-      the grosser impelling the finer, the finer pervading the grosser.
+_V._ [_After a long pause, and mutteringly._] I see—but it is a
+thing difficult to tell. [_Another long pause._] He is not
+spirit, for he exists. Nor is he matter, as _you understand it_.
+But there are _gradations_ of matter of which man knows nothing;
+the grosser impelling the finer, the finer pervading the grosser.
       The atmosphere, for example, impels the electric principle, while
       the electric principle permeates the atmosphere. These gradations
       of matter increase in rarity or fineness, until we arrive at a
@@ -2741,9 +2649,9 @@ and P. myself.
       portions of the divine mind. Thus man is individualized. Divested
       of corporate investiture, he were God. Now, the particular motion
       of the incarnated portions of the unparticled matter is the
-      thought of man; as the motion of the whole is that of God.
+thought of man; as the motion of the whole is that of God.
 
-      _P._ You say that divested of the body man will be God?
+_P._ You say that divested of the body man will be God?
 
       _V._ [_After much hesitation._] I could not have said this; it is
       an absurdity.
@@ -2772,7 +2680,7 @@ and P. myself.
       preparatory, temporary. Our future is perfected, ultimate,
       immortal. The ultimate life is the full design.
 
-      _P._ But of the worm’s metamorphosis we are palpably cognizant.
+_P._ But of the worm’s metamorphosis we are palpably cognizant.
 
       _V._ _We_, certainly—but not the worm. The matter of which our
       rudimental body is composed, is within the ken of the organs of
@@ -2909,8 +2817,6 @@ and P. myself.
       region of the shadows?
 
 
-
-
 THE FACTS IN THE CASE OF M. VALDEMAR
 
 
@@ -2980,12 +2886,12 @@ THE FACTS IN THE CASE OF M. VALDEMAR
       which would admit of exact calculation in respect to the epoch of
       its termination in death; and it was finally arranged between us
       that he would send for me about twenty-four hours before the
-      period announced by his physicians as that of his decease.
+period announced by his physicians as that of his decease.
 
-      It is now rather more than seven months since I received, from M.
-      Valdemar himself, the subjoined note:
+It is now rather more than seven months since I received, from M.
+Valdemar himself, the subjoined note:
 
-      MY DEAR P——,
+MY DEAR P——,
 
       You may as well come now. D—— and F—— are agreed that I cannot
       hold out beyond to-morrow midnight; and I think they have hit the
@@ -3017,10 +2923,10 @@ THE FACTS IN THE CASE OF M. VALDEMAR
       was merely a mass of purulent tubercles, running one into
       another. Several extensive perforations existed; and, at one
       point, permanent adhesion to the ribs had taken place. These
-      appearances in the right lobe were of comparatively recent date.
-      The ossification had proceeded with very unusual rapidity; no
-      sign of it had been discovered a month before, and the adhesion
-      had only been observed during the three previous days.
+appearances in the right lobe were of comparatively recent date.
+The ossification had proceeded with very unusual rapidity; no
+sign of it had been discovered a month before, and the adhesion
+had only been observed during the three previous days.
       Independently of the phthisis, the patient was suspected of
       aneurism of the aorta; but on this point the osseous symptoms
       rendered an exact diagnosis impossible. It was the opinion of
@@ -3054,9 +2960,9 @@ THE FACTS IN THE CASE OF M. VALDEMAR
       or copied verbatim.
 
       It wanted about five minutes of eight when, taking the patient’s
-      hand, I begged him to state, as distinctly as he could, to Mr.
-      L—l, whether he (M. Valdemar) was entirely willing that I should
-      make the experiment of mesmerizing him in his then condition.
+hand, I begged him to state, as distinctly as he could, to Mr.
+L—l, whether he (M. Valdemar) was entirely willing that I should
+make the experiment of mesmerizing him in his then condition.
 
       He replied feebly, yet quite audibly, “Yes, I wish to be. I fear
       you have mesmerized”—adding immediately afterwards: “I fear you
@@ -3112,8 +3018,8 @@ THE FACTS IN THE CASE OF M. VALDEMAR
       say, he lay in the same position; the pulse was imperceptible;
       the breathing was gentle (scarcely noticeable, unless through the
       application of a mirror to the lips); the eyes were closed
-      naturally; and the limbs were as rigid and as cold as marble.
-      Still, the general appearance was certainly not that of death.
+naturally; and the limbs were as rigid and as cold as marble.
+Still, the general appearance was certainly not that of death.
 
       As I approached M. Valdemar I made a kind of half effort to
       influence his right arm into pursuit of my own, as I passed the
@@ -3138,11 +3044,11 @@ THE FACTS IN THE CASE OF M. VALDEMAR
       arm, as before, obeyed the direction of my hand. I questioned the
       sleep-waker again:
 
-      “Do you still feel pain in the breast, M. Valdemar?”
+“Do you still feel pain in the breast, M. Valdemar?”
 
-      The answer now was immediate, but even less audible than before:
+The answer now was immediate, but even less audible than before:
 
-      “No pain—I am dying.”
+“No pain—I am dying.”
 
       I did not think it advisable to disturb him farther just then,
       and nothing more was said or done until the arrival of Dr. F——,
@@ -3216,11 +3122,11 @@ THE FACTS IN THE CASE OF M. VALDEMAR
       the question I had propounded to him a few minutes before. I had
       asked him, it will be remembered, if he still slept. He now said:
 
-      “Yes;—no;—I have been sleeping—and now—now—I am dead.”
+“Yes;—no;—I have been sleeping—and now—now—I am dead.”
 
-      No person present even affected to deny, or attempted to repress,
-      the unutterable, shuddering horror which these few words, thus
-      uttered, were so well calculated to convey. Mr. L—l (the student)
+No person present even affected to deny, or attempted to repress,
+the unutterable, shuddering horror which these few words, thus
+uttered, were so well calculated to convey. Mr. L—l (the student)
       swooned. The nurses immediately left the chamber, and could not
       be induced to return. My own impressions I would not pretend to
       render intelligible to the reader. For nearly an hour, we busied
@@ -3256,10 +3162,10 @@ THE FACTS IN THE CASE OF M. VALDEMAR
       dissolution.
 
       From this period until the close of last week—an interval of
-      nearly seven months—we continued to make daily calls at M.
-      Valdemar’s house, accompanied, now and then, by medical and other
-      friends. All this time the sleeper-waker remained _exactly_ as I
-      have last described him. The nurses’ attentions were continual.
+nearly seven months—we continued to make daily calls at M.
+Valdemar’s house, accompanied, now and then, by medical and other
+friends. All this time the sleeper-waker remained _exactly_ as I
+have last described him. The nurses’ attentions were continual.
 
       It was on Friday last that we finally resolved to make the
       experiment of awakening, or attempting to awaken him; and it is
@@ -3310,8 +3216,6 @@ THE FACTS IN THE CASE OF M. VALDEMAR
       shrunk—crumbled—absolutely rotted away beneath my hands. Upon the
       bed, before that whole company, there lay a nearly liquid mass of
       loathsome—of detestable putrescence.
-
-
 
 
 THE BLACK CAT.
@@ -3529,11 +3433,11 @@ THE BLACK CAT.
       circumstance, however, only endeared it to my wife, who, as I
       have already said, possessed, in a high degree, that humanity of
       feeling which had once been my distinguishing trait, and the
-      source of many of my simplest and purest pleasures.
+source of many of my simplest and purest pleasures.
 
-      With my aversion to this cat, however, its partiality for myself
-      seemed to increase. It followed my footsteps with a pertinacity
-      which it would be difficult to make the reader comprehend.
+With my aversion to this cat, however, its partiality for myself
+seemed to increase. It followed my footsteps with a pertinacity
+which it would be difficult to make the reader comprehend.
       Whenever I sat, it would crouch beneath my chair, or spring upon
       my knees, covering me with its loathsome caresses. If I arose to
       walk it would get between my feet and thus nearly throw me down,
@@ -3590,10 +3494,10 @@ THE BLACK CAT.
       axe, and forgetting, in my wrath, the childish dread which had
       hitherto stayed my hand, I aimed a blow at the animal which, of
       course, would have proved instantly fatal had it descended as I
-      wished. But this blow was arrested by the hand of my wife.
-      Goaded, by the interference, into a rage more than demoniacal, I
-      withdrew my arm from her grasp and buried the axe in her brain.
-      She fell dead upon the spot, without a groan.
+wished. But this blow was arrested by the hand of my wife.
+Goaded, by the interference, into a rage more than demoniacal, I
+withdrew my arm from her grasp and buried the axe in her brain.
+She fell dead upon the spot, without a groan.
 
       This hideous murder accomplished, I set myself forthwith, and
       with entire deliberation, to the task of concealing the body. I
@@ -3701,8 +3605,6 @@ THE BLACK CAT.
       hideous beast whose craft had seduced me into murder, and whose
       informing voice had consigned me to the hangman. I had walled the
       monster up within the tomb!
-
-
 
 
 THE FALL OF THE HOUSE OF USHER
@@ -3831,9 +3733,9 @@ THE FALL OF THE HOUSE OF USHER
       Perhaps the eye of a scrutinizing observer might have discovered
       a barely perceptible fissure, which, extending from the roof of
       the building in front, made its way down the wall in a zigzag
-      direction, until it became lost in the sullen waters of the tarn.
+direction, until it became lost in the sullen waters of the tarn.
 
-      Noticing these things, I rode over a short causeway to the house.
+Noticing these things, I rode over a short causeway to the house.
       A servant in waiting took my horse, and I entered the Gothic
       archway of the hall. A valet, of stealthy step, thence conducted
       me, in silence, through many dark and intricate passages in my
@@ -4303,9 +4205,9 @@ THE FALL OF THE HOUSE OF USHER
       to a seat. “These appearances, which bewilder you, are merely
       electrical phenomena not uncommon—or it may be that they have
       their ghastly origin in the rank miasma of the tarn. Let us close
-      this casement;—the air is chilling and dangerous to your frame.
-      Here is one of your favorite romances. I will read, and you shall
-      listen;—and so we will pass away this terrible night together.”
+this casement;—the air is chilling and dangerous to your frame.
+Here is one of your favorite romances. I will read, and you shall
+listen;—and so we will pass away this terrible night together.”
 
       The antique volume which I had taken up was the “Mad Trist” of
       Sir Launcelot Canning; but I had called it a favorite of Usher’s
@@ -4473,8 +4375,6 @@ THE FALL OF THE HOUSE OF USHER
       fragments of the “_House of Usher_.”
 
 
-
-
 SILENCE—A FABLE
 
 
@@ -4587,11 +4487,11 @@ SILENCE—A FABLE
       rock—and the water-lilies sighed no more—and the murmur was heard
       no longer from among them, nor any shadow of sound throughout the
       vast illimitable desert. And I looked upon the characters of the
-      rock, and they were changed; and the characters were SILENCE.
+rock, and they were changed; and the characters were SILENCE.
 
-      “And mine eyes fell upon the countenance of the man, and his
-      countenance was wan with terror. And, hurriedly, he raised his
-      head from his hand, and stood forth upon the rock and listened.
+“And mine eyes fell upon the countenance of the man, and his
+countenance was wan with terror. And, hurriedly, he raised his
+head from his hand, and stood forth upon the rock and listened.
       But there was no voice throughout the vast illimitable desert,
       and the characters upon the rock were SILENCE. And the man
       shuddered, and turned his face away, and fled afar off, in haste,
@@ -4612,8 +4512,6 @@ SILENCE—A FABLE
       laugh. And the lynx which dwelleth forever in the tomb, came out
       therefrom, and lay down at the feet of the Demon, and looked at
       him steadily in the face.
-
-
 
 
 THE MASQUE OF THE RED DEATH.
@@ -4857,8 +4755,6 @@ THE MASQUE OF THE RED DEATH.
       Death held illimitable dominion over all.
 
 
-
-
 THE CASK OF AMONTILLADO.
 
 
@@ -4906,17 +4802,17 @@ THE CASK OF AMONTILLADO.
 
       “I have my doubts,” I replied; “and I was silly enough to pay the
       full Amontillado price without consulting you in the matter. You
-      were not to be found, and I was fearful of losing a bargain.”
+were not to be found, and I was fearful of losing a bargain.”
 
-      “Amontillado!”
+“Amontillado!”
 
-      “I have my doubts.”
+“I have my doubts.”
 
-      “Amontillado!”
+“Amontillado!”
 
-      “And I must satisfy them.”
+“And I must satisfy them.”
 
-      “Amontillado!”
+“Amontillado!”
 
       “As you are engaged, I am on my way to Luchesi. If any one has a
       critical turn, it is he. He will tell me—”
@@ -4939,9 +4835,9 @@ THE CASK OF AMONTILLADO.
 
       “My friend, no. It is not the engagement, but the severe cold
       with which I perceive you are afflicted. The vaults are
-      insufferably damp. They are encrusted with nitre.”
+insufferably damp. They are encrusted with nitre.”
 
-      “Let us go, nevertheless. The cold is merely nothing.
+“Let us go, nevertheless. The cold is merely nothing.
       Amontillado! You have been imposed upon. And as for Luchesi, he
       cannot distinguish Sherry from Amontillado.”
 
@@ -4959,9 +4855,9 @@ THE CASK OF AMONTILLADO.
       I took from their sconces two flambeaux, and giving one to
       Fortunato, bowed him through several suites of rooms to the
       archway that led into the vaults. I passed down a long and
-      winding staircase, requesting him to be cautious as he followed.
-      We came at length to the foot of the descent, and stood together
-      on the damp ground of the catacombs of the Montresors.
+winding staircase, requesting him to be cautious as he followed.
+We came at length to the foot of the descent, and stood together
+on the damp ground of the catacombs of the Montresors.
 
       The gait of my friend was unsteady, and the bells upon his cap
       jingled as he strode.
@@ -4976,14 +4872,14 @@ THE CASK OF AMONTILLADO.
 
       “Nitre?” he asked, at length.
 
-      “Nitre,” I replied. “How long have you had that cough?”
+“Nitre,” I replied. “How long have you had that cough?”
 
       “Ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!—ugh!
       ugh! ugh!”
 
-      My poor friend found it impossible to reply for many minutes.
+My poor friend found it impossible to reply for many minutes.
 
-      “It is nothing,” he said, at last.
+“It is nothing,” he said, at last.
 
       “Come,” I said, with decision, “we will go back; your health is
       precious. You are rich, respected, admired, beloved; you are
@@ -4995,8 +4891,8 @@ THE CASK OF AMONTILLADO.
       me. I shall not die of a cough.”
 
       “True—true,” I replied; “and, indeed, I had no intention of
-      alarming you unnecessarily—but you should use all proper caution.
-      A draught of this Medoc will defend us from the damps.”
+alarming you unnecessarily—but you should use all proper caution.
+A draught of this Medoc will defend us from the damps.”
 
       Here I knocked off the neck of a bottle which I drew from a long
       row of its fellows that lay upon the mould.
@@ -5006,26 +4902,26 @@ THE CASK OF AMONTILLADO.
       He raised it to his lips with a leer. He paused and nodded to me
       familiarly, while his bells jingled.
 
-      “I drink,” he said, “to the buried that repose around us.”
+“I drink,” he said, “to the buried that repose around us.”
 
-      “And I to your long life.”
+“And I to your long life.”
 
-      He again took my arm, and we proceeded.
+He again took my arm, and we proceeded.
 
-      “These vaults,” he said, “are extensive.”
+“These vaults,” he said, “are extensive.”
 
-      “The Montresors,” I replied, “were a great and numerous family.”
+“The Montresors,” I replied, “were a great and numerous family.”
 
-      “I forget your arms.”
+“I forget your arms.”
 
-      “A huge human foot d’or, in a field azure; the foot crushes a
-      serpent rampant whose fangs are imbedded in the heel.”
+“A huge human foot d’or, in a field azure; the foot crushes a
+serpent rampant whose fangs are imbedded in the heel.”
 
-      “And the motto?”
+“And the motto?”
 
-      “_Nemo me impune lacessit_.”
+“_Nemo me impune lacessit_.”
 
-      “Good!” he said.
+“Good!” he said.
 
       The wine sparkled in his eyes and the bells jingled. My own fancy
       grew warm with the Medoc. We had passed through walls of piled
@@ -5098,7 +4994,7 @@ THE CASK OF AMONTILLADO.
       endeavored to pry into the depths of the recess. Its termination
       the feeble light did not enable us to see.
 
-      “Proceed,” I said; “herein is the Amontillado. As for Luchesi—”
+“Proceed,” I said; “herein is the Amontillado. As for Luchesi—”
 
       “He is an ignoramus,” interrupted my friend, as he stepped
       unsteadily forward, while I followed immediately at his heels. In
@@ -5109,12 +5005,12 @@ THE CASK OF AMONTILLADO.
       horizontally. From one of these depended a short chain, from the
       other a padlock. Throwing the links about his waist, it was but
       the work of a few seconds to secure it. He was too much astounded
-      to resist. Withdrawing the key I stepped back from the recess.
+to resist. Withdrawing the key I stepped back from the recess.
 
-      “Pass your hand,” I said, “over the wall; you cannot help feeling
-      the nitre. Indeed it is _very_ damp. Once more let me _implore_
-      you to return. No? Then I must positively leave you. But I must
-      first render you all the little attentions in my power.”
+“Pass your hand,” I said, “over the wall; you cannot help feeling
+the nitre. Indeed it is _very_ damp. Once more let me _implore_
+you to return. No? Then I must positively leave you. But I must
+first render you all the little attentions in my power.”
 
       “The Amontillado!” ejaculated my friend, not yet recovered from
       his astonishment.
@@ -5190,13 +5086,11 @@ THE CASK OF AMONTILLADO.
       No answer still. I thrust a torch through the remaining aperture
       and let it fall within. There came forth in return only a
       jingling of the bells. My heart grew sick—on account of the
-      dampness of the catacombs. I hastened to make an end of my labor.
-      I forced the last stone into its position; I plastered it up.
-      Against the new masonry I re-erected the old rampart of bones.
+dampness of the catacombs. I hastened to make an end of my labor.
+I forced the last stone into its position; I plastered it up.
+Against the new masonry I re-erected the old rampart of bones.
       For the half of a century no mortal has disturbed them. _In pace
       requiescat!_
-
-
 
 
 THE IMP OF THE PERVERSE
@@ -5402,9 +5296,9 @@ THE IMP OF THE PERVERSE
       undertone, the phrase, “I am safe.”
 
       One day, whilst sauntering along the streets, I arrested myself
-      in the act of murmuring, half aloud, these customary syllables.
-      In a fit of petulance, I remodelled them thus: “I am safe—I am
-      safe—yes—if I be not fool enough to make open confession!”
+in the act of murmuring, half aloud, these customary syllables.
+In a fit of petulance, I remodelled them thus: “I am safe—I am
+safe—yes—if I be not fool enough to make open confession!”
 
       No sooner had I spoken these words, than I felt an icy chill
       creep to my heart. I had had some experience in these fits of
@@ -5440,9 +5334,7 @@ THE IMP OF THE PERVERSE
       conviction, I fell prostrate in a swoon.
 
       But why shall I say more? To-day I wear these chains, and am
-      _here!_ To-morrow I shall be fetterless!—_but where?_
-
-
+_here!_ To-morrow I shall be fetterless!—_but where?_
 
 
 THE ISLAND OF THE FAY
@@ -5574,8 +5466,8 @@ Nullus enim locus sine genio est.—_Servius_.
       seemed a deep sense of life and joy about all; and although no
       airs blew from out the heavens, yet every thing had motion
       through the gentle sweepings to and fro of innumerable
-      butterflies, that might have been mistaken for tulips with wings.
-      (*4)
+butterflies, that might have been mistaken for tulips with wings.
+(*4)
 
       The other or eastern end of the isle was whelmed in the blackest
       shade. A sombre, yet beautiful and peaceful gloom here pervaded
@@ -5647,16 +5539,13 @@ Nullus enim locus sine genio est.—_Servius_.
       more.
 
 
-
-
 THE ASSIGNATION
 
 
      Stay for me there! I will not fail.
      To meet thee in that hollow vale.
 
-(_Exequy on the death of his wife, by Henry King, Bishop of
-Chichester_.)
+(_Exequy on the death of his wife, by Henry King, Bishop of Chichester_.)
 
       Ill-fated and mysterious man!—bewildered in the brilliancy of
       thine own imagination, and fallen in the flames of thine own
@@ -5797,9 +5686,9 @@ Chichester_.)
       as Mentoni turned into the palace, accidentally, upon the hand of
       the stranger. What reason could there have been for the low—the
       singularly low tone of those unmeaning words which the lady
-      uttered hurriedly in bidding him adieu? “Thou hast conquered,”
-      she said, or the murmurs of the water deceived me; “thou hast
-      conquered—one hour after sunrise—we shall meet—so let it be!”
+uttered hurriedly in bidding him adieu? “Thou hast conquered,”
+she said, or the murmurs of the water deceived me; “thou hast
+conquered—one hour after sunrise—we shall meet—so let it be!”
 
       The tumult had subsided, the lights had died away within the
       palace, and the stranger, whom I now recognized, stood alone upon
@@ -5907,10 +5796,10 @@ Chichester_.)
       alteration of voice and manner, “I have no right to be merry at
       your expense. You might well have been amazed. Europe cannot
       produce anything so fine as this, my little regal cabinet. My
-      other apartments are by no means of the same order—mere _ultras_
-      of fashionable insipidity. This is better than fashion—is it not?
-      Yet this has but to be seen to become the rage—that is, with
-      those who could afford it at the cost of their entire patrimony.
+other apartments are by no means of the same order—mere _ultras_
+of fashionable insipidity. This is better than fashion—is it not?
+Yet this has but to be seen to become the rage—that is, with
+those who could afford it at the cost of their entire patrimony.
       I have guarded, however, against any such profanation. With one
       exception, you are the only human being besides myself and my
       _valet_, who has been admitted within the mysteries of these
@@ -6014,8 +5903,7 @@ Mute—motionless—aghast!
 For alas!  alas!  with me
     The light of life is o’er.
 “No more—no more—no more,”
-    (Such language holds the solemn sea
-To the sands upon the shore,)
+(Such language holds the solemn sea To the sands upon the shore,)
     Shall bloom the thunder-blasted tree,
 Or the stricken eagle soar!
 
@@ -6053,29 +5941,12 @@ From me, and from our misty clime,
       improbabilities,) that the person of whom I speak, was not only
       by birth, but in education, an _Englishman_.
 
-“There is one painting,” said he, without being aware of my notice of
-the tragedy—“there is still one painting which you have not seen.” And
-throwing aside a drapery, he discovered a full-length portrait of the
+“There is one painting,” said he, without being aware of my notice of the tragedy—“there is still one painting which you have not seen.” And throwing aside a drapery, he discovered a full-length portrait of the
 Marchesa Aphrodite.
 
-Human art could have done no more in the delineation of her superhuman
-beauty. The same ethereal figure which stood before me the preceding
-night upon the steps of the Ducal Palace, stood before me once again.
-But in the expression of the countenance, which was beaming all over
-with smiles, there still lurked (incomprehensible anomaly!) that fitful
-stain of melancholy which will ever be found inseparable from the
-perfection of the beautiful. Her right arm lay folded over her bosom.
-With her left she pointed downward to a curiously fashioned vase. One
-small, fairy foot, alone visible, barely touched the earth; and,
-scarcely discernible in the brilliant atmosphere which seemed to
-encircle and enshrine her loveliness, floated a pair of the most
-delicately imagined wings. My glance fell from the painting to the
-figure of my friend, and the vigorous words of Chapman’s _Bussy
-D’Ambois_, quivered instinctively upon my lips:
+Human art could have done no more in the delineation of her superhuman beauty. The same ethereal figure which stood before me the preceding night upon the steps of the Ducal Palace, stood before me once again. But in the expression of the countenance, which was beaming all over with smiles, there still lurked (incomprehensible anomaly!) that fitful stain of melancholy which will ever be found inseparable from the perfection of the beautiful. Her right arm lay folded over her bosom. With her left she pointed downward to a curiously fashioned vase. One small, fairy foot, alone visible, barely touched the earth; and, scarcely discernible in the brilliant atmosphere which seemed to encircle and enshrine her loveliness, floated a pair of the most delicately imagined wings. My glance fell from the painting to the figure of my friend, and the vigorous words of Chapman’s _Bussy D’Ambois_, quivered instinctively upon my lips:
 
-    “He is up
-There like a Roman statue!  He will stand
-Till Death hath made him marble!”
+“He is up There like a Roman statue!  He will stand Till Death hath made him marble!”
 
       “Come,” he said at length, turning towards a table of richly
       enamelled and massive silver, upon which were a few goblets
@@ -6100,11 +5971,11 @@ Till Death hath made him marble!”
       behold around you, it is true, a medley of architectural
       embellishments. The chastity of Ionia is offended by antediluvian
       devices, and the sphynxes of Egypt are outstretched upon carpets
-      of gold. Yet the effect is incongruous to the timid alone.
-      Proprieties of place, and especially of time, are the bugbears
-      which terrify mankind from the contemplation of the magnificent.
-      Once I was myself a decorist; but that sublimation of folly has
-      palled upon my soul. All this is now the fitter for my purpose.
+of gold. Yet the effect is incongruous to the timid alone.
+Proprieties of place, and especially of time, are the bugbears
+which terrify mankind from the contemplation of the magnificent.
+Once I was myself a decorist; but that sublimation of folly has
+palled upon my soul. All this is now the fitter for my purpose.
       Like these arabesque censers, my spirit is writhing in fire, and
       the delirium of this scene is fashioning me for the wilder
       visions of that land of real dreams whither I am now rapidly
@@ -6131,9 +6002,7 @@ Till Death hath made him marble!”
       were rigid—his lips were livid—his lately beaming eyes were
       riveted in _death_. I staggered back towards the table—my hand
       fell upon a cracked and blackened goblet—and a consciousness of
-      the entire and terrible truth flashed suddenly over my soul.
-
-
+the entire and terrible truth flashed suddenly over my soul.
 
 
 THE PIT AND THE PENDULUM
@@ -6144,8 +6013,7 @@ THE PIT AND THE PENDULUM
      Sospite nunc patria, fracto nunc funeris antro,
      Mors ubi dira fuit vita salusque patent.
 
-[_Quatrain composed for the gates of a market to be erected upon the
-site of the Jacobin Club House at Paris_.]
+[_Quatrain composed for the gates of a market to be erected upon the site of the Jacobin Club House at Paris_.]
 
       I was sick—sick unto death with that long agony; and when they at
       length unbound me, and I was permitted to sit, I felt that my
@@ -6739,8 +6607,6 @@ site of the Jacobin Club House at Paris_.]
       Inquisition was in the hands of its enemies.
 
 
-
-
 THE PREMATURE BURIAL
 
 
@@ -7102,8 +6968,8 @@ THE PREMATURE BURIAL
       dreams, I select for record but a solitary vision. Methought I
       was immersed in a cataleptic trance of more than usual duration
       and profundity. Suddenly there came an icy hand upon my forehead,
-      and an impatient, gibbering voice whispered the word “Arise!”
-      within my ear.
+and an impatient, gibbering voice whispered the word “Arise!”
+within my ear.
 
       I sat erect. The darkness was total. I could not see the figure
       of him who had aroused me. I could call to mind neither the
@@ -7261,11 +7127,11 @@ THE PREMATURE BURIAL
       shriek, or yell of agony, resounded through the realms of the
       subterranean Night.
 
-      “Hillo! hillo, there!” said a gruff voice, in reply.
+“Hillo! hillo, there!” said a gruff voice, in reply.
 
-      “What the devil’s the matter now!” said a second.
+“What the devil’s the matter now!” said a second.
 
-      “Get out o’ that!” said a third.
+“Get out o’ that!” said a third.
 
       “What do you mean by yowling in that ere kind of style, like a
       cattymount?” said a fourth; and hereupon I was seized and shaken
@@ -7300,10 +7166,10 @@ THE PREMATURE BURIAL
       The tortures endured, however, were indubitably quite equal for
       the time, to those of actual sepulture. They were fearfully—they
       were inconceivably hideous; but out of Evil proceeded Good; for
-      their very excess wrought in my spirit an inevitable revulsion.
-      My soul acquired tone—acquired temper. I went abroad. I took
-      vigorous exercise. I breathed the free air of Heaven. I thought
-      upon other subjects than Death. I discarded my medical books.
+their very excess wrought in my spirit an inevitable revulsion.
+My soul acquired tone—acquired temper. I went abroad. I took
+vigorous exercise. I breathed the free air of Heaven. I thought
+upon other subjects than Death. I discarded my medical books.
       “Buchan” I burned. I read no “Night Thoughts”—no fustian about
       churchyards—no bugaboo tales—such as this. In short, I became a
       new man, and lived a man’s life. From that memorable night, I
@@ -7321,20 +7187,17 @@ THE PREMATURE BURIAL
       or we perish.
 
 
-
-
 THE DOMAIN OF ARNHEIM
 
 
 The garden like a lady fair was cut,
-    That lay as if she slumbered in delight,
-And to the open skies her eyes did shut.
+That lay as if she slumbered in delight, And to the open skies her eyes did shut.
     The azure fields of Heaven were ’sembled right
     In a large round, set with the flowers of light.
 The flowers de luce, and the round sparks of dew
 That hung upon their azure leaves did shew
 Like twinkling stars that sparkle in the evening blue.
-                    —_Giles Fletcher_.
+—_Giles Fletcher_.
 
       From his cradle to his grave a gale of prosperity bore my friend
       Ellison along. Nor do I use the word prosperity in its mere
@@ -7923,8 +7786,6 @@ Like twinkling stars that sparkle in the evening blue.
       Genii and of the Gnomes.
 
 
-
-
 LANDOR’S COTTAGE
 
 
@@ -8422,9 +8283,7 @@ A Pendant to “The Domain of Arnheim”
       It is not the purpose of this work to do more than give in
       detail, a picture of Mr. Landor’s residence—as I found it. How he
       made it what it was—and why—with some particulars of Mr. Landor
-      himself—may, possibly form the subject of another article.
-
-
+himself—may, possibly form the subject of another article.
 
 
 WILLIAM WILSON
@@ -9248,17 +9107,15 @@ WILLIAM WILSON
       own, how utterly thou hast murdered thyself.”_
 
 
-
-
 THE TELL-TALE HEART.
 
 
       True!—nervous—very, very dreadfully nervous I had been and am;
       but why will you say that I am mad? The disease had sharpened my
       senses—not destroyed—not dulled them. Above all was the sense of
-      hearing acute. I heard all things in the heaven and in the earth.
-      I heard many things in hell. How, then, am I mad? Hearken! and
-      observe how healthily—how calmly I can tell you the whole story.
+hearing acute. I heard all things in the heaven and in the earth.
+I heard many things in hell. How, then, am I mad? Hearken! and
+observe how healthily—how calmly I can tell you the whole story.
 
       It is impossible to say how first the idea entered my brain; but
       once conceived, it haunted me day and night. Object there was
@@ -9383,12 +9240,12 @@ THE TELL-TALE HEART.
       heard through the wall. At length it ceased. The old man was
       dead. I removed the bed and examined the corpse. Yes, he was
       stone, stone dead. I placed my hand upon the heart and held it
-      there many minutes. There was no pulsation. He was stone dead.
-      His eye would trouble me no more.
+there many minutes. There was no pulsation. He was stone dead.
+His eye would trouble me no more.
 
-      If still you think me mad, you will think so no longer when I
-      describe the wise precautions I took for the concealment of the
-      body. The night waned, and I worked hastily, but in silence.
+If still you think me mad, you will think so no longer when I
+describe the wise precautions I took for the concealment of the
+body. The night waned, and I worked hastily, but in silence.
       First of all I dismembered the corpse. I cut off the head and the
       arms and the legs.
 
@@ -9455,8 +9312,6 @@ THE TELL-TALE HEART.
       “Villains!” I shrieked, “dissemble no more! I admit the
       deed!—tear up the planks!—here, here!—It is the beating of his
       hideous heart!”
-
-
 
 
 BERENICE
@@ -9555,10 +9410,10 @@ BERENICE
       metaphysical science termed the _attentive_. It is more than
       probable that I am not understood; but I fear, indeed, that it is
       in no manner possible to convey to the mind of the merely general
-      reader, an adequate idea of that nervous _intensity of interest_
-      with which, in my case, the powers of meditation (not to speak
-      technically) busied and buried themselves, in the contemplation
-      of even the most ordinary objects of the universe.
+reader, an adequate idea of that nervous _intensity of interest_
+with which, in my case, the powers of meditation (not to speak
+technically) busied and buried themselves, in the contemplation
+of even the most ordinary objects of the universe.
 
       To muse for long unwearied hours, with my attention riveted to
       some frivolous device on the margin, or in the typography of a
@@ -9787,8 +9642,6 @@ BERENICE
       and fro about the floor.
 
 
-
-
 ELEONORA
 
 
@@ -9947,9 +9800,9 @@ ELEONORA
       thing were, indeed, beyond the power of the souls in Paradise,
       that she would, at least, give me frequent indications of her
       presence, sighing upon me in the evening winds, or filling the
-      air which I breathed with perfume from the censers of the angels.
-      And, with these words upon her lips, she yielded up her innocent
-      life, putting an end to the first epoch of my own.
+air which I breathed with perfume from the censers of the angels.
+And, with these words upon her lips, she yielded up her innocent
+life, putting an end to the first epoch of my own.
 
       Thus far I have faithfully said. But as I pass the barrier in
       Time’s path, formed by the death of my beloved, and proceed with
@@ -10029,14 +9882,12 @@ ELEONORA
       Heaven, of thy vows unto Eleonora.”
 
 
-
-
 NOTES TO THE SECOND VOLUME
 
 
 Notes — Scheherazade
 
-      (*1) The coralites.
+(*1) The coralites.
 
       (*2) “One of the most remarkable natural curiosities in Texas is
       a petrified forest, near the head of Pasigno river. It consists
@@ -10078,11 +9929,11 @@ Notes — Scheherazade
       finer portions of the centre of the wood, are perfectly entire,
       and bear to be examined with the strongest magnifiers. The whole
       are so thoroughly silicified as to scratch glass and are capable
-      of receiving the highest polish.— _Asiatic Magazine_.
+of receiving the highest polish.— _Asiatic Magazine_.
 
-      (*3) The Mammoth Cave of Kentucky.
+(*3) The Mammoth Cave of Kentucky.
 
-      (*4) In Iceland, 1783.
+(*4) In Iceland, 1783.
 
       (*5) “During the eruption of Hecla, in 1766, clouds of this kind
       produced such a degree of darkness that, at Glaumba, which is
@@ -10107,7 +9958,7 @@ Notes — Scheherazade
       a blowpipe, be reduced to an impalpable powder, which will float
       readily in the atmospheric air.
 
-      (*8) The region of the Niger. See Simmona’s _Colonial Magazine_.
+(*8) The region of the Niger. See Simmona’s _Colonial Magazine_.
 
       (*9) The _Myrmeleon_—lion-ant. The term “monster” is equally
       applicable to small abnormal things and to great, while such
@@ -10137,12 +9988,12 @@ Notes — Scheherazade
       trees until it reaches the root, and dies, or remains dormant,
       and the plant propagates out of its head; the body remains
       perfect and entire, of a harder substance than when alive. From
-      this insect the natives make a coloring for tattooing.
+this insect the natives make a coloring for tattooing.
 
-      (*13) In mines and natural caves we find a species of
-      cryptogamous _fungus_ that emits an intense phosphorescence.
+(*13) In mines and natural caves we find a species of
+cryptogamous _fungus_ that emits an intense phosphorescence.
 
-      (*14) The orchis, scabius and valisneria.
+(*14) The orchis, scabius and valisneria.
 
       (*15) The corolla of this flower (_Aristolochia Clematitis_),
       which is tubular, but terminating upwards in a ligulate limb, is
@@ -10166,8 +10017,8 @@ Notes — Scheherazade
       the stigma, it covers it with pollen sufficient for its
       impregnation, in consequence of which the flower soon begins to
       droop, and the hairs to shrink to the sides of the tube,
-      effecting an easy passage for the escape of the insect.”—_Rev. P.
-      Keith-System of Physiological Botany_.
+effecting an easy passage for the escape of the insect.”—_Rev. P.
+Keith-System of Physiological Botany_.
 
       (*16) The bees—ever since bees were—have been constructing their
       cells with just such sides, in just such number, and at just such
@@ -10205,23 +10056,23 @@ Notes — Scheherazade
       men.”—See Wyatt’s Physiology, p. 143.
 
       (*20) On the Great Western Railway, between London and Exeter, a
-      speed of 71 miles per hour has been attained. A train weighing 90
-      tons was whirled from Paddington to Didcot (53 miles) in 51
-      minutes.
+speed of 71 miles per hour has been attained. A train weighing 90
+tons was whirled from Paddington to Didcot (53 miles) in 51
+minutes.
 
-      (*21) The _Eccalobeion_
+(*21) The _Eccalobeion_
 
-      (*22) Mäelzel’s Automaton Chess-player.
+(*22) Mäelzel’s Automaton Chess-player.
 
-      (*23) Babbage’s Calculating Machine.
+(*23) Babbage’s Calculating Machine.
 
-      (*24) _Chabert_, and since him, a hundred others.
+(*24) _Chabert_, and since him, a hundred others.
 
-      (*25) The Electrotype.
+(*25) The Electrotype.
 
-      (*26) _Wollaston_ made of platinum for the field of views in a
-      telescope a wire one eighteen-thousandth part of an inch in
-      thickness. It could be seen only by means of the microscope.
+(*26) _Wollaston_ made of platinum for the field of views in a
+telescope a wire one eighteen-thousandth part of an inch in
+thickness. It could be seen only by means of the microscope.
 
       (*27) Newton demonstrated that the retina beneath the influence
       of the violet ray of the spectrum, vibrated 900,000,000 of times
@@ -10261,9 +10112,9 @@ Notes — Scheherazade
       and so rapid is its progress, that the caloric of the water
       passes off with it, which falls a lump of ice to the bottom; by
       taking advantage of the moment before it is allowed to remelt, it
-      may be turned out a lump of ice from a red-hot vessel.
+may be turned out a lump of ice from a red-hot vessel.
 
-      (*33) The Daguerreotype.
+(*33) The Daguerreotype.
 
       (*34) Although light travels 167,000 miles in a second, the
       distance of 61 Cygni (the only star whose distance is
@@ -10278,7 +10129,7 @@ Notes — Scheherazade
 
 Notes—Maelstrom
 
-      (*1) See Archimedes, “_De Incidentibus in Fluido_.”—lib. 2.
+(*1) See Archimedes, “_De Incidentibus in Fluido_.”—lib. 2.
 
 Notes—Island of the Fay
 
@@ -10290,7 +10141,7 @@ Notes—Island of the Fay
 
       (*3) Balzac—in substance—I do not remember the words
 
-      (*4) Florem putares nare per liquidum aethera.—P. Commire.
+(*4) Florem putares nare per liquidum aethera.—P. Commire.
 
 Notes — Domain of Arnheim
 
@@ -10313,6 +10164,3 @@ Notes—Berenice
       (*1) For as Jove, during the winter season, gives twice seven
       days of warmth, men have called this element and temperate time
       the nurse of the beautiful Halcyon—_Simonides_
-
-
-*** END OF THE PROJECT GUTENBERG EBOOK 2148 ***

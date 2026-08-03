@@ -1,18 +1,6 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 136 ***
-
-**********************************************************************
 THIS EBOOK WAS ONE OF PROJECT GUTENBERG'S EARLY FILES PRODUCED AT A
 TIME WHEN PROOFING METHODS AND TOOLS WERE NOT WELL DEVELOPED. THERE IS
 AN IMPROVED EDITION OF THIS TITLE WHICH MAY BE VIEWED AT EBOOK (#28722)
-**********************************************************************
-
-
-
-
-
-
-
-
 
 
 A Child's Garden of Verses
@@ -22,11 +10,9 @@ by
 Robert Louis Stevenson
 
 
+To Alison Cunningham
 
-
-  To Alison Cunningham
-
-  From Her Boy
+From Her Boy
 
 
   For the long nights you lay awake
@@ -53,11 +39,9 @@ Robert Louis Stevenson
                                  R. L. S.
 
 
+Contents
 
-
-                                         Contents
-
-  To Alison Cunningham
+To Alison Cunningham
 
          I   Bed in Summer
         II   A Thought
@@ -105,9 +89,7 @@ Robert Louis Stevenson
                 3.  In Port
 
 
-
-
-                                      The Child Alone
+The Child Alone
 
       I   The Unseen Playmate
      II   My Ship and I
@@ -120,9 +102,7 @@ Robert Louis Stevenson
      IX   The Little Land
 
 
-
-
-                                        Garden Days
+Garden Days
 
       I   Night and Day
      II   Nest Eggs
@@ -134,7 +114,7 @@ Robert Louis Stevenson
    VIII   Historical Associations
 
 
-                                          Envoys
+Envoys
 
       I   To Willie and Henrietta
      II   To My Mother
@@ -144,9 +124,7 @@ Robert Louis Stevenson
      VI   To Any Reader
 
 
-
-                                A Child's Garden of Verses
-
+A Child's Garden of Verses
 
 
                                              I
@@ -246,7 +224,7 @@ Robert Louis Stevenson
   Hi!  but here's a squadron a-rowing on the sea--
        Cattle on the meadow a-charging with a roar!
   Quick, and we'll escape them, they're as mad as they can be,
-       The wicket is the harbour and the garden is the shore.
+The wicket is the harbour and the garden is the shore.
 
 
                                            VIII
@@ -474,9 +452,9 @@ Robert Louis Stevenson
                                          My Shadow
 
   I have a little shadow that goes in and out with me,
-  And what can be the use of him is more than I can see.
-  He is very, very like me from the heels up to the head;
-  And I see him jump before me, when I jump into my bed.
+And what can be the use of him is more than I can see.
+He is very, very like me from the heels up to the head;
+And I see him jump before me, when I jump into my bed.
 
   The funniest thing about him is the way he likes to grow--
   Not at all like proper children, which is always very slow;
@@ -491,7 +469,7 @@ Robert Louis Stevenson
   One morning, very early, before the sun was up,
   I rose and found the shining dew on every buttercup;
   But my lazy little shadow, like an arrant sleepy-head,
-  Had stayed at home behind me and was fast asleep in bed.
+Had stayed at home behind me and was fast asleep in bed.
 
 
                                             XIX
@@ -518,13 +496,13 @@ Robert Louis Stevenson
   And I am very happy, for I know that I've been good.
 
   My bed is waiting cool and fresh, with linen smooth and fair,
-  And I must be off to sleepsin-by, and not forget my prayer.
+And I must be off to sleepsin-by, and not forget my prayer.
 
-  I know that, till to-morrow I shall see the sun arise,
-  No ugly dream shall fright my mind, no ugly sight my eyes.
+I know that, till to-morrow I shall see the sun arise,
+No ugly dream shall fright my mind, no ugly sight my eyes.
 
-  But slumber hold me tightly till I waken in the dawn,
-  And hear the thrushes singing in the lilacs round the lawn.
+But slumber hold me tightly till I waken in the dawn,
+And hear the thrushes singing in the lilacs round the lawn.
 
 
                                             XXI
@@ -995,7 +973,7 @@ Robert Louis Stevenson
   Till far to-morrow, fare you well!
 
 
-                                      2. Shadow March
+2. Shadow March
 
   All around the house is the jet-black night;
        It stares through the window-pane;
@@ -1013,7 +991,7 @@ Robert Louis Stevenson
        With the black night overhead.
 
 
-                                        3. In Port
+3. In Port
 
   Last, to the chamber where I lie
   My fearful footsteps patter nigh,
@@ -1031,9 +1009,7 @@ Robert Louis Stevenson
   And in the land of Nod at last.
 
 
-
-
-                                      THE CHILD ALONE
+THE CHILD ALONE
 
 
                                              I
@@ -1349,9 +1325,7 @@ Robert Louis Stevenson
   Late at night to go to bed.
 
 
-
-
-                                        Garden Days
+Garden Days
 
 
                                              I
@@ -1629,9 +1603,7 @@ Robert Louis Stevenson
   Was bound by an enchanter's spell.
 
 
-
-
-                                          ENVOYS
+ENVOYS
 
 
                                              I
@@ -1749,11 +1721,9 @@ Robert Louis Stevenson
   These rhymes for old acquaintance' sake!
 
 
-
                                              V
                                      To My Name-Child
 
-                                             1
 
   Some day soon this rhyming volume, if you learn with proper speed,
   Little Louis Sanchez, will be given you to read.
@@ -1770,8 +1740,6 @@ Robert Louis Stevenson
   Other children questioned, in their homes across the seas:
   Who was little Louis, won't you tell us, mother, please?
 
-
-                                             2
 
   Now that you have spelt your lesson, lay it down and go and play,
   Seeking shells and seaweed on the sands of Monterey,
@@ -1805,15 +1773,4 @@ Robert Louis Stevenson
   That lingers in the garden there.
 
 
-
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of A Child's Garden of Verses, by
-Robert Louis Stevenson
-
-*** END OF THE PROJECT GUTENBERG EBOOK 136 ***
+End of the Project Gutenberg EBook of A Child's Garden of Verses, by Robert Louis Stevenson

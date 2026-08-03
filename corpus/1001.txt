@@ -1,5 +1,3 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 1001 ***
-
 The Divine Comedy
 
 of Dante Alighieri
@@ -11,42 +9,7 @@ INFERNO
 
 Contents
 
-Canto I. The Dark Forest. The Hill of Difficulty. The Panther, the Lion, and the Wolf. Virgil.
-Canto II. The Descent. Dante’s Protest and Virgil’s Appeal. The Intercession of the Three Ladies Benedight.
-Canto III. The Gate of Hell. The Inefficient or Indifferent. Pope Celestine V. The Shores of Acheron. Charon. The Earthquake and the Swoon.
-Canto IV. The First Circle, Limbo: Virtuous Pagans and the Unbaptized. The Four Poets, Homer, Horace, Ovid, and Lucan. The Noble Castle of Philosophy.
-Canto V. The Second Circle: The Wanton. Minos. The Infernal Hurricane. Francesca da Rimini.
-Canto VI. The Third Circle: The Gluttonous. Cerberus. The Eternal Rain. Ciacco. Florence.
-Canto VII. The Fourth Circle: The Avaricious and the Prodigal. Plutus. Fortune and her Wheel. The Fifth Circle: The Irascible and the Sullen. Styx.
-Canto VIII. Phlegyas. Philippo Argenti. The Gate of the City of Dis.
-Canto IX. The Furies and Medusa. The Angel. The City of Dis. The Sixth Circle: Heresiarchs.
-Canto X. Farinata and Cavalcante de’ Cavalcanti. Discourse on the Knowledge of the Damned.
-Canto XI. The Broken Rocks. Pope Anastasius. General Description of the Inferno and its Divisions.
-Canto XII. The Minotaur. The Seventh Circle: The Violent. The River Phlegethon. The Violent against their Neighbours. The Centaurs. Tyrants.
-Canto XIII. The Wood of Thorns. The Harpies. The Violent against themselves. Suicides. Pier della Vigna. Lano and Jacopo da Sant’ Andrea.
-Canto XIV. The Sand Waste and the Rain of Fire. The Violent against God. Capaneus. The Statue of Time, and the Four Infernal Rivers.
-Canto XV. The Violent against Nature. Brunetto Latini.
-Canto XVI. Guidoguerra, Aldobrandi, and Rusticucci. Cataract of the River of Blood.
-Canto XVII. Geryon. The Violent against Art. Usurers. Descent into the Abyss of Malebolge.
-Canto XVIII. The Eighth Circle, Malebolge: The Fraudulent and the Malicious. The First Bolgia: Seducers and Panders. Venedico Caccianimico. Jason. The Second Bolgia: Flatterers. Allessio Interminelli. Thais.
-Canto XIX. The Third Bolgia: Simoniacs. Pope Nicholas III. Dante’s Reproof of corrupt Prelates.
-Canto XX. The Fourth Bolgia: Soothsayers. Amphiaraus, Tiresias, Aruns, Manto, Eryphylus, Michael Scott, Guido Bonatti, and Asdente. Virgil reproaches Dante’s Pity. Mantua’s Foundation.
-Canto XXI. The Fifth Bolgia: Peculators. The Elder of Santa Zita. Malacoda and other Devils.
-Canto XXII. Ciampolo, Friar Gomita, and Michael Zanche. The Malabranche quarrel.
-Canto XXIII. Escape from the Malabranche. The Sixth Bolgia: Hypocrites. Catalano and Loderingo. Caiaphas.
-Canto XXIV. The Seventh Bolgia: Thieves. Vanni Fucci. Serpents.
-Canto XXV. Vanni Fucci’s Punishment. Agnello Brunelleschi, Buoso degli Abati, Puccio Sciancato, Cianfa de’ Donati, and Guercio Cavalcanti.
-Canto XXVI. The Eighth Bolgia: Evil Counsellors. Ulysses and Diomed. Ulysses’ Last Voyage.
-Canto XXVII. Guido da Montefeltro. His deception by Pope Boniface VIII.
-Canto XXVIII. The Ninth Bolgia: Schismatics. Mahomet and Ali. Pier da Medicina, Curio, Mosca, and Bertrand de Born.
-Canto XXIX. Geri del Bello. The Tenth Bolgia: Alchemists. Griffolino d’ Arezzo and Capocchino.
-Canto XXX. Other Falsifiers or Forgers. Gianni Schicchi, Myrrha, Adam of Brescia, Potiphar’s Wife, and Sinon of Troy.
-Canto XXXI. The Giants, Nimrod, Ephialtes, and Antaeus. Descent to Cocytus.
-Canto XXXII. The Ninth Circle: Traitors. The Frozen Lake of Cocytus. First Division, Caina: Traitors to their Kindred. Camicion de’ Pazzi. Second Division, Antenora: Traitors to their Country. Dante questions Bocca degli Abati. Buoso da Duera.
-Canto XXXIII. Count Ugolino and the Archbishop Ruggieri. The Death of Count Ugolino’s Sons. Third Division of the Ninth Circle, Ptolomaea: Traitors to their Friends. Friar Alberigo, Branco d’ Oria.
-Canto XXXIV. Fourth Division of the Ninth Circle, the Judecca: Traitors to their Lords and Benefactors. Lucifer, Judas Iscariot, Brutus, and Cassius. The Chasm of Lethe. The Ascent.
-
-
+Canto I. The Dark Forest. The Hill of Difficulty. The Panther, the Lion, and the Wolf. Virgil. Canto II. The Descent. Dante’s Protest and Virgil’s Appeal. The Intercession of the Three Ladies Benedight. Canto III. The Gate of Hell. The Inefficient or Indifferent. Pope Celestine V. The Shores of Acheron. Charon. The Earthquake and the Swoon. Canto IV. The First Circle, Limbo: Virtuous Pagans and the Unbaptized. The Four Poets, Homer, Horace, Ovid, and Lucan. The Noble Castle of Philosophy. Canto V. The Second Circle: The Wanton. Minos. The Infernal Hurricane. Francesca da Rimini. Canto VI. The Third Circle: The Gluttonous. Cerberus. The Eternal Rain. Ciacco. Florence. Canto VII. The Fourth Circle: The Avaricious and the Prodigal. Plutus. Fortune and her Wheel. The Fifth Circle: The Irascible and the Sullen. Styx. Canto VIII. Phlegyas. Philippo Argenti. The Gate of the City of Dis. Canto IX. The Furies and Medusa. The Angel. The City of Dis. The Sixth Circle: Heresiarchs. Canto X. Farinata and Cavalcante de’ Cavalcanti. Discourse on the Knowledge of the Damned. Canto XI. The Broken Rocks. Pope Anastasius. General Description of the Inferno and its Divisions. Canto XII. The Minotaur. The Seventh Circle: The Violent. The River Phlegethon. The Violent against their Neighbours. The Centaurs. Tyrants. Canto XIII. The Wood of Thorns. The Harpies. The Violent against themselves. Suicides. Pier della Vigna. Lano and Jacopo da Sant’ Andrea. Canto XIV. The Sand Waste and the Rain of Fire. The Violent against God. Capaneus. The Statue of Time, and the Four Infernal Rivers. Canto XV. The Violent against Nature. Brunetto Latini. Canto XVI. Guidoguerra, Aldobrandi, and Rusticucci. Cataract of the River of Blood. Canto XVII. Geryon. The Violent against Art. Usurers. Descent into the Abyss of Malebolge. Canto XVIII. The Eighth Circle, Malebolge: The Fraudulent and the Malicious. The First Bolgia: Seducers and Panders. Venedico Caccianimico. Jason. The Second Bolgia: Flatterers. Allessio Interminelli. Thais. Canto XIX. The Third Bolgia: Simoniacs. Pope Nicholas III. Dante’s Reproof of corrupt Prelates. Canto XX. The Fourth Bolgia: Soothsayers. Amphiaraus, Tiresias, Aruns, Manto, Eryphylus, Michael Scott, Guido Bonatti, and Asdente. Virgil reproaches Dante’s Pity. Mantua’s Foundation. Canto XXI. The Fifth Bolgia: Peculators. The Elder of Santa Zita. Malacoda and other Devils. Canto XXII. Ciampolo, Friar Gomita, and Michael Zanche. The Malabranche quarrel. Canto XXIII. Escape from the Malabranche. The Sixth Bolgia: Hypocrites. Catalano and Loderingo. Caiaphas. Canto XXIV. The Seventh Bolgia: Thieves. Vanni Fucci. Serpents. Canto XXV. Vanni Fucci’s Punishment. Agnello Brunelleschi, Buoso degli Abati, Puccio Sciancato, Cianfa de’ Donati, and Guercio Cavalcanti. Canto XXVI. The Eighth Bolgia: Evil Counsellors. Ulysses and Diomed. Ulysses’ Last Voyage. Canto XXVII. Guido da Montefeltro. His deception by Pope Boniface VIII. Canto XXVIII. The Ninth Bolgia: Schismatics. Mahomet and Ali. Pier da Medicina, Curio, Mosca, and Bertrand de Born. Canto XXIX. Geri del Bello. The Tenth Bolgia: Alchemists. Griffolino d’ Arezzo and Capocchino. Canto XXX. Other Falsifiers or Forgers. Gianni Schicchi, Myrrha, Adam of Brescia, Potiphar’s Wife, and Sinon of Troy. Canto XXXI. The Giants, Nimrod, Ephialtes, and Antaeus. Descent to Cocytus. Canto XXXII. The Ninth Circle: Traitors. The Frozen Lake of Cocytus. First Division, Caina: Traitors to their Kindred. Camicion de’ Pazzi. Second Division, Antenora: Traitors to their Country. Dante questions Bocca degli Abati. Buoso da Duera. Canto XXXIII. Count Ugolino and the Archbishop Ruggieri. The Death of Count Ugolino’s Sons. Third Division of the Ninth Circle, Ptolomaea: Traitors to their Friends. Friar Alberigo, Branco d’ Oria. Canto XXXIV. Fourth Division of the Ninth Circle, the Judecca: Traitors to their Lords and Benefactors. Lucifer, Judas Iscariot, Brutus, and Cassius. The Chasm of Lethe. The Ascent.
 
 
 Inferno: Canto I
@@ -233,8 +196,6 @@ Thou wouldst conduct me there where thou hast said,
     And those thou makest so disconsolate.”
 
 Then he moved on, and I behind him followed.
-
-
 
 
 Inferno: Canto II
@@ -431,8 +392,6 @@ Now go, for one sole will is in us both,
 I entered on the deep and savage way.
 
 
-
-
 Inferno: Canto III
 
 
@@ -617,8 +576,6 @@ The land of tears gave forth a blast of wind,
     Which overmastered in me every sense,
 
 And as a man whom sleep hath seized I fell.
-
-
 
 
 Inferno: Canto IV
@@ -827,8 +784,6 @@ The sixfold company in two divides;
 And to a place I come where nothing shines.
 
 
-
-
 Inferno: Canto V
 
 
@@ -1023,8 +978,6 @@ And all the while one spirit uttered this,
 And fell, even as a dead body falls.
 
 
-
-
 Inferno: Canto VI
 
 
@@ -1181,8 +1134,6 @@ Round in a circle by that road we went,
     We came unto the point where the descent is;
 
 There we found Plutus the great enemy.
-
-
 
 
 Inferno: Canto VII
@@ -1363,8 +1314,6 @@ Thus we went circling round the filthy fen
 Unto the foot of a tower we came at last.
 
 
-
-
 Inferno: Canto VIII
 
 
@@ -1541,8 +1490,6 @@ O’er it didst thou behold the dead inscription;
     Passing across the circles without escort,
 
 One by whose means the city shall be opened.”
-
-
 
 
 Inferno: Canto IX
@@ -1725,8 +1672,6 @@ Here like together with its like is buried;
     And when he to the right had turned, we passed
 
 Between the torments and high parapets.
-
-
 
 
 Inferno: Canto X
@@ -1915,8 +1860,6 @@ Unto the left hand then he turned his feet;
 Which even up there unpleasant made its stench.
 
 
-
-
 Inferno: Canto XI
 
 
@@ -1941,8 +1884,8 @@ The Master thus; and unto him I said,
     Idly;” and he: “Thou seest I think of that.
 
 My son, upon the inside of these rocks,”
-    Began he then to say, “are three small circles,
-    From grade to grade, like those which thou art leaving.
+Began he then to say, “are three small circles,
+From grade to grade, like those which thou art leaving.
 
 They all are full of spirits maledict;
     But that hereafter sight alone suffice thee,
@@ -2073,8 +2016,6 @@ But follow, now, as I would fain go on,
     And the Wain wholly over Caurus lies,
 
 And far beyond there we descend the crag.”
-
-
 
 
 Inferno: Canto XII
@@ -2267,8 +2208,6 @@ The tears which with the boiling it unseals
 Then back he turned, and passed again the ford.
 
 
-
-
 Inferno: Canto XIII
 
 
@@ -2377,8 +2316,8 @@ And to the world if one of you return,
     Still prostrate from the blow that envy dealt it.”
 
 Waited awhile, and then: “Since he is silent,”
-    The Poet said to me, “lose not the time,
-    But speak, and question him, if more may please thee.”
+The Poet said to me, “lose not the time,
+But speak, and question him, if more may please thee.”
 
 Whence I to him: “Do thou again inquire
     Concerning what thou thinks’t will satisfy me;
@@ -2473,8 +2412,6 @@ Those citizens, who afterwards rebuilt it
     In vain had caused their labour to be done.
 
 Of my own house I made myself a gibbet.”
-
-
 
 
 Inferno: Canto XIV
@@ -2671,8 +2608,6 @@ Then said he: “It is time now to abandon
 And over them all vapours are extinguished.”
 
 
-
-
 Inferno: Canto XV
 
 
@@ -2841,8 +2776,6 @@ Then he turned round, and seemed to be of those
     Across the plain; and seemed to be among them
 
 The one who wins, and not the one who loses.
-
-
 
 
 Inferno: Canto XVI
@@ -3031,8 +2964,6 @@ Even as he returns who goeth down
 Who upward stretches, and draws in his feet.
 
 
-
-
 Inferno: Canto XVII
 
 
@@ -3217,8 +3148,6 @@ Even thus did Geryon place us on the bottom,
     And being disencumbered of our persons,
 
 He sped away as arrow from the string.
-
-
 
 
 Inferno: Canto XVIII
@@ -3407,8 +3336,6 @@ Thais the harlot is it, who replied
 And herewith let our sight be satisfied.”
 
 
-
-
 Inferno: Canto XIX
 
 
@@ -3591,8 +3518,6 @@ There tenderly he laid his burden down,
 Thence was unveiled to me another valley.
 
 
-
-
 Inferno: Canto XX
 
 
@@ -3771,8 +3696,6 @@ And yesternight the moon was round already;
 Thus spake he to me, and we walked the while.
 
 
-
-
 Inferno: Canto XXI
 
 
@@ -3909,8 +3832,8 @@ Close did I press myself with all my person
     From off their countenance, which was not good.
 
 They lowered their rakes, and “Wilt thou have me hit him,”
-    They said to one another, “on the rump?”
-    And answered: “Yes; see that thou nick him with it.”
+They said to one another, “on the rump?”
+And answered: “Yes; see that thou nick him with it.”
 
 But the same demon who was holding parley
     With my Conductor turned him very quickly,
@@ -3961,8 +3884,6 @@ Along the left-hand dike they wheeled about;
     His teeth towards their leader for a signal;
 
 And he had made a trumpet of his rump.
-
-
 
 
 Inferno: Canto XXII
@@ -4171,8 +4092,6 @@ This side and that they to their posts descended;
 And in this manner busied did we leave them.
 
 
-
-
 Inferno: Canto XXIII
 
 
@@ -4373,8 +4292,6 @@ Thereat my Leader with great strides went on,
     Whence from the heavy-laden I departed
 
 After the prints of his beloved feet.
-
-
 
 
 Inferno: Canto XXIV
@@ -4583,8 +4500,6 @@ Over Campo Picen shall be the battle;
 And this I’ve said that it may give thee pain.”
 
 
-
-
 Inferno: Canto XXV
 
 
@@ -4791,8 +4706,6 @@ But that I plainly saw Puccio Sciancato;
 The other was he whom thou, Gaville, weepest.
 
 
-
-
 Inferno: Canto XXVI
 
 
@@ -4987,8 +4900,6 @@ Three times it made her whirl with all the waters,
 Until the sea above us closed again.”
 
 
-
-
 Inferno: Canto XXVII
 
 
@@ -5173,8 +5084,6 @@ Onward we passed, both I and my Conductor,
     Which the moat covers, where is paid the fee
 
 By those who, sowing discord, win their burden.
-
-
 
 
 Inferno: Canto XXVIII
@@ -5371,8 +5280,6 @@ Because I parted persons so united,
 Thus is observed in me the counterpoise.”
 
 
-
-
 Inferno: Canto XXIX
 
 
@@ -5561,8 +5468,6 @@ And thou shalt see I am Capocchio’s shade,
     Thou must remember, if I well descry thee,
 
 How I a skilful ape of nature was.”
-
-
 
 
 Inferno: Canto XXX
@@ -5767,8 +5672,6 @@ And make account that I am aye beside thee,
 For a base wish it is to wish to hear it.”
 
 
-
-
 Inferno: Canto XXXI
 
 
@@ -5967,8 +5870,6 @@ But lightly in the abyss, which swallows up
 But, as a mast does in a ship, uprose.
 
 
-
-
 Inferno: Canto XXXII
 
 
@@ -6157,8 +6058,6 @@ That if thou rightfully of him complain,
     I in the world above repay thee for it,
 
 If that wherewith I speak be not dried up.”
-
-
 
 
 Inferno: Canto XXXIII
@@ -6375,8 +6274,6 @@ For with the vilest spirit of Romagna
 And still above in body seems alive!
 
 
-
-
 Inferno: Canto XXXIV
 
 
@@ -6565,5 +6462,3 @@ We mounted up, he first and I the second,
     Some of the beauteous things that Heaven doth bear;
 
 Thence we came forth to rebehold the stars.
-
-*** END OF THE PROJECT GUTENBERG EBOOK 1001 ***

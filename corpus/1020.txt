@@ -1,5 +1,3 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 1020 ***
-
 SWORD BLADES AND POPPY SEED
 
 by Amy Lowell
@@ -7,11 +5,7 @@ by Amy Lowell
 [American (Massachusetts) poet, 1874-1925.]
 
 
-[Note on text: Lines longer than 78 characters have been cut and
-continued on the next line, which is indented 2 spaces unless in a prose
-poem.]
-
-
+[Note on text: Lines longer than 78 characters have been cut and continued on the next line, which is indented 2 spaces unless in a prose poem.]
 
 
 SWORD BLADES AND POPPY SEED
@@ -39,126 +33,41 @@ SWORD BLADES AND POPPY SEED
      Que je gravais aux métaux pieux,
      Mes Dieux."_
 
-               Henri de Régnier, "Les Médailles d'Argile".
-
-
-
+Henri de Régnier, "Les Médailles d'Argile".
 
 
 Preface
 
 
-
-No one expects a man to make a chair without first learning how, but
-there is a popular impression that the poet is born, not made, and that
-his verses burst from his overflowing heart of themselves. As a matter
-of fact, the poet must learn his trade in the same manner, and with the
-same painstaking care, as the cabinet-maker. His heart may overflow with
-high thoughts and sparkling fancies, but if he cannot convey them to his
-reader by means of the written word he has no claim to be considered a
-poet.  A workman may be pardoned, therefore, for spending a few moments
-to explain and describe the technique of his trade.  A work of beauty
-which cannot stand an intimate examination is a poor and jerry-built
+No one expects a man to make a chair without first learning how, but there is a popular impression that the poet is born, not made, and that his verses burst from his overflowing heart of themselves. As a matter of fact, the poet must learn his trade in the same manner, and with the same painstaking care, as the cabinet-maker. His heart may overflow with high thoughts and sparkling fancies, but if he cannot convey them to his reader by means of the written word he has no claim to be considered a poet.  A workman may be pardoned, therefore, for spending a few moments to explain and describe the technique of his trade.  A work of beauty which cannot stand an intimate examination is a poor and jerry-built
 thing.
 
-In the first place, I wish to state my firm belief that poetry should
-not try to teach, that it should exist simply because it is a created
-beauty, even if sometimes the beauty of a gothic grotesque.  We do not
-ask the trees to teach us moral lessons, and only the Salvation Army
-feels it necessary to pin texts upon them.  We know that these texts are
-ridiculous, but many of us do not yet see that to write an obvious moral
-all over a work of art, picture, statue, or poem, is not only
-ridiculous, but timid and vulgar.  We distrust a beauty we only half
-understand, and rush in with our impertinent suggestions.  How far we
-are from "admitting the Universe"!  The Universe, which flings down its
-continents and seas, and leaves them without comment.  Art is as much a
-function of the Universe as an Equinoctial gale, or the Law of
-Gravitation; and we insist upon considering it merely a little
-scroll-work, of no great importance unless it be studded with nails
-from which pretty and uplifting sentiments may be hung!
+In the first place, I wish to state my firm belief that poetry should not try to teach, that it should exist simply because it is a created beauty, even if sometimes the beauty of a gothic grotesque.  We do not ask the trees to teach us moral lessons, and only the Salvation Army feels it necessary to pin texts upon them.  We know that these texts are ridiculous, but many of us do not yet see that to write an obvious moral all over a work of art, picture, statue, or poem, is not only ridiculous, but timid and vulgar.  We distrust a beauty we only half understand, and rush in with our impertinent suggestions.  How far we are from "admitting the Universe"!  The Universe, which flings down its continents and seas, and leaves them without comment.  Art is as much a function of the Universe as an Equinoctial gale, or the Law of Gravitation; and we insist upon considering it merely a little scroll-work, of no great importance unless it be studded with nails from which pretty and uplifting sentiments may be hung!
 
-For the purely technical side I must state my immense debt to the
-French, and perhaps above all to the, so-called, Parnassian School,
-although some of the writers who have influenced me most do not belong
-to it. High-minded and untiring workmen, they have spared no pains to
-produce a poetry finer than that of any other country in our time.
-Poetry so full of beauty and feeling, that the study of it is at once an
-inspiration and a despair to the artist.  The Anglo-Saxon of our day has
-a tendency to think that a fine idea excuses slovenly workmanship. These
-clear-eyed Frenchmen are a reproof to our self-satisfied laziness.
-Before the works of Parnassians like Leconte de Lisle, and José-Maria de
-Heredia, or those of Henri de Régnier, Albert Samain, Francis Jammes,
-Remy de Gourmont, and Paul Fort, of the more modern school, we stand
-rebuked.  Indeed--"They order this matter better in France."
+For the purely technical side I must state my immense debt to the French, and perhaps above all to the, so-called, Parnassian School, although some of the writers who have influenced me most do not belong to it. High-minded and untiring workmen, they have spared no pains to produce a poetry finer than that of any other country in our time. Poetry so full of beauty and feeling, that the study of it is at once an inspiration and a despair to the artist.  The Anglo-Saxon of our day has a tendency to think that a fine idea excuses slovenly workmanship. These clear-eyed Frenchmen are a reproof to our self-satisfied laziness. Before the works of Parnassians like Leconte de Lisle, and José-Maria de Heredia, or those of Henri de Régnier, Albert Samain, Francis Jammes, Remy de Gourmont, and Paul Fort, of the more modern school, we stand rebuked.  Indeed--"They order this matter better in France."
 
-It is because in France, to-day, poetry is so living and vigorous a
-thing, that so many metrical experiments come from there.  Only a
-vigorous tree has the vitality to put forth new branches.  The poet with
-originality and power is always seeking to give his readers the same
-poignant feeling which he has himself.  To do this he must constantly
-find new and striking images, delightful and unexpected forms.  Take the
-word "daybreak", for instance. What a remarkable picture it must once
-have conjured up! The great, round sun, like the yolk of some mighty
-egg, BREAKING through cracked and splintered clouds.  But we have said
-"daybreak" so often that we do not see the picture any more, it has
-become only another word for dawn.  The poet must be constantly seeking
-new pictures to make his readers feel the vitality of his thought.
+It is because in France, to-day, poetry is so living and vigorous a thing, that so many metrical experiments come from there.  Only a vigorous tree has the vitality to put forth new branches.  The poet with originality and power is always seeking to give his readers the same poignant feeling which he has himself.  To do this he must constantly find new and striking images, delightful and unexpected forms.  Take the word "daybreak", for instance. What a remarkable picture it must once have conjured up! The great, round sun, like the yolk of some mighty egg, BREAKING through cracked and splintered clouds.  But we have said "daybreak" so often that we do not see the picture any more, it has become only another word for dawn.  The poet must be constantly seeking new pictures to make his readers feel the vitality of his thought.
 
-Many of the poems in this volume are written in what the French call
-"Vers Libre", a nomenclature more suited to French use and to French
-versification than to ours.  I prefer to call them poems in "unrhymed
-cadence", for that conveys their exact meaning to an English ear.  They
-are built upon "organic rhythm", or the rhythm of the speaking voice
-with its necessity for breathing, rather than upon a strict metrical
-system.  They differ from ordinary prose rhythms by being more curved,
-and containing more stress. The stress, and exceedingly marked curve, of
-any regular metre is easily perceived.  These poems, built upon cadence,
-are more subtle, but the laws they follow are not less fixed.  Merely
-chopping prose lines into lengths does not produce cadence, it is
-constructed upon mathematical and absolute laws of balance and time.  In
-the preface to his "Poems", Henley speaks of "those unrhyming rhythms in
-which I had tried to quintessentialize, as (I believe) one scarce can do
-in rhyme." The desire to "quintessentialize", to head-up an emotion
-until it burns white-hot, seems to be an integral part of the modern
-temper, and certainly "unrhymed cadence" is unique in its power of
+Many of the poems in this volume are written in what the French call "Vers Libre", a nomenclature more suited to French use and to French versification than to ours.  I prefer to call them poems in "unrhymed cadence", for that conveys their exact meaning to an English ear.  They are built upon "organic rhythm", or the rhythm of the speaking voice with its necessity for breathing, rather than upon a strict metrical system.  They differ from ordinary prose rhythms by being more curved, and containing more stress. The stress, and exceedingly marked curve, of any regular metre is easily perceived.  These poems, built upon cadence, are more subtle, but the laws they follow are not less fixed.  Merely chopping prose lines into lengths does not produce cadence, it is constructed upon mathematical and absolute laws of balance and time.  In the preface to his "Poems", Henley speaks of "those unrhyming rhythms in which I had tried to quintessentialize, as (I believe) one scarce can do in rhyme." The desire to "quintessentialize", to head-up an emotion until it burns white-hot, seems to be an integral part of the modern temper, and certainly "unrhymed cadence" is unique in its power of
 expressing this.
 
-Three of these poems are written in a form which, so far as I know, has
-never before been attempted in English.  M. Paul Fort is its inventor,
-and the results it has yielded to him are most beautiful and
-satisfactory. Perhaps it is more suited to the French language than to
-English. But I found it the only medium in which these particular poems
-could be written.  It is a fluid and changing form, now prose, now
-verse, and permitting a great variety of treatment.
+Three of these poems are written in a form which, so far as I know, has never before been attempted in English.  M. Paul Fort is its inventor, and the results it has yielded to him are most beautiful and satisfactory. Perhaps it is more suited to the French language than to English. But I found it the only medium in which these particular poems could be written.  It is a fluid and changing form, now prose, now verse, and permitting a great variety of treatment.
 
-But the reader will see that I have not entirely abandoned the more
-classic English metres.  I cannot see why, because certain manners suit
-certain emotions and subjects, it should be considered imperative for an
-author to employ no others.  Schools are for those who can confine
-themselves within them.  Perhaps it is a weakness in me that I cannot.
+But the reader will see that I have not entirely abandoned the more classic English metres.  I cannot see why, because certain manners suit certain emotions and subjects, it should be considered imperative for an author to employ no others.  Schools are for those who can confine themselves within them.  Perhaps it is a weakness in me that I cannot.
 
-In conclusion, I would say that these remarks are in answer to many
-questions asked me by people who have happened to read some of these
-poems in periodicals.  They are not for the purpose of forestalling
-criticism, nor of courting it; and they deal, as I said in the
-beginning, solely with the question of technique.  For the more
-important part of the book, the poems must speak for themselves.
+In conclusion, I would say that these remarks are in answer to many questions asked me by people who have happened to read some of these poems in periodicals.  They are not for the purpose of forestalling criticism, nor of courting it; and they deal, as I said in the beginning, solely with the question of technique.  For the more important part of the book, the poems must speak for themselves.
 
-                                             Amy Lowell.
+Amy Lowell.
 May 19, 1914.
-
-
-
 
 
 Contents
 
 
+Sword Blades and Poppy Seed
 
-          Sword Blades and Poppy Seed
 
-
-              Sword Blades
+Sword Blades
 
           The Captured Goddess
           The Precinct.  Rochester
@@ -196,7 +105,7 @@ Contents
           In Answer to a Request
 
 
-              Poppy Seed
+Poppy Seed
 
           The Great Adventure of Max Breuck
           Sancta Maria, Succurre Miseris
@@ -217,9 +126,6 @@ Contents
           A Lady
           In a Garden
           A Tulip Garden
-
-
-
 
 
 Sword Blades And Poppy Seed
@@ -681,16 +587,10 @@ Sword Blades And Poppy Seed
       Another day was just begun.
 
 
-
-
-
 SWORD BLADES
 
 
-
-
 The Captured Goddess
-
 
 
    Over the housetops,
@@ -745,10 +645,7 @@ The Captured Goddess
    Along the narrow streets.
 
 
-
-
 The Precinct.  Rochester
-
 
 
    The tall yellow hollyhocks stand,
@@ -841,10 +738,7 @@ The Precinct.  Rochester
    It is a Roman wall.
 
 
-
-
 The Cyclists
-
 
 
    Spread on the roadway,
@@ -872,10 +766,7 @@ The Cyclists
       Foreboding.
 
 
-
-
 Sunshine through a Cobwebbed Window
-
 
 
    What charm is yours, you faded old-world tapestries,
@@ -900,13 +791,10 @@ Sunshine through a Cobwebbed Window
    By youthful minstrels, on the moonlight flung
     In cadences and falls, to ease a queen,
     Widowed and childless, cowering in a screen
-   Of myrtles, whose life hangs with all its threads unstrung.
-
-
+Of myrtles, whose life hangs with all its threads unstrung.
 
 
 A London Thoroughfare.  2 A.M.
-
 
 
    They have watered the street,
@@ -942,14 +830,11 @@ A London Thoroughfare.  2 A.M.
    And this is an alien city.
 
 
-
-
 Astigmatism
 
-     To Ezra Pound
+To Ezra Pound
 
-     With much friendship and admiration and some differences of opinion
-
+With much friendship and admiration and some differences of opinion
 
 
    The Poet took his walking-stick
@@ -983,9 +868,9 @@ Astigmatism
    The little heads flew off, and they lay
    Dying, open-mouthed and wondering,
    On the hard ground.
-   "They are useless.  They are not roses," said the Poet.
+"They are useless.  They are not roses," said the Poet.
 
-   Peace be with you, Brother.  Go your ways.
+Peace be with you, Brother.  Go your ways.
 
 
    The Poet came to a stream.
@@ -1030,13 +915,10 @@ Astigmatism
    Only the candle-light made them seem to move.
    "It is a pity there were no roses," said the Poet.
 
-   Peace be with you, Brother.  You have chosen your part.
-
-
+Peace be with you, Brother.  You have chosen your part.
 
 
 The Coal Picker
-
 
 
    He perches in the slime, inert,
@@ -1088,10 +970,7 @@ The Coal Picker
    He sighs and grubs another coal.
 
 
-
-
 Storm-Racked
-
 
 
    How should I sing when buffeting salt waves
@@ -1110,10 +989,7 @@ Storm-Racked
     My voice, oblation from a shattered urn!
 
 
-
-
 Convalescence
-
 
 
    From out the dragging vastness of the sea,
@@ -1132,10 +1008,7 @@ Convalescence
    And in the sky there blooms the sun of May.
 
 
-
-
 Patience
-
 
 
    Be patient with you?
@@ -1171,10 +1044,7 @@ Patience
     What meaning can have patience then?
 
 
-
-
 Apology
-
 
 
    Be not angry with me that I bear
@@ -1213,10 +1083,7 @@ Apology
      To go unguessed.
 
 
-
-
 A Petition
-
 
 
    I pray to be the tool which to your hand
@@ -1235,10 +1102,7 @@ A Petition
     You mount, protected, to the far-flung sky.
 
 
-
-
 A Blockhead
-
 
 
    Before me lies a mass of shapeless days,
@@ -1257,10 +1121,7 @@ A Blockhead
    Threw down the cup, and did not understand.
 
 
-
-
 Stupidity
-
 
 
    Dearest, forgive that with my clumsy touch
@@ -1288,10 +1149,7 @@ Stupidity
        More grieved than you.
 
 
-
-
 Irony
-
 
 
    An arid daylight shines along the beach
@@ -1310,10 +1168,7 @@ Irony
    May not endure till time can bring them ease.
 
 
-
-
 Happiness
-
 
 
    Happiness, to some, elation;
@@ -1344,10 +1199,7 @@ Happiness
    For this one transcendent good.
 
 
-
-
 The Last Quarter of the Moon
-
 
 
    How long shall I tarnish the mirror of life,
@@ -1405,10 +1257,7 @@ The Last Quarter of the Moon
    This fight for a God, or this devil's game.
 
 
-
-
 A Tale of Starvation
-
 
 
    There once was a man whom the gods didn't love,
@@ -1577,10 +1426,7 @@ A Tale of Starvation
     And they said:  "What a queer old crank!"
 
 
-
-
 The Foreigner
-
 
 
    Have at you, you Devils!
@@ -1683,10 +1529,7 @@ The Foreigner
     For I've come here to win!
 
 
-
-
 Absence
-
 
 
    My cup is empty to-night,
@@ -1707,10 +1550,7 @@ Absence
    And the bitter-sweet taste of a soul.
 
 
-
-
 A Gift
-
 
 
    See!  I give myself to you, Beloved!
@@ -1727,10 +1567,7 @@ A Gift
    But I shall be dead.
 
 
-
-
 The Bungler
-
 
 
    You glow in my heart
@@ -1741,10 +1578,7 @@ The Bungler
    Against the tables and chairs.
 
 
-
-
 Fool's Money Bags
-
 
 
    Outside the long window,
@@ -1765,10 +1599,7 @@ Fool's Money Bags
    Not worthy?
 
 
-
-
 Miscast I
-
 
 
    I have whetted my brain until it is like a Damascus blade,
@@ -1788,10 +1619,7 @@ Miscast I
    In a country lane!
 
 
-
-
 Miscast II
-
 
 
    My heart is like a cleft pomegranate
@@ -1805,10 +1633,7 @@ Miscast II
    In a dark closet!
 
 
-
-
 Anticipation
-
 
 
    I have been temperate always,
@@ -1824,10 +1649,7 @@ Anticipation
    With the clash and gurgle of filling wine-cups.
 
 
-
-
 Vintage
-
 
 
    I will mix me a drink of stars,--
@@ -1848,10 +1670,7 @@ Vintage
    Forgetting that I have ever known a woman.
 
 
-
-
 The Tree of Scarlet Berries
-
 
 
    The rain gullies the garden paths
@@ -1864,14 +1683,11 @@ The Tree of Scarlet Berries
    Dripping from it,
    Should be tinged with colour.
    I desire the berries,
-   But, in the mist, I only scratch my hand on the thorns.
-   Probably, too, they are bitter.
-
-
+But, in the mist, I only scratch my hand on the thorns.
+Probably, too, they are bitter.
 
 
 Obligation
-
 
 
    Hold your apron wide
@@ -1888,10 +1704,7 @@ Obligation
    Dearest of my Heart!
 
 
-
-
 The Taxi
-
 
 
    When I go away from you
@@ -1908,10 +1721,7 @@ The Taxi
    To wound myself upon the sharp edges of the night?
 
 
-
-
 The Giver of Stars
-
 
 
    Hold your soul open for my welcoming.
@@ -1928,10 +1738,7 @@ The Giver of Stars
    And pour into it the beauty which you have begotten.
 
 
-
-
 The Temple
-
 
 
    Between us leapt a gold and scarlet flame.
@@ -1950,20 +1757,14 @@ The Temple
    The baffled winds thrust at a column's bole.
 
 
-
-
 Epitaph of a Young Poet Who Died Before Having Achieved Success
-
 
 
    Beneath this sod lie the remains
    Of one who died of growing pains.
 
 
-
-
 In Answer to a Request
-
 
 
    You ask me for a sonnet.  Ah, my Dear,
@@ -1984,18 +1785,11 @@ In Answer to a Request
    I cannot turn, the light would make me blind.
 
 
-
-
 POPPY SEED
-
-
 
 
 The Great Adventure of Max Breuck
 
-
-
-       1
 
    A yellow band of light upon the street
    Pours from an open door, and makes a wide
@@ -2009,8 +1803,6 @@ The Great Adventure of Max Breuck
    Proclaims the host himself, and master of his shop.
 
 
-       2
-
    This is the tavern of one Hilverdink,
    Jan Hilverdink, whose wines are much esteemed.
    Within his cellar men can have to drink
@@ -2022,8 +1814,6 @@ The Great Adventure of Max Breuck
    A cap as ever in his wantonness
    Winter set glittering on top of an old yew.
 
-
-       3
 
    Tall candles stand upon the table, where
    Are twisted glasses, ruby-sparked with wine,
@@ -2037,8 +1827,6 @@ The Great Adventure of Max Breuck
    And bands gleam dully still, beyond the gay tumult.
 
 
-       4
-
    "For good old Master Hilverdink, a toast!"
    Clamoured a youth with tassels on his boots.
    "Bring out your oldest brandy for a boast,
@@ -2048,13 +1836,11 @@ The Great Adventure of Max Breuck
    We want to drink to old Jan's luck, and smoke
    His best tobacco for a grand climax.
    Here, Jan, a paper, fragrant as crushed thyme,
-   We'll have the best to wish you luck, or may we choke!"
+We'll have the best to wish you luck, or may we choke!"
 
 
-       5
-
-   Max Breuck unclasped his broadcloth cloak, and sat.
-   "Well thought of, Franz; here's luck to Mynheer Jan."
+Max Breuck unclasped his broadcloth cloak, and sat.
+"Well thought of, Franz; here's luck to Mynheer Jan."
    The host set down a jar; then to a vat
    Lost in the distance of his cellar, ran.
    Max took a pipe as graceful as the stem
@@ -2064,8 +1850,6 @@ The Great Adventure of Max Breuck
    Into the silver night.  At once there flung
    Into the crowded shop a boy, who cried to them:
 
-
-       6
 
    "Oh, sirs, is there some learned lawyer here,
    Some advocate, or all-wise counsellor?
@@ -2079,8 +1863,6 @@ The Great Adventure of Max Breuck
    I shall be glad to serve what way is in my power.
 
 
-       7
-
    Then once more, cloaked and ready, he set out,
    Tripping the footsteps of the eager boy
    Along the dappled cobbles, while the rout
@@ -2090,10 +1872,8 @@ The Great Adventure of Max Breuck
    Flooded the open spaces, and took flight
    Before tall, serried houses in platoon,
    Guarded by shadows.  Past the Custom House
-   They took their hurried way in the Spring-scented night.
+They took their hurried way in the Spring-scented night.
 
-
-       8
 
    Before a door which fronted a canal
    The boy halted.  A dim tree-shaded spot.
@@ -2107,8 +1887,6 @@ The Great Adventure of Max Breuck
    He entered a large room where candelabra burned.
 
 
-       9
-
    An aged man in quilted dressing gown
    Rose up to greet him.  "Sir," said Max, "you sent
    Your messenger to seek throughout the town
@@ -2121,8 +1899,6 @@ The Great Adventure of Max Breuck
    Is better known on distant oceans than on land.
 
 
-       10
-
    My ship has tasted water in strange seas,
    And bartered goods at still uncharted isles.
    She's oft coquetted with a tropic breeze,
@@ -2132,10 +1908,8 @@ The Great Adventure of Max Breuck
    The old man seemed to wizen at the voice,
    "My good friend, Grootver,--" he at once began.
    "No introductions, let us have some wine,
-   And business, now that you at last have made your choice."
+And business, now that you at last have made your choice."
 
-
-       11
 
    A harsh and disagreeable man he proved to be,
    This Grootver, with no single kindly thought.
@@ -2149,8 +1923,6 @@ The Great Adventure of Max Breuck
    The market glutted and his counted profits naught.
 
 
-       12
-
    Little by little Max made out the way
    That Grootver pressed that poor harassed old man.
    His money he must have, too long delay
@@ -2162,8 +1934,6 @@ The Great Adventure of Max Breuck
    Open for home, such stores will I bring you
    That all your former ventures will be counted waste.
 
-
-       13
 
    Such light and foamy silks, like crinkled cream,
    And indigo more blue than sun-whipped seas,
@@ -2177,8 +1947,6 @@ The Great Adventure of Max Breuck
    He begged for life nor knew at all the road he went.
 
 
-       14
-
    For Kurler had a daughter, young and gay,
    Carefully reared and shielded, rarely seen.
    But on one black and most unfriendly day
@@ -2191,8 +1959,6 @@ The Great Adventure of Max Breuck
    On quiet nights she heard the whirring of her doom.
 
 
-       15
-
    Max mended an old goosequill by the fire,
    Loathing his work, but seeing no thing to do.
    He felt his hands were building up the pyre
@@ -2202,10 +1968,8 @@ The Great Adventure of Max Breuck
    "Now, young man, write," said Grootver in his ear.
    "`If in two years my vessel should yet stay
    From Amsterdam, I give Grootver, sometime
-   A friend, my daughter for his lawful wife.'  Now swear."
+A friend, my daughter for his lawful wife.'  Now swear."
 
-
-       16
 
    And Kurler swore, a palsied, tottering sound,
    And traced his name, a shaking, wandering line.
@@ -2219,8 +1983,6 @@ The Great Adventure of Max Breuck
    Will you watch over her?  I ask a solemn vow."
 
 
-       17
-
    Max laid his hand upon the old man's arm,
    "Before God, sir, I vow, when you are gone,
    So to protect your daughter from all harm
@@ -2233,8 +1995,6 @@ The Great Adventure of Max Breuck
    The world's accustomed harshness when he should be dead;
 
 
-       18
-
    Such was my case from youth, Mynheer Kurler.
    Last Winter she died also, and my days
    Are passed in work, lest I should grieve for her,
@@ -2244,10 +2004,8 @@ The Great Adventure of Max Breuck
    The sailor said his thanks, but turned away.
    He could not brook that his humility,
    So little wonted, and so tremulous,
-   Should first before a stranger make such great display.
+Should first before a stranger make such great display.
 
-
-       19
 
    "Come here to-morrow as the bells ring noon,
    I sail at the full sea, my daughter then
@@ -2261,8 +2019,6 @@ The Great Adventure of Max Breuck
    And I must sail away to come and brim her cup.
 
 
-       20
-
    My ship's the fastest that owns Amsterdam
    As home, so not a letter can you send.
    I shall be back, before to where I am
@@ -2272,10 +2028,8 @@ The Great Adventure of Max Breuck
    To-morrow I will be, at stroke of noon,
    At the great wharf."  Then hurrying, in spite
    Of cake and wine the old man pressed upon
-   Him ere he went, he took his leave and shut the door.
+Him ere he went, he took his leave and shut the door.
 
-
-       21
 
    'Twas noon in Amsterdam, the day was clear,
    And sunshine tipped the pointed roofs with gold.
@@ -2286,10 +2040,8 @@ The Great Adventure of Max Breuck
    To shake the sunny morning into life,
    And to proclaim the middle, and the crown,
    Of this most sparkling daytime!  The crowd swells,
-   Laughing and pushing toward the quays in friendly strife.
+Laughing and pushing toward the quays in friendly strife.
 
-
-       22
 
    The "Horn of Fortune" sails away to-day.
    At highest tide she lets her anchor go,
@@ -2300,10 +2052,8 @@ The Great Adventure of Max Breuck
    The shining waves are quick to take her part.
    They push and spatter her.  Her sails are loose,
    Her tackles hanging, waiting men to seize
-   And haul them taut, with chanty-singing, as they choose.
+And haul them taut, with chanty-singing, as they choose.
 
-
-       23
 
    At the great wharf's edge Mynheer Kurler stands,
    And by his side, his daughter, young Christine.
@@ -2317,8 +2067,6 @@ The Great Adventure of Max Breuck
    Kurler has kissed Christine, and now he is away.
 
 
-       24
-
    Christine stood rigid like a frozen stone,
    Her hands wrung pale in effort at control.
    Max moved aside and let her be alone,
@@ -2328,10 +2076,8 @@ The Great Adventure of Max Breuck
    Then, shrunk a cockleshell, it came again
    Upon the other side.  Now on the lee
    It took the "Horn of Fortune".  Straining sight
-   Could see it hauled aboard, men pulling on the crane.
+Could see it hauled aboard, men pulling on the crane.
 
-
-       25
 
    Then up above the eager brigantine,
    Along her slender masts, the sails took flight,
@@ -2342,10 +2088,8 @@ The Great Adventure of Max Breuck
    They saw the sails grow white, then blue in shade,
    The ship had turned, caught in a windy flaw
    She glided imperceptibly away,
-   Drew farther off and in the bright sky seemed to fade.
+Drew farther off and in the bright sky seemed to fade.
 
-
-       26
 
    Home, through the emptying streets, Max took Christine,
    Who would have hid her sorrow from his gaze.
@@ -2359,8 +2103,6 @@ The Great Adventure of Max Breuck
    Katrina will have coffee, and she bakes today."
 
 
-       27
-
    She straight unhasped the tall, beflowered gate.
    Curled into tendrils, twisted into cones
    Of leaves and roses, iron infoliate,
@@ -2373,8 +2115,6 @@ The Great Adventure of Max Breuck
    Of tulips in their splendour flaunted everywhere!
 
 
-       28
-
    From side to side, midway each path, there ran
    A longer one which cut the space in two.
    And, like a tunnel some magician
@@ -2384,10 +2124,8 @@ The Great Adventure of Max Breuck
    The plump and heavy apples crowding stood
    And tapped against the arbour.  Then the dame
    Katrina shook them down, in pelting showers
-   They plunged to earth, and died transformed to sugared food.
+They plunged to earth, and died transformed to sugared food.
 
-
-       29
 
    Against the high, encircling walls were grapes,
    Nailed close to feel the baking of the sun
@@ -2398,10 +2136,8 @@ The Great Adventure of Max Breuck
    Flickering, streaming, nodding in the air,
    The pride of all the garden, there were more
    Tulips than Max had ever dreamed or seen.
-   They jostled, mobbed, and danced.  Max stood at helpless stare.
+They jostled, mobbed, and danced.  Max stood at helpless stare.
 
-
-       30
 
    "Within the arbour, Mynheer Breuck, I'll bring
    Coffee and cakes, a pipe, and Father's best
@@ -2415,8 +2151,6 @@ The Great Adventure of Max Breuck
    Eager to flutter forth and leave their silent past.
 
 
-       31
-
    The little apple leaves above their heads
    Let fall a quivering sunshine.  Quiet, cool,
    In blossomed boughs they sat.  Beyond, the beds
@@ -2429,8 +2163,6 @@ The Great Adventure of Max Breuck
    Violets sunk to blacks, and reds in orange crushed.
 
 
-       32
-
    Of every pattern and in every shade.
    Nacreous, iridescent, mottled, checked.
    Some purest sulphur-yellow, others made
@@ -2440,10 +2172,8 @@ The Great Adventure of Max Breuck
    They bloomed, and seemed strange wonder-moths new-fledged,
    Born of the spectrum wedded to a flame.
    The shade within the arbour made a port
-   To o'ertaxed eyes, its still, green twilight rest became.
+To o'ertaxed eyes, its still, green twilight rest became.
 
-
-       33
 
    Her knitting-needles clicked and Christine talked,
    This child matured to woman unaware,
@@ -2454,10 +2184,8 @@ The Great Adventure of Max Breuck
    And heedful.  Her old maiden aunt had died
    Whose darling care she was.  Now, growing bold,
    She asked, had Max a sister?  Dropped a stitch
-   At her own candour.  Then she paused and softly sighed.
+At her own candour.  Then she paused and softly sighed.
 
-
-       34
 
    Two years was long!  She loved her father well,
    But fears she had not.  He had always been
@@ -2468,10 +2196,8 @@ The Great Adventure of Max Breuck
    Mynheer Grootver she would not see at all.
    Yes, yes, she knew, but ere the date so set,
    The "Horn of Fortune" would be at the wall.
-   When Max had bid farewell, she watched him from the door.
+When Max had bid farewell, she watched him from the door.
 
-
-       35
 
    The next day, and the next, Max went to ask
    The health of Jufvrouw Kurler, and the news:
@@ -2485,8 +2211,6 @@ The Great Adventure of Max Breuck
    Unspoken hope counselled a wise efficiency.
 
 
-       36
-
    Max Breuck was honour's soul, he knew himself
    The guardian of this girl; no more, no less.
    As one in charge of guineas on a shelf
@@ -2496,10 +2220,8 @@ The Great Adventure of Max Breuck
    No word of love or marriage; but the days
    He clipped off on his almanac.  The end
    Must come!  The second year, with feet of lead,
-   Lagged slowly by till Spring had plumped the willow sprays.
+Lagged slowly by till Spring had plumped the willow sprays.
 
-
-       37
 
    Two years had made Christine a woman grown,
    With dignity and gently certain pride.
@@ -2513,8 +2235,6 @@ The Great Adventure of Max Breuck
    Had he his promise kept, abating not one pound.
 
 
-       38
-
    Spring slipped away to Summer.  Still no glass
    Sighted the brigantine.  Then Grootver came
    Demanding Jufvrouw Kurler.  His trespass
@@ -2524,10 +2244,8 @@ The Great Adventure of Max Breuck
    Tarried.  Christine, betrayed and weary, sank
    To dreadful terrors.  One day, crazed, she sent
    For Max.  "Come quickly," said her note, "I skip
-   The worst distress until we meet.  The world is blank."
+The worst distress until we meet.  The world is blank."
 
-
-       39
 
    Through the long sunshine of late afternoon
    Max went to her.  In the pleached alley, lost
@@ -2538,10 +2256,8 @@ The Great Adventure of Max Breuck
    She told that Grootver, on the following morn,
    Would come to marry her, and shuddering:
    "I will die rather, death has lesser fears."
-   Max felt the shackles drop from the oath which he had sworn.
+Max felt the shackles drop from the oath which he had sworn.
 
-
-       40
 
    "My Dearest One, the hid joy of my heart!
    I love you, oh! you must indeed have known.
@@ -2555,8 +2271,6 @@ The Great Adventure of Max Breuck
    As I can compass, and for years I've greatly toiled.
 
 
-       41
-
    This is not haste, Christine, for long I've known
    My love, and silence forced upon my lips.
    I worship you with all the strength I've shown
@@ -2568,8 +2282,6 @@ The Great Adventure of Max Breuck
    She sat quite still, her body loose and weak.
    Then into him she melted, all her soul at flow.
 
-
-       42
 
    And they were married ere the westering sun
    Had disappeared behind the garden trees.
@@ -2583,8 +2295,6 @@ The Great Adventure of Max Breuck
    To be enwoven, long ere night to morning faced.
 
 
-       43
-
    At last Max spoke, "Dear Heart, this night is ours,
    To watch it pale, together, into dawn,
    Pressing our souls apart like opening flowers
@@ -2594,10 +2304,8 @@ The Great Adventure of Max Breuck
    For that desired thing I leave you now.
    To pinnacle this day's accomplishment,
    By telling Grootver that a bootless quest
-   Is his, and that his schemes have met a knock-down blow."
+Is his, and that his schemes have met a knock-down blow."
 
-
-       44
 
    But Christine clung to him with sobbing cries,
    Pleading for love's sake that he leave her not.
@@ -2611,8 +2319,6 @@ The Great Adventure of Max Breuck
    With wisdom, then stepped out under the cooling sky.
 
 
-       45
-
    But at the gate once more she held him close
    And quenched her heart again upon his lips.
    "My Sweetheart, why this terror?  I propose
@@ -2625,8 +2331,6 @@ The Great Adventure of Max Breuck
    Dearest, be comforted, and clear that troubled brow.
 
 
-       46
-
    One hour, Dear, and then, no more alone.
    We front another day as man and wife.
    I shall be back almost before I'm gone,
@@ -2636,10 +2340,8 @@ The Great Adventure of Max Breuck
    He stopped to wave and turned the garden wall.
    Straight she sank down upon a mossy seat.
    Her senses, mist-encircled by a swoon,
-   Swayed to unconsciousness beneath its wreathing pall.
+Swayed to unconsciousness beneath its wreathing pall.
 
-
-       47
 
    Briskly Max walked beside the still canal.
    His step was firm with purpose.  Not a jot
@@ -2650,10 +2352,8 @@ The Great Adventure of Max Breuck
    His starved life had not fitted him for joy.
    It strained him to the utmost to reject
    Even this hour with her.  His heart beat loud.
-   "Damn Grootver, who can force my time to this employ!"
+"Damn Grootver, who can force my time to this employ!"
 
-
-       48
 
    He laughed again.  What boyish uncontrol
    To be so racked.  Then felt his ticking watch.
@@ -2667,8 +2367,6 @@ The Great Adventure of Max Breuck
    Had he been there to take his old, accustomed seat.
 
 
-       49
-
    "Why, Max!  Stop, Max!"  And out they came pell-mell,
    His old companions.  "Max, where have you been?
    Not drink with us?  Indeed you serve us well!
@@ -2678,10 +2376,8 @@ The Great Adventure of Max Breuck
    Stir your old bones to welcome him.  Fie, Max.
    Business!  And after hours!  Fill your throat;
    Here's beer or brandy.  Now, boys, hold him fast.
-   Put down your cane, dear man.  What really vicious whacks!"
+Put down your cane, dear man.  What really vicious whacks!"
 
-
-       50
 
    They forced him to a seat, and held him there,
    Despite his anger, while the hideous joke
@@ -2695,8 +2391,6 @@ The Great Adventure of Max Breuck
    Max cursed hilarity which must needs have a mark.
 
 
-       51
-
    Forcing himself to steadiness, he tried
    To quell the uproar, told them what he dared
    Of his own life and circumstance.  Implied
@@ -2708,8 +2402,6 @@ The Great Adventure of Max Breuck
    And forced a pipe upon him.  With an oath
    He shivered it to fragments on the earthen floor.
 
-
-       52
 
    Sobered a little by his violence,
    And by the host who begged them to be still,
@@ -2723,8 +2415,6 @@ The Great Adventure of Max Breuck
    Was with me, and I thought merely to play a game.
 
 
-       53
-
    Its properties are to induce a sleep
    Fraught with adventure, and the flight of time
    Is inconceivable in swiftness.  Deep
@@ -2734,10 +2424,8 @@ The Great Adventure of Max Breuck
    Are but so many seconds.  We agreed
    That the next man who came should prove the scheme;
    And you were he.  Jan handed you the crock.
-   Two whiffs!  And then the pipe was broke, and you were freed."
+Two whiffs!  And then the pipe was broke, and you were freed."
 
-
-       54
 
    "It is a lie, a damned, infernal lie!"
    Max Breuck was maddened now.  "Another jest
@@ -2751,8 +2439,6 @@ The Great Adventure of Max Breuck
    I am to blame.  Come back, and we'll talk quietly.
 
 
-       55
-
    You have no business, that is why we laughed,
    Since you had none a few minutes ago.
    As to your wedding, naturally we chaffed,
@@ -2762,10 +2448,8 @@ The Great Adventure of Max Breuck
    I'll burn the drug if you prefer."  But Breuck
    Muttered and stared,--"A lie."  And then he hurled,
    Distraught, this word at Franz:  "Prove it.  And when
-   It's proven, I'll believe.  That thing shall be your work.
+It's proven, I'll believe.  That thing shall be your work.
 
-
-       56
 
    I'll give you just one week to make your case.
    On August thirty-first, eighteen-fourteen,
@@ -2779,8 +2463,6 @@ The Great Adventure of Max Breuck
    "The Amsterdam Gazette", and Max was forced to read.
 
 
-       57
-
    "Eighteen hundred and twelve," in largest print;
    And next to it, "April the twenty-first."
    The letters smeared and jumbled, but by dint
@@ -2793,8 +2475,6 @@ The Great Adventure of Max Breuck
    Running to outstrip Fate, and save his holy shrine.
 
 
-       58
-
    The darkened buildings echoed to his feet
    Clap-clapping on the pavement as he ran.
    Across moon-misted squares clamoured his fleet
@@ -2804,10 +2484,8 @@ The Great Adventure of Max Breuck
    And this should be the garden wall, and round
    The corner, the old gate.  No even line
    Was this!  No wall!  And then a fearful cry
-   Shattered the stillness.  Two stiff houses filled the ground.
+Shattered the stillness.  Two stiff houses filled the ground.
 
-
-       59
 
    Shoulder to shoulder, like dragoons in line,
    They stood, and Max knew them to be the ones
@@ -2818,10 +2496,8 @@ The Great Adventure of Max Breuck
    The twisted iron of the garden gate,
    Was there.  The houses touched and left no space
    Between.  With glassy eyes and shaking nerves
-   Max gazed.  Then mad with fear, fled still, and left that place.
+Max gazed.  Then mad with fear, fled still, and left that place.
 
-
-       60
 
    Stumbling and panting, on he ran, and on.
    His slobbering lips could only cry, "Christine!
@@ -2835,8 +2511,6 @@ The Great Adventure of Max Breuck
    Shall never part us, I will reach to where you are."
 
 
-       61
-
    His burning eyeballs stared into the dark.
    The moon had long been set.  And still he cried:
    "Christine!  My Love!  Christine!"  A sudden spark
@@ -2846,10 +2520,8 @@ The Great Adventure of Max Breuck
    A latticed window where a crimson gleam
    Spangled the blackness, and hung from a pin,
    An iron crane, were three gilt balls.  His youth
-   Had taught their meaning, now they closed upon his dream.
+Had taught their meaning, now they closed upon his dream.
 
-
-       62
 
    Softly he knocked against the casement, wide
    It flew, and a cracked voice his business there
@@ -2860,10 +2532,8 @@ The Great Adventure of Max Breuck
    You?"  "Yes, I think you can.  Do you keep arms?
    I want a pistol."  Quick the old man grew
    Livid.  "Mynheer, a pistol!  Let me swerve
-   You from your purpose.  Life brings often false alarms--"
+You from your purpose.  Life brings often false alarms--"
 
-
-       63
 
    "Peace, good old Isaacs, why should you suppose
    My purpose deadly.  In good truth I've been
@@ -2874,10 +2544,8 @@ The Great Adventure of Max Breuck
    Its former owner?  Dead, you say.  Poor Ghost!
    'Twill serve my turn though--"  Hastily he counts
    The florins down upon the table.  "Well,
-   Good-night, and wish me luck for your to-morrow's toast."
+Good-night, and wish me luck for your to-morrow's toast."
 
-
-       64
 
    Into the night again he hurried, now
    Pale and in haste; and far beyond the town
@@ -2888,10 +2556,8 @@ The Great Adventure of Max Breuck
    Upon his senses, shutting out all else.
    Again he wept, and called, and blindly fought
    The heavy miles away.  "Christine.  I'm well.
-   I'm coming.  My Own Wife!"  He lurched with failing pulse.
+I'm coming.  My Own Wife!"  He lurched with failing pulse.
 
-
-       65
 
    Along the dyke the keen air blew in gusts,
    And grasses bent and wailed before the wind.
@@ -2901,14 +2567,11 @@ The Great Adventure of Max Breuck
    The wide-armed windmills looked like gallows-trees.
    No lights were burning in the distant thorps.
    Max laid aside his coat.  His mind, half-clear,
-   Babbled "Christine!"  A shot split through the breeze.
-   The cold stars winked and glittered at his chilling corpse.
-
-
+Babbled "Christine!"  A shot split through the breeze.
+The cold stars winked and glittered at his chilling corpse.
 
 
 Sancta Maria, Succurre Miseris
-
 
 
    Dear Virgin Mary, far away,
@@ -3027,10 +2690,7 @@ Sancta Maria, Succurre Miseris
    A little boy weeps and prays no more.
 
 
-
-
 After Hearing a Waltz by Bartók
-
 
 
    But why did I kill him?  Why?  Why?
@@ -3111,10 +2771,7 @@ After Hearing a Waltz by Bartók
    Air!  Give me air!  Air!  My God!
 
 
-
-
 Clear, with Light, Variable Winds
-
 
 
    The fountain bent and straightened itself
@@ -3172,29 +2829,26 @@ Clear, with Light, Variable Winds
    They shuddered as they laid their dead master
    On the grass.
    "I will close his eyes," said the head gardener,
-   "It is uncanny to see a dead man staring at the sun."
-
-
+"It is uncanny to see a dead man staring at the sun."
 
 
 The Basket
 
 
-
-       I
+I
 
    The inkstand is full of ink, and the paper lies white and unspotted,
    in the round of light thrown by a candle.  Puffs of darkness sweep into
    the corners, and keep rolling through the room behind his chair.  The air
-   is silver and pearl, for the night is liquid with moonlight.
+is silver and pearl, for the night is liquid with moonlight.
 
-   See how the roof glitters, like ice!
+See how the roof glitters, like ice!
 
-   Over there, a slice of yellow cuts into the silver-blue, and beside it stand
-   two geraniums, purple because the light is silver-blue, to-night.
+Over there, a slice of yellow cuts into the silver-blue, and beside it stand
+two geraniums, purple because the light is silver-blue, to-night.
 
 
-   See!  She is coming, the young woman with the bright hair.
+See!  She is coming, the young woman with the bright hair.
    She swings a basket as she walks, which she places on the sill,
    between the geranium stalks.  He laughs, and crumples his paper
    as he leans forward to look.  "The Basket Filled with Moonlight",
@@ -3203,22 +2857,22 @@ The Basket
    The bellying clouds swing over the housetops.
 
 
-   He has forgotten the woman in the room with the geraniums.  He is beating
-   his brain, and in his eardrums hammers his heavy pulse.  She sits
-   on the window-sill, with the basket in her lap.  And tap!  She cracks a nut.
-   And tap!  Another.  Tap!  Tap!  Tap!  The shells ricochet upon the roof,
-   and get into the gutters, and bounce over the edge and disappear.
+He has forgotten the woman in the room with the geraniums.  He is beating
+his brain, and in his eardrums hammers his heavy pulse.  She sits
+on the window-sill, with the basket in her lap.  And tap!  She cracks a nut.
+And tap!  Another.  Tap!  Tap!  Tap!  The shells ricochet upon the roof,
+and get into the gutters, and bounce over the edge and disappear.
 
-   "It is very queer," thinks Peter, "the basket was empty, I'm sure.
-   How could nuts appear from the atmosphere?"
+"It is very queer," thinks Peter, "the basket was empty, I'm sure.
+How could nuts appear from the atmosphere?"
 
    The silver-blue moonlight makes the geraniums purple, and the roof glitters
    like ice.
 
 
-       II
+II
 
-   Five o'clock.  The geraniums are very gay in their crimson array.
+Five o'clock.  The geraniums are very gay in their crimson array.
    The bellying clouds swing over the housetops, and over the roofs goes Peter
    to pay his morning's work with a holiday.
 
@@ -3239,11 +2893,11 @@ The Basket
    new-opened on their stems.
 
 
-   Annette looked at the geraniums, very red against the blue sky.
+Annette looked at the geraniums, very red against the blue sky.
 
-   "No matter how I try, I cannot find any thread of such a red.
-   My bleeding hearts drip stuff muddy in comparison.  Heigh-ho!  See my little
-   pecking dove?  I'm in love with my own temple.  Only that halo's wrong.
+"No matter how I try, I cannot find any thread of such a red.
+My bleeding hearts drip stuff muddy in comparison.  Heigh-ho!  See my little
+pecking dove?  I'm in love with my own temple.  Only that halo's wrong.
    The colour's too strong, or not strong enough.  I don't know.  My eyes
    are tired.  Oh, Peter, don't be so rough; it is valuable.  I won't do
    any more.  I promise.  You tyrannise, Dear, that's enough.  Now sit down
@@ -3253,14 +2907,14 @@ The Basket
    the opposite wall.
 
 
-   Peter watches her, fluid with fatigue, floating, and drifting,
-   and undulant in the orange glow.  His senses flow towards her,
-   where she lies supine and dreaming.  Seeming drowned in a golden halo.
+Peter watches her, fluid with fatigue, floating, and drifting,
+and undulant in the orange glow.  His senses flow towards her,
+where she lies supine and dreaming.  Seeming drowned in a golden halo.
 
-   The pungent smell of the geraniums is hard to bear.
+The pungent smell of the geraniums is hard to bear.
 
 
-   He pushes against her knees, and brushes his lips across her languid hands.
+He pushes against her knees, and brushes his lips across her languid hands.
    His lips are hot and speechless.  He woos her, quivering, and the room
    is filled with shadows, for the sun has set.  But she only understands
    the ways of a needle through delicate stuffs, and the shock of one colour
@@ -3274,9 +2928,9 @@ The Basket
    There is a crescent moon on the rim of the sky.
 
 
-       III
+III
 
-   "Go home, now, Peter.  To-night is full moon.  I must be alone."
+"Go home, now, Peter.  To-night is full moon.  I must be alone."
 
    "How soon the moon is full again!  Annette, let me stay.  Indeed, Dear Love,
    I shall not go away.  My God, but you keep me starved!  You write
@@ -3313,46 +2967,43 @@ The Basket
    like ice.
 
 
-       IV
+IV
 
    How hot the sheets are!  His skin is tormented with pricks,
    and over him sticks, and never moves, an eye.  It lights the sky with blood,
    and drips blood.  And the drops sizzle on his bare skin, and he smells them
-   burning in, and branding his body with the name "Annette".
+burning in, and branding his body with the name "Annette".
 
-   The blood-red sky is outside his window now.  Is it blood or fire?
-   Merciful God!  Fire!  And his heart wrenches and pounds "Annette!"
+The blood-red sky is outside his window now.  Is it blood or fire?
+Merciful God!  Fire!  And his heart wrenches and pounds "Annette!"
 
    The lead of the roof is scorching, he ricochets, gets to the edge,
    bounces over and disappears.
 
-   The bellying clouds are red as they swing over the housetops.
+The bellying clouds are red as they swing over the housetops.
 
 
-       V
+V
 
-   The air is of silver and pearl, for the night is liquid with moonlight.
-   How the ruin glistens, like a palace of ice!  Only two black holes swallow
-   the brilliance of the moon.  Deflowered windows, sockets without sight.
+The air is of silver and pearl, for the night is liquid with moonlight.
+How the ruin glistens, like a palace of ice!  Only two black holes swallow
+the brilliance of the moon.  Deflowered windows, sockets without sight.
 
-   A man stands before the house.  He sees the silver-blue moonlight,
-   and set in it, over his head, staring and flickering, eyes of geranium red.
-
-
-   Annette!
+A man stands before the house.  He sees the silver-blue moonlight,
+and set in it, over his head, staring and flickering, eyes of geranium red.
 
 
+Annette!
 
 
 In a Castle
 
 
+I
 
-       I
-
-   Over the yawning chimney hangs the fog.  Drip--hiss--drip--hiss--
-   fall the raindrops on the oaken log which burns, and steams,
-   and smokes the ceiling beams.  Drip--hiss--the rain never stops.
+Over the yawning chimney hangs the fog.  Drip--hiss--drip--hiss--
+fall the raindrops on the oaken log which burns, and steams,
+and smokes the ceiling beams.  Drip--hiss--the rain never stops.
 
 
    The wide, state bed shivers beneath its velvet coverlet.  Above, dim,
@@ -3362,19 +3013,19 @@ In a Castle
    out from the wall, and then falls back again.
 
 
-   It is my lady's key, confided with much nice cunning, whisperingly.
-   He enters on a sob of wind, which gutters the candles almost to swaling.
-   The fire flutters and drops.  Drip--hiss--the rain never stops.
-   He shuts the door.  The rushes fall again to stillness along the floor.
-   Outside, the wind goes wailing.
+It is my lady's key, confided with much nice cunning, whisperingly.
+He enters on a sob of wind, which gutters the candles almost to swaling.
+The fire flutters and drops.  Drip--hiss--the rain never stops.
+He shuts the door.  The rushes fall again to stillness along the floor.
+Outside, the wind goes wailing.
 
 
-   The velvet coverlet of the wide bed is smooth and cold.  Above,
-   in the firelight, winks the coronet of tarnished gold.  The knight shivers
-   in his coat of fur, and holds out his hands to the withering flame.
-   She is always the same, a sweet coquette.  He will wait for her.
+The velvet coverlet of the wide bed is smooth and cold.  Above,
+in the firelight, winks the coronet of tarnished gold.  The knight shivers
+in his coat of fur, and holds out his hands to the withering flame.
+She is always the same, a sweet coquette.  He will wait for her.
 
-   How the log hisses and drips!  How warm and satisfying will be her lips!
+How the log hisses and drips!  How warm and satisfying will be her lips!
 
 
    It is wide and cold, the state bed; but when her head lies under the coronet,
@@ -3395,19 +3046,19 @@ In a Castle
    and wed her after.  Should he be overborne, she will die adoring him, forlorn,
    shriven by her great love.
 
-   Above, the coronet winks in the darkness.  Drip--hiss--fall the raindrops.
-   The arras blows out from the wall, and a door bangs in a far-off hall.
+Above, the coronet winks in the darkness.  Drip--hiss--fall the raindrops.
+The arras blows out from the wall, and a door bangs in a far-off hall.
 
 
-   The candles swale.  In the gale the moat below plunges and spatters.
-   Will the lady lose courage and not come?
+The candles swale.  In the gale the moat below plunges and spatters.
+Will the lady lose courage and not come?
 
-   The rain claps on a loosened rafter.
+The rain claps on a loosened rafter.
 
-   Is that laughter?
+Is that laughter?
 
 
-   The room is filled with lisps and whispers.  Something mutters.
+The room is filled with lisps and whispers.  Something mutters.
    One candle drowns and the other gutters.  Is that the rain
    which pads and patters, is it the wind through the winding entries
    which chatters?
@@ -3416,7 +3067,7 @@ In a Castle
    the arras is blown!
 
 
-   Christ's Death!  It is no storm which makes these little chuckling sounds.
+Christ's Death!  It is no storm which makes these little chuckling sounds.
    By the Great Wounds of Holy Jesus, it is his dear lady, kissing and
    clasping someone!  Through the sobbing storm he hears her love take form
    and flutter out in words.  They prick into his ears and stun his desire,
@@ -3426,17 +3077,17 @@ In a Castle
    Drip--hiss--the rain drops.
 
 
-   He tears down the arras from before an inner chamber's bolted door.
+He tears down the arras from before an inner chamber's bolted door.
 
 
-       II
+II
 
-   The state bed shivers in the watery dawn.  Drip--hiss--fall the raindrops.
-   For the storm never stops.
+The state bed shivers in the watery dawn.  Drip--hiss--fall the raindrops.
+For the storm never stops.
 
-   On the velvet coverlet lie two bodies, stripped and fair in the cold,
-   grey air.  Drip--hiss--fall the blood-drops, for the bleeding never stops.
-   The bodies lie quietly.  At each side of the bed, on the floor, is a head.
+On the velvet coverlet lie two bodies, stripped and fair in the cold,
+grey air.  Drip--hiss--fall the blood-drops, for the bleeding never stops.
+The bodies lie quietly.  At each side of the bed, on the floor, is a head.
    A man's on this side, a woman's on that, and the red blood oozes along
    the rush mat.
 
@@ -3451,23 +3102,23 @@ In a Castle
    you have still the best part of her.  Her blood was red, her body white,
    they will both be here for your delight.  The soul inside was a lump of dirt,
    I have rid you of that with a spurt of my sword point.  Good luck
-   to your pleasure.  She will be quite complaisant, my friend, I wager."
-   The end was a splashed flourish of ink.
+to your pleasure.  She will be quite complaisant, my friend, I wager."
+The end was a splashed flourish of ink.
 
-   Hark!  In the passage is heard the clink of armour, the tread of a heavy man.
-   The door bursts open and standing there, his thin hair wavering
-   in the glare of steely daylight, is my Lord of Clair.
-
-
-   Over the yawning chimney hangs the fog.  Drip--hiss--drip--hiss--
-   fall the raindrops.  Overhead hammers and chinks the rain which never stops.
-
-   The velvet coverlet is sodden and wet, yet the roof beams are tight.
-   Overhead, the coronet gleams with its blackened gold, winking and blinking.
-   Among the rushes three corpses are growing cold.
+Hark!  In the passage is heard the clink of armour, the tread of a heavy man.
+The door bursts open and standing there, his thin hair wavering
+in the glare of steely daylight, is my Lord of Clair.
 
 
-       III
+Over the yawning chimney hangs the fog.  Drip--hiss--drip--hiss--
+fall the raindrops.  Overhead hammers and chinks the rain which never stops.
+
+The velvet coverlet is sodden and wet, yet the roof beams are tight.
+Overhead, the coronet gleams with its blackened gold, winking and blinking.
+Among the rushes three corpses are growing cold.
+
+
+III
 
    In the castle church you may see them stand,
    Two sumptuous tombs on either hand
@@ -3480,10 +3131,7 @@ In a Castle
    After having been burnt by royal command.
 
 
-
-
 The Book of Hours of Sister Clotilde
-
 
 
    The Bell in the convent tower swung.
@@ -3875,10 +3523,7 @@ The Book of Hours of Sister Clotilde
        A dried snake-skin.
 
 
-
-
 The Exeter Road
-
 
 
    Panels of claret and blue which shine
@@ -3953,10 +3598,7 @@ The Exeter Road
        'Tis a common tale._
 
 
-
-
 The Shadow
-
 
 
    Paul Jannes was working very late,
@@ -4382,23 +4024,19 @@ The Shadow
    And he laughed aloud as he sank on the floor.
 
 
-
    The Coroner took the body away,
    And the watches were sold that Saturday.
    The Auctioneer said one could seldom buy
    Such watches, and the prices were high.
 
 
-
-
 The Forsaken
 
 
-
-   Holy Mother of God, Merciful Mary.  Hear me!  I am very weary.  I have come
-   from a village miles away, all day I have been coming, and I ache for such
-   far roaming.  I cannot walk as light as I used, and my thoughts grow confused.
-   I am heavier than I was.  Mary Mother, you know the cause!
+Holy Mother of God, Merciful Mary.  Hear me!  I am very weary.  I have come
+from a village miles away, all day I have been coming, and I ache for such
+far roaming.  I cannot walk as light as I used, and my thoughts grow confused.
+I am heavier than I was.  Mary Mother, you know the cause!
 
 
    Beautiful Holy Lady, take my shame away from me!  Let this fear
@@ -4408,13 +4046,13 @@ The Forsaken
    and he couldn't keep it hid.  We meant to marry.  Why did he die?
 
 
-   That day when they told me he had gone down in the avalanche, and could not
-   be found until the snow melted in Spring, I did nothing.  I could not cry.
+That day when they told me he had gone down in the avalanche, and could not
+be found until the snow melted in Spring, I did nothing.  I could not cry.
    Why should he die?  Why should he die and his child live?  His little child
    alive in me, for my comfort.  No, Good God, for my misery!  I cannot face
    the shame, to be a mother, and not married, and the poor child to be reviled
-   for having no father.  Merciful Mother, Holy Virgin, take away this sin I did.
-   Let the baby not be.  Only take the stigma off of me!
+for having no father.  Merciful Mother, Holy Virgin, take away this sin I did.
+Let the baby not be.  Only take the stigma off of me!
 
 
    I have told no one but you, Holy Mary.  My mother would call me "whore",
@@ -4423,11 +4061,11 @@ The Forsaken
    he loved me, and we were to be married.  I carried him always in my heart,
    what did it matter if I gave him the least part of me too?  You were a virgin,
    Holy Mother, but you had a son, you know there are times when a woman
-   must give all.  There is some call to give and hold back nothing.
-   I swear I obeyed God then, and this child who lives in me is the sign.
-   What am I saying?  He is dead, my beautiful, strong man!  I shall never
-   feel him caress me again.  This is the only baby I shall have.
-   Oh, Holy Virgin, protect my baby!  My little, helpless baby!
+must give all.  There is some call to give and hold back nothing.
+I swear I obeyed God then, and this child who lives in me is the sign.
+What am I saying?  He is dead, my beautiful, strong man!  I shall never
+feel him caress me again.  This is the only baby I shall have.
+Oh, Holy Virgin, protect my baby!  My little, helpless baby!
 
 
    He will look like his father, and he will be as fast a runner and as good
@@ -4437,26 +4075,26 @@ The Forsaken
    out of white wood.  Oh, No!  No!  No!  How can I think such things,
    I am not good.  My father will have nothing to do with my boy,
    I shall be an outcast thing.  Oh, Mother of our Lord God, be merciful,
-   take away my shame!  Let my body be as it was before he came.
-   No little baby for me to keep underneath my heart for those long months.
-   To live for and to get comfort from.  I cannot go home and tell my mother.
+take away my shame!  Let my body be as it was before he came.
+No little baby for me to keep underneath my heart for those long months.
+To live for and to get comfort from.  I cannot go home and tell my mother.
    She is so hard and righteous.  She never loved my father, and we were born
    for duty, not for love.  I cannot face it.  Holy Mother, take my baby away!
    Take away my little baby!  I don't want it, I can't bear it!
 
 
-   And I shall have nothing, nothing!  Just be known as a good girl.
+And I shall have nothing, nothing!  Just be known as a good girl.
    Have other men want to marry me, whom I could not touch, after having known
    my man.  Known the length and breadth of his beautiful white body,
    and the depth of his love, on the high Summer Alp, with the moon above,
    and the pine-needles all shiny in the light of it.  He is gone, my man,
-   I shall never hear him or feel him again, but I could not touch another.
-   I would rather lie under the snow with my own man in my arms!
+I shall never hear him or feel him again, but I could not touch another.
+I would rather lie under the snow with my own man in my arms!
 
 
-   So I shall live on and on.  Just a good woman.  With nothing to warm my heart
-   where he lay, and where he left his baby for me to care for.  I shall not be
-   quite human, I think.  Merely a stone-dead creature.  They will respect me.
+So I shall live on and on.  Just a good woman.  With nothing to warm my heart
+where he lay, and where he left his baby for me to care for.  I shall not be
+quite human, I think.  Merely a stone-dead creature.  They will respect me.
    What do I care for respect!  You didn't care for people's tongues
    when you were carrying our Lord Jesus.  God had my man give me my baby,
    when He knew that He was going to take him away.  His lips will comfort me,
@@ -4469,10 +4107,7 @@ The Forsaken
    but give me strength to bring him up to be a man.
 
 
-
-
 Late September
-
 
 
    Tang of fruitage in the air;
@@ -4506,10 +4141,7 @@ Late September
    Of a sickle-shaped new moon.
 
 
-
-
 The Pike
-
 
 
    In the brown water,
@@ -4533,10 +4165,7 @@ The Pike
    Received it.
 
 
-
-
 The Blue Scarf
-
 
 
    Pale, with the blue of high zeniths, shimmered over with silver, brocaded
@@ -4559,15 +4188,12 @@ The Blue Scarf
    Her kisses are sharp buds of fire; and I burn back against her, a jewel
    Hard and white; a stalked, flaming flower; till I break to
      a handful of cinders,
-   And open my eyes to the scarf, shining blue in the afternoon sunshine.
+And open my eyes to the scarf, shining blue in the afternoon sunshine.
 
-   How loud clocks can tick when a room is empty, and one is alone!
-
-
+How loud clocks can tick when a room is empty, and one is alone!
 
 
 White and Green
-
 
 
    Hey!  My daffodil-crowned,
@@ -4580,26 +4206,20 @@ White and Green
    Leaping and flickering between the budded branches.
 
 
-
-
 Aubade
-
 
 
    As I would free the white almond from the green husk
    So would I strip your trappings off,
    Beloved.
    And fingering the smooth and polished kernel
-   I should see that in my hands glittered a gem beyond counting.
-
-
+I should see that in my hands glittered a gem beyond counting.
 
 
 Music
 
 
-
-   The neighbour sits in his window and plays the flute.
+The neighbour sits in his window and plays the flute.
    From my bed I can hear him,
    And the round notes flutter and tap about the room,
    And hit against each other,
@@ -4626,10 +4246,7 @@ Music
    And I go to sleep, dreaming.
 
 
-
-
 A Lady
-
 
 
    You are beautiful and faded
@@ -4652,10 +4269,7 @@ A Lady
    That its sparkle may amuse you.
 
 
-
-
 In a Garden
-
 
 
    Gushing from the mouths of stone men
@@ -4681,15 +4295,12 @@ In a Garden
    White and shining in the silver-flecked water.
    While the moon rode over the garden,
    High in the arch of night,
-   And the scent of the lilacs was heavy with stillness.
+And the scent of the lilacs was heavy with stillness.
 
-   Night, and the water, and you in your whiteness, bathing!
-
-
+Night, and the water, and you in your whiteness, bathing!
 
 
 A Tulip Garden
-
 
 
    Guarded within the old red wall's embrace,
@@ -4709,8 +4320,6 @@ A Tulip Garden
 
 
 [End of original text.]
-
-
 
 
 Notes:
@@ -4763,59 +4372,23 @@ Some books by Amy Lowell:
     Ballads For Sale
 
   (In collaboration with Florence Ayscough)
-    Fir-Flower Tablets:  Poems Translated from the Chinese (1921)
+Fir-Flower Tablets:  Poems Translated from the Chinese (1921)
 
 
-  Prose:
-    John Keats
-    Six French Poets:  Studies in Contemporary Literature (1915)
-    Tendencies in Modern American Poetry (1917)
+Prose:
+John Keats
+Six French Poets:  Studies in Contemporary Literature (1915)
+Tendencies in Modern American Poetry (1917)
 
 * Now available online from Project Gutenberg.
 
 
-
-
 About the author:
 
-From the notes to "The Second Book of Modern Verse" (1919, 1920),
-edited by Jessie B. Rittenhouse.
+From the notes to "The Second Book of Modern Verse" (1919, 1920), edited by Jessie B. Rittenhouse.
 
 
-Lowell, Amy.  Born in Brookline, Mass., Feb. 9, 1874. Educated at
-private schools.  Author of "A Dome of Many-Coloured Glass", 1912;
-"Sword Blades and Poppy Seed", 1914; "Men, Women and Ghosts", 1916; "Can
-Grande's Castle", 1918; "Pictures of the Floating World", 1919. Editor
-of the three successive collections of "Some Imagist Poets", 1915, '16,
-and '17, containing the early work of the "Imagist School" of which Miss
-Lowell became the leader.  This movement,... originated in England,
-the idea have been first conceived by a young poet named T. E. Hulme,
-but developed and put forth by Ezra Pound in an article called "Don'ts
-by an Imagist", which appeared in `Poetry; A Magazine of Verse'. ...
-A small group of poets gathered about Mr. Pound, experimenting along the
-technical lines suggested, and a cult of "Imagism" was formed, whose
-first group-expression was in the little volume, "Des Imagistes",
-published in New York in April, 1914. Miss Lowell did not come actively
-into the movement until after that time, but once she had entered it,
-she became its leader, and it was chiefly through her effort in America
-that the movement attained so much prominence and so influenced the
-trend of poetry for the years immediately succeeding. Miss Lowell many
-times, in admirable articles, stated the principles upon which Imagism
-is based, notably in the Preface to "Some Imagist Poets" and in the
-Preface to the second series, in 1916.  She also elaborated it much more
-fully in her volume, "Tendencies in Modern American Poetry", 1917, in
-the articles pertaining to the work of "H.D." and John Gould Fletcher.
-In her own creative work, however, Miss Lowell did most to establish the
-possibilities of the Imagistic idea and of its modes of presentation,
-and opened up many interesting avenues of poetic form.  Her volume, "Can
-Grande's Castle", is devoted to work in the medium which she styled
-"Polyphonic Prose" and contains some of her finest work, particularly
-"The Bronze Horses".
-
-
-
+Lowell, Amy.  Born in Brookline, Mass., Feb. 9, 1874. Educated at private schools.  Author of "A Dome of Many-Coloured Glass", 1912; "Sword Blades and Poppy Seed", 1914; "Men, Women and Ghosts", 1916; "Can Grande's Castle", 1918; "Pictures of the Floating World", 1919. Editor of the three successive collections of "Some Imagist Poets", 1915, '16, and '17, containing the early work of the "Imagist School" of which Miss Lowell became the leader.  This movement,... originated in England, the idea have been first conceived by a young poet named T. E. Hulme, but developed and put forth by Ezra Pound in an article called "Don'ts by an Imagist", which appeared in `Poetry; A Magazine of Verse'. ... A small group of poets gathered about Mr. Pound, experimenting along the technical lines suggested, and a cult of "Imagism" was formed, whose first group-expression was in the little volume, "Des Imagistes", published in New York in April, 1914. Miss Lowell did not come actively into the movement until after that time, but once she had entered it, she became its leader, and it was chiefly through her effort in America that the movement attained so much prominence and so influenced the trend of poetry for the years immediately succeeding. Miss Lowell many times, in admirable articles, stated the principles upon which Imagism is based, notably in the Preface to "Some Imagist Poets" and in the Preface to the second series, in 1916.  She also elaborated it much more fully in her volume, "Tendencies in Modern American Poetry", 1917, in the articles pertaining to the work of "H.D." and John Gould Fletcher. In her own creative work, however, Miss Lowell did most to establish the possibilities of the Imagistic idea and of its modes of presentation, and opened up many interesting avenues of poetic form.  Her volume, "Can Grande's Castle", is devoted to work in the medium which she styled "Polyphonic Prose" and contains some of her finest work, particularly "The Bronze Horses".
 
 
 End of Project Gutenberg's Sword Blades and Poppy Seed, by Amy Lowell
-
-*** END OF THE PROJECT GUTENBERG EBOOK 1020 ***

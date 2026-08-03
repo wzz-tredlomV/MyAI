@@ -1,62 +1,9 @@
-The Project Gutenberg EBook of Literary Blunders, by Henry Benjamin Wheatley
+<ae>, <_!>, <oe>, <_'>, <_'m>, <_u>, <_?>, <_:>, <AE>, <Dag>, and <Pd> "Larsen EB-11" encodes are used.  Comments in {brackets} need stripped. <?_> is a special encode for unknown/non ASCII characters. Greek characters are in the Adobe symbol font delimited by <gr > italics <ae> and <oe> may be transposed ?? (they look alike to me.) Footnotes are moved from end of page to end of paragraph position. They are renumbered sequentially as well.  (No. [14] is obtrusive) Uncertain characters are marked ??  No "emphasis" _italics_ marked.
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+A bit of latin, greek, french, and olde englishe need spellchecked. this whole etext NEEDS spellchecked too!!  Index needs checked! There is a <Table> on "pages" 110-111 that have LOTS of non-ascii characters.  Many have the correct encode, but layout needs work!!!
 
 
-Title: Literary Blunders
-
-Author: Henry Benjamin Wheatley
-
-Posting Date: March 22, 2012 [EBook #371]
-Release Date: December, 1995
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK LITERARY BLUNDERS ***
-
-
-
-
-Produced by Charles Keller
-
-
-
-
-
-
-
-
-
-<ae>, <_!>, <oe>, <_'>, <_'m>, <_u>, <_?>, <_:>, <AE>, <Dag>, and <Pd>
-"Larsen EB-11" encodes are used.  Comments in {brackets} need stripped.
-<?_> is a special encode for unknown/non ASCII characters.
-Greek characters are in the Adobe symbol font delimited by <gr >
-italics <ae> and <oe> may be transposed ?? (they look alike to me.)
-Footnotes are moved from end of page to end of paragraph position.
-They are renumbered sequentially as well.  (No. [14] is obtrusive)
-Uncertain characters are marked ??  No "emphasis" _italics_ marked.
-
-A bit of latin, greek, french, and olde englishe need spellchecked.
-this whole etext NEEDS spellchecked too!!  Index needs checked!
-There is a <Table> on "pages" 110-111 that have LOTS of non-ascii
-characters.  Many have the correct encode, but layout needs work!!!
-
-
-
-
-
-
-
-Scanned by Charles Keller with
-OmniPage Professional OCR software
-donated by Caere Corporation, 1-800-535-7226.
-Contact Mike Lough <Mikel@caere.com>
-
+Scanned by Charles Keller with OmniPage Professional OCR software donated by Caere Corporation, 1-800-535-7226. Contact Mike Lough <Mikel@caere.com>
 
 
 LITERARY BLUNDERS
@@ -69,10 +16,7 @@ BY
 HENRY B. WHEATLEY, F.S.A.
 
 
-
-
-PREFACE.
-----
+PREFACE. ----
 
 _EVERY reader of_ The Caxtons
 _will remember the description,
@@ -88,8 +32,7 @@ seven sheets were printed by Uncle
 Jack's Anti-Publishers' Society, ``with
 sundry unfinished plates depicting the
 various developments of the human
-skull (that temple of Human Error),''<p _>
-and the remainder has not been heard
+skull (that temple of Human Error),''<p _> and the remainder has not been heard
 of since.
 
 In introducing to the reader a small
@@ -110,9 +53,7 @@ my readers will transpose the
 adjectives, and accept the old jokes for
 the sake of the new ones.  I may claim,
 at least, that the series of answers to
-examination questions, which Prof.
-Oliver Lodge has so kindly supplied
-me with, comes within the later class.<p _>
+examination questions, which Prof. Oliver Lodge has so kindly supplied me with, comes within the later class.<p _>
 
 I trust that if some parts of the
 book are thought to be frivolous, the
@@ -120,9 +61,7 @@ chapters on lists of errata and misprints
 may be found to contain some
 useful literary information.
 
-I have availed myself of the published
-communications of my friends
-Professors Hales and Skeat and Dr.
+I have availed myself of the published communications of my friends Professors Hales and Skeat and Dr.
 Murray on Literary Blunders, and
 my best thanks are also due to several
 friends who have helped me with some
@@ -133,14 +72,12 @@ Mr. R. B. Prosser, and Sir Henry
 Trueman Wood_.<p _>
 
 
-
-CONTENTS.
-----
+CONTENTS. ----
 CHAPTER
 
 BLUNDERS IN GENERAL.
 
-                                                  PAGE
+PAGE
 
 Distinction between a blunder and a mistake--
 Long life of a literary blunder
@@ -165,7 +102,7 @@ writers--Critics . . . . . . . . . . . . . . . . . . . . . . . 31
 CHAPTER III.
 
 BLUNDERS OF TRANSLATORS.
-                                                  PAGE
+PAGE
 
 ``Translators are traitors''--Amusing
 translations--Translations of names--
@@ -177,8 +114,7 @@ CHAPTER IV.
 
 BIBLIOGRAPHICAL BLUNDERS.
 
-Watt's _Bibliotheca Britannica_--Imaginary
-authors--Faulty classification . . . . . . . . . . . . . . . . 63
+Watt's _Bibliotheca Britannica_--Imaginary authors--Faulty classification . . . . . . . . . . . . . . . . 63
 
 CHAPTER V.
 
@@ -202,7 +138,7 @@ lines--Chaucer--Misplacement of type . . . . . . . . . . . . .100
 
 
 <p _>
-                                                  PAGE
+PAGE
 CHAPTER VII.
 
 SCHOOLBOYS' BLUNDERS.
@@ -219,8 +155,7 @@ CHAPTER VIII.
 
 FOREIGNERS ENGLISH.
 
-Exhibition English--French Work on the
-Societies of the World--Hotel keepers'
+Exhibition English--French Work on the Societies of the World--Hotel keepers'
 English--Barcelona Exhibition--Paris
 Exhibition of 1889--How to learn English--
 Foreign Guides in so called English
@@ -228,7 +163,6 @@ Foreign Guides in so called English
 Shenstone. . . . . . . . . . . . . . . . . . . . . . . . . . .188
 
 INDEX. . . . . . . . . . . . . . . . . . . . . . . . . . . . .215
-
 
 
 LITERARY BLUNDERS.
@@ -362,9 +296,7 @@ when the original MS. of Sir Walter Scott
 was consulted, it was found that the word
 was there plainly written _nurse_.
 
-The Saxon letter for _th_ (<?p>) has long
-<p 6>been a sore puzzle to the uninitiated, and
-it came to be represented by the letter y.
+The Saxon letter for _th_ (<?p>) has long <p 6>been a sore puzzle to the uninitiated, and it came to be represented by the letter y.
 Most of those who think they are writing
 in a specially archaic manner when they
 spell ``ye'' for ``the'' are ignorant of this,
@@ -512,9 +444,7 @@ amanuensis, the scribe, imagining from the
 sound that the six first letters would give
 the translation of the verb, said ``Concur,
 sir, I suppose?'' to which the Doctor
-peevishly replied, ``Concur--condog!''
-and in the edition of 1678 ``condog'' is
-printed as one interpretation of _concurro_.
+peevishly replied, ``Concur--condog!'' and in the edition of 1678 ``condog'' is printed as one interpretation of _concurro_.
 Now, an answer to this story is that, however
 odd a word ``condog'' may appear,
 it will be found in Henry Cockeram's
@@ -536,8 +466,7 @@ at once made--_animalcul<ae>_.  This blunder
 is one constantly being made, while it is
 only occasionally we see a supposed plural
 <p 12>_strat<ae>_ in geology from a supposed singular
-strata, and the supposed singular _formulum_
-from a supposed plural _formula_ will probably
+strata, and the supposed singular _formulum_ from a supposed plural _formula_ will probably
 turn up some day.
 
 In connection with popular etymology,
@@ -559,8 +488,7 @@ are so numerous and have so often been
 noted that we must not allow them to
 detain us here longer.
 
-Imaginary persons have been brought
-into being owing to blundering misreading.
+Imaginary persons have been brought into being owing to blundering misreading.
 For instance, there are many saints
 in the Roman calendar whose individuality
 it would not be easy to prove.  All
@@ -572,9 +500,7 @@ her name, the unfortunate virgin martyr
 Undecimilla has dropped out of the
 calendar.
 
-Less known is the origin of Saint Xynoris,
-the martyr of Antioch, who is noticed in
-the _Martyrologie Romaine_ of Baronius.
+Less known is the origin of Saint Xynoris, the martyr of Antioch, who is noticed in the _Martyrologie Romaine_ of Baronius.
 Her name was obtained by a misreading
 of Chrysostom, who, referring to two
 martyrs, uses the word <gr xunwr<i!>s> (couple or
@@ -630,9 +556,7 @@ out of the possessive case.  In one of
 8 Edward III. we read of the ``King's
 highway, called Seint Fastes lane.''  Of
 course this was pronounced St. _Faust<e'>s_,
-and we at once have the two syllables.
-The next form is in a deed of May 1360,
-where it stands as ``Seyn Fastreslane.''
+and we at once have the two syllables. The next form is in a deed of May 1360, where it stands as ``Seyn Fastreslane.''
 We have here, not a final _r_ as in the latest
 form, but merely an intrusive trill.  This
 follows the rule by which thesaurus became
@@ -655,7 +579,6 @@ January 3rd, 1885, p. 15; and a paper by the
 Rev. W. Sparrow Simpson in the _Jourral of
 the British Arch<ae>ological Association_ (vol. xliii.,
 p. 56).
-
 
 
 The existence of the famous St. Vitus
@@ -699,9 +622,7 @@ British House of Commons, not the whole
 bench of Bishops, not even Leviticus himself,
 should prevent him from marrying his
 deceased wife's sister.''  One of the jokes
-in Mark Twain's _Huckleberry Finn_
-(ch. xxiii.) turns on the use of this same
-expression ``Leviticus himself.''
+in Mark Twain's _Huckleberry Finn_ (ch. xxiii.) turns on the use of this same expression ``Leviticus himself.''
 
 The picturesque writer who draws a
 well-filled-in picture from insufficient data
@@ -784,9 +705,7 @@ dignity which he had just assumed.  It
 is said that instructions written in cypher
 were sent to him, with particular directions
 that he should not apply on this subject
-to Father Wolff, the Emperor's confessor.
-The person who copied these instructions,
-however, happened to omit the word _not_
+to Father Wolff, the Emperor's confessor. The person who copied these instructions, however, happened to omit the word _not_
 in the copy in cypher.  Bartholdi was
 surprised at the order, but obeyed it and
 made the matter known to Wolff; who,
@@ -794,21 +713,15 @@ in the greatest astonishment, declared that
 although he had always been hostile to
 the measure, he could not resist this
 proof of the Elector's confidence, which
-had made a deep impression upon him.
-<p 21>It was thought that the mediation of the
-confessor had much to do with the
-accomplishment of the Elector's wishes.
+had made a deep impression upon him. <p 21>It was thought that the mediation of the confessor had much to do with the accomplishment of the Elector's wishes.
 
-Misquotations form a branch of literary
-blunders which may be mentioned here.
+Misquotations form a branch of literary blunders which may be mentioned here.
 
 The text ``He may run that readeth
 it'' (Hab. ii. 2) is almost invariably
 quoted as ``He who runs may read'';
 and the Divine condemnation ``In the
-sweat of thy face shalt thou eat bread'
-(Gen. iii. 19) is usually quoted as ``sweat
-of thy brow.''
+sweat of thy face shalt thou eat bread' (Gen. iii. 19) is usually quoted as ``sweat of thy brow.''
 
 The manner in which Dr. Johnson
 selected the quotations for his Dictionary
@@ -892,17 +805,12 @@ page instead of down the column of a
 newspaper, with such results as the following:--
 
 
-     [2] See _Spectator_, December 24th, 1887, for
-specimens of family lingo.
+[2] See _Spectator_, December 24th, 1887, for specimens of family lingo.
 
 
+``A new Bank was lately opened at Northampton--<?pointer> no money returned.''
 
-``A new Bank was lately opened at
-Northampton--<?pointer> no money returned.''
-
-``The Speaker's public dinners will
-commence next week--admittance, 3/- to
-see the animals fed.''
+``The Speaker's public dinners will commence next week--admittance, 3/- to see the animals fed.''
 
 As blunders are a class of mistakes, so
 ``bulls'' are a sub-class of blunders.  No
@@ -932,8 +840,7 @@ incongruous ideas with the sensation but
 without the sense of connection.''[3]
 
 
-     [3] Southey's _Omniana_, vol. i., p. 220.
-
+[3] Southey's _Omniana_, vol. i., p. 220.
 
 
 Bulls are usually associated with the
@@ -954,10 +861,7 @@ _bull_, my lord.''  Whereat the company
 was highly amused.[4]
 
 
-     [4] Thoms, _Anecdotes and Traditions_, 1839, p
-79
-
-
+[4] Thoms, _Anecdotes and Traditions_, 1839, p
 
 
 One of the best-known bulls is that
@@ -968,15 +872,10 @@ to distinguish between natural tracks and
 made roads:--
 
      ``Had you seen these roads before they were made,
-       You would lift up your hands and bless General Wade.''
+You would lift up your hands and bless General Wade.''
 
 
-The bulletins of Pope Clement XIV.'s
-last illness, which were announced at the
-Vatican, culminated in a very fair bull.
-The notices commenced with ``His Holiness
-is very ill,'' and ended with ``His
-Infallibility is delirious.''
+The bulletins of Pope Clement XIV.'s last illness, which were announced at the Vatican, culminated in a very fair bull. The notices commenced with ``His Holiness is very ill,'' and ended with ``His Infallibility is delirious.''
 
 Negro bulls have frequently been
 reported, but the health once proposed by
@@ -1024,10 +923,7 @@ third is quoted in the _Greville Memoirs_:
 Church, and embraced those of the
 Protestant.''
 
-It is said that the Irish Statute Book
-opens characteristically with, ``An Act
-that the King's officers may travel _by sea_
-from one place to another within the _land_
+It is said that the Irish Statute Book opens characteristically with, ``An Act that the King's officers may travel _by sea_ from one place to another within the _land_
 of Ireland''; but one of the main objects
 of the _Essay on Irish Bulls_, by Maria
 Edgeworth and her father, Richard Lovell
@@ -1080,7 +976,6 @@ of Ireland has a somewhat artificial look:
 and is not yet full.''
 
 
-
 CHAPTER II.
 
 BLUNDERS OF AUTHORS.
@@ -1108,9 +1003,7 @@ books on subjects of which he knew
 <p 32>nothing.  Thus, Johnson said that if he
 could tell a horse from a cow that was
 the extent of his knowledge of zoology;
-and yet the _History of Animated Nature_
-can still be read with pleasure from the
-charm of the author's style.
+and yet the _History of Animated Nature_ can still be read with pleasure from the charm of the author's style.
 
 Some authors are so careless in the
 construction of their works as to contradict in
@@ -1159,8 +1052,7 @@ Inverness-shire; and Bachaumont misled
 his successor by writing Gast Le Hill for
 Castle Hill.  The introduction of a stop
 and a little more misspelling resulted in
-the blunder as we now find it.
-<p 34>
+the blunder as we now find it. <p 34>
 
 Authors and editors are very apt to take
 things for granted, and they thus fall into
@@ -1253,8 +1145,7 @@ of a few letters has here made the mighty
 difference between the power of curing
 scrofula and the gift of holding the stars.
 
-In some copies of John Britton's
-_Descriptive Sketches of Tunbridge Wells_
+In some copies of John Britton's _Descriptive Sketches of Tunbridge Wells_
 (1832) the following extraordinary passage
 will be found:  ``Judge Jefferies, a man
 who has rendered his name infamous in
@@ -1322,8 +1213,7 @@ enough that the Blatant Beast did not
 die in the poem as Spenser left it.
 
 
-     [5] _Edinburgh Review_, vol. liv. (1831), p. 452.
-
+[5] _Edinburgh Review_, vol. liv. (1831), p. 452.
 
 
 The newspaper writers are great sinners,
@@ -1383,8 +1273,7 @@ this custom was general before A.D. 1400'';
 but how he obtained that date out of the
 previous communication no one can tell.
 
-The _Times_ made a strange blunder in
-describing a gallery of pictures:  ``Mr.
+The _Times_ made a strange blunder in describing a gallery of pictures:  ``Mr.
 Robertson's group of `Susannah and the
 Elders,' with the name of Pordenone,
 contains some passages of glowing colour
@@ -1398,9 +1287,7 @@ study and production of the old Adam
 phase of human nature which Milton
 hit off so sublimely in the _Inferno_.
 
-A writer in the _Notes and Queries_
-confused Beersheba with Bathsheba, and
-conferred on the woman the name of the
+A writer in the _Notes and Queries_ confused Beersheba with Bathsheba, and conferred on the woman the name of the
 place.
 
 It has often been remarked that a
@@ -1432,10 +1319,7 @@ the following remarks in his preface:  ``In
 making a selection of this kind one sails
 between Scylla and Charybdis--the hackneyed
 and the strange.  I have done my
-best to steer clear of both these rocks.''
-A leader-writer in a morning paper a
-few months ago made the same blunder
-when he wrote:  ``As a matter of fact, Mr.
+best to steer clear of both these rocks.'' A leader-writer in a morning paper a few months ago made the same blunder when he wrote:  ``As a matter of fact, Mr.
 Gladstone was bound to bump against
 either Scylla or Charybdis.''  It has
 generally been supposed that Scylla only was
@@ -1522,7 +1406,6 @@ if a story like this was once set into
 circulation it was not likely to be allowed to
 die by the many who were glad to have a
 laugh at the rising barrister.
-
 
 
 CHAPTER III.
@@ -1695,10 +1578,7 @@ Matin_; and the translation which Walpole
 French say was made by a Frenchman
 named La Place.
 
-The title of the old farce _Hit or Miss_
-was turned into _Frapp<e'> ou Mademoiselle_,
-and the _Independent Whig_ into _La
-Perruque Ind<e'>pendante_.
+The title of the old farce _Hit or Miss_ was turned into _Frapp<e'> ou Mademoiselle_, and the _Independent Whig_ into _La Perruque Ind<e'>pendante_.
 
 In a late number of the _Literary
 World_ the editor, after alluding to the
@@ -1792,7 +1672,7 @@ Village_,
 
 into
 
- ``Comme la mer d<e'>truit les travaux de la taupe.''
+``Comme la mer d<e'>truit les travaux de la taupe.''
 
 
 D'Israeli records two comical translations
@@ -1804,9 +1684,7 @@ meaning broke on a wheel and translated
 it by _rou<e'>_ made a very serious matter of
 what was possibly but a small fault.
 
-In the translation of _The Conscript_ by
-Erckmann-Chatrian, the old botcher is
-turned into the old butcher.
+In the translation of _The Conscript_ by Erckmann-Chatrian, the old botcher is turned into the old butcher.
 
 Sometimes in attempting to correct a
 supposed blunder of another we fall into
@@ -1866,8 +1744,7 @@ judged'' was rendered ``Be not just to
 others, lest others should be just to
 you.''
 
-The French have tried ingeniously to
-<p 59>explain the difficulty contained in _St.
+The French have tried ingeniously to <p 59>explain the difficulty contained in _St.
 Matthew_ xix. 24, ``It is easier for a camel
 to go through the eye of a needle than
 for a rich man to enter into the kingdom
@@ -1883,19 +1760,15 @@ It is full of cant words, and reads like
 the work of a madman.  This is a fair
 specimen of the work:--
 
- ``Theese thre were upbotching, not shapte, but partlye wel onward,
-   A clapping fierbolt (such as oft, with rownce robel-hobble,
-   Jove to the ground clattreth) but yeet not finished holye.''
+``Theese thre were upbotching, not shapte, but partlye wel onward,
+A clapping fierbolt (such as oft, with rownce robel-hobble,
+Jove to the ground clattreth) but yeet not finished holye.''
 
 
 M. Guyot, translating some Latin epigrams
 under the title of _Fleurs, Morales, et
 <E'>pigrammatiques_, uses the singular forms
-Monsieur Zo<i:>le and Mademoiselle Lycoris.
-The same author, when translating the
-letters of Cicero (1666), turns Pomponius
-into M. de Pomponne.
-<p 60>
+Monsieur Zo<i:>le and Mademoiselle Lycoris. The same author, when translating the letters of Cicero (1666), turns Pomponius into M. de Pomponne. <p 60>
 
 Pitt's friend, Pepper Arden, Master of
 the Rolls, Lord Chief Justice of the
@@ -1905,9 +1778,7 @@ considered somewhat appropriate, but to
 make it still more so his friends translated
 it into ``Mons. Poivre Ardent.''
 
-This reminds one of the Frenchman who
-toasted Dr. Johnson, not as Mr. Rambler,
-but as Mr. Vagabond.
+This reminds one of the Frenchman who toasted Dr. Johnson, not as Mr. Rambler, but as Mr. Vagabond.
 
 Tom Moore notices some amusing mis-
 translations in his _Diary_.  Major
@@ -1930,8 +1801,7 @@ Moore also relates that an account
 <p 61>having appeared in the London papers
 of a row at the Stock Exchange, where
 some strangers were hustled, it appeared
-in the Paris papers in this form:  ``Mons.
-Stock Exchange <e'>tait <e'>chauff<e'>,'' etc.
+in the Paris papers in this form:  ``Mons. Stock Exchange <e'>tait <e'>chauff<e'>,'' etc.
 
 There is something to be said in favour
 of the humorous translation of _Magna est
@@ -1957,8 +1827,7 @@ a reference to Shakespeare's remarkable
 translation of _Finis Coronat opus_.  Helena
 remarks in _All's well that Ends well_ (act
 iv., sc. 4):--
-<p 62>
-``All's well that ends well: still _the fine's the crown_.''
+<p 62> ``All's well that ends well: still _the fine's the crown_.''
 
 
 In the _Second Part of King Henry VI_.
@@ -1971,7 +1840,6 @@ of the proverb:--
 In the first Folio we read:--
 
      ``La fin corrone les eumenes.''
-
 
 
 CHAPTER IV.
@@ -2048,10 +1916,7 @@ that this method of writing was first
 introduced to the Greeks by Xenophon
 himself.''  Tn another part of the same
 article the oldest method of shorthand
-extant, entitled ``Ars Scribendi Characteris,''
-is said to have been printed about
-the year 1412--that is, long before printing
-was invented.  In the _Biographie Univer<p 66>selle_
+extant, entitled ``Ars Scribendi Characteris,'' is said to have been printed about the year 1412--that is, long before printing was invented.  In the _Biographie Univer<p 66>selle_
 there is a life of one Nicholas Donis,
 by Baron Walckenaer, which is a blundering
 alteration of the real name of a
@@ -2085,9 +1950,7 @@ is a reverse case of a catalogue made by
 a worthy bookseller of the name of William
 London, which was long supposed to be
 the work of Dr. William Juxon, the Bishop
-of London at the time of publication.
-The entry in the _Biographie Moderne_ of
-``Brigham _le jeune_ ou Brigham Young''
+of London at the time of publication. The entry in the _Biographie Moderne_ of ``Brigham _le jeune_ ou Brigham Young''
 furnishes a fine instance of a writer
 succumbing to the ever-present temptation
 to be too clever by half.  A somewhat
@@ -2133,15 +1996,7 @@ entitled _Graduale Passagio delle Crittogame
 alle Fanerogame_ (1876), has been entered
 in a German bibliography as written by
 G. Passagio.  In an English list Kelaart's
-_Flora Calpensis: Reminiscences of Gibraltar_
-(1846) appears as the work of a lady--
-<p 69>Christian name, Flora; _surname_, Calpensis.
-In 1837 a _Botanical-Lexicon_ was published
-by an author who described himself as
-``The Rev. Patrick Keith, Clerk, F.L.S.''
-This somewhat pedantic form deceived a
-foreign cataloguer, who took Clerk for the
-surname, and contracted ``Patrick Keith''
+_Flora Calpensis: Reminiscences of Gibraltar_ (1846) appears as the work of a lady-- <p 69>Christian name, Flora; _surname_, Calpensis. In 1837 a _Botanical-Lexicon_ was published by an author who described himself as ``The Rev. Patrick Keith, Clerk, F.L.S.'' This somewhat pedantic form deceived a foreign cataloguer, who took Clerk for the surname, and contracted ``Patrick Keith''
 into the initials P.K.  More inexcusable
 was the blunder of an American who, in
 describing J. E. H. Gordon's work on
@@ -2217,11 +2072,7 @@ gave the title of Boehm's tract as
 ``Reflexions sur les Bottes d'Isaie.''
 
 
-
-[6] ``Bedencken <u:>ber Esai<ae> Stiefels Buchlein:
-von dreyerley Zustandt des Menschen unnd dessen
-newen Geburt.''  1639.
-
+[6] ``Bedencken <u:>ber Esai<ae> Stiefels Buchlein: von dreyerley Zustandt des Menschen unnd dessen newen Geburt.''  1639.
 
 
 It is scarcely fair to make capital out
@@ -2239,10 +2090,7 @@ appeared under the following singular
 French form:  BOY (le), Chymista scepticus
 vel dubia et paradoxa chymico-physica, &c.
 
-``Mr. Tul. Cicero's Epistles'' looks
-strange, but the mistake is but small.
-The very natural blunder respecting the
-title of Shelley's _Prometheus Unbound_
+``Mr. Tul. Cicero's Epistles'' looks strange, but the mistake is but small. The very natural blunder respecting the title of Shelley's _Prometheus Unbound_
 actually did occur; and, what is more, it
 was expected by Theodore Hook.  This is
 an accurate copy of the description in the
@@ -2250,13 +2098,9 @@ catalogue of a year or two back:--
 
 ``Shelley's Prometheus _Unbound_.
 
----- another copy, _in whole calf_.''
-and these are Hook's lines:--
+---- another copy, _in whole calf_.'' and these are Hook's lines:--
 
- ``Shelley styles his new poem `Prometheus Unbound,'
- And 'tis like to remain so while time circles round;
- <p 73>For surely an age would be spent in the finding
- A reader so weak as _to pay for the binding_.''
+``Shelley styles his new poem `Prometheus Unbound,' And 'tis like to remain so while time circles round; <p 73>For surely an age would be spent in the finding A reader so weak as _to pay for the binding_.''
 
 
 When books are classified in a catalogue
@@ -2350,10 +2194,7 @@ of goods or a city directory, he uses no
 metaphors; his pen does not hesitate for
 the plainest word.  He must make himself
 understood by common men.  But
-if he makes a book the case is different.
-It must have the charm of a pleasing
-title.  If there is nothing new within, the
-back at least must be novel and taking.
+if he makes a book the case is different. It must have the charm of a pleasing title.  If there is nothing new within, the back at least must be novel and taking.
 He tortures his imagination for something
 which will predispose the reader in its
 favour.  Mr. Parker writes a series of
@@ -2397,7 +2238,6 @@ way of the bibliographer--a worker who
 needs universal knowledge if he is to
 wend his way safely through the snares
 in his path.
-
 
 
 CHAPTER V.
@@ -2453,9 +2293,7 @@ Sometimes apparent blunders have been
 intentionally made; thus, to escape the
 decree of the Inquisition that the words
 fatum and fata should not be used in
-<p 80>any work, a certain author printed _facta_
-in his book, and added in the errata ``_for_
-facta _read_ fata.''
+<p 80>any work, a certain author printed _facta_ in his book, and added in the errata ``_for_ facta _read_ fata.''
 
 In dealing with our own older literature
 we find a considerable difference in degree
@@ -2526,7 +2364,7 @@ Printer haue just cause hereafter to be
 more carefull, and acknowledge himselfe
 most bounden (at all times) to do your
 service to the utmost of his power.
-               ``Yours R. J., PRINTER.''
+``Yours R. J., PRINTER.''
 
 
 A little scientific book, entitled _The
@@ -2540,11 +2378,9 @@ or printer:--
 these faults, because I finde by experience,
 that it is an harder matter to
 print these mathematicall books trew,
-then bookes of other discourse.''
-<p 83>
+then bookes of other discourse.'' <p 83>
 
-Arthur Hopton's _Baculum Geod<ae>ticum
-sive Viaticum or the Geodeticall Staffe_
+Arthur Hopton's _Baculum Geod<ae>ticum sive Viaticum or the Geodeticall Staffe_
 (1610), contains the following quaint lines
 at the head of the list of errata:--
 
@@ -2559,8 +2395,7 @@ at the head of the list of errata:--
      The next edition makes amends for all.''
 
 
-Thomas Heywood, the voluminous dramatist,
-added to his _Apology for Actors_
+Thomas Heywood, the voluminous dramatist, added to his _Apology for Actors_
 (1612) an interesting address to the
 printer of his tract, which, besides drawing
 attention to the printer's dislike of his
@@ -2611,7 +2446,7 @@ I knowe you to bee cleere of; and I could
 wish but to bee the happy author of so
 worthy a worke as I could willingly commit
 to your care and workmanship.
-          ``Yours ever, THOMAS HEYWOOD.''
+``Yours ever, THOMAS HEYWOOD.''
 
 
 In the eighteenth century printers and
@@ -2652,8 +2487,7 @@ of which are so near in sound, to the
 words of the author, that they may easily
 be mistaken for his.''
 
-The next two books to be mentioned
-were published in the same year--1679.
+The next two books to be mentioned were published in the same year--1679.
 The noble author referred to in the first is
 that Roger Palmer who had the dishonour
 of being the husband of Charles II.'s
@@ -2765,9 +2599,7 @@ himselfe.''
 The late Dr. Brinsley Nicholson raised
 this question in _Notes and Queries_ in 1889,
 and by his research it is possible to
-antedate the practice by nearly forty years.
-For several of the following quotations I
-am indebted to that invaluable periodical.
+antedate the practice by nearly forty years. For several of the following quotations I am indebted to that invaluable periodical.
 In Scot's _Hop-Garden_ (1574) we find the
 following excuse:--
 
@@ -2800,10 +2632,7 @@ Who being not so well acquainted with
 the matter as his maister was, there haue
 passed some faultes much contrary unto
 both our meanings and desires.  The which
-I have therefore collected into this Table.
-Desiring every Reader that wyll vouchsafe
-to peruse this booke, that he will firste
-correct those faultes and then judge accordingly.''
+I have therefore collected into this Table. Desiring every Reader that wyll vouchsafe to peruse this booke, that he will firste correct those faultes and then judge accordingly.''
 
 A particularly interesting note on this
 point precedes the list of errata in Stanyhurst's
@@ -2858,8 +2687,7 @@ standeth uppon the finishing of the
 book.''[7]
 
 
-     [7] _Notes and Queries_, 7th Series, viii. 73.
-
+[7] _Notes and Queries_, 7th Series, viii. 73.
 
 
 Another proof of the general practice
@@ -2944,11 +2772,10 @@ and returned, the following ensues:--
 
      _Lap_.    What says my Printer now?
      _Clown_.  Here's your last Proof, Sir.
-               You shall have perfect Books now in a twinkling.[8]
+You shall have perfect Books now in a twinkling.[8]
 
 
-     [8]2 _Notes and Queries_, 7th Series, viii. 253.
-
+[8]2 _Notes and Queries_, 7th Series, viii. 253.
 
 
 The following address, which contains
@@ -2969,8 +2796,7 @@ escapes passed the press, and (which was
 <p 97>the worst fault of all) the third part is left
 unpaged.''
 
-As a later example we may cite from
-Sir Peter Leycester's _Historical Antiquities_
+As a later example we may cite from Sir Peter Leycester's _Historical Antiquities_
 (1673), where we find this note:  ``Reader,
 By reason of the author's absence, several
 faults have escaped the press: those which
@@ -3038,7 +2864,6 @@ many books in which the same blunders
 have been repeated in various editions,
 although they had been pointed out in an
 early issue.
-
 
 
 CHAPTER VI.
@@ -3123,19 +2948,14 @@ ingenuity, the unsettled spellings of our
 emendation, however extravagant, a typographical
 possibility.  A large number of their
 misprints could only have been perpetrated
-in the midst of the old orthographies.
-Under no other conditions could _ice_ have
-been converted into _ye_, _air_ into _time_, _home_
+in the midst of the old orthographies. Under no other conditions could _ice_ have been converted into _ye_, _air_ into _time_, _home_
 into _honey_, _attain_ into _at any_, _sun_ into
 _sinner_, _stone_ into _story_, _deem_ into _deny_,
 _dire_ into _dry_, the old spellings of the
 italicised words being respectively, yce,
 yee, ayre, tyme, home, honie, attaine, att
 anie, sunne, sinner, stone, storie, deeme,
-denie, dire, drie.  The form of the long _s_
-should also be sometimes taken into
-consideration, for it could only have been
-owing to its use that such a word as _some_
+denie, dire, drie.  The form of the long _s_ should also be sometimes taken into consideration, for it could only have been owing to its use that such a word as _some_
 could have been misprinted _four, niece_ for
 _wife, prefer_ for _preserve, find_ for _fifth_, the
 variant old spellings being foure, neese,
@@ -3144,14 +2964,7 @@ preferre.''
 Among the instances of misprints given
 in this Dictionary may be noticed the
 following: actions _for_ axioms, agreement
-_for_ argument, all-eyes _for_ allies, aloud _for_
-allowed, banish'd _for_ ravish'd, cancel _for_
-cantel, candle _for_ caudle, culsedness
-<p 104>_for_ ourselves, eye-sores _for_ oysters, felicity
-_for_ facility, Hector _for_ nectar, intending
-_for_ indenting, John _for_ Jehu, Judges _for_
-Indies, scene _for_ seene, sixteen _for_ sexton,
-and _for_ sixty-one, tops _for_ toy, Venus
+_for_ argument, all-eyes _for_ allies, aloud _for_ allowed, banish'd _for_ ravish'd, cancel _for_ cantel, candle _for_ caudle, culsedness <p 104>_for_ ourselves, eye-sores _for_ oysters, felicity _for_ facility, Hector _for_ nectar, intending _for_ indenting, John _for_ Jehu, Judges _for_ Indies, scene _for_ seene, sixteen _for_ sexton, and _for_ sixty-one, tops _for_ toy, Venus
 _for_ Venice.
 
 In connection with this work may be
@@ -3196,7 +3009,7 @@ instead of
 
 
 `My Lord, stand back and let the coffin pass'
-                              _Richard III_., i. 2.
+_Richard III_., i. 2.
 
 And, by a slight confusion of sound, the
 word _mistake_ might appear in type as
@@ -3204,7 +3017,7 @@ must take:--
 
 
 `So you mistake your husbands.'
-                              _Hamlet_, iii. 2.
+_Hamlet_, iii. 2.
 
 Again, _idle votarist_ would easily become
 _idol votarist_--
@@ -3217,18 +3030,15 @@ _longer days_--
 
 
 `This done, see that you take no long delays.
-                              _Titus_, iv. 2.
+_Titus_, iv. 2.
 
-<p 106>From the time of Gutenberg until now
-this similarity of sound has been a fruitful
-source of error among printers.
+<p 106>From the time of Gutenberg until now this similarity of sound has been a fruitful source of error among printers.
 
 ``II. _Errors of the Eye_.--The eye often
 misleads the hand of the compositor,
 especially if he be at work upon a crabbed
 manuscript or worn-out reprint.  Take
-out a dot, and _This time goes manly_
-becomes
+out a dot, and _This time goes manly_ becomes
 
 
 `This tune goes manly.' _Macbeth_, iv. 3.
@@ -3242,10 +3052,7 @@ then_? into _What boast was't then_?--
 
 Examples might be indefinitely multiplied
 from many an old book, so I will quote
-but one more instance.  The word _preserve_
-spelt with a long _s_ might without
-much carelessness be misread _preferre_
-(I _Henry VI_., iii. 2), and thus entirely
+but one more instance.  The word _preserve_ spelt with a long _s_ might without much carelessness be misread _preferre_ (I _Henry VI_., iii. 2), and thus entirely
 alter the sense.
 
 ``III. _Errors from a `foul case_.'--This
@@ -3292,22 +3099,14 @@ such a treatment.
 idea of the arrangement of the types in
 both `upper' and `lower' case in the
 time of Shakspere--a time when long _s_'s,
-with the logotypes _ct_, _ff_, _fi_, _ffi_, _ffl_, _sb_, _sh_,
-_si_, _sl_, _ss_, _ssi_, _ssl_, and others, were in daily
-use.''
+with the logotypes _ct_, _ff_, _fi_, _ffi_, _ffl_, _sb_, _sh_, _si_, _sl_, _ss_, _ssi_, _ssl_, and others, were in daily use.''
 
-Mr. Blades then refers to Moxon's
-_Mechanical Exercises_, 1683, which contains
-a representation of the compositors'
-cases in the seventeenth century, which
-may be presumed to be the same in form
-as those used in Shakespeare's day.
+Mr. Blades then refers to Moxon's _Mechanical Exercises_, 1683, which contains a representation of the compositors' cases in the seventeenth century, which may be presumed to be the same in form as those used in Shakespeare's day.
 Various alterations have been made in
 the arrangement of the cases, with the
 object of placing the letters more
 conveniently.  The present form is shown
-on pp.  110, 111.
-<p 109>
+on pp.  110, 111. <p 109>
 
 Mr. Blades proceeds:  ``The chief cause
 of a `foul' case was the same in Shakspere's
@@ -3338,29 +3137,17 @@ Doubtless they do, but to what extent a
 long and careful examination alone can
 
 <Table>
-                              UPPER CASE.
- <a'>  <e'>  <i'>  <o'>  <u'>  <SE>  <DDag> A   B   C   D   E    F   G
- <a!>  <e!>  <i!>  <o!>  <u!>  <||>  <Dag>  H   I   K   L   M    N   O
- <a^>  <e^>  <i^>  <o^>  <u^>  <?>  <*>    P   Q   R   S   T    V   W
-  X     Y     Z    <AE>  <OE>   U     J     X   Y   Z  <AE> <OE> U   J
- <a:>  <e:>  <i:>  <o:>  <u:>  <c,>  <Pd>   A   B   C   D   E    F   G
-  1     2     3     4     5     6     7     H   I   K   L   M    N   O
-  8     9     0   <1/4> <1/2> <3/4>   k     P   Q   R   S   T    V   W
+UPPER CASE. <a'>  <e'>  <i'>  <o'>  <u'>  <SE>  <DDag> A   B   C   D   E    F   G <a!>  <e!>  <i!>  <o!>  <u!>  <||>  <Dag>  H   I   K   L   M    N   O <a^>  <e^>  <i^>  <o^>  <u^>  <?>  <*>    P   Q   R   S   T    V   W
+X     Y     Z    <AE>  <OE>   U     J     X   Y   Z  <AE> <OE> U   J <a:>  <e:>  <i:>  <o:>  <u:>  <c,>  <Pd>   A   B   C   D   E    F   G
+1     2     3     4     5     6     7     H   I   K   L   M    N   O
+8     9     0   <1/4> <1/2> <3/4>   k     P   Q   R   S   T    V   W
 
-                              LOWER CASE.
- &  [ ]  <ae>  <oe>  j   '     Thin and   ( )   ?   !   ;   Leaders.  fl
-                           middling spaces.
- --                         e                               Leaders.  ff
-     b        c        d            i        s      f   g
- ffl                                                        Leaders.  fi
- ffi                                                        En     Em
-     l        m        n     h      o       y   p   ,   w  quads. quads.
- Hair
- spaces.
- z                                                  q   :
-     v        u        t thick spaces a     r               Large quods.
- x                                                  .   <.>
-<EndTable>
+LOWER CASE. &  [ ]  <ae>  <oe>  j   '     Thin and   ( )   ?   !   ;   Leaders.  fl
+middling spaces. --                         e                               Leaders.  ff
+b        c        d            i        s      f   g ffl                                                        Leaders.  fi ffi                                                        En     Em
+l        m        n     h      o       y   p   ,   w  quads. quads. Hair
+spaces. z                                                  q   :
+v        u        t thick spaces a     r               Large quods. x                                                  .   <.> <EndTable>
 
 
 <p 112>show.  As examples merely, and to show
@@ -3373,7 +3160,7 @@ two instances:--
                                    _Macbeth_, v. 5.[9]
 
 
-     [9] Collier's MS. corrector substituted _farc'd_ for _forc'd_.
+[9] Collier's MS. corrector substituted _farc'd_ for _forc'd_.
 
 
 The word _forced_ should be read _farced_,
@@ -3407,8 +3194,7 @@ We cannot imagine an officer with pen,
 inkhorn, and paper, at a period when few
 could write, `booking' the dead.  We
 may, I think, take it for granted that here
-the letter _b_ had fallen over into the _l_
-box.''
+the letter _b_ had fallen over into the _l_ box.''
 
 Another point to bear in mind is the
 existence of such logotypes as _fi_, _si_, etc.,
@@ -3477,9 +3263,7 @@ will be noticed that the letters in the
 _i_ box might easily tumble over into the
 _e_ box.
 
-There is a very curious description of
-hell in Bede's _Ecclesiastical History_, where
-the author speaks of ``deformed spirits''
+There is a very curious description of hell in Bede's _Ecclesiastical History_, where the author speaks of ``deformed spirits''
 who leap from excess of heat to cutting
 cold, and it is not improbable that
 Shakespeare may have had this passage in his
@@ -3487,9 +3271,7 @@ Shakespeare may have had this passage in his
 mouth of Claudio.[10]
 
 
-     [10] An article on this point will be found in _The
-Antiquary_, vol. viii. (1883), p. 200.
-
+[10] An article on this point will be found in _The Antiquary_, vol. viii. (1883), p. 200.
 
 
 It is taken for granted that the
@@ -3577,13 +3359,10 @@ curing the king's evil?  This blunder will
 be found uncorrected in Dr. Lankester's
 _Memorials of John Ray_, published by the
 Ray Society in 1846, and does not seem
-to have been suspected until the Rev.
-Richard Hooper called attention to it a
-short time ago in _Notes and Queries_.[11]
+to have been suspected until the Rev. Richard Hooper called attention to it a short time ago in _Notes and Queries_.[11]
 
 
-     [11] Seventh Series, iv. 225.
-
+[11] Seventh Series, iv. 225.
 
 
 An amusing instance of the invention
@@ -3689,9 +3468,7 @@ among the compositors, volley succeeds
 volley as rapidly and as loudly as in one
 of Lord Nelson's victories.''
 
-There is a popular notion among authors
-that it is not wise to write a clear hand; and
-M<e'>nage was one of the first to express it.
+There is a popular notion among authors that it is not wise to write a clear hand; and M<e'>nage was one of the first to express it.
 He wrote:  ``If you desire that no mistakes
 <p 123>shall appear in the works which you publish,
 never send well-written copy to the
@@ -3741,10 +3518,7 @@ been made by the ignorant misreading
 of an author's contractions.  It is said
 that in a certain paper which was sent
 to be printed the words Indian Government
-were contracted as Indian Govt.
-This one compositor set up throughout
-his turn as _Indian goat_.  A writer in
-one of the Reviews wrote the words ``J. C.
+were contracted as Indian Govt. This one compositor set up throughout his turn as _Indian goat_.  A writer in one of the Reviews wrote the words ``J. C.
 first invaded Britain,'' and a worthy
 compositor, who made it his business to fill
 up all the abbreviations, printed this as
@@ -3804,7 +3578,7 @@ one might have expected the compositor
 to recognise the quotation, instead of
 printing the astonishing calculation--
 
-     `` 'Tis two, 'tis fifty and fifty 'tis, 'tis five.''
+`` 'Tis two, 'tis fifty and fifty 'tis, 'tis five.''
 
 This is as bad as the blunder of the
 printer of the Hampshire paper who is
@@ -3845,9 +3619,7 @@ verse.
 One of the most remarkable blunders
 ever made in a newspaper was connected
 with the burial of the well-known literary
-man, John Payne Collier.  In the _Standard_
-of Sept. 21st, 1883, it was reported
-that ``the remains of the late Mr.
+man, John Payne Collier.  In the _Standard_ of Sept. 21st, 1883, it was reported that ``the remains of the late Mr.
 John Payne Collier were interred yesterday
 <p 128>in Bray Churchyard, near Maidenhead,
 in the presence of a large number of
@@ -3877,16 +3649,13 @@ office than are dreamt of in our philosophy--
 the blunder fiends to wit--ever
 busy in peppering the `formes' with errors
 which defy the minutest revisions of
-reader, author, sub-editor, and editor.''
-Mr. Sala gives an instance which occurred
-<p 129>to himself.  He wrote that Dr.
+reader, author, sub-editor, and editor.'' Mr. Sala gives an instance which occurred <p 129>to himself.  He wrote that Dr.
 Livingstone wore a cap with a tarnished gold
 lace band; but the printer altered the
 word tarnished into _famished_, to the serious
 confusion of the passage.
 
-Some of the most amusing blunders
-occur by the change of a single letter.
+Some of the most amusing blunders occur by the change of a single letter.
 Thus, in an account of the danger to an
 express train by a cow getting on the line
 in front, the reporter was made to say that
@@ -3926,10 +3695,7 @@ of St. Mary's.
 The compositor who set up the account
 of a public welcome to a famous orator
 must have been fresh from the study of
-Porson's _Catechism of the Swinish Multitude_
-when he set up the damaging statement
-that ``the crowd rent the air with
-their _snouts_.''
+Porson's _Catechism of the Swinish Multitude_ when he set up the damaging statement that ``the crowd rent the air with their _snouts_.''
 
 Sometimes the blunder consists not in
 the misprint of a letter, but in a mere
@@ -3942,9 +3708,7 @@ redundant letter, as when a man died from
 eating too much goose the verdict was
 said to have been ``death from stuffocation.''
 
-Many of these blunders, although
-amusing to the public, cannot have been
-altogether agreeable to the subjects of them.
+Many of these blunders, although amusing to the public, cannot have been altogether agreeable to the subjects of them.
 Mr. Justice Wightman could not have
 been pleased to see himself described
 as _Mr. Justice Nightman_; and the right
@@ -4014,12 +3778,10 @@ in this world, do in that join the
 malcontents, and are each one biding their
 time--
 
-     <gr <w!>s t<h!>n Di<o!>s turann<i'>d' <e'>kp<<e'>rswn b<i'>a>.
+<gr <w!>s t<h!>n Di<o!>s turann<i'>d' <e'>kp<<e'>rswn b<i'>a>.
 
 
-``May we not conceive this bold jester,
-if haply he were a stonemason, chiselling
-on some tombstone `_In_surgam'?''
+``May we not conceive this bold jester, if haply he were a stonemason, chiselling on some tombstone `_In_surgam'?''
 
 Allusion has already been made to the
 persistency of misprints and the difficulty
@@ -4044,7 +3806,7 @@ The blunder, which had escaped Byron's
 own eyes, was corrected, and the third
 line was printed as originally written:--
 
-     ``Thy waters wash'd them power while they were free.
+``Thy waters wash'd them power while they were free.
 
 
 The carelessness of printers seems to
@@ -4098,10 +3860,7 @@ proofs himself.  Some years ago a copy
 of this book was sold in France for 1210
 francs.
 
-The King's Printers, Robert Barker and
-Martin Lucas, in the reign of Charles I.
-were not excommunicated, but, what perhaps
-they liked less, were fined <Pd>300
+The King's Printers, Robert Barker and Martin Lucas, in the reign of Charles I. were not excommunicated, but, what perhaps they liked less, were fined <Pd>300
 by the Court of High Commission for
 leaving the _not_ out of the seventh
 commandment in an edition of the Bible
@@ -4111,11 +3870,7 @@ disbelieved, and the great bibliographer of
 Bibles, the late Mr. George Offer, asserted
 that he and his father searched diligently
 for it, and could not find it.  Now, six
-copies are known to exist.  The late Mr.
-Henry Stevens gives a most interesting
-account of the first discovery of the book
-<p 137>in his _Recollections of Mr. James Lennox_.
-He writes:--
+copies are known to exist.  The late Mr. Henry Stevens gives a most interesting account of the first discovery of the book <p 137>in his _Recollections of Mr. James Lennox_. He writes:--
 
 ``Mr. Lennox was so strict an observer
 of the Sabbath that I never knew of his
@@ -4128,11 +3883,7 @@ octavo Bible of 1631 with the negative
 omitted in the seventh commandment,
 and purchasing it for fifty guineas.  No
 other copy was then known, and the
-possessor required an immediate answer.
-However, I raised some points of inquiry,
-and obtained permission to hold the little
-sinner and give the answer on Monday.
-By that evening's post I wrote to Mr.
+possessor required an immediate answer. However, I raised some points of inquiry, and obtained permission to hold the little sinner and give the answer on Monday. By that evening's post I wrote to Mr.
 Lennox, and pressed for an immediate
 reply, suggesting that this prodigal though
 he returned on Sunday should be
@@ -4168,10 +3919,7 @@ hands of Mr. Francis Fry, of Bristol,
 who sold it to Dr. Bandinel for the
 Bodleian Library.  A fourth copy is in
 the Euing Library, at Glasgow; a fifth
-fell into the hands of Mr. Henry J.
-Atkinson, of Gunnersbury,in 1883; and
-<p 139>a sixth copy was picked up in Ireland
-by a gentleman of Coventry In 1884.
+fell into the hands of Mr. Henry J. Atkinson, of Gunnersbury,in 1883; and <p 139>a sixth copy was picked up in Ireland by a gentleman of Coventry In 1884.
 
 In a Bible of 1634 the first verse of
 the 14th Psalm is printed as ``The fool
@@ -4197,10 +3945,7 @@ to death.  She arose in the night, when
 all the workmen were in bed, and going
 to the ``forme'' entirely changed the
 meaning of a text which particularly
-offended her.  The text was Gen. iii. 16
-(``Thy desire shall be to thy husband,
-and he shall rule over thee'').
-<p 140>
+offended her.  The text was Gen. iii. 16 (``Thy desire shall be to thy husband, and he shall rule over thee''). <p 140>
 
 This story does not rest on a very firm
 foundation, and as the recorder does not
@@ -4378,14 +4123,14 @@ The lines, written on a daughter of Du
 Perrier named Rosette, now stand thus:--
 
 
- ``Mais elle <e'>tait du monde o<u!> les plus belles choses
+``Mais elle <e'>tait du monde o<u!> les plus belles choses
      Ont le pire destin,
    Et rose, elle a v<e'>cu ce que vivent les roses
      L'espace d'un matin.''
 
 Malherbe had written,--
 
- ``Et Rosette a v<e'>cu ce que vivent les roses;''
+``Et Rosette a v<e'>cu ce que vivent les roses;''
 
 
 but forgetting ``to cross his tees'' the
@@ -4432,11 +4177,9 @@ to an illiterate young apprentice, who
 thought proper to spell _avare_ with two
 r's.  A wit, observing this, remarked
 pleasantly, _Tiens, voil<a!> an avare qui a un
-air misanthrope_ (un r mis en trop).''
-<p 148>
+air misanthrope_ (un r mis en trop).'' <p 148>
 
-In a newspaper account of Mr. Gladstone's
-religious views the word _Anglican_
+In a newspaper account of Mr. Gladstone's religious views the word _Anglican_
 is travestied as _Afghan_, with the following
 curious result:  ``There is no form of faith
 in existence more effectually tenacious
@@ -4461,8 +4204,7 @@ into the following oracular words:  `As
 sucking does for the snow season'!  He
 could not find it in his heart to correct
 this, and thus it stands as a theme for
-the profound speculations of the commentators.''
-<p 149>
+the profound speculations of the commentators.'' <p 149>
 
 A very slight misprint will make a
 great difference; sometimes an unintelliglble
@@ -4483,17 +4225,12 @@ Husbandry_, that of the _Holy Grail_ into
 _Holy Gruel_, and Layamon's _Brut_ into
 Layamon's _Brat_.
 
-A local paper, reporting the proceedings
-at the Bath meeting of the British Asso{sic}
-ciation, affirmed that an eminent chemist
-had ``not been able to find any _fluidity_
-in the Bath waters.''  _Fluorine_ was meant.
+A local paper, reporting the proceedings at the Bath meeting of the British Asso{sic} ciation, affirmed that an eminent chemist had ``not been able to find any _fluidity_ in the Bath waters.''  _Fluorine_ was meant.
 It was also stated that a geologist asserted
 that ``the bones found in the submerged
 forests of Devonshire were closely
 representative of the British _farmer_.''  The last
-word should have been _fauna_.
-<p 150>
+word should have been _fauna_. <p 150>
 
 The strife of _tongs_ is suggestive of a
 more serious battle than that of talk only;
@@ -4501,20 +4238,17 @@ and the compositor who set up Portia's
 speech--
 
      ``. . . young Alcides, when he did redeem
- The virgin tribute paid by howling Troy''
-               (_Merchant of Venice_, act iii., sc. 2),
+The virgin tribute paid by howling Troy''
+(_Merchant of Venice_, act iii., sc. 2),
 
-and turned the last words into _howling
-Tory_, must have been a rabid politician.
+and turned the last words into _howling Tory_, must have been a rabid politician.
 
 The transposition of ``He kissed her
 under the silent stars'' into ``He kicked
 her under the cellar stairs'' looks rather
 too good to be true, and it cannot be
 vouched for; but the title ``Microscopic
-Character of the Virtuous Rocks of Montana''
-is a genuine misprint for _vitreous_,
-as is also ``Buddha's perfect _uselessness_''
+Character of the Virtuous Rocks of Montana'' is a genuine misprint for _vitreous_, as is also ``Buddha's perfect _uselessness_''
 for ``Buddha's perfect sinlessness.''  It is
 rather startling to find a quotation from
 the _Essay on Man_ introduced by the
@@ -4602,8 +4336,7 @@ thus he turned ``chek matyde'' into
 ``chek yn a tyde.''[12]
 
 
-     [12] _Philol. Soc. Trans_. 1885-7, pp. 368-9.
-
+[12] _Philol. Soc. Trans_. 1885-7, pp. 368-9.
 
 
 In the _Academy_ for Feb.  25th, 1888,
@@ -4615,20 +4348,14 @@ in English literature:--
                ``CAMBRIDGE: _Feb_. 14, 1888.
 
 
-``When I explained, in the _Academy_ for
-January 7 (p. 9), that the word `Herenus '
+``When I explained, in the _Academy_ for January 7 (p. 9), that the word `Herenus '
 is simply a mistake for `Herines,' _i.e_., the
 furies (such being the Middle-English form
 of Erinnyes), I did not expect that I should
 so soon light upon another singular
-perversion of the same word.
-<p 154>
+perversion of the same word. <p 154>
 
-``In Chaucer's Works, ed. 1561, fol.
-322, back, there is a miserable poem, of
-much later date than that of Chaucer's
-death, entitled `The Remedie of Love.'
-The twelfth stanza begins thus:
+``In Chaucer's Works, ed. 1561, fol. 322, back, there is a miserable poem, of much later date than that of Chaucer's death, entitled `The Remedie of Love.' The twelfth stanza begins thus:
 
  `Come hither, thou Hermes, and ye furies all
   Which fer been under us, nigh the nether pole,
@@ -4646,19 +4373,16 @@ expression, `all this lothsome sort.'  Many
 of the lines almost defy scansion, so that
 no help is to be got from observing the
 run of the lines.  Nevertheless, this fresh
-instance of the occurrence of `Herines'
-much assists my argument; all the more
-so, as it appears in a disguised shape.
-                    ``WALTER W. SKEAT.''
+instance of the occurrence of `Herines' much assists my argument; all the more so, as it appears in a disguised shape.
+``WALTER W. SKEAT.''
 
 Sometimes a misprint is intentional, as
 <p 155>in the following instance.  At the
 beginning of the century the _Courrier des Pays
 Bas_ was bought by some young men, who
-changed its politics, but kept on the editor.
-The motto of the paper was from Horace:
+changed its politics, but kept on the editor. The motto of the paper was from Horace:
 
-          ``Est modus in rebus,''
+``Est modus in rebus,''
 
 and the editor, wishing to let his friends
 at a distance know that things were not
@@ -4688,7 +4412,6 @@ revealed religion, but a believer in
 Spiritualism.''  It was this kind of blunder
 which suggested the formation of cross-
 readings, that were once very popular.
-
 
 
 CHAPTER VIL
@@ -4739,9 +4462,7 @@ one boy to live on nectarines, and by
 another to imbibe ammonia.  The same
 desire to make an unintelligible word
 express a meaning which has caused the
-recognised but absurd spelling of _sovereign_
-(more wisely spelt _sovran_ by Milton)
-shows itself in the form ``Tea-trarck''
+recognised but absurd spelling of _sovereign_ (more wisely spelt _sovran_ by Milton) shows itself in the form ``Tea-trarck''
 <p 159>explained as the title of Herod given to
 him because he invented or was fond of
 tea.[13]  A still finer confusion of ideas is to
@@ -4752,8 +4473,7 @@ who sold the copyright to a publisher for
 a bottle of potash.''
 
 
-     [13] _Cornhill Magazine_, June 1888, pp. 619-28.
-
+[13] _Cornhill Magazine_, June 1888, pp. 619-28.
 
 
 The following etymological guesses are
@@ -4774,8 +4494,7 @@ the words _fort_ and _fortress_ must have had
 rather vague ideas as to masculine and
 feminine nouns.  He wrote:  ``A fort is
 a place to put men in, and a fortress a
-place to put women in.''
-<p 160>
+place to put women in.'' <p 160>
 
 The little book entitled _English as she
 is Taught_, which contains a considerable
@@ -4840,9 +4559,7 @@ we learn that George Washington was
 born in 1492, that St. Bartholomew
 was massacred in that year, that ``the
 Brittains were the Saxons who entered
-England in 1492 under Julius C<ae>sar,''
-and, to cap all, that the earth is 1492
-miles in circumference.
+England in 1492 under Julius C<ae>sar,'' and, to cap all, that the earth is 1492 miles in circumference.
 
 Many of the best-known examination
 jokes are associated with Scriptural
@@ -4854,9 +4571,7 @@ innkeeper, ``When I come again I will
 repay you,'' added, ``This he said knowing
 that he should see his face again no more.''
 
-A School Board boy, competing for one
-of the Peek prizes, carried this confusion
-of widely different events even farther.
+A School Board boy, competing for one of the Peek prizes, carried this confusion of widely different events even farther.
 He had to write a short biography of
 Jonah, and he produced the following:
 ``He was the father of Lot, and had two
@@ -4890,8 +4605,7 @@ man, who went up to heaven without
 dying, and threw his cloak down for
 Queen Elizabeth to step over.''
 
-A boy was asked in an examination,
-``What did Moses do with the tabernacle?''
+A boy was asked in an examination, ``What did Moses do with the tabernacle?''
 <p 164>and he promptly answered, ``He chucked
 it out of the camp.''  The scandalised
 examiner asked the boy what he meant,
@@ -4919,11 +4633,7 @@ in the _Programme of the Society's
 Examinations for_ 1888:--
 
 ``There were occasional indications that
-the terms were misunderstood.  `Presto'
-signifies `turn over,' `Lento' `with style.'
-`Staccato' was said to mean `stick on
-<p 165>the notes,' or `notes struck and at once
-raised.'
+the terms were misunderstood.  `Presto' signifies `turn over,' `Lento' `with style.' `Staccato' was said to mean `stick on <p 165>the notes,' or `notes struck and at once raised.'
 
 ``The names of composers in order of
 time were generally correctly done, but
@@ -4962,13 +4672,7 @@ rests on his passions.
 ``The facts about Handel are pretty
 correct; but we find that Weber wrote
 _Parsifal, The Flying Dutchman, Der Ring
-der Nibulengon_.  His dates are 1813-1883.
-Mendelssohn was born 1770, died 1827
-(Beethoven's dates), studied under Hadyn
-(_sic_), and that he composed many operas.
-Gounod is said to be `a rather modern
-musician'; he wrote _Othello, Three Holy
-Children_, besides _Faust_ and other works.
+der Nibulengon_.  His dates are 1813-1883. Mendelssohn was born 1770, died 1827 (Beethoven's dates), studied under Hadyn (_sic_), and that he composed many operas. Gounod is said to be `a rather modern musician'; he wrote _Othello, Three Holy Children_, besides _Faust_ and other works.
 Among the names given as the composer
 of _Nozze di Figaro_ are Donizetti, William
 Sterndale Bennett, Gunod, and Sir Mickall
@@ -4996,11 +4700,7 @@ who came to him to be examined:--
 Rossini?  What influence did he exercise
 over the art of music in his time?' brought
 to light much curious and interesting
-intelligence.  His nationality was various.
-He was `a German by birth, but was born
-at Pesaro in Italy'; `he was born in
-1670 and died 1826'; he was a `Frenchman,'
-`a noted writer of the French,'
+intelligence.  His nationality was various. He was `a German by birth, but was born at Pesaro in Italy'; `he was born in 1670 and died 1826'; he was a `Frenchman,' `a noted writer of the French,'
 the place of nativity was `Pizzarro in
 Genoa'; he was `an Italian, and made
 people feel drunk with the sparke and
@@ -5083,9 +4783,7 @@ English and Spanish were defeated.  They
 lost some very large ships, and were at a
 great loss on both sides.''
 
-The following description of the Nile
-by a schoolboy is very fine:  ``The Nile is
-the only remarkable river in the world.
+The following description of the Nile by a schoolboy is very fine:  ``The Nile is the only remarkable river in the world.
 It was discovered by Dr. Livingstone, and
 it rises in Mungo Park.''  Constantinople
 is described thus:  ``It is on the Golden
@@ -5097,10 +4795,7 @@ knowledge may be mentioned that Gibraltar
 is ``an island built on a rock,'' and
 that Portugal can only be reached through
 the St. Bernard's Pass ``by means of
-sledges drawn by reindeer and dogs.''
-``Turin is the capital of China,'' and
-``Cuba is a town in Africa very difficult
-of access.''
+sledges drawn by reindeer and dogs.'' ``Turin is the capital of China,'' and ``Cuba is a town in Africa very difficult of access.''
 
 One of the finest answers ever given in
 an examination was that of the boy who
@@ -5115,10 +4810,7 @@ be styled a blunder?
 
 The rule that ``the King can do no
 wrong'' was carried to an extreme length
-when a schoolboy blunder of Louis XIV.
-was allowed to change the gender of
-a French noun.  The King said ``un
-carosse,'' and that is what it is now.
+when a schoolboy blunder of Louis XIV. was allowed to change the gender of a French noun.  The King said ``un carosse,'' and that is what it is now.
 In Cotgrave's _Dictionary carosse_ appears
 <p 172>as feminine, but M<e'>nage notes it as
 having been changed from feminine to
@@ -5202,7 +4894,7 @@ regarding the subject in hand.
 1880.--ACOUSTICS, LIGHT AND HEAT
 PAPER.
 
-          _Science and Art Department_.
+_Science and Art Department_.
 
 
 The following are specimens of answers
@@ -5251,8 +4943,7 @@ those who walked there before you.  By
 following a muffin man down the passage
 within a short time you can hear most
 distinctly a musical note, or, as it is more
-properly termed in the question, a ``ring''
-at every (other) step.
+properly termed in the question, a ``ring'' at every (other) step.
 
 _Question_ 3.--What is the reason that
 the hammers which strike the strings of
@@ -5286,10 +4977,7 @@ by pressing the bones of my head against
 its prongs.  Finally the last trace
 disappears.  I look at the time and leave
 the room, having determined the time of
-vibration of the common ``pitch'' fork.
-This process deteriorates the fork
-considerably, hence a different operation must
-be performed on a fork which is only _lent_.
+vibration of the common ``pitch'' fork. This process deteriorates the fork considerably, hence a different operation must be performed on a fork which is only _lent_.
 
 _Question_ 6.--What is the difference
 between a ``real'' and a ``virtual'' image?
@@ -5338,10 +5026,7 @@ but what that method is has not yet been
 discovered.  The future may reveal it to
 a daring experimentalist.
 
-_Question_ 12.--State what are the
-conditions favourable for the formation of dew.
-Describe an instrument for determining the
-dew point, and the method of using it.
+_Question_ 12.--State what are the conditions favourable for the formation of dew. Describe an instrument for determining the dew point, and the method of using it.
 
 _Answer_.--This is easily proved from
 question 1.  A body of gas as it ascends
@@ -5355,8 +5040,7 @@ explains why you get warm by ascending
 a hill, in opposition to the well-known
 law of the Conservation of Energy.
 
-_Question_ 13.--On freezing water in a
-glass tube, the tube sometimes breaks.
+_Question_ 13.--On freezing water in a glass tube, the tube sometimes breaks.
 Why is this?  An iceberg floats with
 1,000,000 tons of ice above the water
 line.  About how many tons are below
@@ -5373,12 +5057,9 @@ if this much is above water, none is
 below.  Ice is exceptional to all other
 bodies except bismuth.  All other bodies
 have 1090 feet below the surface and
-2 feet extra for every degree centigrade.
-If it were not for this, all fish would die,
-and the earth be held in an iron grip.
+2 feet extra for every degree centigrade. If it were not for this, all fish would die, and the earth be held in an iron grip.
 
-P.S.--When I say 1090 feet, I mean
-1090 feet per second.
+P.S.--When I say 1090 feet, I mean 1090 feet per second.
 
 _Question_ 14.--If you were to pour a
 pound of molten lead and a pound of
@@ -5421,8 +5102,7 @@ then burst, but you would not be aware of
 the fact on account of the loudness of a
 sound varying with the density of the place
 in which it is generated, and not on that
-in which it is heard.
-<p 182>
+in which it is heard. <p 182>
 
 _Question_ 27.--Account for the delicate
 shades of colour sometimes seen on the
@@ -5433,15 +5113,9 @@ on which very fine equi-distant parallel
 lines have been scratched very close to
 one another.
 
-_Answer_.--The delicate shades are due
-to putrefaction; the colours always show
-best when the oyster has been a bad one.
-Hence they are considered a defect and
-are called chromatic aberration.
+_Answer_.--The delicate shades are due to putrefaction; the colours always show best when the oyster has been a bad one. Hence they are considered a defect and are called chromatic aberration.
 
-The scratches on the glass will arrange
-themselves in rings round the light, as any
-one may see at night in a tram car.
+The scratches on the glass will arrange themselves in rings round the light, as any one may see at night in a tram car.
 
 _Question_ 29.--Show how the hypothenuse
 face of a right-angled prism may be
@@ -5474,20 +5148,13 @@ carbon are burned in his neighbourhood
 he will give off eating quite so much.  The
 relative quantities of eat given off will
 depend upon how much sulphur etc. is
-burnt and how near it is burned to him.
-If I knew these facts it would be an easy
-sum to find the answer.
+burnt and how near it is burned to him. If I knew these facts it would be an easy sum to find the answer.
 
 
 1881.
 
 
-_Question_ 1.--Sound is said to travel
-about four times as fast in water as in air.
-How has this been proved?  State your
-reasons for thinking whether sound travels
-faster or slower in oil than in water.
-<p 184>
+_Question_ 1.--Sound is said to travel about four times as fast in water as in air. How has this been proved?  State your reasons for thinking whether sound travels faster or slower in oil than in water. <p 184>
 
 _Answer_(_a_).--Mr. Colladon, a gentleman
 who happened to have a boat, wrote to a
@@ -5497,9 +5164,7 @@ lake, first providing himself with a large
 ear-trumpet.  Mr. Colladon took a large
 bell weighing some tons which he put
 under water and hit furiously.  Every time
-he hit the bell he lit a fusee, and Mr.
-Sturm looked at his watch.  In this way
-it was found out as in the question.
+he hit the bell he lit a fusee, and Mr. Sturm looked at his watch.  In this way it was found out as in the question.
 
 It was also done by Mr. Byott who sang
 at one end of the water pipes of Paris,
@@ -5521,8 +5186,7 @@ water, of course a mathematician can do
 <p 185>on dry land.  Hence this is how it is
 done.
 
-If oil is poured on the water it checks
-the sound-waves and puts you out.
+If oil is poured on the water it checks the sound-waves and puts you out.
 
 _Question_ 2.--What would happen if
 two sound-waves exactly alike were to
@@ -5537,8 +5201,7 @@ would embrace and mutually hold fast, in
 other words, interfere with and destroy
 each other.
 
-_Question_ 9.--Describe any way in
-which the velocity of light has been
+_Question_ 9.--Describe any way in which the velocity of light has been
 measured.
 
 _Answer_ (_a_).--A distinguished but
@@ -5556,10 +5219,7 @@ would take an express train 40 years to
 do it, and the bullet from a canon over
 5000 years.
 
-P.S.--I think the gentlemans name was
-Romer not Homer, but anyway he was
-20% wrong and Mr. Fahrenheit and Mr.
-Celsius afterwards made more careful
+P.S.--I think the gentlemans name was Romer not Homer, but anyway he was 20% wrong and Mr. Fahrenheit and Mr. Celsius afterwards made more careful
 determinations.
 
 (_b_) An Atheistic Scientist (falsely so
@@ -5577,8 +5237,7 @@ get seriously wrong and there were
 riots, and Pope Gregory had to set things
 right.
 
-_Question_ 10.--Explain why water pipes
-burst in cold weather.
+_Question_ 10.--Explain why water pipes burst in cold weather.
 
 _Answer_.--People who have not studied
 <p 187>Acoustics think that Thor bursts the pipes,
@@ -5588,7 +5247,6 @@ mythologies and has taught us that it is the
 natural behaviour of water (and bismuth)
 without which all fish would die and the
 earth be held in an iron grip,
-
 
 
 CHAPTER VIII.
@@ -5618,8 +5276,7 @@ following very strange translation into
 ``One arrangement can make himself
 with the pilot for the walking with roars.''
 
-The papers distributed at international
-exhibitions are often very oddly worded.
+The papers distributed at international exhibitions are often very oddly worded.
 Thus, an agent in the French court of
 one of these, who described himself as
 an ``Ancient Commercial Dealer,'' stated
@@ -5655,15 +5312,9 @@ of knights and baronets are omitted, so
 that we obtain such impossible forms as
 ``Sir Brown.''
 
-The book is arranged geographically,
-and in all cases the English word ``shire''
-is omitted, with the result that we come
-upon such an extremely curious monster
-as ``le Comt<e'> de Shrop.''
+The book is arranged geographically, and in all cases the English word ``shire'' is omitted, with the result that we come upon such an extremely curious monster as ``le Comt<e'> de Shrop.''
 
-On the very first page is made the
-extraordinary blunder of turning the Cambrian
-Arch<ae>ological Association into a _Cambridge_
+On the very first page is made the extraordinary blunder of turning the Cambrian Arch<ae>ological Association into a _Cambridge_
 Society; while the Parker Society,
 whose publications were printed at the
 University Press, is entered under
@@ -5730,12 +5381,11 @@ The first is from Salzburg:--
 ``George Nelb<o:>ck begs leave to recommand
 his hotel to the Three Allied, situated
 _vis-<a!>-vis_ of the birth house of Mozart, which
-offers all comforts to the meanest charges.
-<p 193>
+offers all comforts to the meanest charges. <p 193>
 
 The next notice comes from Rastadt:--
 
-          ``ADVICE OF AN HOTEL.
+``ADVICE OF AN HOTEL.
 
 
 ``The underwritten has the honour of
@@ -6029,15 +5679,9 @@ as follows:--
 leaned upon a printing press to print and
 a book, seems deeped in reflections.
 
-``America is young woman, energetic and
-virginal however, characterising the youth
-and the audacies of the American people.
+``America is young woman, energetic and virginal however, characterising the youth and the audacies of the American people.
 
-``Asia, the cradle of the human kind,
-represents the volupty and the sensualism.
-Her posture, the expression of her figure,
-<p 203>render well the abandonment of the passion
-with the oriental people.
+``Asia, the cradle of the human kind, represents the volupty and the sensualism. Her posture, the expression of her figure, <p 203>render well the abandonment of the passion with the oriental people.
 
 ``Africa represented by a figure of a
 woman in a timid attitude, is well the
@@ -6139,34 +5783,28 @@ for such odd English proverbs as the
 following:--
 
 
- [14] A selection from this book was printed by
-Messrs. Field & Tuer under the title of _English
+[14] A selection from this book was printed by Messrs. Field & Tuer under the title of _English
 as she is spoke_.
-
 
 
 ``The necessity don't know the low.''
 
 ``To build castles in Espaguish.''
 
-``So many go the jar to spring, than at
-last rest there.''
+``So many go the jar to spring, than at last rest there.''
 
 (A little further on we find another
 version of this well-known proverb:  ``So
 much go the jar to spring that at last it
 break there.'')
 
-``The stone as roll not heap up not
-foam.''
+``The stone as roll not heap up not foam.''
 
 ``He is beggar as a church rat.''
 
-``To come back at their muttons.''
-<p 207>
+``To come back at their muttons.'' <p 207>
 
-``Tell me whom thou frequent, I will
-tell you which you are.''
+``Tell me whom thou frequent, I will tell you which you are.''
 
 The apparently incomprehensible sentence
 ``He sin in trouble water'' is explained
@@ -6179,10 +5817,7 @@ authors cannot be considered as very
 scientific.  The only colours catalogued
 are _white, cray, gridelin, musk_ and _red_;
 the only ``music's instruments''--_a
-flagelet, a dreum_, and a _hurdy-gurdy_.
-``Common stones'' appear to be _loadstones,
-brick, white lead_, and _gumstone_.
-But probably the list of ``Chastisements''
+flagelet, a dreum_, and a _hurdy-gurdy_. ``Common stones'' appear to be _loadstones, brick, white lead_, and _gumstone_. But probably the list of ``Chastisements''
 is one of the funniest things in this Guide
 to Conversation.  The list contains _a fine,
 honourable fine, to break upon, to tear off
@@ -6214,9 +5849,7 @@ field with some of their friends.  They
 were to see him Diogenes who was in
 water untill the chin.  The superficies
 of the water was snowed, for the rescue
-of the hole that Diogenes was made.
-Don't look it more told them Plato, and
-he shall get out soon.''
+of the hole that Diogenes was made. Don't look it more told them Plato, and he shall get out soon.''
 
 A large volume entitled _Polugl<o^>ssos_ was
 published in Belgium in 1841, which is
@@ -6289,8 +5922,7 @@ the forefront to the other, and supporting
 face.''[15]
 
 
-     [15] _Notes and Queries_, First Series, iii 347.
-
+[15] _Notes and Queries_, First Series, iii 347.
 
 
 When it was known that Louis XVIII.
@@ -6316,7 +5948,7 @@ follows:--
      God save Clar<e'>nce.''[16]
 
 
-     [16] _Ibid_., iv. 131.
+[16] _Ibid_., iv. 131.
 
 
 In continuation of the story, it may be
@@ -6351,7 +5983,6 @@ few:--
         Arcadian greens rural.''
 
 
-
 Dr. Moore, having on a certain occasion
 excused himself to a Frenchman for using
 <p 213>an expression which he feared was not
@@ -6362,745 +5993,111 @@ polite answer, for we cannot say that they
 deserve to be English.
 
 
-
-
 INDEX.
 
-Adder _for_ nadder, 7.
-Afghan _for_ Anglican, 148.
-Agassiz, _Zoological Biography_, blunder in, 64.
-Alison's (Sir Archibald) blunder, 34.
-Ampulle (Sainte), 35
-Amsterdam, Guide to, 210.
-Anderson (Andrew), his disgraceful printing of the Bible, 141.
-Apostrophe, importance of an, 121.
-Apron _for_ napron, 7.
-_Arabian Nights_, translations of, 45.
-Arden (Pepper), 60.
-Arlington (Lord), his title taken from the village of Harlington, 8.
-Artaxerxes, 54.
-Ash's Dictionary, 9, 10.
+Adder _for_ nadder, 7. Afghan _for_ Anglican, 148. Agassiz, _Zoological Biography_, blunder in, 64. Alison's (Sir Archibald) blunder, 34. Ampulle (Sainte), 35 Amsterdam, Guide to, 210. Anderson (Andrew), his disgraceful printing of the Bible, 141. Apostrophe, importance of an, 121. Apron _for_ napron, 7. _Arabian Nights_, translations of, 45.
+Arden (Pepper), 60. Arlington (Lord), his title taken from the village of Harlington, 8.
+Artaxerxes, 54. Ash's Dictionary, 9, 10.
 Averrhoes, 54.
 
-Babington's (Bishop) _Exposition of the Lord's Prayer_, 92.
-_Bachaumont, M<e'>moires de_, 33.
-Baly's (Dr.) translation of M<u:>ller's _Physiology_, 51.
+Babington's (Bishop) _Exposition of the Lord's Prayer_, 92. _Bachaumont, M<e'>moires de_, 33. Baly's (Dr.) translation of M<u:>ller's _Physiology_, 51.
 
 <p 216>
 
-Barcelona Exhibition (1883), 194
-Barker (Robert) and Martin Lucas fined for
-     leaving _not_ out of the Seventh Commandment, 136.
-Bellarmin, misprints in his works, 79.
-Benserade's joke, 97.
-Bible, blunders in the printing of the, 135.
-----incorrect translations of passages in, 58.
-----the ``Wicked'' Bible, 136.
-_Bibliographical Blunders_ 63 - 77
-Bismarck's (Prince) endeavours to keep on good
-     terms with all the Powers, 145.
-Blades's (W.) _Shakspere and Typography_, 104.
-Blunder, knowledge necessary to make a, 2.
-Blunders, amusing mistakes, 1.
-_Blunders in General_, 1-30.
-----_of Authors_, 31 -46.
-----_of Translators_, 47-62.
-----(_Bibliographical_), 63-77.
-----(_Schoolboys_'), 157-187.
-Boehm's tract on the Boots of Isaiah, 71.
-Boyle (Robert) becomes Le Boy, 72.
-Brandenburg (Elector of) and Father Wolff, 20.
-Brathwaite's (R.) _Strappado for the Divell_, 94.
-Breton's (Nicholas) tracts, 81.
-----_Wit of Wit_, 93.
-_Bride (La) de Lammermuir_, 49.
-Brigham le jeune _for_ Brigham Young, 67.
-Britton's _Tunbridge Wells_, 37.
-Broch (J. K.), an imaginary author, 64.
-Buckingham's (J. Silk) anecdote of a wilful
-     misprint, 140.
-<p 217>
-Bulls, a sub-class of blunders, 24.
-----made by others than Irishmen, 25.
-----(Negro), 26.
-Burton (Hill) on bulls, 29.
-Butler's (S.) allusion to corrupted texts, 135.
-----misprints in his lines, 127.
-Byron's _Childe Harold_, persistent misprint in, 134.
+Barcelona Exhibition (1883), 194 Barker (Robert) and Martin Lucas fined for
+leaving _not_ out of the Seventh Commandment, 136. Bellarmin, misprints in his works, 79. Benserade's joke, 97. Bible, blunders in the printing of the, 135. ----incorrect translations of passages in, 58. ----the ``Wicked'' Bible, 136. _Bibliographical Blunders_ 63 - 77 Bismarck's (Prince) endeavours to keep on good
+terms with all the Powers, 145. Blades's (W.) _Shakspere and Typography_, 104. Blunder, knowledge necessary to make a, 2. Blunders, amusing mistakes, 1. _Blunders in General_, 1-30. ----_of Authors_, 31 -46. ----_of Translators_, 47-62. ----(_Bibliographical_), 63-77. ----(_Schoolboys_'), 157-187. Boehm's tract on the Boots of Isaiah, 71. Boyle (Robert) becomes Le Boy, 72. Brandenburg (Elector of) and Father Wolff, 20. Brathwaite's (R.) _Strappado for the Divell_, 94. Breton's (Nicholas) tracts, 81. ----_Wit of Wit_, 93. _Bride (La) de Lammermuir_, 49. Brigham le jeune _for_ Brigham Young, 67. Britton's _Tunbridge Wells_, 37. Broch (J. K.), an imaginary author, 64. Buckingham's (J. Silk) anecdote of a wilful
+misprint, 140. <p 217> Bulls, a sub-class of blunders, 24. ----made by others than Irishmen, 25.
+----(Negro), 26. Burton (Hill) on bulls, 29. Butler's (S.) allusion to corrupted texts, 135. ----misprints in his lines, 127. Byron's _Childe Harold_, persistent misprint in, 134.
 
-C<ae>soris (Mr. C. J.), 73.
-Calamities _for_ Calamites, 116
-Calpensis (Flora) not an authoress, 68.
-Campbell's (Lord) supposed criticism of _Romeo and Juliet_, 46.
-_Campion, Death and Martyrdom of_, 81.
-Camus, an imaginary author, 65.
-Canons _for_ chanoines, 48.
-Capo Basso, 48.
-Cardan's treatise _De Subtilitate_ without a misprint, 97
-Careme, _Le Patissier Pittoresque_, 74.
-Cartwright (Major), 60.
-Castlemaine's (Lord) _English Globe_, 87.
-Chaucer's works, misprints in, 153.
-Chelsea porcelain, 43.
-Chernac's _Mathematical Tables_, 144.
-Cicero's (Mr. Tul.) _Epistles_, 72.
-----_Offices_, 51.
-Cinderella and the glass slipper, 57.
-Classification, blunders in, 73.
-Clement XIV.  (Pope), 26.
-Clerk (P. K.) _for_ Rev. Patrick Keith, 69.
-Cockeram's _English Dictionarie_, 11.
+C<ae>soris (Mr. C. J.), 73. Calamities _for_ Calamites, 116 Calpensis (Flora) not an authoress, 68. Campbell's (Lord) supposed criticism of _Romeo and Juliet_, 46. _Campion, Death and Martyrdom of_, 81. Camus, an imaginary author, 65. Canons _for_ chanoines, 48.
+Capo Basso, 48. Cardan's treatise _De Subtilitate_ without a misprint, 97 Careme, _Le Patissier Pittoresque_, 74. Cartwright (Major), 60. Castlemaine's (Lord) _English Globe_, 87. Chaucer's works, misprints in, 153. Chelsea porcelain, 43. Chernac's _Mathematical Tables_, 144. Cicero's (Mr. Tul.) _Epistles_, 72.
+----_Offices_, 51. Cinderella and the glass slipper, 57. Classification, blunders in, 73. Clement XIV.  (Pope), 26. Clerk (P. K.) _for_ Rev. Patrick Keith, 69. Cockeram's _English Dictionarie_, 11.
 
-<p 218>
-Collier (John Payne), blunder made in a
-     newspaper account of his burial, 127.
-Contractions, ignorant misreading of, 124.
-Coquilles, specimens of, 147.
-Correspondence, etymology of, 9.
-Cow cut into _calves_, 129.
-Cowley's allusion to corrupted texts, 135,
-Cromwells, confusion of the two, 169.
-Cross readings, 24.
-Cruikshank's (George) real name supposed to be
-     Simon Pure, 70.
-Curmudgeon, etymology of, 10.
+<p 218> Collier (John Payne), blunder made in a
+newspaper account of his burial, 127. Contractions, ignorant misreading of, 124. Coquilles, specimens of, 147. Correspondence, etymology of, 9. Cow cut into _calves_, 129. Cowley's allusion to corrupted texts, 135, Cromwells, confusion of the two, 169.
+Cross readings, 24. Cruikshank's (George) real name supposed to be
+Simon Pure, 70. Curmudgeon, etymology of, 10.
 
-_Damn<e'> et Calive_, 49.
-Darius, 54
-Dekker's _Satiro-Mastix_, errata to, 80.
-Deleted _for_ delited in Shakespeare, 115.
-De Morgan, on authors correcting their own
-     proofs, 89.
-D'Israeli's _Curiosities of Literature_, 68, 69.
-Do part _for_ depart, 8.
-Donis (Nicholas), an imaginary author, 66.
-Dorus Basilicus, an imaginary author, 65.
-Dotet in trouble, 55.
-Drayton, misreading of, 6.
+_Damn<e'> et Calive_, 49. Darius, 54 Dekker's _Satiro-Mastix_, errata to, 80. Deleted _for_ delited in Shakespeare, 115. De Morgan, on authors correcting their own
+proofs, 89. D'Israeli's _Curiosities of Literature_, 68, 69. Do part _for_ depart, 8. Donis (Nicholas), an imaginary author, 66. Dorus Basilicus, an imaginary author, 65. Dotet in trouble, 55. Drayton, misreading of, 6.
 
-Edgeworth's _Essay on Irish Bulls_, 28.
-Emendations of editors, 23.
-_English as she is Spoke_, 206.
-_English as she is Taught_, 160.
-Enrichi de Deux Listes (Mons.), 68.
-Erekmann-Chatrian's _Conscript_, 56.
+Edgeworth's _Essay on Irish Bulls_, 28. Emendations of editors, 23. _English as she is Spoke_, 206. _English as she is Taught_, 160. Enrichi de Deux Listes (Mons.), 68. Erekmann-Chatrian's _Conscript_, 56.
 
-<p 219>
-_Errata (lists of_), 78-99.
-Estienne's (Henri) joke over a misprint, 152.
-Etymologies (absurd), 9.
-Ewing's (Bishop) _Argyllshire Seaweeds_, 74.
-Examined, blunders of the, 157.
+<p 219> _Errata (lists of_), 78-99. Estienne's (Henri) joke over a misprint, 152. Etymologies (absurd), 9. Ewing's (Bishop) _Argyllshire Seaweeds_, 74. Examined, blunders of the, 157.
 
-Faith, definition of, 158
-Faraday (_Sir_ Michael), 41.
-Featley's (Dr. Daniel) _Romish Fisher Caught in
-     his own Net_, 96.
-Field the printer's blunders, 139.
-_Finis Coronat opus_, 61.
-Fitzgerald (Fighting), 32.
-Fletcher's _The Nice Valour_, 96.
-Fonseca and Carolino, _Guide of the Conversation_, 205.
-_Foreigners' English_, 188-213.
-Foulis's edition of Horace, 98.
-French kings, anointing of the, 35.
+Faith, definition of, 158 Faraday (_Sir_ Michael), 41. Featley's (Dr. Daniel) _Romish Fisher Caught in
+his own Net_, 96. Field the printer's blunders, 139. _Finis Coronat opus_, 61. Fitzgerald (Fighting), 32. Fletcher's _The Nice Valour_, 96. Fonseca and Carolino, _Guide of the Conversation_, 205. _Foreigners' English_, 188-213. Foulis's edition of Horace, 98. French kings, anointing of the, 35.
 
-Galt's _Lives of the Players_, 45
-Garnett's _Florilegium Amantis_, 75.
-Gascoigne's (George) _Droomme of Doomes Day_, 91.
-Ghost words, 2.
-Girardin's epitaph on Shenstone at Ermenonville, 212.
-Gladstone's (Mr.) _Gleanings of Past Years_, 38.
-Glanvill's (Joseph) _Essays_, 86.
-``God save the King,'' new verse by a Frenchman, 211.
-Goldsmith's blunders, 31,
+Galt's _Lives of the Players_, 45 Garnett's _Florilegium Amantis_, 75. Gascoigne's (George) _Droomme of Doomes Day_, 91.
+Ghost words, 2. Girardin's epitaph on Shenstone at Ermenonville, 212. Gladstone's (Mr.) _Gleanings of Past Years_, 38. Glanvill's (Joseph) _Essays_, 86. ``God save the King,'' new verse by a Frenchman, 211. Goldsmith's blunders, 31,
 
-<p 220>
-Goldsmith's _Deserted Village_, translation of a line in, 56.
-Gordon (J. E. H.) and B. A. Cantab, 69.
-Greatrakes (Valentine), blunder in his name, 118.
-Greeley's (Horace) bad writing, 126.
-Grolier not a binder, 19.
+<p 220> Goldsmith's _Deserted Village_, translation of a line in, 56. Gordon (J. E. H.) and B. A. Cantab, 69. Greatrakes (Valentine), blunder in his name, 118. Greeley's (Horace) bad writing, 126. Grolier not a binder, 19.
 
-Haggard 's (Rider) _King Solomon's Mines_, 74.
-Hales's (Prof.) observations on misprints, 131.
-Hall's (John) _Hor<ae> Vaciv<ae>_, 117.
-Halliwell-Phillipps' _Dictionary of Misprints_, 80, 101.
-Harrison's (Peter) bull, 29.
-Henri II. not a potter, 19.
-Herodote et aussi Jazon, 49.
-Heywood's (Thomas) _Apology for Actors_, 83.
-Hirudo _for_ hirundo, 48.
-_Hit or Miss_, 53.
-Holy Gruel _for_ Holy Grail, 149.
-Homeric poems, author of the, 158.
-Hood's lines on misprints, 151.
-Hood (Thomas), _Geometricall Instrument called a Sector_, 82.
-Hook's (Dean) bad writing, 123.
-Hooker's _Ecclesiastical Polity_, corrections by the author, 93.
-Hopton's (Arthur) _Baculum Geod<oe>ticum Viaticum_, 83.
-Horse-shoeing husbandry _for_ horse hoeing, 149.
-Hotel-keepers' English, 192.
-Howell's (J.) _Deudrologia_, 75.
-Huet, ``ancient'' Bishop of Avranch, 51.
+Haggard 's (Rider) _King Solomon's Mines_, 74. Hales's (Prof.) observations on misprints, 131. Hall's (John) _Hor<ae> Vaciv<ae>_, 117. Halliwell-Phillipps' _Dictionary of Misprints_, 80, 101. Harrison's (Peter) bull, 29. Henri II. not a potter, 19. Herodote et aussi Jazon, 49. Heywood's (Thomas) _Apology for Actors_, 83. Hirudo _for_ hirundo, 48.
+_Hit or Miss_, 53. Holy Gruel _for_ Holy Grail, 149. Homeric poems, author of the, 158. Hood's lines on misprints, 151. Hood (Thomas), _Geometricall Instrument called a Sector_, 82. Hook's (Dean) bad writing, 123. Hooker's _Ecclesiastical Polity_, corrections by the author, 93. Hopton's (Arthur) _Baculum Geod<oe>ticum Viaticum_, 83. Horse-shoeing husbandry _for_ horse hoeing, 149. Hotel-keepers' English, 192. Howell's (J.) _Deudrologia_, 75. Huet, ``ancient'' Bishop of Avranch, 51.
 
 
-<p 221>
-Hugo's (Victor) translation, 50.
-Hunt's (Leigh) specimens of misprints, 148.
-Hyett s{sic} _Flowers from the South_, 74.
+<p 221> Hugo's (Victor) translation, 50. Hunt's (Leigh) specimens of misprints, 148. Hyett s{sic} _Flowers from the South_, 74.
 
-Ibn Roshd = Averrhoes, 54
-Immoral _for_ immortal, 120.
-_Independent Whig_, 53.
-``Indifferent justice,'' 42.
-Insurrection _for_ resurrection, 133.
+Ibn Roshd = Averrhoes, 54 Immoral _for_ immortal, 120. _Independent Whig_, 53. ``Indifferent justice,'' 42. Insurrection _for_ resurrection, 133.
 
 Jefferies (Judge) said to have presided at the trial
-     of Charles I., 37.
-Job's wish that his adversary had written a book, 58.
-Jonson's (Ben) _Every Man in his Humour_, 95.
-Juvenal, edition of, with the first printed errata, 78.
+of Charles I., 37. Job's wish that his adversary had written a book, 58. Jonson's (Ben) _Every Man in his Humour_, 95. Juvenal, edition of, with the first printed errata, 78.
 
-Lamartine's _Girondins_, translation of, 54.
-Lamb's _Tales from Shakespeare_, 45.
-Lane's (E. W.) good writing, 123.
-La Rochefoucauld _as_ Ruchfucove, 53.
-Layamon's Brat _for_ Brut, 149.
-Le Berceau, an imaginary author, 67
-Leigh's (Edward) table of errata, 79.
-Leviticus supposed to be a man, 17.
-Leycester's (Sir Peter) _Historical Antiquities_, 97.
-Littleton's Latin Dictionary, 10.
-Lodge's (Prof. Oliver) series of examination papers 174
+Lamartine's _Girondins_, translation of, 54. Lamb's _Tales from Shakespeare_, 45. Lane's (E. W.) good writing, 123. La Rochefoucauld _as_ Ruchfucove, 53. Layamon's Brat _for_ Brut, 149. Le Berceau, an imaginary author, 67 Leigh's (Edward) table of errata, 79. Leviticus supposed to be a man, 17. Leycester's (Sir Peter) _Historical Antiquities_, 97. Littleton's Latin Dictionary, 10. Lodge's (Prof. Oliver) series of examination papers 174
 Logotypes, 113.
 
-<p 222>
-London (William) not a bishop, 67.
-Louis XIV., blunder of, 171.
-----_Secret Memoirs of the Court of_, blunder in 55
-_Louis XVIII., M<e'>moires de_, blundes in, 33.
-_Love's Last Shift_, 52.
+<p 222> London (William) not a bishop, 67. Louis XIV., blunder of, 171. ----_Secret Memoirs of the Court of_, blunder in 55 _Louis XVIII., M<e'>moires de_, blundes in, 33. _Love's Last Shift_, 52.
 
-Macaulay's blunder as to the _Faerie Queene_, 39.
-----opinion of Goldsmith's blunders, 31.
-Malherbe's epitaph on Rosette, 145.
-Mantissa, an imaginary author, 67.
-Marmontel's _Moral Tales_, 51.
-Maroni's (P.  V.) _The Opera_, 73.
-Marriage Service, misprint in, 8.
-Marvell's _Rehearsal Transprosed_, 122.
-_Men of the Time_, misFrint in, 155.
-M<e'>nage on bad writirlg, 122.
-Mephistopheles, 151.
-Milton said to have written the _Inferno_, 42
-_Misprints_, 100-156.
-----(intentional), 155.
-Mispronunciations, 22.
-Misquotations, 21.
-_Miss<ae> ac Misselis Anatomia_, 1561, book with
-     fifteen pages of errata, 79.
-_Mistakes, A New Booke of_, 1637, 24.
-Monosyllabic titles, 40.
-Morgan's (Silvanus) _Horologiographia Optica_, 85.
-Morton's _Natural History of Northamptonshire_, 89.
-_Mourning Bride_, 52.
-Murray's (Dr.) ghost words, 6.
+Macaulay's blunder as to the _Faerie Queene_, 39. ----opinion of Goldsmith's blunders, 31. Malherbe's epitaph on Rosette, 145. Mantissa, an imaginary author, 67. Marmontel's _Moral Tales_, 51. Maroni's (P.  V.) _The Opera_, 73. Marriage Service, misprint in, 8. Marvell's _Rehearsal Transprosed_, 122. _Men of the Time_, misFrint in, 155. M<e'>nage on bad writirlg, 122. Mephistopheles, 151. Milton said to have written the _Inferno_, 42 _Misprints_, 100-156. ----(intentional), 155. Mispronunciations, 22.
+Misquotations, 21. _Miss<ae> ac Misselis Anatomia_, 1561, book with
+fifteen pages of errata, 79. _Mistakes, A New Booke of_, 1637, 24. Monosyllabic titles, 40. Morgan's (Silvanus) _Horologiographia Optica_, 85. Morton's _Natural History of Northamptonshire_, 89. _Mourning Bride_, 52. Murray's (Dr.) ghost words, 6.
 
-<p 223>
-Murrell's _Cookery_, 1632, 112.
-Musical Examinations, blunders in, 164
+<p 223> Murrell's _Cookery_, 1632, 112. Musical Examinations, blunders in, 164
 
-Napier's bones, 38.
-Napoleon III.  said to be Consul in 1853, 35
-Nash's _Lenten Stuffe_, 93.
-Nicholson (Dr. Brinsley) on authors correcting
-     their own proofs, go, 95.
-Nicolai a man not a place, 65.
-Nova Scotia _for_ New Caledonia, 51.
+Napier's bones, 38. Napoleon III.  said to be Consul in 1853, 35 Nash's _Lenten Stuffe_, 93. Nicholson (Dr. Brinsley) on authors correcting
+their own proofs, go, 95. Nicolai a man not a place, 65. Nova Scotia _for_ New Caledonia, 51.
 
 Oxford Music Hall supposed to be at Oxford, 17.
 
-Paine (Tom) confused with Thomas Payne, 67.
-Paris Exhibition 1889, English guide to, 200.
-Passagio (G.) not an author, 68.
-Peacham's (Henry) _The Mastive_, 95.
-Pickle (Sir Peregrine), 34.
-Picus of Mirandula, edition of his works has the
-     longest list of errata on record, 78.
-Playford's John) _Vade Mecum_, 87.
-Poluglossos, 208.
-Pope's lines, misprint in, 125.
-Porcelain, etymology of, 9.
-Porson's _Catechism of the Swinish Multitude_, 130.
-Printers' upper and lower cases, 110, 111.
+Paine (Tom) confused with Thomas Payne, 67. Paris Exhibition 1889, English guide to, 200. Passagio (G.) not an author, 68. Peacham's (Henry) _The Mastive_, 95. Pickle (Sir Peregrine), 34. Picus of Mirandula, edition of his works has the
+longest list of errata on record, 78. Playford's John) _Vade Mecum_, 87.
+Poluglossos, 208. Pope's lines, misprint in, 125. Porcelain, etymology of, 9. Porson's _Catechism of the Swinish Multitude_, 130. Printers' upper and lower cases, 110, 111.
 Proofs corrected by authors in the sixteenth and
      seventeenth centuries, 89.
 
-Prynne's _Brevia Parliamentaria_, 60.
-Pythagoras as Peter Gower, {no page #}
+Prynne's _Brevia Parliamentaria_, 60. Pythagoras as Peter Gower, {no page #}
 
 Rabelais' blunder, 146.
 
-<p 224>
-Raleigh (Sir Walter), 171.
-Ray's (John) _Remains_, 118.
-Render, a bad translator; 47.
-Richardson's (S.) etymology of correspondence, 9
-Ridings of Yorkshire, 7, 191.
-Robertson's _Scotland_, translation of, 49.
-Robinson (Otis H.), on ``Titles of Books,'' 75.
-Roche's (Sir Boyle) bull of the bird that was in
-     two places at once, 29.
-Rogue Croix _for_ Rouge Croix, 130.
-Ruskin's _Notes on Sheepfolds_, 73.
+<p 224> Raleigh (Sir Walter), 171. Ray's (John) _Remains_, 118. Render, a bad translator; 47. Richardson's (S.) etymology of correspondence, 9 Ridings of Yorkshire, 7, 191. Robertson's _Scotland_, translation of, 49. Robinson (Otis H.), on ``Titles of Books,'' 75. Roche's (Sir Boyle) bull of the bird that was in
+two places at once, 29. Rogue Croix _for_ Rouge Croix, 130. Ruskin's _Notes on Sheepfolds_, 73.
 
-Saints (Imaginary), 13.
-Sala's (Mr.) opinion on misprints, 128.
-San Francisco, Florence, mistaken _for_ San
-     Francisco, California, 18.
-Saroom (Jean), 66.
-_Schoolboys' Blunders_, 157-187,
-Scot's _Hop-Garden_, 90.
-Scott (Sir Walter), ghost word.  5.
-----his real name said to be William, 71.
-Scylla and Charybdis, 43.
-Shakespeare's text improved by attention to the
-     technicalities of printing, 105, 113.
-Sharp's (William) misprint, 120.
-Shelley's _Prometheus Unbound_, a copy in whole calf, 72.
-Shenstone, epitaph on, by a Frenchman, 212.
-Shirley's lines, misprints in, 125.
-Sinclair's (Archdeacon) anecdote of an examination, 172.
+Saints (Imaginary), 13. Sala's (Mr.) opinion on misprints, 128. San Francisco, Florence, mistaken _for_ San
+Francisco, California, 18.
+Saroom (Jean), 66. _Schoolboys' Blunders_, 157-187, Scot's _Hop-Garden_, 90. Scott (Sir Walter), ghost word.  5. ----his real name said to be William, 71. Scylla and Charybdis, 43. Shakespeare's text improved by attention to the
+technicalities of printing, 105, 113. Sharp's (William) misprint, 120. Shelley's _Prometheus Unbound_, a copy in whole calf, 72. Shenstone, epitaph on, by a Frenchman, 212. Shirley's lines, misprints in, 125. Sinclair's (Archdeacon) anecdote of an examination, 172.
 
-<p 225>
-Sixtus V. (Pope), misprints in his edition of the
-     Vulgate, 135.
-Skeat's (Prof.) ghost words, 2.
-----On misprints in Chaucer's works, 153.
-Skimpole (Harold), 34.
-Smith's (Sydney) ghost word, 4.
-Souza's edition of Camoens, 98.
-Stanyhurst's translation of Virgil (1582), 59, 91.
-Stevens (Henry) on the ``Wicked'' Bible, 136.
-Susannah called a maiden, 41.
-Swinburne's _Under the Microscope_, 73.
+<p 225> Sixtus V. (Pope), misprints in his edition of the
+Vulgate, 135. Skeat's (Prof.) ghost words, 2. ----On misprints in Chaucer's works, 153. Skimpole (Harold), 34. Smith's (Sydney) ghost word, 4. Souza's edition of Camoens, 98. Stanyhurst's translation of Virgil (1582), 59, 91. Stevens (Henry) on the ``Wicked'' Bible, 136. Susannah called a maiden, 41. Swinburne's _Under the Microscope_, 73.
 
-Tellurium, supposed magnetic qualities of, 52.
-``Thisms'' _for_ this MS., 119.
-Tongs, strife of, 150.
-Topography _for_ typography, 121.
-Translations, humorous, 61.
-Translators said to be traitors, 47
-Tressan (Comte de), 47.
-Trinity (Master of), 60.
-Twain (Mark) on schoolboys' blunders, 160.
+Tellurium, supposed magnetic qualities of, 52. ``Thisms'' _for_ this MS., 119. Tongs, strife of, 150. Topography _for_ typography, 121. Translations, humorous, 61. Translators said to be traitors, 47 Tressan (Comte de), 47. Trinity (Master of), 60. Twain (Mark) on schoolboys' blunders, 160.
 
-Unite _for_ untie, 149.
-Ussher (Archbishop), 141.
+Unite _for_ untie, 149. Ussher (Archbishop), 141.
 
-Vagabond (Mr.) _for_ Mr. Rambler, 60.
-Vedast (St.), _alias_ Foster, 13.
-Venus _for_ Venns, 130.
-Viar (S.), 16.
-Vieta's _Canon Mathematicus_, 144.
-Virtuous Rocks _for_ Vitreous Rocks, 150.
-Viscontian snakes, 48.
+Vagabond (Mr.) _for_ Mr. Rambler, 60. Vedast (St.), _alias_ Foster, 13. Venus _for_ Venns, 130.
+Viar (S.), 16. Vieta's _Canon Mathematicus_, 144. Virtuous Rocks _for_ Vitreous Rocks, 150. Viscontian snakes, 48.
 
 <p 226>
 Vitus (Saint), 16.
 
-Wade's (Marshal) roads, 26.
-_Walker, London_, 53.
-Walpole's (Horace) specimen of a bull, 29.
-W<a:>lsch _for_ Welsh, 51.
-Warburton's (Bishop) blunder in quoting _Cinthio_ 34.
-Watt's _Bibliotheca Britannica_, blunder in, 63.
-Welsh rabbit, 52.
-Wigorn (Bishop), 66.
-William IV. when Duke of Clarence, 211.
-Winton (George), 66.
-Witt's (Richard) _Arithmetical Questions_, 90.
-Words that never existed, 3.
-Writing (bad) of authors, 122.
+Wade's (Marshal) roads, 26. _Walker, London_, 53. Walpole's (Horace) specimen of a bull, 29. W<a:>lsch _for_ Welsh, 51. Warburton's (Bishop) blunder in quoting _Cinthio_ 34. Watt's _Bibliotheca Britannica_, blunder in, 63.
+Welsh rabbit, 52. Wigorn (Bishop), 66. William IV. when Duke of Clarence, 211. Winton (George), 66. Witt's (Richard) _Arithmetical Questions_, 90. Words that never existed, 3. Writing (bad) of authors, 122.
 
-Xerxes, 54.
-Xinoris (Saint), 13.
+Xerxes, 54. Xinoris (Saint), 13.
 
-Ye _for_ the, 6.
-Yonge's _Dynevor Terrace_, misprint in, 120.
-_Yvery, History of the House of_, 19.
+Ye _for_ the, 6. Yonge's _Dynevor Terrace_, misprint in, 120. _Yvery, History of the House of_, 19.
 
 Zoile (Mons.) et Mdlle. Lycoris, 59.
 Zollverein, 40.
-
-
-
-
-
-
-
-
-
-
-End of Project Gutenberg's Literary Blunders, by Henry Benjamin Wheatley
-
-*** END OF THIS PROJECT GUTENBERG EBOOK LITERARY BLUNDERS ***
-
-***** This file should be named 371.txt or 371.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/3/7/371/
-
-Produced by Charles Keller
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

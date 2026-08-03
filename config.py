@@ -1,10 +1,15 @@
 """
-config.py - 共享配置和训练工具（改进版）
+config.py - 共享配置和训练工具（改进版 v2.1）
 改进点：
   1. 降低默认学习率，提升 weight_decay
   2. 增加 label_smoothing 配置
   3. 增加 stochastic_depth_rate 配置
   4. 优化早停逻辑，增加 min_delta 防止微小波动触发
+  5. [FIX] on_nan_detected 逻辑：降低 LR 后继续训练，非立即停止
+  6. [FIX] 移除硬编码 > 3.0 阈值，改为可配置项 lr_reduce_loss_threshold
+  7. [FIX] gradient_accumulation_steps 默认值统一为 1
+  8. [FIX] WarmupCosineDecay np.pi 显式 float32
+  9. [FIX] ModelConfig 添加 val_full_eval 字段
 """
 import tensorflow as tf
 from tensorflow import keras
@@ -43,7 +48,7 @@ class ModelConfig:
     rl_epochs: int = 5
     steps_per_epoch: int = 300
 
-    gradient_accumulation_steps: int = 4
+    gradient_accumulation_steps: int = 1   # [FIX] 与 pretrain.py 命令行默认值保持一致
     early_stop_patience: int = 10
     plateau_patience: int = 8      # 从 10 缩短到 8，更快响应
     auto_lr_reduce_factor: float = 0.5
@@ -52,8 +57,11 @@ class ModelConfig:
     checkpoint_freq: int = 1
     log_dir: str = "logs"
 
-    # 验证集评估步数（新增）
+    # 验证集相关配置
     val_max_steps: int = 500
+    val_full_eval: bool = False
+    # [FIX] 学习率自动降低的 loss 阈值，低于此值不再触发 LR 降低（替代硬编码 3.0）
+    lr_reduce_loss_threshold: float = 3.0
 
     def to_dict(self):
         return asdict(self)
@@ -83,7 +91,8 @@ class WarmupCosineDecay(keras.optimizers.schedules.LearningRateSchedule):
         total = tf.cast(self.total_steps, tf.float32)
         warmup_lr = self.initial_learning_rate * (step / warmup)
         progress = tf.clip_by_value((step - warmup) / tf.maximum(total - warmup, 1.0), 0.0, 1.0)
-        cosine = 0.5 * (1.0 + tf.cos(np.pi * progress))
+        # [FIX] 显式指定 float32，避免 @tf.function 中 np.pi 转为 float64
+        cosine = 0.5 * (1.0 + tf.cos(tf.constant(np.pi, dtype=tf.float32) * progress))
         decayed = (1.0 - self.alpha) * cosine + self.alpha
         decay_lr = self.initial_learning_rate * decayed
         lr = tf.cond(step < warmup, lambda: warmup_lr, lambda: decay_lr)
@@ -151,11 +160,12 @@ class AdaptiveLRManager:
                 print(f"⏹️ 早停触发: 连续 {self.config.plateau_patience} 个 epoch Val Loss 上升")
             should_stop = True
 
-        # 新增：如果最近 5 个 epoch 都没有改善超过 min_delta，也降低学习率
+        # [FIX] 如果最近 5 个 epoch 都没有改善超过 min_delta，且 loss 高于阈值，降低学习率
         if len(self.val_loss_history) >= 5:
             recent_5 = self.val_loss_history[-5:]
             best_recent = min(recent_5[:-1]) if len(recent_5) > 1 else float('inf')
-            if recent_5[-1] > best_recent - self.min_delta and recent_5[-1] > 3.0:
+            if (recent_5[-1] > best_recent - self.min_delta and 
+                recent_5[-1] > self.config.lr_reduce_loss_threshold):
                 self._reduce_lr()
                 self.plateau_counter = 0
 
@@ -181,13 +191,20 @@ class AdaptiveLRManager:
             print(f"🔧 自动降低学习率! 当前乘数: {self.current_multiplier:.3f} (第 {self.lr_reduce_count} 次)")
 
     def on_nan_detected(self):
+        """[FIX] 检测到 NaN 时先计数，达到容忍上限后降低学习率并继续训练，
+        只有达到最大降低次数后才返回 True 请求停止训练。"""
         self.nan_counter += 1
         if self.verbose:
             print(f"  ⚠️ NaN/Inf ({self.nan_counter}/{self.config.max_nan_tolerance})")
         if self.nan_counter >= self.config.max_nan_tolerance:
-            self._reduce_lr()
             self.nan_counter = 0
-            return True
+            if self.lr_reduce_count >= self.max_lr_reduces:
+                if self.verbose:
+                    print(f"⏹️ NaN 容忍耗尽且学习率已达最大降低次数，停止训练")
+                return True  # 请求停止训练
+            self._reduce_lr()
+            # [FIX] 降低学习率后继续训练，而不是立即停止
+            return False
         return False
 
     def reset_nan_counter(self):

@@ -1,9 +1,7 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 1045 ***
-
- VENUS AND ADONIS
+VENUS AND ADONIS
 
 
- by William Shakespeare
+by William Shakespeare
 
 
             _Vilia miretur vulgus; mihi flavus Apollo
@@ -17,16 +15,7 @@ HENRY WRIOTHESLEY,  EARL OF SOUTHAMPTON,
 and Baron of Titchfield.
 
 
-Right Honourable, I know not how I shall offend in dedicating my
-unpolished lines to your lordship, nor how the world will censure me
-for choosing so strong a prop to support so weak a burthen: only, if
-your honour seem but pleased, I account myself highly praised, and vow
-to take advantage of all idle hours, till I have honoured you with some
-graver labour. But if the first heir of my invention prove deformed, I
-shall be sorry it had so noble a godfather, and never after ear so
-barren a land, for fear it yield me still so bad a harvest. I leave it
-to your honourable survey, and your honour to your heart’s content;
-which I wish may always answer your own wish and the world’s hopeful
+Right Honourable, I know not how I shall offend in dedicating my unpolished lines to your lordship, nor how the world will censure me for choosing so strong a prop to support so weak a burthen: only, if your honour seem but pleased, I account myself highly praised, and vow to take advantage of all idle hours, till I have honoured you with some graver labour. But if the first heir of my invention prove deformed, I shall be sorry it had so noble a godfather, and never after ear so barren a land, for fear it yield me still so bad a harvest. I leave it to your honourable survey, and your honour to your heart’s content; which I wish may always answer your own wish and the world’s hopeful
 expectation.
 
 
@@ -36,7 +25,7 @@ Your honour’s in all duty,
 WILLIAM SHAKESPEARE.
 
 
- VENUS AND ADONIS
+VENUS AND ADONIS
 
 
 Even as the sun with purple-colour’d face
@@ -79,12 +68,9 @@ Under her other was the tender boy,                   32
 Who blush’d and pouted in a dull disdain,
 With leaden appetite, unapt to toy;
   She red and hot as coals of glowing fire,
-  He red for shame, but frosty in desire.             36
+He red for shame, but frosty in desire.             36
 
-The studded bridle on a ragged bough
-Nimbly she fastens;—O! how quick is love!—
-The steed is stalled up, and even now
-To tie the rider she begins to prove:                 40
+The studded bridle on a ragged bough Nimbly she fastens;—O! how quick is love!— The steed is stalled up, and even now To tie the rider she begins to prove:                 40
   Backward she push’d him, as she would be thrust,
   And govern’d him in strength, though not in lust.
 
@@ -107,12 +93,9 @@ Tires with her beak on feathers, flesh and bone,      56
 Shaking her wings, devouring all in haste,
 Till either gorge be stuff’d or prey be gone:
   Even so she kiss’d his brow, his cheek, his chin,
-  And where she ends she doth anew begin.             60
+And where she ends she doth anew begin.             60
 
-Forc’d to content, but never to obey,
-Panting he lies, and breatheth in her face.
-She feedeth on the steam, as on a prey,
-And calls it heavenly moisture, air of grace,         64
+Forc’d to content, but never to obey, Panting he lies, and breatheth in her face. She feedeth on the steam, as on a prey, And calls it heavenly moisture, air of grace,         64
   Wishing her cheeks were gardens full of flowers
   So they were dew’d with such distilling showers.
 
@@ -121,12 +104,9 @@ So fasten’d in her arms Adonis lies;                  68
 Pure shame and aw’d resistance made him fret,
 Which bred more beauty in his angry eyes:
   Rain added to a river that is rank
-  Perforce will force it overflow the bank.           72
+Perforce will force it overflow the bank.           72
 
-Still she entreats, and prettily entreats,
-For to a pretty ear she tunes her tale.
-Still is he sullen, still he lours and frets,
-’Twixt crimson shame and anger ashy pale;             76
+Still she entreats, and prettily entreats, For to a pretty ear she tunes her tale. Still is he sullen, still he lours and frets, ’Twixt crimson shame and anger ashy pale;             76
   Being red she loves him best, and being white,
   Her best is better’d with a more delight.
 
@@ -137,10 +117,7 @@ Till he take truce with her contending tears,
   Which long have rain’d, making her cheeks all wet;
   And one sweet kiss shall pay this countless debt.
 
-Upon this promise did he raise his chin,               85
-Like a dive-dapper peering through a wave,
-Who, being look’d on, ducks as quickly in;
-So offers he to give what she did crave,               88
+Upon this promise did he raise his chin,               85 Like a dive-dapper peering through a wave, Who, being look’d on, ducks as quickly in; So offers he to give what she did crave,               88
   But when her lips were ready for his pay,
   He winks, and turns his lips another way.
 
@@ -177,12 +154,9 @@ Though mine be not so fair, yet are they red,        116
 The kiss shall be thine own as well as mine:
 What see’st thou in the ground? hold up thy head,
   Look in mine eyeballs, there thy beauty lies;
-  Then why not lips on lips, since eyes in eyes?     120
+Then why not lips on lips, since eyes in eyes?     120
 
-“Art thou asham’d to kiss? then wink again,
-And I will wink; so shall the day seem night.
-Love keeps his revels where there are but twain;
-Be bold to play, our sport is not in sight,          124
+“Art thou asham’d to kiss? then wink again, And I will wink; so shall the day seem night. Love keeps his revels where there are but twain; Be bold to play, our sport is not in sight,          124
   These blue-vein’d violets whereon we lean
   Never can blab, nor know not what we mean.
 
@@ -214,12 +188,9 @@ Dance on the sands, and yet no footing seen.         148
   Love is a spirit all compact of fire,
   Not gross to sink, but light, and will aspire.
 
-“Witness this primrose bank whereon I lie:           151
-These forceless flowers like sturdy trees support me;
-Two strengthless doves will draw me through the sky,
-From morn till night, even where I list to sport me.
-  Is love so light, sweet boy, and may it be
-  That thou shouldst think it heavy unto thee?       156
+“Witness this primrose bank whereon I lie:           151 These forceless flowers like sturdy trees support me; Two strengthless doves will draw me through the sky, From morn till night, even where I list to sport me.
+Is love so light, sweet boy, and may it be
+That thou shouldst think it heavy unto thee?       156
 
 “Is thine own heart to thine own face affected?
 Can thy right hand seize love upon thy left?
@@ -313,11 +284,9 @@ Feed where thou wilt, on mountain or in dale:        232
   Stray lower, where the pleasant fountains lie.
 
 “Within this limit is relief enough,
-Sweet bottom grass and high delightful plain,        236
-Round rising hillocks, brakes obscure and rough,
-To shelter thee from tempest and from rain:
-  Then be my deer, since I am such a park,           239
-  No dog shall rouse thee, though a thousand bark.”
+Sweet bottom grass and high delightful plain,        236 Round rising hillocks, brakes obscure and rough, To shelter thee from tempest and from rain:
+Then be my deer, since I am such a park,           239
+No dog shall rouse thee, though a thousand bark.”
 
 At this Adonis smiles as in disdain,
 That in each cheek appears a pretty dimple;
@@ -351,11 +320,10 @@ Imperiously he leaps, he neighs, he bounds,
 And now his woven girths he breaks asunder;
 The bearing earth with his hard hoof he wounds,
 Whose hollow womb resounds like heaven’s thunder;
-  The iron bit he crusheth ’tween his teeth,         269
-  Controlling what he was controlled with.
+The iron bit he crusheth ’tween his teeth,         269
+Controlling what he was controlled with.
 
-His ears up-prick’d; his braided hanging mane
-Upon his compass’d crest now stand on end;           272
+His ears up-prick’d; his braided hanging mane Upon his compass’d crest now stand on end;           272
 His nostrils drink the air, and forth again,
 As from a furnace, vapours doth he send:
   His eye, which scornfully glisters like fire,
@@ -365,11 +333,10 @@ Sometime he trots, as if he told the steps,
 With gentle majesty and modest pride;
 Anon he rears upright, curvets and leaps,
 As who should say, “Lo thus my strength is tried;
-  And this I do to captivate the eye                 281
-  Of the fair breeder that is standing by.”
+And this I do to captivate the eye                 281
+Of the fair breeder that is standing by.”
 
-What recketh he his rider’s angry stir,
-His flattering “Holla”, or his “Stand, I say”?       284
+What recketh he his rider’s angry stir, His flattering “Holla”, or his “Stand, I say”?       284
 What cares he now for curb or pricking spur?
 For rich caparisons or trappings gay?
   He sees his love, and nothing else he sees,
@@ -384,10 +351,9 @@ As if the dead the living should exceed:             292
 
 Round-hoof’d, short-jointed, fetlocks shag and long,
 Broad breast, full eye, small head, and nostril wide,
-High crest, short ears, straight legs and passing strong,
-Thin mane, thick tail, broad buttock, tender hide:
-  Look, what a horse should have he did not lack,
-  Save a proud rider on so proud a back.             300
+High crest, short ears, straight legs and passing strong, Thin mane, thick tail, broad buttock, tender hide:
+Look, what a horse should have he did not lack,
+Save a proud rider on so proud a back.             300
 
 Sometimes he scuds far off, and there he stares;
 Anon he starts at stirring of a feather:
@@ -459,10 +425,7 @@ Her eyes woo’d still, his eyes disdain’d the wooing:
   And all this dumb play had his acts made plain
   With tears, which, chorus-like, her eyes did rain.
 
-Full gently now she takes him by the hand,           361
-A lily prison’d in a gaol of snow,
-Or ivory in an alabaster band,
-So white a friend engirts so white a foe:            364
+Full gently now she takes him by the hand,           361 A lily prison’d in a gaol of snow, Or ivory in an alabaster band, So white a friend engirts so white a foe:            364
   This beauteous combat, wilful and unwilling,
   Show’d like two silver doves that sit a-billing.
 
@@ -473,10 +436,7 @@ My heart all whole as thine, thy heart my wound,
   For one sweet look thy help I would assure thee,
   Though nothing but my body’s bane would cure thee.”
 
-“Give me my hand,” saith he, “why dost thou feel it?”
-“Give me my heart,” saith she, “and thou shalt have it.
-O give it me lest thy hard heart do steel it,
-And being steel’d, soft sighs can never grave it.    376
+“Give me my hand,” saith he, “why dost thou feel it?” “Give me my heart,” saith she, “and thou shalt have it. O give it me lest thy hard heart do steel it, And being steel’d, soft sighs can never grave it.    376
   Then love’s deep groans I never shall regard,
   Because Adonis’ heart hath made mine hard.”
 
@@ -509,11 +469,9 @@ His other agents aim at like delight?                400
   To touch the fire, the weather being cold?
 
 “Let me excuse thy courser, gentle boy,
-And learn of him, I heartily beseech thee,           404
-To take advantage on presented joy,
-Though I were dumb, yet his proceedings teach thee.
-  O learn to love, the lesson is but plain,
-  And once made perfect, never lost again.”          408
+And learn of him, I heartily beseech thee,           404 To take advantage on presented joy, Though I were dumb, yet his proceedings teach thee.
+O learn to love, the lesson is but plain,
+And once made perfect, never lost again.”          408
 
 “I know not love,” quoth he, “nor will not know it,
 Unless it be a boar, and then I chase it;
@@ -536,17 +494,13 @@ To love’s alarms it will not ope the gate:           424
   Dismiss your vows, your feigned tears, your flatt’ry;
   For where a heart is hard they make no batt’ry.”
 
-“What! canst thou talk?” quoth she, “hast thou a tongue?
-O would thou hadst not, or I had no hearing;        428
+“What! canst thou talk?” quoth she, “hast thou a tongue? O would thou hadst not, or I had no hearing;        428
 Thy mermaid’s voice hath done me double wrong;
 I had my load before, now press’d with bearing:
   Melodious discord, heavenly tune, harsh-sounding,
-  Ear’s deep sweet music, and heart’s deep sore wounding.
+Ear’s deep sweet music, and heart’s deep sore wounding.
 
-“Had I no eyes but ears, my ears would love          433
-That inward beauty and invisible;
-Or were I deaf, thy outward parts would move
-Each part in me that were but sensible:              436
+“Had I no eyes but ears, my ears would love          433 That inward beauty and invisible; Or were I deaf, thy outward parts would move Each part in me that were but sensible:              436
   Though neither eyes nor ears, to hear nor see,
   Yet should I be in love by touching thee.
 
@@ -555,17 +509,16 @@ And that I could not see, nor hear, nor touch,       440
 And nothing but the very smell were left me,
 Yet would my love to thee be still as much;
   For from the stillitory of thy face excelling
-  Comes breath perfum’d, that breedeth love by smelling.
+Comes breath perfum’d, that breedeth love by smelling.
 
 “But oh what banquet wert thou to the taste,         445
 Being nurse and feeder of the other four;
 Would they not wish the feast might ever last,
 And bid suspicion double-lock the door,
   Lest jealousy, that sour unwelcome guest,
-  Should by his stealing in disturb the feast?”      448
+Should by his stealing in disturb the feast?”      448
 
-Once more the ruby-colour’d portal open’d,
-Which to his speech did honey passage yield,         452
+Once more the ruby-colour’d portal open’d, Which to his speech did honey passage yield,         452
 Like a red morn that ever yet betoken’d
 Wrack to the seaman, tempest to the field,
   Sorrow to shepherds, woe unto the birds,
@@ -692,10 +645,9 @@ And careless lust stirs up a desperate courage,      556
 
 Hot, faint, and weary, with her hard embracing,
 Like a wild bird being tam’d with too much handling,
-Or as the fleet-foot roe that’s tir’d with chasing,  561
-Or like the froward infant still’d with dandling:
-  He now obeys, and now no more resisteth,
-  While she takes all she can, not all she listeth.  564
+Or as the fleet-foot roe that’s tir’d with chasing,  561 Or like the froward infant still’d with dandling:
+He now obeys, and now no more resisteth,
+While she takes all she can, not all she listeth.  564
 
 What wax so frozen but dissolves with temp’ring,
 And yields at last to every light impression?
@@ -705,25 +657,17 @@ Chiefly in love, whose leave exceeds commission:     568
   But then woos best when most his choice is froward.
 
 When he did frown, O had she then gave over,
-Such nectar from his lips she had not suck’d.        572
-Foul words and frowns must not repel a lover;
-What though the rose have prickles, yet ’tis pluck’d.
+Such nectar from his lips she had not suck’d.        572 Foul words and frowns must not repel a lover; What though the rose have prickles, yet ’tis pluck’d.
   Were beauty under twenty locks kept fast,
   Yet love breaks through, and picks them all at last.
 
-For pity now she can no more detain him;             577
-The poor fool prays her that he may depart:
-She is resolv’d no longer to restrain him,
-Bids him farewell, and look well to her heart,       580
+For pity now she can no more detain him;             577 The poor fool prays her that he may depart: She is resolv’d no longer to restrain him, Bids him farewell, and look well to her heart,       580
   The which by Cupid’s bow she doth protest,
   He carries thence encaged in his breast.
 
-“Sweet boy,” she says, “this night I’ll waste in sorrow,
-For my sick heart commands mine eyes to watch.       584
-Tell me, love’s master, shall we meet tomorrow
-Say, shall we? shall we? wilt thou make the match?”
-  He tells her no, tomorrow he intends
-  To hunt the boar with certain of his friends.      588
+“Sweet boy,” she says, “this night I’ll waste in sorrow, For my sick heart commands mine eyes to watch.       584 Tell me, love’s master, shall we meet tomorrow Say, shall we? shall we? wilt thou make the match?”
+He tells her no, tomorrow he intends
+To hunt the boar with certain of his friends.      588
 
 “The boar!” quoth she; whereat a sudden pale,
 Like lawn being spread upon the blushing rose,
@@ -747,16 +691,11 @@ As those poor birds that helpless berries saw.       604
   She seeks to kindle with continual kissing.
 
 But all in vain, good queen, it will not be,
-She hath assay’d as much as may be prov’d;           608
-Her pleading hath deserv’d a greater fee;
-She’s love, she loves, and yet she is not lov’d.
-  “Fie, fie,” he says, “you crush me; let me go;
-  You have no reason to withhold me so.”             612
+She hath assay’d as much as may be prov’d;           608 Her pleading hath deserv’d a greater fee; She’s love, she loves, and yet she is not lov’d.
+“Fie, fie,” he says, “you crush me; let me go;
+You have no reason to withhold me so.”             612
 
-“Thou hadst been gone,” quoth she, “sweet boy, ere this,
-But that thou told’st me thou wouldst hunt the boar.
-Oh be advis’d; thou know’st not what it is,
-With javelin’s point a churlish swine to gore,       616
+“Thou hadst been gone,” quoth she, “sweet boy, ere this, But that thou told’st me thou wouldst hunt the boar. Oh be advis’d; thou know’st not what it is, With javelin’s point a churlish swine to gore,       616
   Whose tushes never sheath’d he whetteth still,
   Like to a mortal butcher, bent to kill.
 
@@ -781,10 +720,7 @@ Whose full perfection all the world amazes;
   But having thee at vantage, wondrous dread!
   Would root these beauties as he roots the mead.
 
-“Oh let him keep his loathsome cabin still,          637
-Beauty hath naught to do with such foul fiends:
-Come not within his danger by thy will;
-They that thrive well, take counsel of their friends.
+“Oh let him keep his loathsome cabin still,          637 Beauty hath naught to do with such foul fiends: Come not within his danger by thy will; They that thrive well, take counsel of their friends.
   When thou didst name the boar, not to dissemble,
   I fear’d thy fortune, and my joints did tremble.
 
@@ -795,10 +731,7 @@ Within my bosom, whereon thou dost lie,
   My boding heart pants, beats, and takes no rest,
   But like an earthquake, shakes thee on my breast.
 
-“For where love reigns, disturbing jealousy          649
-Doth call himself affection’s sentinel;
-Gives false alarms, suggesteth mutiny,
-And in a peaceful hour doth cry “Kill, kill!”        652
+“For where love reigns, disturbing jealousy          649 Doth call himself affection’s sentinel; Gives false alarms, suggesteth mutiny, And in a peaceful hour doth cry “Kill, kill!”        652
   Distemp’ring gentle love in his desire,
   As air and water do abate the fire.
 
@@ -849,12 +782,9 @@ The hot scent-snuffing hounds are driven to doubt,
 Ceasing their clamorous cry, till they have singled
 With much ado the cold fault cleanly out;
   Then do they spend their mouths: echo replies,
-  As if another chase were in the skies.             696
+As if another chase were in the skies.             696
 
-“By this, poor Wat, far off upon a hill,
-Stands on his hinder legs with list’ning ear,
-To hearken if his foes pursue him still.
-Anon their loud alarums he doth hear;                700
+“By this, poor Wat, far off upon a hill, Stands on his hinder legs with list’ning ear, To hearken if his foes pursue him still. Anon their loud alarums he doth hear;                700
   And now his grief may be compared well
   To one sore sick that hears the passing bell.
 
@@ -929,11 +859,9 @@ If thou destroy them not in dark obscurity?          760
   Sith in thy pride so fair a hope is slain.
 
 “So in thyself thyself art made away;
-A mischief worse than civil home-bred strife,        764
-Or theirs whose desperate hands themselves do slay,
-Or butcher sire that reeves his son of life.
-  Foul cank’ring rust the hidden treasure frets,
-  But gold that’s put to use more gold begets.”      768
+A mischief worse than civil home-bred strife,        764 Or theirs whose desperate hands themselves do slay, Or butcher sire that reeves his son of life.
+Foul cank’ring rust the hidden treasure frets,
+But gold that’s put to use more gold begets.”      768
 
 “Nay then,” quoth Adon, “you will fall again
 Into your idle over-handled theme;
@@ -957,11 +885,9 @@ In his bedchamber to be barr’d of rest.              784
   But soundly sleeps, while now it sleeps alone.
 
 “What have you urg’d that I cannot reprove?
-The path is smooth that leadeth on to danger;        790
-I hate not love, but your device in love
-That lends embracements unto every stranger.
-  You do it for increase: O strange excuse!
-  When reason is the bawd to lust’s abuse.           792
+The path is smooth that leadeth on to danger;        790 I hate not love, but your device in love That lends embracements unto every stranger.
+You do it for increase: O strange excuse!
+When reason is the bawd to lust’s abuse.           792
 
 “Call it not love, for love to heaven is fled,
 Since sweating lust on earth usurp’d his name;
@@ -971,25 +897,17 @@ Upon fresh beauty, blotting it with blame;           796
   As caterpillars do the tender leaves.
 
 “Love comforteth like sunshine after rain,
-But lust’s effect is tempest after sun;              800
-Love’s gentle spring doth always fresh remain,
-Lust’s winter comes ere summer half be done.
-  Love surfeits not, lust like a glutton dies;
-  Love is all truth, lust full of forged lies.       804
+But lust’s effect is tempest after sun;              800 Love’s gentle spring doth always fresh remain, Lust’s winter comes ere summer half be done.
+Love surfeits not, lust like a glutton dies;
+Love is all truth, lust full of forged lies.       804
 
-“More I could tell, but more I dare not say;
-The text is old, the orator too green.
-Therefore, in sadness, now I will away;
-My face is full of shame, my heart of teen,          808
+“More I could tell, but more I dare not say; The text is old, the orator too green. Therefore, in sadness, now I will away; My face is full of shame, my heart of teen,          808
   Mine ears, that to your wanton talk attended
   Do burn themselves for having so offended.”
 
-With this he breaketh from the sweet embrace         811
-Of those fair arms which bound him to her breast,
-And homeward through the dark laund runs apace;
-Leaves love upon her back deeply distress’d.
-  Look how a bright star shooteth from the sky,
-  So glides he in the night from Venus’ eye.         816
+With this he breaketh from the sweet embrace         811 Of those fair arms which bound him to her breast, And homeward through the dark laund runs apace; Leaves love upon her back deeply distress’d.
+Look how a bright star shooteth from the sky,
+So glides he in the night from Venus’ eye.         816
 
 Which after him she darts, as one on shore
 Gazing upon a late embarked friend,
@@ -1047,10 +965,7 @@ The beauteous influence that makes him bright,
   There lives a son that suck’d an earthly mother,
   May lend thee light, as thou dost lend to other.”
 
-This said, she hasteth to a myrtle grove,            865
-Musing the morning is so much o’erworn,
-And yet she hears no tidings of her love;
-She hearkens for his hounds and for his horn.        868
+This said, she hasteth to a myrtle grove,            865 Musing the morning is so much o’erworn, And yet she hears no tidings of her love; She hearkens for his hounds and for his horn.        868
   Anon she hears them chant it lustily,
   And all in haste she coasteth to the cry.
 
@@ -1103,10 +1018,7 @@ Like the proceedings of a drunken brain,
   Full of respects, yet naught at all respecting,
   In hand with all things, naught at all effecting.
 
-Here kennel’d in a brake she finds a hound,          913
-And asks the weary caitiff for his master,
-And there another licking of his wound,
-’Gainst venom’d sores the only sovereign plaster.    916
+Here kennel’d in a brake she finds a hound,          913 And asks the weary caitiff for his master, And there another licking of his wound, ’Gainst venom’d sores the only sovereign plaster.    916
   And here she meets another sadly scowling,
   To whom she speaks, and he replies with howling.
 
@@ -1117,19 +1029,13 @@ Another and another answer him,
   Clapping their proud tails to the ground below,
   Shaking their scratch’d ears, bleeding as they go.
 
-Look how the world’s poor people are amazed          925
-At apparitions, signs, and prodigies,
-Whereon with fearful eyes they long have gazed,
-Infusing them with dreadful prophecies;              928
+Look how the world’s poor people are amazed          925 At apparitions, signs, and prodigies, Whereon with fearful eyes they long have gazed, Infusing them with dreadful prophecies;              928
   So she at these sad signs draws up her breath,
   And sighing it again, exclaims on death.
 
-“Hard-favour’d tyrant, ugly, meagre, lean,           931
-Hateful divorce of love,” thus chides she death,
-“Grim-grinning ghost, earth’s worm, what dost thou mean?
-To stifle beauty and to steal his breath,
-  Who when he liv’d, his breath and beauty set
-  Gloss on the rose, smell to the violet.            936
+“Hard-favour’d tyrant, ugly, meagre, lean,           931 Hateful divorce of love,” thus chides she death, “Grim-grinning ghost, earth’s worm, what dost thou mean? To stifle beauty and to steal his breath,
+Who when he liv’d, his breath and beauty set
+Gloss on the rose, smell to the violet.            936
 
 “If he be dead, O no, it cannot be,
 Seeing his beauty, thou shouldst strike at it,
@@ -1139,16 +1045,11 @@ But hatefully at random dost thou hit.               940
   Mistakes that aim, and cleaves an infant’s heart.
 
 “Hadst thou but bid beware, then he had spoke,
-And hearing him, thy power had lost his power.       944
-The destinies will curse thee for this stroke;
-They bid thee crop a weed, thou pluck’st a flower.
-  Love’s golden arrow at him should have fled,
-  And not death’s ebon dart to strike him dead.      948
+And hearing him, thy power had lost his power.       944 The destinies will curse thee for this stroke; They bid thee crop a weed, thou pluck’st a flower.
+Love’s golden arrow at him should have fled,
+And not death’s ebon dart to strike him dead.      948
 
-“Dost thou drink tears, that thou provok’st such weeping?
-What may a heavy groan advantage thee?
-Why hast thou cast into eternal sleeping
-Those eyes that taught all other eyes to see?        952
+“Dost thou drink tears, that thou provok’st such weeping? What may a heavy groan advantage thee? Why hast thou cast into eternal sleeping Those eyes that taught all other eyes to see?        952
   Now nature cares not for thy mortal vigour,
   Since her best work is ruin’d with thy rigour.”
 
@@ -1187,19 +1088,14 @@ Which her cheek melts, as scorning it should pass
   To wash the foul face of the sluttish ground,
   Who is but drunken when she seemeth drown’d.
 
-O hard-believing love, how strange it seems          985
-Not to believe, and yet too credulous;
-Thy weal and woe are both of them extremes;
-Despair and hope make thee ridiculous,               988
+O hard-believing love, how strange it seems          985 Not to believe, and yet too credulous; Thy weal and woe are both of them extremes; Despair and hope make thee ridiculous,               988
   The one doth flatter thee in thoughts unlikely,
   In likely thoughts the other kills thee quickly.
 
 Now she unweaves the web that she hath wrought,
-Adonis lives, and death is not to blame;             992
-It was not she that call’d him all to naught;
-Now she adds honours to his hateful name.
-  She clepes him king of graves, and grave for kings,
-  Imperious supreme of all mortal things.            996
+Adonis lives, and death is not to blame;             992 It was not she that call’d him all to naught; Now she adds honours to his hateful name.
+She clepes him king of graves, and grave for kings,
+Imperious supreme of all mortal things.            996
 
 “No, no,” quoth she, “sweet death, I did but jest;
 Yet pardon me, I felt a kind of fear
@@ -1209,16 +1105,11 @@ Which knows no pity, but is still severe;           1000
   I rail’d on thee, fearing my love’s decease.
 
 “’Tis not my fault, the boar provok’d my tongue;
-Be wreak’d on him, invisible commander;             1004
-’Tis he, foul creature, that hath done thee wrong;
-I did but act, he’s author of my slander.
+Be wreak’d on him, invisible commander;             1004 ’Tis he, foul creature, that hath done thee wrong; I did but act, he’s author of my slander.
   Grief hath two tongues, and never woman yet,
   Could rule them both, without ten women’s wit.”
 
-Thus hoping that Adonis is alive,                   1009
-Her rash suspect she doth extenuate;
-And that his beauty may the better thrive,
-With death she humbly doth insinuate;               1012
+Thus hoping that Adonis is alive,                   1009 Her rash suspect she doth extenuate; And that his beauty may the better thrive, With death she humbly doth insinuate;               1012
   Tells him of trophies, statues, tombs and stories
   His victories, his triumphs and his glories.
 
@@ -1243,10 +1134,7 @@ The foul boar’s conquest on her fair delight;
   Which seen, her eyes, as murder’d with the view,
   Like stars asham’d of day, themselves withdrew.
 
-Or as the snail, whose tender horns being hit,      1033
-Shrinks backwards in his shelly cave with pain,
-And there all smother’d up, in shade doth sit,
-Long after fearing to creep forth again:            1036
+Or as the snail, whose tender horns being hit,      1033 Shrinks backwards in his shelly cave with pain, And there all smother’d up, in shade doth sit, Long after fearing to creep forth again:            1036
   So at his bloody view her eyes are fled
   Into the deep dark cabins of her head.
 
@@ -1261,20 +1149,14 @@ Whereat each tributary subject quakes,
 As when the wind imprison’d in the ground,
 Struggling for passage, earth’s foundation shakes,
 Which with cold terror doth men’s minds confound.
-  This mutiny each part doth so surprise            1049
-  That from their dark beds once more leap her eyes.
+This mutiny each part doth so surprise            1049
+That from their dark beds once more leap her eyes.
 
-And being open’d, threw unwilling light
-Upon the wide wound that the boar had trench’d
-In his soft flank, whose wonted lily white          1053
-With purple tears that his wound wept, was drench’d.
+And being open’d, threw unwilling light Upon the wide wound that the boar had trench’d In his soft flank, whose wonted lily white          1053 With purple tears that his wound wept, was drench’d.
   No flower was nigh, no grass, herb, leaf or weed,
   But stole his blood and seem’d with him to bleed.
 
-This solemn sympathy poor Venus noteth,             1057
-Over one shoulder doth she hang her head,
-Dumbly she passions, franticly she doteth;
-She thinks he could not die, he is not dead:        1060
+This solemn sympathy poor Venus noteth,             1057 Over one shoulder doth she hang her head, Dumbly she passions, franticly she doteth; She thinks he could not die, he is not dead:        1060
   Her voice is stopp’d, her joints forget to bow,
   Her eyes are mad, that they have wept till now.
 
@@ -1285,10 +1167,7 @@ That makes more gashes, where no breach should be:
   His face seems twain, each several limb is doubled,
   For oft the eye mistakes, the brain being troubled.
 
-“My tongue cannot express my grief for one,         1069
-And yet,” quoth she, “behold two Adons dead!
-My sighs are blown away, my salt tears gone,
-Mine eyes are turn’d to fire, my heart to lead:     1072
+“My tongue cannot express my grief for one,         1069 And yet,” quoth she, “behold two Adons dead! My sighs are blown away, my salt tears gone, Mine eyes are turn’d to fire, my heart to lead:     1072
   Heavy heart’s lead, melt at mine eyes’ red fire!
   So shall I die by drops of hot desire.
 
@@ -1299,24 +1178,17 @@ Of things long since, or anything ensuing?          1078
   The flowers are sweet, their colours fresh and trim,
   But true sweet beauty liv’d and died with him.
 
-“Bonnet nor veil henceforth no creature wear!       1081
-Nor sun nor wind will ever strive to kiss you:
-Having no fair to lose, you need not fear;
-The sun doth scorn you, and the wind doth hiss you.
-  But when Adonis liv’d, sun and sharp air          1085
-  Lurk’d like two thieves, to rob him of his fair.
+“Bonnet nor veil henceforth no creature wear!       1081 Nor sun nor wind will ever strive to kiss you: Having no fair to lose, you need not fear; The sun doth scorn you, and the wind doth hiss you.
+But when Adonis liv’d, sun and sharp air          1085
+Lurk’d like two thieves, to rob him of his fair.
 
-“And therefore would he put his bonnet on,
-Under whose brim the gaudy sun would peep;          1088
+“And therefore would he put his bonnet on, Under whose brim the gaudy sun would peep;          1088
 The wind would blow it off, and being gone,
 Play with his locks; then would Adonis weep;
   And straight, in pity of his tender years,
-  They both would strive who first should dry his tears.
+They both would strive who first should dry his tears.
 
-“To see his face the lion walk’d along              1093
-Behind some hedge, because he would not fear him;
-To recreate himself when he hath sung,
-The tiger would be tame and gently hear him.        1096
+“To see his face the lion walk’d along              1093 Behind some hedge, because he would not fear him; To recreate himself when he hath sung, The tiger would be tame and gently hear him.        1096
   If he had spoke, the wolf would leave his prey,
   And never fright the silly lamb that day.
 
@@ -1327,10 +1199,7 @@ That some would sing, some other in their bills
   Would bring him mulberries and ripe-red cherries,
   He fed them with his sight, they him with berries.
 
-“But this foul, grim, and urchin-snouted boar,      1105
-Whose downward eye still looketh for a grave,
-Ne’er saw the beauteous livery that he wore;
-Witness the entertainment that he gave.             1108
+“But this foul, grim, and urchin-snouted boar,      1105 Whose downward eye still looketh for a grave, Ne’er saw the beauteous livery that he wore; Witness the entertainment that he gave.             1108
   If he did see his face, why then I know
   He thought to kiss him, and hath kill’d him so.
 
@@ -1355,10 +1224,7 @@ As if they heard the woeful words she told;
 She lifts the coffer-lids that close his eyes,
 Where lo, two lamps burnt out in darkness lies.
 
-Two glasses where herself herself beheld            1129
-A thousand times, and now no more reflect;
-Their virtue lost, wherein they late excell’d,
-And every beauty robb’d of his effect.              1132
+Two glasses where herself herself beheld            1129 A thousand times, and now no more reflect; Their virtue lost, wherein they late excell’d, And every beauty robb’d of his effect.              1132
   “Wonder of time,” quoth she, “this is my spite,
   That thou being dead, the day should yet be light.
 
@@ -1369,10 +1235,7 @@ Find sweet beginning, but unsavoury end;
   Ne’er settled equally, but high or low,
   That all love’s pleasure shall not match his woe.
 
-“It shall be fickle, false and full of fraud,       1141
-Bud, and be blasted in a breathing while;
-The bottom poison, and the top o’erstraw’d
-With sweets that shall the truest sight beguile.    1144
+“It shall be fickle, false and full of fraud,       1141 Bud, and be blasted in a breathing while; The bottom poison, and the top o’erstraw’d With sweets that shall the truest sight beguile.    1144
   The strongest body shall it make most weak,
   Strike the wise dumb, and teach the fool to speak.
 
@@ -1425,14 +1288,9 @@ My throbbing heart shall rock thee day and night:
   There shall not be one minute in an hour
   Wherein I will not kiss my sweet love’s flower.”
 
-Thus weary of the world, away she hies,             1189
-And yokes her silver doves; by whose swift aid
-Their mistress mounted through the empty skies,
-In her light chariot quickly is convey’d;           1192
+Thus weary of the world, away she hies,             1189 And yokes her silver doves; by whose swift aid Their mistress mounted through the empty skies, In her light chariot quickly is convey’d;           1192
   Holding their course to Paphos, where their queen
   Means to immure herself and not be seen.
 
 
-  FINIS
-
-*** END OF THE PROJECT GUTENBERG EBOOK 1045 ***
+FINIS

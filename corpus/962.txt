@@ -1,33 +1,3 @@
-The Project Gutenberg EBook of The Poems of Henry Kendall, by Henry Kendall
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The Poems of Henry Kendall
-
-Author: Henry Kendall
-
-Posting Date: August 2, 2008 [EBook #962]
-Release Date: July, 1997
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE POEMS OF HENRY KENDALL ***
-
-
-
-
-Produced by Alan R. Light
-
-
-
-
-
 THE POEMS OF HENRY KENDALL
 
 by Henry Kendall
@@ -35,38 +5,19 @@ by Henry Kendall
 [Native-born Australian Poet--1841-1882.]
 
 
+[Note on text: Lines longer than 78 characters have been broken according to metre, and the continuation is indented two spaces.  A few obvious errors have been corrected.]
 
 
-
-[Note on text:
-Lines longer than 78 characters have been broken according to metre,
-and the continuation is indented two spaces.  A few obvious errors
-have been corrected.]
-
-
-
-
-
-This edition of Kendall contains:  (i)  The poems included in
-the three volumes published during the author's lifetime;
-(ii)  Those not reprinted by Kendall, but included in the collected editions
-of 1886, 1890 and 1903; (iii)  Early pieces not hitherto reprinted;
-(iv)  Poems, now first printed, from the Kendall MSS. in the Mitchell Library,
-the use of which has been kindly permitted by the Trustees.
-Certain topical skits and other pieces of no value have been omitted.
+This edition of Kendall contains:  (i)  The poems included in the three volumes published during the author's lifetime; (ii)  Those not reprinted by Kendall, but included in the collected editions of 1886, 1890 and 1903; (iii)  Early pieces not hitherto reprinted; (iv)  Poems, now first printed, from the Kendall MSS. in the Mitchell Library, the use of which has been kindly permitted by the Trustees. Certain topical skits and other pieces of no value have been omitted.
 
 
 With biographical note by Bertram Stevens
 
 
-
-
-
 Contents
 
 
-
-         Poems and Songs
+Poems and Songs
 
      The Muse of Australia
      Mountains
@@ -115,7 +66,7 @@ Contents
      Achan
 
 
-         Leaves from Australian Forests
+Leaves from Australian Forests
 
      Dedication
      Prefatory Sonnets
@@ -175,7 +126,7 @@ Contents
      Rose Lorraine
 
 
-         Songs from the Mountains
+Songs from the Mountains
 
      To a Mountain
      Mary Rivers
@@ -214,7 +165,7 @@ Contents
      After Many Years
 
 
-         Early Poems, 1859-70
+Early Poems, 1859-70
 
      The Merchant Ship
      Oh, Tell Me, Ye Breezes
@@ -266,7 +217,7 @@ Contents
      Sedan
 
 
-         Other Poems, 1871-82
+Other Poems, 1871-82
 
      Adam Lindsay Gordon
      In Memory of Edward Butler
@@ -297,264 +248,58 @@ Contents
      Outre Mer
 
 
-
-
 Biographical Note
 
 
-
-Henry Kendall was the first Australian poet to draw his inspiration from
-the life, scenery and traditions of the country.  In the beginnings of
-Australian poetry the names of two other men stand with his--Adam
-Lindsay Gordon, of English parentage and education, and Charles Harpur,
-born in Australia a generation earlier than Kendall. Harpur's work,
-though lacking vitality, shows fitful gleams of poetic fire suggestive
-of greater achievement had the circumstances of his life been more
-favourable.  Kendall, whose lot was scarcely more fortunate, is a true
-singer; his songs remain, and are likely long to remain, attractive to
+Henry Kendall was the first Australian poet to draw his inspiration from the life, scenery and traditions of the country.  In the beginnings of Australian poetry the names of two other men stand with his--Adam Lindsay Gordon, of English parentage and education, and Charles Harpur, born in Australia a generation earlier than Kendall. Harpur's work, though lacking vitality, shows fitful gleams of poetic fire suggestive of greater achievement had the circumstances of his life been more favourable.  Kendall, whose lot was scarcely more fortunate, is a true singer; his songs remain, and are likely long to remain, attractive to
 poetry lovers.
 
-The poet's grandfather, Thomas Kendall, a Lincolnshire schoolmaster, met
-the Revd. Samuel Marsden when the latter was in England seeking
-assistants for his projected missionary work in New Zealand. Kendall
-offered his services to the Church Missionary Society of London and came
-out to Sydney in 1809.  Five years later he was sent to the Bay of
-Islands as a lay missionary, holding also the first magistrate's
-commission issued for New Zealand. He soon made friends with the Maoris
-and learnt their language well enough to compile a primer in
-pidgin-Maori, 'A Korao no New Zealand; or, the New Zealander's First
-Book', which George Howe printed for Marsden at Sydney in 1815.  In 1820
-Thomas Kendall went to England with some Maori chiefs, and while there
-helped Professor Lee, of Cambridge, to "fix" the Maori language--the
-outcome of their work being Lee and Kendall's 'Grammar and Vocabulary of
-the Language of New Zealand', published in the same year.
+The poet's grandfather, Thomas Kendall, a Lincolnshire schoolmaster, met the Revd. Samuel Marsden when the latter was in England seeking assistants for his projected missionary work in New Zealand. Kendall offered his services to the Church Missionary Society of London and came out to Sydney in 1809.  Five years later he was sent to the Bay of Islands as a lay missionary, holding also the first magistrate's commission issued for New Zealand. He soon made friends with the Maoris and learnt their language well enough to compile a primer in pidgin-Maori, 'A Korao no New Zealand; or, the New Zealander's First Book', which George Howe printed for Marsden at Sydney in 1815.  In 1820 Thomas Kendall went to England with some Maori chiefs, and while there helped Professor Lee, of Cambridge, to "fix" the Maori language--the outcome of their work being Lee and Kendall's 'Grammar and Vocabulary of the Language of New Zealand', published in the same year.
 
-Returning to New Zealand, Kendall, in 1823, left the Missionary Society
-and went with his son Basil to Chile.  In 1826 he came back to
-Australia, and for his good work as a missionary received from the New
-South Wales Government a grant of 1280 acres at Ulladulla, on the South
-Coast.  There he entered the timber trade and became owner and master of
-a small vessel used in the business.  About 1832 this vessel was wrecked
-near Sydney, and all on board, including the owner, were drowned.
+Returning to New Zealand, Kendall, in 1823, left the Missionary Society and went with his son Basil to Chile.  In 1826 he came back to Australia, and for his good work as a missionary received from the New South Wales Government a grant of 1280 acres at Ulladulla, on the South Coast.  There he entered the timber trade and became owner and master of a small vessel used in the business.  About 1832 this vessel was wrecked near Sydney, and all on board, including the owner, were drowned.
 
-Of Basil Kendall's early career little is known.  While in South America
-he saw service under Lord Cochrane, the famous tenth Earl of Dundonald,
-who, after five brilliant years in the Chilean service, was, between
-1823 and 1825, fighting on behalf of Brazil.  Basil returned to
-Australia, but disappears from view until 1840.  One day in that year he
-met a Miss Melinda McNally, and next day they were married. Soon
-afterwards they settled on the Ulladulla grant, farming land at
-Kirmington, two miles from the little town of Milton. There, in a
-primitive cottage Basil had built, twin sons--Basil Edward and
-Henry--were born on the 18th April, 1841. Five years later the family
-moved to the Clarence River district and settled near the Orara.  Basil
-Kendall had practically lost one lung before his marriage, and failing
-health made it exceedingly difficult for him to support his family, to
-which by this time three daughters had been added.  On the Orara he grew
-steadily weaker, and died somewhere about 1851.
+Of Basil Kendall's early career little is known.  While in South America he saw service under Lord Cochrane, the famous tenth Earl of Dundonald, who, after five brilliant years in the Chilean service, was, between 1823 and 1825, fighting on behalf of Brazil.  Basil returned to Australia, but disappears from view until 1840.  One day in that year he met a Miss Melinda McNally, and next day they were married. Soon afterwards they settled on the Ulladulla grant, farming land at Kirmington, two miles from the little town of Milton. There, in a primitive cottage Basil had built, twin sons--Basil Edward and Henry--were born on the 18th April, 1841. Five years later the family moved to the Clarence River district and settled near the Orara.  Basil Kendall had practically lost one lung before his marriage, and failing health made it exceedingly difficult for him to support his family, to which by this time three daughters had been added.  On the Orara he grew steadily weaker, and died somewhere about 1851.
 
-Basil Kendall was well educated, and had done what he could to educate
-his children.  After his death the family was scattered, and the two
-boys were sent to a relative on the South Coast.  The scenery of this
-district made a profound impression upon Henry, and is often referred to
-in his early poems.  In 1855 his uncle Joseph took him as cabin boy in
-his brig, the 'Plumstead', for a two years' cruise in the Pacific,
-during which they touched at many of the Islands and voyaged as far
-north as Yokohama.  The beauty of the scenes he visited lived in the
-boy's memory, but the rigours of ship life were so severe that in after
-years he looked back on the voyage with horror.
+Basil Kendall was well educated, and had done what he could to educate his children.  After his death the family was scattered, and the two boys were sent to a relative on the South Coast.  The scenery of this district made a profound impression upon Henry, and is often referred to in his early poems.  In 1855 his uncle Joseph took him as cabin boy in his brig, the 'Plumstead', for a two years' cruise in the Pacific, during which they touched at many of the Islands and voyaged as far north as Yokohama.  The beauty of the scenes he visited lived in the boy's memory, but the rigours of ship life were so severe that in after years he looked back on the voyage with horror.
 
-Henry Kendall returned to Sydney in March, 1857, and at once obtained
-employment in the city and set about making a home for his mother and
-sisters.  Mrs. Kendall, granddaughter of Leonard McNally, a Dublin
-notable of his day, was a clever, handsome woman with a strong
-constitution and a volatile temperament. Henry was always devoted to
-her, and considered that from her he inherited whatever talent he
-possessed.  She helped in his education, and encouraged him to write
+Henry Kendall returned to Sydney in March, 1857, and at once obtained employment in the city and set about making a home for his mother and sisters.  Mrs. Kendall, granddaughter of Leonard McNally, a Dublin notable of his day, was a clever, handsome woman with a strong constitution and a volatile temperament. Henry was always devoted to her, and considered that from her he inherited whatever talent he possessed.  She helped in his education, and encouraged him to write
 verse.
 
-The first verses of his known to have been printed were "O tell me, ye
-breezes"--signed "H. Kendall"--which appeared in 'The Australian Home
-Companion and Band of Hope Journal' in 1859. A number of other poems by
-Kendall appeared in the same magazine during 1860 and 1861.  But in a
-letter written years afterwards to Mr. Sheridan Moore, Kendall says "My
-first essay in writing was sent to 'The Southern Cross' at the time you
-were sub-editor.  You, of course, lit your pipe with it.  It was on the
-subject of the 'Dunbar'. After a few more attempts in prose and
-verse--attempts only remarkable for their being clever imitations--I hit
-upon the right vein and wrote the Curlew Song.  Then followed the crude,
-but sometimes happy verses which made up my first volume."
+The first verses of his known to have been printed were "O tell me, ye breezes"--signed "H. Kendall"--which appeared in 'The Australian Home Companion and Band of Hope Journal' in 1859. A number of other poems by Kendall appeared in the same magazine during 1860 and 1861.  But in a letter written years afterwards to Mr. Sheridan Moore, Kendall says "My first essay in writing was sent to 'The Southern Cross' at the time you were sub-editor.  You, of course, lit your pipe with it.  It was on the subject of the 'Dunbar'. After a few more attempts in prose and verse--attempts only remarkable for their being clever imitations--I hit upon the right vein and wrote the Curlew Song.  Then followed the crude, but sometimes happy verses which made up my first volume."
 
-The verses on the wreck of the 'Dunbar', written at the age of sixteen,
-were eventually printed in 'The Empire' in 1860 as "The Merchant Ship".
-Henry Parkes, the editor of that newspaper, had already welcomed some of
-the boy's poems, and in 'The Empire' of the 8th December, 1859, had
-noticed as just published a song--"Silent Tears"--the words of which
-were written by "a young native poet, Mr. H. Kendall, N.A.P."  These
-initials, which puzzled Parkes, as well they might, meant no more than
-Native Australian Poet.
+The verses on the wreck of the 'Dunbar', written at the age of sixteen, were eventually printed in 'The Empire' in 1860 as "The Merchant Ship". Henry Parkes, the editor of that newspaper, had already welcomed some of the boy's poems, and in 'The Empire' of the 8th December, 1859, had noticed as just published a song--"Silent Tears"--the words of which were written by "a young native poet, Mr. H. Kendall, N.A.P."  These initials, which puzzled Parkes, as well they might, meant no more than Native Australian Poet.
 
-Kendall also sent some poems to 'The Sydney Morning Herald'; there they
-attracted the attention of Henry Halloran, a civil servant and a
-voluminous amateur writer, who sought out the poet and tried to help
+Kendall also sent some poems to 'The Sydney Morning Herald'; there they attracted the attention of Henry Halloran, a civil servant and a voluminous amateur writer, who sought out the poet and tried to help
 him.
 
-Kendall's mother brought him to Mr. Sheridan Moore, who had some
-reputation as a literary critic.  He was greatly interested in the
-poems, and promised to try to raise money for their publication.
-Subscriptions were invited by advertisement in January, 1861, but came
-in so slowly that, after a year's delay, Kendall almost despaired of
+Kendall's mother brought him to Mr. Sheridan Moore, who had some reputation as a literary critic.  He was greatly interested in the poems, and promised to try to raise money for their publication. Subscriptions were invited by advertisement in January, 1861, but came in so slowly that, after a year's delay, Kendall almost despaired of
 publication.
 
-Meanwhile Moore had introduced Kendall to James Lionel Michael, through
-whom he came to know Nicol D. Stenhouse, Dr. Woolley, and others of the
-small group of literary men in Sydney.  Michael, a London solicitor, had
-been a friend of some of the Pre-Raphaelite group of artists, and was
-much more interested in literature than in the law when the lure of gold
-brought him to Australia in 1853. Himself a well-read man and a writer
-of very fair verse, he recognized the decided promise of Kendall's work
-and gave him a place in his office. In spite of their disparity in years
-they became friends, and Kendall undoubtedly derived great benefit from
-Michael's influence and from the use of his library.  When in 1861
-Michael left Sydney for Grafton, Kendall either accompanied him or
-joined him soon afterwards. He did not, however, stay long at Grafton.
-He found employment at Dungog on the Williams River; afterwards went to
-Scone, where he worked for a month or two, and then made his way back to
+Meanwhile Moore had introduced Kendall to James Lionel Michael, through whom he came to know Nicol D. Stenhouse, Dr. Woolley, and others of the small group of literary men in Sydney.  Michael, a London solicitor, had been a friend of some of the Pre-Raphaelite group of artists, and was much more interested in literature than in the law when the lure of gold brought him to Australia in 1853. Himself a well-read man and a writer of very fair verse, he recognized the decided promise of Kendall's work and gave him a place in his office. In spite of their disparity in years they became friends, and Kendall undoubtedly derived great benefit from Michael's influence and from the use of his library.  When in 1861 Michael left Sydney for Grafton, Kendall either accompanied him or joined him soon afterwards. He did not, however, stay long at Grafton. He found employment at Dungog on the Williams River; afterwards went to Scone, where he worked for a month or two, and then made his way back to
 Sydney.
 
-Restive over the long delay in publication, and anxious to get a
-critical estimate of his work, Kendall in January, 1862, made copies of
-some pieces and sent them to the 'Cornhill Magazine' with a letter
-pleading for special consideration on account of the author's youth and
-the indifference of Australians to anything produced in their own
-country.  A reduced facsimile of this interesting letter is printed
-here.  {In this etext, the letter has been transcribed and is included
-at the end of this section.}  Thackeray was editor of 'Cornhill' up to
-April, 1862, but may not have seen this pathetic appeal from the other
-side of the world.  At any rate, no notice of it was taken by
-'Cornhill', and in July of the same year Kendall sent a similar letter
-with copies of his verses to the 'Athenaeum'.  The editor printed the
-letter and some of the poems, with very kindly comments, in the issue of
-27th September, 1862.
+Restive over the long delay in publication, and anxious to get a critical estimate of his work, Kendall in January, 1862, made copies of some pieces and sent them to the 'Cornhill Magazine' with a letter pleading for special consideration on account of the author's youth and the indifference of Australians to anything produced in their own country.  A reduced facsimile of this interesting letter is printed here.  {In this etext, the letter has been transcribed and is included at the end of this section.}  Thackeray was editor of 'Cornhill' up to April, 1862, but may not have seen this pathetic appeal from the other side of the world.  At any rate, no notice of it was taken by 'Cornhill', and in July of the same year Kendall sent a similar letter with copies of his verses to the 'Athenaeum'.  The editor printed the letter and some of the poems, with very kindly comments, in the issue of 27th September, 1862.
 
-In October, 1862, before this powerful encouragement reached the young
-writer, 'Poems and Songs' was published in Sydney by Mr. J. R. Clarke.
-'The Empire' published a favourable review. Further notice of his work
-appeared in the 'Athenaeum' during the next four years, and in 1866 it
-was generously praised by Mr. G. B. Barton in his 'Poets and Prose
-Writers of New South Wales'.
+In October, 1862, before this powerful encouragement reached the young writer, 'Poems and Songs' was published in Sydney by Mr. J. R. Clarke. 'The Empire' published a favourable review. Further notice of his work appeared in the 'Athenaeum' during the next four years, and in 1866 it was generously praised by Mr. G. B. Barton in his 'Poets and Prose Writers of New South Wales'.
 
-Meanwhile in August, 1863, Kendall was, through Parkes' influence,
-appointed to a clerkship in the Surveyor-General's Department at one
-hundred and fifty pounds a year, and three years later was transferred
-to the Colonial Secretary's Office at two hundred pounds a year.  During
-this period he read extensively, and wrote much verse. By 1867 he had so
-far overcome his natural shyness that he undertook to deliver a series
-of lectures at the Sydney School of Arts. One of these, on "Love,
-Courtship and Marriage", precipitated him into experience of all three;
-for he walked home after the lecture with Miss Charlotte Rutter,
-daughter of a Government medical officer, straightway fell in love, and,
-after a brief courtship, they were married in the following year.
+Meanwhile in August, 1863, Kendall was, through Parkes' influence, appointed to a clerkship in the Surveyor-General's Department at one hundred and fifty pounds a year, and three years later was transferred to the Colonial Secretary's Office at two hundred pounds a year.  During this period he read extensively, and wrote much verse. By 1867 he had so far overcome his natural shyness that he undertook to deliver a series of lectures at the Sydney School of Arts. One of these, on "Love, Courtship and Marriage", precipitated him into experience of all three; for he walked home after the lecture with Miss Charlotte Rutter, daughter of a Government medical officer, straightway fell in love, and, after a brief courtship, they were married in the following year.
 
-The year 1868 was a memorable one for Kendall in other ways.  In April,
-James Lionel Michael was found dead in the Clarence River, and in June
-Charles Harpur died at Euroma.  Kendall had a great admiration for
-Harpur's poems and wrote to him in the spirit of a disciple. They
-corresponded for some years, but did not meet until a few months before
-the elder poet's death.  Kendall describes Harpur as then "a noble
-ruin--scorched and wasted by the fire of sorrow."
+The year 1868 was a memorable one for Kendall in other ways.  In April, James Lionel Michael was found dead in the Clarence River, and in June Charles Harpur died at Euroma.  Kendall had a great admiration for Harpur's poems and wrote to him in the spirit of a disciple. They corresponded for some years, but did not meet until a few months before the elder poet's death.  Kendall describes Harpur as then "a noble ruin--scorched and wasted by the fire of sorrow."
 
-In 1868, also, a prize was offered in Melbourne for the best Australian
-poem, the judge being Richard Hengist Horne, author of 'Orion'.  Kendall
-sent in three poems and Horne awarded the prize to "A Death in the
-Bush".  In an article printed in Melbourne and Sydney newspapers he
-declared that the author was a true poet, and that had there been three
-prizes, the second and third would have gone to Kendall's other
-poems--"The Glen of Arrawatta" and "Dungog".
+In 1868, also, a prize was offered in Melbourne for the best Australian poem, the judge being Richard Hengist Horne, author of 'Orion'.  Kendall sent in three poems and Horne awarded the prize to "A Death in the Bush".  In an article printed in Melbourne and Sydney newspapers he declared that the author was a true poet, and that had there been three prizes, the second and third would have gone to Kendall's other poems--"The Glen of Arrawatta" and "Dungog".
 
-The result of winning this prize was that Kendall decided to abandon
-routine work and try to earn his living as a writer. He resigned his
-position in the Colonial Secretary's Office on the 31st March, 1869, and
-shortly afterwards left for Melbourne, where his wife and daughter soon
-joined him.  Melbourne was then a centre of greater literary activity
-than Sydney.  Neither then, however, nor for a long time to come, was
-any number of people in Australia sufficiently interested in local
-literature (apart from journalism) to warrant the most gifted writer in
-depending upon his pen for support. Still, Kendall managed to persuade
-Mr. George Robertson, the principal Australian bookseller of those days,
-to undertake the risk of his second book of poems--'Leaves from
-Australian Forests'--which was published towards the end of 1869.
-But though the volume showed a great advance in quality upon its
-predecessor, it was a commercial failure, and the publisher lost ninety
+The result of winning this prize was that Kendall decided to abandon routine work and try to earn his living as a writer. He resigned his position in the Colonial Secretary's Office on the 31st March, 1869, and shortly afterwards left for Melbourne, where his wife and daughter soon joined him.  Melbourne was then a centre of greater literary activity than Sydney.  Neither then, however, nor for a long time to come, was any number of people in Australia sufficiently interested in local literature (apart from journalism) to warrant the most gifted writer in depending upon his pen for support. Still, Kendall managed to persuade Mr. George Robertson, the principal Australian bookseller of those days, to undertake the risk of his second book of poems--'Leaves from Australian Forests'--which was published towards the end of 1869. But though the volume showed a great advance in quality upon its predecessor, it was a commercial failure, and the publisher lost ninety
 pounds over it.
 
-In Melbourne, Kendall wrote prose, as well as satirical and serious
-verse, for most of the papers.  The payment was small; in fact, only a
-few newspapers then paid anything for verse.  He made a little money by
-writing the words for a cantata, "Euterpe", sung at the opening of the
-Melbourne Town Hall in 1870.  At the office of 'The Colonial Monthly',
-edited by Marcus Clarke, he met the best of the Melbourne literati, and,
-though his reserved manner did not encourage intimacy, one of
-them--George Gordon McCrae--became a close and true friend. Lindsay
-Gordon, too, admired Kendall's poems, and learned to respect a man whose
-disposition was in some ways like his own. 'Bush Ballads and Galloping
-Rhymes' appeared in June, 1870, and Kendall received an advance copy and
-wrote a laudatory review for 'The Australasian'.  He and Gordon spent
-some hours on the day of publication, discussing the book and poetry in
-general. Both were depressed by the apparent futility of literary effort
-in Australia, where nearly everyone was making haste to be rich. Next
-morning Gordon shot himself--tired of life at thirty-seven! Kendall knew
-how Harpur's last long illness had been saddened by the knowledge that
-the public was utterly indifferent to his poems; he had seen the wreck
-of the once brilliant Deniehy; and now the noble-hearted Gordon had
-given up the struggle.
+In Melbourne, Kendall wrote prose, as well as satirical and serious verse, for most of the papers.  The payment was small; in fact, only a few newspapers then paid anything for verse.  He made a little money by writing the words for a cantata, "Euterpe", sung at the opening of the Melbourne Town Hall in 1870.  At the office of 'The Colonial Monthly', edited by Marcus Clarke, he met the best of the Melbourne literati, and, though his reserved manner did not encourage intimacy, one of them--George Gordon McCrae--became a close and true friend. Lindsay Gordon, too, admired Kendall's poems, and learned to respect a man whose disposition was in some ways like his own. 'Bush Ballads and Galloping Rhymes' appeared in June, 1870, and Kendall received an advance copy and wrote a laudatory review for 'The Australasian'.  He and Gordon spent some hours on the day of publication, discussing the book and poetry in general. Both were depressed by the apparent futility of literary effort in Australia, where nearly everyone was making haste to be rich. Next morning Gordon shot himself--tired of life at thirty-seven! Kendall knew how Harpur's last long illness had been saddened by the knowledge that the public was utterly indifferent to his poems; he had seen the wreck of the once brilliant Deniehy; and now the noble-hearted Gordon had given up the struggle.
 
-To these depressing influences, and the hardships occasioned by a meagre
-and uncertain income, was added a new grief--the loss of his first-born,
-Araluen, whose memory he enshrined years afterwards in a poem of
-pathetic tenderness.  He returned to Sydney early in 1871, broken in
-health and spirit.  The next two years were a time of tribulation,
-during which, as he said later on, he passed into the shadow, and
-emerged only through the devotion of his wife and the help of the
-brothers Fagan, timber merchants, of Brisbane Water. Kendall was the
-Fagans' guest at Narrara Creek, near Gosford, and afterwards filled a
-clerical position in the business which one of the brothers established
-at Camden Haven. There he spent seven tranquil years with his wife and
-family, and wrote the best of his poems.  In some of these he said all
-that need be said against himself, for he was always frankly critical of
-his conduct and work.
+To these depressing influences, and the hardships occasioned by a meagre and uncertain income, was added a new grief--the loss of his first-born, Araluen, whose memory he enshrined years afterwards in a poem of pathetic tenderness.  He returned to Sydney early in 1871, broken in health and spirit.  The next two years were a time of tribulation, during which, as he said later on, he passed into the shadow, and emerged only through the devotion of his wife and the help of the brothers Fagan, timber merchants, of Brisbane Water. Kendall was the Fagans' guest at Narrara Creek, near Gosford, and afterwards filled a clerical position in the business which one of the brothers established at Camden Haven. There he spent seven tranquil years with his wife and family, and wrote the best of his poems.  In some of these he said all that need be said against himself, for he was always frankly critical of his conduct and work.
 
-In his later years Kendall tasted some of the sweets of success. He
-wrote the words of the opening Cantata sung at the Sydney International
-Exhibition in 1879, and won a prize of one hundred pounds offered by
-'The Sydney Morning Herald' for a poem on the Exhibition.  His third
-collection--'Songs from the Mountains'--was published at Sydney in 1880,
-and realized a substantial profit. In 1881 Sir Henry Parkes made a
-position for him, an Inspectorship of State Forests at five hundred
-pounds a year.  Kendall's experience in the timber business well fitted
-him for this, though his health was not equal to the exposure attendant
-on the work.  He moved to Cundletown, on the Manning River, before
-receiving the appointment, and from that centre rode out on long tours
-of inspection. During one of these he caught a chill; his lungs were
-affected, and rapid consumption followed.  He went to Sydney for
-treatment and was joined by his wife at Mr. Fagan's house in Redfern,
-where he died in her arms on the 1st August, 1882. He was buried at
-Waverley, overlooking the sea.
+In his later years Kendall tasted some of the sweets of success. He wrote the words of the opening Cantata sung at the Sydney International Exhibition in 1879, and won a prize of one hundred pounds offered by 'The Sydney Morning Herald' for a poem on the Exhibition.  His third collection--'Songs from the Mountains'--was published at Sydney in 1880, and realized a substantial profit. In 1881 Sir Henry Parkes made a position for him, an Inspectorship of State Forests at five hundred pounds a year.  Kendall's experience in the timber business well fitted him for this, though his health was not equal to the exposure attendant on the work.  He moved to Cundletown, on the Manning River, before receiving the appointment, and from that centre rode out on long tours of inspection. During one of these he caught a chill; his lungs were affected, and rapid consumption followed.  He went to Sydney for treatment and was joined by his wife at Mr. Fagan's house in Redfern, where he died in her arms on the 1st August, 1882. He was buried at Waverley, overlooking the sea.
 
-Kendall, it should be remembered, did not prepare a collected edition of
-his poems, and it will be noticed that in the present volume some lines
-and passages appear more than once.  The student and lover of Kendall
-will be interested to see how these lines and passages were taken from
-his own previous work and turned to better account in later poems, and
-to note the gradual improvement of his style. In his last book, 'Songs
-from the Mountains', there are fewer echoes; the touch is surer, and the
-imaginative level at his highest. The shining wonder is that, under the
-conditions of Australian life between 1860 and 1880, he should have
-written so much that is so good.
+Kendall, it should be remembered, did not prepare a collected edition of his poems, and it will be noticed that in the present volume some lines and passages appear more than once.  The student and lover of Kendall will be interested to see how these lines and passages were taken from his own previous work and turned to better account in later poems, and to note the gradual improvement of his style. In his last book, 'Songs from the Mountains', there are fewer echoes; the touch is surer, and the imaginative level at his highest. The shining wonder is that, under the conditions of Australian life between 1860 and 1880, he should have written so much that is so good.
 
-As our first sweet singer of "native woodnotes wild", Kendall has an
-enduring place in the regard of all Australians; and his best work is
-known and admired wherever English poetry is read.
+As our first sweet singer of "native woodnotes wild", Kendall has an enduring place in the regard of all Australians; and his best work is known and admired wherever English poetry is read.
 
 Bertram Stevens
 
@@ -570,51 +315,24 @@ To the Editor of the "Cornhill Magazine".
 
 Sir,
 
-Will you oblige me by reading this letter, and the accompanying verses?
-Remember that they will have travelled sixteen thousand miles, and on
-that account will be surely worth a few moments of your time. I think
-that there is merit in the verses, and have sent them to you, hoping
-that you--yourself, will be of the same opinion.  If one can be
-selected--one up to the standard of the 'Cornhill Magazine', insert it,
-and you will be helping me practically.  I do not hint of pecuniary
-remuneration however, for your recognition would be sufficient reward.
+Will you oblige me by reading this letter, and the accompanying verses? Remember that they will have travelled sixteen thousand miles, and on that account will be surely worth a few moments of your time. I think that there is merit in the verses, and have sent them to you, hoping that you--yourself, will be of the same opinion.  If one can be selected--one up to the standard of the 'Cornhill Magazine', insert it, and you will be helping me practically.  I do not hint of pecuniary remuneration however, for your recognition would be sufficient reward.
 
-Let me say a few words about myself:  I was born in this colony;
-and am now in the nineteenth year of my age.  My education has been
-neglected--hence you will very likely find that some of these effusions are
-immature. At present the most of my time is occupied at an attorney's
-office, but I do not earn enough there to cover expenses; considering
-that I have to support my mother and three sisters.  I want to rise, and
-if my poems are anywhere near the mark you can assist me by noticing
+Let me say a few words about myself:  I was born in this colony; and am now in the nineteenth year of my age.  My education has been neglected--hence you will very likely find that some of these effusions are immature. At present the most of my time is occupied at an attorney's office, but I do not earn enough there to cover expenses; considering that I have to support my mother and three sisters.  I want to rise, and if my poems are anywhere near the mark you can assist me by noticing
 them.
 
-They recognise me in this country as the "first Australian poet". If the
-men who load me with their fulsome, foolish praises, really believed
-{that I have talent (crossed out)} in my talents, and cared a whit about
-fostering a native literature, they would give me a good situation; and
-I should not have to appeal to you.
+They recognise me in this country as the "first Australian poet". If the men who load me with their fulsome, foolish praises, really believed {that I have talent (crossed out)} in my talents, and cared a whit about fostering a native literature, they would give me a good situation; and I should not have to appeal to you.
 
-If one of the poems is found to be good enough, and you publish it,
-someone here will _then_ surely do the rest.  On the other hand if
-nothing can be gleaned from them, let the effusions and their author be
-forgotten.  Hoping that you will not forget to read the verses, I remain
+If one of the poems is found to be good enough, and you publish it, someone here will _then_ surely do the rest.  On the other hand if nothing can be gleaned from them, let the effusions and their author be forgotten.  Hoping that you will not forget to read the verses, I remain
 
 Yours, Respectfully,
 
 H. Kendall.
 
 
-
-
-
 POEMS AND SONGS
 
 
-
-
-
-   The Muse of Australia
-
+The Muse of Australia
 
 
    Where the pines with the eagles are nestled in rifts,
@@ -636,10 +354,7 @@ POEMS AND SONGS
     And a hand with the Harp of Australia!
 
 
-
-
 Mountains
-
 
 
    Rifted mountains, clad with forests, girded round by gleaming pines,
@@ -712,13 +427,10 @@ Mountains
    But the spirit answers nothing, and I linger all alone,
    Gazing through the moony vapours where the lovely Dream has flown;
    And my heart is beating sadly, and the music waxeth faint,
-   Sailing up to holy Heaven, like the anthems of a Saint.
-
-
+Sailing up to holy Heaven, like the anthems of a Saint.
 
 
 Kiama
-
 
 
    Towards the hills of Jamberoo
@@ -797,10 +509,7 @@ Kiama
       Have made this spot my Paradise!
 
 
-
-
 Etheline
-
 
 
    The heart that once was rich with light,
@@ -856,10 +565,7 @@ Etheline
    To find on earth again.
 
 
-
-
 Aileen
-
 
 
    A splendid sun betwixt the trees
@@ -940,10 +646,7 @@ Aileen
    Towards the Sunrise seas.
 
 
-
-
 Kooroora
-
 
 
    The gums in the gully stand gloomy and stark,
@@ -992,10 +695,7 @@ Kooroora
     Oh! where are thy mourners, Kooroora?
 
 
-
-
 Fainting by the Way
-
 
 
    Swarthy wastelands, wide and woodless, glittering miles and miles away,
@@ -1014,10 +714,10 @@ Fainting by the Way
    See, behind us gleams a green plot, shall we thither turn and rest
    Till a cold wind flutters over, till the day is down the west?
    I would follow, but I cannot!  Brother, let me here remain,
-   For the heart is dead within me, and I may not rise again."
+For the heart is dead within me, and I may not rise again."
 
-   "Wherefore stay to talk of fainting?--rouse thee for awhile, my friend;
-   Evening hurries on our footsteps, and this journey soon will end.
+"Wherefore stay to talk of fainting?--rouse thee for awhile, my friend;
+Evening hurries on our footsteps, and this journey soon will end.
    Wherefore stay to talk of fainting, when the sun, with sinking fire,
    Smites the blocks of broken thunder, blackening yonder craggy spire?
    Even now the far-off landscape broods and fills with coming change,
@@ -1064,17 +764,14 @@ Fainting by the Way
    Thus he spake, my friend and brother! and he took me by the hand,
    And I think we walked the desert till the night was on the land;
    Then we came to flowery hollows, where we heard a far-off stream
-   Singing in the moony twilight, like the rivers of my dream.
-   And the balmy winds came tripping softly through the pleasant trees,
-   And I thought they bore a murmur like a voice from sleeping seas.
-   So we travelled, so we reached it, and I never more will part
-   With the peace, as calm as sunset, folded round my weary heart.
-
-
+Singing in the moony twilight, like the rivers of my dream.
+And the balmy winds came tripping softly through the pleasant trees,
+And I thought they bore a murmur like a voice from sleeping seas.
+So we travelled, so we reached it, and I never more will part
+With the peace, as calm as sunset, folded round my weary heart.
 
 
 Song of the Cattle-Hunters
-
 
 
    While the morning light beams on the fern-matted streams,
@@ -1102,10 +799,7 @@ Song of the Cattle-Hunters
     Will die with the echoes away!
 
 
-
-
 Footfalls
-
 
 
    The embers were blinking and clinking away,
@@ -1165,10 +859,7 @@ Footfalls
     And my heart is as cold as your grave!"
 
 
-
-
 God Help Our Men at Sea
-
 
 
    The wild night comes like an owl to its lair,
@@ -1220,10 +911,7 @@ God Help Our Men at Sea
        God help our men at sea!
 
 
-
-
 Sitting by the Fire
-
 
 
    Barren Age and withered World!
@@ -1321,10 +1009,7 @@ Sitting by the Fire
    Trooping to and fro!
 
 
-
-
 Bellambi's Maid
-
 
 
    Amongst the thunder-splintered caves
@@ -1367,10 +1052,7 @@ Bellambi's Maid
     Since died the dark Bellambi's Maid!
 
 
-
-
 The Curlew Song
-
 
 
    The viewless blast flies moaning past,
@@ -1434,10 +1116,7 @@ The Curlew Song
     The shrieks of the wild Curlew!
 
 
-
-
 The Ballad of Tanna
-
 
 
    She knelt by the dead, in her passionate grief,
@@ -1477,14 +1156,11 @@ The Ballad of Tanna
            Oh, the heart that was broke for Deloya!
 
 
-
-
 The Rain Comes Sobbing to the Door
 
 
-
-   The night grows dark, and weird, and cold; and thick drops patter on the pane;
-   There comes a wailing from the sea; the wind is weary of the rain.
+The night grows dark, and weird, and cold; and thick drops patter on the pane;
+There comes a wailing from the sea; the wind is weary of the rain.
    The red coals click beneath the flame, and see, with slow and silent feet
    The hooded shadows cross the woods to where the twilight waters beat!
    Now, fan-wise from the ruddy fire, a brilliance sweeps athwart the floor;
@@ -1521,14 +1197,11 @@ The Rain Comes Sobbing to the Door
        The rain comes sobbing to the door!
 
 
-
-
 Urara
 
-  --
-   * Another spelling of Orara, a tributary of the river Clarence.
-  --
-
+--
+* Another spelling of Orara, a tributary of the river Clarence.
+--
 
 
    Euroka, go over the tops of the hill,
@@ -1583,20 +1256,17 @@ Urara
     On the banks of the gloomy Urara!
 
 
-
-
 Evening Hymn
 
 
-
-   The crag-pent breezes sob and moan where hidden waters glide;
-   And twilight wanders round the earth with slow and shadowy stride.
-   The gleaming clouds, above the brows of western steeps uphurled,
-   Look like the spires of some fair town that bounds a brighter world.
-   Lo, from the depths of yonder wood, where many a blind creek strays,
-   The pure Australian moon comes forth, enwreathed with silver haze.
-   The rainy mists are trooping down the folding hills behind,
-   And distant torrent-voices rise like bells upon the wind.
+The crag-pent breezes sob and moan where hidden waters glide;
+And twilight wanders round the earth with slow and shadowy stride.
+The gleaming clouds, above the brows of western steeps uphurled,
+Look like the spires of some fair town that bounds a brighter world.
+Lo, from the depths of yonder wood, where many a blind creek strays,
+The pure Australian moon comes forth, enwreathed with silver haze.
+The rainy mists are trooping down the folding hills behind,
+And distant torrent-voices rise like bells upon the wind.
    The echeu's* songs are dying, with the flute-bird's mellow tone,
    And night recalls the gloomy owl to rove the wilds alone;
    Night, holy night, in robes of blue, with golden stars encrowned,
@@ -1613,17 +1283,14 @@ Evening Hymn
    If human song could flow as free as His created breeze,
    When, sloping from some hoary height, it sweeps the vacant seas,
    Then should my voice to heaven ascend, my tuneful lyre be strung,
-   And music sweeter than the winds should roam these glens among.
-   Go by, ye golden-footed hours, to your mysterious bourne,
-   And hide the sins ye bear from hence, so that they ne'er return.
-   Teach me, ye beauteous stars, to kiss kind Mercy's chastening rod,
-   And, looking up from Nature's face, to worship Nature's God.
-
-
+And music sweeter than the winds should roam these glens among.
+Go by, ye golden-footed hours, to your mysterious bourne,
+And hide the sins ye bear from hence, so that they ne'er return.
+Teach me, ye beauteous stars, to kiss kind Mercy's chastening rod,
+And, looking up from Nature's face, to worship Nature's God.
 
 
 Stanzas
-
 
 
    The sunsets fall and the sunsets fade,
@@ -1642,10 +1309,7 @@ Stanzas
     Is hidden beneath its caves.
 
 
-
-
 The Wail in the Native Oak
-
 
 
    Where the lone creek, chafing nightly in the cold and sad moonshine,
@@ -1676,9 +1340,9 @@ The Wail in the Native Oak
    Where the sunsets all have gone to; where the souls that leave us dwell?
 
    "This might be a loving exile, full with faded thoughts returned,
-   Seeking for familiar faces, friends for whom he long had yearned.
-   Here his fathers must have sojourned--here his people may have died,
-   Or, perchance, to distant forests all were scattered far and wide.
+Seeking for familiar faces, friends for whom he long had yearned.
+Here his fathers must have sojourned--here his people may have died,
+Or, perchance, to distant forests all were scattered far and wide.
    So he moans and so he lingers! weeping o'er the wasted wild;
    Weeping o'er the desolation, like a lost, benighted child!
    So he moans, and so he lingers!  Hence these fitful, fretful sighs,
@@ -1689,9 +1353,9 @@ The Wail in the Native Oak
    Not a ragged blade of verdure--not one root of moss is there;
    Who hath torn the grasses from it--wherefore is that barrow bare?
    Darkness shuts the forest round me.  Here I stand and, O my God!
-   This may be some injured spirit raving round and round the sod.
-   Hush! the tempest, how it travels!  Blood hath here been surely shed--
-   Hush! the thunder, how it mutters!  Oh, the unrequited Dead!"
+This may be some injured spirit raving round and round the sod.
+Hush! the tempest, how it travels!  Blood hath here been surely shed--
+Hush! the thunder, how it mutters!  Oh, the unrequited Dead!"
 
    Came a footfall past the water--came a wild man through the gloom,
    Down he stooped and faced the current, silent as the silent tomb;
@@ -1700,10 +1364,10 @@ The Wail in the Native Oak
    Very thoughtful seems that forehead; many legends he may know;
    Many tales and old traditions linked to what is here below!
    I must ask him--rest I cannot--though my life upon it hung--
-   Though these wails are waxing louder, I must give my thoughts a tongue.
+Though these wails are waxing louder, I must give my thoughts a tongue.
 
-   "Shake that silence from you, wild man!  I have looked into your face,
-   Hoping I should learn the story there about this fearful place.
+"Shake that silence from you, wild man!  I have looked into your face,
+Hoping I should learn the story there about this fearful place.
    Slake your thirst, but stay and tell me:  did your heart with terror beat,
    When you stepped across the bare and blasted hillock at your feet?
    Hearken to these croons so wretched deep within the dusk boughs pent!
@@ -1716,15 +1380,12 @@ The Wail in the Native Oak
    Now a sheet of lurid splendour swept athwart the mountain spire,
    And a midnight squall came trumping down on zigzag paths of fire!
    Through the tumult dashed a torrent flanking out in foaming streams,
-   Whilst the woodlands groaned and muttered like a monster vexed with dreams.
-   Then I swooned away in horror.  Oh! that shriek which rent the air,
-   Like the voice of some fell demon harrowed by a mad despair.
-
-
+Whilst the woodlands groaned and muttered like a monster vexed with dreams.
+Then I swooned away in horror.  Oh! that shriek which rent the air,
+Like the voice of some fell demon harrowed by a mad despair.
 
 
 Harps We Love
-
 
 
    The harp we love hath a royal burst!
@@ -1743,10 +1404,7 @@ Harps We Love
     When all the baser passions sleep.
 
 
-
-
 Waiting and Wishing
-
 
 
    I loiter by this surging sea,
@@ -1780,10 +1438,7 @@ Waiting and Wishing
        Peace, O beating, weary heart!
 
 
-
-
 The Wild Kangaroo
-
 
 
    The rain-clouds have gone to the deep--
@@ -1855,10 +1510,7 @@ The Wild Kangaroo
   --
 
 
-
-
 Clari
-
 
 
    Too cold, O my brother, too cold for my wife
@@ -1882,10 +1534,7 @@ Clari
        With a mesh of her splendid hair.
 
 
-
-
 Wollongong
-
 
 
    Let me talk of years evanished, let me harp upon the time
@@ -1897,10 +1546,10 @@ Wollongong
    When our youthful eyes, rejoicing, saw the sunlight round the spray
    In a rainbow-wreath of splendour, glittering underneath the day;
    Sunlight flashing past the billows, falling cliffs and crags among,
-   Clothing hopeful friendship basking on the shores of Wollongong.
+Clothing hopeful friendship basking on the shores of Wollongong.
 
-   Echoes of departed voices, whispers from forgotten dreams,
-   Come across my spirit, like the murmurs of melodious streams.
+Echoes of departed voices, whispers from forgotten dreams,
+Come across my spirit, like the murmurs of melodious streams.
    Here we both have wandered nightly, when the moonshine cold and pale
    Shimmer'd on the cone of Keira, sloping down the sleeping vale;
    When the mournful waves came sobbing, sobbing on the furrowed shore,
@@ -1908,10 +1557,10 @@ Wollongong
    While the silver ripples, stealing past the shells and slimy stones,
    Broke beneath the caverns, dying, one by one, in muffled moans;
    As the fragrant wood-winds roaming, with a fitful cadence sung
-   'Mid the ghostly branches belting round the shores of Wollongong.
+'Mid the ghostly branches belting round the shores of Wollongong.
 
-   Lovely faces flit before us, friendly forms around us stand;
-   Gleams of well-remembered gladness trip along the yellow sand.
+Lovely faces flit before us, friendly forms around us stand;
+Gleams of well-remembered gladness trip along the yellow sand.
    Here the gold-green waters glistened underneath our dreaming gaze,
    As the lights of Heaven slanted down the pallid ether haze;
    Here the mossy rock-pool, like to one that stirs himself in sleep,
@@ -1919,10 +1568,10 @@ Wollongong
    While the stately vessels swooping to the breezes fair and free,
    Passed away like sheeted spectres, fading down the distant sea;
    And our wakened fancies sparkled, and our soul-born thoughts we strung
-   Into joyous lyrics, singing with the waves of Wollongong.
+Into joyous lyrics, singing with the waves of Wollongong.
 
-   Low-breathed strains of sweetest music float about my raptured ears;
-   Angel-eyes are glancing at me hopeful smiles and happy tears.
+Low-breathed strains of sweetest music float about my raptured ears;
+Angel-eyes are glancing at me hopeful smiles and happy tears.
    Merry feet go scaling up the old and thunder-shattered steeps,
    And the billows clamber after, and the surge to ocean leaps,
    Scattered into fruitless showers, falling where the breakers roll,
@@ -1935,19 +1584,16 @@ Wollongong
    Fleeting dreams and idle fancies!  Lo, the gloomy after Age
    Creepeth, like an angry shadow, over life's eventful stage!
    Joy is but a mocking phantom, throwing out its glitter brief--
-   Short-lived as the western sunbeam dying from the cedar leaf.
-   Here we linger, lonely-hearted, musing over visions fled,
-   While the sickly twilight withers from the arches overhead.
+Short-lived as the western sunbeam dying from the cedar leaf.
+Here we linger, lonely-hearted, musing over visions fled,
+While the sickly twilight withers from the arches overhead.
    Semblance of a bliss delusive are those dull, receding rays;
    Semblance of the faint reflection left to us of other days;
    Days of vernal hope and gladness, hours when the blossoms sprung
-   Round the feet of blithesome ramblers by the shores of Wollongong.
-
-
+Round the feet of blithesome ramblers by the shores of Wollongong.
 
 
 Ella with the Shining Hair
-
 
 
    Through many a fragrant cedar grove
@@ -2026,12 +1672,9 @@ Ella with the Shining Hair
     Our Ella, sits and waits."
 
 
-
-
 The Barcoo
 
-   (The Squatters' Song)
-
+(The Squatters' Song)
 
 
    From the runs of the Narran, wide-dotted with sheep,
@@ -2063,14 +1706,11 @@ The Barcoo
     Hip, hip, and hurrah for the pleasant Barcoo!
 
 
-
-
 Bells Beyond the Forest
 
 
-
-   Wild-eyed woodlands, here I rest me, underneath the gaunt and ghastly trees;
-   Underneath fantastic-fronted caverns crammed with many a muffled breeze.
+Wild-eyed woodlands, here I rest me, underneath the gaunt and ghastly trees;
+Underneath fantastic-fronted caverns crammed with many a muffled breeze.
    Far away from dusky towns and cities twinkling with the feet of men;
    Listening to a sound of mellow music fleeting down the gusty glen;
    Sitting by a rapid torrent, with the broken sunset in my face;
@@ -2112,13 +1752,10 @@ Bells Beyond the Forest
    Should I loiter here to listen, while this fitful wind is on the wing?
    No, the heart of Time is sobbing, and my spirit is a withered thing!
    Let the rapid torrents tumble, let the woodlands whistle in the blast;
-   Mighty minstrels sing behind me, but the promise of my youth is past.
-
-
+Mighty minstrels sing behind me, but the promise of my youth is past.
 
 
 Ulmarra
-
 
 
       Alone--alone!
@@ -2166,10 +1803,7 @@ Ulmarra
    Oh! her heart it is wasted with crying!
 
 
-
-
 The Maid of Gerringong
-
 
 
    Rolling through the gloomy gorges, comes the roaring southern blast,
@@ -2212,11 +1846,11 @@ The Maid of Gerringong
    And I used to wander nightly, by the surges and the ships,
    Harping on those last fond accents that had trembled from her lips:
    Till a vessel crossed the waters, and I heard a stranger say,
-   "One you loved has died in silence with her dear face turned away."
-   Oh! the eyes that flash upon me, and the voice that comes along--
-   Oh! my light, my life, my darling dark-haired Maid of Gerringong.
+"One you loved has died in silence with her dear face turned away."
+Oh! the eyes that flash upon me, and the voice that comes along--
+Oh! my light, my life, my darling dark-haired Maid of Gerringong.
 
-       .   .   .   .   .
+.   .   .   .   .
 
    Some one saith, "Oh, you that mock at Passion with a worldly whine,
    Would you change the face of Nature--would you limit God's design?
@@ -2225,9 +1859,9 @@ The Maid of Gerringong
    And another asketh, doubting that my brother speaks the truth,
    "Can we love in age as fondly as we did in days of youth?
    Will dead faces always haunt us, in the time of faltering breath?
-   Shall we yearn, and we so feeble?"  Ay, for Love is Love in Death.
-   Oh! the Faith with sure foundation!--let the Ages roll along,
-   You are mine, and mine for ever, dark-haired Maid of Gerringong.
+Shall we yearn, and we so feeble?"  Ay, for Love is Love in Death.
+Oh! the Faith with sure foundation!--let the Ages roll along,
+You are mine, and mine for ever, dark-haired Maid of Gerringong.
 
    Last night, dear, I dreamt about you, and I thought that far from men
    We were walking, both together, in a fragrant seaside glen;
@@ -2267,17 +1901,14 @@ The Maid of Gerringong
    Crying, "do not leave me lonely!  Life has been so cold and drear,
    You are all that God has left me, and I want you to be near!
    Do not leave me in the darkness!  I have walked a weary way,
-   Listening for your truant footsteps--turn and stay, my darling, stay!"
-   But she came not though I waited, watching through a splendid haze,
-   Where the lovely Phantom halted ere she vanished from my gaze.
+Listening for your truant footsteps--turn and stay, my darling, stay!"
+But she came not though I waited, watching through a splendid haze,
+Where the lovely Phantom halted ere she vanished from my gaze.
    Then I thought that rain was falling, for there rose a stormy song,
    And I woke in gloom and tempest, dark-haired Maid of Gerringong!
 
 
-
-
 Watching
-
 
 
    Like a beautiful face looking ever at me
@@ -2326,10 +1957,7 @@ Watching
    And the chambers of Love shall be left no more.
 
 
-
-
 The Opossum-Hunters
-
 
 
    Hear ye not the waters beating where the rapid rivers, meeting
@@ -2376,10 +2004,7 @@ The Opossum-Hunters
     There are those who turn with pity when they turn to think of thee!
 
 
-
-
 In the Depths of a Forest
-
 
 
    In the depths of a Forest secluded and wild,
@@ -2395,13 +2020,10 @@ In the Depths of a Forest
    Oh! well may the winds with a saddening moan
     Go fitfully over the branches so dreary;
    And well may I kneel by the time-shattered stone,
-    And rejoice that a rest has been found for the weary.
-
-
+And rejoice that a rest has been found for the weary.
 
 
 To Charles Harpur
-
 
 
    I would sit at your feet for long days,
@@ -2435,10 +2057,7 @@ To Charles Harpur
     And a Monarch of Song in the land!
 
 
-
-
 The River and the Hill
-
 
 
    And they shook their sweetness out in their sleep,
@@ -2478,12 +2097,9 @@ The River and the Hill
        Of that hard and senseless hill!"
 
 
-
-
 The Fate of the Explorers
 
-   (A Fragment)
-
+(A Fragment)
 
 
    Set your face toward the darkness--tell of deserts weird and wide,
@@ -2502,9 +2118,9 @@ The Fate of the Explorers
    And they dreamt of welcome faces--dreamt that soon unto their ears
    Friendly greetings would be thronging, with a nation's well-earned cheers;
    Since their courage never failed them, but with high, unflinching soul
-   Each was pressing forward, hoping, trusting all should reach the goal.
+Each was pressing forward, hoping, trusting all should reach the goal.
 
-       .   .   .   .   .
+.   .   .   .   .
 
    Though he rallied in the morning, long before the close of day
    He had sunk, the worn-out hero, fainting, dying by the way!
@@ -2515,24 +2131,24 @@ The Fate of the Explorers
    Then he penned his latest writings, and, before his life was spent,
    Gave the records to his comrade--gave the watch he said was lent--
    Gave them with his last commandments, charging him that night to stay
-   And to let him lie unburied when the soul had passed away.
+And to let him lie unburied when the soul had passed away.
 
-   Through that night he uttered little, rambling were the words he spoke:
-   And he turned and died in silence, when the tardy morning broke.
-   Many memories come together whilst in sight of death we dwell,
-   Much of sweet and sad reflection through the weary mind must well.
+Through that night he uttered little, rambling were the words he spoke:
+And he turned and died in silence, when the tardy morning broke.
+Many memories come together whilst in sight of death we dwell,
+Much of sweet and sad reflection through the weary mind must well.
    As those long hours glided past him, till the east with light was fraught,
    Who may know the mournful secret--who can tell us what he thought?
 
    Very lone and very wretched was the brave man left behind,
    Wandering over leagues of waste-land, seeking, hoping help to find;
    Sleeping in deserted wurleys, fearful many nightfalls through
-   Lest unfriendly hands should rob him of his hoard of wild nardoo.
+Lest unfriendly hands should rob him of his hoard of wild nardoo.
 
-       .   .   .   .   .
+.   .   .   .   .
 
-   Ere he reached their old encampment--ere the well-known spot was gained,
-   Something nerved him--something whispered that his other chief remained.
+Ere he reached their old encampment--ere the well-known spot was gained,
+Something nerved him--something whispered that his other chief remained.
    So he searched for food to give him, trusting they might both survive
    Till the aid so long expected from the cities should arrive;
    So he searched for food and took it to the gunyah where he found
@@ -2545,9 +2161,9 @@ The Fate of the Explorers
    But he, like a brother, laid him out of reach of wind and rain,
    And for many days he sojourned near him on that wild-faced plain;
    Whilst he stayed beside the ruin, whilst he lingered with the dead,
-   Oh! he must have sat in shadow, gloomy as the tears he shed.
+Oh! he must have sat in shadow, gloomy as the tears he shed.
 
-       .   .   .   .   .
+.   .   .   .   .
 
    Where our noble Burke was lying--where his sad companion stood,
    Came the natives of the forest--came the wild men of the wood;
@@ -2556,35 +2172,32 @@ The Fate of the Explorers
    Bitterly they mourned to see him all uncovered to the blast--
    All uncovered to the tempest as it wailed and whistled past;
    And they shrouded him with bushes, so in death that he might lie,
-   Like a warrior of their nation, sheltered from the stormy sky.
+Like a warrior of their nation, sheltered from the stormy sky.
 
-       .   .   .   .   .
+.   .   .   .   .
 
    Ye must rise and sing their praises, O ye bards with souls of fire,
    For the people's voice shall echo through the wailings of your lyre;
    And we'll welcome back their comrade, though our eyes with tears be blind
    At the thoughts of promise perished, and the shadow left behind;
    Now the leaves are bleaching round them--now the gales above them glide,
-   But the end was all accomplished, and their fame is far and wide.
-   Though this fadeless glory cannot hide a grateful nation's grief,
-   And their laurels have been blended with the gloomy cypress leaf.
+But the end was all accomplished, and their fame is far and wide.
+Though this fadeless glory cannot hide a grateful nation's grief,
+And their laurels have been blended with the gloomy cypress leaf.
 
-   Let them rest where they have laboured! but, my country, mourn and moan;
-   We must build with human sorrow grander monuments than stone.
+Let them rest where they have laboured! but, my country, mourn and moan;
+We must build with human sorrow grander monuments than stone.
    Let them rest, for oh! remember, that in long hereafter time
    Sons of Science oft shall wander o'er that solitary clime!
    Cities bright shall rise about it, Age and Beauty there shall stray,
    And the fathers of the people, pointing to the graves, shall say:
    "Here they fell, the glorious martyrs! when these plains were woodlands deep;
-   Here a friend, a brother, laid them; here the wild men came to weep."
-
-
+Here a friend, a brother, laid them; here the wild men came to weep."
 
 
 Lurline
 
-   (Inscribed to Madame Lucy Escott.)
-
+(Inscribed to Madame Lucy Escott.)
 
 
    As you glided and glided before us that time,
@@ -2615,14 +2228,11 @@ Lurline
     When we heard your wild warbling around us.
 
 
-
-
 Under the Figtree
 
 
-
-   Like drifts of balm from cedared glens, those darling memories come,
-   With soft low songs, and dear old tales, familiar to our home.
+Like drifts of balm from cedared glens, those darling memories come,
+With soft low songs, and dear old tales, familiar to our home.
    Then breathe again that faint refrain, so tender, sad, and true,
    My soul turns round with listening eyes unto the harp and you!
    The fragments of a broken Past are floating down the tide,
@@ -2645,13 +2255,10 @@ Under the Figtree
    Oh! when a rhyme of olden time is sung by one so dear,
    I feel again the sweetest pain I've known for many a year;
    And from a deep, dull sea of sleep faint fancies come to me,
-   And I forget how lone we sit beneath this old Figtree.
-
-
+And I forget how lone we sit beneath this old Figtree.
 
 
 Drowned at Sea
-
 
 
    Gloomy cliffs, so worn and wasted with the washing of the waves,
@@ -2692,12 +2299,9 @@ Drowned at Sea
            Drowned at Sea!
 
 
-
-
 Morning in the Bush
 
-   (A Juvenile Fragment.)
-
+(A Juvenile Fragment.)
 
 
    Above the skirts of yellow clouds,
@@ -2803,28 +2407,25 @@ Morning in the Bush
    And clothe with smiles a weeping World.
 
 
-
-
 The Girl I Left Behind Me
 
-   (New Words to an Old Air.)
+(New Words to an Old Air.)
 
 
-
-   With sweet Regret--(the dearest thing that Yesterday has left us)--
-   We often turn our homeless eyes to scenes whence Fate has reft us.
-   Here sitting by a fading flame, wild waifs of song remind me
-   Of Annie with her gentle ways, the Girl I left behind me.
+With sweet Regret--(the dearest thing that Yesterday has left us)--
+We often turn our homeless eyes to scenes whence Fate has reft us.
+Here sitting by a fading flame, wild waifs of song remind me
+Of Annie with her gentle ways, the Girl I left behind me.
 
    I stood beside the surging sea, with lips of silent passion--
    I faced you by the surging sea, O brows of mild repression!
    I never said--"my darling, stay!"--the moments seemed to bind me
-   To something stifling all my words for the Girl I left behind me.
+To something stifling all my words for the Girl I left behind me.
 
-   The pathos worn by common things--by every wayside flower,
-   Or Autumn leaf on lonely winds, revives the parting hour.
-   Ye swooning thoughts without a voice--ye tears which rose to blind me,
-   Why did she fade into the Dark, the Girl I left behind me.
+The pathos worn by common things--by every wayside flower,
+Or Autumn leaf on lonely winds, revives the parting hour.
+Ye swooning thoughts without a voice--ye tears which rose to blind me,
+Why did she fade into the Dark, the Girl I left behind me.
 
    At night they always come to me, the tender and true-hearted;
    And in my dreams we join again the hands which now are parted;
@@ -2834,13 +2435,10 @@ The Girl I Left Behind Me
    You know my life is incomplete, O far-off faint Ideal!
    When shall I reach you from a depth of darkness which is real?
    So I may mingle, soul in soul, with her that Heaven assigned me;
-   So she may lean upon my love, the Girl I left behind me.
-
-
+So she may lean upon my love, the Girl I left behind me.
 
 
 Amongst the Roses
-
 
 
    I walked through a Forest, beneath the hot noon,
@@ -2868,10 +2466,7 @@ Amongst the Roses
        In a dance and a dazzle of Roses.
 
 
-
-
 Sunset
-
 
 
    It is better, O day, that you go to your rest,
@@ -2912,13 +2507,10 @@ Sunset
    It is better, O day, that you go to your rest,
     For you go like a guest who was loth to remain!
    Swing open, ye gates of the east and the west,
-    And let out the wild shadows--the night and the rain.
-
-
+And let out the wild shadows--the night and the rain.
 
 
 Doubting
-
 
 
    A Brother wandered forth with me,
@@ -2997,18 +2589,15 @@ Doubting
     I whispered--"Yea."
 
 
-
-
 Geraldine
-
 
 
    My head is filled with olden rhymes beside this moaning sea,
    But many and many a day has gone since I was dear to thee!
    I know my passion fades away, and therefore oft regret
-   That some who love indeed can part and in the years forget.
-   Ah! through the twilights when we stood the wattle trees between,
-   We did not dream of such a time as this, fair Geraldine.
+That some who love indeed can part and in the years forget.
+Ah! through the twilights when we stood the wattle trees between,
+We did not dream of such a time as this, fair Geraldine.
 
    I do not say that all has gone of passion and of pain;
    I yearn for many happy thoughts I shall not think again!
@@ -3022,15 +2611,12 @@ Geraldine
    Well, that has passed, and here I stand, upon a lonely place,
    While Night is stealing round the land, like Time across my face;
    But I can calmly recollect our shadowy parting scene,
-   And swooning thoughts that had no voice--no utterance, Geraldine.
-
-
+And swooning thoughts that had no voice--no utterance, Geraldine.
 
 
 Achan
 
-   (From "Jephthah".)
-
+(From "Jephthah".)
 
 
    Hath he not followed a star through the darkness,
@@ -3077,17 +2663,10 @@ Achan
 [End of Poems and Songs.]
 
 
-
-
-
 LEAVES FROM AUSTRALIAN FORESTS
 
 
-
-
-
 Dedication
-
 
 
    To her who, cast with me in trying days,
@@ -3110,13 +2689,10 @@ Dedication
    Sincere, like love, it came of love alone.
 
 
-
-
 Prefatory Sonnets
 
 
-
-     I
+I
 
    I purposed once to take my pen and write,
     Not songs, like some, tormented and awry
@@ -3134,7 +2710,7 @@ Prefatory Sonnets
     May catch the sense like subtle forest spells.
 
 
-     II
+II
 
    So take these kindly, even though there be
     Some notes that unto other lyres belong,
@@ -3152,10 +2728,7 @@ Prefatory Sonnets
     Bears thence, unwitting, plunder of perfumes.
 
 
-
-
 The Hut by the Black Swamp
-
 
 
    Now comes the fierce north-easter, bound
@@ -3243,10 +2816,7 @@ The Hut by the Black Swamp
        Or gentle wings.
 
 
-
-
 September in Australia
-
 
 
    Grey Winter hath gone, like a wearisome guest,
@@ -3322,10 +2892,7 @@ September in Australia
     With thy voices for ever!
 
 
-
-
 Ghost Glen
-
 
 
    "Shut your ears, stranger, or turn from Ghost Glen now,
@@ -3389,10 +2956,7 @@ Ghost Glen
    He sees the dank sawpits and bloody logs only.
 
 
-
-
 Daphne
-
 
 
    Daphne!  Ladon's daughter, Daphne!  Set thyself in silver light,
@@ -3411,9 +2975,9 @@ Daphne
    Came the yellow-tressed Far-darter--came the god whose feet are fire,
    On his lips the name of Daphne, in his eyes a great desire;
    Fond, full lips of lord and lover, sad because of suit denied;
-   Clear, grey eyes made keen by passion, panting, pained, unsatisfied.
-   Here he turned, and there he halted, now he paused, and now he flew,
-   Swifter than his sister's arrows, through soft dells of dreamy dew.
+Clear, grey eyes made keen by passion, panting, pained, unsatisfied.
+Here he turned, and there he halted, now he paused, and now he flew,
+Swifter than his sister's arrows, through soft dells of dreamy dew.
    Vext with gleams of Ladon's daughter, dashed along the son of Jove,
    Fast upon flower-trammelled Daphne fleeting on from grove to grove;
    Flights of seawind hard behind him, breaths of bleak and whistling straits;
@@ -3432,9 +2996,7 @@ Daphne
    Therefore sing how clear-browed Pallas--Pallas, friend of prayerful maid,
    Lifted dazzling Daphne lightly, bore her down the breathless glade,
    Did the thing that Zeus commanded:  so it came to pass that he
-   Who had chased a white-armed virgin, caught at her, and clasped a tree.
-
-
+Who had chased a white-armed virgin, caught at her, and clasped a tree.
 
 
 The Warrigal
@@ -3442,7 +3004,6 @@ The Warrigal
   --
    * The Dingo, or Wild Dog of Australia.
   --
-
 
 
    The warrigal's lair is pent in bare,
@@ -3500,10 +3061,7 @@ The Warrigal
     Where his mates are torrent and tree.
 
 
-
-
 Euroclydon
-
 
 
       On the storm-cloven Cape
@@ -3607,14 +3165,11 @@ Euroclydon
             That governs all!
 
 
-
-
 Araluen
 
-  --
-   * A stream in the Braidwood district, New South Wales.
-  --
-
+--
+* A stream in the Braidwood district, New South Wales.
+--
 
 
    River, myrtle rimmed, and set
@@ -3698,15 +3253,12 @@ Araluen
     Stays, and paints your face for me.
 
 
-
-
 At Euroma
 
   --
    * Charles Harpur was buried at Euroma, N.S.W., but this poem refers
      to the grave of a stranger whose name is unknown.
   --
-
 
 
    They built his mound of the rough, red ground,
@@ -3746,10 +3298,7 @@ At Euroma
     And unvexed by the lordship of dreams.
 
 
-
-
 Illa Creek
-
 
 
    A strong sea-wind flies up and sings
@@ -3803,10 +3352,7 @@ Illa Creek
     And hidden mountain altars.
 
 
-
-
 Moss on a Wall
-
 
 
    Dim dreams it hath of singing ways,
@@ -3870,10 +3416,7 @@ Moss on a Wall
     And rains are sobbing on the sea.
 
 
-
-
 Campaspe
-
 
 
    Turn from the ways of this Woman!  Campaspe we call her by name--
@@ -3910,10 +3453,7 @@ Campaspe
    To think of this sweet-hearted maiden--what name is too tender for her?
 
 
-
-
 On a Cattle Track
-
 
 
    Where the strength of dry thunder splits hill-rocks asunder,
@@ -3971,10 +3511,7 @@ On a Cattle Track
     For others who struggle, yet fail.
 
 
-
-
 To Damascus
-
 
 
    Where the sinister sun of the Syrians beat
@@ -4039,10 +3576,7 @@ To Damascus
     Is the road to Damascus.
 
 
-
-
 Bell-Birds
-
 
 
    By channels of coolness the echoes are calling,
@@ -4093,10 +3627,7 @@ Bell-Birds
    With glimpses of creeks and a vision of mosses.
 
 
-
-
 A Death in the Bush
-
 
 
    The hut was built of bark and shrunken slabs,
@@ -4350,10 +3881,7 @@ A Death in the Bush
    On hills that "slope through darkness up to God."
 
 
-
-
 A Spanish Love Song
-
 
 
    From Andalusian gardens
@@ -4402,10 +3930,7 @@ A Spanish Love Song
     The lips I taste in sleep.
 
 
-
-
 The Last of His Tribe
-
 
 
    He crouches, and buries his face on his knees,
@@ -4451,14 +3976,11 @@ The Last of His Tribe
     Like a marvellous dream in his face?
 
 
-
-
 Arakoon
 
   --
    * A promontory on the coast of New South Wales.
   --
-
 
 
    Lo! in storms, the triple-headed
@@ -4518,10 +4040,7 @@ Arakoon
    Works against the tide in vain.
 
 
-
-
 The Voyage of Telegonus
-
 
 
    Ill fares it with the man whose lips are set
@@ -4734,10 +4253,7 @@ The Voyage of Telegonus
    With fastened mouth.  For who may brave the gods?
 
 
-
-
 Sitting by the Fire
-
 
 
    Ah! the solace in the sitting,
@@ -4786,10 +4302,7 @@ Sitting by the Fire
     Sitting by the fire.
 
 
-
-
 Cleone
-
 
 
    Sing her a song of the sun:
@@ -4829,10 +4342,7 @@ Cleone
     Words that are brighter than dew.
 
 
-
-
 Charles Harpur
-
 
 
    Where Harpur lies, the rainy streams,
@@ -4906,10 +4416,7 @@ Charles Harpur
     With hands that falter as they offer.
 
 
-
-
 Coogee
-
 
 
    Sing the song of wave-worn Coogee, Coogee in the distance white,
@@ -4928,21 +4435,21 @@ Coogee
    Do I seek an eastern window, so to watch the breakers beat
    Round the steadfast crags of Coogee, dim with drifts of driving sleet:
    Hearing hollow mournful noises sweeping down a solemn shore,
-   While the grim sea-caves are tideless, and the storm strives at their core.
+While the grim sea-caves are tideless, and the storm strives at their core.
 
-   Often when the floating vapours fill the silent autumn leas,
-   Dreaming mem'ries fall like moonlight over silver sleeping seas.
+Often when the floating vapours fill the silent autumn leas,
+Dreaming mem'ries fall like moonlight over silver sleeping seas.
    Youth and I and Love together!  Other times and other themes
    Come to me unsung, unwept for, through the faded evening gleams:
    Come to me and touch me mutely--I that looked and longed so well,
    Shall I look and yet forget them?--who may know or who foretell?
    Though the southern wind roams, shadowed with its immemorial grief,
-   Where the frosty wings of Winter leave their whiteness on the leaf.
+Where the frosty wings of Winter leave their whiteness on the leaf.
 
-   Friend of mine beyond the waters, here and here these perished days
-   Haunt me with their sweet dead faces and their old divided ways.
-   You that helped and you that loved me, take this song, and when you read,
-   Let the lost things come about you, set your thoughts and hear and heed.
+Friend of mine beyond the waters, here and here these perished days
+Haunt me with their sweet dead faces and their old divided ways.
+You that helped and you that loved me, take this song, and when you read,
+Let the lost things come about you, set your thoughts and hear and heed.
    Time has laid his burden on us--we who wear our manhood now,
    We would be the boys we have been, free of heart and bright of brow--
    Be the boys for just an hour, with the splendour and the speech
@@ -4955,22 +4462,19 @@ Coogee
    So it is this sight of Coogee, shining in the morning dew,
    Sets me stumbling through dim summers once on fire with youth and you--
    Summers pale as southern evenings when the year has lost its power
-   And the wasted face of April weeps above the withered flower.
+And the wasted face of April weeps above the withered flower.
 
-   Not that seasons bring no solace, not that time lacks light and rest;
-   But the old things were the dearest and the old loves seem the best.
+Not that seasons bring no solace, not that time lacks light and rest;
+But the old things were the dearest and the old loves seem the best.
    We that start at songs familiar, we that tremble at a tone
    Floating down the ways of music, like a sigh of sweetness flown,
    We can never feel the freshness, never find again the mood
-   Left among fair-featured places, brightened of our brotherhood.
-   This and this we have to think of when the night is over all,
-   And the woods begin to perish and the rains begin to fall.
-
-
+Left among fair-featured places, brightened of our brotherhood.
+This and this we have to think of when the night is over all,
+And the woods begin to perish and the rains begin to fall.
 
 
 Ogyges
-
 
 
    Stand out, swift-footed leaders of the horns,
@@ -5101,10 +4605,7 @@ Ogyges
    An ancient shadow whiter than the foam!"
 
 
-
-
 By the Sea
-
 
 
    The caves of the sea have been troubled to-day
@@ -5128,10 +4629,7 @@ By the Sea
      Ah, never and never come home!
 
 
-
-
 King Saul at Gilboa
-
 
 
    With noise of battle and the dust of fray,
@@ -5294,10 +4792,7 @@ King Saul at Gilboa
    And hid their faces seven nights and days.
 
 
-
-
 In the Valley
-
 
 
    Said the yellow-haired Spirit of Spring
@@ -5346,15 +4841,12 @@ In the Valley
     Of the nightfall, and falter, and die."
 
 
-
-
 Twelve Sonnets--
 
 
+I
 
-     I
-
-   A Mountain Spring
+A Mountain Spring
 
 
    Peace hath an altar there.  The sounding feet
@@ -5373,10 +4865,9 @@ Twelve Sonnets--
     Whose likeness is the faithless face of Rose.
 
 
+II
 
-     II
-
-   Laura
+Laura
 
 
    If Laura--lady of the flower-soft face--
@@ -5395,10 +4886,9 @@ Twelve Sonnets--
    Some faint, some fair, some dim, delicious death."
 
 
+III
 
-     III
-
-   By a River
+By a River
 
 
    By red-ripe mouth and brown, luxurious eyes
@@ -5417,10 +4907,9 @@ Twelve Sonnets--
     The music of her lute-like voice I trace.
 
 
+IV
 
-     IV
-
-   Attila
+Attila
 
 
    What though his feet were shod with sharp, fierce flame,
@@ -5439,10 +4928,9 @@ Twelve Sonnets--
    Had turned her face into the dark to weep.
 
 
+V
 
-     V
-
-   A Reward
+A Reward
 
 
    Because a steadfast flame of clear intent
@@ -5461,10 +4949,9 @@ Twelve Sonnets--
    And knots of thorns deface his lordly head._
 
 
+VI
 
-     VI
-
-   To----
+To----
 
 
    A handmaid to the genius of thy song
@@ -5483,10 +4970,9 @@ Twelve Sonnets--
     Of love repelled, its darkness to disperse.
 
 
+VII
 
-     VII
-
-   The Stanza of Childe Harold
+The Stanza of Childe Harold
 
 
    Who framed the stanza of Childe Harold?  He
@@ -5505,10 +4991,9 @@ Twelve Sonnets--
     About it, like a sunset in the skies?
 
 
+VIII
 
-     VIII
-
-   A Living Poet
+A Living Poet
 
 
    He knows the sweet vexation in the strife
@@ -5527,10 +5012,9 @@ Twelve Sonnets--
     Wild Winter bends across a beard of snow.
 
 
+IX
 
-     IX
-
-   Dante and Virgil
+Dante and Virgil
 
 
    When lost Francesca sobbed her broken tale
@@ -5549,10 +5033,9 @@ Twelve Sonnets--
    A stately type of all his stately kind.
 
 
+X
 
-     X
-
-   Rest
+Rest
 
 
    Sometimes we feel so spent for want of rest,
@@ -5571,10 +5054,9 @@ Twelve Sonnets--
    So quiet in the fellowship of dreams."
 
 
+XI
 
-     XI
-
-   After Parting
+After Parting
 
 
    I cannot tell what change hath come to you
@@ -5593,10 +5075,9 @@ Twelve Sonnets--
     While March sits weeping over withered flowers.
 
 
+XII
 
-     XII
-
-   Alfred Tennyson
+Alfred Tennyson
 
 
    The silvery dimness of a happy dream
@@ -5615,16 +5096,13 @@ Twelve Sonnets--
     The sumptuous comfort left in drowsy eyes.
 
 
-
-
 Sutherland's Grave
 
-  --
-   * Sutherland:  Forby Sutherland, one of Captain Cook's seamen,
-     who died shortly after the _Endeavour_ anchored in Botany Bay, 1770.
+--
+* Sutherland:  Forby Sutherland, one of Captain Cook's seamen,
+who died shortly after the _Endeavour_ anchored in Botany Bay, 1770.
      He was the first Englishman buried in Australia.
   --
-
 
 
    All night long the sea out yonder--all night long the wailful sea,
@@ -5655,13 +5133,10 @@ Sutherland's Grave
    Dropping on those lone grave-grasses--come serene, unbroken, clear,
    Like the love of God the Father, falling, falling, year by year!
    Yea, and like a Voice supernal, _there_ the daily wind doth blow
-   In the leaves above the sailor buried ninety years ago.
-
-
+In the leaves above the sailor buried ninety years ago.
 
 
 Syrinx
-
 
 
    A heap of low, dark, rocky coast,
@@ -5715,15 +5190,12 @@ Syrinx
     Her life was hidden wholly.
 
 
-
-
 On the Paroo
 
   --
    * The name of a watercourse, often dry, which in flood-time
      reaches the river Darling.
   --
-
 
 
    As when the strong stream of a wintering sea
@@ -5827,10 +5299,7 @@ On the Paroo
    Of fiery clouds and immemorial rains.
 
 
-
-
 Faith in God
-
 
 
    Have faith in God.  For whosoever lists
@@ -5879,10 +5348,7 @@ Faith in God
     The finest issue of a love divine.
 
 
-
-
 Mountain Moss
-
 
 
    It lies amongst the sleeping stones,
@@ -5936,10 +5402,7 @@ Mountain Moss
     When each, you know, was loved of each.
 
 
-
-
 The Glen of Arrawatta
-
 
 
    A sky of wind!  And while these fitful gusts
@@ -6167,10 +5630,7 @@ The Glen of Arrawatta
    Alone with God and Silence in the hills.
 
 
-
-
 Euterpe
-
 
 
    Child of Light, the bright, the bird-like! wilt thou float and float to me,
@@ -6191,9 +5651,9 @@ Euterpe
    Then and then, my love, Euterpe, lips of life replete with dreams
    Murmur for thy sweet, sharp fragments dying down Lethean streams:
    Murmur for thy mouth's marred music, splendid hints that burn and break,
-   Heavy with excess of beauty:  murmur for thy music's sake.
-   All night long, in fluent pauses, falling far, but full, but fine,
-   Faultless friend of flowers and fountains, do I hear that voice of thine.
+Heavy with excess of beauty:  murmur for thy music's sake.
+All night long, in fluent pauses, falling far, but full, but fine,
+Faultless friend of flowers and fountains, do I hear that voice of thine.
 
    In the yellow flame of evening sound of thee doth come and go
    Through the noises of the river, and the drifting of the snow:
@@ -6202,9 +5662,9 @@ Euterpe
    I am famished of thy silence--broken for the tender note
    Caught with its surpassing passion--caught and strangled in thy throat!
    We have nought to help thy trouble--nought for that which lieth mute
-   On the harpstring and the lutestring and the spirit of the lute.
-   In the yellow flame of evening sound of thee doth come and go
-   Through the noises of the river, and the drifting of the snow.
+On the harpstring and the lutestring and the spirit of the lute.
+In the yellow flame of evening sound of thee doth come and go
+Through the noises of the river, and the drifting of the snow.
 
    Daughter of the dead red summers!  Men that laugh and men that weep
    Call thee Music--shall I follow, choose their name, and turn and sleep?
@@ -6218,10 +5678,7 @@ Euterpe
    Call thee Music--shall I follow, choose their name, and turn and sleep?
 
 
-
-
 Ellen Ray
-
 
 
    A quiet song for Ellen--
@@ -6261,10 +5718,7 @@ Ellen Ray
     My patient Ellen Ray.
 
 
-
-
 At Dusk
-
 
 
    At dusk, like flowers that shun the day,
@@ -6318,10 +5772,7 @@ At Dusk
       Come home to me!"
 
 
-
-
 Safi
-
 
 
    Strong pinions bore Safi, the dreamer,
@@ -6430,14 +5881,11 @@ Safi
     Which none but the gods understand.
 
 
-
-
 Daniel Henry Deniehy
 
 
-
-   Take the harp, but very softly for our brother touch the strings:
-   Wind and wood shall help to wail him, waves and mournful mountain-springs.
+Take the harp, but very softly for our brother touch the strings:
+Wind and wood shall help to wail him, waves and mournful mountain-springs.
    Take the harp, but very softly, for the friend who grew so old
    Through the hours we would not hear of--nights we would not fain behold!
    Other voices, sweeter voices, shall lament him year by year,
@@ -6456,24 +5904,21 @@ Daniel Henry Deniehy
    Home of far-forgotten phantoms--genii of our peaceful prime,
    Shining by perpetual waters past the ways of Change and Time:
    Haven of the harried spirit, where it folds its wearied wings,
-   Turns its face and sleeps a sleep with deep forgetfulness of things.
+Turns its face and sleeps a sleep with deep forgetfulness of things.
 
-   His should be a grave by mountains, in a cool and thick-mossed lea,
-   With the lone creek falling past it--falling ever to the sea.
-   His should be a grave by waters, by a bright and broad lagoon,
-   Making steadfast splendours hallowed of the quiet, shining moon.
+His should be a grave by mountains, in a cool and thick-mossed lea,
+With the lone creek falling past it--falling ever to the sea.
+His should be a grave by waters, by a bright and broad lagoon,
+Making steadfast splendours hallowed of the quiet, shining moon.
    There the elves of many forests--wandering winds and flying lights--
    Born of green, of happy mornings, dear to yellow summer nights,
    Full of dole for him that loved them, then might halt and then might go,
    Finding fathers of the people to their children speaking low--
    Speaking low of one who, failing, suffered all the poet's pain,
-   Dying with the dead leaves round him--hopes which never grow again.
-
-
+Dying with the dead leaves round him--hopes which never grow again.
 
 
 Merope
-
 
 
    Far in the ways of the hyaline wastes--in the face of the splendid
@@ -6525,13 +5970,10 @@ Merope
    Therefore," he saith, "I am sick for thee, Merope, faint for the tender
    Touch of thy mouth, and the eyes like the lights of an altar to me;
    But, lo, thou art far; and thy face is a still and a sorrowful splendour!
-   And the storm is abroad with the rain on the perilous straits of the sea."
-
-
+And the storm is abroad with the rain on the perilous straits of the sea."
 
 
 After the Hunt
-
 
 
    Underneath the windy mountain walls
@@ -6556,10 +5998,7 @@ After the Hunt
     The yapping and the yelping of the dogs?
 
 
-
-
 Rose Lorraine
-
 
 
    Sweet water-moons, blown into lights
@@ -6629,17 +6068,10 @@ Rose Lorraine
 [End of Leaves from Australian Forests.]
 
 
-
-
-
 SONGS FROM THE MOUNTAINS
 
 
-
-
-
 To a Mountain
-
 
 
    To thee, O father of the stately peaks,
@@ -6727,10 +6159,7 @@ To a Mountain
    There rolls the grand hymn of the deathless wave.
 
 
-
-
 Mary Rivers
-
 
 
    Path beside the silver waters, flashing in October's sun--
@@ -6739,18 +6168,18 @@ Mary Rivers
    Since the step of Mary Rivers in your lawny dell was heard!
    Twenty white-haired Junes have left us--
      grey with frost and bleak with gale--
-   Since the hand of her we loved so plucked the blossoms in your dale.
-   Twenty summers, twenty autumns, from the grand old hills have passed,
-   With their robes of royal colour, since we saw the darling last.
+Since the hand of her we loved so plucked the blossoms in your dale.
+Twenty summers, twenty autumns, from the grand old hills have passed,
+With their robes of royal colour, since we saw the darling last.
 
    Morning comes--the blessed morning! and the slow song of the sea,
    Like a psalm from radiant altars, floats across a rose-red lea;
    Then the fair, strong noonday blossoms, and the reaper seeks the cool
-   Valley of the moss and myrtle, and the glimmering water-pool.
-   Noonday flames and evening follows; and the lordly mountains rest
-   Heads arrayed with tenfold splendour on the rich heart of the West.
-   Evening walks with moon and music where the higher life has been;
-   But the face of Mary Rivers _there_ will nevermore be seen.
+Valley of the moss and myrtle, and the glimmering water-pool.
+Noonday flames and evening follows; and the lordly mountains rest
+Heads arrayed with tenfold splendour on the rich heart of the West.
+Evening walks with moon and music where the higher life has been;
+But the face of Mary Rivers _there_ will nevermore be seen.
 
    Ah! when autumn dells are dewy, and the wave is very still,
    And that grey ghost called the Twilight passes from the distant hill--
@@ -6789,10 +6218,7 @@ Mary Rivers
    Men the thing that I have whispered.  Mary Rivers, fare you well!
 
 
-
-
 Kingsborough
-
 
 
    A waving of hats and of hands,
@@ -6913,10 +6339,7 @@ Kingsborough
     The gleam of his hoofs, and the road?
 
 
-
-
 Beyond Kerguelen
-
 
 
    Down in the South, by the waste without sail on it,
@@ -7011,10 +6434,7 @@ Beyond Kerguelen
     Moans in the south by the ghost of a sea.
 
 
-
-
 Black Lizzie
-
 
 
    The gloved and jewelled bards who sing
@@ -7158,10 +6578,7 @@ Black Lizzie
     Would bring displeasure to your face.
 
 
-
-
 Hy-Brasil
-
 
 
    "Daughter," said the ancient father, pausing by the evening sea,
@@ -7182,9 +6599,9 @@ Hy-Brasil
    There indeed was God's own garden, sailing down the sapphire sea--
    Lawny dells and slopes of summer, dazzling stream and radiant tree!
    Out against the hushed horizon--out beneath the reverent day,
-   Flamed the Wonder on the waters--flamed and flashed and passed away.
-   And the maiden who had seen it felt a hand within her own,
-   And an angel that we know not led her to the lands unknown.
+Flamed the Wonder on the waters--flamed and flashed and passed away.
+And the maiden who had seen it felt a hand within her own,
+And an angel that we know not led her to the lands unknown.
 
    Never since hath eye beheld it--never since hath mortal, dazed
    By its strange, unearthly splendour, on the floating Eden gazed!
@@ -7195,24 +6612,21 @@ Hy-Brasil
    She, the pure, the perfect woman, sanctified by patient prayer,
    Had the eyes of saints of Heaven, all their glory in her hair:
    Therefore God the Father whispered to a radiant spirit near--
-   "Show Our daughter fair Hy-Brasil--show her this, and lead her here."
+"Show Our daughter fair Hy-Brasil--show her this, and lead her here."
 
-   But beyond the halls of sunset, but within the wondrous west,
-   On the rose-red seas of evening, sails the Garden of the Blest.
-   Still the gates of glassy beauty, still the walls of glowing light,
-   Shine on waves that no man knows of, out of sound and out of sight.
-   Yet the slopes and lawns of lustre, yet the dells of sparkling streams,
-   Dip to tranquil shores of jasper, where the watching angel beams.
+But beyond the halls of sunset, but within the wondrous west,
+On the rose-red seas of evening, sails the Garden of the Blest.
+Still the gates of glassy beauty, still the walls of glowing light,
+Shine on waves that no man knows of, out of sound and out of sight.
+Yet the slopes and lawns of lustre, yet the dells of sparkling streams,
+Dip to tranquil shores of jasper, where the watching angel beams.
    But, behold, our eyes are human, and our way is paved with pain,
    We can never find Hy-Brasil, never see its hills again;
    Never look on bays of crystal, never bend the reverent knee
    In the sight of Eden floating--floating on the sapphire sea!
 
 
-
-
 Jim the Splitter
-
 
 
    The bard who is singing of Wollombi Jim
@@ -7321,12 +6735,9 @@ Jim the Splitter
        In the country of damper and billies.
 
 
-
-
 Mooni
 
-   (Written in the shadow of 1872.)
-
+(Written in the shadow of 1872.)
 
 
        Ah, to be by Mooni now,
@@ -7460,10 +6871,7 @@ Mooni
        Just to be where Mooni is?
 
 
-
-
 Pytheas
-
 
 
    Gaul whose keel in far, dim ages ploughed wan widths of polar sea--
@@ -7471,18 +6879,18 @@ Pytheas
    Who amongst the world's high singers ever breathed the tale sublime
    Of the man who coasted England in the misty dawn of time?
    Leaves of laurel, lights of music--these and these have never shed
-   Glory on the name unheard of, lustre on the vanished head.
-   Lords of song, and these are many, never yet have raised the lay
-   For the white, wind-beaten seaman of a wild, forgotten day.
-   Harp of shining son of Godhead still is as a voice august;
-   But the man who first saw Britain sleeps beneath unnoticed dust.
+Glory on the name unheard of, lustre on the vanished head.
+Lords of song, and these are many, never yet have raised the lay
+For the white, wind-beaten seaman of a wild, forgotten day.
+Harp of shining son of Godhead still is as a voice august;
+But the man who first saw Britain sleeps beneath unnoticed dust.
 
    From the fair, calm bays Hellenic, from the crescents and the bends,
    Round the wall of crystal Athens, glowing in gold evening-ends,
    Sailed abroad the grand, strong father, with his face towards the snow
-   Of the awful northern mountains, twenty centuries ago.
-   On the seas that none had heard of, by the shores where none had furled
-   Wing of canvas, passed this elder to the limits of the world.
+Of the awful northern mountains, twenty centuries ago.
+On the seas that none had heard of, by the shores where none had furled
+Wing of canvas, passed this elder to the limits of the world.
    Lurid limits, loud with thunder and the roar of flaming cone,
    Ghastly tracts of ice and whirlwind lying in a dim, blind zone,
    Bitter belts of naked region, girt about by cliffs of fear,
@@ -7497,18 +6905,18 @@ Pytheas
    Here the lord of many waters, in the great exalted years,
    Saw the sight that no man knows of--heard the sound that no man hears--
    Felt that God was in the Shadow ere he turned his prow and sped
-   To the sweet green fields of England with the sunshine overhead.
+To the sweet green fields of England with the sunshine overhead.
 
-   In the day when pallid Persia fled before the Thracian steel,
-   By the land that now is London passed the strange Hellenic keel.
-   Up the bends of quiet river, hard by banks of grove and flower,
-   Sailed the father through a silence in the old majestic hour.
-   Not a sound of fin or feather, not a note of wave or breeze,
-   Vext the face of sleeping streamlets, broke the rest of stirless trees.
-   Not a foot was in the forest, not a voice was in the wood,
-   When the elder from Massilia over English waters stood.
-   All was new, and hushed, and holy--all was pure untrodden space,
-   When the lord of many oceans turned to it a reverent face.
+In the day when pallid Persia fled before the Thracian steel,
+By the land that now is London passed the strange Hellenic keel.
+Up the bends of quiet river, hard by banks of grove and flower,
+Sailed the father through a silence in the old majestic hour.
+Not a sound of fin or feather, not a note of wave or breeze,
+Vext the face of sleeping streamlets, broke the rest of stirless trees.
+Not a foot was in the forest, not a voice was in the wood,
+When the elder from Massilia over English waters stood.
+All was new, and hushed, and holy--all was pure untrodden space,
+When the lord of many oceans turned to it a reverent face.
 
    Man who knew resplendent Athens, set and framed in silver sea,
    Did not dream a dream of England--England of the years to be!
@@ -7519,12 +6927,12 @@ Pytheas
    Did not hear the voice of Shakespeare--all the mighty life was still,
    Down the slopes that dipped to seaward, on the shoulders of the hill;
    But the gold and green were brighter than the bloom of Thracian springs,
-   And a strange, surpassing beauty shone upon the face of things.
+And a strange, surpassing beauty shone upon the face of things.
 
-   In a grave that no man thinks of--back from far-forgotten bays--
-   Sleeps the grey, wind-beaten sailor of the old exalted days.
-   He that coasted Wales and Dover, he that first saw Sussex plains,
-   Passed away with head unlaurelled in the wild Thessalian rains.
+In a grave that no man thinks of--back from far-forgotten bays--
+Sleeps the grey, wind-beaten sailor of the old exalted days.
+He that coasted Wales and Dover, he that first saw Sussex plains,
+Passed away with head unlaurelled in the wild Thessalian rains.
    In a space by hand untended, by a fen of vapours blind,
    Lies the king of many waters--out of sight and out of mind!
    No one brings the yearly blossom--no one culls the flower of grace,
@@ -7533,10 +6941,7 @@ Pytheas
    Where he fell asleep for ever, twenty centuries ago.
 
 
-
-
 Bill the Bullock-Driver
-
 
 
    The leaders of millions, the lords of the lands,
@@ -7655,14 +7060,11 @@ Bill the Bullock-Driver
     Is a Friend and a Father to Bill.
 
 
-
-
 Cooranbean
 
 
-
-   Years fifty, and seven to boot, have smitten the children of men
-   Since sound of a voice or a foot came out of the head of that glen.
+Years fifty, and seven to boot, have smitten the children of men
+Since sound of a voice or a foot came out of the head of that glen.
    The brand of black devil is there--an evil wind moaneth around--
    There is doom, there is death in the air:  a curse groweth up from the ground!
    No noise of the axe or the saw in that hollow unholy is heard,
@@ -7677,30 +7079,30 @@ Cooranbean
    From the line of dead timber that lies supine at the foot of the glade,
    The fierce-featured eaglehawk flies--afraid as a dove is afraid;
    But back in that wilderness dread are a fall and the forks of a ford--
-   _Ah! pray and uncover your head, and lean like a child on the Lord._
+_Ah! pray and uncover your head, and lean like a child on the Lord._
 
-   A sinister fog at the wane--at the change of the moon cometh forth
-   Like an ominous ghost in the train of a bitter, black storm of the north!
-   At the head of the gully unknown it hangs like a spirit of bale.
-   And the noise of a shriek and a groan strikes up in the gusts of the gale.
-   In the throat of a feculent pit is the beard of a bloody-red sedge;
-   And a foam like the foam of a fit sweats out of the lips of the ledge.
-   But down in the water of death, in the livid, dead pool at the base--
-   _Bow low, with inaudible breath, beseech with the hands to the face!_
+A sinister fog at the wane--at the change of the moon cometh forth
+Like an ominous ghost in the train of a bitter, black storm of the north!
+At the head of the gully unknown it hangs like a spirit of bale.
+And the noise of a shriek and a groan strikes up in the gusts of the gale.
+In the throat of a feculent pit is the beard of a bloody-red sedge;
+And a foam like the foam of a fit sweats out of the lips of the ledge.
+But down in the water of death, in the livid, dead pool at the base--
+_Bow low, with inaudible breath, beseech with the hands to the face!_
 
    A furlong of fetid, black fen, with gelid, green patches of pond,
    Lies dumb by the horns of the glen--at the gates of the horror beyond;
    And those who have looked on it tell of the terrible growths that are there--
-   The flowerage fostered by hell, the blossoms that startle and scare.
-   If ever a wandering bird should light on Gehennas like this
-   Be sure that a cry will be heard, and the sound of the flat adder's hiss.
-   But hard by the jaws of the bend is a ghastly Thing matted with moss--
-   _Ah, Lord! be a father, a friend, for the sake of the Christ of the Cross._
+The flowerage fostered by hell, the blossoms that startle and scare.
+If ever a wandering bird should light on Gehennas like this
+Be sure that a cry will be heard, and the sound of the flat adder's hiss.
+But hard by the jaws of the bend is a ghastly Thing matted with moss--
+_Ah, Lord! be a father, a friend, for the sake of the Christ of the Cross._
 
-   Black Tom, with the sinews of five--that never a hangman could hang--
-   In the days of the shackle and gyve, broke loose from the guards of the gang.
-   Thereafter, for seasons a score, this devil prowled under the ban;
-   A mate of red talon and paw, a wolf in the shape of a man.
+Black Tom, with the sinews of five--that never a hangman could hang--
+In the days of the shackle and gyve, broke loose from the guards of the gang.
+Thereafter, for seasons a score, this devil prowled under the ban;
+A mate of red talon and paw, a wolf in the shape of a man.
    But, ringed by ineffable fire, in a thunder and wind of the north,
    The sword of Omnipotent ire--the bolt of high Heaven went forth!
    But, wan as the sorrowful foam, a grey mother waits by the sea
@@ -7713,13 +7115,10 @@ Cooranbean
    And later and deep in the dark, when the bitter wind whistles about,
    There is never a howl or a bark from the dog in the kennel without,
    But the white fathers fasten the door, and often and often they start,
-   At a sound like a foot on the floor and a touch like a hand on the heart.
-
-
+At a sound like a foot on the floor and a touch like a hand on the heart.
 
 
 When Underneath the Brown Dead Grass
-
 
 
    When underneath the brown dead grass
@@ -7759,12 +7158,9 @@ When Underneath the Brown Dead Grass
     A sultry southern sun.
 
 
-
-
 The Voice in the Wild Oak
 
-   (Written in the shadow of 1872.)
-
+(Written in the shadow of 1872.)
 
 
    Twelve years ago, when I could face
@@ -7876,10 +7272,7 @@ The Voice in the Wild Oak
     Thy home of many dreams.
 
 
-
-
 Billy Vickers
-
 
 
    No song is this of leaf and bird,
@@ -8013,10 +7406,7 @@ Billy Vickers
     Of Mr. Billy Vickers.
 
 
-
-
 Persia
-
 
 
    I am writing this song at the close
@@ -8101,10 +7491,7 @@ Persia
     On the bird he has put in a song.
 
 
-
-
 Lilith
-
 
 
    Strange is the song, and the soul that is singing
@@ -8171,10 +7558,7 @@ Lilith
     Down by the green and the gold of the sea.
 
 
-
-
 Bob
-
 
 
    Singer of songs of the hills--
@@ -8304,10 +7688,7 @@ Bob
     This is the story of Bob.
 
 
-
-
 Peter the Piccaninny
-
 
 
    He has a name which can't be brought
@@ -8446,12 +7827,9 @@ Peter the Piccaninny
     He had his gin beside him.
 
 
-
-
 Narrara Creek
 
-   (Written in the shadow of 1872.)
-
+(Written in the shadow of 1872.)
 
 
    From the rainy hill-heads, where, in starts and in spasms,
@@ -8547,10 +7925,7 @@ Narrara Creek
    When the sorrowful days of my singing are over.
 
 
-
-
 In Memory of John Fairfax
-
 
 
    Because this man fulfilled his days,
@@ -8626,26 +8001,23 @@ In Memory of John Fairfax
     "He giveth His beloved sleep."
 
 
-
-
 Araluen
 
-  --
-   * Araluen:  The poet's daughter, who died in infancy.
-  --
+--
+* Araluen:  The poet's daughter, who died in infancy.
+--
 
 
-
-   Take this rose, and very gently place it on the tender, deep
-   Mosses where our little darling, Araluen, lies asleep.
-   Put the blossom close to baby--kneel with me, my love, and pray;
-   We must leave the bird we've buried--say good-bye to her to-day.
+Take this rose, and very gently place it on the tender, deep
+Mosses where our little darling, Araluen, lies asleep.
+Put the blossom close to baby--kneel with me, my love, and pray;
+We must leave the bird we've buried--say good-bye to her to-day.
    In the shadow of our trouble we must go to other lands,
    And the flowers we have fostered will be left to other hands:
    Other eyes will watch them growing--other feet will softly tread
-   Where two hearts are nearly breaking, where so many tears are shed.
-   Bitter is the world we live in:  life and love are mixed with pain;
-   We will never see these daisies--never water them again.
+Where two hearts are nearly breaking, where so many tears are shed.
+Bitter is the world we live in:  life and love are mixed with pain;
+We will never see these daisies--never water them again.
 
    Ah! the saddest thought in leaving baby in this bush alone
    Is that we have not been able on her grave to place a stone:
@@ -8661,9 +8033,9 @@ Araluen
    Girl, whose hand at God's high altar in the dear, dead year I pressed,
    Lean your stricken head upon me--this is still your lover's breast!
    She who sleeps was first and sweetest--none we have to take her place;
-   Empty is the little cradle--absent is the little face.
-   Other children may be given; but this rose beyond recall,
-   But this garland of your girlhood, will be dearest of them all.
+Empty is the little cradle--absent is the little face.
+Other children may be given; but this rose beyond recall,
+But this garland of your girlhood, will be dearest of them all.
    None will ever, Araluen, nestle where you used to be,
    In my heart of hearts, you darling, when the world was new to me;
    We were young when you were with us, life and love were happy things
@@ -8674,20 +8046,17 @@ Araluen
    Who because your love was noble, faced with me the lot austere
    Ever pressing with its hardship on the man of letters here--
    Let me feel that you are near me, lay your hand within mine own;
-   You are all I have to live for, now that we are left alone.
-   Three there were, but one has vanished.  Sins of mine have made you weep;
-   But forgive your baby's father now that baby is asleep.
-   Let us go, for night is falling; leave the darling with her flowers;
-   Other hands will come and tend them--other friends in other hours.
-
-
+You are all I have to live for, now that we are left alone.
+Three there were, but one has vanished.  Sins of mine have made you weep;
+But forgive your baby's father now that baby is asleep.
+Let us go, for night is falling; leave the darling with her flowers;
+Other hands will come and tend them--other friends in other hours.
 
 
 The Sydney International Exhibition
 
    (The poem which won the prize offered by the proprietors
    of the "Sydney Morning Herald".)
-
 
 
    Now, while Orion, flaming south, doth set
@@ -8841,16 +8210,16 @@ The Sydney International Exhibition
    *1* According to Mr. R. H. Major, and others, the Great Southern Land
        is referred to in old Chinese records as a polar continent,
        subject to the long polar nights.
-   *2* Marco Polo mentions a large land called by the Malays Lochac.
-       The northern coast was supposed to be in latitude 10 Degrees S.
-   *3* Mr. R. H. Major discovered a map of Terra Australis
-       dated A.D. 1555 and bearing the name of Le Testu, a French pilot.
+*2* Marco Polo mentions a large land called by the Malays Lochac.
+The northern coast was supposed to be in latitude 10 Degrees S.
+*3* Mr. R. H. Major discovered a map of Terra Australis
+dated A.D. 1555 and bearing the name of Le Testu, a French pilot.
        Le Testu must have visited these coasts some years before
        the date of the chart.
    *4* The sailors of the _Duyfken_, a Dutch vessel which entered
-       the Gulf of Carpentaria in A.D. 1606, were attacked by the natives.
-       In the fray some of the whites were killed.  No doubt these
-       unlucky adventurers were the first Europeans buried in Australia.
+the Gulf of Carpentaria in A.D. 1606, were attacked by the natives.
+In the fray some of the whites were killed.  No doubt these
+unlucky adventurers were the first Europeans buried in Australia.
    *5* Dirk Hartog left a tin plate, bearing his name, in Shark Bay,
        Western Australia.
    *6* The story of Tasman's love for Maria, the daughter of Governor Van Diemen,
@@ -9009,18 +8378,15 @@ The Sydney International Exhibition
    On holy paths--on sacred ways and sweet.
 
 
-
-
 Christmas Creek
-
 
 
    Phantom streams were in the distance--mocking lights of lake and pool--
    Ghosts of trees of soft green lustre--groves of shadows deep and cool!
    Yea, some devil ran before them changing skies of brass to blue,
-   Setting bloom where curse is planted, where a grass-blade never grew.
-   Six there were, and high above them glared a wild and wizened sun,
-   Ninety leagues from where the waters of the singing valleys run.
+Setting bloom where curse is planted, where a grass-blade never grew.
+Six there were, and high above them glared a wild and wizened sun,
+Ninety leagues from where the waters of the singing valleys run.
    There before them, there behind them, was the great, stark, stubborn plain,
    Where the dry winds hiss for ever, and the blind earth moans for rain!
    Ringed about by tracks of furnace, ninety leagues from stream and tree,
@@ -9046,9 +8412,9 @@ Christmas Creek
    English grasses started round him--then the grace of Sussex lea
    Came and touched him with the beauty of a green land by the sea!
    Old-world faces thronged about him--old-world voices spoke to him;
-   But his speech was like a whisper, and his eyes were very dim.
-   In a dream of golden evening, beaming on a quiet strand,
-   Lay the stranger till a bright One came and took him by the hand.
+But his speech was like a whisper, and his eyes were very dim.
+In a dream of golden evening, beaming on a quiet strand,
+Lay the stranger till a bright One came and took him by the hand.
    England vanished; died the voices; but he heard a holier tone,
    And an angel that we know not led him to the lands unknown!
 
@@ -9079,14 +8445,11 @@ Christmas Creek
      named it fitly--"Christmas Creek".
 
 
-
-
 Orara
 
   --
    * Orara:  A tributary of the river Clarence.
   --
-
 
 
    The strong sob of the chafing stream
@@ -9180,10 +8543,7 @@ Orara
     A beauty out of sight.
 
 
-
-
 The Curse of Mother Flood
-
 
 
    Wizened the wood is, and wan is the way through it;
@@ -9278,15 +8638,12 @@ The Curse of Mother Flood
     Twenty miles south of the Valley of Death.
 
 
-
-
 On a Spanish Cathedral
 
   --
    * Every happy expression in these stanzas may fairly be claimed
      by the Hon. W. B. Dalley (_Author's note_).
   --
-
 
 
    Deep under the spires of a hill, by the feet of the thunder-cloud trod,
@@ -9303,9 +8660,9 @@ On a Spanish Cathedral
    Where the African scimitar flamed, with a swift, bitter death in its kiss,
    The fathers, unknown and unnamed, found God in cathedrals like this!
    The glow of His Spirit--the beam of His blessing--made lords of the men
-   Whose food was the herb of the stream, whose roof was the dome of the den.
-   And, far in the hills by the sea, these awful hierophants prayed
-   For Rome and its temples to be--in a temple by Deity made.
+Whose food was the herb of the stream, whose roof was the dome of the den.
+And, far in the hills by the sea, these awful hierophants prayed
+For Rome and its temples to be--in a temple by Deity made.
 
    Who knows of their faith--of its power?
      Perhaps, with the light in their eyes,
@@ -9326,14 +8683,14 @@ On a Spanish Cathedral
    And a soul of unspeakable fire descended on them, and they fought
    And laboured a life for the spire and tower and dome of their thought!
    These grew under blessing and praise, as morning in summertime grows--
-   As Troy in the dawn of the days to the music of Delphicus rose.
+As Troy in the dawn of the days to the music of Delphicus rose.
 
-   In a land of bewildering light, where the feet of the season are Spring's,
-   They worked in the day and the night, surrounded by beautiful things.
-   The wonderful blossoms in stone--the flower and leaf of the Moor,
-   On column and cupola shone, and gleamed on the glimmering floor.
-   In a splendour of colour and form, from the marvellous African's hands
-   Yet vivid and shining and warm, they planted the Flower of the Lands.
+In a land of bewildering light, where the feet of the season are Spring's,
+They worked in the day and the night, surrounded by beautiful things.
+The wonderful blossoms in stone--the flower and leaf of the Moor,
+On column and cupola shone, and gleamed on the glimmering floor.
+In a splendour of colour and form, from the marvellous African's hands
+Yet vivid and shining and warm, they planted the Flower of the Lands.
    Inspired by the patience supreme of the mute, the magnificent past,
    They toiled till the dome of their dream in the firmament blossomed at last!
 
@@ -9367,13 +8724,10 @@ On a Spanish Cathedral
    Their names are unknown; but so long as the humble in spirit and pure
    Are worshipped in speech and in song, our love for these monks will endure;
    And the lesson by sacrifice taught will live in the light of the years
-   With a reverence not to be bought, and a tenderness deeper than tears.
-
-
+With a reverence not to be bought, and a tenderness deeper than tears.
 
 
 Rover
-
 
 
    No classic warrior tempts my pen
@@ -9557,15 +8911,12 @@ Rover
     We'll keep the nook for Rover.
 
 
-
-
 The Melbourne International Exhibition
 
-   [_Written for Music._]
+[_Written for Music._]
 
 
-
-     I
+I
 
    Brothers from far-away lands,
     Sons of the fathers of fame,
@@ -9585,7 +8936,7 @@ The Melbourne International Exhibition
     Sons of your forefather's friends.
 
 
-     II
+II
 
    Dressed is the beautiful city--the spires of it
     Burn in the firmament stately and still;
@@ -9601,7 +8952,7 @@ The Melbourne International Exhibition
     Crowned with the lights of ineffable fame.
 
 
-     III
+III
 
    Nine and seventy years ago,
     Up the blaze of yonder bay,
@@ -9624,7 +8975,7 @@ The Melbourne International Exhibition
    Five and forty years ago.
 
 
-     IV
+IV
 
    By gracious slopes of fair green hills,
     In shadows cool and deep,
@@ -9645,7 +8996,7 @@ The Melbourne International Exhibition
     They shine for evermore.
 
 
-     V
+V
 
    By lawny slope and lucent strand
    Are singing flags of every land;
@@ -9661,7 +9012,7 @@ The Melbourne International Exhibition
    To meet our fathers from the North!
 
 
-     VI
+VI
 
    To Thee be the glory, All-Bountiful Giver!
     The song that we sing is an anthem to Thee,
@@ -9673,12 +9024,9 @@ The Melbourne International Exhibition
     The storm from the wave and the night from the day!
 
 
-
-
 By the Cliffs of the Sea
 
-   (In Memory of Samuel Bennett.)
-
+(In Memory of Samuel Bennett.)
 
 
    In a far-away glen of the hills,
@@ -9773,10 +9121,7 @@ By the Cliffs of the Sea
     On this grave by the cliffs of the sea.
 
 
-
-
 Galatea
-
 
 
    A silver slope, a fall of firs, a league of gleaming grasses,
@@ -9785,22 +9130,22 @@ Galatea
        .   .   .   .   .
 
    The long-haired Cyclops bated breath, and bit his lip and hearkened,
-   And dug and dragged the stone of death, by ways that dipped and darkened.
+And dug and dragged the stone of death, by ways that dipped and darkened.
 
-   Across a tract of furnaced flints there came a wind of water,
-   From yellow banks with tender hints of Tethys' white-armed daughter.
+Across a tract of furnaced flints there came a wind of water,
+From yellow banks with tender hints of Tethys' white-armed daughter.
 
    She sat amongst wild singing weeds, by beds of myrrh and moly;
    And Acis made a flute of reeds, and drew its accents slowly;
 
    And taught its spirit subtle sounds that leapt beyond suppression,
-   And paused and panted on the bounds of fierce and fitful passion.
+And paused and panted on the bounds of fierce and fitful passion.
 
-   Then he who shaped the cunning tune, by keen desire made bolder,
-   Fell fainting, like a fervent noon, upon the sea-nymph's shoulder.
+Then he who shaped the cunning tune, by keen desire made bolder,
+Fell fainting, like a fervent noon, upon the sea-nymph's shoulder.
 
-   Sicilian suns had laid a dower of light and life about her:
-   Her beauty was a gracious flower--the heart fell dead without her.
+Sicilian suns had laid a dower of light and life about her:
+Her beauty was a gracious flower--the heart fell dead without her.
 
    "Ah, Galate," said Polypheme, "I would that I could find thee
    Some finest tone of hill or stream, wherewith to lull and bind thee!
@@ -9824,16 +9169,13 @@ Galatea
    Then from fierce Aetna to the sea a fountained water started--
 
    A lucent stream of lutes and lights--cool haunt of flower and feather,
-   Whose silver days and yellow nights made years of hallowed weather.
+Whose silver days and yellow nights made years of hallowed weather.
 
-   Here Galatea used to come, and rest beside the river;
-   Because, in faint, soft, blowing foam, her shepherd lived for ever.
-
-
+Here Galatea used to come, and rest beside the river;
+Because, in faint, soft, blowing foam, her shepherd lived for ever.
 
 
 Black Kate
-
 
 
    Kate, they say, is seventeen--
@@ -9918,15 +9260,12 @@ Black Kate
     Head and tail and skin and all.
 
 
-
-
 A Hyde Park Larrikin
 
   --
    * To the servants of God that are to be found in every denomination,
      these verses, of course, do not apply.--H.K.
   --
-
 
 
    You may have heard of Proclus, sir,
@@ -10065,12 +9404,9 @@ A Hyde Park Larrikin
     With this I close my verses.
 
 
-
-
 Names Upon a Stone
 
-   (Inscribed to G. L. Fagan, Esq.)
-
+(Inscribed to G. L. Fagan, Esq.)
 
 
    Across bleak widths of broken sea
@@ -10155,10 +9491,7 @@ Names Upon a Stone
     Our names upon the stone.
 
 
-
-
 Leichhardt
-
 
 
    Lordly harp, by lordly master wakened from majestic sleep,
@@ -10179,9 +9512,9 @@ Leichhardt
    Thus he came to be a brother of the river and the wood--
    Thus the leaf, the bird, the blossom, grew a gracious sisterhood;
    Nature led him to her children, in a space of light divine:
-   Kneeling down, he said--"My mother, let me be as one of thine!"
-   So she took him--thence she loved him--lodged him in her home of dreams,
-   Taught him what the trees were saying, schooled him in the speech of streams.
+Kneeling down, he said--"My mother, let me be as one of thine!"
+So she took him--thence she loved him--lodged him in her home of dreams,
+Taught him what the trees were saying, schooled him in the speech of streams.
 
    For her sake he crossed the waters--loving her, he left the place
    Hallowed by his father's ashes, and his human mother's face--
@@ -10201,9 +9534,9 @@ Leichhardt
    And the lady, Nature, listened; and she took her loyal son
    From the banks of moss and myrtle--led him to the Shining One!
    Filled his lordly soul with gladness--told him of a spacious zone
-   Eye of man had never looked at, human foot had never known.
-   Then the angel, Science, beckoned, and he knelt and whispered low--
-   "I will follow where you lead me"--two-and-thirty years ago.
+Eye of man had never looked at, human foot had never known.
+Then the angel, Science, beckoned, and he knelt and whispered low--
+"I will follow where you lead me"--two-and-thirty years ago.
 
    On the tracts of thirst and furnace--on the dumb, blind, burning plain,
    Where the red earth gapes for moisture, and the wan leaves hiss for rain,
@@ -10228,10 +9561,7 @@ Leichhardt
    Sleeping by the trees he loved so, covered with his darling flowers!
 
 
-
-
 After Many Years
-
 
 
    The song that once I dreamed about,
@@ -10328,20 +9658,13 @@ After Many Years
 [End of Songs from the Mountains.]
 
 
-
-
-
 EARLY POEMS, 1859-70
 
    (With a few exceptions, these are now printed
    for the first time in book form).
 
 
-
-
-
 The Merchant Ship
-
 
 
    The sun o'er the waters was throwing
@@ -10498,15 +9821,12 @@ The Merchant Ship
     Fade soonest--far soonest away.
 
 
-   These lines were written in 1857, and were suggested by the wreck
-   of the _Dunbar_, but the writer did not confine himself in particular
-   to a description of that disaster, as may be seen from perusal.--H.K.
-
-
+These lines were written in 1857, and were suggested by the wreck
+of the _Dunbar_, but the writer did not confine himself in particular
+to a description of that disaster, as may be seen from perusal.--H.K.
 
 
 Oh, Tell Me, Ye Breezes
-
 
 
    Oh, tell me, ye breezes that spring from the west,
@@ -10530,10 +9850,7 @@ Oh, Tell Me, Ye Breezes
     For unknown is the place of his rest.
 
 
-
-
 The Far Future
-
 
 
    Australia, advancing with rapid winged stride,
@@ -10579,10 +9896,7 @@ The Far Future
    from a native-born Australian brain.--H.K.
 
 
-
-
 Silent Tears
-
 
 
    What bitter sorrow courses down
@@ -10613,14 +9927,11 @@ Silent Tears
     Or that by--silent tears.
 
 
-
-
 Extempore Lines
 
-  --
-   *  Suggested by one of John Bright's speeches on Electoral Reform.
-  --
-
+--
+*  Suggested by one of John Bright's speeches on Electoral Reform.
+--
 
 
    A morning crowns the Western hill,
@@ -10669,10 +9980,7 @@ Extempore Lines
     And reign instead of Might?
 
 
-
-
 The Old Year
-
 
 
    It passed like the breath of the night-wind away,
@@ -10696,12 +10004,9 @@ The Old Year
    And memories live that must ever remain.
 
 
-
-
 Tanna
 
-   (The Kanaka's Death-Song over his Chieftain.)
-
+(The Kanaka's Death-Song over his Chieftain.)
 
 
    Shades of my father, the hour is approaching.
@@ -10757,7 +10062,7 @@ Tanna
     The voice in his ear, and the torch on his way.
 
 
-   Tanna is one of the largest islands in the group known as the New Hebrides.
+Tanna is one of the largest islands in the group known as the New Hebrides.
    The natives of it, in common with all their South Sea brethren,
    are generally titled by the whites "Kanakas".  They are of the negro family,
    resembling in feature, very closely, the Feejee tribes.  It is said that
@@ -10770,31 +10075,28 @@ Tanna
    all over the island.
 
    Tanna, besides the never-sleeping volcano, has its other objects of interest
-   in the many boiling springs that surround the base of the burning mountain.
-   Some of these are held as holy, and none but chiefs are permitted
-   to taste their waters.  Such restriction, however, does not extend over all.
+in the many boiling springs that surround the base of the burning mountain.
+Some of these are held as holy, and none but chiefs are permitted
+to taste their waters.  Such restriction, however, does not extend over all.
 
-   When any of their great warriors die, the aborigines believe that
-   the spirits of Arrochin prepare a great feast there for their coming guest,
-   and for fear he should lose himself on the road thither they (the spirits)
-   call to him and blow trumpets, sending some one at the same time with torches
-   to meet him and guide him on his way to those blessed regions.
+When any of their great warriors die, the aborigines believe that
+the spirits of Arrochin prepare a great feast there for their coming guest,
+and for fear he should lose himself on the road thither they (the spirits)
+call to him and blow trumpets, sending some one at the same time with torches
+to meet him and guide him on his way to those blessed regions.
 
-     Explanation of Native Words:
+Explanation of Native Words:
 
-   "Arrochin"--Heaven.  "Cava"--a drink extracted from a root.
-   (The natives believe it is made and drunk in Arrochin where it grows
-   as in Tanna).  "Muska" (corruption of the English term, musket)--
-   of late their chief weapon in war.  "Muttow"--a fishing-hook.
-   "Whyeena"--woman (this is not the original native appellation;
-   that I could never ascertain).  "Weepan"--Fish (their principal food).
-   "Leenna" and "Yona"--native names.--H.K.
-
-
+"Arrochin"--Heaven.  "Cava"--a drink extracted from a root.
+(The natives believe it is made and drunk in Arrochin where it grows
+as in Tanna).  "Muska" (corruption of the English term, musket)--
+of late their chief weapon in war.  "Muttow"--a fishing-hook.
+"Whyeena"--woman (this is not the original native appellation;
+that I could never ascertain).  "Weepan"--Fish (their principal food).
+"Leenna" and "Yona"--native names.--H.K.
 
 
 The Earth Laments for Day
-
 
 
    There's music wafting on the air,
@@ -10840,10 +10142,7 @@ The Earth Laments for Day
     The dawning of to-morrow.
 
 
-
-
 The Late W. V. Wild, Esq.
-
 
 
    Sad faces came round, and I dreamily said
@@ -10892,10 +10191,7 @@ The Late W. V. Wild, Esq.
     _Oh, why art thou silent, Australia?_
 
 
-
-
 Astarte
-
 
 
     Across the dripping ridges,
@@ -10944,10 +10240,7 @@ Astarte
     Dead Love's wild Nevermore!
 
 
-
-
 Australian War Song
-
 
 
    Men have said that ye were sleeping--
@@ -11002,10 +10295,7 @@ Australian War Song
     This is Freedom's chosen land.
 
 
-
-
 The Ivy on the Wall
-
 
 
    The verdant ivy clings around
@@ -11036,10 +10326,7 @@ The Ivy on the Wall
     Will ne'er from thence depart.
 
 
-
-
 The Australian Emigrant
-
 
 
    How dazzling the sunbeams awoke on the spray,
@@ -11088,10 +10375,7 @@ The Australian Emigrant
    In the clime we've adopted contented to dwell.
 
 
-
-
 To My Brother, Basil E. Kendall
-
 
 
    To-night the sea sends up a gulf-like sound,
@@ -11110,10 +10394,7 @@ To My Brother, Basil E. Kendall
    With brighter bays than I can ever claim.
 
 
-
-
 The Waterfall
-
 
 
    The song of the water
@@ -11199,12 +10480,9 @@ The Waterfall
     And hurled her away?
 
 
-
-
 The Song of Arda
 
-   (From "Annatanam".)
-
+(From "Annatanam".)
 
 
    Low as a lute, my love, beneath the call
@@ -11257,10 +10535,7 @@ The Song of Arda
        In the depths of your mighty despair.
 
 
-
-
 The Helmsman
-
 
 
    Like one who meets a staggering blow,
@@ -11342,10 +10617,7 @@ The Helmsman
     Oh where, oh where?--My God!"
 
 
-
-
 To Miss Annie Hopkins
-
 
 
    Beneath the shelter of the bush,
@@ -11367,10 +10639,7 @@ To Miss Annie Hopkins
    That are combined in thee!
 
 
-
-
 Foreshadowings
-
 
 
    Fifteen miles and then the harbour!  Here we cannot choose but stand,
@@ -11434,18 +10703,15 @@ Foreshadowings
    So we turned and travelled onward, till we rested at a place
    Where a Vision fell about us, sunned with many a lovely face;
    Then we heard low silvery voices; and I knelt upon the shore--
-   Knelt and whispered, "God I thank Thee! and will wander never more."
-
-
+Knelt and whispered, "God I thank Thee! and will wander never more."
 
 
 Sonnets on the Discovery of Botany Bay by Captain Cook
 
 
+I
 
-     I
-
-   The First Attempt to Reach the Shore
+The First Attempt to Reach the Shore
 
 
    Where is the painter who shall paint for you,
@@ -11464,10 +10730,9 @@ Sonnets on the Discovery of Botany Bay by Captain Cook
    Turned seaward, "after many a wistful look!"
 
 
+II
 
-     II
-
-   The Second Attempt, Opposed by Two of the Natives
+The Second Attempt, Opposed by Two of the Natives
 
 
    "There were but two, and we were forty!  Yet,"
@@ -11486,10 +10751,9 @@ Sonnets on the Discovery of Botany Bay by Captain Cook
    With faithful blood, as pure as any ever shed.
 
 
+III
 
-     III
-
-   The Spot Where Cook Landed
+The Spot Where Cook Landed
 
 
    Chaotic crags are huddled east and west--
@@ -11508,10 +10772,9 @@ Sonnets on the Discovery of Botany Bay by Captain Cook
    By all the sacred Past 'tis sacred ground.
 
 
+IV
 
-     IV
-
-   Sutherland's Grave
+Sutherland's Grave
 
 
    'Tis holy ground!  The silent silver lights
@@ -11529,13 +10792,10 @@ Sonnets on the Discovery of Botany Bay by Captain Cook
    Oh, peace!  Its fellows, glad with green delights,
    Shall gather round it deep eternal bloom!
 
-   * A wild lily grows on the spot supposed to be Sutherland's grave.--H.K.
-
-
+* A wild lily grows on the spot supposed to be Sutherland's grave.--H.K.
 
 
 To Henry Halloran
-
 
 
    You know I left my forest home full loth,
@@ -11594,10 +10854,7 @@ To Henry Halloran
    White spaces of Infinitude.
 
 
-
-
 Lost in the Flood
-
 
 
    When God drave the ruthless waters
@@ -11641,10 +10898,7 @@ Lost in the Flood
      Darling! where you sit and wait?"
 
 
-
-
 Eighteen Hundred and Sixty-Four
-
 
 
    I hear no footfall beating through the dark,
@@ -11713,10 +10967,7 @@ Eighteen Hundred and Sixty-Four
     Such strength in Peter on the seas of fear!
 
 
-
-
 To----
-
 
 
    Ah, often do I wait and watch,
@@ -11765,10 +11016,7 @@ To----
     I faint afar off--and alone.
 
 
-
-
 At Long Bay
-
 
 
    Five years ago! you cannot choose
@@ -11847,10 +11095,7 @@ At Long Bay
     And I to live for you.
 
 
-
-
 For Ever
-
 
 
    Out of the body for ever,
@@ -11939,13 +11184,10 @@ For Ever
     Away, and away, and away.
 
 
-
-
 Sonnets
 
 
-
-     To N. D. Stenhouse, Esq.
+To N. D. Stenhouse, Esq.
 
 
    Dark days have passed, but you who taught me then
@@ -11964,8 +11206,7 @@ Sonnets
    Are rich for it with glad perennial flowers.
 
 
-
-     Elizabeth Barrett Browning
+Elizabeth Barrett Browning
 
 
    A lofty Type of all her sex, I ween,
@@ -11984,8 +11225,7 @@ Sonnets
    Amongst the roses of a windless noon.
 
 
-
-     Sir Walter Scott
+Sir Walter Scott
 
 
    The Bard of ancient lore!  Like one forlorn,
@@ -12004,11 +11244,11 @@ Sonnets
    For Highland glens and windy leagues of heath.
 
 
-   Let me here endeavour to draw the fair distinctions between the great writers,
-   or some of the great writers, of Scott's day; borrowing at the same time
-   a later name.  I shall start with that strange figure, Percy Bysshe Shelley.
-   He was too subjective to be merely a descriptive poet,
-   too metaphysical to be vague, and too imaginative to be didactic.
+Let me here endeavour to draw the fair distinctions between the great writers,
+or some of the great writers, of Scott's day; borrowing at the same time
+a later name.  I shall start with that strange figure, Percy Bysshe Shelley.
+He was too subjective to be merely a descriptive poet,
+too metaphysical to be vague, and too imaginative to be didactic.
    As Scott was the most dramatic, Wordsworth the most profound,
    Byron the most passionate, so Shelley was the most spiritual writer
    of his time.  Scott's poetry was the result of vivid emotion,
@@ -12023,10 +11263,7 @@ Sonnets
    with its summits eternally veiled in vapour?--H.K.
 
 
-
-
 The Bereaved One
-
 
 
    She sleeps--and I see through a shadowy haze,
@@ -12057,10 +11294,7 @@ The Bereaved One
     And what is this world to be left in without her?
 
 
-
-
 Dungog
-
 
 
    Here, pent about by office walls
@@ -12114,8 +11348,8 @@ Dungog
     Draws winding lengths along!
 
   --
-   * A tributary of the river Hunter, after Hunter, on which Dungog stands.
-  --
+* A tributary of the river Hunter, after Hunter, on which Dungog stands.
+--
 
    And ho! for stormy mountain cones,
     Where headlong Winter leaps,
@@ -12134,8 +11368,8 @@ Dungog
 
   --
    * A chain of lakes near Port Stephens, N.S.W.
-   ** A town on the Karuah, which flows into Port Stephens.
-  --
+** A town on the Karuah, which flows into Port Stephens.
+--
 
    There, through the fretful autumn days,
     Beneath a cloudy sun,
@@ -12178,10 +11412,7 @@ Dungog
     And find my faith again.
 
 
-
-
 Deniehy's Lament
-
 
 
    Spirit of Loveliness!  Heart of my heart!
@@ -12205,10 +11436,7 @@ Deniehy's Lament
    I cannot bear to be, Heart of my heart!
 
 
-
-
 Deniehy's Dream
-
 
 
    Just when the western light
@@ -12257,10 +11485,7 @@ Deniehy's Dream
     Even--with hope!"
 
 
-
-
 Cui Bono?
-
 
 
    A clamour by day and a whisper by night,
@@ -12334,8 +11559,6 @@ Cui Bono?
     With the fervour of fire and the wind of the wheat.
 
 
-
-
 In Hyde Park
 
   --
@@ -12343,7 +11566,6 @@ In Hyde Park
      published in Sydney in 1868.  While in Sydney, the Prince was shot at
      by a fanatic and slightly injured.]
   --
-
 
 
    They come from the highways of labour,
@@ -12407,10 +11629,7 @@ In Hyde Park
     As he came to them, trusting will go.
 
 
-
-
 Australia Vindex
-
 
 
    Who cometh from fields of the south
@@ -12474,47 +11693,44 @@ Australia Vindex
     And a byword for hisses and hate!"
 
 
-
-
 Ned the Larrikin
 
 
+A song that is bitter with grief--a ballad as pale as the light
+That comes with the fall of the leaf, I sing to the shadows to-night.
 
-   A song that is bitter with grief--a ballad as pale as the light
-   That comes with the fall of the leaf, I sing to the shadows to-night.
+The laugh on the lyrical lips is sadder than laughter of ghosts
+Chained back in the pits of eclipse by wailing unnameable coasts.
 
-   The laugh on the lyrical lips is sadder than laughter of ghosts
-   Chained back in the pits of eclipse by wailing unnameable coasts.
+I gathered this wreath at the close of day that was dripping with dew;
+The blossom you take for a rose was plucked from the branch of a yew.
 
-   I gathered this wreath at the close of day that was dripping with dew;
-   The blossom you take for a rose was plucked from the branch of a yew.
+The flower you fancy is sweet has black in the place of the red;
+For this is a song of the street--the ballad of larrikin Ned.
 
-   The flower you fancy is sweet has black in the place of the red;
-   For this is a song of the street--the ballad of larrikin Ned.
+He stands at the door of the sink that gapes like a fissure of death:
+The face of him fiery with drink, the flame of its fume in his breath.
 
-   He stands at the door of the sink that gapes like a fissure of death:
-   The face of him fiery with drink, the flame of its fume in his breath.
+He thrives in the sickening scenes that the devil has under his ban;
+A rascal not out of his teens with the voice of a vicious old man.
 
-   He thrives in the sickening scenes that the devil has under his ban;
-   A rascal not out of his teens with the voice of a vicious old man.
+A blossom of blackness, indeed--of Satan a sinister fruit!
+Far better the centipede's seed--the spawn of the adder or newt.
 
-   A blossom of blackness, indeed--of Satan a sinister fruit!
-   Far better the centipede's seed--the spawn of the adder or newt.
+Than terror of talon or fang this imp of the alleys is worse:
+His speech is a poisonous slang--his phrases are coloured with curse.
 
-   Than terror of talon or fang this imp of the alleys is worse:
-   His speech is a poisonous slang--his phrases are coloured with curse.
+The prison, the shackles, and chain are nothing to him and his type:
+He sings in the shadow of pain, and laughs at the impotent stripe.
 
-   The prison, the shackles, and chain are nothing to him and his type:
-   He sings in the shadow of pain, and laughs at the impotent stripe.
+There under the walls of the gaols the half of his life has been passed.
+He was born in the bosom of bale--he will go to the gallows at last.
 
-   There under the walls of the gaols the half of his life has been passed.
-   He was born in the bosom of bale--he will go to the gallows at last.
+No angel in Paradise kneels for him at the feet of the Lord;
+A Nemesis follows his heels in the flame of a sinister sword.
 
-   No angel in Paradise kneels for him at the feet of the Lord;
-   A Nemesis follows his heels in the flame of a sinister sword.
-
-   The sins of his fathers have brought this bitterness into his days--
-   His life is accounted as naught; his soul is a brand for the blaze.
+The sins of his fathers have brought this bitterness into his days--
+His life is accounted as naught; his soul is a brand for the blaze.
 
    Did ever his countenance change?  Did ever a moment supreme
    Illumine his face with a strange ineffably beautiful dream?
@@ -12532,10 +11748,10 @@ Ned the Larrikin
    Assisted the thistle and tares, and stamped the divinity out!
 
    A growth like the larrikin Ned--a brutal unqualified clod,
-   Is what ye are helping who'd tread on the necks of the prophets of God.
+Is what ye are helping who'd tread on the necks of the prophets of God.
 
-   No more than a damnable weed ye water and foster, ye fools,
-   Whose aim is to banish indeed the beautiful Christ from the schools.
+No more than a damnable weed ye water and foster, ye fools,
+Whose aim is to banish indeed the beautiful Christ from the schools.
 
    The merciful, wonderful light of the seraph Religion behold
    These evil ones shut from the sight of the children who weep in the cold!
@@ -12548,19 +11764,16 @@ Ned the Larrikin
      the prophet, the Saint, and the priest.
 
    For a spirit of Deity makes the holy heirophants strong;
-   And a morning of majesty breaks, and blossoms in colour and song.
+And a morning of majesty breaks, and blossoms in colour and song.
 
-   Yea, now, by the altars august the elders are shining supreme;
-   And brittle and barren as dust is the spiritless secular dream.
+Yea, now, by the altars august the elders are shining supreme;
+And brittle and barren as dust is the spiritless secular dream.
 
-   It's life as a vapour shall end as a fog in the fall of the year;
-   For the Lord is a Father and Friend, and the day of His coming is near.
-
-
+It's life as a vapour shall end as a fog in the fall of the year;
+For the Lord is a Father and Friend, and the day of His coming is near.
 
 
 _In Memoriam_--Nicol Drysdale Stenhouse
-
 
 
    Shall he, on whom the fair lord, Delphicus,
@@ -12624,10 +11837,7 @@ _In Memoriam_--Nicol Drysdale Stenhouse
     The noble death which deifies the just.
 
 
-
-
 Rizpah
-
 
 
    Said one who led the spears of swarthy Gad,
@@ -12696,10 +11906,7 @@ Rizpah
    And cry, or brighten, over its contents.
 
 
-
-
 Kiama Revisited
-
 
 
    We stood by the window and hearkened
@@ -12793,10 +12000,7 @@ Kiama Revisited
     Of youth and no hope of repayment."
 
 
-
-
 Passing Away
-
 
 
    The spirit of beautiful faces,
@@ -12860,10 +12064,7 @@ Passing Away
                             Passing away!"
 
 
-
-
 James Lionel Michael
-
 
 
    Be his rest the rest he sought:
@@ -12942,10 +12143,7 @@ James Lionel Michael
       Death is sleep."
 
 
-
-
 Elijah
-
 
 
    Into that good old Hebrew's soul sublime
@@ -13012,11 +12210,11 @@ Elijah
 
                               "And she who missed
          A little mouth that used to catch and cling--
-         A small sweet trouble--at her yearning breast."
+A small sweet trouble--at her yearning breast."
 
-     The poem to which I am indebted is entitled "The Road to Avernus".
-     It is only fair that I should make this acknowledgment.--H.K.]
-  --
+The poem to which I am indebted is entitled "The Road to Avernus".
+It is only fair that I should make this acknowledgment.--H.K.]
+--
 
    We want a new Elijah in these days,
    A mighty spirit clad in shining arms
@@ -13042,10 +12240,7 @@ Elijah
    And pure and hallowed with authentic light.
 
 
-
-
 Manasseh
-
 
 
    Manasseh, lord of Judah, and the son
@@ -13183,13 +12378,10 @@ Manasseh
    And makes a man a pillar in the world.
 
 
-
-
 Caroline Chisholm
 
        "A perfect woman, nobly planned,
        To warn, to comfort, and command."
-
 
 
    The Priests and the Levites went forth, to feast at the courts of the Kings;
@@ -13202,12 +12394,12 @@ Caroline Chisholm
    Of the maiden who crouched to the ground with the madness of want in her eyes;
    And they muttered--"Few praises are earned
      when good hath been wrought in the dark;
-   While the backs of the people are turned, we choose not to loiter nor hark."
+While the backs of the people are turned, we choose not to loiter nor hark."
 
-   Moreover they said--"It is fair that our deeds in the daylight should shine:
-   If we feasted you, who would declare that we gave you our honey and wine."
-   They gathered up garments of gold, and they stepped with their delicate feet,
-   And the women who famished with cold, were left with the snow in the street.
+Moreover they said--"It is fair that our deeds in the daylight should shine:
+If we feasted you, who would declare that we gave you our honey and wine."
+They gathered up garments of gold, and they stepped with their delicate feet,
+And the women who famished with cold, were left with the snow in the street.
 
    The winds and the rains were abroad--the homeless looked vainly for alms;
    And they prayed in the dark to the Lord, with agony clenched in their palms,
@@ -13225,23 +12417,20 @@ Caroline Chisholm
      where the tears should be dried from their eyes.
 
    God's servant came forth from the South:  she told of a plentiful land;
-   And wisdom was set in her mouth, and strength in the thews of her hand.
-   She lifted them out of their fear, and they thought her their Moses and said:
-   "We shall follow you, sister, from here to the country of sunshine and bread."
+And wisdom was set in her mouth, and strength in the thews of her hand.
+She lifted them out of their fear, and they thought her their Moses and said:
+"We shall follow you, sister, from here to the country of sunshine and bread."
 
-   She fed them, and led them away, through tempest and tropical heat,
-   Till they reached the far regions of day, and sweet-scented spaces of wheat.
-   She hath made them a home with her hand,
-     and they bloom like the summery vines;
-   For they eat of the fat of the land, and drink of its glittering wines.
-
-
+She fed them, and led them away, through tempest and tropical heat,
+Till they reached the far regions of day, and sweet-scented spaces of wheat.
+She hath made them a home with her hand,
+and they bloom like the summery vines;
+For they eat of the fat of the land, and drink of its glittering wines.
 
 
 Mount Erebus
 
-   (A Fragment)
-
+(A Fragment)
 
 
    A mighty theatre of snow and fire,
@@ -13303,10 +12492,7 @@ Mount Erebus
    Whose lightnings make a terror of all Space.
 
 
-
-
 Our Jack
-
 
 
    Twelve years ago our Jack was lost.  All night,
@@ -13398,10 +12584,7 @@ Our Jack
    And listen for your hand upon the door?
 
 
-
-
 Camped by the Creek
-
 
 
    "All day a strong sun has been drinking
@@ -13465,8 +12648,6 @@ Camped by the Creek
     Grew far, and we heard it no more.
 
 
-
-
 Euterpe
 
   --
@@ -13475,8 +12656,7 @@ Euterpe
   --
 
 
-
-     Argument.
+Argument.
 
    Hail to thee, Sound!--The power of Euterpe in all the scenes of life--
    in religion; in works of charity; in soothing troubles by means of music;
@@ -13488,10 +12668,10 @@ Euterpe
    of the world.
 
 
-     Overture
+Overture
 
 
-        _No. 1   Chorus_
+_No. 1   Chorus_
 
    All hail to thee, Sound!  Since the time
     Calliope's son took the lyre,
@@ -13524,7 +12704,7 @@ Euterpe
     Yea, from lips and from fingers inspired.
 
 
-        _No. 2   Quartette and Chorus_
+_No. 2   Quartette and Chorus_
 
    When, in her sacred fanes
     God's daughter, sweet Religion, prays,
@@ -13536,7 +12716,7 @@ Euterpe
     And fill the place with hallowed light.
 
 
-        _No. 3   Soprano Solo_
+_No. 3   Soprano Solo_
 
    Yea, and when that meek-eyed maiden
     Men call Charity, comes fain
@@ -13548,10 +12728,10 @@ Euterpe
     Through Euterpe's wondrous tones.
 
 
-        _No. 4   Orchestral Intermezzo_
+_No. 4   Orchestral Intermezzo_
 
 
-        _No. 5   Chorus_
+_No. 5   Chorus_
 
    Beautiful is Sound devoted
     To all ends humane and high;
@@ -13574,10 +12754,10 @@ Euterpe
    Who seeks to win, or nobly fall, for home!
 
 
-        _No. 7   Triumphal March_
+_No. 7   Triumphal March_
 
 
-        _No. 8   Funeral Chorus_
+_No. 8   Funeral Chorus_
 
    Slowly and mournfully moves a procession,
     Wearing the signs
@@ -13603,7 +12783,7 @@ Euterpe
     The passionate accents of love.
 
 
-        _No. 10   Lullaby Song--Contralto_
+_No. 10   Lullaby Song--Contralto_
 
    The night-shades gather, and the sea
     Sends up a sound, sonorous, deep;
@@ -13624,7 +12804,7 @@ Euterpe
        To rest.
 
 
-        _No. 11   Waltz Chorus_
+_No. 11   Waltz Chorus_
 
    When the summer moon is beaming
    On the stirless waters dreaming,
@@ -13645,7 +12825,7 @@ Euterpe
     Where the sweet wild moss-bed lies.
 
 
-        _No. 12   Ballad--Tenor_
+_No. 12   Ballad--Tenor_
 
    When twilight glides with ghostly tread
     Across the western heights,
@@ -13696,7 +12876,7 @@ Euterpe
    Yes, jolly, my boys, to the end!
 
 
-        _No. 14   Recitative--Bass_
+_No. 14   Recitative--Bass_
 
    When far from friends, and home, and all the things
    That bind a man to life, how dear to him
@@ -13708,8 +12888,8 @@ Euterpe
    And borrowed splendour from autumnal suns.
 
 
-        _No. 15   Chorus
-        (The voices accompanied only by the violins playing_ "Home, Sweet Home".)
+_No. 15   Chorus
+(The voices accompanied only by the violins playing_ "Home, Sweet Home".)
 
    Then at sea, or in wild wood,
     Then ashore or afloat,
@@ -13725,7 +12905,7 @@ Euterpe
     In silence, in tears.
 
 
-        _No. 16   Solo--Bass_
+_No. 16   Solo--Bass_
 
    In the yellow flame of evening sounds of music come and go,
    Through the noises of the river, and the drifting of the snow;
@@ -13736,12 +12916,12 @@ Euterpe
    Even as a wondrous woman, struck with love and great desire,
    Hast thou been to us, EUTERPE, half of tears and half of fire;
    But thy joy is swift and fitful, and a subtle sense of pain
-   Sighs through thy melodious breathings, takes the rapture from thy strain.
-   In the yellow flame of evening sounds of music come and go.
-   Through the noises of the river, and the drifting of the snow.
+Sighs through thy melodious breathings, takes the rapture from thy strain.
+In the yellow flame of evening sounds of music come and go.
+Through the noises of the river, and the drifting of the snow.
 
 
-        _No. 17   Recitative--Soprano_
+_No. 17   Recitative--Soprano_
 
    And thus it is that Music manifold,
    In fanes, in Passion's sanctuaries, or where
@@ -13755,7 +12935,7 @@ Euterpe
    And gives more gladness to the gladdest things.
 
 
-        _No. 18   Finale--Chorus_
+_No. 18   Finale--Chorus_
 
    Now a vision comes, O brothers, blended
     With supremest sounds of harmony--
@@ -13782,10 +12962,7 @@ Euterpe
    And as grand as the music that builded old Troy.
 
 
-
-
 Sedan
-
 
 
    Another battle! and the sounds have rolled
@@ -13807,17 +12984,10 @@ Sedan
 [End of Early Poems, 1859-70.]
 
 
-
-
-
 OTHER POEMS, 1871-82
 
 
-
-
-
 Adam Lindsay Gordon
-
 
 
    At rest!  Hard by the margin of that sea
@@ -13881,10 +13051,7 @@ Adam Lindsay Gordon
    And strained in vain to hear the going voice.
 
 
-
-
 In Memory of Edward Butler
-
 
 
    A voice of grave, deep emphasis
@@ -13987,10 +13154,7 @@ In Memory of Edward Butler
     Beside an Irish stream.
 
 
-
-
 How the Melbourne Cup was Won
-
 
 
    In the beams of a beautiful day,
@@ -14066,10 +13230,7 @@ How the Melbourne Cup was Won
     To show the road home to them all!
 
 
-
-
 Blue Mountain Pioneers
-
 
 
    The dauntless three!  For twenty days and nights
@@ -14092,14 +13253,11 @@ Blue Mountain Pioneers
    Was as a voice of splendid prophecy.
 
 
-
-
 Robert Parkes
 
   --
    * Son of Sir Henry Parkes.
   --
-
 
 
    High travelling winds by royal hill
@@ -14233,10 +13391,7 @@ Robert Parkes
     Beside the mountain lea.
 
 
-
-
 At Her Window
-
 
 
    To-night a strong south wind in thunder sings
@@ -14326,10 +13481,7 @@ At Her Window
    The dreadful portion of a drunkard's home.
 
 
-
-
 William Bede Dalley
-
 
 
    That love of letters which is as the light
@@ -14373,13 +13525,10 @@ William Bede Dalley
     As radiant as a rich, unhandled rose.
 
 
-
-
 To the Spirit of Music
 
 
-
-     I
+I
 
    The cool grass blowing in a breeze
     Of April valleys sooms and sways;
@@ -14424,7 +13573,7 @@ To the Spirit of Music
     I faint afar off, and alone.
 
 
-     II
+II
 
    In hills where the keen Thessalonian
     Made clamour with horse and with horn,
@@ -14458,7 +13607,7 @@ To the Spirit of Music
     And faultless as moon-litten flowers.
 
 
-     III
+III
 
    Lady of a land of wonder,
     Daughter of the hill supernal,
@@ -14531,10 +13680,7 @@ To the Spirit of Music
     Robed with strange new majesty.
 
 
-
-
 John Dunmore Lang
-
 
 
    The song that is last of the many
@@ -14574,12 +13720,9 @@ John Dunmore Lang
     Bring sorrow again unto thee.
 
 
-
-
 On a Baby Buried by the Hawkesbury
 
-        [_Lines sent to a Young Mother._]
-
+[_Lines sent to a Young Mother._]
 
 
    A grace that was lent for a very few hours,
@@ -14601,10 +13744,7 @@ On a Baby Buried by the Hawkesbury
     By the banks of the beautiful river.
 
 
-
-
 Song of the Shingle-Splitters
-
 
 
    In dark wild woods, where the lone owl broods
@@ -14659,10 +13799,7 @@ Song of the Shingle-Splitters
         In the shingle-splitter's home.
 
 
-
-
 On a Street
-
 
 
    I dread that street--its haggard face
@@ -14783,10 +13920,7 @@ On a Street
     The scholar on the tap-room floor.
 
 
-
-
 Heath from the Highlands
-
 
 
    Here, where the great hills fall away
@@ -14880,13 +14014,10 @@ Heath from the Highlands
     Of grand old Robert Bruce.
 
 
-
-
 The Austral Months
 
 
-
-     January
+January
 
    The first fair month!  In singing Summer's sphere
    She glows, the eldest daughter of the year.
@@ -14900,7 +14031,7 @@ The Austral Months
    Are eloquent with splendid prophecies.
 
 
-     February
+February
 
    The bright-haired, blue-eyed last of Summer.  Lo,
    Her clear song lives in all the winds that blow;
@@ -14922,7 +14053,7 @@ The Austral Months
    Sweet face whose memory beams through all the year.
 
 
-     March
+March
 
    Clear upland voices, full of wind and stream,
    Greet March, the sister of the flying beam
@@ -14942,7 +14073,7 @@ The Austral Months
    Rings loud the grand speech from the equinox.
 
 
-     April
+April
 
    The darling of Australia's Autumn--now
    Down dewy dells the strong, swift torrents flow!
@@ -14962,7 +14093,7 @@ The Austral Months
    The crowning grace of all the grace that is.
 
 
-     May
+May
 
    Now sings a cool, bland wind, where falls and flows
    The runnel by the grave of last year's rose;
@@ -14982,7 +14113,7 @@ The Austral Months
    A tender heat that keeps the life in things.
 
 
-     June
+June
 
    Not like that month when, in imperial space,
    The high, strong sun stares at the white world's face;
@@ -15002,7 +14133,7 @@ The Austral Months
    Shine, full of stars, on lands of frosty lights.
 
 
-     July
+July
 
    High travelling winds, filled with the strong storm's soul,
    Are here, with dark, strange sayings from the Pole;
@@ -15022,7 +14153,7 @@ The Austral Months
    Is never faultless light or perfect rest.
 
 
-     August
+August
 
    Across the range, by every scarred black fell,
    Strong Winter blows his horn of wild farewell;
@@ -15042,11 +14173,11 @@ The Austral Months
    She sheds a mist of blossoms on the peach.
 
 
-     [For September, see p. 70.]  {In this etext, search for
-     "September in Australia", in "Leaves from Australian Forests".--A. L.}
+[For September, see p. 70.]  {In this etext, search for
+"September in Australia", in "Leaves from Australian Forests".--A. L.}
 
 
-     October
+October
 
    Where fountains sing and many waters meet,
    October comes with blossom-trammelled feet.
@@ -15066,7 +14197,7 @@ The Austral Months
    They tell the story in surpassing song.
 
 
-     November
+November
 
    Now beats the first warm pulse of Summer--now
    There shines great glory on the mountain's brow.
@@ -15086,7 +14217,7 @@ The Austral Months
    Has lent its lustre to her soft bright eyes.
 
 
-     December
+December
 
    The month whose face is holiness!  She brings
    With her the glory of majestic things.
@@ -15106,10 +14237,7 @@ The Austral Months
    High music lives--the place is holy land!
 
 
-
-
 Aboriginal Death-Song
-
 
 
    Feet of the flying, and fierce
@@ -15163,10 +14291,7 @@ Aboriginal Death-Song
     Matted and mangled and red.
 
 
-
-
 Sydney Harbour
-
 
 
    Where Hornby, like a mighty fallen star,
@@ -15224,10 +14349,7 @@ Sydney Harbour
    Which showed his soul the far Hesperides.
 
 
-
-
 A Birthday Trifle
-
 
 
    Here in this gold-green evening end,
@@ -15258,10 +14380,7 @@ A Birthday Trifle
     All grace and chastened shine!
 
 
-
-
 Frank Denz
-
 
 
    In the roar of the storm, in the wild bitter voice of the tempest-whipped sea,
@@ -15288,27 +14407,27 @@ Frank Denz
    In the boat I was ordered to go--I was not more afraid than the rest,
    But a husband will falter, you know, with the love of his life at his breast;
    My captain was angry a space, but soon he grew tender in tone--
-   Perhaps there had flashed by his face a wife and a child of his own.
+Perhaps there had flashed by his face a wife and a child of his own.
 
-   I was weak for some moments, and cried; but only one hope was in life;
-   The hood upon baby I tied--I fastened the shawl on my wife.
-   The skipper took charge of the child--he stuck to his word till the last;
-   But only this hood on the wild, bitter shore of the sea had been cast.
+I was weak for some moments, and cried; but only one hope was in life;
+The hood upon baby I tied--I fastened the shawl on my wife.
+The skipper took charge of the child--he stuck to his word till the last;
+But only this hood on the wild, bitter shore of the sea had been cast.
 
    In the place of a coward, who shook like a leaf in the quivering boat,
    A seat by the rowlocks I took; but the sea had me soon by the throat,
    The surge gripped me fast by the neck--in a ring, and a roll, and a roar,
-   I was cast like a piece of the wreck, on a bleak, beaten, shelterless shore.
+I was cast like a piece of the wreck, on a bleak, beaten, shelterless shore.
 
-   And there were my darlings on board for the rest of that terrible day,
-   And I watched and I prayed to the Lord, as never before I could pray.
+And there were my darlings on board for the rest of that terrible day,
+And I watched and I prayed to the Lord, as never before I could pray.
    The windy hills stared at the black, heavy clouds coming over the wave;
    My girl was expecting me back, but where was my power to save?
 
    Ah! where was my power, when Death was glaring at me from the reef?
-   I cried till I gasped for my breath, aloof with a maddening grief.
-   We couldn't get back to the deck:  I wanted to go, but the sea
-   Dashed over the sides of the wreck, and carried my darling from me.
+I cried till I gasped for my breath, aloof with a maddening grief.
+We couldn't get back to the deck:  I wanted to go, but the sea
+Dashed over the sides of the wreck, and carried my darling from me.
 
    Oh, girl that I took by the hand to the altar two summers ago,
    I would you were buried on land--my dear, it would comfort me so!
@@ -15326,26 +14445,23 @@ Frank Denz
    But lost is the beautiful head; the cradle is tenantless now!
 
    My home was all morning and glow when wife and her baby were there,
-   But, ah! it is saddened, you know, by dresses my girl used to wear.
-   I cannot re-enter the door; its threshold can never be crossed,
-   For fear I should see on the floor the shoes of the child I have lost.
+But, ah! it is saddened, you know, by dresses my girl used to wear.
+I cannot re-enter the door; its threshold can never be crossed,
+For fear I should see on the floor the shoes of the child I have lost.
 
    There were three of us once in the world; but two are deep down in the sea,
    Where waif and where tangle are hurled--the two that were portions of me;
    They are far from me now, but I hear, when hushed are the night and the tide,
-   The voice of my little one near--the step of my wife by my side.
-
-
+The voice of my little one near--the step of my wife by my side.
 
 
 Sydney Exhibition Cantata
 
 
+Part I
 
-     Part I
 
-
-        _Chorus_
+_Chorus_
 
    Songs of morning, with your breath
    Sing the darkness now to death;
@@ -15359,7 +14475,7 @@ Sydney Exhibition Cantata
     Put your brightest garments on.
 
 
-        _Recitative and Chorus_
+_Recitative and Chorus_
 
    Lo, they come--the lords unknown,
    Sons of Peace, from every zone!
@@ -15373,7 +14489,7 @@ Sydney Exhibition Cantata
    Sons of generous sires in you.
 
 
-        _Solo--Tenor_
+_Solo--Tenor_
 
    By the days that sound afar,
    Sound, and shine like star by star;
@@ -15387,10 +14503,10 @@ Sydney Exhibition Cantata
    Glow like morning in your face.
 
 
-     Part II
+Part II
 
 
-        _Solo--Bass_
+_Solo--Bass_
 
    Where now a radiant city stands,
     The dark oak used to wave,
@@ -15402,7 +14518,7 @@ Sydney Exhibition Cantata
     A hundred years ago.
 
 
-        _Solo--Alto_
+_Solo--Alto_
 
    Upon the hills that blaze to-day
     With splendid dome and spire,
@@ -15414,7 +14530,7 @@ Sydney Exhibition Cantata
     A hundred years ago.
 
 
-        _Solo--Soprano_
+_Solo--Soprano_
 
    Ah! haply on some mossy slope,
     Against the shining springs,
@@ -15426,10 +14542,10 @@ Sydney Exhibition Cantata
     A hundred years ago.
 
 
-     Part III
+Part III
 
 
-        _Children_
+_Children_
 
    A gracious morning on the hills of wet
    And wind and mist her glittering feet has set;
@@ -15439,7 +14555,7 @@ Sydney Exhibition Cantata
    On gold-green lands where waved funereal pines.
 
 
-        _Solo--Soprano_
+_Solo--Soprano_
 
    And hence a fair dream goes before our gaze,
    And lifts the skirts of the hereafter days,
@@ -15447,10 +14563,10 @@ Sydney Exhibition Cantata
    The splendid marvel of the years to be.
 
 
-     Part IV
+Part IV
 
 
-        _Basses and Chorus_
+_Basses and Chorus_
 
    Father, All-Bountiful, humbly we bend to Thee;
     Heads are uncovered in sight of Thy face.
@@ -15462,12 +14578,9 @@ Sydney Exhibition Cantata
     Now and for evermore, world without end!
 
 
-
-
 Hymn of Praise
 
-   [_Closing of Sydney International Exhibition._]
-
+[_Closing of Sydney International Exhibition._]
 
 
    Encompassed by the psalm of hill and stream,
@@ -15501,10 +14614,7 @@ Hymn of Praise
    Whose immemorial mercy has no end.
 
 
-
-
 Basil Moss
-
 
 
    Sing, mountain-wind, thy strong, superior song--
@@ -15685,64 +14795,61 @@ Basil Moss
    Of what the angels call humanity.
 
 
-
-
 Hunted Down
 
 
-
-   Two years had the tiger, whose shape was that of a sinister man,
-   Been out since the night of escape--two years under horror and ban.
-   In a time full of thunder and rain, when hurricanes hackled the tree,
-   He slipt through the sludge of a drain, and swam a fierce fork of the sea.
+Two years had the tiger, whose shape was that of a sinister man,
+Been out since the night of escape--two years under horror and ban.
+In a time full of thunder and rain, when hurricanes hackled the tree,
+He slipt through the sludge of a drain, and swam a fierce fork of the sea.
    Through the roar of the storm, and the ring
      and the wild savage whistle of hail,
    Did this naked, whipt, desperate thing
      break loose from the guards of the gaol.
    And breasting the foam of the bay, and facing the fangs of the bight,
-   With a great cruel cry on his way, he dashed through the darkness of night.
+With a great cruel cry on his way, he dashed through the darkness of night.
 
-   But foiled was the terror of fin, and baffled the strength of the tide,
-   For a devil supported his chin and a fiend kept a watch at his side.
-   And hands of iniquity drest the hellish hyena, and gave
-   Him food in the hills of the west--in cells of indefinite cave.
-   Then, strengthened and weaponed, this peer
-     of the brute, on the track of its prey,
-   Sprang out, and shed sorrow and fear through the beautiful fields of the day.
-   And pillage and murder, and worse, swept peace from the face of the land--
-   The black, bitter work of this curse with the blood on his infamous hand.
+But foiled was the terror of fin, and baffled the strength of the tide,
+For a devil supported his chin and a fiend kept a watch at his side.
+And hands of iniquity drest the hellish hyena, and gave
+Him food in the hills of the west--in cells of indefinite cave.
+Then, strengthened and weaponed, this peer
+of the brute, on the track of its prey,
+Sprang out, and shed sorrow and fear through the beautiful fields of the day.
+And pillage and murder, and worse, swept peace from the face of the land--
+The black, bitter work of this curse with the blood on his infamous hand.
 
-   But wolf of the hills at the end--chased back to the depths of his lair--
-   Had horror for neighbour and friend--he supped in the dark with despair.
-   A whisper of leaf or a breath of the wind in the watch of the night
-   Was ever as message of death to this devil bent double with fright.
-   For now were the hunters abroad; and the fiend like an adder at bay,
-   Cast out of the sight of the Lord, in the folds of his fastnesses lay.
-   Yea, skulking in pits of the slime--in venomous dens of eclipse--
-   He cowered and bided his time, with the white malice set on his lips.
+But wolf of the hills at the end--chased back to the depths of his lair--
+Had horror for neighbour and friend--he supped in the dark with despair.
+A whisper of leaf or a breath of the wind in the watch of the night
+Was ever as message of death to this devil bent double with fright.
+For now were the hunters abroad; and the fiend like an adder at bay,
+Cast out of the sight of the Lord, in the folds of his fastnesses lay.
+Yea, skulking in pits of the slime--in venomous dens of eclipse--
+He cowered and bided his time, with the white malice set on his lips.
 
-   Two years had his shadow been cast in forest, on highway, and run;
-   But Nemesis tracked him at last, and swept him from under the sun.
+Two years had his shadow been cast in forest, on highway, and run;
+But Nemesis tracked him at last, and swept him from under the sun.
    Foul felons in chains were ashamed to speak of the bloodthirsty thing
    Who lived, like a panther inflamed, the life that no singer can sing--
    Who butchered one night in the wild three women, a lad, and a maid,
    And cut the sweet throat of a child--its mother's pure blood on his blade!
    But over the plains and away by the range and the forested lake,
-   Rode hard, for a week and a day, the terrible tracker, Dick Blake.
+Rode hard, for a week and a day, the terrible tracker, Dick Blake.
 
-   Dick Blake had the scent of a hound, the eye of a lynx, and could track
-   Where never a sign on the ground or the rock could be seen by the black.
-   A rascal at large, when he heard that Blake was out hard at his heels,
-   Felt just as the wilderness bird, in the snare fettered hopelessly, feels.
+Dick Blake had the scent of a hound, the eye of a lynx, and could track
+Where never a sign on the ground or the rock could be seen by the black.
+A rascal at large, when he heard that Blake was out hard at his heels,
+Felt just as the wilderness bird, in the snare fettered hopelessly, feels.
    And, hence, when the wolf with the brand of Cain written thrice on his face,
    Knew terrible Dick was at hand, he slunk like a snake to his place--
    To the depths of his kennel he crept, far back in the passages dim;
-   But Blake and his mates never slept; they hunted and listened for him.
+But Blake and his mates never slept; they hunted and listened for him.
 
-   The mountains were many, but he who had captured big Terrigal Bill,
-   The slayer of Hawkins and Lee, found tracks by a conical hill.
-   There were three in the party--no more:  Dick Blake and his brother, and one
-   Who came from a far-away shore, called here by the blood of his son.
+The mountains were many, but he who had captured big Terrigal Bill,
+The slayer of Hawkins and Lee, found tracks by a conical hill.
+There were three in the party--no more:  Dick Blake and his brother, and one
+Who came from a far-away shore, called here by the blood of his son.
    Two nights and two days did they wait on the trail of the curst of all men;
    But on the third morning a fate led Dick to the door of the den;
    And a thunder ran up from the south and smote all the woods into sound;
@@ -15751,17 +14858,14 @@ Hunted Down
    But the answer was blue, bitter lead, and the brother of Dick, with a cry,
    Fell back, and the storm overhead set night like a seal on the sky;
    And the strength of the hurricane tore asunder hill-turrets uphurled;
-   And a rushing of rain and a roar made wan the green widths of the world.
-   The flame, and the roll, and the ring, and the hiss of the thunder and hail
-   Set fear on the face of the Spring laid bare to the arrow of gale.
-   But here in the flash and the din, in the cry of the mountain and wave,
-   Dick Blake, through the shadow, dashed in and strangled the wolf in his cave.
-
-
+And a rushing of rain and a roar made wan the green widths of the world.
+The flame, and the roll, and the ring, and the hiss of the thunder and hail
+Set fear on the face of the Spring laid bare to the arrow of gale.
+But here in the flash and the din, in the cry of the mountain and wave,
+Dick Blake, through the shadow, dashed in and strangled the wolf in his cave.
 
 
 Wamberal
-
 
 
    Just a shell, to which the seaweed glittering yet with greenness clings,
@@ -15774,11 +14878,11 @@ Wamberal
    Of the great ingathering waters thundering under Wamberal!
 
    Back there are the pondering mountains; there the dim, dumb ranges loom--
-   Ghostly shapes in dead grey vapour--half-seen peaks august with gloom.
-   There the voice of troubled torrents, hidden in unfathomed deeps,
-   Known to moss and faint green sunlight, wanders down the oozy steeps.
-   There the lake of many runnels nestles in a windless wild
-   Far amongst thick-folded forests, like a radiant human child.
+Ghostly shapes in dead grey vapour--half-seen peaks august with gloom.
+There the voice of troubled torrents, hidden in unfathomed deeps,
+Known to moss and faint green sunlight, wanders down the oozy steeps.
+There the lake of many runnels nestles in a windless wild
+Far amongst thick-folded forests, like a radiant human child.
    And beyond surf-smitten uplands--high above the highest spur--
    Lo! the clouds like tents of tempest on the crags of Kincumber!
 
@@ -15801,15 +14905,13 @@ Wamberal
    Face that you and I may look on (friend and brother) nevermore!
 
    Seasons come with tender solace--time lacks neither light nor rest;
-   But the old thoughts were such _dear_ ones, and the old days seem the best.
-   And to those who've loved and suffered, every pulse of wind or rain--
-   Every song with sadness in it, brings the peopled Past again.
+But the old thoughts were such _dear_ ones, and the old days seem the best.
+And to those who've loved and suffered, every pulse of wind or rain--
+Every song with sadness in it, brings the peopled Past again.
    Therefore, just this shell yet dripping, with this weed of green and grey,
    Sets me thinking--sets me dreaming of the places far away;
    Dreaming of the golden rockpools--of the foreland and the fall;
-   And the home behind the mountains looming over Wamberal.
-
-
+And the home behind the mountains looming over Wamberal.
 
 
 _In Memoriam_--Alice Fane Gunn Stenhouse
@@ -15817,7 +14919,6 @@ _In Memoriam_--Alice Fane Gunn Stenhouse
   --
    * Daughter of Nicol Drysdale Stenhouse.
   --
-
 
 
    The grand, authentic songs that roll
@@ -15991,14 +15092,11 @@ _In Memoriam_--Alice Fane Gunn Stenhouse
     To suffer, and be strong.
 
 
-
-
 From the Forests
 
-  --
-   * Introductory verses for "The Sydney University Review", 1881.
-  --
-
+--
+* Introductory verses for "The Sydney University Review", 1881.
+--
 
 
    Where in a green, moist, myrtle dell
@@ -16062,14 +15160,11 @@ From the Forests
     In yonder mountain place.
 
 
-
-
 John Bede Polding
 
   --
    * Roman Catholic Archbishop of Sydney
   --
-
 
 
    With reverent eyes and bowed, uncovered head,
@@ -16193,10 +15288,7 @@ John Bede Polding
     Who kneels to plant this blossom on your grave.
 
 
-
-
 Outre Mer
-
 
 
    I see, as one in dreaming,
@@ -16242,387 +15334,12 @@ Outre Mer
 [End of Other Poems, 1871-82.]
 
 
+Note on corrections made:  Less than a dozen errors were corrected, mostly punctuation, and one incorrect letter.  However, one correction is in question.  On p. 339 of this 1920 edition, or in this etext, the 1st line of the 9th stanza of "On a Street", the copy reads:
 
+I tell you, this not a tale
 
+which is neither grammatically nor rhythmically correct, for the poem in question.  It has been corrected as:
 
-Note on corrections made:  Less than a dozen errors were corrected,
-mostly punctuation, and one incorrect letter.  However, one correction
-is in question.  On p. 339 of this 1920 edition, or in this etext,
-the 1st line of the 9th stanza of "On a Street", the copy reads:
+I tell you, this is not a tale
 
-  I tell you, this not a tale
-
-which is neither grammatically nor rhythmically correct,
-for the poem in question.  It has been corrected as:
-
-  I tell you, this is not a tale
-
-which is probably correct.  As this is the most serious error
-noticed in the text, I trust the reader will find the whole
-to be satisfactory.--A. L.
-
-
-
-
-
-End of Project Gutenberg's The Poems of Henry Kendall, by Henry Kendall
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE POEMS OF HENRY KENDALL ***
-
-***** This file should be named 962.txt or 962.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/9/6/962/
-
-Produced by Alan R. Light
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+which is probably correct.  As this is the most serious error noticed in the text, I trust the reader will find the whole to be satisfactory.--A. L.

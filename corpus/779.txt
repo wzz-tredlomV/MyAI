@@ -1,29 +1,3 @@
-﻿The Project Gutenberg eBook of The Tragical History of Dr. Faustus, by Christoper Marlowe
-
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org. If you are not located in the United States, you
-will have to check the laws of the country where you are located before
-using this eBook.
-
-Title: The Tragical History of Dr. Faustus
-
-Author: Christoper Marlowe
-
-Release Date: January, 1997 [eBook #779]
-[Most recently updated: November 18, 2023]
-
-Language: English
-
-Produced by: Gary R. Young
-
-*** START OF THE PROJECT GUTENBERG EBOOK THE TRAGICAL HISTORY OF DOCTOR FAUSTUS ***
-
-
-
-
 THE TRAGICAL HISTORY OF DOCTOR FAUSTUS
 
 By Christopher Marlowe
@@ -33,18 +7,12 @@ From The Quarto of 1604
 Edited by The Rev. Alexander Dyce
 
 
-
-
 THE TRAGICALL HISTORY OF D. FAUSTUS.  AS IT HATH BENE ACTED
 BY THE RIGHT HONORABLE THE EARLE OF NOTTINGHAM HIS SERUANTS.
 WRITTEN BY CH. MARL.
 
-In reprinting this edition, I have here and there amended the text
-by means of the later 4tos,--1616, 1624, 1631.--Of 4to 1663, which
-contains various comparatively modern alterations and additions,
+In reprinting this edition, I have here and there amended the text by means of the later 4tos,--1616, 1624, 1631.--Of 4to 1663, which contains various comparatively modern alterations and additions,
 I have made no use.
-
-
 
 
 DRAMATIS PERSONAE.
@@ -81,15 +49,12 @@ DRAMATIS PERSONAE.
      Chorus.
 
 
-
-
-
 THE TRAGICAL HISTORY OF DOCTOR FAUSTUS
 
 FROM THE QUARTO OF 1604.
 
 
-          Enter CHORUS.
+Enter CHORUS.
 
      CHORUS. Not marching now in fields of Thrasymene,
      Where Mars did mate[1] the Carthaginians;
@@ -198,9 +163,9 @@ FROM THE QUARTO OF 1604.
      But his dominion that exceeds in this,
      Stretcheth as far as doth the mind of man;
      A sound magician is a mighty god:
-     Here, Faustus, tire[21] thy brains to gain a deity.
+Here, Faustus, tire[21] thy brains to gain a deity.
 
-          Enter WAGNER.[22]
+Enter WAGNER.[22]
 
      Wagner, commend me to my dearest friends,
      The German Valdes and Cornelius;
@@ -332,17 +297,17 @@ FROM THE QUARTO OF 1604.
      FIRST SCHOLAR. I wonder what's become of Faustus, that was wont
      to make our schools ring with sic probo.
 
-     SECOND SCHOLAR. That shall we know, for see, here comes his boy.
+SECOND SCHOLAR. That shall we know, for see, here comes his boy.
 
-          Enter WAGNER.
+Enter WAGNER.
 
-     FIRST SCHOLAR. How now, sirrah! where's thy master?
+FIRST SCHOLAR. How now, sirrah! where's thy master?
 
-     WAGNER. God in heaven knows.
+WAGNER. God in heaven knows.
 
-     SECOND SCHOLAR. Why, dost not thou know?
+SECOND SCHOLAR. Why, dost not thou know?
 
-     WAGNER. Yes, I know; but that follows not.
+WAGNER. Yes, I know; but that follows not.
 
      FIRST SCHOLAR. Go to, sirrah! leave your jesting, and tell us
      where he is.
@@ -373,17 +338,17 @@ FROM THE QUARTO OF 1604.
      Truly, my dear brethren, my master is within at dinner,
      with Valdes and Cornelius, as this wine, if it could speak,
      would[46] inform your worships:  and so, the Lord bless you,
-     preserve you, and keep you, my dear brethren, my dear brethren![47]
-          [Exit.]
+preserve you, and keep you, my dear brethren, my dear brethren![47]
+[Exit.]
 
      FIRST SCHOLAR. Nay, then, I fear he is fallen into that damned art
      for which they two are infamous through the world.
 
      SECOND SCHOLAR. Were he a stranger, and not allied to me, yet should
      I grieve for him. But, come, let us go and inform the Rector,
-     and see if he by his grave counsel can reclaim him.
+and see if he by his grave counsel can reclaim him.
 
-     FIRST SCHOLAR. O, but I fear me nothing can reclaim him!
+FIRST SCHOLAR. O, but I fear me nothing can reclaim him!
 
      SECOND SCHOLAR. Yet let us try what we can do.
           [Exeunt.]
@@ -430,9 +395,9 @@ FROM THE QUARTO OF 1604.
      That canst command great Mephistophilis:
      Quin regis Mephistophilis fratris imagine.
 
-          Re-enter MEPHISTOPHILIS like a Franciscan friar.[54]
+Re-enter MEPHISTOPHILIS like a Franciscan friar.[54]
 
-     MEPHIST. Now, Faustus, what wouldst thou have me do?
+MEPHIST. Now, Faustus, what wouldst thou have me do?
 
      FAUSTUS. I charge thee wait upon me whilst I live,
      To do whatever Faustus shall command,
@@ -447,9 +412,9 @@ FROM THE QUARTO OF 1604.
 
      MEPHIST. No, I came hither[55] of mine own accord.
 
-     FAUSTUS. Did not my conjuring speeches raise thee? speak.
+FAUSTUS. Did not my conjuring speeches raise thee? speak.
 
-     MEPHIST. That was the cause, but yet per accidens;[56]
+MEPHIST. That was the cause, but yet per accidens;[56]
      For, when we hear one rack the name of God,
      Abjure the Scriptures and his Saviour Christ,
      We fly, in hope to get his glorious soul;
@@ -473,9 +438,9 @@ FROM THE QUARTO OF 1604.
 
      FAUSTUS. Was not that Lucifer an angel once?
 
-     MEPHIST. Yes, Faustus, and most dearly lov'd of God.
+MEPHIST. Yes, Faustus, and most dearly lov'd of God.
 
-     FAUSTUS. How comes it, then, that he is prince of devils?
+FAUSTUS. How comes it, then, that he is prince of devils?
 
      MEPHIST. O, by aspiring pride and insolence;
      For which God threw him from the face of heaven.
@@ -562,7 +527,7 @@ FROM THE QUARTO OF 1604.
 
      CLOWN. How, in verse?
 
-     WAGNER. No, sirrah; in beaten silk and staves-acre.[69]
+WAGNER. No, sirrah; in beaten silk and staves-acre.[69]
 
      CLOWN. How, how, knaves-acre! ay, I thought that was all the land
      his father left him.  Do you hear?  I would be sorry to rob you of
@@ -582,12 +547,12 @@ FROM THE QUARTO OF 1604.
      familiar with me already:  swowns, they are as bold with my flesh
      as if they had paid for their[72] meat and drink.
 
-     WAGNER. Well, do you hear, sirrah? hold, take these guilders.
-          [Gives money.]
+WAGNER. Well, do you hear, sirrah? hold, take these guilders.
+[Gives money.]
 
-     CLOWN. Gridirons! what be they?
+CLOWN. Gridirons! what be they?
 
-     WAGNER. Why, French crowns.
+WAGNER. Why, French crowns.
 
      CLOWN. Mass, but for the name of French crowns, a man were as good
      have as many English counters.  And what should I do with these?
@@ -611,10 +576,10 @@ FROM THE QUARTO OF 1604.
      CLOWN. Let your Baliol and your Belcher come here, and I'll
      knock them, they were never so knocked since they were devils:
      say I should kill one of them, what would folks say?  "Do ye see
-     yonder tall fellow in the round slop?[73] he has killed the devil."
-     So I should be called Kill-devil all the parish over.
+yonder tall fellow in the round slop?[73] he has killed the devil."
+So I should be called Kill-devil all the parish over.
 
-          Enter two DEVILS; and the CLOWN runs up and down crying.
+Enter two DEVILS; and the CLOWN runs up and down crying.
 
      WAGNER. Baliol and Belcher,--spirits, away!
           [Exeunt DEVILS.]
@@ -635,16 +600,16 @@ FROM THE QUARTO OF 1604.
      CLOWN. How! a Christian fellow to a dog, or a cat, a mouse,
      or a rat! no, no, sir; if you turn me into any thing, let it be
      in the likeness of a little pretty frisking flea, that I may be
-     here and there and every where:  O, I'll tickle the pretty wenches'
-     plackets!  I'll be amongst them, i'faith.
+here and there and every where:  O, I'll tickle the pretty wenches'
+plackets!  I'll be amongst them, i'faith.
 
-     WAGNER. Well, sirrah, come.
+WAGNER. Well, sirrah, come.
 
-     CLOWN. But, do you hear, Wagner?
+CLOWN. But, do you hear, Wagner?
 
-     WAGNER. How!--Baliol and Belcher!
+WAGNER. How!--Baliol and Belcher!
 
-     CLOWN. O Lord!  I pray, sir, let Banio and Belcher go sleep.
+CLOWN. O Lord!  I pray, sir, let Banio and Belcher go sleep.
 
      WAGNER. Villain, call me Master Wagner, and let thy left eye be
      diametarily fixed upon my right heel, with quasi vestigiis
@@ -674,19 +639,19 @@ FROM THE QUARTO OF 1604.
 
           Enter GOOD ANGEL and EVIL ANGEL.
 
-     GOOD ANGEL. Sweet Faustus, leave that execrable art.
+GOOD ANGEL. Sweet Faustus, leave that execrable art.
 
-     FAUSTUS. Contrition, prayer, repentance--what of them?
+FAUSTUS. Contrition, prayer, repentance--what of them?
 
-     GOOD ANGEL. O, they are means to bring thee unto heaven!
+GOOD ANGEL. O, they are means to bring thee unto heaven!
 
      EVIL ANGEL. Rather illusions, fruits of lunacy,
      That make men foolish that do trust them most.
 
-     GOOD ANGEL. Sweet Faustus, think of heaven and heavenly things.
+GOOD ANGEL. Sweet Faustus, think of heaven and heavenly things.
 
-     EVIL ANGEL. No, Faustus; think of honour and of[76] wealth.
-          [Exeunt ANGELS.]
+EVIL ANGEL. No, Faustus; think of honour and of[76] wealth.
+[Exeunt ANGELS.]
 
      FAUSTUS. Of wealth!
      Why, the signiory of Embden shall be mine.
@@ -701,10 +666,10 @@ FROM THE QUARTO OF 1604.
 
      Now tell me[77] what says Lucifer, thy lord?
 
-     MEPHIST. That I shall wait on Faustus whilst he lives,[78]
-     So he will buy my service with his soul.
+MEPHIST. That I shall wait on Faustus whilst he lives,[78]
+So he will buy my service with his soul.
 
-     FAUSTUS. Already Faustus hath hazarded that for thee.
+FAUSTUS. Already Faustus hath hazarded that for thee.
 
      MEPHIST. But, Faustus, thou must bequeath it solemnly,
      And write a deed of gift with thine own blood;
@@ -718,9 +683,9 @@ FROM THE QUARTO OF 1604.
 
      FAUSTUS. Is that the reason why[79] he tempts us thus?
 
-     MEPHIST. Solamen miseris socios habuisse doloris.[80]
+MEPHIST. Solamen miseris socios habuisse doloris.[80]
 
-     FAUSTUS. Why,[81] have you any pain that torture[82] others!
+FAUSTUS. Why,[81] have you any pain that torture[82] others!
 
      MEPHIST. As great as have the human souls of men.
      But, tell me, Faustus, shall I have thy soul?
@@ -747,8 +712,8 @@ FROM THE QUARTO OF 1604.
      FAUSTUS. Ay, so I will [Writes].  But, Mephistophilis,
      My blood congeals, and I can write no more.
 
-     MEPHIST. I'll fetch thee fire to dissolve it straight.
-          [Exit.]
+MEPHIST. I'll fetch thee fire to dissolve it straight.
+[Exit.]
 
      FAUSTUS. What might the staying of my blood portend?
      Is it unwilling I should write this bill?[84]
@@ -757,9 +722,9 @@ FROM THE QUARTO OF 1604.
      Why shouldst thou not? is not thy soul shine own?
      Then write again, FAUSTUS GIVES TO THEE HIS SOUL.
 
-          Re-enter MEPHISTOPHILIS with a chafer of coals.
+Re-enter MEPHISTOPHILIS with a chafer of coals.
 
-     MEPHIST. Here's fire; come, Faustus, set it on.[85]
+MEPHIST. Here's fire; come, Faustus, set it on.[85]
 
      FAUSTUS. So, now the blood begins to clear again;
      Now will I make an end immediately.
@@ -777,20 +742,20 @@ FROM THE QUARTO OF 1604.
      I see it plain; here in this place is writ,
      Homo, fuge:  yet shall not Faustus fly.
 
-     MEPHIST. I'll fetch him somewhat to delight his mind.
-          [Aside, and then exit.]
+MEPHIST. I'll fetch him somewhat to delight his mind.
+[Aside, and then exit.]
 
-          Re-enter MEPHISTOPHILIS with DEVILS, who give crowns
-          and rich apparel to FAUSTUS, dance, and then depart.
+Re-enter MEPHISTOPHILIS with DEVILS, who give crowns
+and rich apparel to FAUSTUS, dance, and then depart.
 
-     FAUSTUS. Speak, Mephistophilis, what means this show?
+FAUSTUS. Speak, Mephistophilis, what means this show?
 
      MEPHIST. Nothing, Faustus, but to delight thy mind withal,
      And to shew thee what magic can perform.
 
      FAUSTUS. But may I raise up spirits when I please?
 
-     MEPHIST. Ay, Faustus, and do greater things than these.
+MEPHIST. Ay, Faustus, and do greater things than these.
 
      FAUSTUS. Then there's enough for a thousand souls.
      Here, Mephistophilis, receive this scroll,
@@ -802,32 +767,32 @@ FROM THE QUARTO OF 1604.
      To effect all promises between us made!
 
      FAUSTUS. Then hear me read them.  [Reads] ON THESE CONDITIONS
-     FOLLOWING.  FIRST, THAT FAUSTUS MAY BE A SPIRIT IN FORM AND
-     SUBSTANCE.  SECONDLY, THAT MEPHISTOPHILIS SHALL BE HIS SERVANT,
-     AND AT HIS COMMAND.  THIRDLY, THAT MEPHISTOPHILIS SHALL DO FOR HIM,
-     AND BRING HIM WHATSOEVER HE DESIRES.[88]  FOURTHLY, THAT HE SHALL
-     BE IN HIS CHAMBER OR HOUSE INVISIBLE.  LASTLY, THAT HE SHALL APPEAR
-     TO THE SAID JOHN FAUSTUS, AT ALL TIMES, IN WHAT FORM OR SHAPE
-     SOEVER HE PLEASE.  I, JOHN FAUSTUS, OF WERTENBERG, DOCTOR, BY
-     THESE PRESENTS, DO GIVE BOTH BODY AND SOUL TO LUCIFER PRINCE OF
-     THE EAST, AND HIS MINISTER MEPHISTOPHILIS; AND FURTHERMORE GRANT
-     UNTO THEM, THAT,[89] TWENTY-FOUR YEARS BEING EXPIRED, THE ARTICLES
-     ABOVE-WRITTEN INVIOLATE, FULL POWER TO FETCH OR CARRY THE SAID
-     JOHN FAUSTUS, BODY AND SOUL, FLESH, BLOOD, OR GOODS, INTO THEIR
-     HABITATION WHERESOEVER.  BY ME, JOHN FAUSTUS.
+FOLLOWING.  FIRST, THAT FAUSTUS MAY BE A SPIRIT IN FORM AND
+SUBSTANCE.  SECONDLY, THAT MEPHISTOPHILIS SHALL BE HIS SERVANT,
+AND AT HIS COMMAND.  THIRDLY, THAT MEPHISTOPHILIS SHALL DO FOR HIM,
+AND BRING HIM WHATSOEVER HE DESIRES.[88]  FOURTHLY, THAT HE SHALL
+BE IN HIS CHAMBER OR HOUSE INVISIBLE.  LASTLY, THAT HE SHALL APPEAR
+TO THE SAID JOHN FAUSTUS, AT ALL TIMES, IN WHAT FORM OR SHAPE
+SOEVER HE PLEASE.  I, JOHN FAUSTUS, OF WERTENBERG, DOCTOR, BY
+THESE PRESENTS, DO GIVE BOTH BODY AND SOUL TO LUCIFER PRINCE OF
+THE EAST, AND HIS MINISTER MEPHISTOPHILIS; AND FURTHERMORE GRANT
+UNTO THEM, THAT,[89] TWENTY-FOUR YEARS BEING EXPIRED, THE ARTICLES
+ABOVE-WRITTEN INVIOLATE, FULL POWER TO FETCH OR CARRY THE SAID
+JOHN FAUSTUS, BODY AND SOUL, FLESH, BLOOD, OR GOODS, INTO THEIR
+HABITATION WHERESOEVER.  BY ME, JOHN FAUSTUS.
 
-     MEPHIST. Speak, Faustus, do you deliver this as your deed?
+MEPHIST. Speak, Faustus, do you deliver this as your deed?
 
-     FAUSTUS. Ay, take it, and the devil give thee good on't!
+FAUSTUS. Ay, take it, and the devil give thee good on't!
 
-     MEPHIST. Now, Faustus, ask what thou wilt.
+MEPHIST. Now, Faustus, ask what thou wilt.
 
-     FAUSTUS. First will I question with thee about hell.
-     Tell me, where is the place that men call hell?
+FAUSTUS. First will I question with thee about hell.
+Tell me, where is the place that men call hell?
 
-     MEPHIST. Under the heavens.
+MEPHIST. Under the heavens.
 
-     FAUSTUS. Ay, but whereabout?
+FAUSTUS. Ay, but whereabout?
 
      MEPHIST. Within the bowels of these[90] elements,
      Where we are tortur'd and remain for ever:
@@ -840,9 +805,9 @@ FROM THE QUARTO OF 1604.
 
      FAUSTUS. Come, I think hell's a fable.
 
-     MEPHIST. Ay, think so still, till experience change thy mind.
+MEPHIST. Ay, think so still, till experience change thy mind.
 
-     FAUSTUS. Why, think'st thou, then, that Faustus shall be damn'd?
+FAUSTUS. Why, think'st thou, then, that Faustus shall be damn'd?
 
      MEPHIST. Ay, of necessity, for here's the scroll
      Wherein thou hast given thy soul to Lucifer.
@@ -935,16 +900,16 @@ FROM THE QUARTO OF 1604.
 
      FAUSTUS. How prov'st thou that?
 
-     MEPHIST. 'Twas made for man, therefore is man more excellent.
+MEPHIST. 'Twas made for man, therefore is man more excellent.
 
      FAUSTUS. If it were made for man, 'twas made for me:
      I will renounce this magic and repent.
 
           Enter GOOD ANGEL and EVIL ANGEL.
 
-     GOOD ANGEL. Faustus, repent; yet God will pity thee.
+GOOD ANGEL. Faustus, repent; yet God will pity thee.
 
-     EVIL ANGEL. Thou art a spirit; God cannot pity thee.
+EVIL ANGEL. Thou art a spirit; God cannot pity thee.
 
      FAUSTUS. Who buzzeth in mine ears I am a spirit?
      Be I a devil, yet God may pity me;
@@ -996,12 +961,12 @@ FROM THE QUARTO OF 1604.
      The first is finish'd in a natural day;
      The second thus; as Saturn in thirty years; Jupiter in twelve;
      Mars in four; the Sun, Venus, and Mercury in a year; the Moon in
-     twenty-eight days.  Tush, these are freshmen's[102] suppositions.
-     But, tell me, hath every sphere a dominion or intelligentia?
+twenty-eight days.  Tush, these are freshmen's[102] suppositions.
+But, tell me, hath every sphere a dominion or intelligentia?
 
-     MEPHIST. Ay.
+MEPHIST. Ay.
 
-     FAUSTUS. How many heavens or spheres are there?
+FAUSTUS. How many heavens or spheres are there?
 
      MEPHIST. Nine; the seven planets, the firmament, and the empyreal
      heaven.
@@ -1025,7 +990,7 @@ FROM THE QUARTO OF 1604.
      MEPHIST. Ay, that is not against our kingdom; but this is.  Think
      thou on hell, Faustus, for thou art damned.
 
-     FAUSTUS. Think, Faustus, upon God that made the world.
+FAUSTUS. Think, Faustus, upon God that made the world.
 
      MEPHIST. Remember this.
           [Exit.]
@@ -1040,10 +1005,10 @@ FROM THE QUARTO OF 1604.
 
      GOOD ANGEL. Never too late, if Faustus can repent.
 
-     EVIL ANGEL. If thou repent, devils shall tear thee in pieces.
+EVIL ANGEL. If thou repent, devils shall tear thee in pieces.
 
-     GOOD ANGEL. Repent, and they shall never raze thy skin.
-          [Exeunt ANGELS.]
+GOOD ANGEL. Repent, and they shall never raze thy skin.
+[Exeunt ANGELS.]
 
      FAUSTUS. Ah, Christ, my Saviour,
      Seek to save[104] distressed Faustus' soul!
@@ -1084,9 +1049,9 @@ FROM THE QUARTO OF 1604.
 
           Enter the SEVEN DEADLY SINS.[105]
 
-     Now, Faustus, examine them of their several names and dispositions.
+Now, Faustus, examine them of their several names and dispositions.
 
-     FAUSTUS. What art thou, the first?
+FAUSTUS. What art thou, the first?
 
      PRIDE. I am Pride.  I disdain to have any parents.  I am like to
      Ovid's flea; I can creep into every corner of a wench; sometimes,
@@ -1133,18 +1098,18 @@ FROM THE QUARTO OF 1604.
      Margery March-beer.  Now, Faustus, thou hast heard all my progeny;
      wilt thou bid me to supper?
 
-     FAUSTUS. No, I'll see thee hanged:  thou wilt eat up all my victuals.
+FAUSTUS. No, I'll see thee hanged:  thou wilt eat up all my victuals.
 
-     GLUTTONY. Then the devil choke thee!
+GLUTTONY. Then the devil choke thee!
 
-     FAUSTUS. Choke thyself, glutton!--What art thou, the sixth?
+FAUSTUS. Choke thyself, glutton!--What art thou, the sixth?
 
      SLOTH. I am Sloth.  I was begotten on a sunny bank, where I have
      lain ever since; and you have done me great injury to bring me
      from thence:  let me be carried thither again by Gluttony and
-     Lechery.  I'll not speak another word for a king's ransom.
+Lechery.  I'll not speak another word for a king's ransom.
 
-     FAUSTUS. What are you, Mistress Minx, the seventh and last?
+FAUSTUS. What are you, Mistress Minx, the seventh and last?
 
      LECHERY. Who I, sir?  I am one that loves an inch of raw mutton
      better than an ell of fried stock-fish; and the first letter
@@ -1157,19 +1122,19 @@ FROM THE QUARTO OF 1604.
 
      FAUSTUS. O, this feeds my soul!
 
-     LUCIFER. Tut, Faustus, in hell is all manner of delight.
+LUCIFER. Tut, Faustus, in hell is all manner of delight.
 
      FAUSTUS. O, might I see hell, and return again,
      How happy were I then!
 
-     LUCIFER. Thou shalt; I will send for thee at midnight.[110]
-     In meantime take this book; peruse it throughly,
-     And thou shalt turn thyself into what shape thou wilt.
+LUCIFER. Thou shalt; I will send for thee at midnight.[110]
+In meantime take this book; peruse it throughly,
+And thou shalt turn thyself into what shape thou wilt.
 
      FAUSTUS. Great thanks, mighty Lucifer!
      This will I keep as chary as my life.
 
-     LUCIFER. Farewell, Faustus, and think on the devil.
+LUCIFER. Farewell, Faustus, and think on the devil.
 
      FAUSTUS. Farewell, great Lucifer.
           [Exeunt LUCIFER and BELZEBUB.]
@@ -1218,12 +1183,12 @@ FROM THE QUARTO OF 1604.
      Conducted me within the walls of Rome?
 
      MEPHIST. Faustus, I have; and, because we will not be unprovided,
-     I have taken up his Holiness' privy-chamber for our use.
+I have taken up his Holiness' privy-chamber for our use.
 
-     FAUSTUS. I hope his Holiness will bid us welcome.
+FAUSTUS. I hope his Holiness will bid us welcome.
 
-     MEPHIST.
-     Tut, 'tis no matter; man; we'll be bold with his good cheer.
+MEPHIST.
+Tut, 'tis no matter; man; we'll be bold with his good cheer.
      And now, my Faustus, that thou mayst perceive
      What Rome containeth to delight thee with,
      Know that this city stands upon seven hills
@@ -1263,15 +1228,15 @@ FROM THE QUARTO OF 1604.
      Do what thou wilt, thou shalt not be discern'd.
 
           Sound a Sonnet.[122] Enter the POPE and the CARDINAL OF
-          LORRAIN to the banquet, with FRIARS attending.
+LORRAIN to the banquet, with FRIARS attending.
 
-     POPE. My Lord of Lorrain, will't please you draw near?
+POPE. My Lord of Lorrain, will't please you draw near?
 
-     FAUSTUS. Fall to, and the devil choke you, an you spare!
+FAUSTUS. Fall to, and the devil choke you, an you spare!
 
-     POPE. How now! who's that which spake?--Friars, look about.
+POPE. How now! who's that which spake?--Friars, look about.
 
-     FIRST FRIAR. Here's nobody, if it like your Holiness.
+FIRST FRIAR. Here's nobody, if it like your Holiness.
 
      POPE. My lord, here is a dainty dish was sent me from the Bishop
      of Milan.
@@ -1286,7 +1251,7 @@ FROM THE QUARTO OF 1604.
      FAUSTUS. You say true; I'll ha't.
           [Snatches the dish.]
 
-     POPE. What, again!--My lord, I'll drink to your grace.
+POPE. What, again!--My lord, I'll drink to your grace.
 
      FAUSTUS. I'll pledge your grace.
           [Snatches the cup.]
@@ -1320,15 +1285,15 @@ FROM THE QUARTO OF 1604.
           Re-enter all the FRIARS to sing the Dirge.
 
      FIRST FRIAR.
-     Come, brethren, let's about our business with good devotion.
+Come, brethren, let's about our business with good devotion.
 
-          They sing.
+They sing.
 
-     CURSED BE HE THAT STOLE AWAY HIS HOLINESS' MEAT FROM THE
-     TABLE!  maledicat Dominus!
-     CURSED BE HE THAT STRUCK HIS HOLINESS A BLOW ON THE FACE!
-     maledicat Dominus!
-     CURSED BE HE THAT TOOK FRIAR SANDELO A BLOW ON THE PATE!
+CURSED BE HE THAT STOLE AWAY HIS HOLINESS' MEAT FROM THE
+TABLE!  maledicat Dominus!
+CURSED BE HE THAT STRUCK HIS HOLINESS A BLOW ON THE FACE!
+maledicat Dominus!
+CURSED BE HE THAT TOOK FRIAR SANDELO A BLOW ON THE PATE!
      maledicat Dominus!
      CURSED BE HE THAT DISTURBETH OUR HOLY DIRGE!  maledicat
      Dominus!
@@ -1360,15 +1325,15 @@ FROM THE QUARTO OF 1604.
      I leave untold; your eyes shall see['t] perform'd.
           [Exit.]
 
-          Enter ROBIN[123] the Ostler, with a book in his hand.
+Enter ROBIN[123] the Ostler, with a book in his hand.
 
      ROBIN. O, this is admirable! here I ha' stolen one of Doctor
      Faustus' conjuring-books, and, i'faith, I mean to search some
      circles for my own use.  Now will I make all the maidens in our
      parish dance at my pleasure, stark naked, before me; and so
-     by that means I shall see more than e'er I felt or saw yet.
+by that means I shall see more than e'er I felt or saw yet.
 
-          Enter RALPH, calling ROBIN.
+Enter RALPH, calling ROBIN.
 
      RALPH. Robin, prithee, come away; there's a gentleman tarries
      to have his horse, and he would have his things rubbed and made
@@ -1412,7 +1377,7 @@ FROM THE QUARTO OF 1604.
      devil's name.
           [Exeunt.]
 
-          Enter ROBIN and RALPH[126] with a silver goblet.
+Enter ROBIN and RALPH[126] with a silver goblet.
 
      ROBIN. Come, Ralph:  did not I tell thee, we were for ever made
      by this Doctor Faustus' book? ecce, signum! here's a simple
@@ -1425,7 +1390,7 @@ FROM THE QUARTO OF 1604.
 
           Enter VINTNER.
 
-     Drawer,[128] I hope all is paid; God be with you!--Come, Ralph.
+Drawer,[128] I hope all is paid; God be with you!--Come, Ralph.
 
      VINTNER. Soft, sir; a word with you.  I must yet have a goblet paid
      from you, ere you go.
@@ -1444,14 +1409,14 @@ FROM THE QUARTO OF 1604.
      Now, sir, you may be ashamed to burden honest men with a matter
      of truth.
 
-     VINTNER. Well, tone[129] of you hath this goblet about you.
+VINTNER. Well, tone[129] of you hath this goblet about you.
 
      ROBIN. You lie, drawer, 'tis afore me [Aside].--Sirrah you, I'll
      teach you to impeach honest men;--stand by;--I'll scour you for
      a goblet;--stand aside you had best, I charge you in the name of
-     Belzebub.--Look to the goblet, Ralph [Aside to RALPH].
+Belzebub.--Look to the goblet, Ralph [Aside to RALPH].
 
-     VINTNER. What mean you, sirrah?
+VINTNER. What mean you, sirrah?
 
      ROBIN. I'll tell you what I mean.  [Reads from a book] Sanctobulorum
      Periphrasticon--nay, I'll tickle you, Vintner.--Look to the goblet,
@@ -1464,8 +1429,8 @@ FROM THE QUARTO OF 1604.
      VINTNER. O, nomine Domini! what meanest thou, Robin? thou hast no
      goblet.
 
-     RALPH. Peccatum peccatorum!--Here's thy goblet, good Vintner.
-          [Gives the goblet to VINTNER, who exit.]
+RALPH. Peccatum peccatorum!--Here's thy goblet, good Vintner.
+[Gives the goblet to VINTNER, who exit.]
 
      ROBIN. Misericordia pro nobis! what shall I do?  Good devil, forgive
      me now, and I'll never rob thy library more.
@@ -1492,10 +1457,10 @@ FROM THE QUARTO OF 1604.
 
      RALPH. And I must be a dog.
 
-     ROBIN. I'faith, thy head will never be out of the pottage-pot.
-          [Exeunt.]
+ROBIN. I'faith, thy head will never be out of the pottage-pot.
+[Exeunt.]
 
-          Enter EMPEROR,[131] FAUSTUS, and a KNIGHT, with ATTENDANTS.
+Enter EMPEROR,[131] FAUSTUS, and a KNIGHT, with ATTENDANTS.
 
      EMPEROR. Master Doctor Faustus,[132] I have heard strange report
      of thy knowledge in the black art, how that none in my empire
@@ -1547,9 +1512,9 @@ FROM THE QUARTO OF 1604.
      KNIGHT. I'faith, that's just nothing at all.
           [Aside.]
 
-     FAUSTUS. But, if it like your grace, it is not in my ability[136]
-     to present before your eyes the true substantial bodies of those
-     two deceased princes, which long since are consumed to dust.
+FAUSTUS. But, if it like your grace, it is not in my ability[136]
+to present before your eyes the true substantial bodies of those
+two deceased princes, which long since are consumed to dust.
 
      KNIGHT. Ay, marry, Master Doctor, now there's a sign of grace in
      you, when you will confess the truth.
@@ -1558,16 +1523,16 @@ FROM THE QUARTO OF 1604.
      FAUSTUS. But such spirits as can lively resemble Alexander and
      his paramour shall appear before your grace, in that manner that
      they both[137] lived in, in their most flourishing estate; which
-     I doubt not shall sufficiently content your imperial majesty.
+I doubt not shall sufficiently content your imperial majesty.
 
-     EMPEROR. Go to, Master Doctor; let me see them presently.
+EMPEROR. Go to, Master Doctor; let me see them presently.
 
      KNIGHT. Do you hear, Master Doctor? you bring Alexander and his
      paramour before the Emperor!
 
      FAUSTUS. How then, sir?
 
-     KNIGHT. I'faith, that's as true as Diana turned me to a stag.
+KNIGHT. I'faith, that's as true as Diana turned me to a stag.
 
      FAUSTUS. No, sir; but, when Actaeon died, he left the horns for
      you.--Mephistophilis, be gone.
@@ -1576,8 +1541,8 @@ FROM THE QUARTO OF 1604.
      KNIGHT. Nay, an you go to conjuring, I'll be gone.
           [Exit.]
 
-     FAUSTUS. I'll meet with you anon for interrupting me so.
-     --Here they are, my gracious lord.
+FAUSTUS. I'll meet with you anon for interrupting me so.
+--Here they are, my gracious lord.
 
           Re-enter MEPHISTOPHILIS with SPIRITS in the shapes of ALEXANDER
           and his PARAMOUR.
@@ -1597,7 +1562,7 @@ FROM THE QUARTO OF 1604.
      EMPEROR. One of you call him forth.
           [Exit ATTENDANT.]
 
-          Re-enter the KNIGHT with a pair of horns on his head.
+Re-enter the KNIGHT with a pair of horns on his head.
 
      How now, sir knight! why, I had thought thou hadst been a bachelor,
      but now I see thou hast a wife, that not only gives thee horns,
@@ -1620,8 +1585,8 @@ FROM THE QUARTO OF 1604.
      Faustus worthily requited this injurious knight; which being all
      I desire, I am content to release him of his horns:--and,
      sir knight, hereafter speak well of scholars.--Mephistophilis,
-     transform him straight.[138]  [MEPHISTOPHILIS removes the horns.]
-     --Now, my good lord, having done my duty, I humbly take my leave.
+transform him straight.[138]  [MEPHISTOPHILIS removes the horns.]
+--Now, my good lord, having done my duty, I humbly take my leave.
 
      EMPEROR. Farewell, Master Doctor:  yet, ere you go,
      Expect from me a bounteous reward.
@@ -1634,7 +1599,7 @@ FROM THE QUARTO OF 1604.
      Therefore, sweet Mephistophilis, let us
      Make haste to Wertenberg.
 
-     MEPHIST. What, will you go on horse-back or on foot[?]
+MEPHIST. What, will you go on horse-back or on foot[?]
 
      FAUSTUS. Nay, till I'm past this fair and pleasant green,
      I'll walk on foot.
@@ -1701,19 +1666,19 @@ FROM THE QUARTO OF 1604.
      vanished away, and I sat upon a bottle of hay, never so near
      drowning in my life.  But I'll seek out my doctor, and have my
      forty dollars again, or I'll make it the dearest horse!--O,
-     yonder is his snipper-snapper.--Do you hear? you, hey-pass,[145]
-     where's your master?
+yonder is his snipper-snapper.--Do you hear? you, hey-pass,[145]
+where's your master?
 
-     MEPHIST. Why, sir, what would you? you cannot speak with him.
+MEPHIST. Why, sir, what would you? you cannot speak with him.
 
-     HORSE-COURSER. But I will speak with him.
+HORSE-COURSER. But I will speak with him.
 
-     MEPHIST. Why, he's fast asleep:  come some other time.
+MEPHIST. Why, he's fast asleep:  come some other time.
 
      HORSE-COURSER. I'll speak with him now, or I'll break his
      glass-windows about his ears.
 
-     MEPHIST. I tell thee, he has not slept this eight nights.
+MEPHIST. I tell thee, he has not slept this eight nights.
 
      HORSE-COURSER. An he have not slept this eight weeks, I'll
      speak with him.
@@ -1741,19 +1706,19 @@ FROM THE QUARTO OF 1604.
 
      MEPHIST. Where be they?
 
-     HORSE-COURSER. I have none about me:  come to my ostry,[146]
-     and I'll give them you.
+HORSE-COURSER. I have none about me:  come to my ostry,[146]
+and I'll give them you.
 
      MEPHIST. Be gone quickly.
           [HORSE-COURSER runs away.]
 
      FAUSTUS. What, is he gone? farewell he!  Faustus has his leg again,
      and the Horse-courser, I take it, a bottle of hay for his labour:
-     well, this trick shall cost him forty dollars more.
+well, this trick shall cost him forty dollars more.
 
-          Enter WAGNER.
+Enter WAGNER.
 
-     How now, Wagner! what's the news with thee?
+How now, Wagner! what's the news with thee?
 
      WAGNER. Sir, the Duke of Vanholt doth earnestly entreat your
      company.
@@ -1763,7 +1728,7 @@ FROM THE QUARTO OF 1604.
      let's away to him.
           [Exeunt.]
 
-          Enter the DUKE OF VANHOLT, the DUCHESS, and FAUSTUS.[148]
+Enter the DUKE OF VANHOLT, the DUCHESS, and FAUSTUS.[148]
 
      DUKE. Believe me, Master Doctor, this merriment hath much pleased
      me.
@@ -1795,8 +1760,8 @@ FROM THE QUARTO OF 1604.
      circles over the whole world, that, when it is here winter with
      us, in the contrary circle it is summer with them, as in India,
      Saba,[149] and farther countries in the east; and by means of a
-     swift spirit that I have, I had them brought hither, as you see.
-     --How do you like them, madam? be they good?
+swift spirit that I have, I had them brought hither, as you see.
+--How do you like them, madam? be they good?
 
      DUCHESS. Believe me, Master Doctor, they be the best grapes that
      e'er I tasted in my life before.
@@ -1811,10 +1776,10 @@ FROM THE QUARTO OF 1604.
 
      FAUSTUS. I humbly thank your grace.
 
-     DUKE. Come, Master Doctor, follow us, and receive your reward.
-          [Exeunt.]
+DUKE. Come, Master Doctor, follow us, and receive your reward.
+[Exeunt.]
 
-          Enter WAGNER.[151]
+Enter WAGNER.[151]
 
      WAGNER. I think my master means to die shortly,
      For he hath given to me all his goods:[152]
@@ -1826,7 +1791,7 @@ FROM THE QUARTO OF 1604.
      See, where they come! belike the feast is ended.
           [Exit.]
 
-          Enter FAUSTUS with two or three SCHOLARS, and MEPHISTOPHILIS.
+Enter FAUSTUS with two or three SCHOLARS, and MEPHISTOPHILIS.
 
      FIRST SCHOLAR. Master Doctor Faustus, since our conference about
      fair ladies, which was the beautifulest in all the world, we have
@@ -1859,10 +1824,10 @@ FROM THE QUARTO OF 1604.
      Let us depart; and for this glorious deed
      Happy and blest be Faustus evermore!
 
-     FAUSTUS. Gentlemen, farewell:  the same I wish to you.
-          [Exeunt SCHOLARS.]
+FAUSTUS. Gentlemen, farewell:  the same I wish to you.
+[Exeunt SCHOLARS.]
 
-          Enter an OLD MAN.[154]
+Enter an OLD MAN.[154]
 
      OLD MAN. Ah, Doctor Faustus, that I might prevail
      To guide thy steps unto the way of life,
@@ -1973,13 +1938,13 @@ FROM THE QUARTO OF 1604.
      Ambitious fiends, see how the heavens smile
      At your repulse, and laugh your state to scorn!
      Hence, hell! for hence I fly unto my God.
-          [Exeunt,--on one side, DEVILS, on the other, OLD MAN.]
+[Exeunt,--on one side, DEVILS, on the other, OLD MAN.]
 
-          Enter FAUSTUS,[167] with SCHOLARS.
+Enter FAUSTUS,[167] with SCHOLARS.
 
-     FAUSTUS. Ah, gentlemen!
+FAUSTUS. Ah, gentlemen!
 
-     FIRST SCHOLAR. What ails Faustus?
+FIRST SCHOLAR. What ails Faustus?
 
      FAUSTUS. Ah, my sweet chamber-fellow, had I lived with thee,
      then had I lived still! but now I die eternally.  Look, comes
@@ -1990,8 +1955,8 @@ FROM THE QUARTO OF 1604.
      THIRD SCHOLAR. Belike he is grown into some sickness by being
      over-solitary.
 
-     FIRST SCHOLAR. If it be so, we'll have physicians to cure him.
-     --'Tis but a surfeit; never fear, man.
+FIRST SCHOLAR. If it be so, we'll have physicians to cure him.
+--'Tis but a surfeit; never fear, man.
 
      FAUSTUS. A surfeit of deadly sin, that hath damned both body
      and soul.
@@ -2029,10 +1994,10 @@ FROM THE QUARTO OF 1604.
      FAUSTUS. God forbade it, indeed; but Faustus hath done it:  for
      vain pleasure of twenty-four years hath Faustus lost eternal joy
      and felicity.  I writ them a bill with mine own blood:  the date
-     is expired; the time will come, and he will fetch me.
+is expired; the time will come, and he will fetch me.
 
-     FIRST SCHOLAR. Why did not Faustus tell us of this before,[169]
-     that divines might have prayed for thee?
+FIRST SCHOLAR. Why did not Faustus tell us of this before,[169]
+that divines might have prayed for thee?
 
      FAUSTUS. Oft have I thought to have done so; but the devil
      threatened to tear me in pieces, if I named God, to fetch both
@@ -2041,9 +2006,9 @@ FROM THE QUARTO OF 1604.
 
      SECOND SCHOLAR. O, what shall we do to save[170] Faustus?
 
-     FAUSTUS. Talk not of me, but save yourselves, and depart.
+FAUSTUS. Talk not of me, but save yourselves, and depart.
 
-     THIRD SCHOLAR. God will strengthen me; I will stay with Faustus.
+THIRD SCHOLAR. God will strengthen me; I will stay with Faustus.
 
      FIRST SCHOLAR. Tempt not God, sweet friend; but let us into the
      next room, and there pray for him.
@@ -2141,9 +2106,6 @@ FROM THE QUARTO OF 1604.
      Terminat hora diem; terminat auctor opus.
 
 
-
-
-
 FOOTNOTES:
 
 
@@ -2159,20 +2121,13 @@ FOOTNOTES:
 
 [Footnote 6: So the later 4tos.--2to 1604 "more."]
 
-[Footnote 7: FAUSTUS discovered in his study-- Most probably, the Chorus,
-before going out, drew a curtain, and discovered Faustus sitting.
-In B. Barnes's DIVILS CHARTER, 1607, we find; "SCEN. VLTIMA.
-ALEXANDER VNBRACED BETWIXT TWO CARDINALLS in his study LOOKING
-VPON A BOOKE, whilst a groome draweth the Curtaine."  Sig. L 3.]
+[Footnote 7: FAUSTUS discovered in his study-- Most probably, the Chorus, before going out, drew a curtain, and discovered Faustus sitting. In B. Barnes's DIVILS CHARTER, 1607, we find; "SCEN. VLTIMA. ALEXANDER VNBRACED BETWIXT TWO CARDINALLS in his study LOOKING VPON A BOOKE, whilst a groome draweth the Curtaine."  Sig. L 3.]
 
-[Footnote 8: Analytics, 'tis thou, &c.-- Qy. "Analytic"? (but such
-phraseology was not uncommon).]
+[Footnote 8: Analytics, 'tis thou, &c.-- Qy. "Analytic"? (but such phraseology was not uncommon).]
 
-[Footnote 9: So the later 4tos.--2to 1604 "the" (the printer
-having mistaken "yt" for "ye").]
+[Footnote 9: So the later 4tos.--2to 1604 "the" (the printer having mistaken "yt" for "ye").]
 
-[Footnote 10: So the later 4tos (with various spelling).--2to 1604
-"Oncaymaeon."]
+[Footnote 10: So the later 4tos (with various spelling).--2to 1604 "Oncaymaeon."]
 
 [Footnote 11: and-- So the later 4tos.--Not in 4to 1604.]
 
@@ -2190,14 +2145,12 @@ having mistaken "yt" for "ye").]
 
 [Footnote 18: Too servile-- So the later 4tos.--2to 1604 "The deuill."]
 
-[Footnote 19: Che sera, sera-- Lest it should be thought that I am wrong
-in not altering the old spelling here, I may quote from Panizzi's
-very critical edition of the ORLANDO FURIOSO,
-     "La satisfazion ci SERA pronta."  C. xviii. st. 67.]
+[Footnote 19: Che sera, sera-- Lest it should be thought that I am wrong in not altering the old spelling here, I may quote from Panizzi's very critical edition of the ORLANDO FURIOSO,
+"La satisfazion ci SERA pronta."  C. xviii. st. 67.]
 
 [Footnote 20: scenes-- "And sooner may a gulling weather-spie
-              By drawing forth heavens SCEANES tell certainly," &c.
-                   Donne's FIRST SATYRE,--p. 327, ed. 1633.]
+By drawing forth heavens SCEANES tell certainly," &c.
+Donne's FIRST SATYRE,--p. 327, ed. 1633.]
 
 [Footnote 21: tire-- So the later 4tos.--2to 1604 "trie."]
 
@@ -2212,19 +2165,15 @@ very critical edition of the ORLANDO FURIOSO,
 :
      "Seeing Faustus hath incurr'd eternal death
       By desperate thoughts against JOVE'S deity," &c.:
-and I may notice that Marlowe is not singular in applying the name
-JOVE to the God of Christians:]
-     "Beneath our standard of JOUES powerfull sonne [i.e. Christ--".
+and I may notice that Marlowe is not singular in applying the name JOVE to the God of Christians:]
+"Beneath our standard of JOUES powerfull sonne [i.e. Christ--".
           MIR. FOR MAGISTRATES, p. 642, ed. 1610.
      "But see the judgement of almightie JOUE," &c.
           Id. p. 696.
      "O sommo GIOVE per noi crocifisso," &c.
           Pulci,--MORGANTE MAG. C. ii. st. 1.]
 
-[Footnote 25: these elements-- So again, "Within the bowels of THESE
-elements," &c., p. 87, first col,[See Note 90----"THESE" being
-equivalent to THE.  (Not unfrequently in our old writers THESE
-is little more than redundant.)]
+[Footnote 25: these elements-- So again, "Within the bowels of THESE elements," &c., p. 87, first col,[See Note 90----"THESE" being equivalent to THE.  (Not unfrequently in our old writers THESE is little more than redundant.)]
 
 [Footnote 26: resolve-- i.e. satisfy, inform.]
 
@@ -2232,37 +2181,11 @@ is little more than redundant.)]
 
 [Footnote 28: the-- So the later 4tos.--2to 1604 "our."]
 
-[Footnote 29: the fiery keel at Antwerp's bridge-- During the blockade
-of Antwerp by the Prince of Parma in 1585, "They of Antuerpe
-knowing that the bridge and the Stocadoes were finished,
-made a great shippe, to be a meanes to breake all this worke
-of the prince of Parmaes:  this great shippe was made of masons
-worke within, in the manner of a vaulted caue:  vpon the hatches
-there were layed myll-stones, graue-stones, and others of great
-weight; and within the vault were many barrels of powder, ouer
-the which there were holes, and in them they had put matches,
-hanging at a thred, the which burning vntill they came vnto
-the thred, would fall into the powder, and so blow vp all.
-And for that they could not haue any one in this shippe to
-conduct it, Lanckhaer, a sea captaine of the Hollanders, being
-then in Antuerpe, gaue them counsell to tye a great beame at the
-end of it, to make it to keepe a straight course in the middest
-of the streame.  In this sort floated this shippe the fourth of
-Aprill, vntill that it came vnto the bridge; where (within a
-while after) the powder wrought his effect, with such violence,
-as the vessell, and all that was within it, and vpon it, flew in
-pieces, carrying away a part of the Stocado and of the bridge.
-The marquesse of Roubay Vicont of Gant, Gaspar of Robles lord of
-Billy, and the Seignior of Torchies, brother vnto the Seignior
-of Bours, with many others, were presently slaine; which were
-torne in pieces, and dispersed abroad, both vpon the land and vpon
-the water."  Grimeston's GENERALL HISTORIE OF THE NETHERLANDS,
-p. 875, ed. 1609.]
+[Footnote 29: the fiery keel at Antwerp's bridge-- During the blockade of Antwerp by the Prince of Parma in 1585, "They of Antuerpe knowing that the bridge and the Stocadoes were finished, made a great shippe, to be a meanes to breake all this worke of the prince of Parmaes:  this great shippe was made of masons worke within, in the manner of a vaulted caue:  vpon the hatches there were layed myll-stones, graue-stones, and others of great weight; and within the vault were many barrels of powder, ouer the which there were holes, and in them they had put matches, hanging at a thred, the which burning vntill they came vnto the thred, would fall into the powder, and so blow vp all. And for that they could not haue any one in this shippe to conduct it, Lanckhaer, a sea captaine of the Hollanders, being then in Antuerpe, gaue them counsell to tye a great beame at the end of it, to make it to keepe a straight course in the middest of the streame.  In this sort floated this shippe the fourth of Aprill, vntill that it came vnto the bridge; where (within a while after) the powder wrought his effect, with such violence, as the vessell, and all that was within it, and vpon it, flew in pieces, carrying away a part of the Stocado and of the bridge. The marquesse of Roubay Vicont of Gant, Gaspar of Robles lord of Billy, and the Seignior of Torchies, brother vnto the Seignior of Bours, with many others, were presently slaine; which were torne in pieces, and dispersed abroad, both vpon the land and vpon the water."  Grimeston's GENERALL HISTORIE OF THE NETHERLANDS, p. 875, ed. 1609.]
 
 [Footnote 30: only-- Qy. "alone"?  (This line is not in the later 4tos.)]
 
-[Footnote 31: vile-- Old ed. "vild":  but see note ||, p. 68.--(This line
-is not in the later 4tos.)
+[Footnote 31: vile-- Old ed. "vild":  but see note ||, p. 68.--(This line is not in the later 4tos.)
 
     [Note || from page 68 (The Second Part of Tamburlaine the
      Great):]
@@ -2273,7 +2196,7 @@ is not in the later 4tos.)
      fact is, our early writers (or rather transcribers), with
      their usual inconsistency of spelling, give now the one form,
      and now the other:  compare the folio SHAKESPEARE, 1623,
-     where we sometimes find "vild" and sometimes "VILE.")--]
+where we sometimes find "vild" and sometimes "VILE.")--]
 
 [Footnote 32: concise syllogisms-- Old ed. "Consissylogismes."]
 
@@ -2294,7 +2217,7 @@ is not in the later 4tos.)
      (reiter, reuter).  In the third speech after the present one
      this line is repeated VERBATIM:  but in the first scene of
      our author's FAUSTUS we have,
-         "Like ALMAIN RUTTERS with their horsemen's staves."--]
+"Like ALMAIN RUTTERS with their horsemen's staves."--]
 
 [Footnote 38: have the-- So two of the later 4tos.--2to 1604 "in their."]
 
@@ -2316,66 +2239,36 @@ is not in the later 4tos.)
             Verses to King James, prefixed to Lord Stirling's
             MONARCHICKE TRAGEDIES, ed. 1607.--]
 
-[Footnote 42: Albertus'-- i.e. Albertus Magnus.--The correction of I. M.
-in Gent. Mag. for Jan. 1841.--All the 4tos "Albanus."]
+[Footnote 42: Albertus'-- i.e. Albertus Magnus.--The correction of I. M. in Gent. Mag. for Jan. 1841.--All the 4tos "Albanus."]
 
 [Footnote 43: cunning-- i.e. skill.]
 
-[Footnote 44: Enter two SCHOLARS-- Scene, perhaps, supposed to be before
-Faustus's house, as Wagner presently says, "My master is within
-at dinner."]
+[Footnote 44: Enter two SCHOLARS-- Scene, perhaps, supposed to be before Faustus's house, as Wagner presently says, "My master is within at dinner."]
 
 [Footnote 45: upon-- So the later 4tos.--2to 1604 "vpon't."]
 
 [Footnote 46: speak, would-- So the later 4tos.--2to 1604 "speake, IT would."]
 
-[Footnote 47: my dear brethren-- This repetition (not found in the later 4tos)
-is perhaps an error of the original compositor.]
+[Footnote 47: my dear brethren-- This repetition (not found in the later 4tos) is perhaps an error of the original compositor.]
 
-[Footnote 48: Enter FAUSTUS to conjure-- The scene is supposed to be a grove;
-see p. 81, last line of sec. col.
-   [Page 81, second column, last line:
-    "VALDES. Then haste thee to some solitary grove,"--]
+[Footnote 48: Enter FAUSTUS to conjure-- The scene is supposed to be a grove; see p. 81, last line of sec. col.
+[Page 81, second column, last line:
+"VALDES. Then haste thee to some solitary grove,"--]
 
-[Footnote 49: anagrammatiz'd-- So the later 4tos.--2to 1604 "and
-Agramithist."]
+[Footnote 49: anagrammatiz'd-- So the later 4tos.--2to 1604 "and Agramithist."]
 
 [Footnote 50: Th' abbreviated-- So the later 4tos.--2to 1604 "The breuiated."]
 
 [Footnote 51: erring-- i.e. wandering.]
 
-[Footnote 52: surgat Mephistophilis, quod tumeraris-- The later 4tos have
-"surgat Mephistophilis DRAGON, quod tumeraris."--There is a
-corruption here, which seems to defy emendation.  For "quod
-TUMERARIS," Mr. J. Crossley, of Manchester, would read (rejecting
-the word "Dragon") "quod TU MANDARES" (the construction being
-"quod tu mandares ut Mephistophilis appareat et surgat"):  but the
-"tu" does not agree with the preceding "vos."--The Revd. J. Mitford
-proposes "surgat Mephistophilis, per Dragon (or Dagon) quod NUMEN
+[Footnote 52: surgat Mephistophilis, quod tumeraris-- The later 4tos have "surgat Mephistophilis DRAGON, quod tumeraris."--There is a corruption here, which seems to defy emendation.  For "quod TUMERARIS," Mr. J. Crossley, of Manchester, would read (rejecting the word "Dragon") "quod TU MANDARES" (the construction being "quod tu mandares ut Mephistophilis appareat et surgat"):  but the "tu" does not agree with the preceding "vos."--The Revd. J. Mitford proposes "surgat Mephistophilis, per Dragon (or Dagon) quod NUMEN
 EST AERIS."]
 
 [Footnote 53: dicatus-- So two of the later 4tos.--2to 1604 "dicatis."]
 
-[Footnote 54: Re-enter Mephistophilis, &c.-- According to THE HISTORY OF
-DR. FAUSTUS, on which this play is founded, Faustus raises
-Mephistophilis in "a thicke wood neere to Wittenberg, called
-in the German tongue Spisser Wolt.....  Presently, not three
-fathom above his head, fell a flame in manner of a lightning,
-and changed itselfe into a globe.....  Suddenly the globe opened,
-and sprung up in the height of a man; so burning a time, in the
-end it converted to the shape of a fiery man[?-- This pleasant
-beast ran about the circle a great while, and, lastly, appeared
-in the manner of a Gray Fryer, asking Faustus what was his
-request?" Sigs. A 2, A 3, ed. 1648.  Again; "After Doctor Faustus
-had made his promise to the devill, in the morning betimes he
-called the spirit before him, and commanded him that he should
-alwayes come to him like a fryer after the order of Saint Francis,
-with a bell in his hand like Saint Anthony, and to ring it once
-or twice before he appeared, that he might know of his certaine
-coming."  Id. Sig. A 4.]
+[Footnote 54: Re-enter Mephistophilis, &c.-- According to THE HISTORY OF DR. FAUSTUS, on which this play is founded, Faustus raises Mephistophilis in "a thicke wood neere to Wittenberg, called in the German tongue Spisser Wolt.....  Presently, not three fathom above his head, fell a flame in manner of a lightning, and changed itselfe into a globe.....  Suddenly the globe opened, and sprung up in the height of a man; so burning a time, in the end it converted to the shape of a fiery man[?-- This pleasant beast ran about the circle a great while, and, lastly, appeared in the manner of a Gray Fryer, asking Faustus what was his request?" Sigs. A 2, A 3, ed. 1648.  Again; "After Doctor Faustus had made his promise to the devill, in the morning betimes he called the spirit before him, and commanded him that he should alwayes come to him like a fryer after the order of Saint Francis, with a bell in his hand like Saint Anthony, and to ring it once or twice before he appeared, that he might know of his certaine coming."  Id. Sig. A 4.]
 
-[Footnote 55: came hither-- So two of the later 4tos.--2to 1604 "came
-NOW hither."]
+[Footnote 55: came hither-- So two of the later 4tos.--2to 1604 "came NOW hither."]
 
 [Footnote 56: accidens-- So two of the later 4tos.--2to 1604 "accident."]
 
@@ -2385,8 +2278,7 @@ Par. Lost, iv. 75;
 
 [Footnote 58: these-- So the later 4tos.--2to 1604 "those."]
 
-[Footnote 59: Jove's-- See note ‡, p. 80. [i.e. Note 24]
-: ]
+[Footnote 59: Jove's-- See note ‡, p. 80. [i.e. Note 24] : ]
 
 [Footnote 60: four and twenty-- So the later 4tos.--2to 1604 "24."]
 
@@ -2431,7 +2323,7 @@ AD DISCIPULOS CARMEN DE MORIBUS,
      fact is, our early writers (or rather transcribers), with
      their usual inconsistency of spelling, give now the one form,
      and now the other:  compare the folio SHAKESPEARE, 1623,
-     where we sometimes find "vild" and sometimes "VILE.")]
+where we sometimes find "vild" and sometimes "VILE.")]
 
 [Footnote 75: vestigiis nostris-- All the 4tos "vestigias nostras."]
 
@@ -2443,8 +2335,7 @@ AD DISCIPULOS CARMEN DE MORIBUS,
 
 [Footnote 79: why-- So the later 4tos.--Not in 4to 1604.]
 
-[Footnote 80: Solamen miseris, &c.-- An often-cited line of modern Latin
-poetry:  by whom it was written I know not.]
+[Footnote 80: Solamen miseris, &c.-- An often-cited line of modern Latin poetry:  by whom it was written I know not.]
 
 [Footnote 81: Why-- So the later 4tos.--Not in 4to 1604.]
 
@@ -2454,33 +2345,17 @@ poetry:  by whom it was written I know not.]
 
 [Footnote 84: Bill-- i.e. writing, deed.]
 
-[Footnote 85: Here's fire; come, Faustus, set it on-- This would not
-be intelligible without the assistance of THE HISTORY OF
-DR. FAUSTUS, the sixth chapter of which is headed,--"How Doctor
-Faustus set his blood in a saucer on warme ashes, and writ as
-followeth."  Sig. B, ed. 1648.]
+[Footnote 85: Here's fire; come, Faustus, set it on-- This would not be intelligible without the assistance of THE HISTORY OF DR. FAUSTUS, the sixth chapter of which is headed,--"How Doctor Faustus set his blood in a saucer on warme ashes, and writ as followeth."  Sig. B, ed. 1648.]
 
-[Footnote 86: But what is this inscription, &c.-- "He [Faustus-- tooke
-a small penknife and prickt a veine in his left hand; and for
-certainty thereupon were seen on his hand these words written,
-as if they had been written with blood, O HOMO, FUGE."
-THE HISTORY OF DR. FAUSTUS, Sig. B, ed. 1648.]
+[Footnote 86: But what is this inscription, &c.-- "He [Faustus-- tooke a small penknife and prickt a veine in his left hand; and for certainty thereupon were seen on his hand these words written, as if they had been written with blood, O HOMO, FUGE." THE HISTORY OF DR. FAUSTUS, Sig. B, ed. 1648.]
 
 [Footnote 87: me-- So the later 4tos.--2to 1604 "thee."]
 
-[Footnote 88: he desires-- Not in any of the four 4tos.  In the tract
-just cited, the "3d Article" stands thus,--"That Mephostophiles
-should bring him any thing, and doe for him whatsoever."  Sig. A 4,
-ed. 1648.  A later ed. adds "he desired."  Marlowe, no doubt,
-followed some edition of the HISTORY in which these words,
-or something equivalent to them, had been omitted by mistake.
-(2to 1661, which I consider as of no authority, has "he
-requireth.")]
+[Footnote 88: he desires-- Not in any of the four 4tos.  In the tract just cited, the "3d Article" stands thus,--"That Mephostophiles should bring him any thing, and doe for him whatsoever."  Sig. A 4, ed. 1648.  A later ed. adds "he desired."  Marlowe, no doubt, followed some edition of the HISTORY in which these words, or something equivalent to them, had been omitted by mistake. (2to 1661, which I consider as of no authority, has "he requireth.")]
 
 [Footnote 89: that, &c.-- So all the 4tos, ungrammatically.]
 
-[Footnote 90: these-- See note §, p. 80.[i.e. Note 25]
-: ]
+[Footnote 90: these-- See note §, p. 80.[i.e. Note 25] : ]
 
 [Footnote 91: there-- So the later 4tos.--Not in 4to 1604.]
 
@@ -2488,22 +2363,9 @@ requireth.")]
 
 [Footnote 93: fond-- i.e. foolish.]
 
-[Footnote 94: What! walking, disputing, &c.-- The later 4tos have "What,
-SLEEPING, EATING, walking, AND disputing!" But it is evident
-that this speech is not given correctly in any of the old eds.]
+[Footnote 94: What! walking, disputing, &c.-- The later 4tos have "What, SLEEPING, EATING, walking, AND disputing!" But it is evident that this speech is not given correctly in any of the old eds.]
 
-[Footnote 95: let me have a wife, &c.-- The ninth chapter of THE HISTORY
-OF DR. FAUSTUS narrates "How Doctor Faustus would have married,
-and how the Devill had almost killed him for it," and concludes
-as follows.  "It is no jesting [said Mephistophilis-- with us:
-hold thou that which thou hast vowed, and we will peforme as we
-have promised; and more shall that, thou shalt have thy hearts
-desire of what woman soever thou wilt, be she alive or dead,
-and so long as thou wilt thou shalt keep her by thee.--These
-words pleased Faustus wonderfull well, and repented himself that
-he was so foolish to wish himselfe married, that might have any
-woman in the whole city brought him at his command; the which
-he practised and persevered in a long time."  Sig. B 3, ed. 1648.]
+[Footnote 95: let me have a wife, &c.-- The ninth chapter of THE HISTORY OF DR. FAUSTUS narrates "How Doctor Faustus would have married, and how the Devill had almost killed him for it," and concludes as follows.  "It is no jesting [said Mephistophilis-- with us: hold thou that which thou hast vowed, and we will peforme as we have promised; and more shall that, thou shalt have thy hearts desire of what woman soever thou wilt, be she alive or dead, and so long as thou wilt thou shalt keep her by thee.--These words pleased Faustus wonderfull well, and repented himself that he was so foolish to wish himselfe married, that might have any woman in the whole city brought him at his command; the which he practised and persevered in a long time."  Sig. B 3, ed. 1648.]
 
 [Footnote 96: me-- Not in 4to 1604.  (This line is wanting in the later 4tos.)]
 
@@ -2513,20 +2375,15 @@ he practised and persevered in a long time."  Sig. B 3, ed. 1648.]
 
 [Footnote 99: iterating-- i.e. reciting, repeating.]
 
-[Footnote 100: And argue of divine astrology, &c.-- In THE HISTORY OF
-DR. FAUSTUS, there are several tedious pages on the subject;
-but our dramatist, in the dialogue which follows, has no
-particular obligations to them.]
+[Footnote 100: And argue of divine astrology, &c.-- In THE HISTORY OF DR. FAUSTUS, there are several tedious pages on the subject; but our dramatist, in the dialogue which follows, has no particular obligations to them.]
 
 [Footnote 101: erring-- i.e. wandering.]
 
-[Footnote 102: freshmen's-- "A Freshman, tiro, novitius." Coles's DICT.
-Properly, a student during his first term at the university.]
+[Footnote 102: freshmen's-- "A Freshman, tiro, novitius." Coles's DICT. Properly, a student during his first term at the university.]
 
 [Footnote 103: resolve-- i.e. satisfy, inform.]
 
-[Footnote 104: Seek to save-- Qy. "Seek THOU to save"?  But see note ||,
-p. 18.]
+[Footnote 104: Seek to save-- Qy. "Seek THOU to save"?  But see note ||, p. 18.]
 
     [Note ||, from page 18 (The First Part of Tamburlaine The
      Great):
@@ -2538,177 +2395,80 @@ p. 18.]
      of these instances at least it would almost seem that nothing
      has been omitted by the transcriber or printer.--]
 
-[Footnote 105: Enter the SEVEN DEADLY SINS-- In THE HISTORY OF DR. FAUSTUS,
-Lucifer amuses Faustus, not by calling up the Seven Deadly Sins,
-but by making various devils appear before him, "one after another,
-in forme as they were in hell."  "First entered Beliall in forme
-of a beare," &c.--"after him came Beelzebub, in curled haire of
-a horseflesh colour," &c.--"then came Astaroth, in the forme of
-a worme," &c. &c.  During this exhibition, "Lucifer himselfe sate
-in manner of a man all hairy, but of browne colour, like a
-squirrell, curled, and his tayle turning upward on his backe as
-the squirrels use:  I think he could crack nuts too like a
-squirrell."  Sig. D, ed. 1648.]
+[Footnote 105: Enter the SEVEN DEADLY SINS-- In THE HISTORY OF DR. FAUSTUS, Lucifer amuses Faustus, not by calling up the Seven Deadly Sins, but by making various devils appear before him, "one after another, in forme as they were in hell."  "First entered Beliall in forme of a beare," &c.--"after him came Beelzebub, in curled haire of a horseflesh colour," &c.--"then came Astaroth, in the forme of a worme," &c. &c.  During this exhibition, "Lucifer himselfe sate in manner of a man all hairy, but of browne colour, like a squirrell, curled, and his tayle turning upward on his backe as the squirrels use:  I think he could crack nuts too like a squirrell."  Sig. D, ed. 1648.]
 
 [Footnote 106: case-- i.e. couple.]
 
 [Footnote 107: bevers-- i.e. refreshments between meals.]
 
-[Footnote 108: L.-- All the 4tos "Lechery."--Here I have made the alteration
-recommended by Mr. Collier in his Preface to COLERIDGE'S SEVEN
-LECTURES ON SHAKESPEARE AND MILTON, p. cviii.]
+[Footnote 108: L.-- All the 4tos "Lechery."--Here I have made the alteration recommended by Mr. Collier in his Preface to COLERIDGE'S SEVEN LECTURES ON SHAKESPEARE AND MILTON, p. cviii.]
 
-[Footnote 109: Away, to hell, to hell-- In 4to 1604, these words stand
-on a line by themselves, without a prefix.  (In the later 4tos,
+[Footnote 109: Away, to hell, to hell-- In 4to 1604, these words stand on a line by themselves, without a prefix.  (In the later 4tos,
 the corresponding passage is as follows;
     "------ begins with Lechery.
 
-     LUCIFER. Away to hell, away!  On, piper!  [Exeunt the SINS.
-     FAUSTUS. O, how this sight doth delight my soul!" &c.)]
+LUCIFER. Away to hell, away!  On, piper!  [Exeunt the SINS.
+FAUSTUS. O, how this sight doth delight my soul!" &c.)]
 
-[Footnote 110: I will send for thee at midnight-- In THE HISTORY OF DR.
-FAUSTUS, we have a particular account of Faustus's visit
-to the infernal regions, Sig. D 2, ed. 1648.]
+[Footnote 110: I will send for thee at midnight-- In THE HISTORY OF DR. FAUSTUS, we have a particular account of Faustus's visit to the infernal regions, Sig. D 2, ed. 1648.]
 
-[Footnote 111: Enter CHORUS-- Old ed. "Enter WAGNER solus."  That these
-lines belong to the Chorus would be evident enough, even if we
-had no assistance here from the later 4tos.--The parts of Wagner
-and of the Chorus were most probably played by the same actor:
-and hence the error.]
+[Footnote 111: Enter CHORUS-- Old ed. "Enter WAGNER solus."  That these lines belong to the Chorus would be evident enough, even if we had no assistance here from the later 4tos.--The parts of Wagner and of the Chorus were most probably played by the same actor: and hence the error.]
 
 [Footnote 112: Learned Faustus,
-      To know the secrets of astronomy, &c.-- See the 21st chapter
-of THE HISTORY OF DR. FAUSTUS,--"How Doctor Faustus was carried
-through the ayre up to the heavens, to see the whole world,
-and how the sky and planets ruled," &c.]
+To know the secrets of astronomy, &c.-- See the 21st chapter of THE HISTORY OF DR. FAUSTUS,--"How Doctor Faustus was carried through the ayre up to the heavens, to see the whole world, and how the sky and planets ruled," &c.]
 
-[Footnote 113: Enter FAUSTUS and MEPHISTOPHILIS-- Scene, the Pope's
-privy-chamber.]
+[Footnote 113: Enter FAUSTUS and MEPHISTOPHILIS-- Scene, the Pope's privy-chamber.]
 
 [Footnote 114: Trier-- i.e. Treves or Triers.]
 
-[Footnote 115: From Paris next, &c.-- This description is from THE HISTORY
-OF DR. FAUSTUS; "He came from Paris to Mentz, where the river
-of Maine falls into the Rhine:  notwithstanding he tarried not
-long there, but went into Campania, in the kingdome of Neapol,
-in which he saw an innumerable sort of cloysters, nunries, and
-churches, and great houses of stone, the streets faire and large,
-and straight forth from one end of the towne to the other as a
-line; and all the pavement of the city was of bricke, and the
-more it rained into the towne, the fairer the streets were:
-there saw he the tombe of Virgill, and the highway that he cu[t]
-through the mighty hill of stone in one night, the whole length
-of an English mile," &c. Sig. E 2, ed. 1648.]
+[Footnote 115: From Paris next, &c.-- This description is from THE HISTORY OF DR. FAUSTUS; "He came from Paris to Mentz, where the river of Maine falls into the Rhine:  notwithstanding he tarried not long there, but went into Campania, in the kingdome of Neapol, in which he saw an innumerable sort of cloysters, nunries, and churches, and great houses of stone, the streets faire and large, and straight forth from one end of the towne to the other as a line; and all the pavement of the city was of bricke, and the more it rained into the towne, the fairer the streets were: there saw he the tombe of Virgill, and the highway that he cu[t] through the mighty hill of stone in one night, the whole length of an English mile," &c. Sig. E 2, ed. 1648.]
 
-[Footnote 116: The way he cut, &c.-- During the middle ages Virgil was
-regarded as a great magician, and much was written concerning
-his exploits in that capacity.  The LYFE OF VIRGILIUS, however,
-(see Thoms's EARLY PROSE ROMANCES, vol. ii.,) makes no mention
-of the feat in question.  But Petrarch speaks of it as follows.
-"Non longe a Puteolis Falernus collis attollitur, famoso palmite
-nobilis.  Inter Falernum et mare mons est saxeus, hominum manibus
-confossus, quod vulgus insulsum a Virgilio magicis cantaminibus
-factum putant:  ita clarorum fama hominum, non veris contenta
-laudibus, saepe etiam fabulis viam facit.  De quo cum me olim
-Robertus regno clarus, sed praeclarus ingenio ac literis, quid
-sentirem, multis astantibus, percunctatus esset, humanitate fretus
-regia, qua non reges modo sed homines vicit, jocans nusquam me
-legisse magicarium fuisse Virgilium respondi:  quod ille severissimae
-nutu frontis approbans, non illic magici sed ferri vestigia
-confessus est.  Sunt autem fauces excavati montis angustae sed
-longissimae atque atrae:  tenebrosa inter horrifica semper nox:
-publicum iter in medio, mirum et religioni proximum, belli quoque
-immolatum temporibus, sic vero populi vox est, et nullis unquam
-latrociniis attentatum, patet:  Criptam Neapolitanam dicunt, cujus
-et in epistolis ad Lucilium Seneca mentionem fecit.  Sub finem fusci
-tramitis, ubi primo videri coelum incipit, in aggere edito, ipsius
-Virgilii busta visuntur, pervetusti operis, unde haec forsan ab
-illo perforati montis fluxit opinio."  ITINERARIUM SYRIACUM,--OPP.
-p. 560, ed. Bas.]
+[Footnote 116: The way he cut, &c.-- During the middle ages Virgil was regarded as a great magician, and much was written concerning his exploits in that capacity.  The LYFE OF VIRGILIUS, however, (see Thoms's EARLY PROSE ROMANCES, vol. ii.,) makes no mention of the feat in question.  But Petrarch speaks of it as follows. "Non longe a Puteolis Falernus collis attollitur, famoso palmite nobilis.  Inter Falernum et mare mons est saxeus, hominum manibus confossus, quod vulgus insulsum a Virgilio magicis cantaminibus factum putant:  ita clarorum fama hominum, non veris contenta laudibus, saepe etiam fabulis viam facit.  De quo cum me olim Robertus regno clarus, sed praeclarus ingenio ac literis, quid sentirem, multis astantibus, percunctatus esset, humanitate fretus regia, qua non reges modo sed homines vicit, jocans nusquam me legisse magicarium fuisse Virgilium respondi:  quod ille severissimae nutu frontis approbans, non illic magici sed ferri vestigia confessus est.  Sunt autem fauces excavati montis angustae sed longissimae atque atrae:  tenebrosa inter horrifica semper nox: publicum iter in medio, mirum et religioni proximum, belli quoque immolatum temporibus, sic vero populi vox est, et nullis unquam latrociniis attentatum, patet:  Criptam Neapolitanam dicunt, cujus et in epistolis ad Lucilium Seneca mentionem fecit.  Sub finem fusci tramitis, ubi primo videri coelum incipit, in aggere edito, ipsius Virgilii busta visuntur, pervetusti operis, unde haec forsan ab illo perforati montis fluxit opinio."  ITINERARIUM SYRIACUM,--OPP. p. 560, ed. Bas.]
 
 [Footnote 117: From thence to Venice, Padua, and the rest,
-      In one of which a sumptuous temple stands, &c.-- So the
-later 4tos.--2to 1604 "In MIDST of which," &c.--THE HISTORY
-OF DR. FAUSTUS shews WHAT "sumptuous temple" is meant:  "From
-thence he came to Venice....He wondred not a little at the
-fairenesse of S. Marks Place, and the sumptuous church standing
-thereon, called S. Marke, how all the pavement was set with
-coloured stones, and all the rood or loft of the church double
-gilded over."  Sig. E 2, ed. 1648.]
+In one of which a sumptuous temple stands, &c.-- So the later 4tos.--2to 1604 "In MIDST of which," &c.--THE HISTORY OF DR. FAUSTUS shews WHAT "sumptuous temple" is meant:  "From thence he came to Venice....He wondred not a little at the fairenesse of S. Marks Place, and the sumptuous church standing thereon, called S. Marke, how all the pavement was set with coloured stones, and all the rood or loft of the church double gilded over."  Sig. E 2, ed. 1648.]
 
-[Footnote 118: Just through the midst, &c.-- This and the next line are
-not in 4to 1604.  I have inserted them from the later 4tos, as
-being absolutely necessary for the sense.]
+[Footnote 118: Just through the midst, &c.-- This and the next line are not in 4to 1604.  I have inserted them from the later 4tos, as being absolutely necessary for the sense.]
 
 [Footnote 119: Ponte-- All the 4tos "Ponto."]
 
 [Footnote 120: of-- So the later 4tos.--Not in 4to 1604.]
 
-[Footnote 121: Then charm me, that I, &c.-- A corrupted passage.--Compare
-THE HISTORY OF DR. FAUSTUS, Sig. E 3, ed. 1648; where, however,
-the Cardinal, whom the Pope entertains, is called the Cardinal
-of PAVIA.]
+[Footnote 121: Then charm me, that I, &c.-- A corrupted passage.--Compare THE HISTORY OF DR. FAUSTUS, Sig. E 3, ed. 1648; where, however, the Cardinal, whom the Pope entertains, is called the Cardinal of PAVIA.]
 
-[Footnote 122: Sonnet-- Variously written, SENNET, SIGNET, SIGNATE, &c.--A
-particular set of notes on the trumpet, or cornet, different from
-a flourish.  See Nares's GLOSS. in V. SENNET.]
+[Footnote 122: Sonnet-- Variously written, SENNET, SIGNET, SIGNATE, &c.--A particular set of notes on the trumpet, or cornet, different from a flourish.  See Nares's GLOSS. in V. SENNET.]
 
 [Footnote 123: Enter ROBIN, &c.-- Scene, near an inn.]
 
-[Footnote 124: ippocras-- Or HIPPOCRAS,--a medicated drink composed of wine
-(usually red) with spices and sugar.  It is generally supposed to
-have been so called from HIPPOCRATES (contracted by our earliest
-writers to HIPPOCRAS); perhaps because it was strained,--the woollen
-bag used by apothecaries to strain syrups and decoctions for
-clarification being termed HIPPOCRATES' SLEEVE.]
+[Footnote 124: ippocras-- Or HIPPOCRAS,--a medicated drink composed of wine (usually red) with spices and sugar.  It is generally supposed to have been so called from HIPPOCRATES (contracted by our earliest writers to HIPPOCRAS); perhaps because it was strained,--the woollen bag used by apothecaries to strain syrups and decoctions for clarification being termed HIPPOCRATES' SLEEVE.]
 
 [Footnote 125: tabern-- i.e. tavern.]
 
 [Footnote 126:      [Exeunt.
-      Enter ROBIN and RALPH, &c.-- A scene is evidently wanting
-after the Exeunt of Robin and Ralph.]
+Enter ROBIN and RALPH, &c.-- A scene is evidently wanting after the Exeunt of Robin and Ralph.]
 
 [Footnote 127: purchase-- i.e. booty--gain, acquisition.]
 
-[Footnote 128: Drawer-- There is an inconsistency here:  the Vintner
-cannot properly be addressed as "Drawer."  The later 4tos are
-also inconsistent in the corresponding passage:  Dick says, "THE
-VINTNER'S BOY follows us at the hard heels," and immediately
-the "VINTNER" enters.]
+[Footnote 128: Drawer-- There is an inconsistency here:  the Vintner cannot properly be addressed as "Drawer."  The later 4tos are also inconsistent in the corresponding passage:  Dick says, "THE VINTNER'S BOY follows us at the hard heels," and immediately the "VINTNER" enters.]
 
 [Footnote 129: tone-- i.e. the one.]
 
 [Footnote 130: MEPHIST-- Monarch of hell, &c.-- Old ed. thus:--]
 
-    "MEPHIST. Vanish vilaines, th' one like an Ape, an other like
-     a Beare, the third an Asse, for doing this enterprise.
+"MEPHIST. Vanish vilaines, th' one like an Ape, an other like
+a Beare, the third an Asse, for doing this enterprise.
 
-     Monarch of hell, vnder whose blacke suruey," &c.
+Monarch of hell, vnder whose blacke suruey," &c.
 
-What follows, shews that the words which I have omitted ought
-to have no place in the text; nor is there any thing equivalent
-to them in the corresponding passage of the play as given in
-the later 4tos.]
+What follows, shews that the words which I have omitted ought to have no place in the text; nor is there any thing equivalent to them in the corresponding passage of the play as given in the later 4tos.]
 
-[Footnote 131: Enter EMPEROR, &c.-- Scene--An apartment in the Emperor's
-Palace.  According to THE HISTORY OF DR. FAUSTUS, the Emperor
-"was personally, with the rest of the nobles and gentlemen, at
-the towne of Inzbrack, where he kept his court."  Sig. G, ed. 1648.]
+[Footnote 131: Enter EMPEROR, &c.-- Scene--An apartment in the Emperor's Palace.  According to THE HISTORY OF DR. FAUSTUS, the Emperor "was personally, with the rest of the nobles and gentlemen, at the towne of Inzbrack, where he kept his court."  Sig. G, ed. 1648.]
 
-[Footnote 132: Master Doctor Faustus, &c-- The greater part of this scene
-is closely borrowed from the history just cited:  e.g. "Faustus,
-I have heard much of thee, that thou art excellent in the black art,
-and none like thee in mine empire; for men say that thou hast a
-familiar spirit with thee, and that thou canst doe what thou list;
-it is therefore (said the Emperor) my request of thee, that thou
-let me see a proofe of thy experience:  and I vow unto thee, by
-the honour of my emperiall crowne, none evill shall happen unto
-thee for so doing," &c.  Ibid.]
+[Footnote 132: Master Doctor Faustus, &c-- The greater part of this scene is closely borrowed from the history just cited:  e.g. "Faustus, I have heard much of thee, that thou art excellent in the black art, and none like thee in mine empire; for men say that thou hast a familiar spirit with thee, and that thou canst doe what thou list; it is therefore (said the Emperor) my request of thee, that thou let me see a proofe of thy experience:  and I vow unto thee, by the honour of my emperiall crowne, none evill shall happen unto thee for so doing," &c.  Ibid.]
 
 [Footnote 133: won-- May be right:  but qy. "done"?]
 
-[Footnote 134: As we that do succeed, &c.-- A corrupted passage (not found
-in the later 4tos).]
+[Footnote 134: As we that do succeed, &c.-- A corrupted passage (not found in the later 4tos).]
 
 [Footnote 135: The bright, &c.-- See note ||, p. 18.]
 
@@ -2720,100 +2480,25 @@ in the later 4tos).]
      "O bloody"?  But we occasionally find in our early dramatists
      lines which are defective in the first syllable; and in
      some of these instances at least it would almost seem that
-     nothing has been omitted by the transcriber or printer.--]
+nothing has been omitted by the transcriber or printer.--]
 
-[Footnote 136: But, if it like your grace, it is not in my ability, &c.]
-"D. Faustus answered, My most excellent lord, I am ready to
-accomplish your request in all things, so farre forth as I and
-my spirit are able to performe:  yet your majesty shall know that
-their dead bodies are not able substantially to be brought before
-you; but such spirits as have seene Alexander and his Paramour
-alive shall appeare unto you, in manner and form as they both
-lived in their most flourishing time; and herewith I hope to
-please your Imperiall Majesty.  Then Faustus went a little aside
-to speake to his spirit; but he returned againe presently, saying,
-Now, if it please your Majesty, you shall see them; yet, upon this
-condition, that you demand no question of them, nor speake unto
-them; which the Emperor agreed unto.  Wherewith Doctor Faustus opened
-the privy-chamber doore, where presently entered the great and mighty
-emperor Alexander Magnus, in all things to looke upon as if he
-had beene alive; in proportion, a strong set thicke man, of a
-middle stature, blacke haire, and that both thicke and curled,
-head and beard, red cheekes, and a broad face, with eyes like
-a basiliske; he had a compleat harnesse (i.e. suit of armour)
-burnished and graven, exceeding rich to look upon:  and so,
-passing towards the Emperor Carolus, he made low and reverend
-courtesie:  whereat the Emperour Carolus would have stood up to
-receive and greet him with the like reverence; but Faustus tooke
-hold on him, and would not permit him to doe it.  Shortly after,
-Alexander made humble reverence, and went out againe; and comming
-to the doore, his paramour met him.  She comming in made the Emperour
-likewise reverence:  she was cloathed in blew velvet, wrought and
-imbroidered with pearls and gold; she was also excellent faire,
-like milke and blood mixed, tall and slender, with a face round
-as an apple.  And thus passed [she-- certaine times up and downe
-the house; which the Emperor marking, said to himselfe, Now have
-I seene two persons which my heart hath long wished to behold;
-and sure it cannot otherwise be (said he to himselfe) but that
-the spirits have changed themselves into these formes, and have
-but deceived me, calling to minde the woman that raised the prophet
-Samuel:  and for that the Emperor would be the more satisfied in
-the matter, he said, I have often heard that behind, in her neck,
-she had a great wart or wen; wherefore he tooke Faustus by the
-hand without any words, and went to see if it were also to be
-seene on her or not; but she, perceiving that he came to her,
-bowed downe her neck, when he saw a great wart; and hereupon she
-vanished, leaving the Emperor and the rest well contented."
-THE HISTORY OF DR. FAUSTUS, Sig. G, ed. 1648.]
+[Footnote 136: But, if it like your grace, it is not in my ability, &c.] "D. Faustus answered, My most excellent lord, I am ready to accomplish your request in all things, so farre forth as I and my spirit are able to performe:  yet your majesty shall know that their dead bodies are not able substantially to be brought before you; but such spirits as have seene Alexander and his Paramour alive shall appeare unto you, in manner and form as they both lived in their most flourishing time; and herewith I hope to please your Imperiall Majesty.  Then Faustus went a little aside to speake to his spirit; but he returned againe presently, saying, Now, if it please your Majesty, you shall see them; yet, upon this condition, that you demand no question of them, nor speake unto them; which the Emperor agreed unto.  Wherewith Doctor Faustus opened the privy-chamber doore, where presently entered the great and mighty emperor Alexander Magnus, in all things to looke upon as if he had beene alive; in proportion, a strong set thicke man, of a middle stature, blacke haire, and that both thicke and curled, head and beard, red cheekes, and a broad face, with eyes like a basiliske; he had a compleat harnesse (i.e. suit of armour) burnished and graven, exceeding rich to look upon:  and so, passing towards the Emperor Carolus, he made low and reverend courtesie:  whereat the Emperour Carolus would have stood up to receive and greet him with the like reverence; but Faustus tooke hold on him, and would not permit him to doe it.  Shortly after, Alexander made humble reverence, and went out againe; and comming to the doore, his paramour met him.  She comming in made the Emperour likewise reverence:  she was cloathed in blew velvet, wrought and imbroidered with pearls and gold; she was also excellent faire, like milke and blood mixed, tall and slender, with a face round as an apple.  And thus passed [she-- certaine times up and downe the house; which the Emperor marking, said to himselfe, Now have I seene two persons which my heart hath long wished to behold; and sure it cannot otherwise be (said he to himselfe) but that the spirits have changed themselves into these formes, and have but deceived me, calling to minde the woman that raised the prophet Samuel:  and for that the Emperor would be the more satisfied in the matter, he said, I have often heard that behind, in her neck, she had a great wart or wen; wherefore he tooke Faustus by the hand without any words, and went to see if it were also to be seene on her or not; but she, perceiving that he came to her, bowed downe her neck, when he saw a great wart; and hereupon she vanished, leaving the Emperor and the rest well contented." THE HISTORY OF DR. FAUSTUS, Sig. G, ed. 1648.]
 
 [Footnote 137: both-- Old ed. "best."]
 
-[Footnote 138: Mephistophilis, transform him straight-- According to THE
-HISTORY OF DR. FAUSTUS, the knight was not present during Faustus's
-"conference" with the Emperor; nor did he offer the doctor any
-insult by doubting his skill in magic.  We are there told that
-Faustus happening to see the knight asleep, "leaning out of a
-window of the great hall," fixed a huge pair of hart's horns on
-his head; "and, as the knight awaked, thinking to pull in his head,
-he hit his hornes against the glasse, that the panes thereof flew
-about his eares:  thinke here how this good gentleman was vexed,
-for he could neither get backward nor forward."  After the emperor
-and the courtiers, to their great amusement, had beheld the poor
-knight in this condition, Faustus removed the horns.  When Faustus,
-having taken leave of the emperor, was a league and a half from
-the city, he was attacked in a wood by the knight and some of his
-companions:  they were in armour, and mounted on fair palfreys;
-but the doctor quickly overcame them by turning all the bushes
-into horsemen, and "so charmed them, that every one, knight and
-other, for the space of a whole moneth, did weare a paire of
-goates hornes on their browes, and every palfry a paire of oxe
-hornes on his head; and this was their penance appointed by
-Faustus."  A second attempt of the knight to revenge himself on
-Faustus proved equally unsuccessful.  Sigs. G 2, I 3, ed. 1648.]
+[Footnote 138: Mephistophilis, transform him straight-- According to THE HISTORY OF DR. FAUSTUS, the knight was not present during Faustus's "conference" with the Emperor; nor did he offer the doctor any insult by doubting his skill in magic.  We are there told that Faustus happening to see the knight asleep, "leaning out of a window of the great hall," fixed a huge pair of hart's horns on his head; "and, as the knight awaked, thinking to pull in his head, he hit his hornes against the glasse, that the panes thereof flew about his eares:  thinke here how this good gentleman was vexed, for he could neither get backward nor forward."  After the emperor and the courtiers, to their great amusement, had beheld the poor knight in this condition, Faustus removed the horns.  When Faustus, having taken leave of the emperor, was a league and a half from the city, he was attacked in a wood by the knight and some of his companions:  they were in armour, and mounted on fair palfreys; but the doctor quickly overcame them by turning all the bushes into horsemen, and "so charmed them, that every one, knight and other, for the space of a whole moneth, did weare a paire of goates hornes on their browes, and every palfry a paire of oxe hornes on his head; and this was their penance appointed by Faustus."  A second attempt of the knight to revenge himself on Faustus proved equally unsuccessful.  Sigs. G 2, I 3, ed. 1648.]
 
-[Footnote 139: FAUSTUS. Now Mephistophilis, &c.-- Here the scene is supposed
-to be changed to the "fair and pleasant green" which Faustus
-presently mentions.]
+[Footnote 139: FAUSTUS. Now Mephistophilis, &c.-- Here the scene is supposed to be changed to the "fair and pleasant green" which Faustus presently mentions.]
 
-[Footnote 140: Horse-courser-- i.e. Horse-dealer.--We are now to suppose the
-scene to be near the home of Faustus, and presently that it is the
-interior of his house, for he falls asleep in his chair.--"How
-Doctor Faustus deceived a Horse-courser" is related in a short
-chapter (the 34th) of THE HISTORY OF DOCTOR FAUSTUS:  "After this
-manner he served a horse-courser at a faire called Pheiffering," &c.]
+[Footnote 140: Horse-courser-- i.e. Horse-dealer.--We are now to suppose the scene to be near the home of Faustus, and presently that it is the interior of his house, for he falls asleep in his chair.--"How Doctor Faustus deceived a Horse-courser" is related in a short chapter (the 34th) of THE HISTORY OF DOCTOR FAUSTUS:  "After this manner he served a horse-courser at a faire called Pheiffering," &c.]
 
 [Footnote 141: for forty-- Qy. "for TWICE forty DOLLARS"?]
 
 [Footnote 142: into-- So the later 4tos.--2to 1604 "vnto."]
 
-[Footnote 143: Doctor Lopus-- i.e. Doctor Lopez, domestic physician
-to Queen Elizabeth, who was put to death for having received
-a bribe from the court of Spain to destroy her.  He is frequently
-mentioned in our early dramas:  see my note on Middleton's WORKS,
-iv. 384.]
+[Footnote 143: Doctor Lopus-- i.e. Doctor Lopez, domestic physician to Queen Elizabeth, who was put to death for having received a bribe from the court of Spain to destroy her.  He is frequently mentioned in our early dramas:  see my note on Middleton's WORKS, iv. 384.]
 
-[Footnote 144: know of-- The old ed. has "KNOWNE of"; which perhaps is right,
-meaning--acquainted with.]
+[Footnote 144: know of-- The old ed. has "KNOWNE of"; which perhaps is right, meaning--acquainted with.]
 
 [Footnote 145: hey-pass-- Equivalent to--juggler.]
 
@@ -2822,53 +2507,13 @@ meaning--acquainted with.]
 [Footnote 147: cunning-- i.e. skill.]
 
 [Footnote 148:      [Exeunt.
-      Enter the DUKE OF VANHOLT, the DUCHESS, and FAUSTUS-- Old ed.;
+Enter the DUKE OF VANHOLT, the DUCHESS, and FAUSTUS-- Old ed.;
 
-           "Exeunt.
-      Enter to them the DUKE, the DUTCHESS, the DUKE speakes."
+"Exeunt.
+Enter to them the DUKE, the DUTCHESS, the DUKE speakes."
 
-In the later 4tos a scene intervenes between the "Exeunt" of
-Faustus, Mephistophilis, and Wagner, and the entrance of the Duke
-of Vanholt, &c.--We are to suppose that Faustus is now at the court
-of the Duke of Vanholt:  this is plain, not only from the later 4tos,
---in which Wagner tells Faustus that the Duke "hath sent some of
-his men to attend him, with provision fit for his journey,"--but
-from THE HISTORY OF DOCTOR FAUSTUS, the subjoined portion of which
-is closely followed in the present scene.  "Chap. xxxix. HOW DOCTOR
-FAUSTUS PLAYED A MERRY JEST WITH THE DUKE OF ANHOLT IN HIS COURT.
-Doctor Faustus on a time went to the Duke of Anholt, who welcommed
-him very courteously; this was the moneth of January; where sitting
-at the table, he perceived the dutchess to be with child; and
-forbearing himselfe untill the meat was taken from the table,
-and that they brought in the banqueting dishes [i.e. the dessert--,
-Doctor Faustus said to the dutchesse, Gratious lady, I have alwayes
-heard that great-bellied women doe alwayes long for some dainties;
-I beseech therefore your grace, hide not your minde from me, but
-tell me what you desire to eat.  She answered him, Doctor Faustus,
-now truly I will not hide from you what my heart doth most desire;
-namely, that, if it were now harvest, I would eat my bellyfull of
-grapes and other dainty fruit.  Doctor Faustus answered hereupon,
-Gracious lady, this is a small thing for me to doe, for I can doe
-more than this.  Wherefore he tooke a plate, and set open one of
-the casements of the window, holding it forth; where incontinent
-he had his dish full of all manner of fruit, as red and white
-grapes, peares, and apples, the which came from out of strange
-countries:  all these he presented the dutchesse, saying, Madam,
-I pray you vouchsafe to taste of this dainty fruit, the which
-came from a farre countrey, for there the summer is not yet ended.
-The dutchesse thanked Faustus highly, and she fell to her fruit
-with full appetite.  The Duke of Anholt notwithstanding could not
-withhold to ask Faustus with what reason there were such young
-fruit to be had at that time of the yeare.  Doctor Faustus told
-him, May it please your grace to understand that the year is
-divided into two circles of the whole world, that when with us it
-is winter, in the contrary circle it is notwithstanding summer;
-for in India and Saba there falleth or setteth the sunne, so that
-it is so warm that they have twice a yeare fruit; and, gracious
-lord, I have a swift spirit, the which can in the twinkling of
-an eye fulfill my desire in any thing; wherefore I sent him into
-those countries, who hath brought this fruit as you see:  whereat
-the duke was in great admiration."]
+In the later 4tos a scene intervenes between the "Exeunt" of Faustus, Mephistophilis, and Wagner, and the entrance of the Duke of Vanholt, &c.--We are to suppose that Faustus is now at the court of the Duke of Vanholt:  this is plain, not only from the later 4tos, --in which Wagner tells Faustus that the Duke "hath sent some of his men to attend him, with provision fit for his journey,"--but from THE HISTORY OF DOCTOR FAUSTUS, the subjoined portion of which is closely followed in the present scene.  "Chap. xxxix. HOW DOCTOR
+FAUSTUS PLAYED A MERRY JEST WITH THE DUKE OF ANHOLT IN HIS COURT. Doctor Faustus on a time went to the Duke of Anholt, who welcommed him very courteously; this was the moneth of January; where sitting at the table, he perceived the dutchess to be with child; and forbearing himselfe untill the meat was taken from the table, and that they brought in the banqueting dishes [i.e. the dessert--, Doctor Faustus said to the dutchesse, Gratious lady, I have alwayes heard that great-bellied women doe alwayes long for some dainties; I beseech therefore your grace, hide not your minde from me, but tell me what you desire to eat.  She answered him, Doctor Faustus, now truly I will not hide from you what my heart doth most desire; namely, that, if it were now harvest, I would eat my bellyfull of grapes and other dainty fruit.  Doctor Faustus answered hereupon, Gracious lady, this is a small thing for me to doe, for I can doe more than this.  Wherefore he tooke a plate, and set open one of the casements of the window, holding it forth; where incontinent he had his dish full of all manner of fruit, as red and white grapes, peares, and apples, the which came from out of strange countries:  all these he presented the dutchesse, saying, Madam, I pray you vouchsafe to taste of this dainty fruit, the which came from a farre countrey, for there the summer is not yet ended. The dutchesse thanked Faustus highly, and she fell to her fruit with full appetite.  The Duke of Anholt notwithstanding could not withhold to ask Faustus with what reason there were such young fruit to be had at that time of the yeare.  Doctor Faustus told him, May it please your grace to understand that the year is divided into two circles of the whole world, that when with us it is winter, in the contrary circle it is notwithstanding summer; for in India and Saba there falleth or setteth the sunne, so that it is so warm that they have twice a yeare fruit; and, gracious lord, I have a swift spirit, the which can in the twinkling of an eye fulfill my desire in any thing; wherefore I sent him into those countries, who hath brought this fruit as you see:  whereat the duke was in great admiration."]
 
 [Footnote 149: Saba-- i.e. Sabaea.]
 
@@ -2876,29 +2521,11 @@ the duke was in great admiration."]
 
 [Footnote 151: Enter WAGNER-- Scene, a room in the house of Faustus.]
 
-[Footnote 152: he hath given to me all his goods-- Compare chap. lvi. of
-THE HISTORY OF DOCTOR FAUSTUS,--"How Doctor Faustus made his will,
-in which he named his servant Wagner to be his heire."]
+[Footnote 152: he hath given to me all his goods-- Compare chap. lvi. of THE HISTORY OF DOCTOR FAUSTUS,--"How Doctor Faustus made his will, in which he named his servant Wagner to be his heire."]
 
-[Footnote 153: HELEN passeth over the stage-- In THE HISTORY OF DOCTOR
-FAUSTUS we have the following description of Helen.  "This lady
-appeared before them in a most rich gowne of purple velvet, costly
-imbrodered; her haire hanged downe loose, as faire as the beaten
-gold, and of such length that it reached downe to her hammes;
-having most amorous cole-black eyes, a sweet and pleasant round
-face, with lips as red as a cherry; her cheekes of a rose colour,
-her mouth small, her neck white like a swan; tall and slender of
-personage; in summe, there was no imperfect place in her:  she
-looked round about with a rolling hawkes eye, a smiling and
-wanton countenance, which neere-hand inflamed the hearts of all
-the students; but that they perswaded themselves she was a spirit,
-which made them lightly passe away such fancies."  Sig. H 4, ed. 1648.]
+[Footnote 153: HELEN passeth over the stage-- In THE HISTORY OF DOCTOR FAUSTUS we have the following description of Helen.  "This lady appeared before them in a most rich gowne of purple velvet, costly imbrodered; her haire hanged downe loose, as faire as the beaten gold, and of such length that it reached downe to her hammes; having most amorous cole-black eyes, a sweet and pleasant round face, with lips as red as a cherry; her cheekes of a rose colour, her mouth small, her neck white like a swan; tall and slender of personage; in summe, there was no imperfect place in her:  she looked round about with a rolling hawkes eye, a smiling and wanton countenance, which neere-hand inflamed the hearts of all the students; but that they perswaded themselves she was a spirit, which made them lightly passe away such fancies."  Sig. H 4, ed. 1648.]
 
-[Footnote 154: Enter an OLD MAN-- See chap. xlviii of THE HISTORY OF DOCTOR
-FAUSTUS,--"How an old man, the neighbour of Faustus, sought to
-perswade him to amend his evil life and to fall into repentance,"
---according to which history, the Old Man's exhortation is delivered
-at his own house, whither he had invited Faustus to supper.]
+[Footnote 154: Enter an OLD MAN-- See chap. xlviii of THE HISTORY OF DOCTOR FAUSTUS,--"How an old man, the neighbour of Faustus, sought to perswade him to amend his evil life and to fall into repentance," --according to which history, the Old Man's exhortation is delivered at his own house, whither he had invited Faustus to supper.]
 
 [Footnote 155: vild-- Old ed. "vild."  See note ||, p. 68.
 
@@ -2911,7 +2538,7 @@ at his own house, whither he had invited Faustus to supper.]
      fact is, our early writers (or rather transcribers), with
      their usual inconsistency of spelling, give now the one form,
      and now the other:  compare the folio SHAKESPEARE, 1623,
-     where we sometimes find "vild" and sometimes "VILE.")--]
+where we sometimes find "vild" and sometimes "VILE.")--]
 
 [Footnote 156: sin-- Old ed. "sinnes" (This is not in the later 4tos).]
 
@@ -2919,30 +2546,9 @@ at his own house, whither he had invited Faustus to supper.]
 
 [Footnote 158: now-- So the later 4tos.--Not in 4to 1604.]
 
-[Footnote 159: MEPHIST. Do it, then, quickly, &c.-- After this speech,
-most probably, there ought to be a stage-direction, "FAUSTUS
-STABS HIS ARM, AND WRITES ON A PAPER WITH HIS BLOOD.  Compare
-THE HISTORY OF DOCTOR FAUSTUS, chap. xlix,--"How Doctor Faustus
-wrote the second time with his owne blood, and gave it to the
-Devill."]
+[Footnote 159: MEPHIST. Do it, then, quickly, &c.-- After this speech, most probably, there ought to be a stage-direction, "FAUSTUS STABS HIS ARM, AND WRITES ON A PAPER WITH HIS BLOOD.  Compare THE HISTORY OF DOCTOR FAUSTUS, chap. xlix,--"How Doctor Faustus wrote the second time with his owne blood, and gave it to the Devill."]
 
-[Footnote 160: One thing, good servant, &c.-- "To the end that this miserable
-Faustus might fill the lust of his flesh and live in all manner
-of voluptuous pleasure, it came in his mind, after he had slept
-his first sleepe, and in the 23 year past of his time, that he
-had a great desire to lye with faire Helena of Greece, especially
-her whom he had seen and shewed unto the students at Wittenberg:
-wherefore he called unto his spirit Mephostophiles, commanding him
-to bring to him the faire Helena; which he also did.  Whereupon he
-fell in love with her, and made her his common concubine and
-bed-fellow; for she was so beautifull and delightfull a peece,
-that he could not be one houre from her, if he should therefore
-have suffered death, she had so stoln away his heart:  and, to
-his seeming, in time she was with childe, whom Faustus named
-Justus Faustus.  The childe told Doctor Faustus many things which
-were don in forraign countrys; but in the end, when Faustus lost
-his life, the mother and the childe vanished away both together."
-THE HISTORY OF DOCTOR FAUSTUS, Sig. I 4, ed. 1648.]
+[Footnote 160: One thing, good servant, &c.-- "To the end that this miserable Faustus might fill the lust of his flesh and live in all manner of voluptuous pleasure, it came in his mind, after he had slept his first sleepe, and in the 23 year past of his time, that he had a great desire to lye with faire Helena of Greece, especially her whom he had seen and shewed unto the students at Wittenberg: wherefore he called unto his spirit Mephostophiles, commanding him to bring to him the faire Helena; which he also did.  Whereupon he fell in love with her, and made her his common concubine and bed-fellow; for she was so beautifull and delightfull a peece, that he could not be one houre from her, if he should therefore have suffered death, she had so stoln away his heart:  and, to his seeming, in time she was with childe, whom Faustus named Justus Faustus.  The childe told Doctor Faustus many things which were don in forraign countrys; but in the end, when Faustus lost his life, the mother and the childe vanished away both together." THE HISTORY OF DOCTOR FAUSTUS, Sig. I 4, ed. 1648.]
 
 [Footnote 161: Those-- So the later 4tos.--2to 1604 "These."]
 
@@ -2952,491 +2558,48 @@ THE HISTORY OF DOCTOR FAUSTUS, Sig. I 4, ed. 1648.]
 
 [Footnote 164: is-- So the later 4tos.--2to 1604 "be."]
 
-[Footnote 165: shalt-- So all the 4tos; and so I believe Marlowe wrote,
-though the grammar requires "shall."]
+[Footnote 165: shalt-- So all the 4tos; and so I believe Marlowe wrote, though the grammar requires "shall."]
 
-[Footnote 166: Enter the OLD MAN-- Scene, a room in the Old Man's house.
---In THE HISTORY OF DOCTOR FAUSTUS the Old Man makes himself very
-merry with the attempts of the evil powers to hurt him.  "About
-two dayes after that he had exhorted Faustus, as the poore man
-lay in his bed, suddenly there was a mighty rumbling in the
-chamber, the which he was never wont to heare, and he heard as
-it had beene the groaning of a sow, which lasted long:  whereupon
-the good old man began to jest and mocke, and said, Oh, what a
-barbarian cry is this?  Oh faire bird, what foul musicke is this?
-A[h--, faire angell, that could not tarry two dayes in his place!
-beginnest thou now to runne into a poore mans house, where thou
-hast no power, and wert not able to keepe thy owne two dayes?
-With these and such like words the spirit departed," &c.
-Sig. I 2, ed. 1648.]
+[Footnote 166: Enter the OLD MAN-- Scene, a room in the Old Man's house. --In THE HISTORY OF DOCTOR FAUSTUS the Old Man makes himself very merry with the attempts of the evil powers to hurt him.  "About two dayes after that he had exhorted Faustus, as the poore man lay in his bed, suddenly there was a mighty rumbling in the chamber, the which he was never wont to heare, and he heard as it had beene the groaning of a sow, which lasted long:  whereupon the good old man began to jest and mocke, and said, Oh, what a barbarian cry is this?  Oh faire bird, what foul musicke is this? A[h--, faire angell, that could not tarry two dayes in his place! beginnest thou now to runne into a poore mans house, where thou hast no power, and wert not able to keepe thy owne two dayes? With these and such like words the spirit departed," &c. Sig. I 2, ed. 1648.]
 
 [Footnote 167: Enter Faustus, &c.-- Scene, a room in the house of Faustus.]
 
 [Footnote 168: cunning-- i.e. knowledge, skill.]
 
-[Footnote 169: Why did not Faustus tell us of this before, &c.-- "Wherefore
-one of them said unto him, Ah, friend Faustus, what have you done
-to conceale this matter so long from us?  We would, by the helpe
-of good divines and the grace of God, have brought you out of this
-net, and have torne you out of the bondage and chaines of Satan;
-whereas now we feare it is too late, to the utter ruine both of
-your body and soule.  Doctor Faustus answered, I durst never doe
-it, although I often minded to settle my life [myself?-- to godly
-people to desire counsell and helpe; and once mine old neighbour
-counselled me that I should follow his learning and leave all my
-conjurations:  yet, when I was minded to amend and to follow that
-good mans counsell, then came the Devill and would have had me
-away, as this night he is like to doe, and said, so soone as I
-turned againe to God, he would dispatch me altogether."  THE
-HISTORY OF DOCTOR FAUSTUS, Sig. K 3, ed. 1648.]
+[Footnote 169: Why did not Faustus tell us of this before, &c.-- "Wherefore one of them said unto him, Ah, friend Faustus, what have you done to conceale this matter so long from us?  We would, by the helpe of good divines and the grace of God, have brought you out of this net, and have torne you out of the bondage and chaines of Satan; whereas now we feare it is too late, to the utter ruine both of your body and soule.  Doctor Faustus answered, I durst never doe it, although I often minded to settle my life [myself?-- to godly people to desire counsell and helpe; and once mine old neighbour counselled me that I should follow his learning and leave all my conjurations:  yet, when I was minded to amend and to follow that good mans counsell, then came the Devill and would have had me away, as this night he is like to doe, and said, so soone as I turned againe to God, he would dispatch me altogether."  THE HISTORY OF DOCTOR FAUSTUS, Sig. K 3, ed. 1648.]
 
 [Footnote 170: save-- So the later 4tos.--Not in 4to 1604.]
 
-[Footnote 171: and what noise soever ye hear, &c.-- "Lastly, to knit up
-my troubled oration, this is my friendly request, that you would
-go to rest, and let nothing trouble you; also, if you chance heare
-any noyse or rumbling about the house, be not therewith afraid,
-for there shall no evill happen unto you," &c.  THE HISTORY OF
-DOCTOR FAUSTUS, ubi supra.]
+[Footnote 171: and what noise soever ye hear, &c.-- "Lastly, to knit up my troubled oration, this is my friendly request, that you would go to rest, and let nothing trouble you; also, if you chance heare any noyse or rumbling about the house, be not therewith afraid, for there shall no evill happen unto you," &c.  THE HISTORY OF DOCTOR FAUSTUS, ubi supra.]
 
 [Footnote 172: O lente, &c.
      "At si, quem malles, Cephalum complexa teneres,
      Clamares, LENTE CURRITE, NOCTIS EQUI."
           Ovid,--AMOR. i. xiii. 39.]
 
-[Footnote 173: That, when you, &c.-- So all the old eds.; and it is certain
-that awkward changes of person are sometimes found in passages
-of our early poets:  but qy.,
+[Footnote 173: That, when you, &c.-- So all the old eds.; and it is certain that awkward changes of person are sometimes found in passages of our early poets:  but qy.,
 
     "That, when THEY vomit forth into the air,
      My limbs may issue from THEIR smoky mouths," &c.?]
 
 [Footnote 174:          and I be chang'd
       Unto some brutish beast-- "Now, thou Faustus, damned wretch,
-how happy wert thou, if, as an unreasonable beast, thou mightest
-dye without [a-- soule! so shouldst thou not feele any more doubts,"
-&c.  THE HISTORY OF DOCTOR FAUSTUS, Sig. K. ed. 1648.]
+how happy wert thou, if, as an unreasonable beast, thou mightest dye without [a-- soule! so shouldst thou not feele any more doubts," &c.  THE HISTORY OF DOCTOR FAUSTUS, Sig. K. ed. 1648.]
 
-[Footnote 175: Exeunt DEVILS with FAUSTUS-- In THE HISTORY OF DOCTOR FAUSTUS,
-his "miserable and lamentable end" is described as follows:  it
-took place, we are informed, at "the village called Rimlich,
-halfe a mile from Wittenberg."--"The students and the other that
-were there, when they had prayed for him, they wept, and so went
-forth; but Faustus tarried in the hall; and when the gentlemen
-were laid in bed, none of them could sleepe, for that they att[e--nded
-to heare if they might be privy of his end.  It happened that
-betweene twelve and one a clocke at midnight, there blew a mighty
-storme of winde against the house, as though it would have blowne
-the foundation thereof out of his place.  Hereupon the students
-began to feare and goe out of their beds, comforting one another;
-but they would not stirre out of the chamber; and the host of
-the house ran out of doores, thinking the house would fall.  The
-students lay neere unto the hall wherein Doctor Faustus lay, and
-they heard a mighty noyse and hissing, as if the hall had beene
-full of snakes and adders.  With that, the hall-doore flew open,
-wherein Doctor Faustus was, that he began to cry for helpe,
-saying, Murther, murther! but it came forth with halfe a voyce,
-hollowly:  shortly after, they heard him no more.  But when it was
-day, the students, that had taken no rest that night, arose and
-went into the hall, in the which they left Doctor Faustus; where
-notwithstanding they found not Faustus, but all the hall lay
-sprinkled with blood, his braines cleaving to the wall, for the
-devill had beaten him from one wall against another; in one corner
-lay his eyes, in another his teeth; a pittifull and fearefull
-sight to behold.  Then began the students to waile and weepe for
-him, and sought for his body in many places.  Lastly, they came
-into the yard, where they found his body lying on the horse-dung,
-most monstrously torne and fearefull to behold, for his head and
-all his joynts were dashed in peeces.  The fore-named students and
-masters that were at his death, have obtained so much, that they
-buried him in the village where he was so grievously tormented.
-After the which they returned to Wittenberg; and comming into the
-house of Faustus, they found the servant of Faustus very sad,
-unto whom they opened all the matter, who tooke it exceeding
-heavily.  There found they also this history of Doctor Faustus
-noted and of him written, as is before declared, all save only
-his end, the which was after by the students thereto annexed;
-further, what his servant had noted thereof, was made in another
-booke.  And you have heard that he held by him in his life the
-spirit of faire Helena, the which had by him one sonne, the which
-he named Justus Faustus:  even the same day of his death they
-vanished away, both mother and sonne.  The house before was so
-darke that scarce any body could abide therein.  The same night
-Doctor Faustus appeared unto his servant lively, and shewed unto
-him many secret things, the which he had done and hidden in his
-lifetime.  Likewise there were certaine which saw Doctor Faustus
-looke out of the window by night, as they passed by the house."
-Sig. K 3, ed. 1648.]
-
+[Footnote 175: Exeunt DEVILS with FAUSTUS-- In THE HISTORY OF DOCTOR FAUSTUS, his "miserable and lamentable end" is described as follows:  it took place, we are informed, at "the village called Rimlich, halfe a mile from Wittenberg."--"The students and the other that were there, when they had prayed for him, they wept, and so went forth; but Faustus tarried in the hall; and when the gentlemen were laid in bed, none of them could sleepe, for that they att[e--nded to heare if they might be privy of his end.  It happened that betweene twelve and one a clocke at midnight, there blew a mighty storme of winde against the house, as though it would have blowne the foundation thereof out of his place.  Hereupon the students began to feare and goe out of their beds, comforting one another; but they would not stirre out of the chamber; and the host of the house ran out of doores, thinking the house would fall.  The students lay neere unto the hall wherein Doctor Faustus lay, and they heard a mighty noyse and hissing, as if the hall had beene full of snakes and adders.  With that, the hall-doore flew open, wherein Doctor Faustus was, that he began to cry for helpe, saying, Murther, murther! but it came forth with halfe a voyce, hollowly:  shortly after, they heard him no more.  But when it was day, the students, that had taken no rest that night, arose and went into the hall, in the which they left Doctor Faustus; where notwithstanding they found not Faustus, but all the hall lay sprinkled with blood, his braines cleaving to the wall, for the devill had beaten him from one wall against another; in one corner lay his eyes, in another his teeth; a pittifull and fearefull sight to behold.  Then began the students to waile and weepe for him, and sought for his body in many places.  Lastly, they came into the yard, where they found his body lying on the horse-dung, most monstrously torne and fearefull to behold, for his head and all his joynts were dashed in peeces.  The fore-named students and masters that were at his death, have obtained so much, that they buried him in the village where he was so grievously tormented. After the which they returned to Wittenberg; and comming into the house of Faustus, they found the servant of Faustus very sad, unto whom they opened all the matter, who tooke it exceeding heavily.  There found they also this history of Doctor Faustus noted and of him written, as is before declared, all save only his end, the which was after by the students thereto annexed; further, what his servant had noted thereof, was made in another booke.  And you have heard that he held by him in his life the spirit of faire Helena, the which had by him one sonne, the which he named Justus Faustus:  even the same day of his death they vanished away, both mother and sonne.  The house before was so darke that scarce any body could abide therein.  The same night Doctor Faustus appeared unto his servant lively, and shewed unto him many secret things, the which he had done and hidden in his lifetime.  Likewise there were certaine which saw Doctor Faustus looke out of the window by night, as they passed by the house." Sig. K 3, ed. 1648.]
 
 
 Original Comments on the preparation of the E-Text:
 
 SQUARE BRACKETS:
 
-The square brackets, i.e. [ ] are copied from the printed book,
-without change.  The open [Exit brackets use in the book have
-been closed [by mh].
+The square brackets, i.e. [ ] are copied from the printed book, without change.  The open [Exit brackets use in the book have been closed [by mh].
 
-For this E-Text version of the book, the footnotes have been
-consolidated at the end of the play.
+For this E-Text version of the book, the footnotes have been consolidated at the end of the play.
 
-Numbering of the footnotes has been changed, and each footnote
-is given a unique identity in the form [XXX].
+Numbering of the footnotes has been changed, and each footnote is given a unique identity in the form [XXX].
 
 CHANGES TO THE TEXT:
 
 Character names were expanded.  For Example, SECOND SCHOLAR was
 SEC. SCHOL.
-
-
-
-
-*** END OF THE PROJECT GUTENBERG EBOOK THE TRAGICAL HISTORY OF DOCTOR FAUSTUS ***
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the
-United States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away--you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg™ mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full
-Project Gutenberg™ License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg™ electronic works
-
-1.A. By reading or using any part of this Project Gutenberg™
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg™ electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg™ electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. “Project Gutenberg” is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg™ electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg™ electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg™
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation (“the
-Foundation” or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg™ electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg™ mission of promoting
-free access to electronic works by freely sharing Project Gutenberg™
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg™ name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg™ License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg™ work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country other than the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg™ License must appear
-prominently whenever any copy of a Project Gutenberg™ work (any work
-on which the phrase “Project Gutenberg” appears, or with which the
-phrase “Project Gutenberg” is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you will have to check the laws of the country where
-  you are located before using this eBook.
-
-1.E.2. If an individual Project Gutenberg™ electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase “Project
-Gutenberg” associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg™
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg™ electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg™ License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg™.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg™ License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg™ work in a format
-other than “Plain Vanilla ASCII” or other format used in the official
-version posted on the official Project Gutenberg™ website
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original “Plain
-Vanilla ASCII” or other form. Any alternate format must include the
-full Project Gutenberg™ License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg™ works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg™ electronic works
-provided that:
-
-• You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg™ works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg™ trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, “Information about donations to the Project Gutenberg
-  Literary Archive Foundation.”
-
-• You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg™
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg™
-  works.
-
-• You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-• You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg™ works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg™ electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg™ trademark. Contact the Foundation as set
-forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg™ collection. Despite these efforts, Project Gutenberg™
-electronic works, and the medium on which they may be stored, may
-contain “Defects,” such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg™ trademark, and any other party distributing a Project
-Gutenberg™ electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg™ electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg™
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg™ work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg™ work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg™
-
-Project Gutenberg™ is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg™'s
-goals and ensuring that the Project Gutenberg™ collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg™ and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org.
-
-Section 3. Information about the Project Gutenberg Literary
-Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation’s EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation’s business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation’s website
-and official page at www.gutenberg.org/contact.
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg™ depends upon and cannot survive without
-widespread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate.
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate.
-
-Section 5. General Information About Project Gutenberg™ electronic works
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg™ concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg™ eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg™ eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our website which has the main PG search
-facility: www.gutenberg.org.
-
-This website includes information about Project Gutenberg™,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
-

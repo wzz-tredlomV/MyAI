@@ -1,32 +1,3 @@
-The Project Gutenberg EBook of Ballads of a Cheechako, by Robert W. Service
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Ballads of a Cheechako
-
-Author: Robert W. Service
-
-Release Date: July 1, 2008 [EBook #259]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK BALLADS OF A CHEECHAKO ***
-
-
-
-
-Produced by A. Light
-
-
-
-
-
 BALLADS OF A CHEECHAKO
 
 by Robert W. Service
@@ -34,15 +5,13 @@ by Robert W. Service
 [British-born Canadian Poet--1874-1958.]
 
 
-     [Note on text:  Italicized stanzas will be indented 5 spaces.
+[Note on text:  Italicized stanzas will be indented 5 spaces.
      Italicized words or phrases will be capitalised.  Lines longer
      than 75 characters have been broken according to metre,
      and the continuation is indented two spaces.]
 
 
-     [This etext was transcribed from an American 1909 edition.]
-
-
+[This etext was transcribed from an American 1909 edition.]
 
 
 BALLADS OF A CHEECHAKO
@@ -52,10 +21,7 @@ by Robert W. Service
 Author of "The Spell of the Yukon"
 
 
-
-
 CONTENTS:
-
 
 
      To the Man of the High North
@@ -107,10 +73,10 @@ CONTENTS:
       I'm a homely little bit of tin and bone;
 
      The Trail of Ninety-Eight
-      Gold!  We leapt from our benches.  Gold!  We sprang from our stools.
+Gold!  We leapt from our benches.  Gold!  We sprang from our stools.
 
-     The Ballad of Gum-Boot Ben
-      He was an old prospector with a vision bleared and dim.
+The Ballad of Gum-Boot Ben
+He was an old prospector with a vision bleared and dim.
 
      Clancy of the Mounted Police
       In the little Crimson Manual it's written plain and clear
@@ -120,9 +86,6 @@ CONTENTS:
 
      L'Envoi
       We talked of yesteryears, of trails and treasure,
-
-
-
 
 
 To the Man of the High North
@@ -154,8 +117,6 @@ To the Man of the High North
       Saying:  "It's human-true--it hits me right";
      Then will I count this loving toil well spent;
      Then will I dream awhile--content, content.
-
-
 
 
 Men of the High North
@@ -213,37 +174,35 @@ Men of the High North
      Children of Freedom, scornful of frontiers,
       We who are weaklings honor your worth.
      Lords of the wilderness, Princes of Pioneers,
-      Let's have a rouse that will ring round the earth.
-
-
+Let's have a rouse that will ring round the earth.
 
 
 The Ballad of the Northern Lights
 
 
-     One of the Down and Out--that's me.  Stare at me well, ay, stare!
-     Stare and shrink--say! you wouldn't think that I was a millionaire.
+One of the Down and Out--that's me.  Stare at me well, ay, stare!
+Stare and shrink--say! you wouldn't think that I was a millionaire.
      Look at my face, it's crimped and gouged--one of them death-mask things;
      Don't seem the sort of man, do I, as might be the pal of kings?
      Slouching along in smelly rags, a bleary-eyed, no-good bum;
-     A knight of the hollow needle, pard, spewed from the sodden slum.
-     Look me all over from head to foot; how much would you think I was worth?
-     A dollar? a dime? a nickel?  Why, I'M THE WEALTHIEST MAN ON EARTH.
+A knight of the hollow needle, pard, spewed from the sodden slum.
+Look me all over from head to foot; how much would you think I was worth?
+A dollar? a dime? a nickel?  Why, I'M THE WEALTHIEST MAN ON EARTH.
 
      No, don't you think that I'm off my base.  You'll sing a different tune
      If only you'll let me spin my yarn.  Come over to this saloon;
      Wet my throat--it's as dry as chalk, and seeing as how it's you,
-     I'll tell the tale of a Northern trail, and so help me God, it's true.
-     I'll tell of the howling wilderness and the haggard Arctic heights,
-     Of a reckless vow that I made, and how I STAKED THE NORTHERN LIGHTS.
+I'll tell the tale of a Northern trail, and so help me God, it's true.
+I'll tell of the howling wilderness and the haggard Arctic heights,
+Of a reckless vow that I made, and how I STAKED THE NORTHERN LIGHTS.
 
      Remember the year of the Big Stampede and the trail of Ninety-eight,
      When the eyes of the world were turned to the North,
        and the hearts of men elate;
      Hearts of the old dare-devil breed thrilled at the wondrous strike,
-     And to every man who could hold a pan came the message, "Up and hike".
-     Well, I was there with the best of them, and I knew I would not fail.
-     You wouldn't believe it to see me now; but wait till you've heard my tale.
+And to every man who could hold a pan came the message, "Up and hike".
+Well, I was there with the best of them, and I knew I would not fail.
+You wouldn't believe it to see me now; but wait till you've heard my tale.
 
      You've read of the trail of Ninety-eight, but its woe no man may tell;
      It was all of a piece and a whole yard wide,
@@ -255,20 +214,20 @@ The Ballad of the Northern Lights
        and the gold lust crazed us all.
 
      Bold were we, and they called us three the "Unholy Trinity";
-     There was Ole Olson, the sailor Swede, and the Dago Kid and me.
-     We were the discards of the pack, the foreloopers of Unrest,
-     Reckless spirits of fierce revolt in the ferment of the West.
-     We were bound to win and we revelled in the hardships of the way.
+There was Ole Olson, the sailor Swede, and the Dago Kid and me.
+We were the discards of the pack, the foreloopers of Unrest,
+Reckless spirits of fierce revolt in the ferment of the West.
+We were bound to win and we revelled in the hardships of the way.
      We staked our ground and our hopes were crowned,
        and we hoisted out the pay.
      We were rich in a day beyond our dreams,
        it was gold from the grass-roots down;
-     But we weren't used to such sudden wealth, and there was the siren town.
-     We were crude and careless frontiersmen, with much in us of the beast;
-     We could bear the famine worthily, but we lost our heads at the feast.
+But we weren't used to such sudden wealth, and there was the siren town.
+We were crude and careless frontiersmen, with much in us of the beast;
+We could bear the famine worthily, but we lost our heads at the feast.
 
-     The town looked mighty bright to us, with a bunch of dust to spend,
-     And nothing was half too good them days, and everyone was our friend.
+The town looked mighty bright to us, with a bunch of dust to spend,
+And nothing was half too good them days, and everyone was our friend.
      Wining meant more than mining then, and life was a dizzy whirl,
      Gambling and dropping chunks of gold down the neck of a dance-hall girl;
      Till we went clean mad, it seems to me, and we squandered our last poke,
@@ -282,19 +241,19 @@ The Ballad of the Northern Lights
      And he said:  "I dreamed of my sister's son,
        who croaked at the age of three.
      From the herded dead he sneaked and said:  `Seek you an Arctic trail;
-     'Tis pale and grim by the Polar rim, but seek and ye shall not fail.'"
-     And lo! that night I too did dream of my mother's sister's son,
-     And he said to me:  "By the Arctic Sea there's a treasure to be won.
-     Follow and follow a lone moose trail, till you come to a valley grim,
-     On the slope of the lonely watershed that borders the Polar brim."
+'Tis pale and grim by the Polar rim, but seek and ye shall not fail.'"
+And lo! that night I too did dream of my mother's sister's son,
+And he said to me:  "By the Arctic Sea there's a treasure to be won.
+Follow and follow a lone moose trail, till you come to a valley grim,
+On the slope of the lonely watershed that borders the Polar brim."
      Then I woke my pals, and soft we swore by the mystic Silver Flail,
      'Twas the hand of Fate, and to-morrow straight
        we would seek the lone moose trail.
 
      We watched the groaning ice wrench free, crash on with a hollow din;
-     Men of the wilderness were we, freed from the taint of sin.
-     The mighty river snatched us up and it bore us swift along;
-     The days were bright, and the morning light was sweet with jewelled song.
+Men of the wilderness were we, freed from the taint of sin.
+The mighty river snatched us up and it bore us swift along;
+The days were bright, and the morning light was sweet with jewelled song.
      We poled and lined up nameless streams, portaged o'er hill and plain;
      We burnt our boat to save the nails, and built our boat again;
      We guessed and groped, North, ever North, with many a twist and turn;
@@ -302,18 +261,18 @@ The Ballad of the Northern Lights
      O'er soundless lakes where the grayling makes a rush at the clumsy fly;
      By bluffs so steep that the hard-hit sheep falls sheer from out the sky;
      By lilied pools where the bull moose cools and wallows in huge content;
-     By rocky lairs where the pig-eyed bears peered at our tiny tent.
-     Through the black canyon's angry foam we hurled to dreamy bars,
-     And round in a ring the dog-nosed peaks bayed to the mocking stars.
-     Spring and summer and autumn went; the sky had a tallow gleam,
-     Yet North and ever North we pressed to the land of our Golden Dream.
+By rocky lairs where the pig-eyed bears peered at our tiny tent.
+Through the black canyon's angry foam we hurled to dreamy bars,
+And round in a ring the dog-nosed peaks bayed to the mocking stars.
+Spring and summer and autumn went; the sky had a tallow gleam,
+Yet North and ever North we pressed to the land of our Golden Dream.
 
-     So we came at last to a tundra vast and dark and grim and lone;
-     And there was the little lone moose trail, and we knew it for our own.
-     By muskeg hollow and nigger-head it wandered endlessly;
-     Sorry of heart and sore of foot, weary men were we.
-     The short-lived sun had a leaden glare and the darkness came too soon,
-     And stationed there with a solemn stare was the pinched, anaemic moon.
+So we came at last to a tundra vast and dark and grim and lone;
+And there was the little lone moose trail, and we knew it for our own.
+By muskeg hollow and nigger-head it wandered endlessly;
+Sorry of heart and sore of foot, weary men were we.
+The short-lived sun had a leaden glare and the darkness came too soon,
+And stationed there with a solemn stare was the pinched, anaemic moon.
      Silence and silvern solitude till it made you dumbly shrink,
      And you thought to hear with an outward ear
        the things you thought to think.
@@ -324,9 +283,9 @@ The Ballad of the Northern Lights
      And swift they pranced with their silver feet,
        and pierced with a blinding blaze.
      They danced a cotillion in the sky; they were rose and silver shod;
-     It was not good for the eyes of man--'twas a sight for the eyes of God.
-     It made us mad and strange and sad, and the gold whereof we dreamed
-     Was all forgot, and our only thought was of the lights that gleamed.
+It was not good for the eyes of man--'twas a sight for the eyes of God.
+It made us mad and strange and sad, and the gold whereof we dreamed
+Was all forgot, and our only thought was of the lights that gleamed.
 
      Oh, the tundra sponge it was golden brown, and some was a bright blood-red;
      And the reindeer moss gleamed here and there
@@ -337,121 +296,119 @@ The Ballad of the Northern Lights
        with a throbbing, thrilling flame;
      Amber and rose and violet, opal and gold it came.
      It swept the sky like a giant scythe, it quivered back to a wedge;
-     Argently bright, it cleft the night with a wavy golden edge.
-     Pennants of silver waved and streamed, lazy banners unfurled;
-     Sudden splendors of sabres gleamed, lightning javelins were hurled.
-     There in our awe we crouched and saw with our wild, uplifted eyes
-     Charge and retire the hosts of fire in the battlefield of the skies.
+Argently bright, it cleft the night with a wavy golden edge.
+Pennants of silver waved and streamed, lazy banners unfurled;
+Sudden splendors of sabres gleamed, lightning javelins were hurled.
+There in our awe we crouched and saw with our wild, uplifted eyes
+Charge and retire the hosts of fire in the battlefield of the skies.
 
-     But all things come to an end at last, and the muskeg melted away,
-     And frowning down to bar our path a muddle of mountains lay.
-     And a gorge sheered up in granite walls, and the moose trail crept betwixt;
-     'Twas as if the earth had gaped too far and her stony jaws were fixt.
-     Then the winter fell with a sudden swoop, and the heavy clouds sagged low,
-     And earth and sky were blotted out in a whirl of driving snow.
+But all things come to an end at last, and the muskeg melted away,
+And frowning down to bar our path a muddle of mountains lay.
+And a gorge sheered up in granite walls, and the moose trail crept betwixt;
+'Twas as if the earth had gaped too far and her stony jaws were fixt.
+Then the winter fell with a sudden swoop, and the heavy clouds sagged low,
+And earth and sky were blotted out in a whirl of driving snow.
 
-     We were climbing up a glacier in the neck of a mountain pass,
-     When the Dago Kid slipped down and fell into a deep crevasse.
-     When we got him out one leg hung limp, and his brow was wreathed with pain,
-     And he says:  "'Tis badly broken, boys, and I'll never walk again.
-     It's death for all if ye linger here, and that's no cursed lie;
-     Go on, go on while the trail is good, and leave me down to die."
-     He raved and swore, but we tended him with our uncouth, clumsy care.
+We were climbing up a glacier in the neck of a mountain pass,
+When the Dago Kid slipped down and fell into a deep crevasse.
+When we got him out one leg hung limp, and his brow was wreathed with pain,
+And he says:  "'Tis badly broken, boys, and I'll never walk again.
+It's death for all if ye linger here, and that's no cursed lie;
+Go on, go on while the trail is good, and leave me down to die."
+He raved and swore, but we tended him with our uncouth, clumsy care.
      The camp-fire gleamed and he gazed and dreamed
        with a fixed and curious stare.
      Then all at once he grabbed my gun and he put it to his head,
-     And he says:  "I'll fix it for you, boys"--them are the words he said.
+And he says:  "I'll fix it for you, boys"--them are the words he said.
 
-     So we sewed him up in a canvas sack and we slung him to a tree;
-     And the stars like needles stabbed our eyes, and woeful men were we.
+So we sewed him up in a canvas sack and we slung him to a tree;
+And the stars like needles stabbed our eyes, and woeful men were we.
      And on we went on our woeful way, wrapped in a daze of dream,
      And the Northern Lights in the crystal nights
        came forth with a mystic gleam.
      They danced and they danced the devil-dance over the naked snow;
-     And soft they rolled like a tide upshoaled with a ceaseless ebb and flow.
-     They rippled green with a wondrous sheen, they fluttered out like a fan;
-     They spread with a blaze of rose-pink rays never yet seen of man.
-     They writhed like a brood of angry snakes, hissing and sulphur pale;
-     Then swift they changed to a dragon vast, lashing a cloven tail.
-     It seemed to us, as we gazed aloft with an everlasting stare,
-     The sky was a pit of bale and dread, and a monster revelled there.
+And soft they rolled like a tide upshoaled with a ceaseless ebb and flow.
+They rippled green with a wondrous sheen, they fluttered out like a fan;
+They spread with a blaze of rose-pink rays never yet seen of man.
+They writhed like a brood of angry snakes, hissing and sulphur pale;
+Then swift they changed to a dragon vast, lashing a cloven tail.
+It seemed to us, as we gazed aloft with an everlasting stare,
+The sky was a pit of bale and dread, and a monster revelled there.
 
-     We climbed the rise of a hog-back range that was desolate and drear,
-     When the Sailor Swede had a crazy fit, and he got to talking queer.
-     He talked of his home in Oregon and the peach trees all in bloom,
-     And the fern head-high, and the topaz sky, and the forest's scented gloom.
-     He talked of the sins of his misspent life, and then he seemed to brood,
-     And I watched him there like a fox a hare, for I knew it was not good.
+We climbed the rise of a hog-back range that was desolate and drear,
+When the Sailor Swede had a crazy fit, and he got to talking queer.
+He talked of his home in Oregon and the peach trees all in bloom,
+And the fern head-high, and the topaz sky, and the forest's scented gloom.
+He talked of the sins of his misspent life, and then he seemed to brood,
+And I watched him there like a fox a hare, for I knew it was not good.
      And sure enough in the dim dawn-light I missed him from the tent,
      And a fresh trail broke through the crusted snow,
        and I knew not where it went.
      But I followed it o'er the seamless waste, and I found him at shut of day,
-     Naked there as a new-born babe--so I left him where he lay.
+Naked there as a new-born babe--so I left him where he lay.
 
-     Day after day was sinister, and I fought fierce-eyed despair,
-     And I clung to life, and I struggled on, I knew not why nor where.
-     I packed my grub in short relays, and I cowered down in my tent,
-     And the world around was purged of sound like a frozen continent.
-     Day after day was dark as death, but ever and ever at nights,
-     With a brilliancy that grew and grew, blazed up the Northern Lights.
+Day after day was sinister, and I fought fierce-eyed despair,
+And I clung to life, and I struggled on, I knew not why nor where.
+I packed my grub in short relays, and I cowered down in my tent,
+And the world around was purged of sound like a frozen continent.
+Day after day was dark as death, but ever and ever at nights,
+With a brilliancy that grew and grew, blazed up the Northern Lights.
 
-     They rolled around with a soundless sound like softly bruised silk;
-     They poured into the bowl of the sky with the gentle flow of milk.
-     In eager, pulsing violet their wheeling chariots came,
-     Or they poised above the Polar rim like a coronal of flame.
-     From depths of darkness fathomless their lancing rays were hurled,
-     Like the all-combining search-lights of the navies of the world.
-     There on the roof-pole of the world as one bewitched I gazed,
-     And howled and grovelled like a beast as the awful splendors blazed.
-     My eyes were seared, yet thralled I peered
-       through the parka hood nigh blind;
-     But I staggered on to the lights that shone, and never I looked behind.
+They rolled around with a soundless sound like softly bruised silk;
+They poured into the bowl of the sky with the gentle flow of milk.
+In eager, pulsing violet their wheeling chariots came,
+Or they poised above the Polar rim like a coronal of flame.
+From depths of darkness fathomless their lancing rays were hurled,
+Like the all-combining search-lights of the navies of the world.
+There on the roof-pole of the world as one bewitched I gazed,
+And howled and grovelled like a beast as the awful splendors blazed.
+My eyes were seared, yet thralled I peered
+through the parka hood nigh blind;
+But I staggered on to the lights that shone, and never I looked behind.
 
      There is a mountain round and low that lies by the Polar rim,
      And I climbed its height in a whirl of light,
        and I peered o'er its jagged brim;
      And there in a crater deep and vast, ungained, unguessed of men,
-     The mystery of the Arctic world was flashed into my ken.
-     For there these poor dim eyes of mine beheld the sight of sights--
-     That hollow ring was the source and spring of the mystic Northern Lights.
+The mystery of the Arctic world was flashed into my ken.
+For there these poor dim eyes of mine beheld the sight of sights--
+That hollow ring was the source and spring of the mystic Northern Lights.
 
-     Then I staked that place from crown to base, and I hit the homeward trail.
+Then I staked that place from crown to base, and I hit the homeward trail.
      Ah, God! it was good, though my eyes were blurred,
        and I crawled like a sickly snail.
      In that vast white world where the silent sky
        communes with the silent snow,
-     In hunger and cold and misery I wandered to and fro.
-     But the Lord took pity on my pain, and He led me to the sea,
-     And some ice-bound whalers heard my moan, and they fed and sheltered me.
+In hunger and cold and misery I wandered to and fro.
+But the Lord took pity on my pain, and He led me to the sea,
+And some ice-bound whalers heard my moan, and they fed and sheltered me.
      They fed the feeble scarecrow thing that stumbled out of the wild
      With the ravaged face of a mask of death
        and the wandering wits of a child--
-     A craven, cowering bag of bones that once had been a man.
-     They tended me and they brought me back to the world, and here I am.
+A craven, cowering bag of bones that once had been a man.
+They tended me and they brought me back to the world, and here I am.
 
-     Some say that the Northern Lights are the glare of the Arctic ice and snow;
-     And some that it's electricity, and nobody seems to know.
-     But I'll tell you now--and if I lie, may my lips be stricken dumb--
-     It's a MINE, a mine of the precious stuff that men call radium.
-     I'ts a million dollars a pound, they say,
-       and there's tons and tons in sight.
-     You can see it gleam in a golden stream in the solitudes of night.
-     And it's mine, all mine--and say! if you have a hundred plunks to spare,
-     I'll let you have the chance of your life, I'll sell you a quarter share.
-     You turn it down?  Well, I'll make it ten, seeing as you are my friend.
-     Nothing doing?  Say! don't be hard--have you got a dollar to lend?
-     Just a dollar to help me out, I know you'll treat me white;
-     I'll do as much for you some day . . . God bless you, sir; good-night.
-
-
+Some say that the Northern Lights are the glare of the Arctic ice and snow;
+And some that it's electricity, and nobody seems to know.
+But I'll tell you now--and if I lie, may my lips be stricken dumb--
+It's a MINE, a mine of the precious stuff that men call radium.
+I'ts a million dollars a pound, they say,
+and there's tons and tons in sight.
+You can see it gleam in a golden stream in the solitudes of night.
+And it's mine, all mine--and say! if you have a hundred plunks to spare,
+I'll let you have the chance of your life, I'll sell you a quarter share.
+You turn it down?  Well, I'll make it ten, seeing as you are my friend.
+Nothing doing?  Say! don't be hard--have you got a dollar to lend?
+Just a dollar to help me out, I know you'll treat me white;
+I'll do as much for you some day . . . God bless you, sir; good-night.
 
 
 The Ballad of the Black Fox Skin
 
 
-     There was Claw-fingered Kitty and Windy Ike living the life of shame,
-     When unto them in the Long, Long Night came the man-who-had-no-name;
-     Bearing his prize of a black fox pelt, out of the Wild he came.
+There was Claw-fingered Kitty and Windy Ike living the life of shame,
+When unto them in the Long, Long Night came the man-who-had-no-name;
+Bearing his prize of a black fox pelt, out of the Wild he came.
 
      His cheeks were blanched as the flume-head foam
        when the brown spring freshets flow;
@@ -472,15 +429,15 @@ The Ballad of the Black Fox Skin
      "For look ye, the skin--it's as smooth as sin,
        and black as the core of the Pit.
      By gun or by trap, whatever the hap, I swore I would capture it;
-     By star and by star afield and afar, I hunted and would not quit.
+By star and by star afield and afar, I hunted and would not quit.
 
-     "For the devil-fox, it was swift and sly, and it seemed to fleer at me;
-     I would wake in fright by the camp-fire light, hearing its evil glee;
-     Into my dream its eyes would gleam, and its shadow would I see.
+"For the devil-fox, it was swift and sly, and it seemed to fleer at me;
+I would wake in fright by the camp-fire light, hearing its evil glee;
+Into my dream its eyes would gleam, and its shadow would I see.
 
-     "It sniffed and ran from the ptarmigan I had poisoned to excess;
-     Unharmed it sped from my wrathful lead ('twas as if I shot by guess);
-     Yet it came by night in the stark moonlight to mock at my weariness.
+"It sniffed and ran from the ptarmigan I had poisoned to excess;
+Unharmed it sped from my wrathful lead ('twas as if I shot by guess);
+Yet it came by night in the stark moonlight to mock at my weariness.
 
      "I tracked it up where the mountains hunch like the vertebrae of the world;
      I tracked it down to the death-still pits where the avalanche is hurled;
@@ -490,11 +447,11 @@ The Ballad of the Black Fox Skin
      "From the vastitudes where the world protrudes
        through clouds like seas up-shoaled,
      I held its track till it led me back to the land I had left of old--
-     The land I had looted many moons.  I was weary and sick and cold.
+The land I had looted many moons.  I was weary and sick and cold.
 
-     "I was sick, soul-sick, of the futile chase, and there and then I swore
-     The foul fiend fox might scathless go, for I would hunt no more;
-     Then I rubbed mine eyes in a vast surprise--it stood by my cabin door.
+"I was sick, soul-sick, of the futile chase, and there and then I swore
+The foul fiend fox might scathless go, for I would hunt no more;
+Then I rubbed mine eyes in a vast surprise--it stood by my cabin door.
 
      "A rifle raised in the wraith-like gloom, and a vengeful shot that sped;
      A howl that would thrill a cream-faced corpse--
@@ -504,23 +461,23 @@ The Ballad of the Black Fox Skin
      "So that was the end of the great black fox,
        and here is the prize I've won;
      And now for a drink to cheer me up--I've mushed since the early sun;
-     We'll drink a toast to the sorry ghost of the fox whose race is run."
+We'll drink a toast to the sorry ghost of the fox whose race is run."
 
 
-     II.
+II.
 
      Now Claw-fingered Kitty and Windy Ike, bad as the worst were they;
      In their road-house down by the river-trail
        they waited and watched for prey;
-     With wine and song they joyed night long, and they slept like swine by day.
+With wine and song they joyed night long, and they slept like swine by day.
 
-     For things were done in the Midnight Sun that no tongue will ever tell;
-     And men there be who walk earth-free, but whose names are writ in hell--
-     Are writ in flames with the guilty names of Fournier and Labelle.
+For things were done in the Midnight Sun that no tongue will ever tell;
+And men there be who walk earth-free, but whose names are writ in hell--
+Are writ in flames with the guilty names of Fournier and Labelle.
 
-     Put not your trust in a poke of dust would ye sleep the sleep of sin;
-     For there be those who would rob your clothes ere yet the dawn comes in;
-     And a prize likewise in a woman's eyes is a peerless black fox skin.
+Put not your trust in a poke of dust would ye sleep the sleep of sin;
+For there be those who would rob your clothes ere yet the dawn comes in;
+And a prize likewise in a woman's eyes is a peerless black fox skin.
 
      Put your faith in the mountain cat if you lie within his lair;
      Trust the fangs of the mother-wolf, and the claws of the lead-ripped bear;
@@ -529,101 +486,99 @@ The Ballad of the Black Fox Skin
 
      Wherefore it was beyond all laws that lusts of man restrain,
      A man drank deep and sank to sleep never to wake again;
-     And the Yukon swallowed through a hole the cold corpse of the slain.
+And the Yukon swallowed through a hole the cold corpse of the slain.
 
 
-     III.
+III.
 
-     The black fox skin a shadow cast from the roof nigh to the floor;
-     And sleek it seemed and soft it gleamed, and the woman stroked it o'er;
-     And the man stood by with a brooding eye, and gnashed his teeth and swore.
+The black fox skin a shadow cast from the roof nigh to the floor;
+And sleek it seemed and soft it gleamed, and the woman stroked it o'er;
+And the man stood by with a brooding eye, and gnashed his teeth and swore.
 
-     When thieves and thugs fall out and fight there's fell arrears to pay;
-     And soon or late sin meets its fate, and so it fell one day
-     That Claw-fingered Kitty and Windy Ike fanged up like dogs at bay.
+When thieves and thugs fall out and fight there's fell arrears to pay;
+And soon or late sin meets its fate, and so it fell one day
+That Claw-fingered Kitty and Windy Ike fanged up like dogs at bay.
 
-     "The skin is mine, all mine," she cried; "I did the deed alone."
-     "It's share and share with a guilt-yoked pair",
-       he hissed in a pregnant tone;
-     And so they snarled like malamutes over a mildewed bone.
+"The skin is mine, all mine," she cried; "I did the deed alone."
+"It's share and share with a guilt-yoked pair",
+he hissed in a pregnant tone;
+And so they snarled like malamutes over a mildewed bone.
 
-     And so they fought, by fear untaught, till haply it befell
-     One dawn of day she slipped away to Dawson town to sell
-     The fruit of sin, this black fox skin that had made their lives a hell.
+And so they fought, by fear untaught, till haply it befell
+One dawn of day she slipped away to Dawson town to sell
+The fruit of sin, this black fox skin that had made their lives a hell.
 
-     She slipped away as still he lay, she clutched the wondrous fur;
-     Her pulses beat, her foot was fleet, her fear was as a spur;
-     She laughed with glee, she did not see him rise and follow her.
+She slipped away as still he lay, she clutched the wondrous fur;
+Her pulses beat, her foot was fleet, her fear was as a spur;
+She laughed with glee, she did not see him rise and follow her.
 
-     The bluffs uprear and grimly peer far over Dawson town;
-     They see its lights a blaze o' nights and harshly they look down;
-     They mock the plan and plot of man with grim, ironic frown.
+The bluffs uprear and grimly peer far over Dawson town;
+They see its lights a blaze o' nights and harshly they look down;
+They mock the plan and plot of man with grim, ironic frown.
 
-     The trail was steep; 'twas at the time when swiftly sinks the snow;
-     All honey-combed, the river ice was rotting down below;
-     The river chafed beneath its rind with many a mighty throe.
+The trail was steep; 'twas at the time when swiftly sinks the snow;
+All honey-combed, the river ice was rotting down below;
+The river chafed beneath its rind with many a mighty throe.
 
-     And up the swift and oozy drift a woman climbed in fear,
-     Clutching to her a black fox fur as if she held it dear;
-     And hard she pressed it to her breast--then Windy Ike drew near.
+And up the swift and oozy drift a woman climbed in fear,
+Clutching to her a black fox fur as if she held it dear;
+And hard she pressed it to her breast--then Windy Ike drew near.
 
-     She made no moan--her heart was stone--she read his smiling face,
-     And like a dream flashed all her life's dark horror and disgrace;
-     A moment only--with a snarl he hurled her into space.
+She made no moan--her heart was stone--she read his smiling face,
+And like a dream flashed all her life's dark horror and disgrace;
+A moment only--with a snarl he hurled her into space.
 
-     She rolled for nigh an hundred feet; she bounded like a ball;
-     From crag to crag she carromed down through snow and timber fall; . . .
-     A hole gaped in the river ice; the spray flashed--that was all.
+She rolled for nigh an hundred feet; she bounded like a ball;
+From crag to crag she carromed down through snow and timber fall; . . .
+A hole gaped in the river ice; the spray flashed--that was all.
 
-     A bird sang for the joy of spring, so piercing sweet and frail;
-     And blinding bright the land was dight in gay and glittering mail;
-     And with a wondrous black fox skin a man slid down the trail.
-
-
-     IV.
-
-     A wedge-faced man there was who ran along the river bank,
-     Who stumbled through each drift and slough, and ever slipped and sank,
-     And ever cursed his Maker's name, and ever "hooch" he drank.
-
-     He travelled like a hunted thing, hard harried, sore distrest;
-     The old grandmother moon crept out from her cloud-quilted nest;
-     The aged mountains mocked at him in their primeval rest.
-
-     Grim shadows diapered the snow; the air was strangely mild;
-     The valley's girth was dumb with mirth, the laughter of the wild;
-     The still, sardonic laughter of an ogre o'er a child.
-
-     The river writhed beneath the ice; it groaned like one in pain,
-     And yawning chasms opened wide, and closed and yawned again;
-     And sheets of silver heaved on high until they split in twain.
-
-     From out the road-house by the trail they saw a man afar
-     Make for the narrow river-reach where the swift cross-currents are;
-     Where, frail and worn, the ice is torn and the angry waters jar.
-
-     But they did not see him crash and sink into the icy flow;
-     They did not see him clinging there, gripped by the undertow,
-     Clawing with bleeding finger-nails at the jagged ice and snow.
-
-     They found a note beside the hole where he had stumbled in:
-     "Here met his fate by evil luck a man who lived in sin,
-     And to the one who loves me least I leave this black fox skin."
-
-     And strange it is; for, though they searched the river all around,
-     No trace or sign of black fox skin was ever after found;
-     Though one man said he saw the tread of HOOFS deep in the ground.
+A bird sang for the joy of spring, so piercing sweet and frail;
+And blinding bright the land was dight in gay and glittering mail;
+And with a wondrous black fox skin a man slid down the trail.
 
 
+IV.
+
+A wedge-faced man there was who ran along the river bank,
+Who stumbled through each drift and slough, and ever slipped and sank,
+And ever cursed his Maker's name, and ever "hooch" he drank.
+
+He travelled like a hunted thing, hard harried, sore distrest;
+The old grandmother moon crept out from her cloud-quilted nest;
+The aged mountains mocked at him in their primeval rest.
+
+Grim shadows diapered the snow; the air was strangely mild;
+The valley's girth was dumb with mirth, the laughter of the wild;
+The still, sardonic laughter of an ogre o'er a child.
+
+The river writhed beneath the ice; it groaned like one in pain,
+And yawning chasms opened wide, and closed and yawned again;
+And sheets of silver heaved on high until they split in twain.
+
+From out the road-house by the trail they saw a man afar
+Make for the narrow river-reach where the swift cross-currents are;
+Where, frail and worn, the ice is torn and the angry waters jar.
+
+But they did not see him crash and sink into the icy flow;
+They did not see him clinging there, gripped by the undertow,
+Clawing with bleeding finger-nails at the jagged ice and snow.
+
+They found a note beside the hole where he had stumbled in:
+"Here met his fate by evil luck a man who lived in sin,
+And to the one who loves me least I leave this black fox skin."
+
+And strange it is; for, though they searched the river all around,
+No trace or sign of black fox skin was ever after found;
+Though one man said he saw the tread of HOOFS deep in the ground.
 
 
 The Ballad of Pious Pete
 
-          _"The North has got him."_ --Yukonism.
+_"The North has got him."_ --Yukonism.
 
 
-     I tried to refine that neighbor of mine, honest to God, I did.
-     I grieved for his fate, and early and late I watched over him like a kid.
+I tried to refine that neighbor of mine, honest to God, I did.
+I grieved for his fate, and early and late I watched over him like a kid.
      I gave him excuse, I bore his abuse in every way that I could;
      I swore to prevail; I camped on his trail;
        I plotted and planned for his good.
@@ -683,9 +638,9 @@ The Ballad of Pious Pete
        he was plotting me terrible ill.
      I knew that he nursed a malice accurst,
        like the blast of a winnowing flame;
-     I pleaded aloud for a shield, for a shroud--Oh, God! then calamity came.
+I pleaded aloud for a shield, for a shroud--Oh, God! then calamity came.
 
-     Mad!  If I'm mad then you too are mad; but it's all in the point of view.
+Mad!  If I'm mad then you too are mad; but it's all in the point of view.
      If you'd looked at them things gallivantin' on wings,
        all purple and green and blue;
      If you'd noticed them twist, as they mounted and hissed
@@ -753,9 +708,7 @@ The Ballad of Pious Pete
        that thinks he's a millionaire.
      But it's all Gospel true what I'm telling to you--
        up there where the Shadow falls--
-     That I settled Sam Noot when he started to shoot electricity into my walls.
-
-
+That I settled Sam Noot when he started to shoot electricity into my walls.
 
 
 The Ballad of Blasphemous Bill
@@ -768,16 +721,16 @@ The Ballad of Blasphemous Bill
      On velvet tundra or virgin peak, by glacier, drift or draw;
      In muskeg hollow or canyon gloom, by avalanche, fang or claw;
      By battle, murder or sudden wealth, by pestilence, hooch or lead--
-     I swore on the Book I would follow and look till I found my tombless dead.
+I swore on the Book I would follow and look till I found my tombless dead.
 
-     For Bill was a dainty kind of cuss, and his mind was mighty sot
-     On a dinky patch with flowers and grass in a civilized bone-yard lot.
-     And where he died or how he died, it didn't matter a damn
-     So long as he had a grave with frills and a tombstone "epigram".
-     So I promised him, and he paid the price in good cheechako coin
-     (Which the same I blowed in that very night down in the Tenderloin).
-     Then I painted a three-foot slab of pine:  "Here lies poor Bill MacKie",
-     And I hung it up on my cabin wall and I waited for Bill to die.
+For Bill was a dainty kind of cuss, and his mind was mighty sot
+On a dinky patch with flowers and grass in a civilized bone-yard lot.
+And where he died or how he died, it didn't matter a damn
+So long as he had a grave with frills and a tombstone "epigram".
+So I promised him, and he paid the price in good cheechako coin
+(Which the same I blowed in that very night down in the Tenderloin).
+Then I painted a three-foot slab of pine:  "Here lies poor Bill MacKie",
+And I hung it up on my cabin wall and I waited for Bill to die.
 
      Years passed away, and at last one day came a squaw with a story strange,
      Of a long-deserted line of traps 'way back of the Bighorn range;
@@ -831,14 +784,14 @@ The Ballad of Blasphemous Bill
      Have you ever sat by a frozen corpse that looks at you with a grin,
      And that seems to say:  "You may try all day, but you'll never jam me in"?
      I'm not a man of the quitting kind, but I never felt so blue
-     As I sat there gazing at that stiff and studying what I'd do.
-     Then I rose and I kicked off the husky dogs that were nosing round about,
-     And I lit a roaring fire in the stove, and I started to thaw Bill out.
+As I sat there gazing at that stiff and studying what I'd do.
+Then I rose and I kicked off the husky dogs that were nosing round about,
+And I lit a roaring fire in the stove, and I started to thaw Bill out.
 
-     Well, I thawed and thawed for thirteen days, but it didn't seem no good;
-     His arms and legs stuck out like pegs, as if they was made of wood.
-     Till at last I said:  "It ain't no use--he's froze too hard to thaw;
-     He's obstinate, and he won't lie straight, so I guess I got to--SAW."
+Well, I thawed and thawed for thirteen days, but it didn't seem no good;
+His arms and legs stuck out like pegs, as if they was made of wood.
+Till at last I said:  "It ain't no use--he's froze too hard to thaw;
+He's obstinate, and he won't lie straight, so I guess I got to--SAW."
      So I sawed off poor Bill's arms and legs, and I laid him snug and straight
      In the little coffin he picked hisself, with the dinky silver plate;
      And I came nigh near to shedding a tear as I nailed him safely down;
@@ -848,11 +801,9 @@ The Ballad of Blasphemous Bill
      And there he's waiting the Great Clean-up,
        when the Judgment sluice-heads sweep;
      And I smoke my pipe and I meditate in the light of the Midnight Sun,
-     And sometimes I wonder if they WAS, the awful things I done.
-     And as I sit and the parson talks, expounding of the Law,
-     I often think of poor old Bill--AND HOW HARD HE WAS TO SAW.
-
-
+And sometimes I wonder if they WAS, the awful things I done.
+And as I sit and the parson talks, expounding of the Law,
+I often think of poor old Bill--AND HOW HARD HE WAS TO SAW.
 
 
 The Ballad of One-Eyed Mike
@@ -878,12 +829,12 @@ The Ballad of One-Eyed Mike
      So twenty years, with their hopes and fears and smiles and tears and such,
      Went by and left me long bereft of hope of the Midas touch;
      About as fat as a chancel rat, and lo! despite my will,
-     In the weary fight I had clean lost sight of the man I sought to kill.
+In the weary fight I had clean lost sight of the man I sought to kill.
 
-     'Twas so far away, that evil day when I prayed to the Prince of Gloom
-     For the savage strength and the sullen length of life to work his doom.
-     Nor sign nor word had I seen or heard, and it happed so long ago;
-     My youth was gone and my memory wan, and I willed it even so.
+'Twas so far away, that evil day when I prayed to the Prince of Gloom
+For the savage strength and the sullen length of life to work his doom.
+Nor sign nor word had I seen or heard, and it happed so long ago;
+My youth was gone and my memory wan, and I willed it even so.
 
      It fell one night in the waning light by the Yukon's oily flow,
      I smoked and sat as I marvelled at the sky's port-winey glow;
@@ -893,45 +844,43 @@ The Ballad of One-Eyed Mike
      'Twas weird to see and it 'wildered me in a queer, hypnotic dream,
      Till I saw a spot like an inky blot come floating down the stream;
      It bobbed and swung; it sheered and hung; it romped round in a ring;
-     It seemed to play in a tricksome way; it sure was a merry thing.
+It seemed to play in a tricksome way; it sure was a merry thing.
 
-     In freakish flights strange oily lights came fluttering round its head,
-     Like butterflies of a monster size--then I knew it for the Dead.
-     Its face was rubbed and slicked and scrubbed as smooth as a shaven pate;
-     In the silver snakes that the water makes it gleamed like a dinner-plate.
+In freakish flights strange oily lights came fluttering round its head,
+Like butterflies of a monster size--then I knew it for the Dead.
+Its face was rubbed and slicked and scrubbed as smooth as a shaven pate;
+In the silver snakes that the water makes it gleamed like a dinner-plate.
 
-     It gurgled near, and clear and clear and large and large it grew;
-     It stood upright in a ring of light and it looked me through and through.
-     It weltered round with a woozy sound, and ere I could retreat,
-     With the witless roll of a sodden soul it wantoned to my feet.
+It gurgled near, and clear and clear and large and large it grew;
+It stood upright in a ring of light and it looked me through and through.
+It weltered round with a woozy sound, and ere I could retreat,
+With the witless roll of a sodden soul it wantoned to my feet.
 
-     And here I swear by this Cross I wear, I heard that "floater" say:
-     "I am the man from whom you ran, the man you sought to slay.
-     That you may note and gaze and gloat, and say `Revenge is sweet',
-     In the grit and grime of the river's slime I am rotting at your feet.
+And here I swear by this Cross I wear, I heard that "floater" say:
+"I am the man from whom you ran, the man you sought to slay.
+That you may note and gaze and gloat, and say `Revenge is sweet',
+In the grit and grime of the river's slime I am rotting at your feet.
 
-     "The ill we rue we must e'en undo, though it rive us bone from bone;
-     So it came about that I sought you out, for I prayed I might atone.
-     I did you wrong, and for long and long I sought where you might live;
-     And now you're found, though I'm dead and drowned, I beg you to forgive."
+"The ill we rue we must e'en undo, though it rive us bone from bone;
+So it came about that I sought you out, for I prayed I might atone.
+I did you wrong, and for long and long I sought where you might live;
+And now you're found, though I'm dead and drowned, I beg you to forgive."
 
      So sad it seemed, and its cheek-bones gleamed,
        and its fingers flicked the shore;
      And it lapped and lay in a weary way, and its hands met to implore;
      That I gently said:  "Poor, restless dead, I would never work you woe;
-     Though the wrong you rue you can ne'er undo, I forgave you long ago."
+Though the wrong you rue you can ne'er undo, I forgave you long ago."
 
-     Then, wonder-wise, I rubbed my eyes and I woke from a horrid dream.
-     The moon rode high in the naked sky, and something bobbed in the stream.
-     It held my sight in a patch of light, and then it sheered from the shore;
-     It dipped and sank by a hollow bank, and I never saw it more.
+Then, wonder-wise, I rubbed my eyes and I woke from a horrid dream.
+The moon rode high in the naked sky, and something bobbed in the stream.
+It held my sight in a patch of light, and then it sheered from the shore;
+It dipped and sank by a hollow bank, and I never saw it more.
 
           _This was the tale he told to me, that man so warped and gray,
           Ere he slept and dreamed, and the camp-fire gleamed
             in his eye in a wolfish way--
-          That crystal eye that raked the sky in the weird Auroral ray._
-
-
+That crystal eye that raked the sky in the weird Auroral ray._
 
 
 The Ballad of the Brand
@@ -952,22 +901,22 @@ The Ballad of the Brand
      And there were women too quick to heed a look or a whispered word,
      And once in a while a man was slain, and the ire of the King was stirred;
      So far and wide he proclaimed his wrath, and this was the law he willed:
-     "That whosoever killeth a man, even shall he be killed."
+"That whosoever killeth a man, even shall he be killed."
 
-     Now Tellus, the smith, he trusted his wife; his heart was empty of fear.
-     High on the hill was the gleam of their hearth, a beacon of love and cheer.
-     High on the hill they builded their bower,
-       where the broom and the bracken meet;
-     Under a grave of oaks it was, hushed and drowsily sweet.
-     Here he enshrined her, his dearest saint, his idol, the light of his eye;
-     Her kisses rested upon his lips as brushes a butterfly.
-     The weight of her arms around his neck was light as the thistle down;
-     And sweetly she studied to win his smile, and gently she mocked his frown.
-     And when at the close of the dusty day his clangorous toil was done,
-     She hastened to meet him down the way all lit by the amber sun.
+Now Tellus, the smith, he trusted his wife; his heart was empty of fear.
+High on the hill was the gleam of their hearth, a beacon of love and cheer.
+High on the hill they builded their bower,
+where the broom and the bracken meet;
+Under a grave of oaks it was, hushed and drowsily sweet.
+Here he enshrined her, his dearest saint, his idol, the light of his eye;
+Her kisses rested upon his lips as brushes a butterfly.
+The weight of her arms around his neck was light as the thistle down;
+And sweetly she studied to win his smile, and gently she mocked his frown.
+And when at the close of the dusty day his clangorous toil was done,
+She hastened to meet him down the way all lit by the amber sun.
 
-     Their dove-cot gleamed in the golden light, a temple of stainless love;
-     Like the hanging cup of a big blue flower was the topaz sky above.
+Their dove-cot gleamed in the golden light, a temple of stainless love;
+Like the hanging cup of a big blue flower was the topaz sky above.
      The roses and lilies yearned to her,
        as swift through their throng she pressed;
      A little white, fragile, fluttering thing
@@ -979,58 +928,58 @@ The Ballad of the Brand
      Now there was one called Philo, a scribe, a man of exquisite grace,
      Carved like the god Apollo in limb, fair as Adonis in face;
      Eager and winning in manner, full of such radiant charm,
-     Womenkind fought for his favor and loved to their uttermost harm.
-     Such was his craft and his knowledge, such was his skill at the game,
-     Never was woman could flout him, so be he plotted her shame.
-     And so he drank deep of pleasure, and then it fell on a day
-     He gazed on the wife of Tellus and marked her out for his prey.
+Womenkind fought for his favor and loved to their uttermost harm.
+Such was his craft and his knowledge, such was his skill at the game,
+Never was woman could flout him, so be he plotted her shame.
+And so he drank deep of pleasure, and then it fell on a day
+He gazed on the wife of Tellus and marked her out for his prey.
 
-     Tellus, the smith, was merry, and the time of the year it was June,
-     So he said to his stalwart helpers:  "Shut down the forge at noon.
-     Go ye and joy in the sunshine, rest in the coolth of the grove,
-     Drift on the dreamy river, every man with his love."
+Tellus, the smith, was merry, and the time of the year it was June,
+So he said to his stalwart helpers:  "Shut down the forge at noon.
+Go ye and joy in the sunshine, rest in the coolth of the grove,
+Drift on the dreamy river, every man with his love."
      Then to himself:  "Oh, Beloved, sweet will be your surprise;
      To-day will we sport like children, laugh in each other's eyes;
      Weave gay garlands of poppies, crown each other with flowers,
-     Pull plump carp from the lilies, rifle the ferny bowers.
-     To-day with feasting and gladness the wine of Cyprus will flow;
-     To-day is the day we were wedded only a twelvemonth ago."
+Pull plump carp from the lilies, rifle the ferny bowers.
+To-day with feasting and gladness the wine of Cyprus will flow;
+To-day is the day we were wedded only a twelvemonth ago."
 
-     The larks trilled high in the heavens; his heart was lyric with joy;
-     He plucked a posy of lilies; he sped like a love-sick boy.
-     He stole up the velvety pathway--his cottage was sunsteeped and still;
-     Vines honeysuckled the window; softly he peeped o'er the sill.
-     The lilies dropped from his fingers; devils were choking his breath;
-     Rigid with horror, he stiffened; ghastly his face was as death.
-     Like a nun whose faith in the Virgin is met with a prurient jibe,
-     He shrank--'twas the wife of his bosom in the arms of Philo, the scribe.
+The larks trilled high in the heavens; his heart was lyric with joy;
+He plucked a posy of lilies; he sped like a love-sick boy.
+He stole up the velvety pathway--his cottage was sunsteeped and still;
+Vines honeysuckled the window; softly he peeped o'er the sill.
+The lilies dropped from his fingers; devils were choking his breath;
+Rigid with horror, he stiffened; ghastly his face was as death.
+Like a nun whose faith in the Virgin is met with a prurient jibe,
+He shrank--'twas the wife of his bosom in the arms of Philo, the scribe.
 
-     Tellus went back to his smithy; he reeled like a drunken man;
-     His heart was riven with anguish; his brain was brooding a plan.
-     Straight to his anvil he hurried; started his furnace aglow;
-     Heated his iron and shaped it with savage and masterful blow.
-     Sparks showered over and round him; swiftly under his hand
-     There at last it was finished--a hideous and infamous Brand.
+Tellus went back to his smithy; he reeled like a drunken man;
+His heart was riven with anguish; his brain was brooding a plan.
+Straight to his anvil he hurried; started his furnace aglow;
+Heated his iron and shaped it with savage and masterful blow.
+Sparks showered over and round him; swiftly under his hand
+There at last it was finished--a hideous and infamous Brand.
 
-     That night the wife of his bosom, the light of joy in her eyes,
-     Kissed him with words of rapture; but he knew that her words were lies.
-     Never was she so beguiling, never so merry of speech
-     (For passion ripens a woman as the sunshine ripens a peach).
-     He clenched his teeth into silence; he yielded up to her lure,
-     Though he knew that her breasts were heaving from the fire of her paramour.
-     "To-morrow," he said, "to-morrow"--he wove her hair in a strand,
-     Twisted it round his fingers and smiled as he thought of the Brand.
+That night the wife of his bosom, the light of joy in her eyes,
+Kissed him with words of rapture; but he knew that her words were lies.
+Never was she so beguiling, never so merry of speech
+(For passion ripens a woman as the sunshine ripens a peach).
+He clenched his teeth into silence; he yielded up to her lure,
+Though he knew that her breasts were heaving from the fire of her paramour.
+"To-morrow," he said, "to-morrow"--he wove her hair in a strand,
+Twisted it round his fingers and smiled as he thought of the Brand.
 
-     The morrow was come, and Tellus swiftly stole up the hill.
-     Butterflies drowsed in the noon-heat; coverts were sunsteeped and still.
-     Softly he padded the pathway unto the porch, and within
-     Heard he the low laugh of dalliance, heard he the rapture of sin.
+The morrow was come, and Tellus swiftly stole up the hill.
+Butterflies drowsed in the noon-heat; coverts were sunsteeped and still.
+Softly he padded the pathway unto the porch, and within
+Heard he the low laugh of dalliance, heard he the rapture of sin.
      Knew he her eyes were mystic with light that no man should see,
      No man kindle and joy in, no man on earth save he.
      And never for him would it kindle.  The bloodlust surged in his brain;
-     Through the senseless stone could he see them, wanton and warily fain.
-     Horrible!  Heaven he sought for, gained it and gloried and fell--
-     Oh, it was sudden--headlong into the nethermost hell. . . .
+Through the senseless stone could he see them, wanton and warily fain.
+Horrible!  Heaven he sought for, gained it and gloried and fell--
+Oh, it was sudden--headlong into the nethermost hell. . . .
 
      Was this he, Tellus, this marble?  Tellus . . . not dreaming a dream?
      Ah! sharp-edged as a javelin, was that a woman's scream?
@@ -1044,17 +993,17 @@ The Ballad of the Brand
      Then bound he the naked Philo with thongs that cut in the flesh,
      And the wife of his bosom, fear-frantic, he gagged with a silken mesh,
      Choking her screams into silence; bound her down by the hair;
-     Dragged her lover unto her under her frenzied stare.
-     In the heat of the hearth-fire embers he heated the hideous Brand;
-     Twisting her fingers open, he forced its haft in her hand.
-     He pressed it downward and downward; she felt the living flesh sear;
-     She saw the throe of her lover; she heard the scream of his fear.
-     Once, twice and thrice he forced her, heedless of prayer and shriek--
-     Once on the forehead of Philo, twice in the soft of his cheek.
-     Then (for the thing was finished) he said to the woman:  "See
-     How you have branded your lover!  Now will I let him go free."
-     He severed the thongs that bound him, laughing:  "Revenge is sweet",
-     And Philo, sobbing in anguish, feebly rose to his feet.
+Dragged her lover unto her under her frenzied stare.
+In the heat of the hearth-fire embers he heated the hideous Brand;
+Twisting her fingers open, he forced its haft in her hand.
+He pressed it downward and downward; she felt the living flesh sear;
+She saw the throe of her lover; she heard the scream of his fear.
+Once, twice and thrice he forced her, heedless of prayer and shriek--
+Once on the forehead of Philo, twice in the soft of his cheek.
+Then (for the thing was finished) he said to the woman:  "See
+How you have branded your lover!  Now will I let him go free."
+He severed the thongs that bound him, laughing:  "Revenge is sweet",
+And Philo, sobbing in anguish, feebly rose to his feet.
      The man who was fair as Apollo, god-like in woman's sight,
      Hideous now as a satyr, fled to the pity of night.
 
@@ -1069,10 +1018,8 @@ The Ballad of the Brand
             their fleering jibe at the feast;
           He shall seek the caves and the shroud of night,
             and the fellowship of the beast.
-          Outcast forever from homes of men, far and far shall he roam.
-          Such be the doom, sadder than death, of him who shameth a home."_
-
-
+Outcast forever from homes of men, far and far shall he roam.
+Such be the doom, sadder than death, of him who shameth a home."_
 
 
 The Ballad of Hard-Luck Henry
@@ -1087,16 +1034,16 @@ The Ballad of Hard-Luck Henry
      That's sunk a dozen bed-rock holes, and not a speck in sight,
      Yet sees them take a million from the claims to left and right?
      Now aren't things like that enough to drive a man to booze?
-     But Hard-Luck Smith was hoodoo-proof--he knew the way to lose.
+But Hard-Luck Smith was hoodoo-proof--he knew the way to lose.
 
-     'Twas in the fall of nineteen four--leap-year I've heard them say--
-     When Hard-Luck came to Hunker Creek and took a hillside lay.
-     And lo! as if to make amends for all the futile past,
-     Late in the year he struck it rich, the real pay-streak at last.
-     The riffles of his sluicing-box were choked with speckled earth,
-     And night and day he worked that lay for all that he was worth.
-     And when in chill December's gloom his lucky lease expired,
-     He found that he had made a stake as big as he desired.
+'Twas in the fall of nineteen four--leap-year I've heard them say--
+When Hard-Luck came to Hunker Creek and took a hillside lay.
+And lo! as if to make amends for all the futile past,
+Late in the year he struck it rich, the real pay-streak at last.
+The riffles of his sluicing-box were choked with speckled earth,
+And night and day he worked that lay for all that he was worth.
+And when in chill December's gloom his lucky lease expired,
+He found that he had made a stake as big as he desired.
 
      One day while meditating on the waywardness of fate,
      He felt the ache of lonely man to find a fitting mate;
@@ -1105,47 +1052,45 @@ The Ballad of Hard-Luck Henry
      And while he cooked his supper on his little Yukon stove,
      He wished that he had staked a claim in Love's rich treasure-trove;
      When suddenly he paused and held aloft a Yukon egg,
-     For there in pencilled letters was the magic name of Peg.
+For there in pencilled letters was the magic name of Peg.
 
-     You know these Yukon eggs of ours--some pink, some green, some blue--
-     A dollar per, assorted tints, assorted flavors too.
-     The supercilious cheechako might designate them high,
-     But one acquires a taste for them and likes them by-and-by.
-     Well, Hard-Luck Henry took this egg and held it to the light,
-     And there was more faint pencilling that sorely taxed his sight.
-     At last he made it out, and then the legend ran like this--
-     "Will Klondike miner write to Peg, Plumhollow, Squashville, Wis.?"
+You know these Yukon eggs of ours--some pink, some green, some blue--
+A dollar per, assorted tints, assorted flavors too.
+The supercilious cheechako might designate them high,
+But one acquires a taste for them and likes them by-and-by.
+Well, Hard-Luck Henry took this egg and held it to the light,
+And there was more faint pencilling that sorely taxed his sight.
+At last he made it out, and then the legend ran like this--
+"Will Klondike miner write to Peg, Plumhollow, Squashville, Wis.?"
 
-     That night he got to thinking of this far-off, unknown fair;
-     It seemed so sort of opportune, an answer to his prayer.
-     She flitted sweetly through his dreams, she haunted him by day,
-     She smiled through clouds of nicotine, she cheered his weary way.
-     At last he yielded to the spell; his course of love he set--
-     Wisconsin his objective point; his object, Margaret.
+That night he got to thinking of this far-off, unknown fair;
+It seemed so sort of opportune, an answer to his prayer.
+She flitted sweetly through his dreams, she haunted him by day,
+She smiled through clouds of nicotine, she cheered his weary way.
+At last he yielded to the spell; his course of love he set--
+Wisconsin his objective point; his object, Margaret.
 
-     With every mile of sea and land his longing grew and grew.
-     He practised all his pretty words, and these, I fear, were few.
-     At last, one frosty evening, with a cold chill down his spine,
-     He found himself before her house, the threshold of the shrine.
-     His courage flickered to a spark, then glowed with sudden flame--
-     He knocked; he heard a welcome word; she came--his goddess came.
-     Oh, she was fair as any flower, and huskily he spoke:
-     "I'm all the way from Klondike, with a mighty heavy poke.
-     I'm looking for a lassie, one whose Christian name is Peg,
-     Who sought a Klondike miner, and who wrote it on an egg."
+With every mile of sea and land his longing grew and grew.
+He practised all his pretty words, and these, I fear, were few.
+At last, one frosty evening, with a cold chill down his spine,
+He found himself before her house, the threshold of the shrine.
+His courage flickered to a spark, then glowed with sudden flame--
+He knocked; he heard a welcome word; she came--his goddess came.
+Oh, she was fair as any flower, and huskily he spoke:
+"I'm all the way from Klondike, with a mighty heavy poke.
+I'm looking for a lassie, one whose Christian name is Peg,
+Who sought a Klondike miner, and who wrote it on an egg."
 
-     The lassie gazed at him a space, her cheeks grew rosy red;
-     She gazed at him with tear-bright eyes, then tenderly she said:
-     "Yes, lonely Klondike miner, it is true my name is Peg.
-     It's also true I longed for you and wrote it on an egg.
-     My heart went out to someone in that land of night and cold;
-     But oh, I fear that Yukon egg must have been mighty old.
-     I waited long, I hoped and feared; you should have come before;
-     I've been a wedded woman now for eighteen months or more.
-     I'm sorry, since you've come so far, you ain't the one that wins;
-     But won't you take a step inside--I'LL LET YOU SEE THE TWINS."
-
-
+The lassie gazed at him a space, her cheeks grew rosy red;
+She gazed at him with tear-bright eyes, then tenderly she said:
+"Yes, lonely Klondike miner, it is true my name is Peg.
+It's also true I longed for you and wrote it on an egg.
+My heart went out to someone in that land of night and cold;
+But oh, I fear that Yukon egg must have been mighty old.
+I waited long, I hoped and feared; you should have come before;
+I've been a wedded woman now for eighteen months or more.
+I'm sorry, since you've come so far, you ain't the one that wins;
+But won't you take a step inside--I'LL LET YOU SEE THE TWINS."
 
 
 The Man from Eldorado
@@ -1179,7 +1124,7 @@ The Man from Eldorado
       And a little vine-clad cottage, and it's--Home.
 
 
-     II.
+II.
 
      He's the man from Eldorado, and he's had a bite and sup,
       And he's met in with a drouthy friend or two;
@@ -1209,7 +1154,7 @@ The Man from Eldorado
       The man from Eldorado on the floor.
 
 
-     III.
+III.
 
      He's the man from Eldorado, and he's only starting in
       To cultivate a thousand-dollar jag.
@@ -1248,10 +1193,10 @@ The Man from Eldorado
       Then comes the grim awakening--the end.
 
 
-     IV.
+IV.
 
-     He's the man from Eldorado, and he gives a grand affair;
-      There's feasting, dancing, wine without restraint.
+He's the man from Eldorado, and he gives a grand affair;
+There's feasting, dancing, wine without restraint.
      The smooth Beau Brummels of the bar, the faro men, are there;
       The tinhorns and purveyors of red paint;
      The sleek and painted women, their predacious eyes aglow--
@@ -1287,7 +1232,7 @@ The Man from Eldorado
       The man from Eldorado slipped away.
 
 
-     V.
+V.
 
      He's the man from Eldorado, and they found him stiff and dead,
       Half covered by the freezing ooze and dirt.
@@ -1299,23 +1244,21 @@ The Man from Eldorado
       There crouched and whined a mangy yellow dog.
 
 
-
-
 My Friends
 
 
-     The man above was a murderer, the man below was a thief;
-     And I lay there in the bunk between, ailing beyond belief;
-     A weary armful of skin and bone, wasted with pain and grief.
+The man above was a murderer, the man below was a thief;
+And I lay there in the bunk between, ailing beyond belief;
+A weary armful of skin and bone, wasted with pain and grief.
 
      My feet were froze, and the lifeless toes were purple and green and gray;
      The little flesh that clung to my bones,
        you could punch it in holes like clay;
-     The skin on my gums was a sullen black, and slowly peeling away.
+The skin on my gums was a sullen black, and slowly peeling away.
 
-     I was sure enough in a direful fix, and often I wondered why
-     They did not take the chance that was left and leave me alone to die,
-     Or finish me off with a dose of dope--so utterly lost was I.
+I was sure enough in a direful fix, and often I wondered why
+They did not take the chance that was left and leave me alone to die,
+Or finish me off with a dose of dope--so utterly lost was I.
 
      But no; they brewed me the green-spruce tea,
        and nursed me there like a child;
@@ -1354,13 +1297,11 @@ My Friends
 
      And then it was all like a lurid dream, and I prayed for a swift release
      From the ruthless ones who would not leave me to die alone in peace;
-     Till I wakened up and I found myself at the post of the Mounted Police.
+Till I wakened up and I found myself at the post of the Mounted Police.
 
-     And there was my friend the murderer, and there was my friend the thief,
-     With bracelets of steel around their wrists, and wicked beyond belief:
-     But when they come to God's judgment seat--may I be allowed the brief.
-
-
+And there was my friend the murderer, and there was my friend the thief,
+With bracelets of steel around their wrists, and wicked beyond belief:
+But when they come to God's judgment seat--may I be allowed the brief.
 
 
 The Prospector
@@ -1460,16 +1401,13 @@ The Prospector
            You will find a rusted gold-pan on the sod;
           You will find the claim I'm seeking,
             with my bones as stakes to show it;
-           But I've sought the last Recorder, and He's--God.
-
-
+But I've sought the last Recorder, and He's--God.
 
 
 The Black Sheep
 
-     "The aristocratic ne'er-do-well in Canada frequently finds his way
-     into the ranks of the Royal North-West Mounted Police." --Extract.
-
+"The aristocratic ne'er-do-well in Canada frequently finds his way
+into the ranks of the Royal North-West Mounted Police." --Extract.
 
 
           _Hark to the ewe that bore him:
@@ -1483,63 +1421,61 @@ The Black Sheep
 
      I'm up on the bally wood-pile at the back of the barracks yard;
      "A damned disgrace to the force, sir", with a comrade standing guard;
-     Making the bluff I'm busy, doing my six months hard.
+Making the bluff I'm busy, doing my six months hard.
 
-     "Six months hard and dismissed, sir."  Isn't that rather hell?
-     And all because of the liquor laws and the wiles of a native belle--
-     Some "hooch" I gave to a siwash brave who swore that he wouldn't tell.
+"Six months hard and dismissed, sir."  Isn't that rather hell?
+And all because of the liquor laws and the wiles of a native belle--
+Some "hooch" I gave to a siwash brave who swore that he wouldn't tell.
 
-     At least they SAY that I did it.  It's so in the town report.
+At least they SAY that I did it.  It's so in the town report.
      All that I can recall is a night of revel and sport,
      When I woke with a "head" in the guard-room,
        and they dragged me sick into court.
 
      And the O. C. said:  "You are guilty", and I said never a word;
      For, hang it, you see I couldn't--I didn't know WHAT had occurred,
-     And, under the circumstances, denial would be absurd.
+And, under the circumstances, denial would be absurd.
 
-     But the one that cooked my bacon was Grubbe, of the City Patrol.
-     He fagged for my room at Eton, and didn't I devil his soul!
-     And now he is getting even, landing me down in the hole.
+But the one that cooked my bacon was Grubbe, of the City Patrol.
+He fagged for my room at Eton, and didn't I devil his soul!
+And now he is getting even, landing me down in the hole.
 
-     Plugging away on the wood-pile; doing chores round the square.
-     There goes an officer's lady--gives me a haughty stare--
-     Me that's an earl's own nephew--that is the hardest to bear.
+Plugging away on the wood-pile; doing chores round the square.
+There goes an officer's lady--gives me a haughty stare--
+Me that's an earl's own nephew--that is the hardest to bear.
 
-     To think of the poor old mater awaiting her prodigal son.
-     Tho' I broke her heart with my folly, I was always the white-haired one.
-     (That fatted calf that they're cooking will surely be overdone.)
+To think of the poor old mater awaiting her prodigal son.
+Tho' I broke her heart with my folly, I was always the white-haired one.
+(That fatted calf that they're cooking will surely be overdone.)
 
-     I'll go back and yarn to the Bishop; I'll dance with the village belle;
-     I'll hand round tea to the ladies, and everything will be well.
-     Where I have been won't matter; what I have seen I won't tell.
+I'll go back and yarn to the Bishop; I'll dance with the village belle;
+I'll hand round tea to the ladies, and everything will be well.
+Where I have been won't matter; what I have seen I won't tell.
 
-     I'll soar to their ken like a comet.  They'll see me with never a stain;
-     But will they reform me?--far from it.  We pay for our pleasure with pain;
-     But the dog will return to his vomit, the hog to his wallow again.
+I'll soar to their ken like a comet.  They'll see me with never a stain;
+But will they reform me?--far from it.  We pay for our pleasure with pain;
+But the dog will return to his vomit, the hog to his wallow again.
 
-     I've chewed on the rind of creation, and bitter I've tasted the same;
-     Stacked up against hell and damnation, I've managed to stay in the game;
-     I've had my moments of sorrow; I've had my seasons of shame.
+I've chewed on the rind of creation, and bitter I've tasted the same;
+Stacked up against hell and damnation, I've managed to stay in the game;
+I've had my moments of sorrow; I've had my seasons of shame.
 
-     That's past; when one's nature's a cracked one,
-       it's too jolly hard to mend.
-     So long as the road is level, so long as I've cash to spend.
-     I'm bound to go to the devil, and it's all the same in the end.
+That's past; when one's nature's a cracked one,
+it's too jolly hard to mend.
+So long as the road is level, so long as I've cash to spend.
+I'm bound to go to the devil, and it's all the same in the end.
 
-     The bugle is sounding for stables; the men troop off through the gloom;
-     An orderly laying the tables sings in the bright mess-room.
-     (I'll wash in the prison bucket, and brush with the prison broom.)
+The bugle is sounding for stables; the men troop off through the gloom;
+An orderly laying the tables sings in the bright mess-room.
+(I'll wash in the prison bucket, and brush with the prison broom.)
 
-     I'll lie in my cell and listen; I'll wish that I couldn't hear
-     The laugh and the chaff of the fellows swigging the canteen beer;
-     The nasal tone of the gramophone playing "The Bandolier".
+I'll lie in my cell and listen; I'll wish that I couldn't hear
+The laugh and the chaff of the fellows swigging the canteen beer;
+The nasal tone of the gramophone playing "The Bandolier".
 
-     And it seems to me, though it's misty, that night of the flowing bowl,
-     That the man who potlatched the whiskey and landed me into the hole
-     _Was Grubbe, that Unmerciful Bounder, Grubbe, of the City Patrol_.
-
-
+And it seems to me, though it's misty, that night of the flowing bowl,
+That the man who potlatched the whiskey and landed me into the hole
+_Was Grubbe, that Unmerciful Bounder, Grubbe, of the City Patrol_.
 
 
 The Telegraph Operator
@@ -1627,8 +1563,6 @@ The Telegraph Operator
       Alone, alone, alone!
 
 
-
-
 The Wood-Cutter
 
 
@@ -1642,27 +1576,27 @@ The Wood-Cutter
      I'm holding it down on God's scrap-pile, up on the fag-end of earth;
       O'er me a menace of mountains, a river that grits at my feet;
      Face to face with my soul-self, weighing my life at its worth;
-      Wondering what I was made for, here in my last retreat.
+Wondering what I was made for, here in my last retreat.
 
-     Last!  Ah, yes, it's the finish.  Have ever you heard a man cry?
-      (Sobs that rake him and rend him, right from the base of the chest.)
-     That's how I've cried, oh, so often; and now that my tears are dry,
-      I sit in the desolate quiet and wait for the infinite Rest.
+Last!  Ah, yes, it's the finish.  Have ever you heard a man cry?
+(Sobs that rake him and rend him, right from the base of the chest.)
+That's how I've cried, oh, so often; and now that my tears are dry,
+I sit in the desolate quiet and wait for the infinite Rest.
 
-     Rest!  Well, it's restful around me; it's quiet clean to the core.
-      The mountains pose in their ermine, in golden the hills are clad;
-     The big, blue, silt-freighted Yukon seethes by my cabin door,
-      And I think it's only the river that keeps me from going mad.
+Rest!  Well, it's restful around me; it's quiet clean to the core.
+The mountains pose in their ermine, in golden the hills are clad;
+The big, blue, silt-freighted Yukon seethes by my cabin door,
+And I think it's only the river that keeps me from going mad.
 
      By day it's a ruthless monster, a callous, insatiate thing,
       With oily bubble and eddy, with sudden swirling of breast;
      By night it's a writhing Titan, sullenly murmuring,
       Ever and ever goaded, and ever crying for rest.
 
-     It cries for its human tribute, but me it will never drown.
-      I've learned the lore of my river; my river obeys me well.
-     I hew and I launch my cordwood, and raft it to Dawson town,
-      Where wood means wine and women, and, incidentally, hell.
+It cries for its human tribute, but me it will never drown.
+I've learned the lore of my river; my river obeys me well.
+I hew and I launch my cordwood, and raft it to Dawson town,
+Where wood means wine and women, and, incidentally, hell.
 
      Hell and the anguish thereafter.  Here as I sit alone
       I'd give the life I have left me to lighten some load of care:
@@ -1677,29 +1611,27 @@ The Wood-Cutter
      See! from far up the valley a rapier pierces the night,
       The white search-ray of a steamer.  Swiftly, serenely it nears;
      A proud, white, alien presence, a glittering galley of light,
-      Confident-poised, triumphant, freighted with hopes and fears.
+Confident-poised, triumphant, freighted with hopes and fears.
 
-     I look as one looks on a vision; I see it pulsating by;
-      I glimpse joy-radiant faces; I hear the thresh of the wheel.
-     Hoof-like my heart beats a moment; then silence swoops from the sky.
-      Darkness is piled upon darkness.  God only knows how I feel.
+I look as one looks on a vision; I see it pulsating by;
+I glimpse joy-radiant faces; I hear the thresh of the wheel.
+Hoof-like my heart beats a moment; then silence swoops from the sky.
+Darkness is piled upon darkness.  God only knows how I feel.
 
-     Maybe you've seen me sometimes; maybe you've pitied me then--
-      The lonely waif of the wood-camp, here by my cabin door.
-     Some day you'll look and see not; futile and outcast of men,
-      I shall be far from your pity, resting forevermore.
+Maybe you've seen me sometimes; maybe you've pitied me then--
+The lonely waif of the wood-camp, here by my cabin door.
+Some day you'll look and see not; futile and outcast of men,
+I shall be far from your pity, resting forevermore.
 
-          _My life was a problem in ciphers, a weary and profitless sum.
-           Slipshod and stupid I worked it, dazed by negation and doubt.
-          Ciphers the total confronts me.  Oh, Death, with thy moistened thumb,
-           Stoop like a petulant schoolboy, wipe me forever out!_
-
-
+_My life was a problem in ciphers, a weary and profitless sum.
+Slipshod and stupid I worked it, dazed by negation and doubt.
+Ciphers the total confronts me.  Oh, Death, with thy moistened thumb,
+Stoop like a petulant schoolboy, wipe me forever out!_
 
 
 The Song of the Mouth-Organ
 
-     (With apologies to the singer of the "Song of the Banjo".)
+(With apologies to the singer of the "Song of the Banjo".)
 
 
      I'm a homely little bit of tin and bone;
@@ -1784,62 +1716,60 @@ The Song of the Mouth-Organ
       There's a lowly, loving kingdom--and it's mine.
 
 
-
-
 The Trail of Ninety-Eight
 
 
-     I.
+I.
 
-     Gold!  We leapt from our benches.  Gold!  We sprang from our stools.
-     Gold!  We wheeled in the furrow, fired with the faith of fools.
+Gold!  We leapt from our benches.  Gold!  We sprang from our stools.
+Gold!  We wheeled in the furrow, fired with the faith of fools.
      Fearless, unfound, unfitted, far from the night and the cold,
      Heard we the clarion summons, followed the master-lure--Gold!
 
      Men from the sands of the Sunland; men from the woods of the West;
-     Men from the farms and the cities, into the Northland we pressed.
-     Graybeards and striplings and women, good men and bad men and bold,
-     Leaving our homes and our loved ones, crying exultantly--"Gold!"
+Men from the farms and the cities, into the Northland we pressed.
+Graybeards and striplings and women, good men and bad men and bold,
+Leaving our homes and our loved ones, crying exultantly--"Gold!"
 
-     Never was seen such an army, pitiful, futile, unfit;
-     Never was seen such a spirit, manifold courage and grit.
-     Never has been such a cohort under one banner unrolled
-     As surged to the ragged-edged Arctic, urged by the arch-tempter--Gold.
+Never was seen such an army, pitiful, futile, unfit;
+Never was seen such a spirit, manifold courage and grit.
+Never has been such a cohort under one banner unrolled
+As surged to the ragged-edged Arctic, urged by the arch-tempter--Gold.
 
-     "Farewell!" we cried to our dearests; little we cared for their tears.
-     "Farewell!" we cried to the humdrum and the yoke of the hireling years;
-     Just like a pack of school-boys, and the big crowd cheered us good-bye.
-     Never were hearts so uplifted, never were hopes so high.
+"Farewell!" we cried to our dearests; little we cared for their tears.
+"Farewell!" we cried to the humdrum and the yoke of the hireling years;
+Just like a pack of school-boys, and the big crowd cheered us good-bye.
+Never were hearts so uplifted, never were hopes so high.
 
      The spectral shores flitted past us, and every whirl of the screw
      Hurled us nearer to fortune, and ever we planned what we'd do--
      Do with the gold when we got it--big, shiny nuggets like plums,
-     There in the sand of the river, gouging it out with our thumbs.
+There in the sand of the river, gouging it out with our thumbs.
 
-     And one man wanted a castle, another a racing stud;
-     A third would cruise in a palace yacht like a red-necked prince of blood.
-     And so we dreamed and we vaunted, millionaires to a man,
-     Leaping to wealth in our visions long ere the trail began.
+And one man wanted a castle, another a racing stud;
+A third would cruise in a palace yacht like a red-necked prince of blood.
+And so we dreamed and we vaunted, millionaires to a man,
+Leaping to wealth in our visions long ere the trail began.
 
 
-     II.
+II.
 
-     We landed in wind-swept Skagway.  We joined the weltering mass,
-     Clamoring over their outfits, waiting to climb the Pass.
-     We tightened our girths and our pack-straps; we linked on the Human Chain,
-     Struggling up to the summit, where every step was a pain.
+We landed in wind-swept Skagway.  We joined the weltering mass,
+Clamoring over their outfits, waiting to climb the Pass.
+We tightened our girths and our pack-straps; we linked on the Human Chain,
+Struggling up to the summit, where every step was a pain.
 
-     Gone was the joy of our faces, grim and haggard and pale;
-     The heedless mirth of the shipboard was changed to the care of the trail.
-     We flung ourselves in the struggle, packing our grub in relays,
-     Step by step to the summit in the bale of the winter days.
+Gone was the joy of our faces, grim and haggard and pale;
+The heedless mirth of the shipboard was changed to the care of the trail.
+We flung ourselves in the struggle, packing our grub in relays,
+Step by step to the summit in the bale of the winter days.
 
-     Floundering deep in the sump-holes, stumbling out again;
-     Crying with cold and weakness, crazy with fear and pain.
-     Then from the depths of our travail, ere our spirits were broke,
-     Grim, tenacious and savage, the lust of the trail awoke.
+Floundering deep in the sump-holes, stumbling out again;
+Crying with cold and weakness, crazy with fear and pain.
+Then from the depths of our travail, ere our spirits were broke,
+Grim, tenacious and savage, the lust of the trail awoke.
 
-     "Klondike or bust!" rang the slogan; every man for his own.
+"Klondike or bust!" rang the slogan; every man for his own.
      Oh, how we flogged the horses, staggering skin and bone!
      Oh, how we cursed their weakness, anguish they could not tell,
      Breaking their hearts in our passion, lashing them on till they fell!
@@ -1862,50 +1792,50 @@ The Trail of Ninety-Eight
      Thus toiled we, the army of fortune, in hunger and hope and despair,
      Till glacier, mountain and forest vanished, and, radiantly fair,
      There at our feet lay Lake Bennett, and down to its welcome we ran:
-     The trail of the land was over, the trail of the water began.
+The trail of the land was over, the trail of the water began.
 
 
-     III.
+III.
 
-     We built our boats and we launched them.  Never has been such a fleet;
-     A packing-case for a bottom, a mackinaw for a sheet.
-     Shapeless, grotesque, lopsided, flimsy, makeshift and crude,
-     Each man after his fashion builded as best he could.
+We built our boats and we launched them.  Never has been such a fleet;
+A packing-case for a bottom, a mackinaw for a sheet.
+Shapeless, grotesque, lopsided, flimsy, makeshift and crude,
+Each man after his fashion builded as best he could.
 
-     Each man worked like a demon, as prow to rudder we raced;
-     The winds of the Wild cried "Hurry!" the voice of the waters, "Haste!"
-     We hated those driving before us; we dreaded those pressing behind;
-     We cursed the slow current that bore us; we prayed to the God of the wind.
+Each man worked like a demon, as prow to rudder we raced;
+The winds of the Wild cried "Hurry!" the voice of the waters, "Haste!"
+We hated those driving before us; we dreaded those pressing behind;
+We cursed the slow current that bore us; we prayed to the God of the wind.
 
-     Spring! and the hillsides flourished, vivid in jewelled green;
-     Spring! and our hearts' blood nourished envy and hatred and spleen.
-     Little cared we for the Spring-birth; much cared we to get on--
-     Stake in the Great White Channel, stake ere the best be gone.
+Spring! and the hillsides flourished, vivid in jewelled green;
+Spring! and our hearts' blood nourished envy and hatred and spleen.
+Little cared we for the Spring-birth; much cared we to get on--
+Stake in the Great White Channel, stake ere the best be gone.
 
-     The greed of the gold possessed us; pity and love were forgot;
-     Covetous visions obsessed us; brother with brother fought.
-     Partner with partner wrangled, each one claiming his due;
-     Wrangled and halved their outfits, sawing their boats in two.
+The greed of the gold possessed us; pity and love were forgot;
+Covetous visions obsessed us; brother with brother fought.
+Partner with partner wrangled, each one claiming his due;
+Wrangled and halved their outfits, sawing their boats in two.
 
-     Thuswise we voyaged Lake Bennett, Tagish, then Windy Arm,
-     Sinister, savage and baleful, boding us hate and harm.
-     Many a scow was shattered there on that iron shore;
-     Many a heart was broken straining at sweep and oar.
+Thuswise we voyaged Lake Bennett, Tagish, then Windy Arm,
+Sinister, savage and baleful, boding us hate and harm.
+Many a scow was shattered there on that iron shore;
+Many a heart was broken straining at sweep and oar.
 
      We roused Lake Marsh with a chorus, we drifted many a mile;
      There was the canyon before us--cave-like its dark defile;
      The shores swept faster and faster; the river narrowed to wrath;
-     Waters that hissed disaster reared upright in our path.
+Waters that hissed disaster reared upright in our path.
 
-     Beneath us the green tumult churning, above us the cavernous gloom;
-     Around us, swift twisting and turning, the black, sullen walls of a tomb.
-     We spun like a chip in a mill-race; our hearts hammered under the test;
-     Then--oh, the relief on each chill face!--we soared into sunlight and rest.
+Beneath us the green tumult churning, above us the cavernous gloom;
+Around us, swift twisting and turning, the black, sullen walls of a tomb.
+We spun like a chip in a mill-race; our hearts hammered under the test;
+Then--oh, the relief on each chill face!--we soared into sunlight and rest.
 
-     Hand sought for hand on the instant.  Cried we, "Our troubles are o'er!"
-     Then, like a rumble of thunder, heard we a canorous roar.
-     Leaping and boiling and seething, saw we a cauldron afume;
-     There was the rage of the rapids, there was the menace of doom.
+Hand sought for hand on the instant.  Cried we, "Our troubles are o'er!"
+Then, like a rumble of thunder, heard we a canorous roar.
+Leaping and boiling and seething, saw we a cauldron afume;
+There was the rage of the rapids, there was the menace of doom.
 
      The river springs like a racer, sweeps through a gash in the rock;
      Buts at the boulder-ribbed bottom, staggers and rears at the shock;
@@ -1915,33 +1845,31 @@ The Trail of Ninety-Eight
      Dared we that ravening terror; heard we its din in our ears;
      Called on the Gods of our fathers, juggled forlorn with our fears;
      Sank to our waists in its fury, tossed to the sky like a fleece;
-     Then, when our dread was the greatest, crashed into safety and peace.
+Then, when our dread was the greatest, crashed into safety and peace.
 
-     But what of the others that followed, losing their boats by the score?
-     Well could we see them and hear them, strung down that desolate shore.
-     What of the poor souls that perished?  Little of them shall be said--
-     On to the Golden Valley, pause not to bury the dead.
+But what of the others that followed, losing their boats by the score?
+Well could we see them and hear them, strung down that desolate shore.
+What of the poor souls that perished?  Little of them shall be said--
+On to the Golden Valley, pause not to bury the dead.
 
-     Then there were days of drifting, breezes soft as a sigh;
-     Night trailed her robe of jewels over the floor of the sky.
-     The moonlit stream was a python, silver, sinuous, vast,
-     That writhed on a shroud of velvet--well, it was done at last.
+Then there were days of drifting, breezes soft as a sigh;
+Night trailed her robe of jewels over the floor of the sky.
+The moonlit stream was a python, silver, sinuous, vast,
+That writhed on a shroud of velvet--well, it was done at last.
 
-     There were the tents of Dawson, there the scar of the slide;
-     Swiftly we poled o'er the shallows, swiftly leapt o'er the side.
+There were the tents of Dawson, there the scar of the slide;
+Swiftly we poled o'er the shallows, swiftly leapt o'er the side.
      Fires fringed the mouth of Bonanza; sunset gilded the dome;
      The test of the trail was over--thank God, thank God, we were Home!
-
-
 
 
 The Ballad of Gum-Boot Ben
 
 
-          _He was an old prospector with a vision bleared and dim.
-          He asked me for a grubstake, and the same I gave to him.
-          He hinted of a hidden trove, and when I made so bold
-          To question his veracity, this is the tale he told._
+_He was an old prospector with a vision bleared and dim.
+He asked me for a grubstake, and the same I gave to him.
+He hinted of a hidden trove, and when I made so bold
+To question his veracity, this is the tale he told._
 
      "I do not seek the copper streak, nor yet the yellow dust;
      I am not fain for sake of gain to irk the frozen crust;
@@ -1966,12 +1894,12 @@ The Ballad of Gum-Boot Ben
      "I rose at dawn; I wandered on.  'Tis somewhat fine and grand
      To be alone and hold your own in God's vast awesome land;
      Come woe or weal, 'tis fine to feel a hundred miles between
-     The trails you dare and pathways where the feet of men have been.
+The trails you dare and pathways where the feet of men have been.
 
-     "And so it fell on me a spell of wander-lust was cast.
-     The land was still and strange and chill, and cavernous and vast;
-     And sad and dead, and dull as lead, the valleys sought the snows;
-     And far and wide on every side the ashen peaks arose.
+"And so it fell on me a spell of wander-lust was cast.
+The land was still and strange and chill, and cavernous and vast;
+And sad and dead, and dull as lead, the valleys sought the snows;
+And far and wide on every side the ashen peaks arose.
 
      "The moon was like a silent spike that pierced the sky right through;
      The small stars popped and winked and hopped in vastitudes of blue;
@@ -1981,29 +1909,27 @@ The Ballad of Gum-Boot Ben
      "And strange though be, 'twas borne on me that land had lived of old,
      And men had crept and slain and slept where now they toiled for gold;
      Through jungles dim the mammoth grim had sought the oozy fen,
-     And on his track, all bent of back, had crawled the hairy men.
+And on his track, all bent of back, had crawled the hairy men.
 
-     "And furthermore, strange deeds of yore in this dead place were done.
-     They haunted me, as wild and free I roamed from sun to sun;
-     Until I came where sudden flame uplit a terraced height,
-     A regnant peak that seemed to seek the coronal of night.
+"And furthermore, strange deeds of yore in this dead place were done.
+They haunted me, as wild and free I roamed from sun to sun;
+Until I came where sudden flame uplit a terraced height,
+A regnant peak that seemed to seek the coronal of night.
 
-     "I scaled the peak; my heart was weak, yet on and on I pressed.
-     Skyward I strained until I gained its dazzling silver crest;
-     And there I found, with all around a world supine and stark,
-     Swept clean of snow, a flat plateau, and on it lay--the Ark.
+"I scaled the peak; my heart was weak, yet on and on I pressed.
+Skyward I strained until I gained its dazzling silver crest;
+And there I found, with all around a world supine and stark,
+Swept clean of snow, a flat plateau, and on it lay--the Ark.
 
      "Yes, there, I knew, by two and two the beasts did disembark,
      And so in haste I ran and traced in letters on the Ark
      My human name--Ben Smith's the same.  And now I want to float
-     A syndicate to haul and freight to town that noble boat."
+A syndicate to haul and freight to town that noble boat."
 
-          _I met him later in a bar and made a gay remark
-          Anent an ancient miner and an option on the Ark.
-          He gazed at me reproachfully, as only topers can;
-          But what he said I can't repeat--he was a bad old man._
-
-
+_I met him later in a bar and made a gay remark
+Anent an ancient miner and an option on the Ark.
+He gazed at me reproachfully, as only topers can;
+But what he said I can't repeat--he was a bad old man._
 
 
 Clancy of the Mounted Police
@@ -2014,9 +1940,9 @@ Clancy of the Mounted Police
      Shall be a guardian of the right, a sleuth-hound of the trail--
      In the little Crimson Manual there's no such word as "fail"--
      Shall follow on though heavens fall, or hell's top-turrets freeze,
-     Half round the world, if need there be, on bleeding hands and knees.
-     It's duty, duty, first and last, the Crimson Manual saith;
-     The Scarlet Rider makes reply:  "It's duty--to the death."
+Half round the world, if need there be, on bleeding hands and knees.
+It's duty, duty, first and last, the Crimson Manual saith;
+The Scarlet Rider makes reply:  "It's duty--to the death."
      And so they sweep the solitudes, free men from all the earth;
      And so they sentinel the woods, the wilds that know their worth;
      And so they scour the startled plains and mock at hurt and pain,
@@ -2165,9 +2091,7 @@ Clancy of the Mounted Police
             and I'll kiss my girl on the lips;
           `It's yours to have and to hold, love.'
             It's the proud, proud boy I'll be,
-          When I go back to the old love that's waited so long for me."_
-
-
+When I go back to the old love that's waited so long for me."_
 
 
 Lost
@@ -2188,45 +2112,45 @@ Lost
      I reckoned the camp was yonder, I figured the trail was here--
       Nothing!  Just draw and valley packed with quiet and gloom;
      Snow that comes down like feathers, thick and gobby and gray;
-     Night that looks spiteful ugly--seems that I've lost my way.
+Night that looks spiteful ugly--seems that I've lost my way.
 
-     "The cold's got an edge like a jackknife--it must be forty below;
-      Leastways that's what it seems like--it cuts so fierce to the bone.
+"The cold's got an edge like a jackknife--it must be forty below;
+Leastways that's what it seems like--it cuts so fierce to the bone.
      The wind's getting real ferocious; it's heaving and whirling the snow;
       It shrieks with a howl of fury, it dies away to a moan;
      Its arms sweep round like a banshee's, swift and icily white,
-     And buffet and blind and beat me.  Lord! it's a hell of a night.
+And buffet and blind and beat me.  Lord! it's a hell of a night.
 
-     "I'm all tangled up in a blizzard.  There's only one thing to do--
-      Keep on moving and moving; it's death, it's death if I rest.
-     Oh, God! if I see the morning, if only I struggle through,
-      I'll say the prayers I've forgotten since I lay on my mother's breast.
-     I seem going round in a circle; maybe the camp is near.
-      Say! did somebody holler?  Was it a light I saw?
-     Or was it only a notion?  I'll shout, and maybe they'll hear--
-      No! the wind only drowns me--shout till my throat is raw.
+"I'm all tangled up in a blizzard.  There's only one thing to do--
+Keep on moving and moving; it's death, it's death if I rest.
+Oh, God! if I see the morning, if only I struggle through,
+I'll say the prayers I've forgotten since I lay on my mother's breast.
+I seem going round in a circle; maybe the camp is near.
+Say! did somebody holler?  Was it a light I saw?
+Or was it only a notion?  I'll shout, and maybe they'll hear--
+No! the wind only drowns me--shout till my throat is raw.
 
-     "The boys are all round the camp-fire wondering when I'll be back.
-      They'll soon be starting to seek me; they'll scarcely wait for the light.
-     What will they find, I wonder, when they come to the end of my track--
-      A hand stuck out of a snowdrift, frozen and stiff and white.
+"The boys are all round the camp-fire wondering when I'll be back.
+They'll soon be starting to seek me; they'll scarcely wait for the light.
+What will they find, I wonder, when they come to the end of my track--
+A hand stuck out of a snowdrift, frozen and stiff and white.
      That's what they'll strike, I reckon; that's how they'll find their pard,
       A pie-faced corpse in a snowbank--curse you, don't be a fool!
      Play the game to the finish; bet on your very last card;
       Nerve yourself for the struggle.  Oh, you coward, keep cool!
 
-     "I'm going to lick this blizzard; I'm going to live the night.
-      It can't down me with its bluster--I'm not the kind to be beat.
-     On hands and knees will I buck it; with every breath will I fight;
-      It's life, it's life that I fight for--never it seemed so sweet.
+"I'm going to lick this blizzard; I'm going to live the night.
+It can't down me with its bluster--I'm not the kind to be beat.
+On hands and knees will I buck it; with every breath will I fight;
+It's life, it's life that I fight for--never it seemed so sweet.
      I know that my face is frozen; my hands are numblike and dead;
       But oh, my feet keep a-moving, heavy and hard and slow;
      They're trying to kill me, kill me, the night that's black overhead,
-      The wind that cuts like a razor, the whipcord lash of the snow.
-     Keep a-moving, a-moving; don't, don't stumble, you fool!
-      Curse this snow that's a-piling a-purpose to block my way.
-     It's heavy as gold in the rocker, it's white and fleecy as wool;
-      It's soft as a bed of feathers, it's warm as a stack of hay.
+The wind that cuts like a razor, the whipcord lash of the snow.
+Keep a-moving, a-moving; don't, don't stumble, you fool!
+Curse this snow that's a-piling a-purpose to block my way.
+It's heavy as gold in the rocker, it's white and fleecy as wool;
+It's soft as a bed of feathers, it's warm as a stack of hay.
      Curse on my feet that slip so, my poor tired, stumbling feet--
       I guess they're a job for the surgeon, they feel so queerlike to lift--
      I'll rest them just for a moment--oh, but to rest is sweet!
@@ -2245,29 +2169,29 @@ Lost
      Who is it talks of sleeping?  I'll swear that somebody shook
       Me hard by the arm for a moment, but how on earth could it be?
      See how my feet are moving--awfully funny they look--
-      Moving as if they belonged to a someone that wasn't me.
-     The wind down the night's long alley bowls me down like a pin;
-      I stagger and fall and stagger, crawl arm-deep in the snow.
-     Beaten back to my corner, how can I hope to win?
-      And there is the blizzard waiting to give me the knockout blow.
+Moving as if they belonged to a someone that wasn't me.
+The wind down the night's long alley bowls me down like a pin;
+I stagger and fall and stagger, crawl arm-deep in the snow.
+Beaten back to my corner, how can I hope to win?
+And there is the blizzard waiting to give me the knockout blow.
 
-     Oh, I'm so warm and sleepy!  No more hunger and pain.
-      Just to rest for a moment; was ever rest such a joy?
-     Ha! what was that?  I'll swear it, somebody shook me again;
-      Somebody seemed to whisper:  "Fight to the last, my boy."
-     Fight!  That's right, I must struggle.  I know that to rest means death;
-      Death, but then what does death mean?--ease from a world of strife.
-     Life has been none too pleasant; yet with my failing breath
-      Still and still must I struggle, fight for the gift of life.
+Oh, I'm so warm and sleepy!  No more hunger and pain.
+Just to rest for a moment; was ever rest such a joy?
+Ha! what was that?  I'll swear it, somebody shook me again;
+Somebody seemed to whisper:  "Fight to the last, my boy."
+Fight!  That's right, I must struggle.  I know that to rest means death;
+Death, but then what does death mean?--ease from a world of strife.
+Life has been none too pleasant; yet with my failing breath
+Still and still must I struggle, fight for the gift of life.
 
-          *    *    *    *    *
+*    *    *    *    *
 
      Seems that I must be dreaming!  Here is the old home trail;
       Yonder a light is gleaming; oh, I know it so well!
      The air is scented with clover; the cattle wait by the rail;
-      Father is through with the milking; there goes the supper-bell.
+Father is through with the milking; there goes the supper-bell.
 
-          *    *    *    *    *
+*    *    *    *    *
 
      Mother, your boy is crying, out in the night and cold;
       Let me in and forgive me, I'll never be bad any more:
@@ -2285,8 +2209,6 @@ Lost
            Weary and worn and old are we)--
           Only the snow and a wounded loon--
           Rest and sleep, 'twill be morning soon."_
-
-
 
 
 L'Envoi
@@ -2330,370 +2252,3 @@ L'Envoi
            That land that measures each man at his worth,
           And feel in memory, half fierce, half tender,
            The brotherhood of men that know the North.
-
-
-
-
-
-
-End of Project Gutenberg's Ballads of a Cheechako, by Robert W. Service
-
-*** END OF THIS PROJECT GUTENBERG EBOOK BALLADS OF A CHEECHAKO ***
-
-***** This file should be named 259.txt or 259.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/2/5/259/
-
-Produced by A. Light
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

@@ -1,39 +1,3 @@
-The Project Gutenberg EBook of Orlando Furioso, by Lodovico Ariosto
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Orlando Furioso
-
-Author: Lodovico Ariosto
-
-Translator: William Stewart Rose
-
-Posting Date: October 8, 2008 [EBook #615]
-Release Date: August, 1996
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK ORLANDO FURIOSO ***
-
-
-
-
-Produced by Douglas B. Killings
-
-
-
-
-
-
-
-
-
 Orlando Furioso
 
 ("Orlando Enraged")
@@ -46,102 +10,39 @@ Ludovico Ariosto
 (1474-1533)
 
 
-
 Translated by William Stewart Rose
 
-This electronic edition was edited, proofed, and prepared by
-Douglas B. Killings (DeTroyes@AOL.COM), July, 1995.  Additional
-corrections made September, 1995.
+This electronic edition was edited, proofed, and prepared by Douglas B. Killings (DeTroyes@AOL.COM), July, 1995.  Additional corrections made September, 1995.
 
-NOTE: Please let the preparer know of any textual errors that you
-find; this edition has been proofed once, but I am finding
-additional errors all the time.
-
-
-
+NOTE: Please let the preparer know of any textual errors that you find; this edition has been proofed once, but I am finding additional errors all the time.
 
 
 INTRODUCTION:
 
-This work is a continuation of the "Orlando Innamorato" of Matteo
-Maria Boiardo, which was left unfinished upon the author's death
-in 1494.  It begins more or less at the point where Boiardo left
+This work is a continuation of the "Orlando Innamorato" of Matteo Maria Boiardo, which was left unfinished upon the author's death in 1494.  It begins more or less at the point where Boiardo left
 it.
 
-This is a brief synopsis of Boiardo's work, omitting most of the
-numerous digressions and incidental episodes associated with
-these events:
+This is a brief synopsis of Boiardo's work, omitting most of the numerous digressions and incidental episodes associated with these events:
 
-To the court of King Charlemagne comes Angelica (daughter to the
-king of Cathay, or India) and her brother Argalia.  Angelica is
-the most beautiful woman any of the Peers have ever seen, and all
-want her.  However, in order to take her as wife they must first
-defeat Argalia in combat.  The two most stricken by her are
-Orlando and Ranaldo ("Rinaldo" in Rose).
+To the court of King Charlemagne comes Angelica (daughter to the king of Cathay, or India) and her brother Argalia.  Angelica is the most beautiful woman any of the Peers have ever seen, and all want her.  However, in order to take her as wife they must first defeat Argalia in combat.  The two most stricken by her are Orlando and Ranaldo ("Rinaldo" in Rose).
 
-When Argalia falls to the heathen knight Ferrau, Angelica flees
--- with Orlando and Ranaldo in hot pursuit.  Along the way, both
-Angelica and Ranaldo drink magic waters -- Angelica is filled
-with a burning love for Ranaldo, but Ranaldo is now indifferent.
+When Argalia falls to the heathen knight Ferrau, Angelica flees -- with Orlando and Ranaldo in hot pursuit.  Along the way, both Angelica and Ranaldo drink magic waters -- Angelica is filled with a burning love for Ranaldo, but Ranaldo is now indifferent.
 
-Eventually, Orlando and Ranaldo arrive at Angelica's castle.
-Others also gather at Angelica's castle, including Agricane, King
-of Tartary; Sacripant, King of Circassia; Agramante, King of
-Africa and Marfisa ("Marphisa" in Rose), an Asian warrior-Queen.
-Except for Orlando and Ranaldo, all are heathen.
+Eventually, Orlando and Ranaldo arrive at Angelica's castle. Others also gather at Angelica's castle, including Agricane, King of Tartary; Sacripant, King of Circassia; Agramante, King of Africa and Marfisa ("Marphisa" in Rose), an Asian warrior-Queen. Except for Orlando and Ranaldo, all are heathen.
 
-Meanwhile, France is threatened by heathen invaders.  Led by King
-Gradasso of Sericana (whose principal reason for going to war is
-to obtain Orlando's sword, Durindana) and King Rodomonte of
-Sarzia, a Holy War between Pagans and Christians ensues.
+Meanwhile, France is threatened by heathen invaders.  Led by King Gradasso of Sericana (whose principal reason for going to war is to obtain Orlando's sword, Durindana) and King Rodomonte of Sarzia, a Holy War between Pagans and Christians ensues.
 
-Ranaldo leaves Angelica's castle, and Angelica and a very
-love-sick (but very chaste and proper) Orlando, set out for
-France in search of him.  Again the same waters as before are
-drunk from, but this time in reverse -- Ranaldo now burns for
-Angelica, but Angelica is now indifferent.  Ranaldo and Orlando
-now begin to fight over her, but King Charlemagne (fearing the
-consequences if his two best knights kill each other in combat)
-intervenes and promises Angelica to whichever of the two fights
-the best against the heathen; he leaves her in the care of Duke
-Namus.  Orlando and Ranaldo arrive in Paris just in time to
-repulse an attack by Agramante.
+Ranaldo leaves Angelica's castle, and Angelica and a very love-sick (but very chaste and proper) Orlando, set out for France in search of him.  Again the same waters as before are drunk from, but this time in reverse -- Ranaldo now burns for Angelica, but Angelica is now indifferent.  Ranaldo and Orlando now begin to fight over her, but King Charlemagne (fearing the consequences if his two best knights kill each other in combat) intervenes and promises Angelica to whichever of the two fights the best against the heathen; he leaves her in the care of Duke Namus.  Orlando and Ranaldo arrive in Paris just in time to repulse an attack by Agramante.
 
-Namus' camp is overrun by the heathen.  Angelica escapes, with
-Ranaldo in pursuit.  Also in pursuit is Ferrau, who (because he
-had defeated Argalia) considers Angelica his.  It is at this
-point that the poem breaks off.
+Namus' camp is overrun by the heathen.  Angelica escapes, with Ranaldo in pursuit.  Also in pursuit is Ferrau, who (because he had defeated Argalia) considers Angelica his.  It is at this point that the poem breaks off.
 
-While the Orlando-Ranaldo-Angelica triangle is going on, the
-stories of other knights and their loves are mixed in.  Most
-important of these is that of the female knight Bradamante
-(sister of Ranaldo), who falls in love with a very noble heathen
-knight named Ruggiero ("Rogero" in Rose).  Ruggiero, who is said
-to be a descendent of Alexander the Great and Hector, also falls
-in love with Bradamante, but because they are fighting on
-opposite sides it is felt that their love is hopeless.
-Nevertheless, it is prophecised that they shall wed and found the
-famous Este line, who shall rise to become one of the major
-families of Medieval and Renaissance Italy (it is worth noting
-that the Estes where the patrons of both Boiardo and Ariosto).
-Opposed to this prophecy is Atlantes, an African wizard who seeks
-to derail fate and keep Ruggiero from becoming a Christian.  By
-the end of the poem, Ruggiero is imprisoned in Atlantes' castle.
-However, Bradamante (who has decided to follow her heart) is in
-pursuit of her love, and is not too far away.  It is the
-Bradamante-Ruggiero story that eventually takes center stage in
+While the Orlando-Ranaldo-Angelica triangle is going on, the stories of other knights and their loves are mixed in.  Most important of these is that of the female knight Bradamante (sister of Ranaldo), who falls in love with a very noble heathen knight named Ruggiero ("Rogero" in Rose).  Ruggiero, who is said to be a descendent of Alexander the Great and Hector, also falls in love with Bradamante, but because they are fighting on opposite sides it is felt that their love is hopeless. Nevertheless, it is prophecised that they shall wed and found the famous Este line, who shall rise to become one of the major families of Medieval and Renaissance Italy (it is worth noting that the Estes where the patrons of both Boiardo and Ariosto). Opposed to this prophecy is Atlantes, an African wizard who seeks to derail fate and keep Ruggiero from becoming a Christian.  By the end of the poem, Ruggiero is imprisoned in Atlantes' castle. However, Bradamante (who has decided to follow her heart) is in pursuit of her love, and is not too far away.  It is the Bradamante-Ruggiero story that eventually takes center stage in
 Ariosto's work.
 
-Other characters of importance: Astolfo, a Peer and friend of
-Orlando, who is kidnaped by the evil witch Morgana and her sister
-Alcina; Mandricardo, a fierce but hot-headed heathen; and a young
-knight named Brandimarte, who falls in love with (and wins the
-heart of) the beautiful Fiordelisa ("Flordelice" in Rose).  All
-play major or semi-major roles in the events of Ariosto's poem.
+Other characters of importance: Astolfo, a Peer and friend of Orlando, who is kidnaped by the evil witch Morgana and her sister Alcina; Mandricardo, a fierce but hot-headed heathen; and a young knight named Brandimarte, who falls in love with (and wins the heart of) the beautiful Fiordelisa ("Flordelice" in Rose).  All play major or semi-major roles in the events of Ariosto's poem.
 
 --DBK
 
-*****************************************************************
 
 CANTO 1
 
@@ -967,7 +868,7 @@ CANTO 1
   I in another canto shall declare.
 
 
-  CANTO 2
+CANTO 2
 
   ARGUMENT
   A hermit parts, by means of hollow sprite,
@@ -1741,7 +1642,7 @@ CANTO 1
   As the ensuing canto will display.
 
 
-  CANTO 3
+CANTO 3
 
   ARGUMENT
   Restored to sense, the beauteous Bradamant
@@ -2525,7 +2426,7 @@ CANTO 1
   But first shall break my song with fitting pause.
 
 
-  CANTO 4
+CANTO 4
 
   ARGUMENT
   The old Atlantes suffers fatal wreck,
@@ -3259,7 +3160,7 @@ CANTO 1
   What to another canto I postpone.
 
 
-  CANTO 5
+CANTO 5
 
   ARGUMENT
   Lurcanio, by a false report abused,
@@ -4192,7 +4093,7 @@ CANTO 1
   If you are fain the history to hear.
 
 
-  CANTO 6
+CANTO 6
 
   ARGUMENT
   Ariodantes has, a worthy meed,
@@ -5005,7 +4906,7 @@ CANTO 1
   Till other strain the issue of the fray.
 
 
-  CANTO 7
+CANTO 7
 
   ARGUMENT
   Rogero, as directed by the pair,
@@ -5819,7 +5720,7 @@ CANTO 1
   At last the realm where Logistilla reigned.
 
 
-  CANTO 8
+CANTO 8
 
   ARGUMENT
   Rogero flies; Astolpho with the rest,
@@ -6735,7 +6636,7 @@ CANTO 1
   Him next, the canto which ensues shall tell.
 
 
-  CANTO 9
+CANTO 9
 
   ARGUMENT
   So far Orlando wends, he comes to where
@@ -7689,7 +7590,7 @@ CANTO 1
   If you to hear that other strain resort.
 
 
-  CANTO 10
+CANTO 10
 
   ARGUMENT
   Another love assails Bireno's breast,
@@ -8853,7 +8754,7 @@ CANTO 1
   When it may better please, my tedious rhyme.
 
 
-  CANTO 11
+CANTO 11
 
   ARGUMENT
   Assisted by the magic ring she wears,
@@ -9697,7 +9598,7 @@ CANTO 1
   What chanced, and may be heard in future lay.
 
 
-  CANTO 12
+CANTO 12
 
   ARGUMENT
   Orlando, full of rage, pursues a knight
@@ -10651,7 +10552,7 @@ CANTO 1
   The rest, for here 'tis time my strain should end.
 
 
-  CANTO 13
+CANTO 13
 
   ARGUMENT
   The Count Orlando of the damsel bland
@@ -11494,7 +11395,7 @@ CANTO 1
   The order of the muster to display.
 
 
-  CANTO 14
+CANTO 14
 
   ARGUMENT
   Two squadrons lack of those which muster under
@@ -12847,7 +12748,7 @@ CANTO 1
   My canto, hoarse, and needing short repose.
 
 
-  CANTO 15
+CANTO 15
 
   ARGUMENT
   Round about Paris every where are spread
@@ -13910,7 +13811,7 @@ CANTO 1
   How he effected this, and what befell.
 
 
-  CANTO 16
+CANTO 16
 
   ARGUMENT
   Gryphon finds traitorous Origilla nigh
@@ -14813,7 +14714,7 @@ CANTO 1
   Who willingly will listen to this rhyme.
 
 
-  CANTO 17
+CANTO 17
 
   ARGUMENT
   Charles goes, with his, against King Rodomont.
@@ -16167,7 +16068,7 @@ CANTO 1
   For, sir, 'tis time this song should have an end.
 
 
-  CANTO 18
+CANTO 18
 
   ARGUMENT
   Gryphon is venged.  Sir Mandricardo goes
@@ -18101,7 +18002,7 @@ CANTO 1
   To listen to my tale some other time.
 
 
-  CANTO 19
+CANTO 19
 
   ARGUMENT
   Medoro, by Angelica's quaint hand,
@@ -19194,7 +19095,7 @@ CANTO 1
   Await till the ensuing strain to hear.
 
 
-  CANTO 20
+CANTO 20
 
   ARGUMENT
   Guido and his from that foul haunt retire,
@@ -20647,7 +20548,7 @@ CANTO 1
   What followed the ensuing strain will say.
 
 
-  CANTO 21
+CANTO 21
 
   ARGUMENT
   Zerbino for Gabrina, who a heart
@@ -21381,7 +21282,7 @@ CANTO 1
   What chanced in other canto you shall know.
 
 
-  CANTO 22
+CANTO 22
 
   ARGUMENT
   Atlantes' magic towers Astolpho wight
@@ -22375,7 +22276,7 @@ CANTO 1
   Who loves the tale, to hear my story's end.
 
 
-  CANTO 23
+CANTO 23
 
   ARGUMENT
   Astolpho soars in air.  Upon account
@@ -23749,7 +23650,7 @@ CANTO 1
   Rather than by my tediousness offend.
 
 
-  CANTO 24
+CANTO 24
 
   ARGUMENT
   Odorico's and Gabrina's guilt repaid,
@@ -24914,7 +24815,7 @@ CANTO 1
   So, with your licence, shall the tale suspend.
 
 
-  CANTO 25
+CANTO 25
 
   ARGUMENT
   Rogero Richardetto from the pains
@@ -25851,7 +25752,7 @@ CANTO 1
   I find myself arrived, and crave repose.
 
 
-  CANTO 26
+CANTO 26
 
   ARGUMENT
   Of mighty matters, sculptured in a font,
@@ -26661,8 +26562,8 @@ CANTO 1
   And readily her squires that hest obeyed:
   Then in her waistcoat stood, of flowing weed
   Despoiled, with well-knit from and charms displayed;
-  And in all points (such strength she shewed and grace)
-  Resembled heavenly Mars, except her face.
+And in all points (such strength she shewed and grace)
+Resembled heavenly Mars, except her face.
 
   LXXXI
   The damsel donned her sword, when armed all o'er,
@@ -27235,7 +27136,7 @@ CANTO 1
   By those two couples of whose worth I sing.
 
 
-  CANTO 27
+CANTO 27
 
   ARGUMENT
   By good Rogero and those paynims three
@@ -28648,7 +28549,7 @@ CANTO 1
   What to King Rodomont the landlord told.
 
 
-  CANTO 28
+CANTO 28
 
   ARGUMENT
   To whatsoever evil tongue can tell
@@ -29545,7 +29446,7 @@ CANTO 1
   Admonished by that ancient's evil end.
 
 
-  CANTO 29
+CANTO 29
 
   ARGUMENT
   Isabel makes the paynim take her head,
@@ -30299,7 +30200,7 @@ CANTO 1
   Defer my story till another time.
 
 
-  CANTO 30
+CANTO 30
 
   ARGUMENT
   Great feats achieve Orlando by the way.
@@ -31261,7 +31162,7 @@ CANTO 1
   He succoured Charles, shall other canto tell.
 
 
-  CANTO 31
+CANTO 31
 
   ARGUMENT
   Rinaldo and Dudon fight; then friendship make,
@@ -32374,7 +32275,7 @@ CANTO 1
   I till another season shall delay.
 
 
-  CANTO 32
+CANTO 32
 
   ARGUMENT
   To her that does for her Rogero stay,
@@ -33488,7 +33389,7 @@ CANTO 1
   What followed shall another canto tell.
 
 
-  CANTO 33
+CANTO 33
 
   ARGUMENT
   Bradamant sees in picture future fight
@@ -33698,8 +33599,8 @@ CANTO 1
   Manfred and Conradine, and after see
   His bands, who seem to vex the new-won reign
   With many wrongs, and who dispersedly
-  -- Some here, some there -- in different cities dwell.
-  Slain on the rolling of the vesper-bell."
+-- Some here, some there -- in different cities dwell.
+Slain on the rolling of the vesper-bell."
 
   XXI
   He shows them next (but after interval,
@@ -34781,7 +34682,7 @@ CANTO 1
   I shall conclude my canto and repose.
 
 
-  CANTO 34
+CANTO 34
 
   ARGUMENT
   In the infernal pit Astolpho hears
@@ -34791,7 +34692,7 @@ CANTO 1
   By John advised in all, to heaven he steers;
   Of some of his lost sense here repossest,
   Orlando's wasted wit as well he takes,
-  Sees the Fates spin their threads, and earthward makes.
+Sees the Fates spin their threads, and earthward makes.
 
 
   I
@@ -35715,7 +35616,7 @@ CANTO 1
   With that kind audience ye are wont to lend.
 
 
-  CANTO 35
+CANTO 35
 
   ARGUMENT
   The apostle praises authors to the peer.
@@ -36519,7 +36420,7 @@ CANTO 1
   That knight, in other canto will I tell.
 
 
-  CANTO 36
+CANTO 36
 
   ARGUMENT
   While with the fierce Marphisa at despite
@@ -37373,7 +37274,7 @@ CANTO 1
   If ye to hear another strain resort.
 
 
-  CANTO 37
+CANTO 37
 
   ARGUMENT
   Lament and outcry loud of some that mourn,
@@ -38606,7 +38507,7 @@ CANTO 1
   Rogero; and my canto I have done.
 
 
-  CANTO 38
+CANTO 38
 
   ARGUMENT
   To Arles the Child, to Charles Marphisa wends,
@@ -39519,7 +39420,7 @@ CANTO 1
   If you that other canto please to hear.
 
 
-  CANTO 39
+CANTO 39
 
   ARGUMENT
   Agramant breaks the pact, is overthrown,
@@ -40393,7 +40294,7 @@ CANTO 1
   As to annoy you with a tedious song.
 
 
-  CANTO 40
+CANTO 40
 
   ARGUMENT
   To fly the royal Agramant is fain,
@@ -41227,7 +41128,7 @@ CANTO 1
   My canto I defer to other time.
 
 
-  CANTO 41
+CANTO 41
 
   ARGUMENT
   His prisoners to the Child the Danish peer
@@ -42261,7 +42162,7 @@ CANTO 1
   But now 'tis time that I suspend my lay.
 
 
-  CANTO 42
+CANTO 42
 
   ARGUMENT
   The victory with Count Orlando lies;
@@ -43314,7 +43215,7 @@ CANTO 1
   Will then relate the Paladin's reply.
 
 
-  CANTO 43
+CANTO 43
 
   ARGUMENT
   Rinaldo from his courteous landlord hears
@@ -45315,7 +45216,7 @@ CANTO 1
   In other strain, if you that strain will hear.
 
 
-  CANTO 44
+CANTO 44
 
   ARGUMENT
   Rinaldo his sister to the Child hath plight,
@@ -46369,7 +46270,7 @@ CANTO 1
   What shall by men in other strain be versed.
 
 
-  CANTO 45
+CANTO 45
 
   ARGUMENT
   Young Leo doth from death Rogero free;
@@ -47553,7 +47454,7 @@ CANTO 1
   Reserve myself, her doings to rehearse.
 
 
-  CANTO 46
+CANTO 46
 
   ARGUMENT
   After long search for good Rogero made,
@@ -48966,375 +48867,3 @@ CANTO 1
   Of fetid Acheron, and hell's foul repair,
   The indignant spirit fled, blaspheming loud;
   Erewhile on earth so haughty and so proud.
-
-
-
-
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of Orlando Furioso, by Lodovico Ariosto
-
-*** END OF THIS PROJECT GUTENBERG EBOOK ORLANDO FURIOSO ***
-
-***** This file should be named 615.txt or 615.zip *****
-This and all associated files of various formats will be found in:
-        https://www.gutenberg.org/6/1/615/
-
-Produced by Douglas B. Killings
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-https://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at https://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at https://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit https://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: https://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     https://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

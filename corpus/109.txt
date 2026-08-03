@@ -1,5 +1,3 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 109 ***
-
 Renascence and Other Poems
 
 
@@ -8,10 +6,7 @@ by
 Edna St. Vincent Millay
 
 
-
-
-  Contents:
-
+Contents:
 
 
   Renascence
@@ -94,14 +89,10 @@ Edna St. Vincent Millay
        This door you might not open, and you did;
 
 
+Renascence and Other Poems
 
 
-  Renascence and Other Poems
-
-
-
-
-  Renascence
+Renascence
 
 
   All I could see from where I stood
@@ -325,9 +316,7 @@ Edna St. Vincent Millay
   Will cave in on him by and by.
 
 
-
-
-  Interim
+Interim
 
 
   The room is full of you!--As I came in
@@ -558,9 +547,7 @@ Edna St. Vincent Millay
   I am but flesh and blood and I must sleep.
 
 
-
-
-  The Suicide
+The Suicide
 
 
   "Curse thee, Life, I will live with thee no more!
@@ -713,9 +700,7 @@ Edna St. Vincent Millay
   "Thou hadst thy task, and laidst it by", he said.
 
 
-
-
-  God's World
+God's World
 
 
   O world, I cannot hold thee close enough!
@@ -736,9 +721,7 @@ Edna St. Vincent Millay
   No burning leaf; prithee, let no bird call.
 
 
-
-
-  Afternoon on a Hill
+Afternoon on a Hill
 
 
   I will be the gladdest thing
@@ -757,9 +740,7 @@ Edna St. Vincent Millay
     And then start down!
 
 
-
-
-  Sorrow
+Sorrow
 
 
   Sorrow like a ceaseless rain
@@ -777,9 +758,7 @@ Edna St. Vincent Millay
     Or what shoes I wear.
 
 
-
-
-  Tavern
+Tavern
 
 
   I'll keep a little tavern
@@ -803,9 +782,7 @@ Edna St. Vincent Millay
     A long time ago.
 
 
-
-
-  Ashes of Life
+Ashes of Life
 
 
   Love has gone and left me and the days are all alike;
@@ -824,9 +801,7 @@ Edna St. Vincent Millay
     There's this little street and this little house.
 
 
-
-
-  The Little Ghost
+The Little Ghost
 
 
   I knew her for a little ghost
@@ -865,9 +840,7 @@ Edna St. Vincent Millay
     A gate that once was there.
 
 
-
-
-  Kin to Sorrow
+Kin to Sorrow
 
 
   Am I kin to Sorrow,
@@ -888,12 +861,10 @@ Edna St. Vincent Millay
     *Oh, come in*!
 
 
+Three Songs of Shattering
 
 
-  Three Songs of Shattering
-
-
-            I
+I
 
   The first rose on my rose-tree
     Budded, bloomed, and shattered,
@@ -906,7 +877,7 @@ Edna St. Vincent Millay
             Very pretty.
 
 
-            II
+II
 
   Let the little birds sing;
     Let the little lambs play;
@@ -924,7 +895,7 @@ Edna St. Vincent Millay
     But not in the old way!
 
 
-            III
+III
 
   All the dog-wood blossoms are underneath the tree!
     Ere spring was going--ah, spring is gone!
@@ -937,9 +908,7 @@ Edna St. Vincent Millay
     And weeds were tall on all the paths that led that way!
 
 
-
-
-  The Shroud
+The Shroud
 
 
   Death, I say, my heart is bowed
@@ -963,9 +932,7 @@ Edna St. Vincent Millay
     Good as any other!
 
 
-
-
-  The Dream
+The Dream
 
 
   Love, if I weep it will not matter,
@@ -989,9 +956,7 @@ Edna St. Vincent Millay
     Ah, it is good to feel you there!
 
 
-
-
-  Indifference
+Indifference
 
 
   I said,--for Love was laggard, O, Love was slow to come,--
@@ -1004,9 +969,7 @@ Edna St. Vincent Millay
     All sorry with the tears some folks might weep!
 
 
-
-
-  Witch-Wife
+Witch-Wife
 
 
   She is neither pink nor pale,
@@ -1025,9 +988,7 @@ Edna St. Vincent Millay
     And she never will be all mine.
 
 
-
-
-  Blight
+Blight
 
 
   Hard seeds of hate I planted
@@ -1066,9 +1027,7 @@ Edna St. Vincent Millay
     Ye falter, and ye fade.
 
 
-
-
-  When the Year Grows Old
+When the Year Grows Old
 
 
   I cannot but remember
@@ -1107,12 +1066,10 @@ Edna St. Vincent Millay
     How she disliked the cold!
 
 
+Sonnets
 
 
-  Sonnets
-
-
-            I
+I
 
   Thou art not lovelier than lilacs,--no,
     Nor honeysuckle; thou art not more fair
@@ -1131,7 +1088,7 @@ Edna St. Vincent Millay
   I drink--and live--what has destroyed some men.
 
 
-            II
+II
 
   Time does not bring relief; you all have lied
     Who told me time would ease me of my pain!
@@ -1150,7 +1107,7 @@ Edna St. Vincent Millay
     And so stand stricken, so remembering him!
 
 
-            III
+III
 
   Mindful of you the sodden earth in spring,
     And all the flowers that in the springtime grow,
@@ -1169,7 +1126,7 @@ Edna St. Vincent Millay
     And fair,--and the long year remembers you.
 
 
-            IV
+IV
 
   Not in this chamber only at my birth--
     When the long hours of that mysterious night
@@ -1188,7 +1145,7 @@ Edna St. Vincent Millay
     To gather up my little gods and go.
 
 
-            V
+V
 
   If I should learn, in some quite casual way,
     That you were gone, not to return again--
@@ -1206,7 +1163,7 @@ Edna St. Vincent Millay
   Where to store furs and how to treat the hair.
 
 
-            VI     Bluebeard
+VI     Bluebeard
 
   This door you might not open, and you did;
     So enter now, and see for what slight thing
@@ -1224,14 +1181,4 @@ Edna St. Vincent Millay
     This now is yours.  I seek another place.
 
 
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of Renascence and Other Poems, by 
-Edna St. Vincent Millay
-
-*** END OF THE PROJECT GUTENBERG EBOOK 109 ***
+End of the Project Gutenberg EBook of Renascence and Other Poems, by Edna St. Vincent Millay

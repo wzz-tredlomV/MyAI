@@ -1,42 +1,7 @@
-﻿The Project Gutenberg eBook, Underwoods, by Robert Louis Stevenson
-
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-
-
-
-Title: Underwoods
-
-
-Author: Robert Louis Stevenson
-
-
-
-Release Date: January 27, 2013  [eBook #438]
-[This file was first posted on January 3, 1996]
-
-
-Language: English
-
-Character set encoding: UTF-8
-
-
-***START OF THE PROJECT GUTENBERG EBOOK UNDERWOODS***
-
-
-Transcribed from the 1989 Chatto & Windus edition by David Price, email
 ccx074@pglaf
 
 
-
-
-
-                                UNDERWOODS
+UNDERWOODS
 
 
                                     BY
@@ -50,7 +15,6 @@ ccx074@pglaf
 
                                   LONDON
                              CHATTO & WINDUS
-                                   1898
 
                                 * * * * *
 
@@ -60,194 +24,107 @@ ccx074@pglaf
    _Ah_, _how much better_, _had I stol’n the whole_!
 
 
-
-
 DEDICATION
 
 
-THERE are men and classes of men that stand above the common herd: the
-soldier, the sailor and the shepherd not unfrequently; the artist rarely;
-rarely still, the clergyman; the physician almost as a rule.  He is the
-flower (such as it is) of our civilisation; and when that stage of man is
-done with, and only remembered to be marvelled at in history, he will be
-thought to have shared as little as any in the defects of the period, and
-most notably exhibited the virtues of the race.  Generosity he has, such
-as is possible to those who practise an art, never to those who drive a
-trade; discretion, tested by a hundred secrets; tact, tried in a thousand
-embarrassments; and what are more important, Heraclean cheerfulness and
-courage.  So it is that he brings air and cheer into the sickroom, and
-often enough, though not so often as he wishes, brings healing.
+THERE are men and classes of men that stand above the common herd: the soldier, the sailor and the shepherd not unfrequently; the artist rarely; rarely still, the clergyman; the physician almost as a rule.  He is the flower (such as it is) of our civilisation; and when that stage of man is done with, and only remembered to be marvelled at in history, he will be thought to have shared as little as any in the defects of the period, and most notably exhibited the virtues of the race.  Generosity he has, such as is possible to those who practise an art, never to those who drive a trade; discretion, tested by a hundred secrets; tact, tried in a thousand embarrassments; and what are more important, Heraclean cheerfulness and courage.  So it is that he brings air and cheer into the sickroom, and often enough, though not so often as he wishes, brings healing.
 
-Gratitude is but a lame sentiment; thanks, when they are expressed, are
-often more embarrassing than welcome; and yet I must set forth mine to a
-few out of many doctors who have brought me comfort and help: to Dr.
-Willey of San Francisco, whose kindness to a stranger it must be as
-grateful to him, as it is touching to me, to remember; to Dr. Karl Ruedi
-of Davos, the good genius of the English in his frosty mountains; to Dr.
-Herbert of Paris, whom I knew only for a week, and to Dr. Caissot of
-Montpellier, whom I knew only for ten days, and who have yet written
-their names deeply in my memory; to Dr. Brandt of Royat; to Dr. Wakefield
-of Nice; to Dr. Chepmell, whose visits make it a pleasure to be ill; to
-Dr. Horace Dobell, so wise in counsel; to Sir Andrew Clark, so unwearied
-in kindness and to that wise youth, my uncle, Dr. Balfour.
+Gratitude is but a lame sentiment; thanks, when they are expressed, are often more embarrassing than welcome; and yet I must set forth mine to a few out of many doctors who have brought me comfort and help: to Dr. Willey of San Francisco, whose kindness to a stranger it must be as grateful to him, as it is touching to me, to remember; to Dr. Karl Ruedi of Davos, the good genius of the English in his frosty mountains; to Dr. Herbert of Paris, whom I knew only for a week, and to Dr. Caissot of Montpellier, whom I knew only for ten days, and who have yet written their names deeply in my memory; to Dr. Brandt of Royat; to Dr. Wakefield of Nice; to Dr. Chepmell, whose visits make it a pleasure to be ill; to Dr. Horace Dobell, so wise in counsel; to Sir Andrew Clark, so unwearied in kindness and to that wise youth, my uncle, Dr. Balfour.
 
-I forget as many as I remember; and I ask both to pardon me, these for
-silence, those for inadequate speech.  But one name I have kept on
-purpose to the last, because it is a household word with me, and because
-if I had not received favours from so many hands and in so many quarters
-of the world, it should have stood upon this page alone: that of my
-friend Thomas Bodley Scott of Bournemouth.  Will he accept this, although
-shared among so many, for a dedication to himself? and when next my
-ill-fortune (which has thus its pleasant side) brings him hurrying to me
-when he would fain sit down to meat or lie down to rest, will he care to
-remember that he takes this trouble for one who is not fool enough to be
-ungrateful?
+I forget as many as I remember; and I ask both to pardon me, these for silence, those for inadequate speech.  But one name I have kept on purpose to the last, because it is a household word with me, and because if I had not received favours from so many hands and in so many quarters of the world, it should have stood upon this page alone: that of my friend Thomas Bodley Scott of Bournemouth.  Will he accept this, although shared among so many, for a dedication to himself? and when next my ill-fortune (which has thus its pleasant side) brings him hurrying to me when he would fain sit down to meat or lie down to rest, will he care to remember that he takes this trouble for one who is not fool enough to be ungrateful?
 
-                                                                  R. L. S.
+R. L. S.
 
 SKERRYVORE,
-         BOURNEMOUTH.
-
-
+BOURNEMOUTH.
 
 
 NOTE
 
 
-THE human conscience has fled of late the troublesome domain of conduct
-for what I should have supposed to be the less congenial field of art:
-there she may now be said to rage, and with special severity in all that
-touches dialect; so that in every novel the letters of the alphabet are
-tortured, and the reader wearied, to commemorate shades of
-mis-pronunciation.  Now spelling is an art of great difficulty in my
-eyes, and I am inclined to lean upon the printer, even in common
-practice, rather than to venture abroad upon new quests.  And the Scots
-tongue has an orthography of its own, lacking neither “authority nor
-author.”  Yet the temptation is great to lend a little guidance to the
-bewildered Englishman.  Some simple phonetic artifice might defend your
-verses from barbarous mishandling, and yet not injure any vested
-interest.  So it seems at first; but there are rocks ahead.  Thus, if I
-wish the diphthong _ou_ to have its proper value, I may write _oor_
-instead of _our_; many have done so and lived, and the pillars of the
-universe remained unshaken.  But if I did so, and came presently to
-_doun_, which is the classical Scots spelling of the English _down_, I
-should begin to feel uneasy; and if I went on a little farther, and came
-to a classical Scots word, like _stour_ or _dour_ or _clour_, I should
-know precisely where I was—that is to say, that I was out of sight of
-land on those high seas of spelling reform in which so many strong
-swimmers have toiled vainly.  To some the situation is exhilarating; as
-for me, I give one bubbling cry and sink.  The compromise at which I have
-arrived is indefensible, and I have no thought of trying to defend it.
-As I have stuck for the most part to the proper spelling, I append a
-table of some common vowel sounds which no one need consult; and just to
-prove that I belong to my age and have in me the stuff of a reformer, I
-have used modification marks throughout.  Thus I can tell myself, not
-without pride, that I have added a fresh stumbling-block for English
-readers, and to a page of print in my native tongue, have lent a new
-uncouthness.  _Sed non nobis_.
+THE human conscience has fled of late the troublesome domain of conduct for what I should have supposed to be the less congenial field of art: there she may now be said to rage, and with special severity in all that touches dialect; so that in every novel the letters of the alphabet are tortured, and the reader wearied, to commemorate shades of mis-pronunciation.  Now spelling is an art of great difficulty in my eyes, and I am inclined to lean upon the printer, even in common practice, rather than to venture abroad upon new quests.  And the Scots tongue has an orthography of its own, lacking neither “authority nor author.”  Yet the temptation is great to lend a little guidance to the bewildered Englishman.  Some simple phonetic artifice might defend your verses from barbarous mishandling, and yet not injure any vested interest.  So it seems at first; but there are rocks ahead.  Thus, if I wish the diphthong _ou_ to have its proper value, I may write _oor_ instead of _our_; many have done so and lived, and the pillars of the universe remained unshaken.  But if I did so, and came presently to _doun_, which is the classical Scots spelling of the English _down_, I should begin to feel uneasy; and if I went on a little farther, and came to a classical Scots word, like _stour_ or _dour_ or _clour_, I should know precisely where I was—that is to say, that I was out of sight of land on those high seas of spelling reform in which so many strong swimmers have toiled vainly.  To some the situation is exhilarating; as for me, I give one bubbling cry and sink.  The compromise at which I have arrived is indefensible, and I have no thought of trying to defend it. As I have stuck for the most part to the proper spelling, I append a table of some common vowel sounds which no one need consult; and just to prove that I belong to my age and have in me the stuff of a reformer, I have used modification marks throughout.  Thus I can tell myself, not without pride, that I have added a fresh stumbling-block for English readers, and to a page of print in my native tongue, have lent a new uncouthness.  _Sed non nobis_.
 
-I note again, that among our new dialecticians, the local habitat of
-every dialect is given to the square mile.  I could not emulate this
-nicety if I desired; for I simply wrote my Scots as well as I was able,
-not caring if it hailed from Lauderdale or Angus, from the Mearns or
-Galloway; if I had ever heard a good word, I used it without shame; and
-when Scots was lacking, or the rhyme jibbed, I was glad (like my betters)
-to fall back on English.  For all that, I own to a friendly feeling for
-the tongue of Fergusson and of Sir Walter, both Edinburgh men; and I
-confess that Burns has always sounded in my ear like something partly
-foreign.  And indeed I am from the Lothians myself; it is there I heard
-the language spoken about my childhood; and it is in the drawling Lothian
-voice that I repeat it to myself.  Let the precisians call my speech that
-of the Lothians.  And if it be not pure, alas! what matters it?  The day
-draws near when this illustrious and malleable tongue shall be quite
-forgotten; and Burn’s Ayrshire, and Dr. Macdonald’s Aberdeen-awa’, and
-Scott’s brave, metropolitan utterance will be all equally the ghosts of
-speech.  Till then I would love to have my hour as a native Maker, and be
-read by my own countryfolk in our own dying language: an ambition surely
-rather of the heart than of the head, so restricted as it is in prospect
-of endurance, so parochial in bounds of space.
-
-
+I note again, that among our new dialecticians, the local habitat of every dialect is given to the square mile.  I could not emulate this nicety if I desired; for I simply wrote my Scots as well as I was able, not caring if it hailed from Lauderdale or Angus, from the Mearns or Galloway; if I had ever heard a good word, I used it without shame; and when Scots was lacking, or the rhyme jibbed, I was glad (like my betters) to fall back on English.  For all that, I own to a friendly feeling for the tongue of Fergusson and of Sir Walter, both Edinburgh men; and I confess that Burns has always sounded in my ear like something partly foreign.  And indeed I am from the Lothians myself; it is there I heard the language spoken about my childhood; and it is in the drawling Lothian voice that I repeat it to myself.  Let the precisians call my speech that of the Lothians.  And if it be not pure, alas! what matters it?  The day draws near when this illustrious and malleable tongue shall be quite forgotten; and Burn’s Ayrshire, and Dr. Macdonald’s Aberdeen-awa’, and Scott’s brave, metropolitan utterance will be all equally the ghosts of speech.  Till then I would love to have my hour as a native Maker, and be read by my own countryfolk in our own dying language: an ambition surely rather of the heart than of the head, so restricted as it is in prospect of endurance, so parochial in bounds of space.
 
 
 CONTENTS
 
-                           BOOK I.—_In English_
-                                                                  PAGE
-           I.  ENVOY—Go, little book                                 1
-          II.  A SONG OF THE ROAD—The gauger walked                  2
-         III.  THE CANOE SPEAKS—On the great streams                 4
-          IV.  It is the season                                      7
-           V.  THE HOUSE BEAUTIFUL—A naked house, a naked            9
-               moor
-          VI.  A VISIT FROM THE SEA—Far from the loud sea           12
-               beaches
-         VII.  TO A GARDENER—Friend, in my mountain-side            14
-               demesne
-        VIII.  TO MINNIE—A picture frame for you to fill            16
-          IX.  TO K. DE M.—A lover of the moorland bare             17
-           X.  TO N. V. DE G. S.—The unfathomable sea               19
-          XI.  TO WILL. H. LOW—Youth now flees                      21
-         XII.  TO MRS. WILL. H. LOW—Even in the bluest              24
-               noonday of July
-        XIII.  TO H. F. BROWN—I sit and wait                        26
-         XIV.  TO ANDREW LANG—Dear Andrew                           29
-          XV.  ET TU IN ARCADIA VIXISTI—In ancient tales,           31
-               O friend
-         XVI.  TO W. E. HENLEY—The year runs through her            36
-               phases
-        XVII.  HENRY JAMES—Who comes to-night                       38
-       XVIII.  THE MIRROR SPEAKS—Where the bells                    39
-         XIX.  KATHARINE—We see you as we see a face                41
-          XX.  TO F. J. S.—I read, dear friend                      42
-         XXI.  REQUIEM—Under the wide and starry sky                43
-        XXII.  THE CELESTIAL SURGEON—If I have faltered             44
-       XXIII.  OUR LADY OF THE SNOWS—Out of the sun                 45
-        XXIV.  Not yet, my soul                                     50
-         XXV.  It is not yours, O mother, to complain               53
-        XXVI.  THE SICK CHILD—O mother, lay your hand on            56
-               my brow
-       XXVII.  IN MEMORIAM F. A. S.—Yet, O stricken heart           58
-      XXVIII.  TO MY FATHER—Peace and her huge invasion             60
-        XXIX.  IN THE STATES—With half a heart                      62
-         XXX.  A PORTRAIT—I am a kind of farthing dip               63
-        XXXI.  Sing clearlier, Muse                                 65
-       XXXII.  A CAMP—The bed was made                              66
-      XXXIII.  THE COUNTRY OF THE CAMISARDS—We travelled            67
-               in the print of olden wars
-       XXXIV.  SKERRYVORE—For love of lovely words                  68
-        XXXV.  SKERRYVORE: THE PARALLEL—Here all is sunny           69
-       XXXVI.  My house, I say                                      70
-      XXXVII.  My body which my dungeon is                          71
-     XXXVIII.  Say not of me that weakly I declined                 73
-                         BOOK II.—_In Scots_
-           I.  THE MAKER TO POSTERITY—Far ’yont amang the           77
-               years to be
-          II.  ILLE TERRARUM—Frae nirly, nippin’, Eas’lan’          80
-               breeze
-         III.  When aince Aprile has fairly come                    85
-          IV.  A MILE AN’ A BITTOCK                                 87
-           V.  A LOWDEN SABBATH MORN—The clinkum-clank o’           89
-               Sabbath bells
-          VI.  THE SPAEWIFE—O, I wad like to ken                    98
-         VII.  THE BLAST—1875—It’s rainin’.  Weet’s the            100
-               gairden sod
-        VIII.  THE COUNTERBLAST—1886—My bonny man, the             103
-               warld, it’s true
-          IX.  THE COUNTERBLAST IRONICAL—It’s strange that         108
-               God should fash to frame
-           X.  THEIR LAUREATE TO AN ACADEMY CLASS DINNER           110
-               CLUB—Dear Thamson class, whaure’er I gang
-          XI.  EMBRO HIE KIRK—The Lord Himsel’ in former           114
-               days
-         XII.  THE SCOTSMAN’S RETURN FROM ABROAD—In mony a         118
-               foreign pairt I’ve been
-        XIII.  Late in the nicht                                   125
-         XIV.  MY CONSCIENCE!—Of a’ the ills that flesh            130
-               can fear
-          XV.  TO DOCTOR JOHN BROWN—By Lyne and Tyne, by           133
-               Thames and Tees
-         XVI.  It’s an owercome sooth for age an’ youth            138
+BOOK I.—_In English_
+PAGE
+I.  ENVOY—Go, little book                                 1
+II.  A SONG OF THE ROAD—The gauger walked                  2
+III.  THE CANOE SPEAKS—On the great streams                 4
+IV.  It is the season                                      7
+V.  THE HOUSE BEAUTIFUL—A naked house, a naked            9
+moor
+VI.  A VISIT FROM THE SEA—Far from the loud sea           12
+beaches
+VII.  TO A GARDENER—Friend, in my mountain-side            14
+demesne
+VIII.  TO MINNIE—A picture frame for you to fill            16
+IX.  TO K. DE M.—A lover of the moorland bare             17
+X.  TO N. V. DE G. S.—The unfathomable sea               19
+XI.  TO WILL. H. LOW—Youth now flees                      21
+XII.  TO MRS. WILL. H. LOW—Even in the bluest              24
+noonday of July
+XIII.  TO H. F. BROWN—I sit and wait                        26
+XIV.  TO ANDREW LANG—Dear Andrew                           29
+XV.  ET TU IN ARCADIA VIXISTI—In ancient tales,           31
+O friend
+XVI.  TO W. E. HENLEY—The year runs through her            36
+phases
+XVII.  HENRY JAMES—Who comes to-night                       38
+XVIII.  THE MIRROR SPEAKS—Where the bells                    39
+XIX.  KATHARINE—We see you as we see a face                41
+XX.  TO F. J. S.—I read, dear friend                      42
+XXI.  REQUIEM—Under the wide and starry sky                43
+XXII.  THE CELESTIAL SURGEON—If I have faltered             44
+XXIII.  OUR LADY OF THE SNOWS—Out of the sun                 45
+XXIV.  Not yet, my soul                                     50
+XXV.  It is not yours, O mother, to complain               53
+XXVI.  THE SICK CHILD—O mother, lay your hand on            56
+my brow
+XXVII.  IN MEMORIAM F. A. S.—Yet, O stricken heart           58
+XXVIII.  TO MY FATHER—Peace and her huge invasion             60
+XXIX.  IN THE STATES—With half a heart                      62
+XXX.  A PORTRAIT—I am a kind of farthing dip               63
+XXXI.  Sing clearlier, Muse                                 65
+XXXII.  A CAMP—The bed was made                              66
+XXXIII.  THE COUNTRY OF THE CAMISARDS—We travelled            67
+in the print of olden wars
+XXXIV.  SKERRYVORE—For love of lovely words                  68
+XXXV.  SKERRYVORE: THE PARALLEL—Here all is sunny           69
+XXXVI.  My house, I say                                      70
+XXXVII.  My body which my dungeon is                          71
+XXXVIII.  Say not of me that weakly I declined                 73
+BOOK II.—_In Scots_
+I.  THE MAKER TO POSTERITY—Far ’yont amang the           77
+years to be
+II.  ILLE TERRARUM—Frae nirly, nippin’, Eas’lan’          80
+breeze
+III.  When aince Aprile has fairly come                    85
+IV.  A MILE AN’ A BITTOCK                                 87
+V.  A LOWDEN SABBATH MORN—The clinkum-clank o’           89
+Sabbath bells
+VI.  THE SPAEWIFE—O, I wad like to ken                    98
+VII.  THE BLAST—1875—It’s rainin’.  Weet’s the            100
+gairden sod
+VIII.  THE COUNTERBLAST—1886—My bonny man, the             103
+warld, it’s true
+IX.  THE COUNTERBLAST IRONICAL—It’s strange that         108
+God should fash to frame
+X.  THEIR LAUREATE TO AN ACADEMY CLASS DINNER           110
+CLUB—Dear Thamson class, whaure’er I gang
+XI.  EMBRO HIE KIRK—The Lord Himsel’ in former           114
+days
+XII.  THE SCOTSMAN’S RETURN FROM ABROAD—In mony a         118
+foreign pairt I’ve been
+XIII.  Late in the nicht                                   125
+XIV.  MY CONSCIENCE!—Of a’ the ills that flesh            130
+can fear
+XV.  TO DOCTOR JOHN BROWN—By Lyne and Tyne, by           133
+Thames and Tees
+XVI.  It’s an owercome sooth for age an’ youth            138
 
 BOOK I.—_In English_
 
@@ -261,7 +138,6 @@ I—ENVOY
    A house with lawns enclosing it,
    A living river by the door,
    A nightingale in the sycamore!
-
 
 
 II—A SONG OF THE ROAD
@@ -305,7 +181,6 @@ II—A SONG OF THE ROAD
 _Forest of Montargis_, 1878.
 
 
-
 III—THE CANOE SPEAKS
 
 
@@ -347,7 +222,6 @@ III—THE CANOE SPEAKS
    The shallows are abandoned. . . .
 
 
-
 IV
 
 
@@ -385,7 +259,6 @@ IV
    Joy trembles in their bosom-strands
    And lovely laughter leaps and falls
    Upon their lips in madrigals.
-
 
 
 V—THE HOUSE BEAUTIFUL
@@ -428,7 +301,6 @@ V—THE HOUSE BEAUTIFUL
    Of days and seasons doth suffice.
 
 
-
 VI—A VISIT FROM THE SEA
 
 
@@ -456,7 +328,6 @@ VI—A VISIT FROM THE SEA
       The white gulls are trooping and crying,
    Here among the rooks and roses,
       Why is the sea-gull flying?
-
 
 
 VII—TO A GARDENER
@@ -498,11 +369,10 @@ VII—TO A GARDENER
 _La Solitude_, _Hyères_.
 
 
-
 VIII—TO MINNIE
 
 
-                           (With a hand-glass)
+(With a hand-glass)
 
    A PICTURE-FRAME for you to fill,
       A paltry setting for your face,
@@ -520,7 +390,6 @@ VIII—TO MINNIE
       And look you in the face to-night.
 
 1869.
-
 
 
 IX—TO K. DE M.
@@ -552,7 +421,6 @@ IX—TO K. DE M.
    Sit in your dabbled locks again.
 
 
-
 X—TO N. V. DE G. S.
 
 
@@ -579,7 +447,6 @@ X—TO N. V. DE G. S.
    Thoughts of that land revisit him; he sees
    The eternal mountains beckon, and awakes
    Yearning for that far home that might have been.
-
 
 
 XI—TO WILL. H. LOW
@@ -620,7 +487,6 @@ XI—TO WILL. H. LOW
    We have come the primrose way.
 
 
-
 XII—TO MRS. WILL. H. LOW
 
 
@@ -649,11 +515,10 @@ XII—TO MRS. WILL. H. LOW
 12 _Rue Vernier_, _Paris_.
 
 
-
 XIII—TO H. F. BROWN
 
 
-                  (Written during a dangerous sickness.)
+(Written during a dangerous sickness.)
 
    I SIT and wait a pair of oars
    On cis-Elysian river-shores.
@@ -690,7 +555,6 @@ XIII—TO H. F. BROWN
    To your sea-paven city hie,
    And in a _felze_, some day yet
    Light at your pipe my cigarette.
-
 
 
 XIV—TO ANDREW LANG
@@ -730,11 +594,10 @@ XIV—TO ANDREW LANG
    And your ink sings of Helicon.
 
 
-
 XV—ET TU IN ARCADIA VIXISTI
 
 
-                             (TO R. A. M. S.)
+(TO R. A. M. S.)
 
    IN ancient tales, O friend, thy spirit dwelt;
    There, from of old, thy childhood passed; and there
@@ -818,7 +681,6 @@ XV—ET TU IN ARCADIA VIXISTI
    The faery cities vanished from the land!
 
 
-
 XVI—TO W. E. HENLEY
 
 
@@ -855,7 +717,6 @@ XVI—TO W. E. HENLEY
    And the deliverer, touch the stops again!
 
 
-
 XVII—HENRY JAMES
 
 
@@ -873,7 +734,6 @@ XVII—HENRY JAMES
    Do like unbidden angels enter in.
    But he, attended by these shining names,
    Comes (best of all) himself—our welcome James.
-
 
 
 XVIII—THE MIRROR SPEAKS
@@ -909,7 +769,6 @@ XVIII—THE MIRROR SPEAKS
    Henry James, shall come again.
 
 
-
 XIX—KATHARINE
 
 
@@ -921,7 +780,6 @@ XIX—KATHARINE
    To hover between smiles and tears,
    Elfin and human, airy and true,
    And backed by the reflected blue.
-
 
 
 XX—TO F. J. S.
@@ -945,7 +803,6 @@ XX—TO F. J. S.
    Your flowers and thorns you bring with you!
 
 
-
 XXI—REQUIEM
 
 
@@ -958,7 +815,6 @@ XXI—REQUIEM
    _Here he lies where he longed to be_;
    _Home is the sailor_, _home from sea_,
       _And the hunter home from the hill_.
-
 
 
 XXII—THE CELESTIAL SURGEON
@@ -978,7 +834,6 @@ XXII—THE CELESTIAL SURGEON
    Choose thou, before that spirit die,
    A piercing pain, a killing sin,
    And to my dead heart run them in!
-
 
 
 XXIII—OUR LADY OF THE SNOWS
@@ -1068,7 +923,6 @@ XXIII—OUR LADY OF THE SNOWS
    With careless looks may pass you by.
 
 
-
 XXIV
 
 
@@ -1113,7 +967,6 @@ XXIV
    And that dear land, now safe, to-morrow fall.
    But he, unthinking, in the present good
    Solely delights, and all the camps rejoice.
-
 
 
 XXV
@@ -1168,7 +1021,6 @@ XXV
    So sits the while at home the mother well content.
 
 
-
 XXVI—THE SICK CHILD
 
 
@@ -1197,7 +1049,6 @@ XXVI—THE SICK CHILD
    And dream of the birds and the hills of sheep.
 
 
-
 XXVII—IN MEMORIAM F. A. S.
 
 
@@ -1222,7 +1073,6 @@ XXVII—IN MEMORIAM F. A. S.
       And ere the day of sorrow departed as he came.
 
 _Davos_, 1881.
-
 
 
 XXVIII—TO MY FATHER
@@ -1261,7 +1111,6 @@ XXVIII—TO MY FATHER
    Some lost, complaining seaman pilot home.
 
 
-
 XXIX—IN THE STATES
 
 
@@ -1281,7 +1130,6 @@ XXIX—IN THE STATES
       England and Yesterday.
 
 _San Francisco_.
-
 
 
 XXX—A PORTRAIT
@@ -1313,7 +1161,6 @@ XXX—A PORTRAIT
       _Thank God_, _and there’s an end of that_!
 
 
-
 XXXI
 
 
@@ -1326,7 +1173,6 @@ XXXI
    One natural verse recapture—then be still.
 
 
-
 XXXII—A CAMP {66}
 
 
@@ -1336,7 +1182,6 @@ XXXII—A CAMP {66}
    No need was there for maid or man,
    When we put up, my ass and I,
    At God’s green caravanserai.
-
 
 
 XXXIII—THE COUNTRY OF THE CAMISARDS {67}
@@ -1353,7 +1198,6 @@ XXXIII—THE COUNTRY OF THE CAMISARDS {67}
       Along the battlefield!
 
 
-
 XXXIV—SKERRYVORE
 
 
@@ -1364,7 +1208,6 @@ XXXIV—SKERRYVORE
    The surfy haunt of seals and cormorants:
    I, on the lintel of this cot, inscribe
    The name of a strong tower.
-
 
 
 XXXV—SKERRYVORE: THE PARALLEL
@@ -1383,7 +1226,6 @@ XXXV—SKERRYVORE: THE PARALLEL
    Immovable, immortal, eminent.
 
 
-
 XXXVI
 
 
@@ -1399,7 +1241,6 @@ XXXVI
    Our whilome gardener, called the garden his;
    Who now, deposed, surveys my plain abode
    And his late kingdom, only from the road.
-
 
 
 XXXVII
@@ -1441,7 +1282,6 @@ XXXVII
    Can make a house a thing of mine?
 
 
-
 XXXVIII
 
 
@@ -1458,28 +1298,14 @@ XXXVIII
    _Around the fire addressed its evening hours_.
 
 
-
-
 BOOK II.—_In Scots_
 
 
 TABLE OF COMMON SCOTTISH VOWEL SOUNDS
 
-ae, ai                              open A as in rare.
-a’, au, aw                          AW as in law.
-ea                                  open E as in mere, but this with
-                                    exceptions, as heather = heather,
-                                    wean = wain, lear = lair.
-ee, ei, ie                          open E as in mere.
-oa                                  open O as in more.
-ou                                  doubled O as in poor.
-ow                                  OW as in bower.
-u                                   doubled O as in poor.
-ui or ü before R                    (say roughly) open A as in rare.
-ui or ü before any other            (say roughly) close I as in grin.
-consonant
-y                                   open I as in kite.
-i                                   pretty nearly what you please,
+ae, ai                              open A as in rare. a’, au, aw                          AW as in law. ea                                  open E as in mere, but this with
+exceptions, as heather = heather,
+wean = wain, lear = lair. ee, ei, ie                          open E as in mere. oa                                  open O as in more. ou                                  doubled O as in poor. ow                                  OW as in bower. u                                   doubled O as in poor. ui or ü before R                    (say roughly) open A as in rare. ui or ü before any other            (say roughly) close I as in grin. consonant y                                   open I as in kite. i                                   pretty nearly what you please,
                                     much as in English, Heaven guide
                                     the reader through that
                                     labyrinth!  But in Scots it
@@ -1487,10 +1313,7 @@ i                                   pretty nearly what you please,
                                     as in grin, to the open E, as in
                                     mere.  Find the blind, I may
                                     remark, are pronounced to rhyme
-                                    with the preterite of grin.
-
-
-
+with the preterite of grin.
 
 
 I—THE MAKER TO POSTERITY
@@ -1551,7 +1374,6 @@ I—THE MAKER TO POSTERITY
          _Hame_, _France_, _or Flanders_—
    _Whang sindry like a railway car_
          _An’ flie in danders_.”
-
 
 
 II—ILLE TERRARUM
@@ -1642,7 +1464,6 @@ II—ILLE TERRARUM
          Fancy’s the limmer!
 
 
-
 III
 
 
@@ -1673,7 +1494,6 @@ III
          An’ tak my place
    I’ the ram-stam, harum-scarum raw,
          Wi’ smilin’ face.
-
 
 
 IV—A MILE AN’ A BITTOCK
@@ -1713,7 +1533,6 @@ IV—A MILE AN’ A BITTOCK
    My lads, ye’ll mind whate’er befa’—
    My lads, ye’ll mind on the bield o’ the law,
       When the müne was shinin’ clearly.
-
 
 
 V—A LOWDEN SABBATH MORN
@@ -1880,26 +1699,16 @@ V—A LOWDEN SABBATH MORN
    And in their restin’ graves, the deid
          Sleep aye the deeper.
 
-_Note_.—It may be guessed by some that I had a certain parish in my eye,
-and this makes it proper I should add a word of disclamation.  In my time
-there have been two ministers in that parish.  Of the first I have a
-special reason to speak well, even had there been any to think ill.  The
-second I have often met in private and long (in the due phrase) “sat
-under” in his church, and neither here nor there have I heard an unkind
-or ugly word upon his lips.  The preacher of the text had thus no
-original in that particular parish; but when I was a boy, he might have
-been observed in many others; he was then (like the schoolmaster) abroad;
-and by recent advices, it would seem he has not yet entirely disappeared.
-
+_Note_.—It may be guessed by some that I had a certain parish in my eye, and this makes it proper I should add a word of disclamation.  In my time there have been two ministers in that parish.  Of the first I have a special reason to speak well, even had there been any to think ill.  The second I have often met in private and long (in the due phrase) “sat under” in his church, and neither here nor there have I heard an unkind or ugly word upon his lips.  The preacher of the text had thus no original in that particular parish; but when I was a boy, he might have been observed in many others; he was then (like the schoolmaster) abroad; and by recent advices, it would seem he has not yet entirely disappeared.
 
 
 VI—THE SPAEWIFE
 
 
-   O, I wad like to ken—to the beggar-wife says I—
-   Why chops are guid to brander and nane sae guid to fry.
-   An’ siller, that’s sae braw to keep, is brawer still to gi’e.
-   —_It’s gey an’ easy spierin’_, says the beggar-wife to me.
+O, I wad like to ken—to the beggar-wife says I—
+Why chops are guid to brander and nane sae guid to fry.
+An’ siller, that’s sae braw to keep, is brawer still to gi’e.
+—_It’s gey an’ easy spierin’_, says the beggar-wife to me.
 
    O, I wad like to ken—to the beggar-wife says I—
    Hoo a’ things come to be whaur we find them when we try,
@@ -1909,18 +1718,17 @@ VI—THE SPAEWIFE
    O, I wad like to ken—to the beggar-wife says I—
    Why lads are a’ to sell an’ lasses a’ to buy;
    An’ naebody for dacency but barely twa or three
-   —_It’s gey an’ easy spierin’_, says the beggar-wife to me.
+—_It’s gey an’ easy spierin’_, says the beggar-wife to me.
 
-   O, I wad like to ken—to the beggar-wife says I—
-   Gin death’s as shüre to men as killin’ is to kye,
-   Why God has filled the yearth sae fu’ o’ tasty things to pree.
-   —_It’s gey an’ easy spierin’_, says the beggar-wife to me.
+O, I wad like to ken—to the beggar-wife says I—
+Gin death’s as shüre to men as killin’ is to kye,
+Why God has filled the yearth sae fu’ o’ tasty things to pree.
+—_It’s gey an’ easy spierin’_, says the beggar-wife to me.
 
    O, I wad like to ken—to the beggar wife says I—
    The reason o’ the cause an’ the wherefore o’ the why,
    Wi’ mony anither riddle brings the tear into my e’e.
-   —_It’s gey an’ easy spierin’_, says the beggar-wife to me.
-
+—_It’s gey an’ easy spierin’_, says the beggar-wife to me.
 
 
 VII—THE BLAST—1875
@@ -1967,7 +1775,6 @@ VII—THE BLAST—1875
          Lassie nor God.
    But drink—that’s my best counsel till ’e:
          Sae tak the nod.
-
 
 
 VIII—THE COUNTERBLAST—1886
@@ -2058,7 +1865,6 @@ VIII—THE COUNTERBLAST—1886
          As gleg’s a gled.
 
 
-
 IX—THE COUNTERBLAST IRONICAL
 
 
@@ -2096,7 +1902,6 @@ IX—THE COUNTERBLAST IRONICAL
       An’ a plain apologie;
    Or the deevil a ceevil word to God
       From a gentleman like me.
-
 
 
 X—THEIR LAUREATE TO AN ACADEMY CLASS DINNER CLUB
@@ -2171,7 +1976,6 @@ X—THEIR LAUREATE TO AN ACADEMY CLASS DINNER CLUB
          Flang heels ower bonnet;
    An’ a’ triumphant—for your feast,
          Hae! there’s your sonnet!
-
 
 
 XI—EMBRO HIE KIRK
@@ -2253,7 +2057,6 @@ XI—EMBRO HIE KIRK
          Frae Hell to Heeven,
    Tell the guid wark that baith are doin’—
          Baith Begg an’ Niven.
-
 
 
 XII—THE SCOTSMAN’S RETURN FROM ABROAD
@@ -2377,7 +2180,6 @@ In a letter from Mr. Thomson to Mr. Johnstone.
    He was a pleisure to sit under.
 
 
-
 XIII
 
 
@@ -2473,7 +2275,6 @@ XIII
          I’ll thole my paiks.
 
 
-
 XIV—MY CONSCIENCE!
 
 
@@ -2518,7 +2319,6 @@ XIV—MY CONSCIENCE!
          At the disaster;
    An’ the morn’s mornin’, wud’s the wind,
          Yokes on his master.
-
 
 
 XV—TO DOCTOR JOHN BROWN
@@ -2609,7 +2409,6 @@ XV—TO DOCTOR JOHN BROWN
          By James and Ailie.
 
 
-
 XVI
 
 
@@ -2630,378 +2429,14 @@ XVI
 
                                 * * * * *
 
-            _Printed by_ R. & R. CLARK, LIMITED, _Edinburgh_.
-
-
+_Printed by_ R. & R. CLARK, LIMITED, _Edinburgh_.
 
 
 Footnotes
 
 
-{27}  _Life on the Lagoons_, by H. F. Brown, originally burned in the
-fire at Messrs. Kegan Paul, Trench. and Co.’s.
+{27}  _Life on the Lagoons_, by H. F. Brown, originally burned in the fire at Messrs. Kegan Paul, Trench. and Co.’s.
 
 {66}  From _Travels with a Donkey_.
 
 {67}  From _Travels with a Donkey_.
-
-
-
-
-***END OF THE PROJECT GUTENBERG EBOOK UNDERWOODS***
-
-
-******* This file should be named 438-0.txt or 438-0.zip *******
-
-
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/4/3/438
-
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License available with this file or online at
-  www.gutenberg.org/license.
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation information page at www.gutenberg.org
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
-contact links and up to date contact information can be found at the
-Foundation's web site and official page at www.gutenberg.org/contact
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit:  www.gutenberg.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For forty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-Most people start at our Web site which has the main PG search facility:
-
-     www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

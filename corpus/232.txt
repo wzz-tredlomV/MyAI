@@ -1,42 +1,9 @@
-The Project Gutenberg EBook of The Georgics, by Virgil
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The Georgics
-
-Author: Virgil
-
-Release Date: March 10, 2008 [EBook #232]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE GEORGICS ***
-
-
-
-
-
-
-
-
-
-
-
-
-
 29 BC
 
 
 THE GEORGICS
 
 by Virgil
-
 
 
 GEORGIC I
@@ -144,9 +111,7 @@ By flax-crop, parched by oats, by poppies parched
 In Lethe-slumber drenched. Nathless by change
 The travailing earth is lightened, but stint not
 With refuse rich to soak the thirsty soil,
-And shower foul ashes o'er the exhausted fields.
-Thus by rotation like repose is gained,
-Nor earth meanwhile uneared and thankless left.
+And shower foul ashes o'er the exhausted fields. Thus by rotation like repose is gained, Nor earth meanwhile uneared and thankless left.
 Oft, too, 'twill boot to fire the naked fields,
 And the light stubble burn with crackling flames;
 Whether that earth therefrom some hidden strength
@@ -266,9 +231,7 @@ For yoke is early hewn a linden light,
 And a tall beech for handle, from behind
 To turn the car at lowest: then o'er the hearth
 The wood they hang till the smoke knows it well.
-  Many the precepts of the men of old
-I can recount thee, so thou start not back,
-And such slight cares to learn not weary thee.
+Many the precepts of the men of old I can recount thee, so thou start not back, And such slight cares to learn not weary thee.
 And this among the first: thy threshing-floor
 With ponderous roller must be levelled smooth,
 And wrought by hand, and fixed with binding chalk,
@@ -335,9 +298,7 @@ Thou'rt fain to sow, nor scorn to make thy care
 Pelusiac lentil, no uncertain sign
 Bootes' fall will send thee; then begin,
 Pursue thy sowing till half the frosts be done.
-  Therefore it is the golden sun, his course
-Into fixed parts dividing, rules his way
-Through the twelve constellations of the world.
+Therefore it is the golden sun, his course Into fixed parts dividing, rules his way Through the twelve constellations of the world.
 Five zones the heavens contain; whereof is one
 Aye red with flashing sunlight, fervent aye
 From fire; on either side to left and right
@@ -351,10 +312,7 @@ And as toward Scythia and Rhipaean heights
 The world mounts upward, likewise sinks it down
 Toward Libya and the south, this pole of ours
 Still towering high, that other, 'neath their feet,
-By dark Styx frowned on, and the abysmal shades.
-Here glides the huge Snake forth with sinuous coils
-'Twixt the two Bears and round them river-wise-
-The Bears that fear 'neath Ocean's brim to dip.
+By dark Styx frowned on, and the abysmal shades. Here glides the huge Snake forth with sinuous coils 'Twixt the two Bears and round them river-wise- The Bears that fear 'neath Ocean's brim to dip.
 There either, say they, reigns the eternal hush
 Of night that knows no seasons, her black pall
 Thick-mantling fold on fold; or thitherward
@@ -366,10 +324,7 @@ Hence under doubtful skies forebode we can
 The coming tempests, hence both harvest-day
 And seed-time, when to smite the treacherous main
 With driving oars, when launch the fair-rigged fleet,
-Or in ripe hour to fell the forest-pine.
-Hence, too, not idly do we watch the stars-
-Their rising and their setting-and the year,
-Four varying seasons to one law conformed.
+Or in ripe hour to fell the forest-pine. Hence, too, not idly do we watch the stars- Their rising and their setting-and the year, Four varying seasons to one law conformed.
   If chilly showers e'er shut the farmer's door,
 Much that had soon with sunshine cried for haste,
 He may forestall; the ploughman batters keen
@@ -377,10 +332,7 @@ His blunted share's hard tooth, scoops from a tree
 His troughs, or on the cattle stamps a brand,
 Or numbers on the corn-heaps; some make sharp
 The stakes and two-pronged forks, and willow-bands
-Amerian for the bending vine prepare.
-Now let the pliant basket plaited be
-Of bramble-twigs; now set your corn to parch
-Before the fire; now bruise it with the stone.
+Amerian for the bending vine prepare. Now let the pliant basket plaited be Of bramble-twigs; now set your corn to parch Before the fire; now bruise it with the stone.
 Nay even on holy days some tasks to ply
 Is right and lawful: this no ban forbids,
 To turn the runnel's course, fence corn-fields in,
@@ -420,13 +372,7 @@ And skims with leaves the quivering cauldron's wave.
   But ruddy Ceres in mid heat is mown,
 And in mid heat the parched ears are bruised
 Upon the floor; to plough strip, strip to sow;
-Winter's the lazy time for husbandmen.
-In the cold season farmers wont to taste
-The increase of their toil, and yield themselves
-To mutual interchange of festal cheer.
-Boon winter bids them, and unbinds their cares,
-As laden keels, when now the port they touch,
-And happy sailors crown the sterns with flowers.
+Winter's the lazy time for husbandmen. In the cold season farmers wont to taste The increase of their toil, and yield themselves To mutual interchange of festal cheer. Boon winter bids them, and unbinds their cares, As laden keels, when now the port they touch, And happy sailors crown the sterns with flowers.
 Nathless then also time it is to strip
 Acorns from oaks, and berries from the bay,
 Olives, and bleeding myrtles, then to set
@@ -698,8 +644,6 @@ Grasping the reins, the driver by his team
 Is onward borne, nor heeds the car his curb.
 
 
-
-
 GEORGIC II
 
 Thus far the tilth of fields and stars of heaven;
@@ -732,8 +676,7 @@ The bay-tree of Parnassus. Such the modes
 Nature imparted first; hence all the race
 Of forest-trees and shrubs and sacred groves
 Springs into verdure.
-                       Other means there are,
-Which use by method for itself acquired.
+Other means there are, Which use by method for itself acquired.
 One, sliving suckers from the tender frame
 Of the tree-mother, plants them in the trench;
 One buries the bare stumps within his field,
@@ -786,8 +729,7 @@ But slowly, yielding promise of its shade
 To late-born generations; apples wane
 Forgetful of their former juice, the grape
 Bears sorry clusters, for the birds a prey.
-  Soothly on all must toil be spent, and all
-Trained to the trench and at great cost subdued.
+Soothly on all must toil be spent, and all Trained to the trench and at great cost subdued.
 But reared from truncheons olives answer best,
 As vines from layers, and from the solid wood
 The Paphian myrtles; while from suckers spring
@@ -820,9 +762,7 @@ Fat olives, orchades, and radii
 And bitter-berried pausians, no, nor yet
 Apples and the forests of Alcinous;
 Nor from like cuttings are Crustumian pears
-And Syrian, and the heavy hand-fillers.
-Not the same vintage from our trees hangs down,
-Which Lesbos from Methymna's tendril plucks.
+And Syrian, and the heavy hand-fillers. Not the same vintage from our trees hangs down, Which Lesbos from Methymna's tendril plucks.
 Vines Thasian are there, Mareotids white,
 These apt for richer soils, for lighter those:
 Psithian for raisin-wine more useful, thin
@@ -834,10 +774,7 @@ Vines Aminaean too, best-bodied wine,
 To which the Tmolian bows him, ay, and king
 Phanaeus too, and, lesser of that name,
 Argitis, wherewith not a grape can vie
-For gush of wine-juice or for length of years.
-Nor thee must I pass over, vine of Rhodes,
-Welcomed by gods and at the second board,
-Nor thee, Bumastus, with plump clusters swollen.
+For gush of wine-juice or for length of years. Nor thee must I pass over, vine of Rhodes, Welcomed by gods and at the second board, Nor thee, Bumastus, with plump clusters swollen.
 But lo! how many kinds, and what their names,
 There is no telling, nor doth it boot to tell;
 Who lists to know it, he too would list to learn
@@ -892,10 +829,7 @@ The war-horse stepping proudly o'er the plain;
 Hence thy white flocks, Clitumnus, and the bull,
 Of victims mightiest, which full oft have led,
 Bathed in thy sacred stream, the triumph-pomp
-Of Romans to the temples of the gods.
-Here blooms perpetual spring, and summer here
-In months that are not summer's; twice teem the flocks;
-Twice doth the tree yield service of her fruit.
+Of Romans to the temples of the gods. Here blooms perpetual spring, and summer here In months that are not summer's; twice teem the flocks; Twice doth the tree yield service of her fruit.
 But ravening tigers come not nigh, nor breed
 Of savage lion, nor aconite betrays
 Its hapless gatherers, nor with sweep so vast
@@ -985,11 +919,7 @@ Which, ever in its own green grass arrayed,
 Mars not the metal with salt scurf of rust-
 That shall thine elms with merry vines enwreathe;
 That teems with olive; that shall thy tilth prove kind
-To cattle, and patient of the curved share.
-Such ploughs rich Capua, such the coast that skirts
-Thy ridge, Vesuvius, and the Clanian flood,
-Acerrae's desolation and her bane.
-How each to recognize now hear me tell.
+To cattle, and patient of the curved share. Such ploughs rich Capua, such the coast that skirts Thy ridge, Vesuvius, and the Clanian flood, Acerrae's desolation and her bane. How each to recognize now hear me tell.
 Dost ask if loose or passing firm it be-
 Since one for corn hath liking, one for wine,
 The firmer sort for Ceres, none too loose
@@ -1102,10 +1032,7 @@ Their root-force fails them, nor, when lopped away,
 Can they recover, and from the earth beneath
 Spring to like verdure; thus alone survives
 The bare wild olive with its bitter leaves.
-  Let none persuade thee, howso weighty-wise,
-To stir the soil when stiff with Boreas' breath.
-Then ice-bound winter locks the fields, nor lets
-The young plant fix its frozen root to earth.
+Let none persuade thee, howso weighty-wise, To stir the soil when stiff with Boreas' breath. Then ice-bound winter locks the fields, nor lets The young plant fix its frozen root to earth.
 Best sow your vineyards when in blushing Spring
 Comes the white bird long-bodied snakes abhor,
 Or on the eve of autumn's earliest frost,
@@ -1190,10 +1117,7 @@ The Ausonian swains, a race from Troy derived,
 Make merry with rough rhymes and boisterous mirth,
 Grim masks of hollowed bark assume, invoke
 Thee with glad hymns, O Bacchus, and to thee
-Hang puppet-faces on tall pines to swing.
-Hence every vineyard teems with mellowing fruit,
-Till hollow vale o'erflows, and gorge profound,
-Where'er the god hath turned his comely head.
+Hang puppet-faces on tall pines to swing. Hence every vineyard teems with mellowing fruit, Till hollow vale o'erflows, and gorge profound, Where'er the god hath turned his comely head.
 Therefore to Bacchus duly will we sing
 Meet honour with ancestral hymns, and cates
 And dishes bear him; and the doomed goat
@@ -1203,18 +1127,13 @@ Whose entrails rich on hazel-spits we'll roast.
 Hath needs beyond exhausting; the whole soil
 Thrice, four times, yearly must be cleft, the sod
 With hoes reversed be crushed continually,
-The whole plantation lightened of its leaves.
-Round on the labourer spins the wheel of toil,
-As on its own track rolls the circling year.
+The whole plantation lightened of its leaves. Round on the labourer spins the wheel of toil, As on its own track rolls the circling year.
 Soon as the vine her lingering leaves hath shed,
 And the chill north wind from the forests shook
 Their coronal, even then the careful swain
 Looks keenly forward to the coming year,
 With Saturn's curved fang pursues and prunes
-The vine forlorn, and lops it into shape.
-Be first to dig the ground up, first to clear
-And burn the refuse-branches, first to house
-Again your vine-poles, last to gather fruit.
+The vine forlorn, and lops it into shape. Be first to dig the ground up, first to clear And burn the refuse-branches, first to house Again your vine-poles, last to gather fruit.
 Twice doth the thickening shade beset the vine,
 Twice weeds with stifling briers o'ergrow the crop;
 And each a toilsome labour. Do thou praise
@@ -1227,9 +1146,7 @@ Let go the sickle, and the last dresser now
 Sings of his finished rows; but still the ground
 Must vexed be, the dust be stirred, and heaven
 Still set thee trembling for the ripened grapes.
-  Not so with olives; small husbandry need they,
-Nor look for sickle bowed or biting rake,
-When once they have gripped the soil, and borne the breeze.
+Not so with olives; small husbandry need they, Nor look for sickle bowed or biting rake, When once they have gripped the soil, and borne the breeze.
 Earth of herself, with hooked fang laid bare,
 Yields moisture for the plants, and heavy fruit,
 The ploughshare aiding; therewithal thou'lt rear
@@ -1340,10 +1257,7 @@ Beneath an alien sun. The husbandman
 With hooked ploughshare turns the soil; from hence
 Springs his year's labour; hence, too, he sustains
 Country and cottage homestead, and from hence
-His herds of cattle and deserving steers.
-No respite! still the year o'erflows with fruit,
-Or young of kine, or Ceres' wheaten sheaf,
-With crops the furrow loads, and bursts the barns.
+His herds of cattle and deserving steers. No respite! still the year o'erflows with fruit, Or young of kine, or Ceres' wheaten sheaf, With crops the furrow loads, and bursts the barns.
 Winter is come: in olive-mills they bruise
 The Sicyonian berry; acorn-cheered
 The swine troop homeward; woods their arbutes yield;
@@ -1363,16 +1277,8 @@ Such life of yore the ancient Sabines led,
 Such Remus and his brother: Etruria thus,
 Doubt not, to greatness grew, and Rome became
 The fair world's fairest, and with circling wall
-Clasped to her single breast the sevenfold hills.
-Ay, ere the reign of Dicte's king, ere men,
-Waxed godless, banqueted on slaughtered bulls,
-Such life on earth did golden Saturn lead.
-Nor ear of man had heard the war-trump's blast,
-Nor clang of sword on stubborn anvil set.
-  But lo! a boundless space we have travelled o'er;
-'Tis time our steaming horses to unyoke.
-
-
+Clasped to her single breast the sevenfold hills. Ay, ere the reign of Dicte's king, ere men, Waxed godless, banqueted on slaughtered bulls, Such life on earth did golden Saturn lead. Nor ear of man had heard the war-trump's blast, Nor clang of sword on stubborn anvil set.
+But lo! a boundless space we have travelled o'er; 'Tis time our steaming horses to unyoke.
 
 
 GEORGIC III
@@ -1440,9 +1346,7 @@ Yet must I gird me to rehearse ere long
 The fiery fights of Caesar, speed his name
 Through ages, countless as to Caesar's self
 From the first birth-dawn of Tithonus old.
-  If eager for the prized Olympian palm
-One breed the horse, or bullock strong to plough,
-Be his prime care a shapely dam to choose.
+If eager for the prized Olympian palm One breed the horse, or bullock strong to plough, Be his prime care a shapely dam to choose.
 Of kine grim-faced is goodliest, with coarse head
 And burly neck, whose hanging dewlaps reach
 From chin to knee; of boundless length her flank;
@@ -1456,20 +1360,12 @@ Brushing her footsteps as she walks along.
 The age for Hymen's rites, Lucina's pangs,
 Ere ten years ended, after four begins;
 Their residue of days nor apt to teem,
-Nor strong for ploughing. Meantime, while youth's delight
-Survives within them, loose the males: be first
-To speed thy herds of cattle to their loves,
-Breed stock with stock, and keep the race supplied.
+Nor strong for ploughing. Meantime, while youth's delight Survives within them, loose the males: be first To speed thy herds of cattle to their loves, Breed stock with stock, and keep the race supplied.
 Ah! life's best hours are ever first to fly
 From hapless mortals; in their place succeed
 Disease and dolorous eld; till travail sore
-And death unpitying sweep them from the scene.
-Still will be some, whose form thou fain wouldst change;
-Renew them still; with yearly choice of young
-Preventing losses, lest too late thou rue.
-  Nor steeds crave less selection; but on those
-Thou think'st to rear, the promise of their line,
-From earliest youth thy chiefest pains bestow.
+And death unpitying sweep them from the scene. Still will be some, whose form thou fain wouldst change; Renew them still; with yearly choice of young Preventing losses, lest too late thou rue.
+Nor steeds crave less selection; but on those Thou think'st to rear, the promise of their line, From earliest youth thy chiefest pains bestow.
 See from the first yon high-bred colt afield,
 His lofty step, his limbs' elastic tread:
 Dauntless he leads the herd, still first to try
@@ -1561,10 +1457,7 @@ Its Roman name Asilus, by the Greeks
 Termed Oestros- fierce it is, and harshly hums,
 Driving whole herds in terror through the groves,
 Till heaven is madded by their bellowing din,
-And Tanager's dry bed and forest-banks.
-With this same scourge did Juno wreak of old
-The terrors of her wrath, a plague devised
-Against the heifer sprung from Inachus.
+And Tanager's dry bed and forest-banks. With this same scourge did Juno wreak of old The terrors of her wrath, a plague devised Against the heifer sprung from Inachus.
 From this too thou, since in the noontide heats
 'Tis most persistent, fend thy teeming herds,
 And feed them when the sun is newly risen,
@@ -1574,11 +1467,7 @@ Is to the calves transferred; at once with marks
 They brand them, both to designate their race,
 And which to rear for breeding, or devote
 As altar-victims, or to cleave the ground
-And into ridges tear and turn the sod.
-The rest along the greensward graze at will.
-Those that to rustic uses thou wouldst mould,
-As calves encourage and take steps to tame,
-While pliant wills and plastic youth allow.
+And into ridges tear and turn the sod. The rest along the greensward graze at will. Those that to rustic uses thou wouldst mould, As calves encourage and take steps to tame, While pliant wills and plastic youth allow.
 And first of slender withies round the throat
 Loose collars hang, then when their free-born necks
 Are used to service, with the self-same bands
@@ -1591,10 +1480,7 @@ Then let the beechen axle strain and creak
 Drags on the wheels made fast thereto. Meanwhile
 For their unbroken youth not grass alone,
 Nor meagre willow-leaves and marish-sedge,
-But corn-ears with thy hand pluck from the crops.
-Nor shall the brood-kine, as of yore, for thee
-Brim high the snowy milking-pail, but spend
-Their udders' fullness on their own sweet young.
+But corn-ears with thy hand pluck from the crops. Nor shall the brood-kine, as of yore, for thee Brim high the snowy milking-pail, but spend Their udders' fullness on their own sweet young.
   But if fierce squadrons and the ranks of war
 Delight thee rather, or on wheels to glide
 At Pisa, with Alpheus fleeting by,
@@ -1632,9 +1518,7 @@ Then, broken at last, let swell their burly frame
 With fattening corn-mash, for, unbroke, they will
 With pride wax wanton, and, when caught, refuse
 Tough lash to brook or jagged curb obey.
-  But no device so fortifies their power
-As love's blind stings of passion to forefend,
-Whether on steed or steer thy choice be set.
+But no device so fortifies their power As love's blind stings of passion to forefend, Whether on steed or steer thy choice be set.
 Ay, therefore 'tis they banish bulls afar
 To solitary pastures, or behind
 Some mountain-barrier, or broad streams beyond,
@@ -1672,9 +1556,7 @@ Falls with prodigious roar among the rocks,
 Huge as a very mountain: but the depths
 Upseethe in swirling eddies, and disgorge
 The murky sand-lees from their sunken bed.
-  Nay, every race on earth of men, and beasts,
-And ocean-folk, and flocks, and painted birds,
-Rush to the raging fire: love sways them all.
+Nay, every race on earth of men, and beasts, And ocean-folk, and flocks, and painted birds, Rush to the raging fire: love sways them all.
 Never than then more fiercely o'er the plain
 Prowls heedless of her whelps the lioness:
 Nor monstrous bears such wide-spread havoc-doom
@@ -1722,10 +1604,7 @@ Hence from their groin slow drips a poisonous juice,
 By shepherds truly named hippomanes,
 Hippomanes, fell stepdames oft have culled,
 And mixed with herbs and spells of baneful bode.
-  Fast flies meanwhile the irreparable hour,
-As point to point our charmed round we trace.
-Enough of herds. This second task remains,
-The wool-clad flocks and shaggy goats to treat.
+Fast flies meanwhile the irreparable hour, As point to point our charmed round we trace. Enough of herds. This second task remains, The wool-clad flocks and shaggy goats to treat.
 Here lies a labour; hence for glory look,
 Brave husbandmen. Nor doubtfully know
 How hard it is for words to triumph here,
@@ -1872,9 +1751,7 @@ Oft from his woodland wallowing-den uprouse
 The boar, and scare him with their baying, and drive,
 And o'er the mountains urge into the toils
 Some antlered monster to their chiming cry.
-  Learn also scented cedar-wood to burn
-Within the stalls, and snakes of noxious smell
-With fumes of galbanum to drive away.
+Learn also scented cedar-wood to burn Within the stalls, and snakes of noxious smell With fumes of galbanum to drive away.
 Oft under long-neglected cribs, or lurks
 A viper ill to handle, that hath fled
 The light in terror, or some snake, that wont
@@ -1897,13 +1774,7 @@ Crams the black void of his insatiate maw.
 Soon as the fens are parched, and earth with heat
 Is gaping, forth he darts into the dry,
 Rolls eyes of fire and rages through the fields,
-Furious from thirst and by the drought dismayed.
-Me list not then beneath the open heaven
-To snatch soft slumber, nor on forest-ridge
-Lie stretched along the grass, when, slipped his slough,
-To glittering youth transformed he winds his spires,
-And eggs or younglings leaving in his lair,
-Towers sunward, lightening with three-forked tongue.
+Furious from thirst and by the drought dismayed. Me list not then beneath the open heaven To snatch soft slumber, nor on forest-ridge Lie stretched along the grass, when, slipped his slough, To glittering youth transformed he winds his spires, And eggs or younglings leaving in his lair, Towers sunward, lightening with three-forked tongue.
   Of sickness, too, the causes and the signs
 I'll teach thee. Loathly scab assails the sheep,
 When chilly showers have probed them to the quick,
@@ -2037,9 +1908,7 @@ And Amythaon's son Melampus. See!
 From Stygian darkness launched into the light
 Comes raging pale Tisiphone; she drives
 Disease and fear before her, day by day
-Still rearing higher that all-devouring head.
-With bleat of flocks and lowings thick resound
-Rivers and parched banks and sloping heights.
+Still rearing higher that all-devouring head. With bleat of flocks and lowings thick resound Rivers and parched banks and sloping heights.
 At last in crowds she slaughters them, she chokes
 The very stalls with carrion-heaps that rot
 In hideous corruption, till men learn
@@ -2054,25 +1923,14 @@ His noisome limbs, till, no long tarriance made,
 The fiery curse his tainted frame devoured.
 
 
-
-
 GEORGIC IV
 
-Of air-born honey, gift of heaven, I now
-Take up the tale. Upon this theme no less
-Look thou, Maecenas, with indulgent eye.
+Of air-born honey, gift of heaven, I now Take up the tale. Upon this theme no less Look thou, Maecenas, with indulgent eye.
 A marvellous display of puny powers,
 High-hearted chiefs, a nation's history,
 Its traits, its bent, its battles and its clans,
-All, each, shall pass before you, while I sing.
-Slight though the poet's theme, not slight the praise,
-So frown not heaven, and Phoebus hear his call.
-  First find your bees a settled sure abode,
-Where neither winds can enter (winds blow back
-The foragers with food returning home)
-Nor sheep and butting kids tread down the flowers,
-Nor heifer wandering wide upon the plain
-Dash off the dew, and bruise the springing blades.
+All, each, shall pass before you, while I sing. Slight though the poet's theme, not slight the praise, So frown not heaven, and Phoebus hear his call.
+First find your bees a settled sure abode, Where neither winds can enter (winds blow back The foragers with food returning home) Nor sheep and butting kids tread down the flowers, Nor heifer wandering wide upon the plain Dash off the dew, and bruise the springing blades.
 Let the gay lizard too keep far aloof
 His scale-clad body from their honied stalls,
 And the bee-eater, and what birds beside,
@@ -2164,9 +2022,7 @@ Conspicuous by their wings the chiefs themselves
 Press through the heart of battle, and display
 A giant's spirit in each pigmy frame,
 Steadfast no inch to yield till these or those
-The victor's ponderous arm has turned to flight.
-Such fiery passions and such fierce assaults
-A little sprinkled dust controls and quells.
+The victor's ponderous arm has turned to flight. Such fiery passions and such fierce assaults A little sprinkled dust controls and quells.
 And now, both leaders from the field recalled,
 Who hath the worser seeming, do to death,
 Lest royal waste wax burdensome, but let
@@ -2416,9 +2272,7 @@ Where glory of purple shines through violet gloom.
 With chaplets woven hereof full oft are decked
 Heaven's altars: harsh its taste upon the tongue;
 Shepherds in vales smooth-shorn of nibbling flocks
-By Mella's winding waters gather it.
-The roots of this, well seethed in fragrant wine,
-Set in brimmed baskets at their doors for food.
+By Mella's winding waters gather it. The roots of this, well seethed in fragrant wine, Set in brimmed baskets at their doors for food.
   But if one's whole stock fail him at a stroke,
 Nor hath he whence to breed the race anew,
 'Tis time the wondrous secret to disclose
@@ -2514,10 +2368,7 @@ Scared by a groan so deep, behold! 'tis he,
 Even Aristaeus, thy heart's fondest care,
 Here by the brink of the Peneian sire
 Stands woebegone and weeping, and by name
-Cries out upon thee for thy cruelty."
-To whom, strange terror knocking at her heart,
-"Bring, bring him to our sight," the mother cried;
-"His feet may tread the threshold even of Gods."
+Cries out upon thee for thy cruelty." To whom, strange terror knocking at her heart, "Bring, bring him to our sight," the mother cried; "His feet may tread the threshold even of Gods."
 So saying, she bids the flood yawn wide and yield
 A pathway for his footsteps; but the wave
 Arched mountain-wise closed round him, and within
@@ -2594,10 +2445,7 @@ Scooped in the mountain-side, where wave on wave
 By the wind's stress is driven, and breaks far up
 Its inmost creeks- safe anchorage from of old
 For tempest-taken mariners: therewithin,
-Behind a rock's huge barrier, Proteus hides.
-Here in close covert out of the sun's eye
-The youth she places, and herself the while
-Swathed in a shadowy mist stands far aloof.
+Behind a rock's huge barrier, Proteus hides. Here in close covert out of the sun's eye The youth she places, and herself the while Swathed in a shadowy mist stands far aloof.
 And now the ravening dog-star that burns up
 The thirsty Indians blazed in heaven; his course
 The fiery sun had half devoured: the blades
@@ -2730,9 +2578,7 @@ Then too, even then, what time the Hebrus stream,
 Oeagrian Hebrus, down mid-current rolled,
 Rent from the marble neck, his drifting head,
 The death-chilled tongue found yet a voice to cry
-'Eurydice! ah! poor Eurydice!'
-With parting breath he called her, and the banks
-From the broad stream caught up 'Eurydice!'"
+'Eurydice! ah! poor Eurydice!' With parting breath he called her, and the banks From the broad stream caught up 'Eurydice!'"
   So Proteus ending plunged into the deep,
 And, where he plunged, beneath the eddying whirl
 Churned into foam the water, and was gone;
@@ -2741,10 +2587,7 @@ Bespake the trembling listener: "Nay, my son,
 From that sad bosom thou mayst banish care:
 Hence came that plague of sickness, hence the nymphs,
 With whom in the tall woods the dance she wove,
-Wrought on thy bees, alas! this deadly bane.
-Bend thou before the Dell-nymphs, gracious powers:
-Bring gifts, and sue for pardon: they will grant
-Peace to thine asking, and an end of wrath.
+Wrought on thy bees, alas! this deadly bane. Bend thou before the Dell-nymphs, gracious powers: Bring gifts, and sue for pardon: they will grant Peace to thine asking, and an end of wrath.
 But how to approach them will I first unfold-
 Four chosen bulls of peerless form and bulk,
 That browse to-day the green Lycaean heights,
@@ -2784,371 +2627,3 @@ The nursling, wooed the flowery walks of peace
 Inglorious, who erst trilled for shepherd-wights
 The wanton ditty, and sang in saucy youth
 Thee, Tityrus, 'neath the spreading beech tree's shade.
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of The Georgics, by Virgil
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE GEORGICS ***
-
-***** This file should be named 232.txt or 232.zip *****
-This and all associated files of various formats will be found in:
-        https://www.gutenberg.org/2/3/232/
-
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-https://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at https://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at https://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit https://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: https://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     https://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

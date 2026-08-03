@@ -1,47 +1,11 @@
-﻿The Project Gutenberg eBook, The Duchess of Padua, by Oscar Wilde
-
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions 
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at 
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-
-
-
-Title: The Duchess of Padua
-       A Play
-
-
-Author: Oscar Wilde
-
-
-
-Release Date: October 26, 2014  [eBook #875]
-[This file was first posted on April 9, 1997]
-
-Language: English
-
-Character set encoding: UTF-8
-
-
-***START OF THE PROJECT GUTENBERG EBOOK THE DUCHESS OF PADUA***
-
-
-Transcribed from the 1916 Methuen and Co. edition by David Price, email
 ccx074@pglaf.org
-
-
-
 
 
                                    THE
                              DUCHESS OF PADUA
 
 
-                                  A PLAY
+A PLAY
 
                                     BY
                                OSCAR WILDE
@@ -55,8 +19,6 @@ ccx074@pglaf.org
                              _Fifth Edition_
 
 
-
-
 THE PERSONS OF THE PLAY
 
 
@@ -66,8 +28,7 @@ Beatrice, his Wife
 
 Andreas Pollajuolo, Cardinal of Padua
 
-Maffio Petrucci, Jeppo Vitellozzo, Taddeo Bardi } Gentlemen of the Duke’s
-Household
+Maffio Petrucci, Jeppo Vitellozzo, Taddeo Bardi } Gentlemen of the Duke’s Household
 
 Guido Ferranti, a Young Man
 
@@ -84,44 +45,27 @@ Lucy, a Tire woman
 Servants, Citizens, Soldiers, Monks, Falconers with their hawks and dogs,
 etc.
 
-                                * * * * *
+* * * * *
 
 PLACE: _Padua_
 
 TIME: _The latter half of the Sixteenth Century_
 
 
-
-
 THE SCENES OF THE PLAY
 
-ACT I.        _The Market Place of Padua_ (25 _minutes_).
-ACT II.       _Room in the Duke’s Palace_ (36 _minutes_).
-ACT III.      _Corridor in the Duke’s Palace_ (29
-              _minutes_).
-ACT IV.       _The Hall of Justice_ (31 _minutes_).
-ACT V.        _The Dungeon_ (25 _minutes_).
+ACT I.        _The Market Place of Padua_ (25 _minutes_). ACT II.       _Room in the Duke’s Palace_ (36 _minutes_). ACT III.      _Corridor in the Duke’s Palace_ (29
+_minutes_). ACT IV.       _The Hall of Justice_ (31 _minutes_). ACT V.        _The Dungeon_ (25 _minutes_).
 
-         _Style of Architecture_: Italian, Gothic and Romanesque.
-
-
+_Style of Architecture_: Italian, Gothic and Romanesque.
 
 
 ACT I
 
 
-                                  SCENE
+SCENE
 
-_The Market Place of Padua at noon_; _in the background is the great
-Cathedral of Padua_; _the architecture is Romanesque_, _and wrought in
-black and white marbles_; _a flight of marble steps leads up to the
-Cathedral door_; _at the foot of the steps are two large stone lions_;
-_the houses on each aide of the stage have coloured awnings from their
-windows_, _and are flanked by stone arcades_; _on the right of the stage
-is the public fountain_, _with a triton in green bronze blowing from a
-conch_; _around the fountain is a stone seat_; _the bell of the Cathedral
-is ringing_, _and the citizens_, _men_, _women and children_, _are
-passing into the Cathedral_.
+_The Market Place of Padua at noon_; _in the background is the great Cathedral of Padua_; _the architecture is Romanesque_, _and wrought in black and white marbles_; _a flight of marble steps leads up to the Cathedral door_; _at the foot of the steps are two large stone lions_; _the houses on each aide of the stage have coloured awnings from their windows_, _and are flanked by stone arcades_; _on the right of the stage is the public fountain_, _with a triton in green bronze blowing from a conch_; _around the fountain is a stone seat_; _the bell of the Cathedral is ringing_, _and the citizens_, _men_, _women and children_, _are passing into the Cathedral_.
 
 [_Enter_ GUIDO FERRANTI _and_ ASCANIO CRISTOFANO.]
 
@@ -129,25 +73,25 @@ passing into the Cathedral_.
    step I will have no life left to swear by; this wild-goose errand of
    yours!
 
-                                [_Sits down on the step of the fountain_.]
+[_Sits down on the step of the fountain_.]
 
 GUIDO
 
-   I think it must be here.  [_Goes up to passer-by and doffs his cap_.]
+I think it must be here.  [_Goes up to passer-by and doffs his cap_.]
    Pray, sir, is this the market place, and that the church of Santa
    Croce?  [_Citizen bows_.]  I thank you, sir.
 
 ASCANIO
 
-   Well?
+Well?
 
 GUIDO
 
-   Ay! it is here.
+Ay! it is here.
 
 ASCANIO
 
-   I would it were somewhere else, for I see no wine-shop.
+I would it were somewhere else, for I see no wine-shop.
 
 GUIDO
 
@@ -157,7 +101,7 @@ GUIDO
 
 ASCANIO
 
-   And what of the man, how shall we know him?
+And what of the man, how shall we know him?
 
 GUIDO [_reading still_]
 
@@ -182,19 +126,19 @@ GUIDO
 
 ASCANIO
 
-   And you don’t know who your father is?
+And you don’t know who your father is?
 
 GUIDO
 
-   No.
+No.
 
 ASCANIO
 
-   No recollection of him even?
+No recollection of him even?
 
 GUIDO
 
-   None, Ascanio, none.
+None, Ascanio, none.
 
 ASCANIO [_laughing_]
 
@@ -203,7 +147,7 @@ ASCANIO [_laughing_]
 
 GUIDO [_smiling_]
 
-   I am sure you never deserved it.
+I am sure you never deserved it.
 
 ASCANIO
 
@@ -212,9 +156,9 @@ ASCANIO
 
 GUIDO
 
-   Noon.
+Noon.
 
-                                       [_Clock in the Cathedral strikes_.]
+[_Clock in the Cathedral strikes_.]
 
 ASCANIO
 
@@ -237,11 +181,11 @@ GUIDO
 
 MORANZONE
 
-   Guido Ferranti, thou hast come in time.
+Guido Ferranti, thou hast come in time.
 
 GUIDO
 
-   What!  Does my father live?
+What!  Does my father live?
 
 MORANZONE
 
@@ -257,7 +201,7 @@ GUIDO
 
 MORANZONE
 
-   We must be alone.
+We must be alone.
 
 GUIDO
 
@@ -289,9 +233,9 @@ GUIDO [_laughing_]
    And we will have long days of joy together.
    Within the hour, dear Ascanio.
 
-                                                         [_Exit_ ASCANIO.]
+[_Exit_ ASCANIO.]
 
-   Now tell me of my father?  [_Sits down on a stone seat_.]
+Now tell me of my father?  [_Sits down on a stone seat_.]
    Stood he tall?
    I warrant he looked tall upon his horse.
    His hair was black? or perhaps a reddish gold,
@@ -306,7 +250,7 @@ GUIDO [_laughing_]
 
 MORANZONE
 
-   Ay, of all men he was the kingliest.
+Ay, of all men he was the kingliest.
 
 GUIDO [_proudly_]
 
@@ -315,7 +259,7 @@ GUIDO [_proudly_]
 
 MORANZONE
 
-   Ay, he was high above the heads of men,
+Ay, he was high above the heads of men,
 
 [_Walks over to_ GUIDO _and puts his hand upon his shoulder_.]
 
@@ -339,7 +283,7 @@ MORANZONE
 
 GUIDO [_clasping his hand_]
 
-   Tell me of him.
+Tell me of him.
 
 MORANZONE
 
@@ -351,7 +295,7 @@ MORANZONE
 
 GUIDO
 
-   Come to his death.
+Come to his death.
 
 MORANZONE
 
@@ -367,11 +311,11 @@ MORANZONE
 
 GUIDO [_clutching his dagger_]
 
-   Doth Malatesta live?
+Doth Malatesta live?
 
 MORANZONE
 
-   No, he is dead.
+No, he is dead.
 
 GUIDO
 
@@ -386,7 +330,7 @@ MORANZONE [_clutching his wrist_]
 
 GUIDO
 
-   Sold! was my father sold?
+Sold! was my father sold?
 
 MORANZONE
 
@@ -404,7 +348,7 @@ GUIDO
 
 MORANZONE
 
-   I will bring you to him.
+I will bring you to him.
 
 GUIDO
 
@@ -421,7 +365,7 @@ MORANZONE
 
 GUIDO
 
-   What got he for my father’s blood?
+What got he for my father’s blood?
 
 MORANZONE
 
@@ -448,7 +392,7 @@ MORANZONE [_coldly_]
    Death is the common heritage of all,
    And death comes best when it comes suddenly.
 
-                                               [_Goes up close to_ GUIDO.]
+[_Goes up close to_ GUIDO.]
 
    Your father was betrayed, there is your cue;
    For you shall sell the seller in his turn.
@@ -457,7 +401,7 @@ MORANZONE [_coldly_]
 
 GUIDO
 
-   O bitter bread!
+O bitter bread!
 
 MORANZONE
 
@@ -470,7 +414,7 @@ MORANZONE
    And if it be his humour to be sad
    Thou shalt don sables.  Then when the time is ripe—
 
-                                             [GUIDO _clutches his sword_.]
+[GUIDO _clutches his sword_.]
 
    Nay, nay, I trust thee not; your hot young blood,
    Undisciplined nature, and too violent rage
@@ -492,7 +436,7 @@ MORANZONE
 
 GUIDO
 
-   How shall I kill him, tell me?
+How shall I kill him, tell me?
 
 MORANZONE
 
@@ -512,7 +456,7 @@ MORANZONE
 
 GUIDO
 
-   Now by my father’s sword—
+Now by my father’s sword—
 
 MORANZONE
 
@@ -521,7 +465,7 @@ MORANZONE
 
 GUIDO
 
-   Then by my father’s grave—
+Then by my father’s grave—
 
 MORANZONE
 
@@ -571,7 +515,7 @@ MORANZONE
 
 GUIDO
 
-   Speak to me of my mother.
+Speak to me of my mother.
 
 MORANZONE
 
@@ -600,7 +544,7 @@ MORANZONE
 
 GUIDO
 
-   Saw you my father afterwards?
+Saw you my father afterwards?
 
 MORANZONE
 
@@ -610,7 +554,7 @@ MORANZONE
 
 GUIDO [_taking his hand_]
 
-   O generous heart!
+O generous heart!
 
 MORANZONE
 
@@ -635,7 +579,7 @@ MORANZONE
 
 GUIDO
 
-   The traitor’s name?
+The traitor’s name?
 
 MORANZONE
 
@@ -645,7 +589,7 @@ MORANZONE
 
 GUIDO
 
-   What of that? his name?
+What of that? his name?
 
 MORANZONE
 
@@ -654,10 +598,9 @@ MORANZONE
 
 GUIDO
 
-   His name, milord?
+His name, milord?
 
-[_Enter the_ DUKE OF PADUA _with_ COUNT BARDI, MAFFIO, PETRUCCI, _and
-other gentlemen of his Court_.]
+[_Enter the_ DUKE OF PADUA _with_ COUNT BARDI, MAFFIO, PETRUCCI, _and other gentlemen of his Court_.]
 
 MORANZONE [_quickly_]
 
@@ -666,13 +609,13 @@ MORANZONE [_quickly_]
 
 GUIDO [_clutches hit dagger_]
 
-   The Duke!
+The Duke!
 
 MORANZONE
 
-   Leave off that fingering of thy knife.
-   Hast thou so soon forgotten?  [_Kneels to the_ DUKE.]
-   My noble Lord.
+Leave off that fingering of thy knife.
+Hast thou so soon forgotten?  [_Kneels to the_ DUKE.]
+My noble Lord.
 
 DUKE
 
@@ -683,9 +626,9 @@ DUKE
    Wherein you sit a-mumbling o’er your beads,
    Telling your vices like a good old man.
 
-                             [_Catches sight of_ GUIDO _and starts back_.]
+[_Catches sight of_ GUIDO _and starts back_.]
 
-   Who is that?
+Who is that?
 
 MORANZONE
 
@@ -695,19 +638,19 @@ MORANZONE
 
 DUKE [_still looking at_ GUIDO]
 
-   What is his name?
+What is his name?
 
 MORANZONE
 
-   Guido Ferranti, sir.
+Guido Ferranti, sir.
 
 DUKE
 
-   His city?
+His city?
 
 MORANZONE
 
-   He is Mantuan by birth.
+He is Mantuan by birth.
 
 DUKE [_advancing towards_ GUIDO]
 
@@ -720,7 +663,7 @@ DUKE [_advancing towards_ GUIDO]
 
 COUNT BARDI [_aside_]
 
-   Here is some bitter arrow for us, sure.
+Here is some bitter arrow for us, sure.
 
 DUKE
 
@@ -730,7 +673,7 @@ DUKE
 
 COUNT BARDI [_aside_]
 
-   There it comes indeed.
+There it comes indeed.
 
 DUKE
 
@@ -746,7 +689,7 @@ DUKE
 
 MAFFIO [_aside_]
 
-   He has enough of hate, if he needs that.
+He has enough of hate, if he needs that.
 
 DUKE
 
@@ -756,7 +699,7 @@ DUKE
 
 GUIDO [_aside_]
 
-   Surely a toad sits on his lips, and spills its venom there.
+Surely a toad sits on his lips, and spills its venom there.
 
 DUKE
 
@@ -774,11 +717,11 @@ GUIDO [_aside_]
 
 MORANZONE [_to him_]
 
-   Dost thou mark his words?
+Dost thou mark his words?
 
 GUIDO
 
-   Oh, be thou sure I do.
+Oh, be thou sure I do.
 
 DUKE
 
@@ -790,7 +733,7 @@ DUKE
 
 GUIDO
 
-   Your Grace, I shall remember.
+Your Grace, I shall remember.
 
 DUKE
 
@@ -825,9 +768,7 @@ DUKE
    I quite admit his dulness.  Well, sir, from now
    We count you of our household
 
-[_He holds out his hand for_ GUIDO _to kiss_.  GUIDO _starts back in
-horror_, _but at a gesture from_ COUNT MORANZONE, _kneels and kisses
-it_.]
+[_He holds out his hand for_ GUIDO _to kiss_.  GUIDO _starts back in horror_, _but at a gesture from_ COUNT MORANZONE, _kneels and kisses it_.]
 
    We will see
    That you are furnished with such equipage
@@ -835,7 +776,7 @@ it_.]
 
 GUIDO
 
-   I thank your Grace most heartily.
+I thank your Grace most heartily.
 
 DUKE
 
@@ -844,7 +785,7 @@ DUKE
 
 GUIDO
 
-   Guido Ferranti, sir.
+Guido Ferranti, sir.
 
 DUKE
 
@@ -869,14 +810,14 @@ DUKE
 
 MORANZONE [_bowing_]
 
-   My liege, there are some matters—
+My liege, there are some matters—
 
 DUKE [_interrupting_]
 
    Thou need’st make no excuse for missing mass.
    Come, gentlemen.
 
-                                   [_Exit with his suite into Cathedral_.]
+[_Exit with his suite into Cathedral_.]
 
 GUIDO [_after a pause_]
 
@@ -885,19 +826,19 @@ GUIDO [_after a pause_]
 
 MORANZONE
 
-   Thou shalt do that many times.
+Thou shalt do that many times.
 
 GUIDO
 
-   Must it be so?
+Must it be so?
 
 MORANZONE
 
-   Ay! thou hast sworn an oath.
+Ay! thou hast sworn an oath.
 
 GUIDO
 
-   That oath shall make me marble.
+That oath shall make me marble.
 
 MORANZONE
 
@@ -906,7 +847,7 @@ MORANZONE
 
 GUIDO
 
-   I pray thou comest quickly.
+I pray thou comest quickly.
 
 MORANZONE
 
@@ -915,7 +856,7 @@ MORANZONE
 
 GUIDO
 
-   Fear me not.
+Fear me not.
 
 MORANZONE
 
@@ -934,7 +875,7 @@ MORANZONE
 
 GUIDO
 
-   Can I have no friend?
+Can I have no friend?
 
 MORANZONE
 
@@ -943,9 +884,9 @@ MORANZONE
 
 GUIDO
 
-   Well, then be it so.
+Well, then be it so.
 
-                                             [_Enter_ ASCANIO CRISTOFANO.]
+[_Enter_ ASCANIO CRISTOFANO.]
 
 ASCANIO
 
@@ -957,11 +898,11 @@ ASCANIO
 
 GUIDO
 
-   Why, that we two must part, Ascanio.
+Why, that we two must part, Ascanio.
 
 ASCANIO
 
-   That would be news indeed, but it is not true.
+That would be news indeed, but it is not true.
 
 GUIDO
 
@@ -979,11 +920,11 @@ ASCANIO
 
 GUIDO [_clasping his hand_]
 
-   Ascanio!
+Ascanio!
 
-     [_Sees_ MORANZONE _looking at him and drops_ ASCANIO’S _hand_.]
+[_Sees_ MORANZONE _looking at him and drops_ ASCANIO’S _hand_.]
 
-   It cannot be.
+It cannot be.
 
 ASCANIO
 
@@ -998,15 +939,15 @@ ASCANIO
 
 GUIDO
 
-   Share it?
+Share it?
 
 ASCANIO
 
-   Ay!
+Ay!
 
 GUIDO
 
-   No, no.
+No, no.
 
 ASCANIO
 
@@ -1033,19 +974,19 @@ ASCANIO
 
 GUIDO
 
-   Never more.
+Never more.
 
 ASCANIO
 
-   Must I go hence without a word of love?
+Must I go hence without a word of love?
 
 GUIDO
 
-   You must go hence, and may love go with you.
+You must go hence, and may love go with you.
 
 ASCANIO
 
-   You are unknightly, and ungenerous.
+You are unknightly, and ungenerous.
 
 GUIDO
 
@@ -1055,7 +996,7 @@ GUIDO
 
 ASCANIO
 
-   Have you no message, Guido?
+Have you no message, Guido?
 
 GUIDO
 
@@ -1064,7 +1005,7 @@ GUIDO
 
 ASCANIO
 
-   Farewell [_exit slowly_.]
+Farewell [_exit slowly_.]
 
 GUIDO
 
@@ -1081,7 +1022,7 @@ MORANZONE
 
 GUIDO
 
-   Be sure I shall.  [_Exit_ LORD MORANZONE.]
+Be sure I shall.  [_Exit_ LORD MORANZONE.]
 
 GUIDO
 
@@ -1112,44 +1053,27 @@ GUIDO
    All love of women, and the barren thing
    Which men call beauty—
 
-[_The organ peals in the Cathedral_, _and under a canopy of cloth of
-silver tissue_, _borne by four pages in scarlet_, _the_ DUCHESS OF PADUA
-_comes down the steps_; _as she passes across their eyes meet for a
-moment_, _and as she leaves the stage she looks back at_ GUIDO, _and the
-dagger falls from his hand_.]
+[_The organ peals in the Cathedral_, _and under a canopy of cloth of silver tissue_, _borne by four pages in scarlet_, _the_ DUCHESS OF PADUA _comes down the steps_; _as she passes across their eyes meet for a moment_, _and as she leaves the stage she looks back at_ GUIDO, _and the dagger falls from his hand_.]
 
-   Oh! who is that?
+Oh! who is that?
 
 A CITIZEN
 
-   The Duchess of Padua!
+The Duchess of Padua!
 
-                                * * * * *
+* * * * *
 
-                              END OF ACT I.
+END OF ACT I.
 
-                                * * * * *
-
-
+* * * * *
 
 
 ACT II
 
 
-                                  SCENE
+SCENE
 
-_A state room in the Ducal Palace_, _hung with tapestries representing
-the Masque of Venus_; _a large door in the centre opens into a corridor
-of red marble_, _through which one can see a view of Padua_; _a large
-canopy is set_ (_R.C._) _with three thrones_, _one a little lower than
-the others_; _the ceiling is made of long gilded beams_; _furniture of
-the period_, _chairs covered with gilt leather_, _and buffets set with
-gold and silver plate_, _and chests painted with mythological scenes_.
-_A number of the courtiers is out on the corridor looking from it down
-into the street below_; _from the street comes the roar of a mob and
-cries of_ ‘_Death to the Duke_’: _after a little interval enter the Duke
-very calmly_; _he is leaning on the arm of Guido Ferranti_; _with him
-enters also the Lord Cardinal_; _the mob still shouting_.
+_A state room in the Ducal Palace_, _hung with tapestries representing the Masque of Venus_; _a large door in the centre opens into a corridor of red marble_, _through which one can see a view of Padua_; _a large canopy is set_ (_R.C._) _with three thrones_, _one a little lower than the others_; _the ceiling is made of long gilded beams_; _furniture of the period_, _chairs covered with gilt leather_, _and buffets set with gold and silver plate_, _and chests painted with mythological scenes_. _A number of the courtiers is out on the corridor looking from it down into the street below_; _from the street comes the roar of a mob and cries of_ ‘_Death to the Duke_’: _after a little interval enter the Duke very calmly_; _he is leaning on the arm of Guido Ferranti_; _with him enters also the Lord Cardinal_; _the mob still shouting_.
 
 DUKE
 
@@ -1167,18 +1091,18 @@ DUKE
    People who shout so loud, my lords, do nothing;
    The only men I fear are silent men.
 
-                                               [_A yell from the people_.]
+[_A yell from the people_.]
 
-   You see, Lord Cardinal, how my people love me.
+You see, Lord Cardinal, how my people love me.
 
-                                                         [_Another yell_.]
+[_Another yell_.]
 
    Go, Petrucci,
    And tell the captain of the guard below
    To clear the square.  Do you not hear me, sir?
    Do what I bid you.
 
-                                                        [_Exit_ PETRUCCI.]
+[_Exit_ PETRUCCI.]
 
 CARDINAL
 
@@ -1192,9 +1116,9 @@ DUKE [_sitting on his throne_]
    I crave your pardon, my lord Cardinal,
    I thought you spake of peaches.
 
-                                              [_A cheer from the people_.]
+[_A cheer from the people_.]
 
-   What is that?
+What is that?
 
 GUIDO [_rushes to the window_]
 
@@ -1204,7 +1128,7 @@ GUIDO [_rushes to the window_]
 
 DUKE
 
-   The devil take her!
+The devil take her!
 
 GUIDO [_still at the window_]
 
@@ -1218,23 +1142,23 @@ DUKE [_starting up_]
 
 BARDI
 
-   Here comes the Duchess.
+Here comes the Duchess.
 
 DUKE
 
-   Shut that door there; this morning air is cold.
+Shut that door there; this morning air is cold.
 
-                                  [_They close the door on the corridor_.]
+[_They close the door on the corridor_.]
 
 [_Enter the Duchess followed by a crowd of meanly dressed Citizens_.]
 
 DUCHESS [_flinging herself upon her knees_]
 
-   I do beseech your Grace to give us audience.
+I do beseech your Grace to give us audience.
 
 DUKE
 
-   What are these grievances?
+What are these grievances?
 
 DUCHESS
 
@@ -1264,7 +1188,7 @@ DUCHESS [_restraining herself_]
 
 DUKE
 
-   They should drink wine; water is quite unwholesome.
+They should drink wine; water is quite unwholesome.
 
 SECOND CITIZEN
 
@@ -1274,9 +1198,9 @@ SECOND CITIZEN
 
 DUKE
 
-   Then you should bless the taxes
+Then you should bless the taxes
 
-   Which make you temperate.
+Which make you temperate.
 
 DUCHESS
 
@@ -1299,7 +1223,7 @@ DUKE
    Are you not blessed in that?  Why, poverty
    Is one of the Christian virtues,
 
-                                                [_Turns to the_ CARDINAL.]
+[_Turns to the_ CARDINAL.]
 
    Is it not?
    I know, Lord Cardinal, you have great revenues,
@@ -1335,7 +1259,7 @@ DUKE
 
 FIRST CITIZEN
 
-   He hath a hard heart.
+He hath a hard heart.
 
 SECOND CITIZEN
 
@@ -1351,11 +1275,11 @@ CARDINAL
 
 FIRST CITIZEN
 
-   What is that word reform?  What does it mean?
+What is that word reform?  What does it mean?
 
 SECOND CITIZEN
 
-   Marry, it means leaving things as they are; I like it not.
+Marry, it means leaving things as they are; I like it not.
 
 DUKE
 
@@ -1382,7 +1306,7 @@ FIRST CITIZEN
 
 SECOND CITIZEN
 
-   Is that so?
+Is that so?
 
 DUKE
 
@@ -1391,18 +1315,18 @@ DUKE
 
 THIRD CITIZEN
 
-   Good my Lord,
-   Fill up our mouths with bread; we’ll hold our tongues.
+Good my Lord,
+Fill up our mouths with bread; we’ll hold our tongues.
 
 DUKE
 
-   Ye shall hold your tongues, whether you starve or not.
+Ye shall hold your tongues, whether you starve or not.
    My lords, this age is so familiar grown,
    That the low peasant hardly doffs his hat,
    Unless you beat him; and the raw mechanic
    Elbows the noble in the public streets.
 
-                                                      [_To the Citizens_.]
+[_To the Citizens_.]
 
    Still as our gentle Duchess has so prayed us,
    And to refuse so beautiful a beggar
@@ -1411,11 +1335,11 @@ DUKE
 
 FIRST CITIZEN
 
-   Marry, he will lighten the taxes!
+Marry, he will lighten the taxes!
 
 SECOND CITIZEN
 
-   Or a dole of bread, think you, for each man?
+Or a dole of bread, think you, for each man?
 
 DUKE
 
@@ -1423,11 +1347,11 @@ DUKE
    Shall, after Holy Mass, preach you a sermon
    Upon the Beauty of Obedience.
 
-                                                      [_Citizens murmur_.]
+[_Citizens murmur_.]
 
 FIRST CITIZEN
 
-   I’ faith, that will not fill our stomachs!
+I’ faith, that will not fill our stomachs!
 
 SECOND CITIZEN
 
@@ -1444,38 +1368,38 @@ DUCHESS
 
 FIRST CITIZEN
 
-   God save the Duchess, say I.
+God save the Duchess, say I.
 
 SECOND CITIZEN
 
-   God save her.
+God save her.
 
 DUCHESS
 
    And every Monday morn shall bread be set
    For those who lack it.
 
-                                          [_Citizens applaud and go out_.]
+[_Citizens applaud and go out_.]
 
 FIRST CITIZEN [_going out_]
 
-   Why, God save the Duchess again!
+Why, God save the Duchess again!
 
 DUKE [_calling him back_]
 
-   Come hither, fellow! what is your name?
+Come hither, fellow! what is your name?
 
 FIRST CITIZEN
 
-   Dominick, sir.
+Dominick, sir.
 
 DUKE
 
-   A good name!  Why were you called Dominick?
+A good name!  Why were you called Dominick?
 
 FIRST CITIZEN [_scratching his head_]
 
-   Marry, because I was born on St. George’s day.
+Marry, because I was born on St. George’s day.
 
 DUKE
 
@@ -1484,15 +1408,15 @@ DUKE
 
 FIRST CITIZEN [_feebly_]
 
-   God save the Duke.
+God save the Duke.
 
 DUKE
 
-   Nay! louder, fellow, louder.
+Nay! louder, fellow, louder.
 
 FIRST CITIZEN [_a little louder_]
 
-   God save the Duke!
+God save the Duke!
 
 DUKE
 
@@ -1501,7 +1425,7 @@ DUKE
 
 FIRST CITIZEN [_enthusiastically_]
 
-   God save the Duke!
+God save the Duke!
 
 DUKE [_mockingly_]
 
@@ -1512,7 +1436,7 @@ DUKE [_mockingly_]
    You can buy popularity nowadays.
    Oh, we are nothing if not democratic!
 
-                                                       [_To the_ DUCHESS.]
+[_To the_ DUCHESS.]
 
    Well, Madam,
    You spread rebellion ’midst our citizens.
@@ -1555,7 +1479,7 @@ DUKE
    Runs larger in the harbour of that town
    Than anywhere in Italy.
 
-                                          [_Turning to one of the Court_.]
+[_Turning to one of the Court_.]
 
    You, my lord,
    Whose gluttonous appetite is your only god,
@@ -1563,7 +1487,7 @@ DUKE
 
 DUCHESS
 
-   And Orvieto?
+And Orvieto?
 
 DUKE [_yawning_]
 
@@ -1572,7 +1496,7 @@ DUKE [_yawning_]
    According to the word of my contract.
    Maybe it was because I did not choose.
 
-                                             [_Goes over to the_ DUCHESS.]
+[_Goes over to the_ DUCHESS.]
 
    Why look you, Madam, you are here alone;
    ’Tis many a dusty league to your grey France,
@@ -1584,9 +1508,9 @@ DUKE [_yawning_]
 
 DUCHESS
 
-   There is not one.
+There is not one.
 
-                                [GUIDO _starts_, _but restrains himself_.]
+[GUIDO _starts_, _but restrains himself_.]
 
 DUKE
 
@@ -1600,7 +1524,7 @@ DUKE
 
 DUCHESS
 
-   Sir, by what right—?
+Sir, by what right—?
 
 DUKE
 
@@ -1612,7 +1536,7 @@ DUKE
    And spur our falcons for the mid-day chase.
    Bethink you, Madam, you are here alone.
 
-         [_Exit the_ DUKE _leaning on_ GUIDO, _with his Court_.]
+[_Exit the_ DUKE _leaning on_ GUIDO, _with his Court_.]
 
 DUCHESS [_looking after them_]
 
@@ -1638,8 +1562,7 @@ DUCHESS [_looking after them_]
    The mask of pleasure: I would not laugh like her;
    No, death were better.
 
-[_Enter_ GUIDO _behind unobserved_; _the_ DUCHESS _flings herself down
-before a picture of the Madonna_.]
+[_Enter_ GUIDO _behind unobserved_; _the_ DUCHESS _flings herself down before a picture of the Madonna_.]
 
    O Mary mother, with your sweet pale face
    Bending between the little angel heads
@@ -1654,11 +1577,11 @@ GUIDO
 
 DUCHESS [_rising_]
 
-   None but the wretched needs my prayers, my lord.
+None but the wretched needs my prayers, my lord.
 
 GUIDO
 
-   Then must I need them, lady.
+Then must I need them, lady.
 
 DUCHESS
 
@@ -1679,9 +1602,9 @@ DUCHESS
 
 GUIDO [_seizing her hand_]
 
-   Hast thou no love to give me?
+Hast thou no love to give me?
 
-        [_The_ DUCHESS _starts_, _and_ GUIDO _falls at her feet_.]
+[_The_ DUCHESS _starts_, _and_ GUIDO _falls at her feet_.]
 
    O dear saint,
    If I have been too daring, pardon me!
@@ -1729,11 +1652,11 @@ GUIDO
 
 DUCHESS
 
-   I hardly know what I should say to you.
+I hardly know what I should say to you.
 
 GUIDO
 
-   Will you not say you love me?
+Will you not say you love me?
 
 DUCHESS
 
@@ -1777,11 +1700,11 @@ GUIDO [_stretching out his hands_]
 
 DUCHESS
 
-   To touch my lips is not to touch my heart.
+To touch my lips is not to touch my heart.
 
 GUIDO
 
-   Do you close that against me?
+Do you close that against me?
 
 DUCHESS
 
@@ -1810,7 +1733,7 @@ DUCHESS
    Your fancy lends me, like a prodigal
    Spending its wealth on what is nothing worth.
 
-                                                           [_Kisses him_.]
+[_Kisses him_.]
 
 GUIDO
 
@@ -1897,17 +1820,17 @@ DUCHESS
 
 GUIDO
 
-   Tell me again you love me, Beatrice.
+Tell me again you love me, Beatrice.
 
 DUCHESS [_fingering his collar_]
 
-   How well this collar lies about your throat.
+How well this collar lies about your throat.
 
-   [LORD MORANZONE _looks through the door from the corridor outside_.]
+[LORD MORANZONE _looks through the door from the corridor outside_.]
 
 GUIDO
 
-   Nay, tell me that you love me.
+Nay, tell me that you love me.
 
 DUCHESS
 
@@ -1918,7 +1841,7 @@ DUCHESS
 
 GUIDO
 
-   Will you not say you love me?
+Will you not say you love me?
 
 DUCHESS [_smiling_]
 
@@ -1926,19 +1849,19 @@ DUCHESS [_smiling_]
    Yet he was not royal as you are.
    Why need I tell you, Guido, that I love you?
 
-      [_Takes his head in her hands and turns his face up to her_.]
+[_Takes his head in her hands and turns his face up to her_.]
 
    Do you not know that I am yours for ever,
    Body and soul?
 
- [_Kisses him_, _and then suddenly catches sight of_ MORANZONE _and leaps
-                                  up_.]
+[_Kisses him_, _and then suddenly catches sight of_ MORANZONE _and leaps
+up_.]
 
-   Oh, what is that?  [MORANZONE _disappears_.]
+Oh, what is that?  [MORANZONE _disappears_.]
 
 GUIDO
 
-   What, love?
+What, love?
 
 DUCHESS
 
@@ -1950,9 +1873,9 @@ GUIDO
    Nay, ’twas nothing:
    The passing shadow of the man on guard.
 
-          [_The_ DUCHESS _still stands looking at the window_.]
+[_The_ DUCHESS _still stands looking at the window_.]
 
-   ’Twas nothing, sweet.
+’Twas nothing, sweet.
 
 DUCHESS
 
@@ -1995,7 +1918,7 @@ DUCHESS
 
 GUIDO
 
-   Who is he?
+Who is he?
 
 DUCHESS
 
@@ -2030,21 +1953,19 @@ DUCHESS
 
 GUIDO
 
-   Kiss me, Beatrice!
+Kiss me, Beatrice!
 
-[_She takes his face in her hands and bends down and kisses him_; _a loud
-knocking then comes at the door_, _and_ GUIDO _leaps up_; _enter a
-Servant_.]
+[_She takes his face in her hands and bends down and kisses him_; _a loud knocking then comes at the door_, _and_ GUIDO _leaps up_; _enter a Servant_.]
 
 SERVANT
 
-   A package for you, sir.
+A package for you, sir.
 
 GUIDO [_carelessly_]
 
-   Ah! give it to me.
+Ah! give it to me.
 
-   [_Servant hands package wrapped in vermilion silk_, _and exit_; _as_
+[_Servant hands package wrapped in vermilion silk_, _and exit_; _as_
    GUIDO _is about to open it the_ DUCHESS _comes up behind_, _and in
    sport takes it from him_.]
 
@@ -2058,15 +1979,15 @@ DUCHESS [_laughing_]
 
 GUIDO
 
-   It is nothing.
+It is nothing.
 
 DUCHESS
 
-   Nay, it is from some girl.
+Nay, it is from some girl.
 
 GUIDO
 
-   You know ’tis not.
+You know ’tis not.
 
 DUCHESS [_turns her back and opens it_]
 
@@ -2075,7 +1996,7 @@ DUCHESS [_turns her back and opens it_]
 
 GUIDO [_taking it from her_]
 
-   O God!
+O God!
 
 DUCHESS
 
@@ -2084,7 +2005,7 @@ DUCHESS
    Who left it at the gate!  I will not rest
    Till I have learned your secret.
 
-                                      [_Runs laughing into the corridor_.]
+[_Runs laughing into the corridor_.]
 
 GUIDO
 
@@ -2109,7 +2030,7 @@ GUIDO
 
 DUCHESS
 
-   Guido!
+Guido!
 
 GUIDO
 
@@ -2119,7 +2040,7 @@ GUIDO
 
 DUCHESS [_going towards him_]
 
-   O dear love!
+O dear love!
 
 GUIDO [_stepping back_]
 
@@ -2149,7 +2070,7 @@ DUCHESS
 
 GUIDO
 
-   I take them back.
+I take them back.
 
 DUCHESS
 
@@ -2182,7 +2103,7 @@ DUCHESS [_calm_, _and controlling her passion_]
 
 GUIDO
 
-   O Beatrice!
+O Beatrice!
 
 DUCHESS
 
@@ -2195,7 +2116,7 @@ DUCHESS
 
 GUIDO
 
-   O God!
+O God!
 
 DUCHESS [_clenching her hand_]
 
@@ -2230,13 +2151,13 @@ DUCHESS
 
 GUIDO
 
-   O God, God!
+O God, God!
 
 DUCHESS
 
-   But you will stay: listen, I love you, Guido.
+But you will stay: listen, I love you, Guido.
 
-                                                   [_She waits a little_.]
+[_She waits a little_.]
 
    Is echo dead, that when I say I love you
    There is no answer?
@@ -2248,9 +2169,9 @@ GUIDO
 
 DUCHESS
 
-   If you are going, touch me not, but go.
+If you are going, touch me not, but go.
 
-                                                           [_Exit_ GUIDO.]
+[_Exit_ GUIDO.]
 
    Barrier!  Barrier!
    Why did he say there was a barrier?
@@ -2263,7 +2184,7 @@ DUCHESS
    That image through the world, and call it back
    With little cries of love.
 
-  [_Enter_ DUKE _equipped for the chase_, _with falconers and hounds_.]
+[_Enter_ DUKE _equipped for the chase_, _with falconers and hounds_.]
 
 DUKE
 
@@ -2272,15 +2193,15 @@ DUKE
 
 DUCHESS
 
-   I will not ride to-day.
+I will not ride to-day.
 
 DUKE
 
-   How now, what’s this?
+How now, what’s this?
 
 DUCHESS
 
-   My Lord, I cannot go.
+My Lord, I cannot go.
 
 DUKE
 
@@ -2291,7 +2212,7 @@ DUKE
 
 DUCHESS
 
-   Have you no word of kindness ever for me?
+Have you no word of kindness ever for me?
 
 DUKE
 
@@ -2300,7 +2221,7 @@ DUKE
 
 DUCHESS
 
-   Well, I will go.
+Well, I will go.
 
 DUKE [_slapping his boot with his whip_]
 
@@ -2326,7 +2247,7 @@ DUKE
    I do protest, sirs, the domestic virtues
    Are often very beautiful in others.
 
-                                           [_Exit_ DUKE _with his Court_.]
+[_Exit_ DUKE _with his Court_.]
 
 DUCHESS
 
@@ -2363,7 +2284,7 @@ DUCHESS
    Within us bear a skeleton.
 
 [_Enter_ LORD MORANZONE _all in black_; _he passes across the back of the
-                     stage looking anxiously about_.]
+stage looking anxiously about_.]
 
 MORANZONE
 
@@ -2377,7 +2298,7 @@ DUCHESS [_catches sight of him_]
 
 MORANZONE [_with a look of joy_]
 
-   What, has he left you?
+What, has he left you?
 
 DUCHESS
 
@@ -2389,7 +2310,7 @@ DUCHESS
    Better you had crossed a hungry lioness
    Before you came between me and my love.
 
-                                                     [_With more pathos_.]
+[_With more pathos_.]
 
    Nay, give him back, you know not how I love him.
    Here by this chair he knelt a half hour since;
@@ -2401,7 +2322,7 @@ DUCHESS
 
 MORANZONE
 
-   He does not love you, Madam.
+He does not love you, Madam.
 
 DUCHESS
 
@@ -2415,13 +2336,13 @@ MORANZONE
 
 DUCHESS
 
-   What is your name?
+What is your name?
 
 MORANZONE
 
-   My name?  Revenge!
+My name?  Revenge!
 
-                                                                 [_Exit_.]
+[_Exit_.]
 
 DUCHESS
 
@@ -2450,28 +2371,21 @@ DUCHESS
                                 * * * * *
 
 
-
-
 ACT III
 
 
-                                  SCENE
+SCENE
 
-_A large corridor in the Ducal Palace_: _a window_ (_L.C._) _looks out on
-a view of Padua by moonlight_: _a staircase_ (_R.C._) _leads up to a door
-with a portière of crimson velvet_, _with the Duke’s arms embroidered in
-gold on it_: _on the lowest step of the staircase a figure draped in
-black is sitting_: _the hall is lit by an iron cresset filled with
-burning tow_: _thunder and lightning outside_: _the time is night_.
+_A large corridor in the Ducal Palace_: _a window_ (_L.C._) _looks out on a view of Padua by moonlight_: _a staircase_ (_R.C._) _leads up to a door with a portière of crimson velvet_, _with the Duke’s arms embroidered in gold on it_: _on the lowest step of the staircase a figure draped in black is sitting_: _the hall is lit by an iron cresset filled with burning tow_: _thunder and lightning outside_: _the time is night_.
 
-                  [_Enter_ GUIDO _through the window_.]
+[_Enter_ GUIDO _through the window_.]
 
 GUIDO
 
    The wind is rising: how my ladder shook!
    I thought that every gust would break the cords!
 
-                                                [_Looks out at the city_.]
+[_Looks out at the city_.]
 
    Christ!  What a night:
    Great thunder in the heavens, and wild lightnings
@@ -2480,7 +2394,7 @@ GUIDO
    To shudder and to shake as each new glare
    Dashes adown the street.
 
-                         [_Passes across the stage to foot of staircase_.]
+[_Passes across the stage to foot of staircase_.]
 
    Ah! who art thou
    That sittest on the stair, like unto Death
@@ -2489,7 +2403,7 @@ GUIDO
    Or has this storm laid palsy on thy tongue,
    And chilled thy utterance?
 
-                              [_The figure rises and takes off his mask_.]
+[_The figure rises and takes off his mask_.]
 
 MORANZONE
 
@@ -2498,11 +2412,11 @@ MORANZONE
 
 GUIDO [_confusedly_]
 
-   What, art thou here?
+What, art thou here?
 
 MORANZONE
 
-   Ay, waiting for your coming.
+Ay, waiting for your coming.
 
 GUIDO [_looking away from him_]
 
@@ -2518,11 +2432,11 @@ MORANZONE
 
 GUIDO
 
-   It cannot be.
+It cannot be.
 
 MORANZONE
 
-   Nay, but it shall.
+Nay, but it shall.
 
 GUIDO
 
@@ -2551,19 +2465,19 @@ MORANZONE
 
 GUIDO
 
-   Nay, you heard rightly; I’ll not kill this man.
+Nay, you heard rightly; I’ll not kill this man.
 
 MORANZONE
 
-   What of thine oath, thou traitor, what of thine oath?
+What of thine oath, thou traitor, what of thine oath?
 
 GUIDO
 
-   I am resolved not to keep that oath.
+I am resolved not to keep that oath.
 
 MORANZONE
 
-   What of thy murdered father?
+What of thy murdered father?
 
 GUIDO
 
@@ -2573,7 +2487,7 @@ GUIDO
 
 MORANZONE
 
-   Ay! he would laugh for joy.
+Ay! he would laugh for joy.
 
 GUIDO
 
@@ -2583,7 +2497,7 @@ GUIDO
 
 MORANZONE
 
-   Thou art God’s minister of vengeance.
+Thou art God’s minister of vengeance.
 
 GUIDO
 
@@ -2608,11 +2522,11 @@ GUIDO
 
 MORANZONE
 
-   You will not slay him?
+You will not slay him?
 
 GUIDO
 
-   No.
+No.
 
 MORANZONE
 
@@ -2718,7 +2632,7 @@ GUIDO
    This is the punishment God sets on sin.
    The wicked cannot love.
 
-               [_A groan comes from the_ DUKE’S _chamber_.]
+[_A groan comes from the_ DUKE’S _chamber_.]
 
    Ah!  What is that?
    Do you not hear?  ’Twas nothing.
@@ -2741,7 +2655,7 @@ MORANZONE [_sneeringly_]
 
 GUIDO
 
-   It was for all time said.
+It was for all time said.
 
 MORANZONE
 
@@ -2758,7 +2672,7 @@ GUIDO
 
 MORANZONE
 
-   What will you do?
+What will you do?
 
 GUIDO
 
@@ -2767,7 +2681,7 @@ GUIDO
 
 MORANZONE
 
-   And then?
+And then?
 
 GUIDO
 
@@ -2776,9 +2690,9 @@ GUIDO
    And there I will, being now sick of life,
    Throw that poor life against some desperate spear.
 
-                              [_A groan from the_ DUKE’S _chamber again_.]
+[_A groan from the_ DUKE’S _chamber again_.]
 
-   Did you not hear a voice?
+Did you not hear a voice?
 
 MORANZONE
 
@@ -2790,19 +2704,19 @@ MORANZONE
 
 GUIDO
 
-   I am resolved.
+I am resolved.
 
 MORANZONE
 
-   O wretched father, lying unavenged.
+O wretched father, lying unavenged.
 
 GUIDO
 
-   More wretched, were thy son a murderer.
+More wretched, were thy son a murderer.
 
 MORANZONE
 
-   Why, what is life?
+Why, what is life?
 
 GUIDO
 
@@ -2826,7 +2740,7 @@ GUIDO
 
 MORANZONE
 
-   Farewell!
+Farewell!
 
 GUIDO
 
@@ -2835,9 +2749,9 @@ GUIDO
 
 MORANZONE
 
-   Never, boy.
+Never, boy.
 
-                           [_Gets out of window and exit by rope ladder_.]
+[_Gets out of window and exit by rope ladder_.]
 
 GUIDO
 
@@ -2863,7 +2777,7 @@ GUIDO
    That things are real which are not.  It grows late.
    Now must I to my business.
 
-                     [_Pulls out a letter from his doublet and reads it_.]
+[_Pulls out a letter from his doublet and reads it_.]
 
    When he wakes,
    And sees this letter, and the dagger with it,
@@ -2875,13 +2789,11 @@ GUIDO
    Thy bidding, and the bidding of my love
    Which teaches me to know thee as thou art.
 
-[_Ascends staircase stealthily_, _and just as he reaches out his hand to
-draw back the curtain the Duchess appears all in white_.  GUIDO _starts
-back_.]
+[_Ascends staircase stealthily_, _and just as he reaches out his hand to draw back the curtain the Duchess appears all in white_.  GUIDO _starts back_.]
 
 DUCHESS
 
-   Guido! what do you here so late?
+Guido! what do you here so late?
 
 GUIDO
 
@@ -2891,19 +2803,19 @@ GUIDO
 
 DUCHESS
 
-   There is no barrier between us now.
+There is no barrier between us now.
 
 GUIDO
 
-   None, love, nor shall be.
+None, love, nor shall be.
 
 DUCHESS
 
-   I have seen to that.
+I have seen to that.
 
 GUIDO
 
-   Tarry here for me.
+Tarry here for me.
 
 DUCHESS
 
@@ -2919,23 +2831,23 @@ GUIDO
 
 DUCHESS
 
-   When who wakes?
+When who wakes?
 
 GUIDO
 
-   Why, the Duke.
+Why, the Duke.
 
 DUCHESS
 
-   He will not wake again.
+He will not wake again.
 
 GUIDO
 
-   What, is he dead?
+What, is he dead?
 
 DUCHESS
 
-   Ay! he is dead.
+Ay! he is dead.
 
 GUIDO
 
@@ -2948,11 +2860,11 @@ GUIDO
 
 DUCHESS
 
-   I have just killed him.
+I have just killed him.
 
 GUIDO [_in horror_]
 
-   Oh!
+Oh!
 
 DUCHESS
 
@@ -2978,7 +2890,7 @@ DUCHESS
 
 GUIDO
 
-   Oh, horrible!
+Oh, horrible!
 
 DUCHESS
 
@@ -2988,7 +2900,7 @@ DUCHESS
 
 GUIDO
 
-   Enough, enough.
+Enough, enough.
 
 DUCHESS
 
@@ -3000,15 +2912,15 @@ DUCHESS
 
 GUIDO
 
-   O God!
+O God!
 
 DUCHESS
 
-   Will you not speak?
+Will you not speak?
 
 GUIDO
 
-   I cannot speak at all.
+I cannot speak at all.
 
 DUCHESS
 
@@ -3016,7 +2928,7 @@ DUCHESS
    Is not the barrier broken down between us?
    What would you more?  Come, it is almost morning.
 
-                                             [_Puts her hand on_ GUIDO’S.]
+[_Puts her hand on_ GUIDO’S.]
 
 GUIDO [_breaking from her_]
 
@@ -3116,9 +3028,9 @@ GUIDO [_wresting knife from her_]
 
 DUCHESS
 
-   Better for me I had not seen your face.
+Better for me I had not seen your face.
 
-                  [GUIDO _recoils_: _she seizes his hands as she kneels_.]
+[GUIDO _recoils_: _she seizes his hands as she kneels_.]
 
    Nay, Guido, listen for a while:
    Until you came to Padua I lived
@@ -3128,7 +3040,7 @@ DUCHESS
    As pure I think as any gentle girl
    Who now would turn in horror from my hands—
 
-                                                            [_Stands up_.]
+[_Stands up_.]
 
    You came: ah!  Guido, the first kindly words
    I ever heard since I had come from France
@@ -3140,7 +3052,7 @@ DUCHESS
    ’Twas you who sought me out, knelt at my feet
    As I kneel now at yours, and with sweet vows,
 
-                                                               [_Kneels_.]
+[_Kneels_.]
 
    Whose music seems to linger in my ears,
    Swore that you loved me, and I trusted you.
@@ -3150,11 +3062,11 @@ DUCHESS
    Yet I know that had I done so,
    I had not been thus humbled in the dust,
 
-                                                            [_Stands up_.]
+[_Stands up_.]
 
-   But you had loved me very faithfully.
+But you had loved me very faithfully.
 
-                                 [_After a pause approaches him timidly_.]
+[_After a pause approaches him timidly_.]
 
    I do not think you understand me, Guido:
    It was for your sake that I wrought this deed
@@ -3185,7 +3097,7 @@ DUCHESS
 
 GUIDO
 
-   There is no love where there is any guilt.
+There is no love where there is any guilt.
 
 DUCHESS
 
@@ -3207,7 +3119,7 @@ DUCHESS
    If he does not beat her a second time
    Before her child!—that is how women love.
 
-                                        [_A pause_: GUIDO _says nothing_.]
+[_A pause_: GUIDO _says nothing_.]
 
    I think you will not drive me from your side.
    Where have I got to go if you reject me?—
@@ -3309,14 +3221,13 @@ DUCHESS [_coming down a few steps_.]
    The thunder on his head beware the ruin
    Which the forked flame brings after.
 
-         [_A flash of lightning followed by a peal of thunder_.]
+[_A flash of lightning followed by a peal of thunder_.]
 
 GUIDO
 
-   Away! away!
+Away! away!
 
-[_Exit the_ DUCHESS, _who as she lifts the crimson curtain looks back for
-a moment at_ GUIDO, _but he makes no sign_.  _More thunder_.]
+[_Exit the_ DUCHESS, _who as she lifts the crimson curtain looks back for a moment at_ GUIDO, _but he makes no sign_.  _More thunder_.]
 
    Now is life fallen in ashes at my feet
    And noble love self-slain; and in its place
@@ -3326,61 +3237,46 @@ a moment at_ GUIDO, _but he makes no sign_.  _More thunder_.]
    I have been cruel to her: Beatrice!
    Beatrice, I say, come back.
 
-  [_Begins to ascend staircase_, _when the noise of Soldiers is heard_.]
+[_Begins to ascend staircase_, _when the noise of Soldiers is heard_.]
 
    Ah! what is that?
    Torches ablaze, and noise of hurrying feet.
    Pray God they have not seized her.
 
-                                                   [_Noise grows louder_.]
+[_Noise grows louder_.]
 
    Beatrice!
    There is yet time to escape.  Come down, come out!
 
-                 [_The voice of the_ DUCHESS _outside_.]
+[_The voice of the_ DUCHESS _outside_.]
 
-   This way went he, the man who slew my lord.
+This way went he, the man who slew my lord.
 
-[_Down the staircase comes hurrying a confused body of Soldiers_; GUIDO
-_is not seen at first_, _till the_ DUCHESS _surrounded by Servants
-carrying torches appears at the top of the staircase_, _and points to_
-GUIDO, _who is seized at once_, _one of the Soldiers dragging the knife
-from his hand and showing it to the Captain of the Guard in sight of the
-audience_.  _Tableau_.]
+[_Down the staircase comes hurrying a confused body of Soldiers_; GUIDO _is not seen at first_, _till the_ DUCHESS _surrounded by Servants carrying torches appears at the top of the staircase_, _and points to_ GUIDO, _who is seized at once_, _one of the Soldiers dragging the knife from his hand and showing it to the Captain of the Guard in sight of the audience_.  _Tableau_.]
 
-                               END OF ACT III.
+END OF ACT III.
 
-                                  * * * * *
-
-
+* * * * *
 
 
 ACT IV
 
 
-                                  SCENE
+SCENE
 
-_The Court of Justice_: _the walls are hung with stamped grey velvet_:
-_above the hangings the wall is red_, _and gilt symbolical figures bear
-up the roof_, _which is made of red beams with grey soffits and
-moulding_: _a canopy of white satin flowered with gold is set for the
-Duchess_: _below it a long bench with red cloth for the Judges_: _below
-that a table for the clerks of the court.  Two soldiers stand on each
-side of the canopy_, _and two soldiers guard the door_; _the citizens
-have some of them collected in the Court_; _others are coming in greeting
-one another_; _two tipstaffs in violet keep order with long white wands_.
+_The Court of Justice_: _the walls are hung with stamped grey velvet_: _above the hangings the wall is red_, _and gilt symbolical figures bear up the roof_, _which is made of red beams with grey soffits and moulding_: _a canopy of white satin flowered with gold is set for the Duchess_: _below it a long bench with red cloth for the Judges_: _below that a table for the clerks of the court.  Two soldiers stand on each side of the canopy_, _and two soldiers guard the door_; _the citizens have some of them collected in the Court_; _others are coming in greeting one another_; _two tipstaffs in violet keep order with long white wands_.
 
 FIRST CITIZEN
 
-   Good morrow, neighbour Anthony.
+Good morrow, neighbour Anthony.
 
 SECOND CITIZEN
 
-   Good morrow, neighbour Dominick.
+Good morrow, neighbour Dominick.
 
 FIRST CITIZEN
 
-   This is a strange day for Padua, is it not?—the Duke being dead.
+This is a strange day for Padua, is it not?—the Duke being dead.
 
 SECOND CITIZEN
 
@@ -3400,23 +3296,23 @@ SECOND CITIZEN
 
 FIRST CITIZEN
 
-   Well, well, it will go hard with him I doubt not.
+Well, well, it will go hard with him I doubt not.
 
 SECOND CITIZEN
 
-   Surely it is a grievous thing to shed a Duke’s blood.
+Surely it is a grievous thing to shed a Duke’s blood.
 
 THIRD CITIZEN
 
-   They say a Duke has blue blood.
+They say a Duke has blue blood.
 
 SECOND CITIZEN
 
-   I think our Duke’s blood was black like his soul.
+I think our Duke’s blood was black like his soul.
 
 FIRST CITIZEN
 
-   Have a watch, neighbour Anthony, the officer is looking at thee.
+Have a watch, neighbour Anthony, the officer is looking at thee.
 
 SECOND CITIZEN
 
@@ -3425,12 +3321,12 @@ SECOND CITIZEN
 
 THIRD CITIZEN
 
-   What think you of this young man who stuck the knife into the Duke?
+What think you of this young man who stuck the knife into the Duke?
 
 SECOND CITIZEN
 
-   Why, that he is a well-behaved, and a well-meaning, and a
-   well-favoured lad, and yet wicked in that he killed the Duke.
+Why, that he is a well-behaved, and a well-meaning, and a
+well-favoured lad, and yet wicked in that he killed the Duke.
 
 THIRD CITIZEN
 
@@ -3439,15 +3335,15 @@ THIRD CITIZEN
 
 SECOND CITIZEN
 
-   True.
+True.
 
 TIPSTAFF
 
-   Silence, knave.
+Silence, knave.
 
 SECOND CITIZEN
 
-   Am I thy looking-glass, Master Tipstaff, that thou callest me knave?
+Am I thy looking-glass, Master Tipstaff, that thou callest me knave?
 
 FIRST CITIZEN
 
@@ -3468,7 +3364,7 @@ SECOND CITIZEN
 
 FIRST CITIZEN
 
-   But how does the Duchess?
+But how does the Duchess?
 
 MISTRESS LUCY
 
@@ -3479,7 +3375,7 @@ MISTRESS LUCY
 
 FIRST CITIZEN
 
-   But come to the Duchess, good gossip: what of her?
+But come to the Duchess, good gossip: what of her?
 
 MISTRESS LUCY
 
@@ -3497,13 +3393,13 @@ SECOND CITIZEN
 
 MISTRESS LUCY
 
-   Well, well, God keep murder from us, I say, as long as we are alive.
+Well, well, God keep murder from us, I say, as long as we are alive.
 
-                                     [_Enter_ LORD MORANZONE _hurriedly_.]
+[_Enter_ LORD MORANZONE _hurriedly_.]
 
 MORANZONE
 
-   Is the Duke dead?
+Is the Duke dead?
 
 SECOND CITIZEN
 
@@ -3512,37 +3408,37 @@ SECOND CITIZEN
 
 MORANZONE
 
-   Who is accused of having killed him?
+Who is accused of having killed him?
 
 SECOND CITIZEN
 
-   Why, the prisoner, sir.
+Why, the prisoner, sir.
 
 MORANZONE
 
-   But who is the prisoner?
+But who is the prisoner?
 
 SECOND CITIZEN
 
-   Why, he that is accused of the Duke’s murder.
+Why, he that is accused of the Duke’s murder.
 
 MORANZONE
 
-   I mean, what is his name?
+I mean, what is his name?
 
 SECOND CITIZEN
 
-   Faith, the same which his godfathers gave him: what else should it be?
+Faith, the same which his godfathers gave him: what else should it be?
 
 TIPSTAFF
 
-   Guido Ferranti is his name, my lord.
+Guido Ferranti is his name, my lord.
 
 MORANZONE
 
-   I almost knew thine answer ere you gave it.
+I almost knew thine answer ere you gave it.
 
-                                                                [_Aside_.]
+[_Aside_.]
 
    Yet it is strange he should have killed the Duke,
    Seeing he left me in such different mood.
@@ -3553,45 +3449,45 @@ MORANZONE
    And in their place set vengeance; yet I marvel
    That he escaped not.
 
-                                           [_Turning again to the crowd_.]
+[_Turning again to the crowd_.]
 
-   How was he taken?  Tell me.
+How was he taken?  Tell me.
 
 THIRD CITIZEN
 
-   Marry, sir, he was taken by the heels.
+Marry, sir, he was taken by the heels.
 
 MORANZONE
 
-   But who seized him?
+But who seized him?
 
 THIRD CITIZEN
 
-   Why, those that did lay hold of him.
+Why, those that did lay hold of him.
 
 MORANZONE
 
-   How was the alarm given?
+How was the alarm given?
 
 THIRD CITIZEN
 
-   That I cannot tell you, sir.
+That I cannot tell you, sir.
 
 MISTRESS LUCY
 
-   It was the Duchess herself who pointed him out.
+It was the Duchess herself who pointed him out.
 
 MORANZONE [_aside_]
 
-   The Duchess!  There is something strange in this.
+The Duchess!  There is something strange in this.
 
 MISTRESS LUCY
 
-   Ay! And the dagger was in his hand—the Duchess’s own dagger.
+Ay! And the dagger was in his hand—the Duchess’s own dagger.
 
 MORANZONE
 
-   What did you say?
+What did you say?
 
 MISTRESS LUCY
 
@@ -3600,54 +3496,54 @@ MISTRESS LUCY
 
 MORANZONE [_aside_]
 
-   There is some mystery about this: I cannot understand it.
+There is some mystery about this: I cannot understand it.
 
 SECOND CITIZEN
 
-   They be very long a-coming,
+They be very long a-coming,
 
 FIRST CITIZEN
 
-   I warrant they will come soon enough for the prisoner.
+I warrant they will come soon enough for the prisoner.
 
 TIPSTAFF
 
-   Silence in the Court!
+Silence in the Court!
 
 FIRST CITIZEN
 
-   Thou dost break silence in bidding us keep it, Master Tipstaff.
+Thou dost break silence in bidding us keep it, Master Tipstaff.
 
-                        [_Enter the_ LORD JUSTICE _and the other Judges_.]
-
-SECOND CITIZEN
-
-   Who is he in scarlet?  Is he the headsman?
-
-THIRD CITIZEN
-
-   Nay, he is the Lord Justice.
-
-                                                [_Enter_ GUIDO _guarded_.]
+[_Enter the_ LORD JUSTICE _and the other Judges_.]
 
 SECOND CITIZEN
 
-   There be the prisoner surely.
+Who is he in scarlet?  Is he the headsman?
 
 THIRD CITIZEN
 
-   He looks honest.
+Nay, he is the Lord Justice.
+
+[_Enter_ GUIDO _guarded_.]
+
+SECOND CITIZEN
+
+There be the prisoner surely.
+
+THIRD CITIZEN
+
+He looks honest.
 
 FIRST CITIZEN
 
-   That be his villany: knaves nowadays do look so honest that honest
-   folk are forced to look like knaves so as to be different.
+That be his villany: knaves nowadays do look so honest that honest
+folk are forced to look like knaves so as to be different.
 
-                [_Enter the Headman_, _who takes his stand behind_ GUIDO.]
+[_Enter the Headman_, _who takes his stand behind_ GUIDO.]
 
 SECOND CITIZEN
 
-   Yon be the headsman then!  O Lord!  Is the axe sharp, think you?
+Yon be the headsman then!  O Lord!  Is the axe sharp, think you?
 
 FIRST CITIZEN
 
@@ -3656,58 +3552,53 @@ FIRST CITIZEN
 
 SECOND CITIZEN [_scratching his neck_]
 
-   I’ faith, I like it not so near.
+I’ faith, I like it not so near.
 
 FIRST CITIZEN
 
    Tut, thou need’st not be afraid; they never cut the heads of common
    folk: they do but hang us.
 
-                                                     [_Trumpets outside_.]
+[_Trumpets outside_.]
 
 THIRD CITIZEN
 
-   What are the trumpets for?  Is the trial over?
+What are the trumpets for?  Is the trial over?
 
 FIRST CITIZEN
 
-   Nay, ’tis for the Duchess.
+Nay, ’tis for the Duchess.
 
-[_Enter the_ DUCHESS _in black velvet_; _her train of flowered black
-velvet is carried by two pages in violet_; _with her is the_ CARDINAL _in
-scarlet_, _and the gentlemen of the Court in black_; _she takes her seat
-on the throne above the Judges_, _who rise and take their caps off as she
-enters_; _the_ CARDINAL _sits next to her a little lower_; _the Courtiers
-group themselves about the throne_.]
+[_Enter the_ DUCHESS _in black velvet_; _her train of flowered black velvet is carried by two pages in violet_; _with her is the_ CARDINAL _in scarlet_, _and the gentlemen of the Court in black_; _she takes her seat on the throne above the Judges_, _who rise and take their caps off as she enters_; _the_ CARDINAL _sits next to her a little lower_; _the Courtiers group themselves about the throne_.]
 
 SECOND CITIZEN
 
-   O poor lady, how pale she is!  Will she sit there?
+O poor lady, how pale she is!  Will she sit there?
 
 FIRST CITIZEN
 
-   Ay! she is in the Duke’s place now.
+Ay! she is in the Duke’s place now.
 
 SECOND CITIZEN
 
-   That is a good thing for Padua; the Duchess is a very kind and
-   merciful Duchess; why, she cured my child of the ague once.
+That is a good thing for Padua; the Duchess is a very kind and
+merciful Duchess; why, she cured my child of the ague once.
 
 THIRD CITIZEN
 
-   Ay, and has given us bread: do not forget the bread.
+Ay, and has given us bread: do not forget the bread.
 
 A SOLDIER
 
-   Stand back, good people.
+Stand back, good people.
 
 SECOND CITIZEN
 
-   If we be good, why should we stand back?
+If we be good, why should we stand back?
 
 TIPSTAFF
 
-   Silence in the Court!
+Silence in the Court!
 
 LORD JUSTICE
 
@@ -3719,15 +3610,15 @@ LORD JUSTICE
 
 GUIDO
 
-   It matters not, my lord.
+It matters not, my lord.
 
 LORD JUSTICE
 
-   Guido Ferranti is thy name in Padua.
+Guido Ferranti is thy name in Padua.
 
 GUIDO
 
-   A man may die as well under that name as any other.
+A man may die as well under that name as any other.
 
 LORD JUSTICE
 
@@ -3739,19 +3630,19 @@ LORD JUSTICE
 
 GUIDO
 
-   I say nothing.
+I say nothing.
 
 LORD JUSTICE [_rising_]
 
-   Guido Ferranti—
+Guido Ferranti—
 
 MORANZONE [_stepping from the crowd_]
 
-   Tarry, my Lord Justice.
+Tarry, my Lord Justice.
 
 LORD JUSTICE
 
-   Who art thou that bid’st justice tarry, sir?
+Who art thou that bid’st justice tarry, sir?
 
 MORANZONE
 
@@ -3760,7 +3651,7 @@ MORANZONE
 
 LORD JUSTICE
 
-   Who is this?
+Who is this?
 
 COUNT BARDI
 
@@ -3790,7 +3681,7 @@ MORANZONE [_takes the danger and approaches the_ DUCHESS]
    Saw I not such a dagger
    Hang from your Grace’s girdle yesterday?
 
-             [_The_ DUCHESS _shudders and makes no answer_.]
+[_The_ DUCHESS _shudders and makes no answer_.]
 
    Ah! my Lord Justice, may I speak a moment
    With this young man, who in such peril stands?
@@ -3800,8 +3691,7 @@ LORD JUSTICE
    Ay, willingly, my lord, and may you turn him
    To make a full avowal of his guilt.
 
-[LORD MORANZONE _goes over to_ GUIDO, _who stands R. and clutches him by
-the hand_.]
+[LORD MORANZONE _goes over to_ GUIDO, _who stands R. and clutches him by the hand_.]
 
 MORANZONE [_in a low voice_]
 
@@ -3819,7 +3709,7 @@ GUIDO
 
 LORD JUSTICE
 
-   Doth he confess?
+Doth he confess?
 
 GUIDO
 
@@ -3833,7 +3723,7 @@ FIRST CITIZEN
 
 LORD JUSTICE
 
-   Say you no more?
+Say you no more?
 
 GUIDO
 
@@ -3842,7 +3732,7 @@ GUIDO
 
 SECOND CITIZEN
 
-   Marry, he should tell that to the headsman: ’tis a good sentiment.
+Marry, he should tell that to the headsman: ’tis a good sentiment.
 
 GUIDO
 
@@ -3854,7 +3744,7 @@ GUIDO
 
 LORD JUSTICE
 
-   Thou hast leave to speak.
+Thou hast leave to speak.
 
 DUCHESS [_rising_]
 
@@ -3879,7 +3769,7 @@ DUCHESS [_waiving book aside_]
 
 LORD JUSTICE
 
-   My liege, the law.
+My liege, the law.
 
 DUCHESS
 
@@ -3888,7 +3778,7 @@ DUCHESS
 
 LORD JUSTICE
 
-   The law, my liege.
+The law, my liege.
 
 DUCHESS
 
@@ -3911,7 +3801,7 @@ LORD JUSTICE
 
 COUNT BARDI
 
-   I do not think your Grace can stay the law.
+I do not think your Grace can stay the law.
 
 DUCHESS
 
@@ -3925,7 +3815,7 @@ DUCHESS
 
 COUNT BARDI
 
-   Madam, I think you wrong our nobles here.
+Madam, I think you wrong our nobles here.
 
 DUCHESS
 
@@ -3943,11 +3833,11 @@ DUCHESS
 
 GUIDO
 
-   O God!
+O God!
 
 DUCHESS
 
-   Speak, my Lord Justice.
+Speak, my Lord Justice.
 
 LORD JUSTICE
 
@@ -3982,7 +3872,7 @@ MAFFIO
 
 JEPPO VITELLOZZO
 
-   There is much in this, listen.
+There is much in this, listen.
 
 DUCHESS
 
@@ -4033,7 +3923,7 @@ MORANZONE
    Go, my Lord Justice, search thy conscience well,
    Nor let a man be sent to death unheard.
 
-                               [_Exit the_ LORD JUSTICE _and the Judges_.]
+[_Exit the_ LORD JUSTICE _and the Judges_.]
 
 DUCHESS
 
@@ -4043,15 +3933,15 @@ DUCHESS
 
 GUIDO
 
-   I shall not die till I have uttered voice.
+I shall not die till I have uttered voice.
 
 DUCHESS
 
-   Thou shalt die silent, and thy secret with thee.
+Thou shalt die silent, and thy secret with thee.
 
 GUIDO
 
-   Art thou that Beatrice, Duchess of Padua?
+Art thou that Beatrice, Duchess of Padua?
 
 DUCHESS
 
@@ -4066,7 +3956,7 @@ MAFFIO
 
 JEPPO
 
-   Hush! she may hear thy chatter.
+Hush! she may hear thy chatter.
 
 HEADSMAN
 
@@ -4100,7 +3990,7 @@ GUIDO
 
 DUCHESS
 
-   Thou dost but waste thy time.
+Thou dost but waste thy time.
 
 CARDINAL
 
@@ -4140,23 +4030,23 @@ DUCHESS
 
 GUIDO
 
-   O dear God!
+O dear God!
 
 MORANZONE
 
-   This is the woman, is it, whom you loved?
+This is the woman, is it, whom you loved?
 
 CARDINAL
 
-   Your Grace is very cruel to this man.
+Your Grace is very cruel to this man.
 
 DUCHESS
 
-   No more than he was cruel to her Grace.
+No more than he was cruel to her Grace.
 
 CARDINAL
 
-   Yet mercy is the sovereign right of princes.
+Yet mercy is the sovereign right of princes.
 
 DUCHESS
 
@@ -4169,7 +4059,7 @@ DUCHESS
    Whence all good things have perished utterly:
    I am what he hath made me.
 
-                                                  [_The_ DUCHESS _weeps_.]
+[_The_ DUCHESS _weeps_.]
 
 JEPPO
 
@@ -4183,7 +4073,7 @@ MAFFIO
 
 JEPPO
 
-   What a philosopher thou art, Petrucci!
+What a philosopher thou art, Petrucci!
 
 MAFFIO
 
@@ -4231,7 +4121,7 @@ DUCHESS
    Forgiveness? what is that?  I never got it.
    They come at last: well, my Lord Justice, well.
 
-                                               [_Enter the_ LORD JUSTICE.]
+[_Enter the_ LORD JUSTICE.]
 
 LORD JUSTICE
 
@@ -4242,7 +4132,7 @@ LORD JUSTICE
 
 DUCHESS
 
-   Proceed, sir, without compliment.
+Proceed, sir, without compliment.
 
 LORD JUSTICE
 
@@ -4287,7 +4177,7 @@ LORD JUSTICE
 
 DUCHESS
 
-   Being of my Lord’s household, is he stranger here?
+Being of my Lord’s household, is he stranger here?
 
 LORD JUSTICE
 
@@ -4312,23 +4202,23 @@ FIRST CITIZEN
 
 TIPSTAFF
 
-   Ay! to the gallows, knave.
+Ay! to the gallows, knave.
 
 DUCHESS
 
-   Is this the law?
+Is this the law?
 
 LORD JUSTICE
 
-   It is the law most certainly, my liege.
+It is the law most certainly, my liege.
 
 DUCHESS
 
-   Show me the book: ’tis written in blood-red.
+Show me the book: ’tis written in blood-red.
 
 JEPPO
 
-   Look at the Duchess.
+Look at the Duchess.
 
 DUCHESS
 
@@ -4336,7 +4226,7 @@ DUCHESS
    I would that I could tear thee from the state
    As easy as I tear thee from this book.
 
-                                                   [_Tears out the page_.]
+[_Tears out the page_.]
 
    Come here, Count Bardi: are you honourable?
    Get a horse ready for me at my house,
@@ -4344,7 +4234,7 @@ DUCHESS
 
 BARDI
 
-   To Venice, Madam?
+To Venice, Madam?
 
 DUCHESS
 
@@ -4359,7 +4249,7 @@ DUCHESS
 
 LORD JUSTICE
 
-   Madam, you cannot stay a trial for blood.
+Madam, you cannot stay a trial for blood.
 
 DUCHESS
 
@@ -4390,23 +4280,23 @@ LORD JUSTICE
 
 DUCHESS
 
-   What, wilt thou keep me here against my will?
+What, wilt thou keep me here against my will?
 
 LORD JUSTICE
 
-   We pray thy will be not against the law.
+We pray thy will be not against the law.
 
 DUCHESS
 
-   What if I force my way out of the court?
+What if I force my way out of the court?
 
 LORD JUSTICE
 
-   Thou canst not force the Court to give thee way.
+Thou canst not force the Court to give thee way.
 
 DUCHESS
 
-   I will not tarry.  [_Rises from her seat_.]
+I will not tarry.  [_Rises from her seat_.]
 
 LORD JUSTICE
 
@@ -4414,8 +4304,7 @@ LORD JUSTICE
    Let him stand forth.  [_Usher comes forward_.]
    Thou knowest thy business, sir.
 
-[_The Usher closes the doors of the court_, _which are L._, _and when
-the_ DUCHESS _and her retinue approach_, _kneels down_.]
+[_The Usher closes the doors of the court_, _which are L._, _and when the_ DUCHESS _and her retinue approach_, _kneels down_.]
 
 USHER
 
@@ -4430,7 +4319,7 @@ DUCHESS
 
 MAFFIO [_drawing his sword_]
 
-   Ay! that will I.
+Ay! that will I.
 
 LORD JUSTICE
 
@@ -4445,21 +4334,21 @@ DUCHESS
    Sirs, put up your swords:
    It is most meet that I should hear this man.
 
-                                                  [_Goes back to throne_.]
+[_Goes back to throne_.]
 
 MORANZONE
 
-   Now hast thou got thy enemy in thy hand.
+Now hast thou got thy enemy in thy hand.
 
 LORD JUSTICE [_taking the time-glass up_]
 
-   Guido Ferranti, while the crumbling sand
-   Falls through this time-glass, thou hast leave to speak.
-   This and no more.
+Guido Ferranti, while the crumbling sand
+Falls through this time-glass, thou hast leave to speak.
+This and no more.
 
 GUIDO
 
-   It is enough, my lord.
+It is enough, my lord.
 
 LORD JUSTICE
 
@@ -4474,11 +4363,11 @@ GUIDO
 
 LORD JUSTICE [_turns the time-glass_]
 
-   Let there be silence while the prisoner speaks.
+Let there be silence while the prisoner speaks.
 
 TIPSTAFF
 
-   Silence in the Court there.
+Silence in the Court there.
 
 GUIDO
 
@@ -4505,7 +4394,7 @@ MAFFIO
 
 JEPPO
 
-   I always thought him noble.
+I always thought him noble.
 
 GUIDO
 
@@ -4522,7 +4411,7 @@ GUIDO
    Even as my noble father trusted him;
    That for this thing I waited.
 
-                                                      [_To the Headsman_.]
+[_To the Headsman_.]
 
    Thou man of blood!
    Turn not thine axe on me before the time:
@@ -4557,7 +4446,7 @@ GUIDO
 
 DUCHESS [_rising from her seat_]
 
-   Oh!
+Oh!
 
 GUIDO [_hurriedly_]
 
@@ -4571,40 +4460,32 @@ LORD JUSTICE
    Thy boon is granted, thou shalt die to-night.
    Lead him away.  Come, Madam
 
-[GUIDO _is led off_; _as he goes the_ DUCHESS _stretches out her arms and
-rushes down the stage_.]
+[GUIDO _is led off_; _as he goes the_ DUCHESS _stretches out her arms and rushes down the stage_.]
 
 DUCHESS
 
-   Guido!  Guido!
+Guido!  Guido!
 
-                                                               [_Faints_.]
+[_Faints_.]
 
-                                _Tableau_
+_Tableau_
 
-                               END OF ACT IV.
+END OF ACT IV.
 
-                                  * * * * *
-
-
+* * * * *
 
 
 ACT V
 
 
-                                  SCENE
+SCENE
 
-_A dungeon in the public prison of Padua_; _Guido lies asleep on a
-pallet_ (_L.C._); _a table with a goblet on it is set_ (_L.C._); _five
-soldiers are drinking and playing dice in the corner on a stone table_;
-_one of them has a lantern hung to his halbert_; _a torch is set in the
-wall over Guido’s head_.  _Two grated windows behind_, _one on each side
-of the door which is_ (_C._), _look out into the passage_; _the stage is
+_A dungeon in the public prison of Padua_; _Guido lies asleep on a pallet_ (_L.C._); _a table with a goblet on it is set_ (_L.C._); _five soldiers are drinking and playing dice in the corner on a stone table_; _one of them has a lantern hung to his halbert_; _a torch is set in the wall over Guido’s head_.  _Two grated windows behind_, _one on each side of the door which is_ (_C._), _look out into the passage_; _the stage is
 rather dark_.
 
 FIRST SOLDIER [_throws dice_]
 
-   Sixes again! good Pietro.
+Sixes again! good Pietro.
 
 SECOND SOLDIER
 
@@ -4613,32 +4494,32 @@ SECOND SOLDIER
 
 THIRD SOLDIER
 
-   Except thy wits; thou art safe there!
+Except thy wits; thou art safe there!
 
 SECOND SOLDIER
 
-   Ay, ay, he cannot take them from me.
+Ay, ay, he cannot take them from me.
 
 THIRD SOLDIER
 
-   No; for thou hast no wits to give him.
+No; for thou hast no wits to give him.
 
 THE SOLDIERS [_loudly_]
 
-   Ha! ha! ha!
+Ha! ha! ha!
 
 FIRST SOLDIER
 
-   Silence!  You will wake the prisoner; he is asleep.
+Silence!  You will wake the prisoner; he is asleep.
 
 SECOND SOLDIER
 
-   What matter?  He will get sleep enough when he is buried.  I warrant
-   he’d be glad if we could wake him when he’s in the grave.
+What matter?  He will get sleep enough when he is buried.  I warrant
+he’d be glad if we could wake him when he’s in the grave.
 
 THIRD SOLDIER
 
-   Nay! for when he wakes there it will be judgment day.
+Nay! for when he wakes there it will be judgment day.
 
 SECOND SOLDIER
 
@@ -4648,52 +4529,52 @@ SECOND SOLDIER
 
 FIRST SOLDIER
 
-   Well, well, he was a wicked Duke.
+Well, well, he was a wicked Duke.
 
 SECOND SOLDIER
 
-   And so he should not have touched him; if one meddles with wicked
-   people, one is like to be tainted with their wickedness.
+And so he should not have touched him; if one meddles with wicked
+people, one is like to be tainted with their wickedness.
 
 THIRD SOLDIER
 
-   Ay, that is true.  How old is the prisoner?
+Ay, that is true.  How old is the prisoner?
 
 SECOND SOLDIER
 
-   Old enough to do wrong, and not old enough to be wise.
+Old enough to do wrong, and not old enough to be wise.
 
 FIRST SOLDIER
 
-   Why, then, he might be any age.
+Why, then, he might be any age.
 
 SECOND SOLDIER
 
-   They say the Duchess wanted to pardon him.
+They say the Duchess wanted to pardon him.
 
 FIRST SOLDIER
 
-   Is that so?
+Is that so?
 
 SECOND SOLDIER
 
-   Ay, and did much entreat the Lord Justice, but he would not.
+Ay, and did much entreat the Lord Justice, but he would not.
 
 FIRST SOLDIER
 
-   I had thought, Pietro, that the Duchess was omnipotent.
+I had thought, Pietro, that the Duchess was omnipotent.
 
 SECOND SOLDIER
 
-   True, she is well-favoured; I know none so comely.
+True, she is well-favoured; I know none so comely.
 
 THE SOLDIERS
 
-   Ha! ha! ha!
+Ha! ha! ha!
 
 FIRST SOLDIER
 
-   I meant I had thought our Duchess could do anything.
+I meant I had thought our Duchess could do anything.
 
 SECOND SOLDIER
 
@@ -4710,31 +4591,31 @@ FIRST SOLDIER
 
 THIRD SOLDIER
 
-   And if he does not drink it?
+And if he does not drink it?
 
 FIRST SOLDIER
 
-   Why, then, they will kill him.
+Why, then, they will kill him.
 
-                                           [_Knocking comes at the door_.]
+[_Knocking comes at the door_.]
 
 FIRST SOLDIER
 
-   See who that is.
+See who that is.
 
-        [_Third Soldier goes over and looks through the wicket_.]
+[_Third Soldier goes over and looks through the wicket_.]
 
 THIRD SOLDIER
 
-   It is a woman, sir.
+It is a woman, sir.
 
 FIRST SOLDIER
 
-   Is she pretty?
+Is she pretty?
 
 THIRD SOLDIER
 
-   I can’t tell.  She is masked, lieutenant.
+I can’t tell.  She is masked, lieutenant.
 
 FIRST SOLDIER
 
@@ -4746,15 +4627,15 @@ FIRST SOLDIER
 
 DUCHESS [_to Third Soldier_]
 
-   Are you the officer on guard?
+Are you the officer on guard?
 
 FIRST SOLDIER [_coming forward_]
 
-   I am, madam.
+I am, madam.
 
 DUCHESS
 
-   I must see the prisoner alone.
+I must see the prisoner alone.
 
 FIRST SOLDIER
 
@@ -4762,15 +4643,15 @@ FIRST SOLDIER
    _he looks at and returns it to her with a bow and makes a sign to the
    Soldiers_.]  Stand without there.
 
-                                                  [_Exeunt the Soldiers_.]
+[_Exeunt the Soldiers_.]
 
 DUCHESS
 
-   Officer, your men are somewhat rough.
+Officer, your men are somewhat rough.
 
 FIRST SOLDIER
 
-   They mean no harm.
+They mean no harm.
 
 DUCHESS
 
@@ -4779,11 +4660,11 @@ DUCHESS
 
 FIRST SOLDIER
 
-   You need not be afraid, madam.
+You need not be afraid, madam.
 
 DUCHESS
 
-   I have a particular reason for wishing my face not to be seen.
+I have a particular reason for wishing my face not to be seen.
 
 FIRST SOLDIER
 
@@ -4803,22 +4684,22 @@ FIRST SOLDIER
 
 DUCHESS
 
-   Is that poison?
+Is that poison?
 
 FIRST SOLDIER
 
-   Ay, madam, and very sure poison too.
+Ay, madam, and very sure poison too.
 
 DUCHESS
 
-   You may go, sir.
+You may go, sir.
 
 FIRST SOLDIER
 
    By Saint James, a pretty hand!  I wonder who she is.  Some woman who
    loved him, perhaps.
 
-                                                                 [_Exit_.]
+[_Exit_.]
 
 DUCHESS [_taking her mark off_]
 
@@ -4831,13 +4712,13 @@ DUCHESS [_taking her mark off_]
    He has the right.  It is eleven now;
    They will not come till twelve.
 
-                                               [_Goes over to the table_.]
+[_Goes over to the table_.]
 
    So this is poison.
    Is it not strange that in this liquor here
    There lies the key to all philosophies?
 
-                                                     [_Takes the cup up_.]
+[_Takes the cup up_.]
 
    It smells of poppies.  I remember well
    That, when I was a child in Sicily,
@@ -4852,7 +4733,7 @@ DUCHESS [_taking her mark off_]
    What of the soul? that goes to heaven or hell.
    Where will mine go?
 
-      [_Takes the torch from the wall_, _and goes over to the bed_.]
+[_Takes the torch from the wall_, _and goes over to the bed_.]
 
    How peacefully here he sleeps,
    Like a young schoolboy tired out with play:
@@ -4869,7 +4750,7 @@ DUCHESS [_taking her mark off_]
    O God! how I have loved you,
    And what a bloody flower did Love bear!
 
-                                              [_Comes back to the table_.]
+[_Comes back to the table_.]
 
    What if I drank these juices, and so ceased?
    Were it not better than to wait till Death
@@ -4888,18 +4769,16 @@ DUCHESS [_taking her mark off_]
    That is not strange; we women never know
    Our lovers till they leave us.
 
-                                                  [_Bell begins to toll_.]
+[_Bell begins to toll_.]
 
-   Thou vile bell,
-   That like a bloodhound from thy brazen throat
-   Call’st for this man’s life, cease! thou shalt not get it.
+Thou vile bell,
+That like a bloodhound from thy brazen throat
+Call’st for this man’s life, cease! thou shalt not get it.
    He stirs—I must be quick:  [_Takes up cup_.]
    O Love, Love, Love,
    I did not think that I would pledge thee thus!
 
-[_Drinks poison_, _and sets the cup down on the table behind her_: _the
-noise wakens_ GUIDO, _who starts up_, _and does not see what she has
-done_.  _There is silence for a minute_, _each looking at the other_.]
+[_Drinks poison_, _and sets the cup down on the table behind her_: _the noise wakens_ GUIDO, _who starts up_, _and does not see what she has done_.  _There is silence for a minute_, _each looking at the other_.]
 
    I do not come to ask your pardon now,
    Seeing I know I stand beyond all pardon;
@@ -4941,27 +4820,27 @@ done_.  _There is silence for a minute_, _each looking at the other_.]
 
 GUIDO [_takes ring and kisses it_]
 
-   Ay! gladly, Madam.
+Ay! gladly, Madam.
 
 DUCHESS
 
-   And leave Padua.
+And leave Padua.
 
 GUIDO
 
-   Leave Padua.
+Leave Padua.
 
 DUCHESS
 
-   But it must be to-night.
+But it must be to-night.
 
 GUIDO
 
-   To-night it shall be.
+To-night it shall be.
 
 DUCHESS
 
-   Oh, thank God for that!
+Oh, thank God for that!
 
 GUIDO
 
@@ -4980,19 +4859,19 @@ DUCHESS
 
 GUIDO
 
-   Ay! he will come soon enough.
+Ay! he will come soon enough.
 
 DUCHESS
 
-   Who?
+Who?
 
 GUIDO [_calmly_]
 
-   Why, the headsman.
+Why, the headsman.
 
 DUCHESS
 
-   No, no.
+No, no.
 
 GUIDO
 
@@ -5011,7 +4890,7 @@ DUCHESS
 
 GUIDO
 
-   Madam, I wait.
+Madam, I wait.
 
 DUCHESS
 
@@ -5027,7 +4906,7 @@ DUCHESS
 
 GUIDO
 
-   Madam, I tarry here.
+Madam, I tarry here.
 
 DUCHESS
 
@@ -5040,7 +4919,7 @@ DUCHESS
 
 GUIDO
 
-   Be sure I shall not stir.
+Be sure I shall not stir.
 
 DUCHESS [_wringing her hands_]
 
@@ -5075,7 +4954,7 @@ GUIDO
 
 DUCHESS
 
-   Alas!
+Alas!
 
 GUIDO [_falling at her feet_]
 
@@ -5089,7 +4968,7 @@ GUIDO [_falling at her feet_]
    And though they give my body to the block,
    Yet is my love eternal!
 
-    [DUCHESS _puts her hands over her face_: GUIDO _draws them down_.]
+[DUCHESS _puts her hands over her face_: GUIDO _draws them down_.]
 
    Sweet, lift up
    The trailing curtains that overhang your eyes
@@ -5169,7 +5048,7 @@ GUIDO
    Who has no mercy for your stricken head,
    Lack mercy up in heaven!  Kiss me, sweet.
 
-                                                    [_Tries to kiss her_.]
+[_Tries to kiss her_.]
 
 DUCHESS
 
@@ -5189,11 +5068,11 @@ DUCHESS
 
 GUIDO [_aside_]
 
-   That is the signal for the guard to come.
+That is the signal for the guard to come.
 
 DUCHESS
 
-   Why has the bell stopped ringing?
+Why has the bell stopped ringing?
 
 GUIDO
 
@@ -5207,29 +5086,27 @@ DUCHESS
    The horse is by the bridge, there is still time.
    Away, away, you must not tarry here!
 
-                                     [_Noise of Soldiers in the passage_.]
+[_Noise of Soldiers in the passage_.]
 
 A VOICE OUTSIDE
 
-   Room for the Lord Justice of Padua!
+Room for the Lord Justice of Padua!
 
-[_The_ LORD JUSTICE _is seen through the grated window passing down the
-corridor preceded by men bearing torches_.]
+[_The_ LORD JUSTICE _is seen through the grated window passing down the corridor preceded by men bearing torches_.]
 
 DUCHESS
 
-   It is too late.
+It is too late.
 
 A VOICE OUTSIDE
 
-   Room for the headsman.
+Room for the headsman.
 
 DUCHESS [_sinks down_]
 
-   Oh!
+Oh!
 
-[_The Headsman with his axe on his shoulder is seen passing the
-corridor_, _followed by Monks bearing candles_.]
+[_The Headsman with his axe on his shoulder is seen passing the corridor_, _followed by Monks bearing candles_.]
 
 GUIDO
 
@@ -5239,18 +5116,18 @@ GUIDO
    But here,
    Here in thine arms, kissing thy mouth: farewell!
 
-                            [_Goes to the table and takes the goblet up_.]
+[_Goes to the table and takes the goblet up_.]
 
-   What, art thou empty?
+What, art thou empty?
 
-                                              [_Throws it to the ground_.]
+[_Throws it to the ground_.]
 
    O thou churlish gaoler,
    Even of poisons niggard!
 
 DUCHESS [_faintly_]
 
-   Blame him not.
+Blame him not.
 
 GUIDO
 
@@ -5270,7 +5147,7 @@ GUIDO
 
 DUCHESS
 
-   No, no, it held but death enough for one.
+No, no, it held but death enough for one.
 
 GUIDO
 
@@ -5298,11 +5175,11 @@ DUCHESS
 
 GUIDO
 
-   I love you only.
+I love you only.
 
 DUCHESS
 
-   You need not die for that.
+You need not die for that.
 
 GUIDO
 
@@ -5311,11 +5188,11 @@ GUIDO
 
 DUCHESS
 
-   A grave is but a narrow wedding-bed.
+A grave is but a narrow wedding-bed.
 
 GUIDO
 
-   It is enough for us
+It is enough for us
 
 DUCHESS
 
@@ -5353,7 +5230,7 @@ DUCHESS
    Stand between me and the angel of death,
    And wrestle with him for me.
 
-    [_Thrusts_ GUIDO _in front of her with his back to the audience_.]
+[_Thrusts_ GUIDO _in front of her with his back to the audience_.]
 
    I will kiss you,
    When you have thrown him.  Oh, have you no cordial,
@@ -5364,7 +5241,7 @@ DUCHESS
 
 GUIDO
 
-   O God!
+O God!
 
 DUCHESS
 
@@ -5374,7 +5251,7 @@ DUCHESS
 
 GUIDO
 
-   O Love!
+O Love!
 
 DUCHESS
 
@@ -5405,7 +5282,7 @@ DUCHESS
    We should be on our way to Venice now.
    How cold the night is!  We must ride faster.
 
-                                     [_The Monks begin to chant outside_.]
+[_The Monks begin to chant outside_.]
 
    Music!  It should be merrier; but grief
    Is of the fashion now—I know not why.
@@ -5484,392 +5361,15 @@ DUCHESS
    Perchance my sin will be forgiven me.
    I have loved much
 
-[_They kiss each other now for the first time in this Act_, _when
-suddenly the_ DUCHESS _leaps up in the dreadful spasm of death_, _tears
-in agony at her dress_, _and finally_, _with face twisted and distorted
-with pain_, _falls back dead in a chair_.  GUIDO _seizing her dagger from
-her belt_, _kills himself_; _and_, _as he falls across her knees_,
-_clutches at the cloak which is on the back of the chair_, _and throws it
-entirely over her_.  _There is a little pause_.  _Then down the passage
-comes the tramp of Soldiers_; _the door is opened_, _and the_ LORD
-JUSTICE, _the Headsman_, _and the Guard enter and see this figure
-shrouded in black_, _and_ GUIDO _lying dead across her_.  _The_ LORD
-JUSTICE _rushes forward and drags the cloak off the_ DUCHESS, _whose face
-is now the marble image of peace_, _the sign of God’s forgiveness_.]
+[_They kiss each other now for the first time in this Act_, _when suddenly the_ DUCHESS _leaps up in the dreadful spasm of death_, _tears in agony at her dress_, _and finally_, _with face twisted and distorted with pain_, _falls back dead in a chair_.  GUIDO _seizing her dagger from her belt_, _kills himself_; _and_, _as he falls across her knees_, _clutches at the cloak which is on the back of the chair_, _and throws it entirely over her_.  _There is a little pause_.  _Then down the passage comes the tramp of Soldiers_; _the door is opened_, _and the_ LORD JUSTICE, _the Headsman_, _and the Guard enter and see this figure shrouded in black_, _and_ GUIDO _lying dead across her_.  _The_ LORD JUSTICE _rushes forward and drags the cloak off the_ DUCHESS, _whose face is now the marble image of peace_, _the sign of God’s forgiveness_.]
 
-                                _Tableau_
+_Tableau_
 
-                                 CURTAIN
+CURTAIN
 
-                                * * * * *
+* * * * *
 
          Printed by T. and A. CONSTABLE, Printers to His Majesty
                     at the Edinburgh University Press
 
                                 * * * * *
-
-
-
-
-***END OF THE PROJECT GUTENBERG EBOOK THE DUCHESS OF PADUA***
-
-
-******* This file should be named 875-0.txt or 875-0.zip *******
-
-
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/8/7/875
-
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org 
-
-Section 3. Information about the Project Gutenberg Literary 
-Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-

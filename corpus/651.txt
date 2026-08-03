@@ -1,47 +1,11 @@
-﻿The Project Gutenberg eBook, Phantasmagoria, by Lewis Carroll, Illustrated
-by Arthur B. Frost
-
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-
-
-
-Title: Phantasmagoria
-       and Other Poems
-
-
-Author: Lewis Carroll
-
-
-
-Release Date: March 28, 2013  [eBook #651]
-[This file was first posted on September 17, 1996]
-
-Language: English
-
-Character set encoding: UTF-8
-
-
-***START OF THE PROJECT GUTENBERG EBOOK PHANTASMAGORIA***
-
-
-Transcribed from the 1911 Macmillan and Co. edition by David Price, email
 ccx074@pglaf.org
-
-
-
 
 
                               PHANTASMAGORIA
                              AND OTHER POEMS
 
 
-                                * * * * *
+* * * * *
 
                                     BY
                               LEWIS CARROLL
@@ -56,17 +20,16 @@ ccx074@pglaf.org
 
                         MACMILLAN AND CO., LIMITED
                        ST. MARTIN’S STREET, LONDON
-                                   1911
 
                                 * * * * *
 
                       RICHARD CLAY AND SONS, LIMITED
-                 BRUNSWICK STREET, STAMFORD STREET, S.E.,
-                           AND BUNGAY, SUFFOLK.
+BRUNSWICK STREET, STAMFORD STREET, S.E.,
+AND BUNGAY, SUFFOLK.
 
-                        _First published in_ 1869.
+_First published in_ 1869.
 
-                                * * * * *
+* * * * *
 
                         Inscribed to a dear Child:
                      in memory of golden summer hours
@@ -95,12 +58,9 @@ ccx074@pglaf.org
             Yet haunt my dreaming gaze.
 
 
-
-
 CONTENTS
 
-                                PAGE
-PHANTASMAGORIA, in Seven Cantos:—
+PAGE PHANTASMAGORIA, in Seven Cantos:—
      I.  The Trystyng              1
     II.  Hys Fyve Rules           10
    III.  Scarmoges                18
@@ -128,13 +88,10 @@ FOUR RIDDLES                     152
 FAME’S PENNY-TRUMPET             163
 
 
-
-
 PHANTASMAGORIA
 
 
-CANTO I
-The Trystyng
+CANTO I The Trystyng
 
 
    ONE winter night, at half-past nine,
@@ -155,7 +112,7 @@ The Trystyng
    That’s a most inconsiderate plan.
          Less noise there, if you please!”
 
-                  [Picture: The Thing standing by chair]
+[Picture: The Thing standing by chair]
 
    “I’ve caught a cold,” the Thing replies,
          “Out there upon the landing.”
@@ -253,7 +210,7 @@ The Trystyng
    At having found a Man at last,
          And looked so scared and yellow.
 
-                 [Picture: In caverns by the water-side]
+[Picture: In caverns by the water-side]
 
    “At least,” I said, “I’m glad to find
          A Ghost is not a _dumb_ thing!
@@ -288,9 +245,7 @@ The Trystyng
                        [Picture: The Phantom dines]
 
 
-
-CANTO II
-Hys Fyve Rules
+CANTO II Hys Fyve Rules
 
 
    “MY First—but don’t suppose,” he said,
@@ -341,7 +296,7 @@ Hys Fyve Rules
    And swing yourself from side to side—
          One soon learns how to do it.
 
-             [Picture: And swing yourself from side to side]
+[Picture: And swing yourself from side to side]
 
    “The Second tells us what is right
          In ceremonious calls:—
@@ -373,7 +328,7 @@ Hys Fyve Rules
    The Man that fails to treat his guest
          With proper cordiality.
 
-            [Picture: And then you’re sure to catch it . . .]
+[Picture: And then you’re sure to catch it . . .]
 
    “If you address a Ghost as ‘Thing!’
          Or strike him with a hatchet,
@@ -411,12 +366,10 @@ Hys Fyve Rules
    We’ll try a glass of bitter beer—
          I think it looks inviting.”
 
-               [Picture: We’ll try a glass of bitter beer]
+[Picture: We’ll try a glass of bitter beer]
 
 
-
-CANTO III
-Scarmoges
+CANTO III Scarmoges
 
 
    “AND did you really walk,” said I,
@@ -469,7 +422,7 @@ Scarmoges
    And here it took the form of _thirst_,
          Which he complains of still.
 
-              [Picture: And here it took the form of thirst]
+[Picture: And here it took the form of thirst]
 
    “Port-wine, he says, when rich and sound,
          Warms his old bones like nectar:
@@ -562,9 +515,7 @@ Scarmoges
          As if I were a child.
 
 
-
-CANTO IV
-Hys Nouryture
+CANTO IV Hys Nouryture
 
 
    “OH, when I was a little Ghost,
@@ -573,7 +524,7 @@ Hys Nouryture
    We chumped and chawed the buttered toast
          They gave us for our tea.”
 
-           [Picture: We chumped and chawed the buttered toast]
+[Picture: We chumped and chawed the buttered toast]
 
    “That story is in print!” I cried.
          “Don’t say it’s not, because
@@ -723,9 +674,7 @@ Hys Nouryture
          And find yourself in Bogies!”
 
 
-
-CANTO V
-Byckerment
+CANTO V Byckerment
 
 
    “DON’T they consult the ‘Victims,’ though?”
@@ -776,7 +725,7 @@ Byckerment
    As tell me what is understood
          Exactly by that word?”
 
-                 [Picture: The wainscotings begin to go]
+[Picture: The wainscotings begin to go]
 
    “It means the loosening all the doors,”
          The Ghost replied, and laughed:
@@ -832,7 +781,7 @@ Byckerment
    We used to call him years ago,
          _The Mayor and Corporation_!
 
-                [Picture: He goes about and sits on folk]
+[Picture: He goes about and sits on folk]
 
    “The day he was elected Mayor
          I _know_ that every Sprite meant
@@ -872,7 +821,7 @@ Byckerment
    But—when you call it _argument_—
          Of course you’re only joking?”
 
-                 [Picture: The phantom sitting on chair]
+[Picture: The phantom sitting on chair]
 
    Stung by his cold and snaky eye,
          I roused myself at length
@@ -887,9 +836,7 @@ Byckerment
          But _onions_ are a weakness.”
 
 
-
-CANTO VI
-Dyscomfyture
+CANTO VI Dyscomfyture
 
 
    AS one who strives a hill to climb,
@@ -953,7 +900,7 @@ Dyscomfyture
    Scorched both his slippers off his feet!”
          I said “_That’s very curious_!”
 
-            [Picture: Scorched both his slippers off his feet]
+[Picture: Scorched both his slippers off his feet]
 
    “Well, it _is_ curious, I agree,
          And sounds perhaps like fibs:
@@ -985,7 +932,7 @@ Dyscomfyture
    That’s got no more discretion than
          An idiotic goose?
 
-            [Picture: To walk four miles through mud and rain]
+[Picture: To walk four miles through mud and rain]
 
    “To keep me waiting here, instead
          Of telling me at once
@@ -1044,12 +991,10 @@ Dyscomfyture
                            [Picture: The ghost]
 
 
-
-CANTO VII
-Sad Souvenaunce
+CANTO VII Sad Souvenaunce
 
 
-                  [Picture: Or can I have been drinking]
+[Picture: Or can I have been drinking]
 
    “WHAT’S this?” I pondered.  “Have I slept?
          Or can I have been drinking?”
@@ -1075,7 +1020,7 @@ Sad Souvenaunce
    _I_ prophesy there’ll be a row,
          And Tibbs will have the best of it!”
 
-              [Picture: And Tibbs will have the best of it]
+[Picture: And Tibbs will have the best of it]
 
    Then, as my tears could never bring
          The friendly Phantom back,
@@ -1116,34 +1061,30 @@ Sad Souvenaunce
                            [Picture: The ghost]
 
 
-
-
 ECHOES
 
 
-         LADY Clara Vere de Vere
-         Was eight years old, she said:
-   Every ringlet, lightly shaken, ran itself in golden thread.
+LADY Clara Vere de Vere
+Was eight years old, she said:
+Every ringlet, lightly shaken, ran itself in golden thread.
 
-         She took her little porringer:
-         Of me she shall not win renown:
-   For the baseness of its nature shall have strength to drag her down.
+She took her little porringer:
+Of me she shall not win renown:
+For the baseness of its nature shall have strength to drag her down.
 
-         “Sisters and brothers, little Maid?
-         There stands the Inspector at thy door:
-   Like a dog, he hunts for boys who know not two and two are four.”
+“Sisters and brothers, little Maid?
+There stands the Inspector at thy door:
+Like a dog, he hunts for boys who know not two and two are four.”
 
-         “Kind words are more than coronets,”
-         She said, and wondering looked at me:
-   “It is the dead unhappy night, and I must hurry home to tea.”
-
-
+“Kind words are more than coronets,”
+She said, and wondering looked at me:
+“It is the dead unhappy night, and I must hurry home to tea.”
 
 
 A SEA DIRGE
 
 
-                  [Picture: The sea, beach and children]
+[Picture: The sea, beach and children]
 
    THERE are certain things—as, a spider, a ghost,
       The income-tax, gout, an umbrella for three—
@@ -1207,9 +1148,7 @@ A SEA DIRGE
    As I heavily slip into every pool
       That skirts the cold cold Sea.
 
-                [Picture: As I heavily slip into every pool]
-
-
+[Picture: As I heavily slip into every pool]
 
 
 Ye Carpette Knyghte
@@ -1239,18 +1178,10 @@ Ye Carpette Knyghte
                         [Picture: I have a horse]
 
 
-
-
 HIAWATHA’S PHOTOGRAPHING
 
 
-[In an age of imitation, I can claim no special merit for this slight
-attempt at doing what is known to be so easy.  Any fairly practised
-writer, with the slightest ear for rhythm, could compose, for hours
-together, in the easy running metre of ‘The Song of Hiawatha.’  Having,
-then, distinctly stated that I challenge no attention in the following
-little poem to its merely verbal jingle, I must beg the candid reader to
-confine his criticism to its treatment of the subject.]
+[In an age of imitation, I can claim no special merit for this slight attempt at doing what is known to be so easy.  Any fairly practised writer, with the slightest ear for rhythm, could compose, for hours together, in the easy running metre of ‘The Song of Hiawatha.’  Having, then, distinctly stated that I challenge no attention in the following little poem to its merely verbal jingle, I must beg the candid reader to confine his criticism to its treatment of the subject.]
 
    FROM his shoulder Hiawatha
    Took the camera of rosewood,
@@ -1293,7 +1224,7 @@ confine his criticism to its treatment of the subject.]
    Failed, because he moved a little,
    Moved, because he couldn’t help it.
 
-                [Picture: First the Governor, the Father]
+[Picture: First the Governor, the Father]
 
       Next, his better half took courage;
    _She_ would have her picture taken.
@@ -1313,7 +1244,7 @@ confine his criticism to its treatment of the subject.]
    Will it came into the picture?”
    And the picture failed completely.
 
-               [Picture: Next the Son, the Stunning-Cantab]
+[Picture: Next the Son, the Stunning-Cantab]
 
       Next the Son, the Stunning-Cantab:
    He suggested curves of beauty,
@@ -1331,7 +1262,7 @@ confine his criticism to its treatment of the subject.]
    All was fruitless, as the picture
    Ended in an utter failure.
 
-                [Picture: Next to him the eldest daughter]
+[Picture: Next to him the eldest daughter]
 
       Next to him the eldest daughter:
    She suggested very little,
@@ -1353,7 +1284,7 @@ confine his criticism to its treatment of the subject.]
    As the picture failed completely.
       So in turn the other sisters.
 
-               [Picture: Last, the youngest son was taken]
+[Picture: Last, the youngest son was taken]
 
       Last, the youngest son was taken:
    Very rough and thick his hair was,
@@ -1411,8 +1342,6 @@ confine his criticism to its treatment of the subject.]
    Thus departed Hiawatha.
 
                     [Picture: Thus departed Hiawatha]
-
-
 
 
 MELANCHOLETTA
@@ -1514,13 +1443,10 @@ MELANCHOLETTA
                      [Picture: Sighing at the table]
 
 
-
-
 A VALENTINE
 
 
-[Sent to a friend who had complained that I was glad enough to see him
-when he came, but didn’t seem to miss him if he stayed away.]
+[Sent to a friend who had complained that I was glad enough to see him when he came, but didn’t seem to miss him if he stayed away.]
 
    And cannot pleasures, while they last,
    Be actual unless, when past,
@@ -1572,8 +1498,6 @@ when he came, but didn’t seem to miss him if he stayed away.]
          Of wasting sorrow.
 
 
-
-
 THE THREE VOICES
 
 
@@ -1584,7 +1508,7 @@ The First Voice
    He laughed aloud for very glee:
    There came a breeze from off the sea:
 
-             [Picture: There came a breeze from off the sea]
+[Picture: There came a breeze from off the sea]
 
    It passed athwart the glooming flat—
    It fanned his forehead as he sat—
@@ -1610,7 +1534,7 @@ The First Voice
    And it had cost him four-and-nine,
    And he was going out to dine.
 
-                 [Picture: Unerringly she pinned it down]
+[Picture: Unerringly she pinned it down]
 
    “To dine!” she sneered in acid tone.
    “To bend thy being to a bone
@@ -1684,7 +1608,7 @@ The First Voice
    “Each heart with each doth coincide.
    What boots it?  For the world is wide.”
 
-               [Picture: He faltered “Gifts may pass away”]
+[Picture: He faltered “Gifts may pass away”]
 
    “The world is but a Thought,” said he:
    “The vast unfathomable sea
@@ -1710,7 +1634,7 @@ The First Voice
    He felt his very whiskers glow,
    And frankly owned “I do not know.”
 
-                 [Picture: This is harder than Bezique!]
+[Picture: This is harder than Bezique!]
 
    While, like broad waves of golden grain,
    Or sunlit hues on cloistered pane,
@@ -1748,14 +1672,13 @@ The First Voice
    Yet gradually one might trace
    A shadow growing on his face.
 
-                 [Picture: A shadow growing on his face]
-
+[Picture: A shadow growing on his face]
 
 
 The Second Voice
 
 
-            [Picture: They walked beside the wave-worn beach]
+[Picture: They walked beside the wave-worn beach]
 
    They walked beside the wave-worn beach;
    Her tongue was very apt to teach,
@@ -1813,7 +1736,7 @@ The Second Voice
    His speech, half guessed at and half heard,
    As might a cat a little bird.
 
-             [Picture: He spake, neglecting Sound and Sense]
+[Picture: He spake, neglecting Sound and Sense]
 
    Then, having wholly overthrown
    His views, and stripped them to the bone,
@@ -1913,7 +1836,7 @@ The Second Voice
    He sat and watched the coming tide
    Across the shores so newly dried.
 
-              [Picture: He sat and watched the coming tide]
+[Picture: He sat and watched the coming tide]
 
    He wondered at the waters clear,
    The breeze that whispered in his ear,
@@ -1926,11 +1849,10 @@ The Second Voice
                             [Picture: He sits]
 
 
-
 The Third Voice
 
 
-            [Picture: Quick tears were raining down his face]
+[Picture: Quick tears were raining down his face]
 
    Not long this transport held its place:
    Within a little moment’s space
@@ -2014,7 +1936,7 @@ The Third Voice
    Smiled grimly on the solemn fun,
    “Alack,” he sighed, “what _have_ I done?”
 
-                 [Picture: Tortured, unaided, and alone]
+[Picture: Tortured, unaided, and alone]
 
    But saddest, darkest was the sight,
    When the cold grasp of leaden Night
@@ -2040,7 +1962,7 @@ The Third Voice
    “Her fate with thine was intertwined,”
    So spake it in his inner mind:
 
-                [Picture: a scared dullard, gibbering low]
+[Picture: a scared dullard, gibbering low]
 
    “Each orbed on each a baleful star:
    Each proved the other’s blight and bar:
@@ -2051,28 +1973,12 @@ The Third Voice
    AND SHE, AN AVALANCHE OF WOE!”
 
 
-
-
 TÈMA CON VARIAZIÒNI
 
 
-[Why is it that Poetry has never yet been subjected to that process of
-Dilution which has proved so advantageous to her sister-art Music?  The
-Diluter gives us first a few notes of some well-known Air, then a dozen
-bars of his own, then a few more notes of the Air, and so on alternately:
-thus saving the listener, if not from all risk of recognising the melody
-at all, at least from the too-exciting transports which it might produce
-in a more concentrated form.  The process is termed “setting” by
-Composers, and any one, that has ever experienced the emotion of being
-unexpectedly set down in a heap of mortar, will recognise the
-truthfulness of this happy phrase.
+[Why is it that Poetry has never yet been subjected to that process of Dilution which has proved so advantageous to her sister-art Music?  The Diluter gives us first a few notes of some well-known Air, then a dozen bars of his own, then a few more notes of the Air, and so on alternately: thus saving the listener, if not from all risk of recognising the melody at all, at least from the too-exciting transports which it might produce in a more concentrated form.  The process is termed “setting” by Composers, and any one, that has ever experienced the emotion of being unexpectedly set down in a heap of mortar, will recognise the truthfulness of this happy phrase.
 
-For truly, just as the genuine Epicure lingers lovingly over a morsel of
-supreme Venison—whose every fibre seems to murmur “Excelsior!”—yet
-swallows, ere returning to the toothsome dainty, great mouthfuls of
-oatmeal-porridge and winkles: and just as the perfect Connoisseur in
-Claret permits himself but one delicate sip, and then tosses off a pint
-or more of boarding-school beer: so also—
+For truly, just as the genuine Epicure lingers lovingly over a morsel of supreme Venison—whose every fibre seems to murmur “Excelsior!”—yet swallows, ere returning to the toothsome dainty, great mouthfuls of oatmeal-porridge and winkles: and just as the perfect Connoisseur in Claret permits himself but one delicate sip, and then tosses off a pint or more of boarding-school beer: so also—
 
    I NEVER loved a dear Gazelle—
       _Nor anything that cost me much_:
@@ -2095,12 +2001,10 @@ or more of boarding-school beer: so also—
       _The still triumphant carrot through_.
 
 
-
-
 A GAME OF FIVES
 
 
-                       [Picture: Five little girls]
+[Picture: Five little girls]
 
    FIVE little girls, of Five, Four, Three, Two, One:
    Rolling on the hearthrug, full of tricks and fun.
@@ -2133,12 +2037,10 @@ A GAME OF FIVES
    The answer to that ancient problem “how the money goes”!
 
 
-
-
 POETA FIT, NON NASCITUR
 
 
-                    [Picture: Child on old man’s knee]
+[Picture: Child on old man’s knee]
 
    “How shall I be a poet?
       How shall I write in rhyme?
@@ -2203,7 +2105,7 @@ POETA FIT, NON NASCITUR
    “Nay, nay!  You must not hastily
       To such conclusions jump.
 
-                [Picture: The wild man went his weary way]
+[Picture: The wild man went his weary way]
 
    “Such epithets, like pepper,
       Give zest to what you write;
@@ -2268,15 +2170,13 @@ POETA FIT, NON NASCITUR
    But, when he thought of _publishing_,
       His face grew stern and sad.
 
-                  [Picture: His face grew stern and sad]
-
-
+[Picture: His face grew stern and sad]
 
 
 SIZE AND TEARS
 
 
-                 [Picture: When on the sandy shore I sit]
+[Picture: When on the sandy shore I sit]
 
    WHEN on the sandy shore I sit,
       Beside the salt sea-wave,
@@ -2336,9 +2236,7 @@ SIZE AND TEARS
    Insult me thus because I’m stout!
    I vow I’ll go and call him out!
 
-               [Picture: For such a weight as yours . . .]
-
-
+[Picture: For such a weight as yours . . .]
 
 
 ATALANTA IN CAMDEN-TOWN
@@ -2401,8 +2299,6 @@ ATALANTA IN CAMDEN-TOWN
                Something ending with “gander”—
    For the omnibus rattled so loud that no
          mortal could quite understand her.
-
-
 
 
 THE LANG COORTIN’
@@ -2510,7 +2406,7 @@ THE LANG COORTIN’
    “Sic’ a coortin’ as yours, my man,” she said
       “Takes a lang and a weary while!”
 
-               [Picture: And out and laughed the popinjay]
+[Picture: And out and laughed the popinjay]
 
    And out and laughed the popinjay,
       A laugh of bitter scorn:
@@ -2537,7 +2433,7 @@ THE LANG COORTIN’
    I trow the doggie’s voice that day
       Was louder than them all!
 
-             [Picture: O hush thee, gentle gentle popinjay!]
+[Picture: O hush thee, gentle gentle popinjay!]
 
    The serving-men and serving-maids
       Sat by the kitchen fire:
@@ -2564,7 +2460,7 @@ THE LANG COORTIN’
    The doggie yowled, the doggie howled
       The louder aye for that.
 
-                  [Picture: The doggie ceased his noise]
+[Picture: The doggie ceased his noise]
 
    Syne, he has taen a mutton-bane—
       The doggie ceased his noise,
@@ -2601,9 +2497,7 @@ THE LANG COORTIN’
    I’ll pop the question, aye or nay,
       In twenty years at maist.”
 
-                [Picture: Sadly went he through the door]
-
-
+[Picture: Sadly went he through the door]
 
 
 FOUR RIDDLES
@@ -2611,22 +2505,13 @@ FOUR RIDDLES
 
 [THESE consist of two Double Acrostics and two Charades.
 
-No. I. was written at the request of some young friends, who had gone to
-a ball at an Oxford Commemoration—and also as a specimen of what might be
-done by making the Double Acrostic _a connected poem_ instead of what it
-has hitherto been, a string of disjointed stanzas, on every conceivable
-subject, and about as interesting to read straight through as a page of a
-Cyclopædia.  The first two stanzas describe the two main words, and each
-subsequent stanza one of the cross “lights.”
+No. I. was written at the request of some young friends, who had gone to a ball at an Oxford Commemoration—and also as a specimen of what might be done by making the Double Acrostic _a connected poem_ instead of what it has hitherto been, a string of disjointed stanzas, on every conceivable subject, and about as interesting to read straight through as a page of a Cyclopædia.  The first two stanzas describe the two main words, and each subsequent stanza one of the cross “lights.”
 
-No. II. was written after seeing Miss Ellen Terry perform in the play of
-“Hamlet.”  In this case the first stanza describes the two main words.
+No. II. was written after seeing Miss Ellen Terry perform in the play of “Hamlet.”  In this case the first stanza describes the two main words.
 
-No. III. was written after seeing Miss Marion Terry perform in Mr.
-Gilbert’s play of “Pygmalion and Galatea.”  The three stanzas
-respectively describe “My First,” “My Second,” and “My Whole.”]
+No. III. was written after seeing Miss Marion Terry perform in Mr. Gilbert’s play of “Pygmalion and Galatea.”  The three stanzas respectively describe “My First,” “My Second,” and “My Whole.”]
 
-                                      I
+I
 
    THERE was an ancient City, stricken down
       With a strange frenzy, and for many a day
@@ -2706,7 +2591,6 @@ respectively describe “My First,” “My Second,” and “My Whole.”]
             No words of wisdom flow.
 
 
-
 II
 
 
@@ -2743,7 +2627,6 @@ II
       And weep away the leaden-footed hours.
 
 
-
 III.
 
 
@@ -2770,7 +2653,6 @@ III.
    “Leave us not thus!” we fondly pray.
    “We cannot let thee pass away!”
             Ah, well-a-day!
-
 
 
 IV.
@@ -2813,13 +2695,10 @@ IV.
          If you would read my riddle!
 
 
-
-
 FAME’S PENNY-TRUMPET
 
 
-[Affectionately dedicated to all “original researchers” who pant for
-“endowment.”]
+[Affectionately dedicated to all “original researchers” who pant for “endowment.”]
 
    BLOW, blow your trumpets till they crack,
       Ye little men of little souls!
@@ -2861,7 +2740,7 @@ FAME’S PENNY-TRUMPET
    Strut your brief hour in borrowed plumes,
       And make your penny-trumpets squeak.
 
-             [Picture: Go, throng each other’s drawing-rooms]
+[Picture: Go, throng each other’s drawing-rooms]
 
    Deck your dull talk with pilfered shreds
       Of learning from a nobler time,
@@ -2882,364 +2761,3 @@ FAME’S PENNY-TRUMPET
       One crystal flood, from East to West,
    When _ye_ have burned your little time
       And feebly flickered into rest!
-
-
-
-
-***END OF THE PROJECT GUTENBERG EBOOK PHANTASMAGORIA***
-
-
-******* This file should be named 651-0.txt or 651-0.zip *******
-
-
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/6/5/651
-
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License available with this file or online at
-  www.gutenberg.org/license.
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation information page at www.gutenberg.org
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
-contact links and up to date contact information can be found at the
-Foundation's web site and official page at www.gutenberg.org/contact
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit:  www.gutenberg.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For forty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-Most people start at our Web site which has the main PG search facility:
-
-     www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

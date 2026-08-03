@@ -1,32 +1,3 @@
-The Project Gutenberg EBook of Poems, by Adam Lindsay Gordon
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Poems
-
-Author: Adam Lindsay Gordon
-
-Release Date: June 29, 2008 [EBook #258]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK POEMS ***
-
-
-
-
-Produced by A. Light and Linda Bowser
-
-
-
-
-
 POEMS
 
 By Adam Lindsay Gordon
@@ -43,11 +14,7 @@ By Adam Lindsay Gordon
     Ashtaroth: A Dramatic Lyric
 
 
-
-
-IN MEMORIAM.
-(A. L. Gordon.)
-
+IN MEMORIAM. (A. L. Gordon.)
 
 
     At rest! Hard by the margin of that sea
@@ -114,60 +81,15 @@ IN MEMORIAM.
                   Henry Kendall.
 
 
-
-
 PREFACE.
 
-The poems of Gordon have an interest beyond the mere personal one which
-his friends attach to his name. Written, as they were, at odd times and
-leisure moments of a stirring and adventurous life, it is not to be
-wondered at if they are unequal or unfinished. The astonishment of those
-who knew the man, and can gauge the capacity of this city to foster
-poetic instinct, is that such work was ever produced here at all.
-Intensely nervous, and feeling much of that shame at the exercise of the
-higher intelligence which besets those who are known to be renowned in
-field sports, Gordon produced his poems shyly, scribbled them on scraps
-of paper, and sent them anonymously to magazines. It was not until he
-discovered one morning that everybody knew a couplet or two of "How we
-Beat the Favourite" that he consented to forego his anonymity and appear
-in the unsuspected character of a versemaker. The success of his
-republished "collected" poems gave him courage, and the unreserved
-praise which greeted "Bush Ballads" should have urged him to forget or
-to conquer those evil promptings which, unhappily, brought about his
+The poems of Gordon have an interest beyond the mere personal one which his friends attach to his name. Written, as they were, at odd times and leisure moments of a stirring and adventurous life, it is not to be wondered at if they are unequal or unfinished. The astonishment of those who knew the man, and can gauge the capacity of this city to foster poetic instinct, is that such work was ever produced here at all. Intensely nervous, and feeling much of that shame at the exercise of the higher intelligence which besets those who are known to be renowned in field sports, Gordon produced his poems shyly, scribbled them on scraps of paper, and sent them anonymously to magazines. It was not until he discovered one morning that everybody knew a couplet or two of "How we Beat the Favourite" that he consented to forego his anonymity and appear in the unsuspected character of a versemaker. The success of his republished "collected" poems gave him courage, and the unreserved praise which greeted "Bush Ballads" should have urged him to forget or to conquer those evil promptings which, unhappily, brought about his
 untimely death.
 
-Adam Lindsay Gordon was the son of an officer in the English army, and
-was educated at Woolwich, in order that he might follow the profession
-of his family. At the time when he was a cadet there was no sign of
-either of the two great wars which were about to call forth the strength
-of English arms, and, like many other men of his day, he quitted his
-prospects of service and emigrated. He went to South Australia and
-started as a sheep farmer. His efforts were attended with failure. He
-lost his capital, and, owning nothing but a love for horsemanship and a
-head full of Browning and Shelley, plunged into the varied life which
-gold-mining, "overlanding", and cattle-driving affords. From this
-experience he emerged to light in Melbourne as the best amateur
-steeplechase rider in the colonies. The victory he won for Major Baker
-in 1868, when he rode Babbler for the Cup Steeplechase, made him
-popular, and the almost simultaneous publication of his last volume of
-poems gave him welcome entrance to the houses of all who had pretensions
-to literary taste. The reputation of the book spread to England, and
-Major Whyte Melville did not disdain to place the lines of the dashing
-Australian author at the head of his own dashing descriptions of
-sporting scenery. Unhappily, the melancholy which Gordon's friends had
-with pain observed increased daily, and in the full flood of his
-success, with congratulations pouring upon him from every side, he was
-found dead in the heather near his home with a bullet from his own rifle
+Adam Lindsay Gordon was the son of an officer in the English army, and was educated at Woolwich, in order that he might follow the profession of his family. At the time when he was a cadet there was no sign of either of the two great wars which were about to call forth the strength of English arms, and, like many other men of his day, he quitted his prospects of service and emigrated. He went to South Australia and started as a sheep farmer. His efforts were attended with failure. He lost his capital, and, owning nothing but a love for horsemanship and a head full of Browning and Shelley, plunged into the varied life which gold-mining, "overlanding", and cattle-driving affords. From this experience he emerged to light in Melbourne as the best amateur steeplechase rider in the colonies. The victory he won for Major Baker in 1868, when he rode Babbler for the Cup Steeplechase, made him popular, and the almost simultaneous publication of his last volume of poems gave him welcome entrance to the houses of all who had pretensions to literary taste. The reputation of the book spread to England, and Major Whyte Melville did not disdain to place the lines of the dashing Australian author at the head of his own dashing descriptions of sporting scenery. Unhappily, the melancholy which Gordon's friends had with pain observed increased daily, and in the full flood of his success, with congratulations pouring upon him from every side, he was found dead in the heather near his home with a bullet from his own rifle
 in his brain.
 
-I do not propose to criticise the volumes which these few lines of
-preface introduce to the reader. The influence of Browning and of
-Swinburne upon the writer's taste is plain. There is plainly visible
-also, however, a keen sense for natural beauty and a manly admiration
-for healthy living. If in "Ashtaroth" and "Bellona" we recognise the
-swing of a familiar metre, in such poems as "The Sick Stockrider" we
-perceive the genuine poetic instinct united to a very clear perception
-of the loveliness of duty and of labour.
+I do not propose to criticise the volumes which these few lines of preface introduce to the reader. The influence of Browning and of Swinburne upon the writer's taste is plain. There is plainly visible also, however, a keen sense for natural beauty and a manly admiration for healthy living. If in "Ashtaroth" and "Bellona" we recognise the swing of a familiar metre, in such poems as "The Sick Stockrider" we perceive the genuine poetic instinct united to a very clear perception of the loveliness of duty and of labour.
 
     "'Twas merry in the glowing morn, among the gleaming grass,
     To wander as we've wandered many a mile,
@@ -187,104 +109,29 @@ of the loveliness of duty and of labour.
     And the golden-tinted fern leaves, how they rustled underneath!
     And the honeysuckle osiers, how they crash'd!"
 
-This is genuine. There is no "poetic evolution from the depths of
-internal consciousness" here. The writer has ridden his ride as well as
+This is genuine. There is no "poetic evolution from the depths of internal consciousness" here. The writer has ridden his ride as well as
 written it.
 
-The student of these unpretending volumes will be repaid for his labour.
-He will find in them something very like the beginnings of a national
-school of Australian poetry. In historic Europe, where every rood of
-ground is hallowed in legend and in song, the least imaginative can find
-food for sad and sweet reflection. When strolling at noon down an
-English country lane, lounging at sunset by some ruined chapel on the
-margin of an Irish lake, or watching the mists of morning unveil Ben
-Lomond, we feel all the charm which springs from association with the
-past. Soothed, saddened, and cheered by turns, we partake of the varied
-moods which belong not so much to ourselves as to the dead men who, in
-old days, sung, suffered, or conquered in the scenes which we survey.
-But this our native or adopted land has no past, no story. No poet
-speaks to us. Do we need a poet to interpret Nature's teachings, we
-must look into our own hearts, if perchance we may find a poet there.
+The student of these unpretending volumes will be repaid for his labour. He will find in them something very like the beginnings of a national school of Australian poetry. In historic Europe, where every rood of ground is hallowed in legend and in song, the least imaginative can find food for sad and sweet reflection. When strolling at noon down an English country lane, lounging at sunset by some ruined chapel on the margin of an Irish lake, or watching the mists of morning unveil Ben Lomond, we feel all the charm which springs from association with the past. Soothed, saddened, and cheered by turns, we partake of the varied moods which belong not so much to ourselves as to the dead men who, in old days, sung, suffered, or conquered in the scenes which we survey. But this our native or adopted land has no past, no story. No poet speaks to us. Do we need a poet to interpret Nature's teachings, we must look into our own hearts, if perchance we may find a poet there.
 
-What is the dominant note of Australian scenery? That which is the
-dominant note of Edgar Allan Poe's poetry--Weird Melancholy. A poem
-like "L'Allegro" could never be written by an Australian. It is too
-airy, too sweet, too freshly happy. The Australian mountain forests are
-funereal, secret, stern. Their solitude is desolation. They seem to
-stifle, in their black gorges, a story of sullen despair. No tender
-sentiment is nourished in their shade. In other lands the dying year is
-mourned, the falling leaves drop lightly on his bier. In the Australian
-forests no leaves fall. The savage winds shout among the rock clefts.
-From the melancholy gums strips of white bark hang and rustle. The very
-animal life of these frowning hills is either grotesque or ghostly.
-Great grey kangaroos hop noiselessly over the coarse grass. Flights of
-white cockatoos stream out, shrieking like evil souls. The sun suddenly
-sinks, and the mopokes burst out into horrible peals of semi-human
-laughter. The natives aver that, when night comes, from out the
-bottomless depth of some lagoon the Bunyip rises, and, in form like
-monstrous sea-calf, drags his loathsome length from out the ooze. From
-a corner of the silent forest rises a dismal chant, and around a fire
-dance natives painted like skeletons. All is fear-inspiring and gloomy.
-No bright fancies are linked with the memories of the mountains.
-Hopeless explorers have named them out of their sufferings--Mount
-Misery, Mount Dreadful, Mount Despair. As when among sylvan scenes in
-places
+What is the dominant note of Australian scenery? That which is the dominant note of Edgar Allan Poe's poetry--Weird Melancholy. A poem like "L'Allegro" could never be written by an Australian. It is too airy, too sweet, too freshly happy. The Australian mountain forests are funereal, secret, stern. Their solitude is desolation. They seem to stifle, in their black gorges, a story of sullen despair. No tender sentiment is nourished in their shade. In other lands the dying year is mourned, the falling leaves drop lightly on his bier. In the Australian forests no leaves fall. The savage winds shout among the rock clefts. From the melancholy gums strips of white bark hang and rustle. The very animal life of these frowning hills is either grotesque or ghostly. Great grey kangaroos hop noiselessly over the coarse grass. Flights of white cockatoos stream out, shrieking like evil souls. The sun suddenly sinks, and the mopokes burst out into horrible peals of semi-human laughter. The natives aver that, when night comes, from out the bottomless depth of some lagoon the Bunyip rises, and, in form like monstrous sea-calf, drags his loathsome length from out the ooze. From a corner of the silent forest rises a dismal chant, and around a fire dance natives painted like skeletons. All is fear-inspiring and gloomy. No bright fancies are linked with the memories of the mountains. Hopeless explorers have named them out of their sufferings--Mount Misery, Mount Dreadful, Mount Despair. As when among sylvan scenes in places
 
     "Made green with the running of rivers,
      And gracious with temperate air,"
 
-the soul is soothed and satisfied, so, placed before the frightful
-grandeur of these barren hills, it drinks in their sentiment of defiant
-ferocity, and is steeped in bitterness.
+the soul is soothed and satisfied, so, placed before the frightful grandeur of these barren hills, it drinks in their sentiment of defiant ferocity, and is steeped in bitterness.
 
-Australia has rightly been named the Land of the Dawning. Wrapped in
-the midst of early morning, her history looms vague and gigantic. The
-lonely horseman riding between the moonlight and the day sees vast
-shadows creeping across the shelterless and silent plains, hears strange
-noises in the primeval forest, where flourishes a vegetation long dead
-in other lands, and feels, despite his fortune, that the trim
-utilitarian civilisation which bred him shrinks into insignificance
-beside the contemptuous grandeur of forest and ranges coeval with an age
-in which European scientists have cradled his own race.
+Australia has rightly been named the Land of the Dawning. Wrapped in the midst of early morning, her history looms vague and gigantic. The lonely horseman riding between the moonlight and the day sees vast shadows creeping across the shelterless and silent plains, hears strange noises in the primeval forest, where flourishes a vegetation long dead in other lands, and feels, despite his fortune, that the trim utilitarian civilisation which bred him shrinks into insignificance beside the contemptuous grandeur of forest and ranges coeval with an age in which European scientists have cradled his own race.
 
-There is a poem in every form of tree or flower, but the poetry which
-lives in the trees and flowers of Australia differs from those of other
-countries. Europe is the home of knightly song, of bright deeds and
-clear morning thought. Asia sinks beneath the weighty recollections of
-her past magnificence, as the Suttee sinks, jewel burdened, upon the
-corpse of dread grandeur, destructive even in its death. America swiftly
-hurries on her way, rapid, glittering, insatiable even as one of her own
-giant waterfalls. From the jungles of Africa, and the creeper-tangled
-groves of the Islands of the South, arise, from the glowing hearts of a
-thousand flowers, heavy and intoxicating odours--the Upas-poison which
-dwells in barbaric sensuality. In Australia alone is to be found the
-Grotesque, the Weird, the strange scribblings of Nature learning how to
-write. Some see no beauty in our trees without shade, our flowers
-without perfume, our birds who cannot fly, and our beasts who have not
-yet learned to walk on all fours. But the dweller in the wilderness
-acknowledges the subtle charm of this fantastic land of monstrosities.
-He becomes familiar with the beauty of loneliness. Whispered to by the
-myriad tongues of the wilderness, he learns the language of the barren
-and the uncouth, and can read the hieroglyphics of haggard gum-trees,
-blown into odd shapes, distorted with fierce hot winds, or cramped with
-cold nights, when the Southern Cross freezes in a cloudless sky of icy
-blue. The phantasmagoria of that wild dreamland termed the Bush
-interprets itself, and the Poet of our desolation begins to comprehend
-why free Esau loved his heritage of desert sand better than all the
-bountiful richness of Egypt.
+There is a poem in every form of tree or flower, but the poetry which lives in the trees and flowers of Australia differs from those of other countries. Europe is the home of knightly song, of bright deeds and clear morning thought. Asia sinks beneath the weighty recollections of her past magnificence, as the Suttee sinks, jewel burdened, upon the corpse of dread grandeur, destructive even in its death. America swiftly hurries on her way, rapid, glittering, insatiable even as one of her own giant waterfalls. From the jungles of Africa, and the creeper-tangled groves of the Islands of the South, arise, from the glowing hearts of a thousand flowers, heavy and intoxicating odours--the Upas-poison which dwells in barbaric sensuality. In Australia alone is to be found the Grotesque, the Weird, the strange scribblings of Nature learning how to write. Some see no beauty in our trees without shade, our flowers without perfume, our birds who cannot fly, and our beasts who have not yet learned to walk on all fours. But the dweller in the wilderness acknowledges the subtle charm of this fantastic land of monstrosities. He becomes familiar with the beauty of loneliness. Whispered to by the myriad tongues of the wilderness, he learns the language of the barren and the uncouth, and can read the hieroglyphics of haggard gum-trees, blown into odd shapes, distorted with fierce hot winds, or cramped with cold nights, when the Southern Cross freezes in a cloudless sky of icy blue. The phantasmagoria of that wild dreamland termed the Bush interprets itself, and the Poet of our desolation begins to comprehend why free Esau loved his heritage of desert sand better than all the bountiful richness of Egypt.
 
 
-                  Marcus Clarke.
-
-
-
-
+Marcus Clarke.
 
 
 GENERAL CONTENTS.
 
 [The poems are listed by alphabetical order.]
-
 
 
     In Memoriam. By Henry Kendall.
@@ -361,11 +208,7 @@ GENERAL CONTENTS.
     Zu der edlen Yagd
 
 
-
-
 SEA SPRAY AND SMOKE DRIFT
-
-
 
 
 Podas Okus
@@ -560,8 +403,6 @@ Podas Okus
     Pallas! thus thy soldier comes!
 
 
-
-
 Gone
 
     In Collins-street standeth a statue tall--[1]
@@ -637,8 +478,6 @@ Gone
     To a brave man gone where we all must go.
 
 
-
-
 Unshriven
 
 
@@ -694,8 +533,6 @@ Unshriven
     And unshriven to its Maker flies the soul.
 
 
-
-
 Ye Wearie Wayfarer, hys Ballad In Eight Fyttes.
 
 
@@ -733,7 +570,6 @@ Ye Wearie Wayfarer, hys Ballad In Eight Fyttes.
     Come flitting across the brain.
 
 
-
     Fytte II
     By Flood and Field
     [A Legend of the Cottiswold]
@@ -743,7 +579,6 @@ Ye Wearie Wayfarer, hys Ballad In Eight Fyttes.
     "He turned in his saddle, now follow who dare.
     I ride for my country, quoth ----."
                 --Lawrence.
-
 
 
     I remember the lowering wintry morn,
@@ -828,7 +663,6 @@ Ye Wearie Wayfarer, hys Ballad In Eight Fyttes.
     I was down with a stunning fall.
 
 
-
     Fytte III
     Zu der edlen Yagd
     [A Treatise on Trees--Vine-tree v. Saddle-tree]
@@ -836,9 +670,8 @@ Ye Wearie Wayfarer, hys Ballad In Eight Fyttes.
     "Now, welcome, welcome, masters mine,
     Thrice welcome to the noble chase,
     Nor earthly sport, nor sport divine,
-    Can take such honourable place."--Ballad of the Wild Huntsman.
-                      (Free Translation.)
-
+Can take such honourable place."--Ballad of the Wild Huntsman.
+(Free Translation.)
 
 
     I remember some words my father said,
@@ -896,7 +729,6 @@ Ye Wearie Wayfarer, hys Ballad In Eight Fyttes.
     The talkative roadster of Balaam.
 
 
-
     Fytte IV
     In Utrumque Paratus
     [A Logical Discussion]
@@ -905,7 +737,6 @@ Ye Wearie Wayfarer, hys Ballad In Eight Fyttes.
     And round the world away!
     Young blood will have its course, lad!
     And every dog his day!"--C. Kingsley.
-
 
 
     There's a formula which the west country clowns
@@ -1033,14 +864,12 @@ Ye Wearie Wayfarer, hys Ballad In Eight Fyttes.
     As a pattern can stand before us.
 
 
-
     Fytte V
     Lex Talionis
     [A Moral Discourse]
 
     "And if there's blood upon his hand,
     'Tis but the blood of deer."--W. Scott.
-
 
 
     To beasts of the field, and fowls of the air,
@@ -1138,13 +967,11 @@ Ye Wearie Wayfarer, hys Ballad In Eight Fyttes.
     Than man in his blindness teaches!
 
 
-
     Fytte VI
     Potters' Clay
     [An Allegorical Interlude]
 
     "Nec propter vitam vivendi perdere causas."
-
 
 
     Though the pitcher that goes to the sparkling rill
@@ -1166,7 +993,6 @@ Ye Wearie Wayfarer, hys Ballad In Eight Fyttes.
     And mine by the dazzling stream.
 
 
-
     Fytte VII
     Cito Pede Preterit Aetas
     [A Philosophical Dissertation]
@@ -1175,8 +1001,7 @@ Ye Wearie Wayfarer, hys Ballad In Eight Fyttes.
     How I loved her many years syne;
     Marion's married, but I sit here,
     Alive and merry at three-score year,
-    Dipping my nose in Gascoigne wine."--Wamba's Song--Thackeray.
-
+Dipping my nose in Gascoigne wine."--Wamba's Song--Thackeray.
 
 
     A mellower light doth Sol afford,
@@ -1315,15 +1140,12 @@ Ye Wearie Wayfarer, hys Ballad In Eight Fyttes.
     "DUM VIVIMUS, VIVAMUS!"
 
 
-
-
     Fytte VIII
     Finis Exoptatus
     [A Metaphysical Song]
 
     "There's something in this world amiss
     Shall be unriddled by-and-bye."--Tennyson.
-
 
 
     Boot and saddle, see, the slanting
@@ -1522,15 +1344,12 @@ Ye Wearie Wayfarer, hys Ballad In Eight Fyttes.
     Ends the wanderer's lay.
 
 
-
-
 Borrow'd Plumes
 
-    [A Preface and a Piracy]
+[A Preface and a Piracy]
 
 
-
-    Prologue
+Prologue
 
 
     Of borrow'd plumes I take the sin,
@@ -1548,16 +1367,16 @@ Borrow'd Plumes
      view to their redemption from the many improvements to which
      they have been subjected while going at random the rounds of
      the Press. I am naturally anxious that what I have written
-     should circulate as I wrote it, if it circulate at all. * *
-     * * * * In defence of my own taste, nevertheless, it is
-     incumbent upon me to say that I think nothing in this volume
-     of much value to the public, or very creditable to myself.
-     E. A. P.
+should circulate as I wrote it, if it circulate at all. * *
+* * * * In defence of my own taste, nevertheless, it is
+incumbent upon me to say that I think nothing in this volume
+of much value to the public, or very creditable to myself.
+E. A. P.
 
-           (See Preface to Poe's Poetical Works.)
+(See Preface to Poe's Poetical Works.)
 
 
-    Epilogue
+Epilogue
 
 
     And now that my theft stands detected,
@@ -1571,11 +1390,8 @@ Borrow'd Plumes
     But written anew something worse.
 
 
-
-
     Pastor Cum
     [Translation from Horace]
-
 
 
     When he, that shepherd false, 'neath Phrygian sails,
@@ -1616,15 +1432,12 @@ Borrow'd Plumes
     And Dardan roofs must waste in Argive flame.
 
 
-
-
 A Legend of Madrid
 
-    [Translated from the Spanish]
+[Translated from the Spanish]
 
 
-
-      Francesca.
+Francesca.
 
     Crush'd and throng'd are all the places
     In our amphitheatre,
@@ -1677,7 +1490,7 @@ A Legend of Madrid
     Has been changed to hatred wild.
 
 
-      Nina.
+Nina.
 
     Save him! aid him! oh, Madonna!
     Two are slain if he is slain;
@@ -1697,7 +1510,7 @@ A Legend of Madrid
     At thy throne I supplicate.
 
 
-      Francesca.
+Francesca.
 
     Cool and calm, the perjured varlet
     Stands on strongly-planted heel,
@@ -1709,7 +1522,7 @@ A Legend of Madrid
     Thou hast conquer'd once again.
 
 
-      Nina.
+Nina.
 
     Sweet Madonna, maiden mother,
     Thou hast saved him, and no other;
@@ -1721,7 +1534,7 @@ A Legend of Madrid
     Bless thee! bless thee! virgin kind.
 
 
-      Francesca.
+Francesca.
 
     While the crowd still sways and surges,
     Ere the applauding shouts have ceas'd,
@@ -1741,7 +1554,7 @@ A Legend of Madrid
     Of so resolute a foe.
 
 
-      Nina.
+Nina.
 
     Courage, there is little danger,
     Yonder dull-eyed craven seems
@@ -1761,7 +1574,7 @@ A Legend of Madrid
     Leaps to end the butchery.
 
 
-      Francesca.
+Francesca.
 
     Tyro! mark the brands of battle
     On those shoulders dusk and dun,
@@ -1781,7 +1594,7 @@ A Legend of Madrid
     On his enemy he launches.
 
 
-      Nina.
+Nina.
 
     O'er the horn'd front drops the streamer,
     In the nape the sharp steel hisses,
@@ -1789,7 +1602,7 @@ A Legend of Madrid
     By a hair the spine he misses.
 
 
-      Francesca.
+Francesca.
 
     Hark! that shock like muffled thunder,
     Booming from the Pyrenees!
@@ -1805,12 +1618,9 @@ A Legend of Madrid
     Daughter of the muleteer!
 
 
-
-
 Fauconshawe
 
-    [A Ballad]
-
+[A Ballad]
 
 
     To fetch clear water out of the spring
@@ -2035,8 +1845,6 @@ Fauconshawe
     My story was told to me.
 
 
-
-
 Rippling Water
 
 
@@ -2132,10 +1940,7 @@ Rippling Water
     (The rippling water murmurs on).
 
 
-
-
 Cui Bono
-
 
 
     Oh! wind that whistles o'er thorns and thistles,
@@ -2191,10 +1996,7 @@ Cui Bono
     To whom do they profit?--Let them roar!
 
 
-
-
 Bellona
-
 
 
     Thou art moulded in marble impassive,
@@ -2278,10 +2080,7 @@ Bellona
     We know not, yet hope for the best.
 
 
-
-
 The Song of the Surf
-
 
 
     White steeds of ocean, that leap with a hollow and wearisome roar
@@ -2317,17 +2116,14 @@ The Song of the Surf
     "Mortal! that which thou askest, ask not thou of the waves;
     Fool! thou foolishly taskest us--we are only slaves;
     Might, more mighty, impels us--we must our lot fulfil,
-    He who gathers and swells us curbs us, too, at His will.
-    Think'st thou the wave that shatters questioneth His decree?
-    Little to us it matters, and naught it matters to thee.
-    Not thus, murmuring idly, we from our duty would swerve,
-    Over the world spread widely ever we labour and serve."
-
-
+He who gathers and swells us curbs us, too, at His will.
+Think'st thou the wave that shatters questioneth His decree?
+Little to us it matters, and naught it matters to thee.
+Not thus, murmuring idly, we from our duty would swerve,
+Over the world spread widely ever we labour and serve."
 
 
 Whisperings in Wattle-Boughs
-
 
 
     Oh, gaily sings the bird! and the wattle-boughs are stirr'd
@@ -2368,10 +2164,7 @@ Whisperings in Wattle-Boughs
     CAN NEVER BE DISTURB'D BY SUCH AS THOU!!"
 
 
-
-
 Confiteor
-
 
 
     The shore-boat lies in the morning light,
@@ -2487,12 +2280,9 @@ Confiteor
     Our Father which art in heaven!'"
 
 
-
-
 Sunlight on the Sea
 
-    [The Philosophy of a Feast]
-
+[The Philosophy of a Feast]
 
 
     Make merry, comrades, eat and drink
@@ -2600,12 +2390,9 @@ Sunlight on the Sea
     The lights are growing dim.
 
 
-
-
 Delilah
 
-    [From a Picture]
-
+[From a Picture]
 
 
     The sun has gone down, spreading wide on
@@ -2681,10 +2468,7 @@ Delilah
     Upon thee the Philistines are.
 
 
-
-
 From Lightning and Tempest
-
 
 
     The spring-wind pass'd through the forest, and whispered low in the leaves,
@@ -2707,13 +2491,10 @@ From Lightning and Tempest
     We are bruis'd, we are shorn, we are thinn'd,
     Our strength is turn'd to derision, our pride laid low in the dust,
     Our cedars are cleft by Thy lightnings, our oaks are strew'd by Thy wind,
-    And we fall on our faces seeking Thine aid, though Thy wrath is just."
-
-
+And we fall on our faces seeking Thine aid, though Thy wrath is just."
 
 
 Wormwood and Nightshade
-
 
 
     The troubles of life are many,
@@ -2870,12 +2651,9 @@ Wormwood and Nightshade
     Where I dreamt that the skies were blue.
 
 
-
-
 Ars Longa
 
-    [A Song of Pilgrimage]
-
+[A Song of Pilgrimage]
 
 
     Our hopes are wild imaginings,
@@ -2960,10 +2738,7 @@ Ars Longa
     "Mors gratum, vita brevis."
 
 
-
-
 The Last Leap
-
 
 
     All is over! fleet career,
@@ -3023,10 +2798,7 @@ The Last Leap
     And thy fall is best!"
 
 
-
-
 Quare Fatigasti
-
 
 
     Two years ago I was thinking
@@ -3102,17 +2874,13 @@ Quare Fatigasti
     Discover the shores unknown?
 
 
-
-
 HIPPODROMANIA; OR, WHIFFS FROM THE PIPE
 
-    In Five Parts
-
+In Five Parts
 
 
     Part I
     Visions in the Smoke
-
 
 
     Rest, and be thankful! On the verge
@@ -3298,11 +3066,8 @@ HIPPODROMANIA; OR, WHIFFS FROM THE PIPE
     If I lie here any longer.
 
 
-
-
     Part II
     The Fields of Coleraine
-
 
 
     On the fields of Col'raine there'll be labour in vain
@@ -3358,14 +3123,11 @@ HIPPODROMANIA; OR, WHIFFS FROM THE PIPE
     He wins all the way, and the rest--sweet, they say,
     Is the smell of the newly-turned plough, friend,
     But you smell it too close when it stops eyes and nose,
-    And you can't tell your horse from your cow, friend.
-
-
+And you can't tell your horse from your cow, friend.
 
 
     Part III
     Credat Judaeus Apella
-
 
 
     Dear Bell,--I enclose what you ask in a letter,
@@ -3413,17 +3175,17 @@ HIPPODROMANIA; OR, WHIFFS FROM THE PIPE
     Quoth Stanley to Davis, "How is your pulse?"
     He skims o'er the smooth turf, he scuds through the mire,
     He waits with them, passes them, bids them good-bye!
-    Two miles and three-quarters, cries Filgate, "He'll tire."
-    Oh! "credat Judaeus Apella", say I.
+Two miles and three-quarters, cries Filgate, "He'll tire."
+Oh! "credat Judaeus Apella", say I.
 
-    Lest my tale should come true, let me give you fair warning,
-    You may "shout" some cheroots, if you like, no champagne
-    For this child--"Oh! think of my head in the morning,"
+Lest my tale should come true, let me give you fair warning,
+You may "shout" some cheroots, if you like, no champagne
+For this child--"Oh! think of my head in the morning,"
     Old chap, you don't get me on that lay again.
     The last time those games I look'd likely to try on,
     Says Bradshawe, "You'll feel very sheepish and shy
-    When you are haul'd up and caution'd by D----g----y and L----n,"
-    Oh! "credat Judaeus Apella", say I.
+When you are haul'd up and caution'd by D----g----y and L----n,"
+Oh! "credat Judaeus Apella", say I.
 
     This writing bad verses is very fatiguing,
     The brain and the liver against it combine,
@@ -3444,11 +3206,8 @@ HIPPODROMANIA; OR, WHIFFS FROM THE PIPE
     He's game to go in for an action of libel.
 
 
-
-
     Part IV
     Banker's Dream
-
 
 
     Of chases and courses dogs dream, so do horses--
@@ -3498,8 +3257,8 @@ HIPPODROMANIA; OR, WHIFFS FROM THE PIPE
 
     Says Ingleside, "Mate, should the pony go straight,
     You've no time to stop or turn restive;"
-    Says I, "Who means to stop? I shall go till I drop;"
-    Says he, "Go it, old cuss, gay and festive."
+Says I, "Who means to stop? I shall go till I drop;"
+Says he, "Go it, old cuss, gay and festive."
 
     The fence stiff and tall, just beyond the log wall,
     We cross'd, and the walls, and the water,--
@@ -3548,8 +3307,8 @@ HIPPODROMANIA; OR, WHIFFS FROM THE PIPE
 
     Now comes from afar the faint cry, "Here they are,"
     "The violet winning with ease,"
-    "Fred goes up like a shot," "Does he catch him or not?"
-    Level money, I'll take the cerise.
+"Fred goes up like a shot," "Does he catch him or not?"
+Level money, I'll take the cerise.
 
     To his haunches I spring, and my muzzle I bring
     To his flank, to his girth, to his shoulder;
@@ -3583,15 +3342,12 @@ HIPPODROMANIA; OR, WHIFFS FROM THE PIPE
     Rous'd by Fred with my supper at last.
 
 
-
-
     Part V
     Ex Fumo Dare Lucem
     ['Twixt the Cup and the Lip]
 
 
-
-    Prologue
+Prologue
 
 
     Calm and clear! the bright day is declining,
@@ -3658,7 +3414,7 @@ HIPPODROMANIA; OR, WHIFFS FROM THE PIPE
     May blend with some real ones, who knows?
 
 
-    The Race
+The Race
 
 
     On the hill they are crowding together,
@@ -3727,7 +3483,7 @@ HIPPODROMANIA; OR, WHIFFS FROM THE PIPE
     With the whistling and crackling of whips.
 
 
-    Epilogue
+Epilogue
 
 
     He wins; yes, he wins upon paper,
@@ -3859,15 +3615,12 @@ HIPPODROMANIA; OR, WHIFFS FROM THE PIPE
     To this the last lay of "The Pipe".
 
 
-
-
 The Roll of the Kettledrum; or, The Lay of the Last Charger
 
     "You have the Pyrrhic dance as yet,
     Where is the Pyrrhic phalanx gone?
     Of two such lessons, why forget
     The nobler and the manlier one?"--Byron.
-
 
 
     One line of swart profiles and bearded lips dressing,
@@ -3967,8 +3720,8 @@ The Roll of the Kettledrum; or, The Lay of the Last Charger
 
     And scarcely an inch of my housing was dry;
     I slacken'd my speed, yet I never quite stopp'd,
-    Ere he patted my neck, said, "Old fellow, good-bye!"
-    And dropp'd off me gently, and lay where he dropp'd!
+Ere he patted my neck, said, "Old fellow, good-bye!"
+And dropp'd off me gently, and lay where he dropp'd!
 
     Ah, me! after all, they may call us dumb creatures--
     I tried hard to neigh, but the sobs took my breath,
@@ -3979,8 +3732,8 @@ The Roll of the Kettledrum; or, The Lay of the Last Charger
 
     Two years back, at Aldershot, Elrington mentioned
     My name to our colonel one field-day. He said,
-    "'Count', 'Steeltrap', and 'Challenger' ought to be pension'd;"
-    "Count" died the same week, and now "Steeltrap" is dead.
+"'Count', 'Steeltrap', and 'Challenger' ought to be pension'd;"
+"Count" died the same week, and now "Steeltrap" is dead.
 
     That morning our colonel was riding "Theresa",
     The filly by "Teddington" out of "Mistake";
@@ -4128,23 +3881,18 @@ The Roll of the Kettledrum; or, The Lay of the Last Charger
     In our barrack-square shouted Drill-sergeant M'Cluskie,
     The roll of the kettledrum rapidly ran,
     The colonel wheel'd short, speaking once, dry and husky,
-    "Would to God I had died with your master, old man!"
+"Would to God I had died with your master, old man!"
 
 
-    [End of Sea Spray and Smoke Drift.]
-
-
-
+[End of Sea Spray and Smoke Drift.]
 
 
 BUSH BALLADS & GALLOPING RHYMES
 
 
-
 A Dedication
 
-    to the Author of "Holmby House"
-
+to the Author of "Holmby House"
 
 
     They are rhymes rudely strung with intent less
@@ -4256,13 +4004,10 @@ A Dedication
       In darkness or light.
 
 
-
-
 The Sick Stockrider
 
 
-
-    Hold hard, Ned! Lift me down once more, and lay me in the shade.
+Hold hard, Ned! Lift me down once more, and lay me in the shade.
     Old man, you've had your work cut out to guide
     Both horses, and to hold me in the saddle when I sway'd,
     All through the hot, slow, sleepy, silent ride.
@@ -4353,10 +4098,7 @@ The Sick Stockrider
     I may chance to hear them romping overhead.
 
 
-
-
 The Swimmer
-
 
 
     With short, sharp, violent lights made vivid,
@@ -4477,10 +4219,7 @@ The Swimmer
     Where no light wearies and no love wanes.
 
 
-
-
 From the Wreck
-
 
 
     "Turn out, boys!"--"What's up with our super. to-night?
@@ -4502,12 +4241,12 @@ From the Wreck
 
     There was bridling with hurry, and saddling with haste,
     Confusion and cursing for lack of a moon;
-    "Be quick with these buckles, we've no time to waste;"
-    "Mind the mare, she can use her hind legs to some tune."
-    "Make sure of the crossing-place; strike the old track,
-    They've fenced off the new one; look out for the holes
-    On the wombat hills." "Down with the slip rails; stand back."
-    "And ride, boys, the pair of you, ride for your souls."
+"Be quick with these buckles, we've no time to waste;"
+"Mind the mare, she can use her hind legs to some tune."
+"Make sure of the crossing-place; strike the old track,
+They've fenced off the new one; look out for the holes
+On the wombat hills." "Down with the slip rails; stand back."
+"And ride, boys, the pair of you, ride for your souls."
 
     In the low branches heavily laden with dew,
     In the long grasses spoiling with deadwood that day,
@@ -4554,12 +4293,12 @@ From the Wreck
     And faster and faster across the wide heath
     We rode till we raced. Then I gave her her head,
     And she--stretching out with the bit in her teeth--
-    She caught him, outpaced him, and passed him, and led.
+She caught him, outpaced him, and passed him, and led.
 
-    We neared the new fence, we were wide of the track;
-    I look'd right and left--she had never been tried
-    At a stiff leap; 'twas little he cared on the black.
-    "You're more than a mile from the gateway," he cried.
+We neared the new fence, we were wide of the track;
+I look'd right and left--she had never been tried
+At a stiff leap; 'twas little he cared on the black.
+"You're more than a mile from the gateway," he cried.
     I hung to her head, touched her flank with the spurs
     (In the red streak of rail not the ghost of a gap);
     She shortened her long stroke, she pricked her sharp ears,
@@ -4621,8 +4360,6 @@ From the Wreck
     How much for her hide? She had never worn shoes.
 
 
-
-
 No Name
 
 
@@ -4630,7 +4367,6 @@ No Name
     But no name written on that stone;
     Sweet neighbours whisper low instead,
     This sinner was a loving one."--Mrs. Browning.
-
 
 
     'Tis a nameless stone that stands at your head--
@@ -4696,14 +4432,11 @@ No Name
     Till then may your sleep be a sound one, girl!
 
 
-
-
 Wolf and Hound
 
 
     "The hills like giants at a hunting lay
     Chin upon hand, to see the game at bay."--Browning.
-
 
 
     You'll take my tale with a little salt,
@@ -4812,10 +4545,7 @@ Wolf and Hound
     I had shot him dead in his den!
 
 
-
-
 De Te
-
 
 
     A burning glass of burnished brass,
@@ -4919,12 +4649,9 @@ De Te
     Be merciful to him and us."
 
 
-
-
 How we Beat the Favourite
 
-    A Lay of the Loamshire Hunt Cup
-
+A Lay of the Loamshire Hunt Cup
 
 
     "Aye, squire," said Stevens, "they back him at evens;
@@ -5025,20 +4752,20 @@ How we Beat the Favourite
     A rise steeply sloping, a fence with stone coping--
     The last--we diverged round the base of the hill;
     His path was the nearer, his leap was the clearer,
-    I flogg'd up the straight, and he led sitting still.
+I flogg'd up the straight, and he led sitting still.
 
-    She came to his quarter, and on still I brought her,
-    And up to his girth, to his breastplate she drew;
-    A short prayer from Neville just reach'd me, "The devil!"
-    He mutter'd--lock'd level the hurdles we flew.
+She came to his quarter, and on still I brought her,
+And up to his girth, to his breastplate she drew;
+A short prayer from Neville just reach'd me, "The devil!"
+He mutter'd--lock'd level the hurdles we flew.
 
     A hum of hoarse cheering, a dense crowd careering,
     All sights seen obscurely, all shouts vaguely heard;
     "The green wins!" "The crimson!" The multitude swims on,
     And figures are blended and features are blurr'd.
 
-    "The horse is her master!" "The green forges past her!"
-    "The Clown will outlast her!" "The Clown wins!" "The Clown!"
+"The horse is her master!" "The green forges past her!"
+"The Clown will outlast her!" "The Clown wins!" "The Clown!"
     The white railing races with all the white faces,
     The chestnut outpaces, outstretches the brown.
 
@@ -5048,24 +4775,20 @@ How we Beat the Favourite
     And flashes, and verges, and flits the white post.
 
     Aye! so ends the tussle,--I knew the tan muzzle
-    Was first, though the ring-men were yelling "Dead heat!"
-    A nose I could swear by, but Clarke said, "The mare by
-    A short head." And that's how the favourite was beat.
-
-
+Was first, though the ring-men were yelling "Dead heat!"
+A nose I could swear by, but Clarke said, "The mare by
+A short head." And that's how the favourite was beat.
 
 
 Fragmentary Scenes from the Road to Avernus
 
-    An Unpublished Dramatic Lyric
-
+An Unpublished Dramatic Lyric
 
 
     Scene I
     "Discontent"
 
     LAURENCE RABY.
-
 
 
     Laurence:
@@ -5114,45 +4837,42 @@ Fragmentary Scenes from the Road to Avernus
     Of the rest an illegible scroll."
 
 
-
-
     Scene VII
     "Two Exhortations"
 
-    A Shooting-box in the West of Ireland. A Bedchamber.
-    LAURENCE RABY and MELCHIOR. Night.
+A Shooting-box in the West of Ireland. A Bedchamber.
+LAURENCE RABY and MELCHIOR. Night.
 
 
-
-    Melchior:
-    Surely in the great beginning God made all things good, and still
-    That soul-sickness men call sinning entered not without His will.
-    Nay, our wisest have asserted that, as shade enhances light,
-    Evil is but good perverted, wrong is but the foil of right.
-    Banish sickness, then you banish joy for health to all that live;
-    Slay all sin, all good must vanish, good being but comparative.
+Melchior:
+Surely in the great beginning God made all things good, and still
+That soul-sickness men call sinning entered not without His will.
+Nay, our wisest have asserted that, as shade enhances light,
+Evil is but good perverted, wrong is but the foil of right.
+Banish sickness, then you banish joy for health to all that live;
+Slay all sin, all good must vanish, good being but comparative.
     Sophistry, you say--yet listen: look you skyward, there 'tis known
     Worlds on worlds in myriads glisten--larger, lovelier than our own--
     This has been, and this still shall be, here as there, in sun or star;
-    These things are to be and will be, those things were to be and are.
-    Man in man's imperfect nature is by imperfection taught:
-    Add one cubit to your stature if you can by taking thought.
+These things are to be and will be, those things were to be and are.
+Man in man's imperfect nature is by imperfection taught:
+Add one cubit to your stature if you can by taking thought.
 
-    Laurence:
-    Thus you would not teach that peasant, though he calls you "father".
+Laurence:
+Thus you would not teach that peasant, though he calls you "father".
 
-    Melchior:                               True,
-    I should magnify this present, mystify that future, too--
-    We adapt our conversation always to our hearer's light.
+Melchior:                               True,
+I should magnify this present, mystify that future, too--
+We adapt our conversation always to our hearer's light.
 
     Laurence:
     I am not of your persuasion.
 
-    Melchior:           Yet the difference is but slight.
+Melchior:           Yet the difference is but slight.
 
-    Laurence:
-    I, EVEN I, say, "He who barters worldly weal for heavenly worth
-    He does well"--your saints and martyrs were examples here on earth.
+Laurence:
+I, EVEN I, say, "He who barters worldly weal for heavenly worth
+He does well"--your saints and martyrs were examples here on earth.
 
     Melchior:
     Aye, in earlier Christian ages, while the heathen empire stood,
@@ -5164,29 +4884,29 @@ Fragmentary Scenes from the Road to Avernus
     Strong men must encounter bad men--so-called saints of latter days
     Have been mostly pious madmen, lusting after righteous praise--
     Or the thralls of superstition, doubtless worthy some reward,
-    Since they came by their condition hardly of their free accord.
-    'Tis but madness, sad and solemn, that these fakir-Christians feel--
-    Saint Stylites on his column gratified a morbid zeal.
+Since they came by their condition hardly of their free accord.
+'Tis but madness, sad and solemn, that these fakir-Christians feel--
+Saint Stylites on his column gratified a morbid zeal.
 
-    Laurence:
-    By your showing, good is really on a par (of worth) with ill.
+Laurence:
+By your showing, good is really on a par (of worth) with ill.
 
-    Melchior:
-    Nay, I said not so; I merely tell you both some ends fulfil--
-    Priestly vows were my vocation, fast and vigil wait for me.
-    You must work and face temptation. Never should the strong man flee,
-    Though God wills the inclination with the soul at war to be. (Pauses.)
-    In the strife 'twixt flesh and spirit, while you can the spirit aid.
-    Should you fall not less your merit, be not for a fall afraid.
-    Whatsoe'er most right, most fit is you shall do. When all is done
-    Chaunt the noble Nunc Dimittis--Benedicimur, my son.
-              [Exit MELCHIOR.]
+Melchior:
+Nay, I said not so; I merely tell you both some ends fulfil--
+Priestly vows were my vocation, fast and vigil wait for me.
+You must work and face temptation. Never should the strong man flee,
+Though God wills the inclination with the soul at war to be. (Pauses.)
+In the strife 'twixt flesh and spirit, while you can the spirit aid.
+Should you fall not less your merit, be not for a fall afraid.
+Whatsoe'er most right, most fit is you shall do. When all is done
+Chaunt the noble Nunc Dimittis--Benedicimur, my son.
+[Exit MELCHIOR.]
 
-    Laurence (alone):
-    Why do I provoke these wrangles? Melchior talks (as well he may)
-    With the tongues of men and angels.
-    (Takes up a pamphlet.) What has this man got to say?
-    (Reads.) Sic sacerdos fatur (ejus nomen quondam erat Burgo.)
+Laurence (alone):
+Why do I provoke these wrangles? Melchior talks (as well he may)
+With the tongues of men and angels.
+(Takes up a pamphlet.) What has this man got to say?
+(Reads.) Sic sacerdos fatur (ejus nomen quondam erat Burgo.)
     Mala mens est, caro pejus, anima infirma, ergo
     I nunc, ora, sine mora--orat etiam Sancta Virgo.
     (Thinks.)
@@ -5205,47 +4925,44 @@ Fragmentary Scenes from the Road to Avernus
     Nunc orate et laudate, laudat etiam Alma Mater.
     (Muses.) Such has been, and such shall still be,
      here as there, in sun or star;
-    These things are to be and will be, those things were to be and are.
-    If I thought that speech worth heeding I should--Nay, it seems to me
-    More like Satan's special pleading than like Gloria Domine.
+These things are to be and will be, those things were to be and are.
+If I thought that speech worth heeding I should--Nay, it seems to me
+More like Satan's special pleading than like Gloria Domine.
     (Lies down on his couch.)
     (Reads.) Et tuquoque frater meus facta mala quod fecisti
     Denique confundit Deus omnes res quas tetegisti.
-    Nunc si unquam, nunc aut nunquam, sanguine adjuro Christi.
-
-
+Nunc si unquam, nunc aut nunquam, sanguine adjuro Christi.
 
 
     Scene IX
     "In the Garden"
 
-    Aylmer's Garden, near the Lake. LAURENCE RABY and ESTELLE.
+Aylmer's Garden, near the Lake. LAURENCE RABY and ESTELLE.
 
 
+He:
+Come to the bank where the boat is moor'd to the willow-tree low;
+Bertha, the baby, won't notice, Brian, the blockhead, won't know.
 
-    He:
-    Come to the bank where the boat is moor'd to the willow-tree low;
-    Bertha, the baby, won't notice, Brian, the blockhead, won't know.
+She:
+Bertha is not such a baby, sir, as you seem to suppose;
+Brian, a blockhead he may be, more than you think for he knows.
 
-    She:
-    Bertha is not such a baby, sir, as you seem to suppose;
-    Brian, a blockhead he may be, more than you think for he knows.
+He:
+This much, at least, of your brother, from the beginning he knew
+Somewhat concerning that other made such a fool of by you.
 
-    He:
-    This much, at least, of your brother, from the beginning he knew
-    Somewhat concerning that other made such a fool of by you.
+She:
+Firmer those bonds were and faster, Frank was my spaniel, my slave.
+You! you would fain be my master; mark you! the difference is grave.
 
-    She:
-    Firmer those bonds were and faster, Frank was my spaniel, my slave.
-    You! you would fain be my master; mark you! the difference is grave.
-
-    He:
-    Call me your spaniel, your starling, take me and treat me as these,
-    I would be anything, darling! aye, whatsoever you please.
-    Brian and Basil are "punting", leave them their dice and their wine,
-    Bertha is butterfly hunting, surely one hour shall be mine.
-    See, I have done with all duty; see, I can dare all disgrace,
-    Only to look at your beauty, feasting my eyes on your face.
+He:
+Call me your spaniel, your starling, take me and treat me as these,
+I would be anything, darling! aye, whatsoever you please.
+Brian and Basil are "punting", leave them their dice and their wine,
+Bertha is butterfly hunting, surely one hour shall be mine.
+See, I have done with all duty; see, I can dare all disgrace,
+Only to look at your beauty, feasting my eyes on your face.
 
     She:
     Look at me, aye, till your eyes ache! How, let me ask, will it end?
@@ -5263,11 +4980,11 @@ Fragmentary Scenes from the Road to Avernus
     Wilful as ever and wayward; why did you tempt me, Estelle?
 
     She:
-    You misinterpret each stray word, you for each inch take an ell.
-    Lightly all laws and ties trammel me, I am warn'd for all that.
+You misinterpret each stray word, you for each inch take an ell.
+Lightly all laws and ties trammel me, I am warn'd for all that.
 
-    He (aside):
-    Perhaps she will swallow her camel when she has strained at her gnat.
+He (aside):
+Perhaps she will swallow her camel when she has strained at her gnat.
 
     She:
     Therefore take thought and consider, weigh well, as I do, the whole,
@@ -5279,25 +4996,22 @@ Fragmentary Scenes from the Road to Avernus
     Talk not of ties to me reckless, here every tie I discard--
     Make me your girdle, your necklace--
 
-    She:                 Laurence, you kiss me too hard.
+She:                 Laurence, you kiss me too hard.
 
-    He:
-    Aye, 'tis the road to Avernus, n'est ce pas vrai donc, ma belle?
-    There let them bind us or burn us, mais le jeu vaut la chandelle.
-    Am I your lord or your vassal? Are you my sun or my torch?
-    You, when I look at you, dazzle, yet when I touch you, you scorch.
+He:
+Aye, 'tis the road to Avernus, n'est ce pas vrai donc, ma belle?
+There let them bind us or burn us, mais le jeu vaut la chandelle.
+Am I your lord or your vassal? Are you my sun or my torch?
+You, when I look at you, dazzle, yet when I touch you, you scorch.
 
-    She:
-    Yonder are Brian and Basil watching us fools from the porch.
-
-
+She:
+Yonder are Brian and Basil watching us fools from the porch.
 
 
     Scene X
     "After the Quarrel"
 
-    Laurence Raby's Chamber. LAURENCE enters, a little the worse for liquor.
-
+Laurence Raby's Chamber. LAURENCE enters, a little the worse for liquor.
 
 
     Laurence:
@@ -5312,13 +5026,10 @@ Fragmentary Scenes from the Road to Avernus
     The things that trouble us now.
 
 
-
-
     Scene XI
     "Ten Paces Off"
 
-    An open country. LAURENCE RABY and FORREST, BRIAN AYLMER and PRESCOT.
-
+An open country. LAURENCE RABY and FORREST, BRIAN AYLMER and PRESCOT.
 
 
     Forrest:
@@ -5358,13 +5069,10 @@ Fragmentary Scenes from the Road to Avernus
     And I shoot skyward--the heart.
 
 
-
-
     Last Scene
     "Exeunt"
 
     HELEN RABY.
-
 
 
     Where the grave-deeps rot, where the grave-dews rust,
@@ -5404,10 +5112,7 @@ Fragmentary Scenes from the Road to Avernus
     And only the babes have stood.
 
 
-
-
 Doubtful Dreams
-
 
 
     Aye, snows are rife in December,
@@ -5582,10 +5287,7 @@ Doubtful Dreams
     WHAT SHALL BE DONE IN THE DRY?"
 
 
-
-
 The Rhyme of Joyous Garde
-
 
 
     Through the lattice rushes the south wind, dense
@@ -5909,12 +5611,9 @@ The Rhyme of Joyous Garde
       At the blast of His bright archangel.
 
 
-
-
 Thora's Song
 
-    ("Ashtaroth")
-
+("Ashtaroth")
 
 
     We severed in autumn early,
@@ -5963,12 +5662,9 @@ Thora's Song
     He cometh not back again.
 
 
-
-
 The Three Friends
 
-    (From the French)
-
+(From the French)
 
 
     The sword slew one in deadly strife;
@@ -6098,10 +5794,7 @@ The Three Friends
     To see what she hath done.
 
 
-
-
 A Song of Autumn
-
 
 
     "Where shall we go for our garlands glad
@@ -6123,13 +5816,10 @@ A Song of Autumn
     At the falling of the year."
 
 
-
-
 The Romance of Britomarte
 
     As related by Sergeant Leigh on the night he got his captaincy
     at the Restoration.
-
 
 
     I'll tell you a story; but pass the "jack",
@@ -6465,10 +6155,7 @@ The Romance of Britomarte
     The story of HER and of Britomarte.
 
 
-
-
 Laudamus
-
 
 
     The Lord shall slay or the Lord shall save!
@@ -6522,15 +6209,12 @@ Laudamus
     She shall not be thrust where our spirits stand.
 
 
-
-
 A Basket of Flowers
 
-    from Dawn to Dusk
+from Dawn to Dusk
 
 
-
-    Dawn
+Dawn
 
 
     On skies still and starlit
@@ -6637,7 +6321,7 @@ A Basket of Flowers
       *  *  *  *  *
 
 
-    Dusk
+Dusk
 
 
     Lost rose! end my story!
@@ -6650,10 +6334,7 @@ A Basket of Flowers
     And crimson to dusk.
 
 
-
-
 A Fragment
-
 
 
     They say that poison-sprinkled flowers
@@ -6677,14 +6358,10 @@ A Fragment
     However sweet and clear.
 
 
-    [End of Bush Ballads.]
-
-
-
+[End of Bush Ballads.]
 
 
 MISCELLANEOUS POEMS
-
 
 
 To My Sister
@@ -6692,7 +6369,6 @@ To My Sister
     Lines written by the late A. L. Gordon
     On 4th August, 1853,
     Being three days before he sailed for Australia.
-
 
 
     Across the trackless seas I go,
@@ -6813,12 +6489,9 @@ To My Sister
     To you a last farewell!
 
 
-
-
 "The Old Leaven"
 
-    A Dialogue
-
+A Dialogue
 
 
     Mark:
@@ -7034,10 +6707,7 @@ To My Sister
     Just hand it over to me.
 
 
-
-
 An Exile's Farewell
-
 
 
     The ocean heaves around us still
@@ -7104,10 +6774,7 @@ An Exile's Farewell
     Nor will I shed them now!
 
 
-
-
 "Early Adieux"
-
 
 
     Adieu to kindred hearts and home,
@@ -7183,21 +6850,18 @@ An Exile's Farewell
     And let it pass away.
 
 
-
-
 A Hunting Song
-
 
 
     Here's a health to every sportsman, be he stableman or lord,
     If his heart be true, I care not what his pocket may afford;
     And may he ever pleasantly each gallant sport pursue,
-    If he takes his liquor fairly, and his fences fairly, too.
+If he takes his liquor fairly, and his fences fairly, too.
 
-    He cares not for the bubbles of Fortune's fickle tide,
-    Who like Bendigo can battle, and like Olliver can ride.
-    He laughs at those who caution, at those who chide he'll frown,
-    As he clears a five-foot paling, or he knocks a peeler down.
+He cares not for the bubbles of Fortune's fickle tide,
+Who like Bendigo can battle, and like Olliver can ride.
+He laughs at those who caution, at those who chide he'll frown,
+As he clears a five-foot paling, or he knocks a peeler down.
 
     The dull, cold world may blame us, boys! but what care we the while,
     If coral lips will cheer us, and bright eyes on us smile?
@@ -7207,15 +6871,12 @@ A Hunting Song
     Then fill your glass, and drain it, too, with all your heart and soul,
     To the best of sports--The Fox-hunt, The Fair Ones, and The Bowl,
     To a stout heart in adversity through every ill to steer,
-    And when Fortune smiles a score of friends like those around us here.
-
-
+And when Fortune smiles a score of friends like those around us here.
 
 
 To a Proud Beauty
 
-    "A Valentine"
-
+"A Valentine"
 
 
     Though I have loved you well, I ween,
@@ -7237,13 +6898,10 @@ To a Proud Beauty
     While you'll flirt with the men.
 
 
-
-
 Thick-headed Thoughts
 
 
-
-    No. I
+No. I
 
 
     I've something of the bull-dog in my breed,
@@ -7287,7 +6945,7 @@ Thick-headed Thoughts
     Of that praiseworthy patience he displays."
 
 
-    No. II
+No. II
 
 
     A man is independent of the world,
@@ -7300,7 +6958,7 @@ Thick-headed Thoughts
     Between a human he and human she.
 
 
-    No. III
+No. III
 
 
     'Tis a wicked world we live in;
@@ -7329,19 +6987,13 @@ Thick-headed Thoughts
     Luck may take a turn at last.
 
 
-    [End of Miscellaneous Poems.]
-
-
-
-
+[End of Miscellaneous Poems.]
 
 
 ASHTAROTH: A Dramatic Lyric
 
 
-
-    Dramatis Personae
-
+Dramatis Personae
 
 
     HUGO, a Norman Baron and a Scholar.
@@ -7354,9 +7006,9 @@ ASHTAROTH: A Dramatic Lyric
     HUBERT, | Monks living in a Norman Chapel.
     BASIL, Abbot of a Convent on the Rhine.
     CYRIL, a Monk of the same Convent.
-    OSRIC, a Norwegian Adventurer, and formerly a Corsair.
-    RUDOLPH, an Outlawed Count, and the Captain of a Band of Robbers.
-    DAGOBERT, the Captain of some predatory Soldiers called "Free Lances".
+OSRIC, a Norwegian Adventurer, and formerly a Corsair.
+RUDOLPH, an Outlawed Count, and the Captain of a Band of Robbers.
+DAGOBERT, the Captain of some predatory Soldiers called "Free Lances".
     HAROLD, a Danish Knight.
     ORION.
     THORA,                   |
@@ -7369,19 +7021,16 @@ ASHTAROTH: A Dramatic Lyric
     etc.
 
 
+Ashtaroth: A Dramatic Lyric
 
 
-    Ashtaroth: A Dramatic Lyric
+SCENE--A Castle in Normandy.
+
+A Study in a Tower; HUGO seated at a table covered with maps and charts
+of the heavens, astronomical instruments, books, manuscripts, &c.
 
 
-
-    SCENE--A Castle in Normandy.
-
-    A Study in a Tower; HUGO seated at a table covered with maps and charts
-    of the heavens, astronomical instruments, books, manuscripts, &c.
-
-
-      Enter HENRY, a Page.
+Enter HENRY, a Page.
 
     Hugo:
     Well, boy, what is it?
@@ -7495,9 +7144,9 @@ ASHTAROTH: A Dramatic Lyric
     To his old pet sins again.
 
 
-    SCENE--The Same.
+SCENE--The Same.
 
-    HUGO waking, ORION seated near him. Daybreak.
+HUGO waking, ORION seated near him. Daybreak.
 
 
     Hugo:
@@ -7564,9 +7213,9 @@ ASHTAROTH: A Dramatic Lyric
     He is less than ever content.
 
 
-    SCENE--A Cliff on the Breton Coast, Overhanging the Sea.
+SCENE--A Cliff on the Breton Coast, Overhanging the Sea.
 
-    HUGO.
+HUGO.
 
 
     Hugo:
@@ -7746,9 +7395,9 @@ ASHTAROTH: A Dramatic Lyric
     And a sleep like the sleep of a child!
 
 
-    SCENE--The Castle in Normandy.
+SCENE--The Castle in Normandy.
 
-    THORA working at embroidery, ELSPETH spinning.
+THORA working at embroidery, ELSPETH spinning.
 
 
     Thora (sings):
@@ -7874,7 +7523,7 @@ ASHTAROTH: A Dramatic Lyric
     Courtly nor servile manners to him.
 
 
-    SCENE--The Castle Hall.
+SCENE--The Castle Hall.
 
     THURSTON, RALPH, EUSTACE, and other followers of HUGO,
     seated at a long table. HAROLD seated apart.
@@ -7988,12 +7637,12 @@ ASHTAROTH: A Dramatic Lyric
       Never! never! never!
 
 
-    SCENE--The Same.
+SCENE--The Same.
 
-    EUSTACE, THURSTON, and followers of HUGO. HAROLD.
+EUSTACE, THURSTON, and followers of HUGO. HAROLD.
 
 
-      Enter, by the hall door, HUGO, ERIC, and THORA.
+Enter, by the hall door, HUGO, ERIC, and THORA.
 
     Eustace (and others standing up):
     Welcome, Lord Hugo!
@@ -8101,9 +7750,9 @@ ASHTAROTH: A Dramatic Lyric
     Now I heed not where he may go.
 
 
-    SCENE--A Chamber in the Castle.
+SCENE--A Chamber in the Castle.
 
-    HUGO, THORA, and ERIC.
+HUGO, THORA, and ERIC.
 
 
     Hugo:
@@ -8215,9 +7864,9 @@ ASHTAROTH: A Dramatic Lyric
     When the dawn began to dapple.
 
 
-    SCENE--A Chapel Not Very Far from Hugo's Castle.
+SCENE--A Chapel Not Very Far from Hugo's Castle.
 
-    HUGO, ERIC, and two Monks (LUKE and HUBERT). The dead body of HAROLD.
+HUGO, ERIC, and two Monks (LUKE and HUBERT). The dead body of HAROLD.
 
 
     Luke:
@@ -8248,10 +7897,10 @@ ASHTAROTH: A Dramatic Lyric
     In thine earlier days, to sunder right from wrong?
       Charges 'gainst thee cited,
       Cares all unrequited,
-    Counsels spurned and slighted--do they press and throng?"
-      But he shook his head.
-      "'Tis not so," he said;
-    "They will scarce reproach me who reproached of yore.
+Counsels spurned and slighted--do they press and throng?"
+But he shook his head.
+"'Tis not so," he said;
+"They will scarce reproach me who reproached of yore.
       If their counsels good,
       Rashly I withstood;
     Having suffered longer, I have suffered more."
@@ -8322,9 +7971,9 @@ ASHTAROTH: A Dramatic Lyric
     Wrap the cerecloth round him! Eric, let us go.
 
 
-    SCENE--A Room in the Castle.
+SCENE--A Room in the Castle.
 
-    HUGO and ERIC. Early morning.
+HUGO and ERIC. Early morning.
 
 
     Hugo:
@@ -8399,9 +8048,9 @@ ASHTAROTH: A Dramatic Lyric
     Unbidden, springs unruly.
 
 
-    SCENE--A Road on the Norman Frontiers.
+SCENE--A Road on the Norman Frontiers.
 
-    HUGO, AGATHA, ORION, THURSTON, and armed attendants, riding slowly.
+HUGO, AGATHA, ORION, THURSTON, and armed attendants, riding slowly.
 
 
     Agatha:
@@ -8465,9 +8114,9 @@ ASHTAROTH: A Dramatic Lyric
     You are far from a pleasant companion.
 
 
-    SCENE--An Apartment in a Wayside Inn.
+SCENE--An Apartment in a Wayside Inn.
 
-    HUGO and AGATHA. Evening.
+HUGO and AGATHA. Evening.
 
 
     Hugo:
@@ -8552,7 +8201,7 @@ ASHTAROTH: A Dramatic Lyric
     Through thy dreamland yonder.
 
 
-    SCENE--A Wooded Rising Ground, Near the Rhine.
+SCENE--A Wooded Rising Ground, Near the Rhine.
 
     HUGO and AGATHA resting under the trees. THURSTON, EUSTACE,
     and followers a little apart. ORION. (Noonday.)
@@ -8684,9 +8333,9 @@ ASHTAROTH: A Dramatic Lyric
       Oh! bitter, barren years!
 
 
-    SCENE--The Summit of a Burning Mountain.
+SCENE--The Summit of a Burning Mountain.
 
-    Night. A terrific storm. ORION (undisguised).
+Night. A terrific storm. ORION (undisguised).
 
 
     Orion (sings):
@@ -8752,9 +8401,9 @@ ASHTAROTH: A Dramatic Lyric
     Thus triumphs the seed of the asp.
 
 
-    SCENE--Chamber of a Wayside Inn.
+SCENE--Chamber of a Wayside Inn.
 
-    HUGO sitting alone. Evening.
+HUGO sitting alone. Evening.
 
 
     Hugo:
@@ -8863,9 +8512,9 @@ ASHTAROTH: A Dramatic Lyric
     Our bugle shall sound "To Horse!"
 
 
-    SCENE--Another Wayside House, Near the Norman Frontier.
+SCENE--Another Wayside House, Near the Norman Frontier.
 
-    HUGO and ORION in a chamber. Evening.
+HUGO and ORION in a chamber. Evening.
 
 
     Orion:
@@ -8899,8 +8548,8 @@ ASHTAROTH: A Dramatic Lyric
     And the paths we must traverse to-night are rough.
     But first let me mix you a beverage,
     To invigorate your enfeebled frame.
-              [He mixes a draught and hands it to Hugo.]
-    All human ills this draught can assuage.
+[He mixes a draught and hands it to Hugo.]
+All human ills this draught can assuage.
 
     Hugo:
     It hisses and glows like liquid flame;
@@ -8918,7 +8567,7 @@ ASHTAROTH: A Dramatic Lyric
     I am just as wise as I was before.
 
 
-    SCENE--A Rough, Hilly Country.
+SCENE--A Rough, Hilly Country.
 
     HUGO and ORION riding at speed on black horses.
     Mountains in the distance. Night.
@@ -8968,9 +8617,9 @@ ASHTAROTH: A Dramatic Lyric
               [They ride on faster.]
 
 
-    SCENE--A Peak in a Mountainous Country Overhanging a Rocky Pass.
+SCENE--A Peak in a Mountainous Country Overhanging a Rocky Pass.
 
-    HUGO and ORION on black horses. Midnight.
+HUGO and ORION on black horses. Midnight.
 
 
     Hugo:
@@ -9108,9 +8757,9 @@ ASHTAROTH: A Dramatic Lyric
     Like the flames from molten ore that spring;
     We may stand in the pale of the outer ring,
     But forbear to trespass within the inner,
-    Lest the sins of the past should find out the sinner.
-              [They approach the first altar, and stand within the
-              outer circle which surrounds it, and near the inner.]
+Lest the sins of the past should find out the sinner.
+[They approach the first altar, and stand within the
+outer circle which surrounds it, and near the inner.]
 
     Spirits (sing):
     Beneath us it flashes,
@@ -9234,13 +8883,13 @@ ASHTAROTH: A Dramatic Lyric
     Unhand me, slave! or quail to the rod!
     Agatha! Speak! in the name of God!
 
-              [The vision disappears; the altars vanish.
-              Hugo falls insensible.]
+[The vision disappears; the altars vanish.
+Hugo falls insensible.]
 
 
-    SCENE--The Wayside House.
+SCENE--The Wayside House.
 
-    HUGO waking in his chamber. ORION unseen at first. Morning.
+HUGO waking in his chamber. ORION unseen at first. Morning.
 
 
     Hugo:
@@ -9337,7 +8986,7 @@ ASHTAROTH: A Dramatic Lyric
     Human logic strives in vain.
 
 
-    SCENE--A Camp Near the Black Forest.
+SCENE--A Camp Near the Black Forest.
 
     RUDOLPH, OSRIC, DAGOBERT, and followers. ORION disguised as
     one of the Free-lances. Mid-day.
@@ -9462,9 +9111,9 @@ ASHTAROTH: A Dramatic Lyric
     Let us strike our tents and thitherward steer.
 
 
-    SCENE--A Farm-house on the Rhine (About a mile from the Convent).
+SCENE--A Farm-house on the Rhine (About a mile from the Convent).
 
-    HUGO in chamber alone. Enter ERIC.
+HUGO in chamber alone. Enter ERIC.
 
 
     Eric:
@@ -9669,9 +9318,9 @@ ASHTAROTH: A Dramatic Lyric
     Yet he never could deal so stark a blow.
 
 
-    SCENE--A Chamber in the Nuns' Apartments of the Convent.
+SCENE--A Chamber in the Nuns' Apartments of the Convent.
 
-    AGATHA and URSULA.
+AGATHA and URSULA.
 
 
     Agatha:
@@ -9891,10 +9540,10 @@ ASHTAROTH: A Dramatic Lyric
     I fear we are all undone.
 
 
-    SCENE--A Farm-house Near the Convent.
+SCENE--A Farm-house Near the Convent.
 
-    A Chamber furnished with writing materials. HUGO, ERIC, and THURSTON
-    on one side; on the other OSRIC, RUDOLPH, and DAGOBERT.
+A Chamber furnished with writing materials. HUGO, ERIC, and THURSTON
+on one side; on the other OSRIC, RUDOLPH, and DAGOBERT.
 
 
     Osric:
@@ -9985,9 +9634,9 @@ ASHTAROTH: A Dramatic Lyric
     Eric! we dally. Sir Count, good-morrow.
 
 
-    SCENE--The Guest Chamber of the Convent.
+SCENE--The Guest Chamber of the Convent.
 
-    HUGO, ERIC, and ORION.
+HUGO, ERIC, and ORION.
 
 
     Eric:
@@ -10120,9 +9769,9 @@ ASHTAROTH: A Dramatic Lyric
               [Hugo goes out, followed by Orion.]
 
 
-    SCENE--The Corridor Outside the Guest Chamber.
+SCENE--The Corridor Outside the Guest Chamber.
 
-    HUGO pacing up and down. ORION leaning against the wall.
+HUGO pacing up and down. ORION leaning against the wall.
 
 
     Hugo:
@@ -10215,12 +9864,12 @@ ASHTAROTH: A Dramatic Lyric
       How white is thy despair!
 
 
-    SCENE--The Chapel of the Convent.
+SCENE--The Chapel of the Convent.
 
-    URSULA, AGATHA, Nuns and Novices.
+URSULA, AGATHA, Nuns and Novices.
 
 
-    (Hymn of the Nuns):
+(Hymn of the Nuns):
 
     Jehovah! we bless Thee,
       All works of Thine hand
@@ -10277,9 +9926,9 @@ ASHTAROTH: A Dramatic Lyric
       And ever! Amen!
 
 
-    SCENE--The Guest Room of the Convent.
+SCENE--The Guest Room of the Convent.
 
-    HUGO, ERIC, and ORION. Enter URSULA, AGATHA, and Nuns.
+HUGO, ERIC, and ORION. Enter URSULA, AGATHA, and Nuns.
 
 
     Ursula:
@@ -10461,9 +10110,9 @@ ASHTAROTH: A Dramatic Lyric
     Aut victuri, te!   [They go out.]
 
 
-    SCENE--The Outskirts of Rudolph's Camp.
+SCENE--The Outskirts of Rudolph's Camp.
 
-    RUDOLPH, OSRIC, and DAGOBERT. HUGO.
+RUDOLPH, OSRIC, and DAGOBERT. HUGO.
 
 
     Rudolph:
@@ -10559,10 +10208,10 @@ ASHTAROTH: A Dramatic Lyric
     If we separate, both alive!
 
 
-    SCENE--The Court-yard of the Old Farm.
+SCENE--The Court-yard of the Old Farm.
 
-    EUSTACE and other followers of HUGO and ERIC lounging about.
-    Enter THURSTON hastily, with swords under his arm.
+EUSTACE and other followers of HUGO and ERIC lounging about.
+Enter THURSTON hastily, with swords under his arm.
 
 
     Thurston:
@@ -10763,9 +10412,9 @@ ASHTAROTH: A Dramatic Lyric
               [He rides out.]
 
 
-    SCENE--A Room in the Convent Tower Overlooking the Gate.
+SCENE--A Room in the Convent Tower Overlooking the Gate.
 
-    URSULA at the window. AGATHA and Nuns crouching or kneeling in a corner.
+URSULA at the window. AGATHA and Nuns crouching or kneeling in a corner.
 
 
     Ursula:
@@ -10894,15 +10543,15 @@ ASHTAROTH: A Dramatic Lyric
               [She goes out.]
 
 
-    SCENE--A Room in the Convent.
+SCENE--A Room in the Convent.
 
-    THURSTON seated near a small fire.
+THURSTON seated near a small fire.
 
 
-      Enter EUSTACE.
+Enter EUSTACE.
 
-    Eustace:
-    We have come through this skirmish with hardly a scratch.
+Eustace:
+We have come through this skirmish with hardly a scratch.
 
     Thurston:
     And without us, I fancy, they have a full batch
@@ -10996,13 +10645,13 @@ ASHTAROTH: A Dramatic Lyric
     To be robbed of their prey how the ravens will chafe!
     The vanguard of Otto is looming in sight!
     At the sheen of their spears, see! thy foemen take flight,
-    Their foremost are scarce half a mile from the wall.
+Their foremost are scarce half a mile from the wall.
 
-    Thurston:
-    Bring the wine, lest those Germans should swallow it all.
+Thurston:
+Bring the wine, lest those Germans should swallow it all.
 
 
-    SCENE--The Chapel of the Convent.
+SCENE--The Chapel of the Convent.
 
 
     Dirge of the Monks:
@@ -11067,380 +10716,11 @@ ASHTAROTH: A Dramatic Lyric
               (Miserere!)
 
 
-    [End of Ashtaroth.]
-
-
+[End of Ashtaroth.]
 
 
 FOOTNOTES:
 
 
 [Footnote 1: The extension of the tramways has necessitated
-     the removal of this statue to Spring-street.]
-
-
-
-
-
-
-End of the Project Gutenberg EBook of Poems, by Adam Lindsay Gordon
-
-*** END OF THIS PROJECT GUTENBERG EBOOK POEMS ***
-
-***** This file should be named 258.txt or 258.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/2/5/258/
-
-Produced by A. Light and Linda Bowser
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+the removal of this statue to Spring-street.]

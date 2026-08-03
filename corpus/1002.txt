@@ -1,5 +1,3 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 1002 ***
-
 The Divine Comedy
 
 of Dante Alighieri
@@ -12,41 +10,7 @@ PURGATORIO
 
 Contents
 
-I. The Shores of Purgatory. The Four Stars. Cato of Utica. The Rush.
-II. The Celestial Pilot. Casella. The Departure.
-III. Discourse on the Limits of Reason. The Foot of the Mountain. Those who died in Contumacy of Holy Church. Manfredi.
-IV. Farther Ascent. Nature of the Mountain. The Negligent, who postponed Repentance till the last Hour. Belacqua.
-V. Those who died by Violence, but repentant. Buonconte di Monfeltro. La Pia.
-VI. Dante’s Inquiry on Prayers for the Dead. Sordello. Italy.
-VII. The Valley of Flowers. Negligent Princes.
-VIII. The Guardian Angels and the Serpent. Nino di Gallura. The Three Stars. Currado Malaspina.
-IX. Dante’s Dream of the Eagle. The Gate of Purgatory and the Angel. Seven P’s. The Keys.
-X. The Needle’s Eye. The First Circle: The Proud. The Sculptures on the Wall.
-XI. The Humble Prayer. Omberto di Santafiore. Oderisi d’ Agobbio. Provenzan Salvani.
-XII. The Sculptures on the Pavement. Ascent to the Second Circle.
-XIII. The Second Circle: The Envious. Sapia of Siena.
-XIV. Guido del Duca and Renier da Calboli. Cities of the Arno Valley. Denunciation of Stubbornness.
-XV. The Third Circle: The Irascible. Dante’s Visions. The Smoke.
-XVI. Marco Lombardo. Lament over the State of the World.
-XVII. Dante’s Dream of Anger. The Fourth Circle: The Slothful. Virgil’s Discourse of Love.
-XVIII. Virgil further discourses of Love and Free Will. The Abbot of San Zeno.
-XIX. Dante’s Dream of the Siren. The Fifth Circle: The Avaricious and Prodigal. Pope Adrian V.
-XX. Hugh Capet. Corruption of the French Crown. Prophecy of the Abduction of Pope Boniface VIII and the Sacrilege of Philip the Fair. The Earthquake.
-XXI. The Poet Statius. Praise of Virgil.
-XXII. Statius’ Denunciation of Avarice. The Sixth Circle: The Gluttonous. The Mystic Tree.
-XXIII. Forese. Reproof of immodest Florentine Women.
-XXIV. Buonagiunta da Lucca. Pope Martin IV, and others. Inquiry into the State of Poetry.
-XXV. Discourse of Statius on Generation. The Seventh Circle: The Wanton.
-XXVI. Sodomites. Guido Guinicelli and Arnaldo Daniello.
-XXVII. The Wall of Fire and the Angel of God. Dante’s Sleep upon the Stairway, and his Dream of Leah and Rachel. Arrival at the Terrestrial Paradise.
-XXVIII. The River Lethe. Matilda. The Nature of the Terrestrial Paradise.
-XXIX. The Triumph of the Church.
-XXX. Virgil’s Departure. Beatrice. Dante’s Shame.
-XXXI. Reproaches of Beatrice and Confession of Dante. The Passage of Lethe. The Seven Virtues. The Griffon.
-XXXII. The Tree of Knowledge. Allegory of the Chariot.
-XXXIII. Lament over the State of the Church. Final Reproaches of Beatrice. The River Eunoe.
-
-
+I. The Shores of Purgatory. The Four Stars. Cato of Utica. The Rush. II. The Celestial Pilot. Casella. The Departure. III. Discourse on the Limits of Reason. The Foot of the Mountain. Those who died in Contumacy of Holy Church. Manfredi. IV. Farther Ascent. Nature of the Mountain. The Negligent, who postponed Repentance till the last Hour. Belacqua. V. Those who died by Violence, but repentant. Buonconte di Monfeltro. La Pia. VI. Dante’s Inquiry on Prayers for the Dead. Sordello. Italy. VII. The Valley of Flowers. Negligent Princes. VIII. The Guardian Angels and the Serpent. Nino di Gallura. The Three Stars. Currado Malaspina. IX. Dante’s Dream of the Eagle. The Gate of Purgatory and the Angel. Seven P’s. The Keys. X. The Needle’s Eye. The First Circle: The Proud. The Sculptures on the Wall. XI. The Humble Prayer. Omberto di Santafiore. Oderisi d’ Agobbio. Provenzan Salvani. XII. The Sculptures on the Pavement. Ascent to the Second Circle. XIII. The Second Circle: The Envious. Sapia of Siena. XIV. Guido del Duca and Renier da Calboli. Cities of the Arno Valley. Denunciation of Stubbornness. XV. The Third Circle: The Irascible. Dante’s Visions. The Smoke. XVI. Marco Lombardo. Lament over the State of the World. XVII. Dante’s Dream of Anger. The Fourth Circle: The Slothful. Virgil’s Discourse of Love. XVIII. Virgil further discourses of Love and Free Will. The Abbot of San Zeno. XIX. Dante’s Dream of the Siren. The Fifth Circle: The Avaricious and Prodigal. Pope Adrian V. XX. Hugh Capet. Corruption of the French Crown. Prophecy of the Abduction of Pope Boniface VIII and the Sacrilege of Philip the Fair. The Earthquake. XXI. The Poet Statius. Praise of Virgil. XXII. Statius’ Denunciation of Avarice. The Sixth Circle: The Gluttonous. The Mystic Tree. XXIII. Forese. Reproof of immodest Florentine Women. XXIV. Buonagiunta da Lucca. Pope Martin IV, and others. Inquiry into the State of Poetry. XXV. Discourse of Statius on Generation. The Seventh Circle: The Wanton. XXVI. Sodomites. Guido Guinicelli and Arnaldo Daniello. XXVII. The Wall of Fire and the Angel of God. Dante’s Sleep upon the Stairway, and his Dream of Leah and Rachel. Arrival at the Terrestrial Paradise. XXVIII. The River Lethe. Matilda. The Nature of the Terrestrial Paradise. XXIX. The Triumph of the Church. XXX. Virgil’s Departure. Beatrice. Dante’s Shame. XXXI. Reproaches of Beatrice and Confession of Dante. The Passage of Lethe. The Seven Virtues. The Griffon. XXXII. The Tree of Knowledge. Allegory of the Chariot. XXXIII. Lament over the State of the Church. Final Reproaches of Beatrice. The River Eunoe.
 
 
 Purgatorio: Canto I
@@ -235,8 +199,6 @@ There he begirt me as the other pleased;
 Suddenly there where he uprooted it.
 
 
-
-
 Purgatorio: Canto II
 
 
@@ -417,8 +379,6 @@ So that fresh company did I behold
     As one who goes, and knows not whitherward;
 
 Nor was our own departure less in haste.
-
-
 
 
 Purgatorio: Canto III
@@ -619,8 +579,6 @@ See now if thou hast power to make me happy,
 For those on earth can much advance us here.”
 
 
-
-
 Purgatorio: Canto IV
 
 
@@ -811,8 +769,6 @@ Meanwhile the Poet was before me mounting,
 Covers already with her foot Morocco.”
 
 
-
-
 Purgatorio: Canto V
 
 
@@ -997,8 +953,6 @@ I made of me, when agony o’ercame me;
     He knoweth it, who had encircled first,
 
 Espousing me, my finger with his gem.”
-
-
 
 
 Purgatorio: Canto VI
@@ -1207,8 +1161,6 @@ And if thou mind thee well, and see the light,
 But by her tossing wardeth off her pain.
 
 
-
-
 Purgatorio: Canto VII
 
 
@@ -1238,7 +1190,7 @@ So he appeared; and then bowed down his brow,
 
 What merit or what grace to me reveals thee?
     If I to hear thy words be worthy, tell me
-    If thou dost come from Hell, and from what cloister.”
+If thou dost come from Hell, and from what cloister.”
 
 “Through all the circles of the doleful realm,”
     Responded he, “have I come hitherward;
@@ -1393,8 +1345,6 @@ He who the lowest on the ground among them
     For whose sake Alessandria and her war
 
 Make Monferrat and Canavese weep.”
-
-
 
 
 Purgatorio: Canto VIII
@@ -1585,8 +1535,6 @@ Before that such a courteous opinion
     With greater nails than of another’s speech,
 
 Unless the course of justice standeth still.”
-
-
 
 
 Purgatorio: Canto IX
@@ -1787,8 +1735,6 @@ Exactly such an image rendered me
 For now we hear, and now hear not, the words.
 
 
-
-
 Purgatorio: Canto X
 
 
@@ -1977,8 +1923,6 @@ True is it, they were more or less bent down,
     And he who had most patience in his looks
 
 Weeping did seem to say, “I can no more!”
-
-
 
 
 Purgatorio: Canto XI
@@ -2175,8 +2119,6 @@ I say no more, and know that I speak darkly;
 This action has released him from those confines.”
 
 
-
-
 Purgatorio: Canto XII
 
 
@@ -2363,8 +2305,6 @@ And with the fingers of the right hand spread
 Upon beholding which my Leader smiled.
 
 
-
-
 Purgatorio: Canto XIII
 
 
@@ -2478,7 +2418,7 @@ I had Virgilius upon that side
 
 Upon the other side of me I had
     The shades devout, who through the horrible seam
-    Pressed out the tears so that they bathed their cheeks.
+Pressed out the tears so that they bathed their cheeks.
 
 To them I turned me, and, “O people, certain,”
     Began I, “of beholding the high light,
@@ -2573,8 +2513,6 @@ Them wilt thou see among that people vain
     More hope than in discovering the Diana;
 
 But there still more the admirals will lose.”
-
-
 
 
 Purgatorio: Canto XIV
@@ -2783,8 +2721,6 @@ The heavens are calling you, and wheel around you,
 Whence He, who all discerns, chastises you.”
 
 
-
-
 Purgatorio: Canto XV
 
 
@@ -2981,8 +2917,6 @@ And lo! by slow degrees a smoke approached
     Nor was there place to hide one’s self therefrom.
 
 This of our eyes and the pure air bereft us.
-
-
 
 
 Purgatorio: Canto XVI
@@ -3183,8 +3117,6 @@ Behold the dawn, that through the smoke rays out,
 Thus did he speak, and would no farther hear me.
 
 
-
-
 Purgatorio: Canto XVII
 
 
@@ -3373,8 +3305,6 @@ The love that yields itself too much to this
     But how tripartite it may be described,
 
 I say not, that thou seek it for thyself.”
-
-
 
 
 Purgatorio: Canto XVIII
@@ -3575,8 +3505,6 @@ Whence others many and diverse were born;
 And meditation into dream transmuted.
 
 
-
-
 Purgatorio: Canto XIX
 
 
@@ -3646,7 +3574,7 @@ With open wings, which of a swan appeared,
 
 He moved his pinions afterwards and fanned us,
     Affirming those ‘qui lugent’ to be blessed,
-    For they shall have their souls with comfort filled.
+For they shall have their souls with comfort filled.
 
 “What aileth thee, that aye to earth thou gazest?”
     To me my Guide began to say, we both
@@ -3674,7 +3602,7 @@ Such I became, and such, as far as cleaves
 
 On the fifth circle when I had come forth,
     People I saw upon it who were weeping,
-    Stretched prone upon the ground, all downward turned.
+Stretched prone upon the ground, all downward turned.
 
 “Adhaesit pavimento anima mea,”
     I heard them say with sighings so profound,
@@ -3773,8 +3701,6 @@ On earth I have a grandchild named Alagia,
     Malevolent may make her by example,
 
 And she alone remains to me on earth.”
-
-
 
 
 Purgatorio: Canto XX
@@ -3983,8 +3909,6 @@ As meditating then I seemed to have;
 So I went onward timorous and thoughtful.
 
 
-
-
 Purgatorio: Canto XXI
 
 
@@ -4169,8 +4093,6 @@ And he uprising: “Now canst thou the sum
     When this our vanity I disremember,
 
 Treating a shadow as substantial thing.”
-
-
 
 
 Purgatorio: Canto XXII
@@ -4383,8 +4305,6 @@ Honey and locusts were the aliments
 As by the Evangel is revealed to you.”
 
 
-
-
 Purgatorio: Canto XXIII
 
 
@@ -4565,8 +4485,6 @@ This is Virgilius, who thus says to me,”
     That shade for whom just now shook every slope
 
 Your realm, that from itself discharges him.”
-
-
 
 
 Purgatorio: Canto XXIV
@@ -4779,8 +4697,6 @@ And heard it said: “Blessed are they whom grace
 Hungering at all times so far as is just.”
 
 
-
-
 Purgatorio: Canto XXV
 
 
@@ -4971,14 +4887,12 @@ And I believe that them this mode suffices,
 That the last wound of all should be closed up.
 
 
-
-
 Purgatorio: Canto XXVI
 
 
 While on the brink thus one before the other
-    We went upon our way, oft the good Master
-    Said: “Take thou heed! suffice it that I warn thee.”
+We went upon our way, oft the good Master
+Said: “Take thou heed! suffice it that I warn thee.”
 
 On the right shoulder smote me now the sun,
     That, raying out, already the whole west
@@ -5184,8 +5098,6 @@ Therefore do I implore you, by that power
     Be mindful to assuage my suffering!
 
 
-
-
 Purgatorio: Canto XXVII
 
 
@@ -5378,8 +5290,6 @@ Expect no more or word or sign from me;
     And error were it not to do its bidding;
 
 Thee o’er thyself I therefore crown and mitre!”
-
-
 
 
 Purgatorio: Canto XXVIII
@@ -5582,8 +5492,6 @@ Then backward did I turn me wholly round
     They had been listening to these closing words;
 
 Then to the beautiful lady turned mine eyes.
-
-
 
 
 Purgatorio: Canto XXIX
@@ -5796,8 +5704,6 @@ And when the car was opposite to me
 There with the vanward ensigns standing still.
 
 
-
-
 Purgatorio: Canto XXX
 
 
@@ -5996,8 +5902,6 @@ God’s lofty fiat would be violated,
 Of penitence, that gushes forth in tears.”
 
 
-
-
 Purgatorio: Canto XXXI
 
 
@@ -6194,8 +6098,6 @@ He would not seem to have his mind encumbered
     Where the harmonious heaven o’ershadowed thee,
 
 When in the open air thou didst unveil?
-
-
 
 
 Purgatorio: Canto XXXII
@@ -6416,8 +6318,6 @@ Then full of jealousy, and fierce with wrath,
 A shield unto the whore and the strange beast.
 
 
-
-
 Purgatorio: Canto XXXIII
 
 
@@ -6614,5 +6514,3 @@ From the most holy water I returned
     That are renewed with a new foliage,
 
 Pure and disposed to mount unto the stars.
-
-*** END OF THE PROJECT GUTENBERG EBOOK 1002 ***

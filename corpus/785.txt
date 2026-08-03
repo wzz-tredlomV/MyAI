@@ -1,12 +1,6 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 785 ***
-
-
-
-
 OF THE NATURE OF THINGS
 
 By Titus Lucretius Carus
-
 
 
 A Metrical Translation
@@ -14,11 +8,7 @@ A Metrical Translation
 By William Ellery Leonard
 
 
-
-
 BOOK I
-
-
 
 
 PROEM
@@ -188,8 +178,6 @@ PROEM
      Dead men whose bones earth bosomed long ago.
 
 
-
-
 SUBSTANCE IS ETERNAL
 
      This terror, then, this darkness of the mind,
@@ -335,7 +323,6 @@ SUBSTANCE IS ETERNAL
      Upbuilds one thing from other, suffering naught
      To come to birth but through some other's death.
 
-     *****
 
      And now, since I have taught that things cannot
      Be born from nothing, nor the same, when born,
@@ -406,8 +393,6 @@ SUBSTANCE IS ETERNAL
      When things wax old with eld and foul decay,
      Or when salt seas eat under beetling crags.
      Thus Nature ever by unseen bodies works.
-
-
 
 
 THE VOID
@@ -520,8 +505,6 @@ THE VOID
      At hand for one soever question broached.
 
 
-
-
 NOTHING EXISTS per se EXCEPT ATOMS AND THE VOID
 
      But, now again to weave the tale begun,
@@ -603,8 +586,6 @@ NOTHING EXISTS per se EXCEPT ATOMS AND THE VOID
      Wherein all things go on.
 
 
-
-
 CHARACTER OF THE ATOMS
 
 
@@ -683,7 +664,6 @@ CHARACTER OF THE ATOMS
      When comes its supreme hour, that thus there be
      At hand the stuff for plenishing the world.
 
-     *****
 
      So primal germs have solid singleness
      Nor otherwise could they have been conserved
@@ -759,7 +739,6 @@ CHARACTER OF THE ATOMS
                                  And then again,
      Since there is ever an extreme bounding point
 
-     *****
 
      Of that first body which our senses now
      Cannot perceive: That bounding point indeed
@@ -803,8 +782,6 @@ CHARACTER OF THE ATOMS
      Of generative stuff--divers connections,
      Weights, blows, encounters, motions, whereby things
      Forevermore have being and go on.
-
-
 
 
 CONFUTATION OF OTHER PHILOSOPHERS
@@ -1164,8 +1141,6 @@ CONFUTATION OF OTHER PHILOSOPHERS
      Or moisten with salty tear-drops cheeks and chins.
 
 
-
-
 THE INFINITY OF THE UNIVERSE
 
 
@@ -1413,7 +1388,6 @@ THE INFINITY OF THE UNIVERSE
      Unless, little by little, from out the earth
      For each were nutriment...
 
-     *****
 
      Lest, after the manner of the winged flames,
      The ramparts of the world should flee away,
@@ -1437,7 +1411,6 @@ THE INFINITY OF THE UNIVERSE
                     These points, if thou wilt ponder,
      Then, with but paltry trouble led along...
 
-     *****
 
      For one thing after other will grow clear,
      Nor shall the blind night rob thee of the road,
@@ -1445,11 +1418,7 @@ THE INFINITY OF THE UNIVERSE
      Thus things for things shall kindle torches new.
 
 
-
-
 BOOK II
-
-
 
 
 PROEM
@@ -1532,8 +1501,6 @@ PROEM
      Not sunrise with its flaring spokes of light,
      Nor glittering arrows of morning can disperse,
      But only nature's aspect and her law.
-
-
 
 
 ATOMIC MOTIONS
@@ -1711,7 +1678,6 @@ ATOMIC MOTIONS
      Of space much vaster, in the self-same time
      The sun's effulgence widens round the sky.
 
-     *****
      Nor to pursue the atoms one by one,
      To see the law whereby each thing goes on.
      But some men, ignorant of matter, think,
@@ -1897,9 +1863,7 @@ ATOMIC MOTIONS
      Out of the world matter of any kind,
      Nor forth from which a fresh supply can spring,
      Break in upon the founded world, and change
-     Whole nature of things, and turn their motions about.
-
-
+Whole nature of things, and turn their motions about.
 
 
 ATOMIC FORMS AND THEIR  COMBINATIONS
@@ -1917,7 +1881,6 @@ ATOMIC FORMS AND THEIR  COMBINATIONS
      They must indeed not one and all be marked
      By equal outline and by shape the same.
 
-     *****
      Moreover, humankind, and the mute flocks
      Of scaly creatures swimming in the streams,
      And joyous herds around, and all the wild,
@@ -1966,7 +1929,6 @@ ATOMIC FORMS AND THEIR  COMBINATIONS
      They needs must flitter to and fro with shapes
      In types dissimilar to one another.
 
-     *****
 
      Easy enough by thought of mind to solve
      Why fires of lightning more can penetrate
@@ -2113,7 +2075,6 @@ ATOMIC FORMS AND THEIR  COMBINATIONS
      Of an immeasurable immensity--
      Which I have taught above cannot be proved.
 
-     *****
 
      And now for thee barbaric robes, and gleam
      Of Meliboean purple, touched with dye
@@ -2251,7 +2212,6 @@ ATOMIC FORMS AND THEIR  COMBINATIONS
 
      Her hymned the old and learned bards of Greece
 
-     *****
 
      Seated in chariot o'er the realms of air
      To drive her team of lions, teaching thus
@@ -2362,7 +2322,6 @@ ATOMIC FORMS AND THEIR  COMBINATIONS
      Along together colour and flavour and smell,
      Among which, chief, are most burnt offerings.
 
-     *****
 
      Thus must they be of divers shapes composed.
      A smell of scorching enters in our frame
@@ -2400,7 +2359,6 @@ ATOMIC FORMS AND THEIR  COMBINATIONS
      But think not, haply, living forms alone
      Are bound by these laws: they distinguished all.
 
-     *****
 
      For just as all things of creation are,
      In their whole nature, each to each unlike,
@@ -2431,7 +2389,6 @@ ATOMIC FORMS AND THEIR  COMBINATIONS
      And hold all heaven from the lands away.
 
 
-
 ABSENCE OF SECONDARY QUALITIES
 
 
@@ -2460,7 +2417,6 @@ ABSENCE OF SECONDARY QUALITIES
                              Now that here
      I win the argument, I next will teach
 
-     *****
 
      Now, every colour changes, none except,
      And every...
@@ -2599,7 +2555,6 @@ ABSENCE OF SECONDARY QUALITIES
      From out themselves, nor any flavour, too,
      Nor cold, nor exhalation hot or warm.
 
-     *****
 
      The rest; yet since these things are mortal all--
      The pliant mortal, with a body soft;
@@ -2662,7 +2617,6 @@ ABSENCE OF SECONDARY QUALITIES
      From feeling objects be create, and these,
      In turn, from others that are wont to feel
 
-     *****
 
      When soft they make them; for all sense is linked
      With flesh, and thews, and veins--and such, we see,
@@ -2780,7 +2734,6 @@ ABSENCE OF SECONDARY QUALITIES
      Oho, I'll follow thee until thou grant
      The seed (which here thou say'st speaks, laughs, and
 
-     *****
                                    thinks)
      Is yet derived out of other seeds
      Which in their turn are doing just the same.
@@ -2793,8 +2746,6 @@ ABSENCE OF SECONDARY QUALITIES
      Cannot those things which we perceive to have
      Their own sensation be composed as well
      Of intermixed seeds quite void of sense?
-
-
 
 
 INFINITE WORLDS
@@ -3062,11 +3013,7 @@ INFINITE WORLDS
      Outworn by venerable length of life.
 
 
-
-
 BOOK III
-
-
 
 
 PROEM
@@ -3190,8 +3137,6 @@ PROEM
      Not sunrise with its flaring spokes of light,
      Nor glittering arrows of morning sun disperse,
      But only nature's aspect and her law.
-
-
 
 
 NATURE AND COMPOSITION OF THE MIND
@@ -3585,8 +3530,6 @@ NATURE AND COMPOSITION OF THE MIND
      Are each to other bound forevermore.
 
 
-
-
 THE SOUL IS MORTAL
 
 
@@ -3683,7 +3626,6 @@ THE SOUL IS MORTAL
      With tossing round. No marvel, since distract
      Through frame by violence of disease.
 
-     *****
 
      Confounds, he foams, as if to vomit soul,
      As on the salt sea boil the billows round
@@ -4118,7 +4060,6 @@ THE SOUL IS MORTAL
      Or else because what come somehow retire,
      Repelled or ere we feel the harm they work,
 
-     *****
 
      For, lo, besides that, when the frame's diseased,
      Soul sickens too, there cometh, many a time,
@@ -4130,8 +4071,6 @@ THE SOUL IS MORTAL
      And that oblivion of the things that were;
      Add its submergence in the murky waves
      Of drowse and torpor.
-
-
 
 
 FOLLY OF THE FEAR OF DEATH
@@ -4377,11 +4316,9 @@ FOLLY OF THE FEAR OF DEATH
      To pour, like those young virgins in the tale,
      Waters into a sieve, unfilled forever.
 
-     *****
 
-     Cerberus and Furies, and that Lack of Light
+Cerberus and Furies, and that Lack of Light
 
-     *****
 
      Tartarus, out-belching from his mouth the surge
      Of horrible heat--the which are nowhere, nor
@@ -4495,11 +4432,7 @@ FOLLY OF THE FEAR OF DEATH
      Than he who perished months or years before.
 
 
-
-
 BOOK IV
-
-
 
 
 PROEM
@@ -4539,8 +4472,6 @@ PROEM
      The mind of thee upon these lines of ours,
      Till thou dost learn the nature of all things
      And understandest their utility.
-
-
 
 
 EXISTENCE AND CHARACTER OF THE IMAGES
@@ -4673,7 +4604,6 @@ EXISTENCE AND CHARACTER OF THE IMAGES
      If never so lightly with thy [fingers] twain
      Perchance [thou touch] a one of them
 
-     *****
 
      Then why not rather know that images
      Flit hither and thither, many, in many modes,
@@ -4701,7 +4631,6 @@ EXISTENCE AND CHARACTER OF THE IMAGES
      Engendered, and perpetually flow off
      From things and gliding pass away....
 
-     *****
 
      For ever every outside streams away
      From off all objects, since discharge they may;
@@ -4796,11 +4725,6 @@ EXISTENCE AND CHARACTER OF THE IMAGES
      Unto the shores of earth? Wherefore, again,
      And yet again, 'tis needful to confess
      With wondrous...
-
-     *****
-
-
-
 
 
 THE SENSES AND MENTAL PICTURES
@@ -4902,7 +4826,6 @@ THE SENSES AND MENTAL PICTURES
      It looks so far removed behind the glass.
      Wherefore again, again, there's naught for wonder
 
-     *****
 
      In those which render from the mirror's plane
      A vision back, since each thing comes to pass
@@ -5227,7 +5150,6 @@ THE SENSES AND MENTAL PICTURES
      Also the door of the mouth is scraped against
      [By air blown outward] from distended [cheeks].
 
-     *****
 
      And thus no doubt there is, that voice and words
      Consist of elements corporeal,
@@ -5367,7 +5289,6 @@ THE SENSES AND MENTAL PICTURES
      Now, how it is we see some food for some,
      Others for others....
 
-     *****
 
      I will unfold, or wherefore what to some
      Is foul and bitter, yet the same to others
@@ -5410,7 +5331,6 @@ THE SENSES AND MENTAL PICTURES
      Now easy it is from these affairs to know
      Whatever...
 
-     *****
 
      Indeed, where one from o'er-abundant bile
      Is stricken with fever, or in other wise
@@ -5634,8 +5554,6 @@ THE SENSES AND MENTAL PICTURES
      So 'tis that we conjecture from small signs
      Things wide and weighty, and involve ourselves
      In snarls of self-deceit.
-
-
 
 
 SOME VITAL FUNCTIONS
@@ -5946,8 +5864,6 @@ SOME VITAL FUNCTIONS
      To join with it and cast into its frame
      The fluid drawn even from within its own.
      For the mute craving doth presage delight.
-
-
 
 
 THE PASSION OF LOVE
@@ -6288,11 +6204,7 @@ THE PASSION OF LOVE
      Against the stones at last bore through the stones?
 
 
-
-
 BOOK V
-
-
 
 
 PROEM
@@ -6371,10 +6283,8 @@ PROEM
      The nature of the world.
 
 
-
-
 ARGUMENT OF THE BOOK AND NEW PROEM
-     AGAINST A TELEOLOGICAL CONCEPT
+AGAINST A TELEOLOGICAL CONCEPT
 
 
                                  And walking now
@@ -6597,7 +6507,6 @@ ARGUMENT OF THE BOOK AND NEW PROEM
      Over the two-pronged mattock and to cleave
      The soil in twain by pressing on the plough.
 
-     *****
 
      Unless, by the ploughshare turning the fruitful clods
      And kneading the mould, we quicken into birth,
@@ -6631,8 +6540,6 @@ ARGUMENT OF THE BOOK AND NEW PROEM
      Their own to guard--because the earth herself
      And nature, artificer of the world, bring forth
      Aboundingly all things for all.
-
-
 
 
 THE WORLD IS NOT ETERNAL
@@ -6675,7 +6582,6 @@ THE WORLD IS NOT ETERNAL
      Besides, whatever takes a part its own
      In fostering and increasing [aught]...
 
-     *****
 
      Is rendered back; and since, beyond a doubt,
      Earth, the all-mother, is beheld to be
@@ -6830,7 +6736,6 @@ THE WORLD IS NOT ETERNAL
      With which have sickened in the past those men
      Whom nature hath removed from life.
 
-     *****
      gain,
      Whatever abides eternal must indeed
      Either repel all strokes, because 'tis made
@@ -6922,13 +6827,11 @@ THE WORLD IS NOT ETERNAL
      When all that force of water-stuff which forth
      From out the infinite had risen up
      Did now retire, as somehow turned aside,
-     The rain-storms stopped, and streams their fury checked.
-
-
+The rain-storms stopped, and streams their fury checked.
 
 
 FORMATION OF THE WORLD AND
-     ASTRONOMICAL QUESTIONS
+ASTRONOMICAL QUESTIONS
 
 
      But in what modes that conflux of first-stuff
@@ -6999,7 +6902,6 @@ FORMATION OF THE WORLD AND
      Bore lightly off the many starry fires;
      And not far otherwise we often see
 
-     *****
 
      And the still lakes and the perennial streams
      Exhale a mist, and even as earth herself
@@ -7462,8 +7364,6 @@ FORMATION OF THE WORLD AND
      Regions unfriendly to the beams her own?
 
 
-
-
 ORIGINS OF VEGETABLE AND ANIMAL LIFE
 
 
@@ -7690,8 +7590,6 @@ ORIGINS OF VEGETABLE AND ANIMAL LIFE
      In nature's fixed decree.
 
 
-
-
 ORIGINS AND SAVAGE PERIOD OF MANKIND
 
 
@@ -7756,7 +7654,6 @@ ORIGINS AND SAVAGE PERIOD OF MANKIND
      And many they'd conquer, but some few they fled,
      A-skulk into their hiding-places...
 
-     *****
 
      With the flung stones and with the ponderous heft
      Of gnarled branch. And by the time of night
@@ -7817,8 +7714,6 @@ ORIGINS AND SAVAGE PERIOD OF MANKIND
      They give the drafts to others.
 
 
-
-
 BEGINNINGS OF CIVILIZATION
 
 
@@ -7827,7 +7722,6 @@ BEGINNINGS OF CIVILIZATION
      And when the woman, joined unto the man,
      Withdrew with him into one dwelling place,
 
-     *****
 
      Were known; and when they saw an offspring born
      From out themselves, then first the human race
@@ -8456,11 +8350,7 @@ BEGINNINGS OF CIVILIZATION
      They've now achieved the supreme pinnacle.
 
 
-
-
 BOOK VI
-
-
 
 
 PROEM
@@ -8524,18 +8414,15 @@ PROEM
      Of frame e'en born in time, and whatsoe'er
      Therein go on and must perforce go on
 
-     *****
 
      The most I have unravelled; what remains
      Do thou take in, besides; since once for all
      To climb into that chariot' renowned
 
-     *****
 
      Of winds arise; and they appeased are
      So that all things again...
 
-     *****
 
      Which were, are changed now, with fury stilled;
      All other movements through the earth and sky
@@ -8603,8 +8490,6 @@ PROEM
      On to the white line of the utmost goal,
      That I may get with signal praise the crown,
      With thee my guide!
-
-
 
 
 GREAT METEOROLOGICAL PHENOMENA, ETC.
@@ -8704,7 +8589,6 @@ GREAT METEOROLOGICAL PHENOMENA, ETC.
      Of rain-cloud, there congealed utterly
      And mixed with hail-stones, breaks and booms...
 
-     *****
 
      Likewise, it lightens, when the clouds have struck,
      By their collision, forth the seeds of fire:
@@ -8822,7 +8706,6 @@ GREAT METEOROLOGICAL PHENOMENA, ETC.
      With his hot coruscations: so much more
      Agile and overpowering is this force.
 
-     *****
 
      Now in what manner engendered are these things,
      How fashioned of such impetuous strength
@@ -9372,14 +9255,9 @@ GREAT METEOROLOGICAL PHENOMENA, ETC.
      Be following after, utterly fordone,
      Till be but wrack and wreckage of a world.
 
-     *****
-
-
-
-
 
 EXTRAORDINARY AND PARADOXICAL TELLURIC
-     PHENOMENA
+PHENOMENA
 
 
      In chief, men marvel nature renders not
@@ -9508,7 +9386,6 @@ EXTRAORDINARY AND PARADOXICAL TELLURIC
      Even to the bottom of the mountain's throat.
      Herethrough thou must admit there go...
 
-     *****
 
      And the conditions force [the water and air]
      Deeply to penetrate from the open sea,
@@ -9706,9 +9583,7 @@ EXTRAORDINARY AND PARADOXICAL TELLURIC
      Lo, nature constrains them by their weight to slip
      Down to the earth, and lying prostrate there
      Along the well-nigh empty void, they spend
-     Their souls through all the openings of their frame.
-
-     *****
+Their souls through all the openings of their frame.
 
 
      Further, the water of wells is colder then
@@ -9869,7 +9744,6 @@ EXTRAORDINARY AND PARADOXICAL TELLURIC
      That's wont to penetrate even strength of iron.
      Again, where corselet of the sky girds round
 
-     *****
 
      And at same time, some Influence of bane,
      When from Beyond 'thas stolen into [our world].
@@ -9990,7 +9864,6 @@ EXTRAORDINARY AND PARADOXICAL TELLURIC
      And therefore drubs upon the ring sans doubt
      And shakes it up inside....
 
-     *****
 
      In sooth, that ring is thither borne along
      To where 'thas once plunged headlong--thither, lo,
@@ -10129,8 +10002,6 @@ EXTRAORDINARY AND PARADOXICAL TELLURIC
      Herself import a tainted atmosphere
      To us or something strange to our own use
      Which can attack us soon as ever it come.
-
-
 
 
 THE PLAGUE ATHENS
@@ -10280,7 +10151,6 @@ THE PLAGUE ATHENS
      The funerals, uncompanioned, forsaken,
      Like rivals contended to be hurried through.
 
-     *****
 
      And men contending to ensepulchre
      Pile upon pile the throng of their own dead:
@@ -10338,6 +10208,3 @@ THE PLAGUE ATHENS
      Place their own kin, and thrust the torch beneath
      Oft brawling with much bloodshed round about
      Rather than quit dead bodies loved in life.
-
-
-*** END OF THE PROJECT GUTENBERG EBOOK 785 ***

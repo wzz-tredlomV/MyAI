@@ -1,50 +1,14 @@
-﻿The Project Gutenberg eBook, Songs of a Savoyard, by W. S. Gilbert
+also from “Fifty Bab Ballads” 1884 George Routledge and Sons edition by David Price, email ccx074@pglaf.org
+
+[Picture: Public domain book cover]
 
 
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions 
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at 
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-
-
-
-Title: Songs of a Savoyard
-
-
-Author: W. S. Gilbert
-
-
-
-Release Date: August 11, 2019  [eBook #934]
-[This file was first posted June 4, 1997]
-
-Language: English
-
-Character set encoding: UTF-8
-
-
-***START OF THE PROJECT GUTENBERG EBOOK SONGS OF A SAVOYARD***
-
-
-Transcribed from the 1920 Macmillan and Co edition of “The Bab Ballads”,
-also from “Fifty Bab Ballads” 1884 George Routledge and Sons edition by
-David Price, email ccx074@pglaf.org
-
-                   [Picture: Public domain book cover]
-
-
-
-
-
-                           Songs of a Savoyard
+Songs of a Savoyard
 
 
 CONTENTS
 
-                                        PAGE
+PAGE
 THE DARNED MOUNSEER                        6
 THE ENGLISHMAN                            13
 THE DISAGREEABLE MAN                      16
@@ -134,8 +98,6 @@ THE DISCONCERTED TENOR                   547
 THE PLAYED-OUT HUMORIST                  553
 
 
-
-
 THE DARNED MOUNSEER
 
 
@@ -184,8 +146,6 @@ THE DARNED MOUNSEER
          Who had pity on a poor Parley-voo!
 
 
-
-
 THE ENGLISHMAN
 
 
@@ -203,15 +163,13 @@ THE ENGLISHMAN
    For the true-born Englishman!
 
 
-
-
 THE DISAGREEABLE MAN
 
 
-   IF you give me your attention, I will tell you what I am:
-   I’m a genuine philanthropist—all other kinds are sham.
-   Each little fault of temper and each social defect
-   In my erring fellow-creatures, I endeavour to correct.
+IF you give me your attention, I will tell you what I am:
+I’m a genuine philanthropist—all other kinds are sham.
+Each little fault of temper and each social defect
+In my erring fellow-creatures, I endeavour to correct.
    To all their little weaknesses I open people’s eyes,
    And little plans to snub the self-sufficient I devise;
    I love my fellow-creatures—I do all the good I can—
@@ -237,8 +195,6 @@ THE DISAGREEABLE MAN
    But although I try to make myself as pleasant as I can,
    Yet everybody says I’m such a disagreeable man!
                         And I can’t think why!
-
-
 
 
 THE COMING BY-AND-BY
@@ -272,8 +228,6 @@ THE COMING BY-AND-BY
       In the coming by-and-by!
 
 
-
-
 THE HIGHLY RESPECTABLE GONDOLIER
 
 
@@ -285,10 +239,10 @@ THE HIGHLY RESPECTABLE GONDOLIER
                With his own beloved bratling.
 
                   Both of the babes were strong and stout,
-                     And, considering all things, clever.
-                  Of that there is no manner of doubt—
-                  No probable, possible shadow of doubt—
-                     No possible doubt whatever.
+And, considering all things, clever.
+Of that there is no manner of doubt—
+No probable, possible shadow of doubt—
+No possible doubt whatever.
 
    Time sped, and when at the end of a year
                I sought that infant cherished,
@@ -328,8 +282,6 @@ THE HIGHLY RESPECTABLE GONDOLIER
                A tale so free from every doubt—
                All probable, possible shadow of doubt—
                   All possible doubt whatever!
-
-
 
 
 THE FAIRY QUEEN’S SONG
@@ -374,8 +326,6 @@ THE FAIRY QUEEN’S SONG
                Quench my great love, I wonder!
 
 
-
-
 IS LIFE A BOON
 
 
@@ -402,8 +352,6 @@ IS LIFE A BOON
          My life most gladly give—
          I might have had to live
    Another morn!
-
-
 
 
 THE MODERN MAJOR-GENERAL
@@ -442,13 +390,11 @@ THE MODERN MAJOR-GENERAL
    When I have learnt what progress has been made in modern gunnery,
    When I know more of tactics than a novice in a nunnery,
    In short, when I’ve a smattering of elementary strategy,
-   You’ll say a better Major-Gener_al_ has never _sat_ a gee—
-   For my military knowledge, though I’m plucky and adventury,
-   Has only been brought down to the beginning of the century.
+You’ll say a better Major-Gener_al_ has never _sat_ a gee—
+For my military knowledge, though I’m plucky and adventury,
+Has only been brought down to the beginning of the century.
    But still in learning vegetable, animal, and mineral,
    I am the very model of a modern Major-Gineral!
-
-
 
 
 THE HEAVY DRAGOON
@@ -497,8 +443,6 @@ THE HEAVY DRAGOON
                      And a Heavy Dragoon is the residuum!
 
 
-
-
 PROPER PRIDE
 
 
@@ -539,8 +483,6 @@ PROPER PRIDE
                The Moon and I!
 
 
-
-
 THE POLICEMAN’S LOT
 
 
@@ -561,8 +503,6 @@ THE POLICEMAN’S LOT
       He loves to lie a-basking in the sun:
    Ah, take one consideration with another,
       The policeman’s lot is not a happy one!
-
-
 
 
 THE BAFFLED GRUMBLER
@@ -620,8 +560,6 @@ THE BAFFLED GRUMBLER
    And I’ve nothing whatever to grumble at!
 
 
-
-
 THE HOUSE OF PEERS
 
 
@@ -648,8 +586,6 @@ THE HOUSE OF PEERS
       They do not understand,
    As bright will shine Great Britain’s rays,
    As in King George’s glorious days!
-
-
 
 
 A MERRY MADRIGAL
@@ -682,12 +618,10 @@ A MERRY MADRIGAL
                      Fal la!
 
 
-
-
 THE DUKE AND THE DUCHESS
 
 
-                                  THE DUKE.
+THE DUKE.
 
    Small titles and orders
    For Mayors and Recorders
@@ -763,8 +697,6 @@ THE DUKE AND THE DUCHESS
          Than trot out a Duke or a Duchess!
 
 
-
-
 EHEU FUGACES—!
 
 
@@ -792,8 +724,6 @@ EHEU FUGACES—!
       Ah me, I was a pale young curate then!
 
 
-
-
 THEY’LL NONE OF ’EM BE MISSED
 
 
@@ -801,12 +731,12 @@ THEY’LL NONE OF ’EM BE MISSED
       I’ve got a little list—I’ve got a little list
    Of social offenders who might well be underground,
       And who never would be missed—who never would be missed!
-   There’s the pestilential nuisances who write for autographs—
-   All people who have flabby hands and irritating laughs—
-   All children who are up in dates, and floor you with ’em flat—
-   All persons who in shaking hands, shake hands with you like _that_—
-   And all third persons who on spoiling _tête-à-têtes_ insist—
-      They’d none of ’em be missed—they’d none of ’em be missed!
+There’s the pestilential nuisances who write for autographs—
+All people who have flabby hands and irritating laughs—
+All children who are up in dates, and floor you with ’em flat—
+All persons who in shaking hands, shake hands with you like _that_—
+And all third persons who on spoiling _tête-à-têtes_ insist—
+They’d none of ’em be missed—they’d none of ’em be missed!
 
    There’s the nigger serenader, and the others of his race,
       And the piano organist—I’ve got him on the list!
@@ -816,12 +746,12 @@ THEY’LL NONE OF ’EM BE MISSED
    All centuries but this, and every country but his own;
    And the lady from the provinces, who dresses like a guy,
    And who “doesn’t think she waltzes, but would rather like to try”;
-   And that _fin-de-siècle_ anomaly, the scorching motorist—
-      I don’t think he’d be missed—I’m _sure_ he’d not be missed!
+And that _fin-de-siècle_ anomaly, the scorching motorist—
+I don’t think he’d be missed—I’m _sure_ he’d not be missed!
 
-   And that _Nisi Prius_ nuisance, who just now is rather rife,
-      The Judicial humorist—I’ve got _him_ on the list!
-   All funny fellows, comic men, and clowns of private life—
+And that _Nisi Prius_ nuisance, who just now is rather rife,
+The Judicial humorist—I’ve got _him_ on the list!
+All funny fellows, comic men, and clowns of private life—
       They’d none of ’em be missed—they’d none of ’em be missed!
    And apologetic statesmen of the compromising kind,
    Such as—What-d’ye-call-him—Thing’em-Bob, and likewise—Never-mind,
@@ -829,8 +759,6 @@ THEY’LL NONE OF ’EM BE MISSED
    (The task of filling up the blanks I’d rather leave to _you_!)
    But it really doesn’t matter whom you put upon the list,
       For they’d none of ’em be missed—they’d none of ’em be missed!
-
-
 
 
 GIRL GRADUATES
@@ -881,8 +809,6 @@ GIRL GRADUATES
             At this Universitee!
 
 
-
-
 BRAID THE RAVEN HAIR
 
 
@@ -907,8 +833,6 @@ BRAID THE RAVEN HAIR
       Colour, come and go!
    Modesty at marriage tide
    Well becomes a pretty bride!
-
-
 
 
 THE WORKING MONARCH
@@ -982,8 +906,6 @@ THE WORKING MONARCH
    Is the gratifying feeling that our duty has been done!
 
 
-
-
 THE APE AND THE LADY
 
 
@@ -1024,8 +946,6 @@ THE APE AND THE LADY
    At best is only a monkey shaved!
 
 
-
-
 ONLY ROSES
 
 
@@ -1050,8 +970,6 @@ ONLY ROSES
    Set her little heart a-breaking,
       For he gathered for his posies
       Only roses—only roses!
-
-
 
 
 THE ROVER’S APOLOGY
@@ -1084,8 +1002,6 @@ THE ROVER’S APOLOGY
                And I’ll marry that lady to-morrow!
 
 
-
-
 AN APPEAL
 
 
@@ -1108,8 +1024,6 @@ AN APPEAL
       However plain you be—I’ll love you!
 
 
-
-
 THE REWARD OF MERIT
 
 
@@ -1117,27 +1031,27 @@ THE REWARD OF MERIT
    His tragedies were reckoned much too thoughtful for the stage;
    His poems held a noble rank, although it’s very true
    That, being very proper, they were read by very few.
-   He was a famous Painter, too, and shone upon the “line,”
-   And even MR. RUSKIN came and worshipped at his shrine;
-   But, alas, the school he followed was heroically high—
+He was a famous Painter, too, and shone upon the “line,”
+And even MR. RUSKIN came and worshipped at his shrine;
+But, alas, the school he followed was heroically high—
    The kind of Art men rave about, but very seldom buy;
                         And everybody said
                         “How can he be repaid—
-   This very great—this very good—this very gifted man?”
-   But nobody could hit upon a practicable plan!
+This very great—this very good—this very gifted man?”
+But nobody could hit upon a practicable plan!
 
    He was a great Inventor, and discovered, all alone,
    A plan for making everybody’s fortune but his own;
    For, in business, an Inventor’s little better than a fool,
-   And my highly-gifted friend was no exception to the rule.
-   His poems—people read them in the Quarterly Reviews—
-   His pictures—they engraved them in the _Illustrated News_—
+And my highly-gifted friend was no exception to the rule.
+His poems—people read them in the Quarterly Reviews—
+His pictures—they engraved them in the _Illustrated News_—
    His inventions—they, perhaps, might have enriched him by degrees,
    But all his little income went in Patent Office fees;
                         And everybody said
                         “How can he be repaid—
-   This very great—this very good—this very gifted man?”
-   But nobody could hit upon a practicable plan!
+This very great—this very good—this very gifted man?”
+But nobody could hit upon a practicable plan!
 
    At last the point was given up in absolute despair,
    When a distant cousin died, and he became a millionaire,
@@ -1151,8 +1065,6 @@ THE REWARD OF MERIT
                         That it sometimes may be said
    That we never should have revelled in that source of proper pride,
    However great his merits—if his cousin hadn’t died!)
-
-
 
 
 THE MAGNET AND THE CHURN
@@ -1187,8 +1099,6 @@ THE MAGNET AND THE CHURN
             By no endeavour,
             Can Magnet ever
          Attract a Silver Churn!
-
-
 
 
 THE FAMILY FOOL
@@ -1265,8 +1175,6 @@ THE FAMILY FOOL
             They don’t blame you—so long as you’re funny!
 
 
-
-
 SANS SOUCI
 
 
@@ -1287,8 +1195,6 @@ SANS SOUCI
    Why do you wear it next your heart?
    And if it be neither of these, say I,
    Why do you sit and sob and sigh?
-
-
 
 
 A RECIPE
@@ -1323,8 +1229,6 @@ A RECIPE
                If you are not satisfied.
    Take my counsel, happy man:
    Act upon it, if you can!
-
-
 
 
 THE MERRYMAN AND HIS MAID
@@ -1399,8 +1303,6 @@ THE MERRYMAN AND HIS MAID
          For he lived in the love of a ladye!
 
 
-
-
 THE SUSCEPTIBLE CHANCELLOR
 
 
@@ -1436,8 +1338,6 @@ THE SUSCEPTIBLE CHANCELLOR
    But never, oh never a one for me!
       Which is exasperating, for
       A highly susceptible Chancellor!
-
-
 
 
 WHEN A MERRY MAIDEN MARRIES
@@ -1478,8 +1378,6 @@ WHEN A MERRY MAIDEN MARRIES
       All the year is merry May!
 
 
-
-
 THE BRITISH TAR
 
 
@@ -1500,8 +1398,6 @@ THE BRITISH TAR
    His hair should twirl and his face should scowl;
    His eyes should flash and his breast protrude,
    And this should be his customary attitude!
-
-
 
 
 A MAN WHO WOULD WOO A FAIR MAID
@@ -1554,8 +1450,6 @@ A MAN WHO WOULD WOO A FAIR MAID
                But every Jack
                He must study the knack
             If he wants to make sure of his Jill!
-
-
 
 
 THE SORCERER’S SONG
@@ -1644,8 +1538,6 @@ THE SORCERER’S SONG
    Number seventy, Simmery Axe!
 
 
-
-
 THE FICKLE BREEZE
 
 
@@ -1674,8 +1566,6 @@ THE FICKLE BREEZE
             For thy love is but a rover!
             Sad the lot of poplar trees,
             Courted by the fickle breeze!
-
-
 
 
 THE FIRST LORD’S SONG
@@ -1724,8 +1614,6 @@ THE FIRST LORD’S SONG
          And you all may be Rulers of the Queen’s Navee!
 
 
-
-
 WOULD YOU KNOW?
 
 
@@ -1756,8 +1644,6 @@ WOULD YOU KNOW?
             Sets my heart a flame-a!
 
 
-
-
 SPECULATION
 
 
@@ -1780,8 +1666,6 @@ SPECULATION
       From scholastic trammels free,
    And we wonder—how we wonder!—
       What on earth the world can be!
-
-
 
 
 AH ME!
@@ -1808,8 +1692,6 @@ AH ME!
                Yet all the sense
                Of eloquence
          Lies hidden in a maid’s “Ah me!”
-
-
 
 
 THE DUKE OF PLAZA-TORO
@@ -1873,8 +1755,6 @@ THE DUKE OF PLAZA-TORO
          The Duke of Plaza-Toro!
 
 
-
-
 THE ÆSTHETE
 
 
@@ -1922,8 +1802,6 @@ THE ÆSTHETE
    be!”
 
 
-
-
 SAID I TO MYSELF, SAID I
 
 
@@ -1964,8 +1842,6 @@ SAID I TO MYSELF, SAID I
          (Said I to myself—said I!)
 
 
-
-
 SORRY HER LOT
 
 
@@ -1982,8 +1858,6 @@ SORRY HER LOT
       Flies from the empty waste of waters!
          Heavy the sorrow that bows the head
          When Love is alive and Hope is dead!
-
-
 
 
 THE CONTEMPLATIVE SENTRY
@@ -2022,8 +1896,6 @@ THE CONTEMPLATIVE SENTRY
                         Fal lal la!
 
 
-
-
 THE PHILOSOPHIC PILL
 
 
@@ -2044,8 +1916,6 @@ THE PHILOSOPHIC PILL
       Unpleasant truths are swallowed with a will—
    For he who’d make his fellow-creatures wise
       Should always gild the philosophic pill!
-
-
 
 
 BLUE BLOOD
@@ -2078,8 +1948,6 @@ BLUE BLOOD
                         To serve me now?
                Though dating from the Flood,
                         Blue blood!
-
-
 
 
 THE JUDGE’S SONG
@@ -2131,8 +1999,6 @@ THE JUDGE’S SONG
       This Breach of Promise of Marriage!
 
 
-
-
 WHEN I FIRST PUT THIS UNIFORM ON
 
 
@@ -2163,8 +2029,6 @@ WHEN I FIRST PUT THIS UNIFORM ON
             When I first put this uniform on!
 
 
-
-
 SOLATIUM
 
 
@@ -2189,8 +2053,6 @@ SOLATIUM
       That is all his own.
             Fairest days are sun and shade:
             Happy be thy life, O maid!
-
-
 
 
 A NIGHTMARE
@@ -2268,8 +2130,6 @@ A NIGHTMARE
    them over!
 
 
-
-
 DON’T FORGET!
 
 
@@ -2334,8 +2194,6 @@ DON’T FORGET!
    O, don’t forget you’ve married me!
 
 
-
-
 THE SUICIDE’S GRAVE
 
 
@@ -2367,8 +2225,6 @@ THE SUICIDE’S GRAVE
             “Oh, willow, titwillow, titwillow!”
 
 
-
-
 HE AND SHE
 
 
@@ -2394,18 +2250,16 @@ HE AND SHE
    BOTH.  Now tell me pray, and tell me true,
                What in the world should the poor soul do?
 
-   SHE.  If I were the youth I should offer her my name—
-            (Hey, but her face is a sight for to see!)
-         HE.  If I were the maid I should fan his honest flame—
-            (Hey, but he’s bashful as a youth can be!)
-   SHE.  If I were the youth I should speak to her to-day—
-            (Hey, but she sickens as the days go by!)
-         HE.  If I were the maid I should meet the lad half way—
-            (For I really do believe that timid youth will die!)
+SHE.  If I were the youth I should offer her my name—
+(Hey, but her face is a sight for to see!)
+HE.  If I were the maid I should fan his honest flame—
+(Hey, but he’s bashful as a youth can be!)
+SHE.  If I were the youth I should speak to her to-day—
+(Hey, but she sickens as the days go by!)
+HE.  If I were the maid I should meet the lad half way—
+(For I really do believe that timid youth will die!)
    BOTH.  I thank you much for your counsel true;
                I’ve learnt what that poor soul ought to do!
-
-
 
 
 THE MIGHTY MUST
@@ -2436,8 +2290,6 @@ THE MIGHTY MUST
                In ye!
    Away!  The Mighty Must alone
                Shall be!
-
-
 
 
 A MIRAGE
@@ -2488,14 +2340,12 @@ A MIRAGE
          I’m not thy bride!
 
 
-
-
 THE GHOSTS’ HIGH NOON
 
 
-   WHEN the night wind howls in the chimney cowls, and the bat in the
-   moonlight flies,
-   And inky clouds, like funeral shrouds, sail over the midnight skies—
+WHEN the night wind howls in the chimney cowls, and the bat in the
+moonlight flies,
+And inky clouds, like funeral shrouds, sail over the midnight skies—
    When the footpads quail at the night-bird’s wail, and black dogs bay
    the moon,
    Then is the spectres’ holiday—then is the ghosts’ high noon!
@@ -2515,8 +2365,6 @@ THE GHOSTS’ HIGH NOON
    Till the welcome knell of the midnight bell rings forth its jolliest
    tune,
    And ushers our next high holiday—the dead of the night’s high noon!
-
-
 
 
 THE HUMANE MIKADO
@@ -2603,13 +2451,11 @@ THE HUMANE MIKADO
          Of innocent merriment!
 
 
-
-
 WILLOW WALY!
 
 
-   HE.  PRITHEE, pretty maiden—prithee, tell me true
-            (Hey, but I’m doleful, willow, willow waly!)
+HE.  PRITHEE, pretty maiden—prithee, tell me true
+(Hey, but I’m doleful, willow, willow waly!)
          Have you e’er a lover a-dangling after you?
                   Hey, willow waly O!
                      I would fain discover
@@ -2639,8 +2485,6 @@ WILLOW WALY!
                      To other maidens go you—
                      As yet I do not know you,
                   Hey, willow waly O!
-
-
 
 
 LIFE IS LOVELY ALL THE YEAR
@@ -2685,8 +2529,6 @@ LIFE IS LOVELY ALL THE YEAR
                Fal la!
 
 
-
-
 THE USHER’S CHARGE
 
 
@@ -2710,8 +2552,6 @@ THE USHER’S CHARGE
    What _he_ may say you need not mind—
    From bias free of every kind,
          This trial must be tried!
-
-
 
 
 THE GREAT OAK TREE
@@ -2755,8 +2595,6 @@ THE GREAT OAK TREE
                      Lackaday!
                Let the tears fall free
    For the pretty little flower and the great oak tree!
-
-
 
 
 KING GOODHEART
@@ -2814,8 +2652,6 @@ KING GOODHEART
          Then no one’s anybody!
 
 
-
-
 SLEEP ON!
 
 
@@ -2846,8 +2682,6 @@ SLEEP ON!
                The Sentry keeps his eye!
 
 
-
-
 THE LOVE-SICK BOY
 
 
@@ -2868,8 +2702,6 @@ THE LOVE-SICK BOY
       And I grew cold and coy,
    At last, one morning, I became
       Another’s love-sick boy!
-
-
 
 
 POETRY EVERYWHERE
@@ -2897,8 +2729,6 @@ POETRY EVERYWHERE
       Even in colocynth and calomel?
 
 
-
-
 HE LOVES!
 
 
@@ -2919,8 +2749,6 @@ HE LOVES!
       Her little dainty gloves—
    Her withered flowers—her faded tress—
       Plead for my boy—he loves!
-
-
 
 
 TRUE DIFFIDENCE
@@ -2960,8 +2788,6 @@ TRUE DIFFIDENCE
          I’m diffident, modest, and shy!
 
 
-
-
 THE TANGLED SKEIN
 
 
@@ -2986,8 +2812,6 @@ THE TANGLED SKEIN
    Hands across and down the middle—
    Life’s perhaps the only riddle
                That we shrink from giving up!
-
-
 
 
 MY LADY
@@ -3022,8 +2846,6 @@ MY LADY
                      Might tend to loss of reason:
                What profit in such bliss?
                A fig for such a kiss!
-
-
 
 
 ONE AGAINST THE WORLD
@@ -3070,8 +2892,6 @@ ONE AGAINST THE WORLD
          I may be wrong!
 
 
-
-
 PUT A PENNY IN THE SLOT
 
 
@@ -3107,8 +2927,6 @@ PUT A PENNY IN THE SLOT
    Means that you can square them all)—
    If you want to move the lot,
    Put a penny in the slot!
-
-
 
 
 GOOD LITTLE GIRLS
@@ -3156,8 +2974,6 @@ GOOD LITTLE GIRLS
    Of what is maiden bashfulness,
    You only need a button press—
                And _we_ do all the rest.
-
-
 
 
 LIFE
@@ -3233,8 +3049,6 @@ LIFE
                The joke is over!
 
 
-
-
 LIMITED LIABILITY
 
 
@@ -3284,20 +3098,18 @@ LIMITED LIABILITY
          So you start another Company to-morrow!
 
 
-
-
 ANGLICISED UTOPIA
 
 
-   SOCIETY has quite forsaken all her wicked courses,
-   Which empties our police courts, and abolishes divorces.
-               (Divorce is nearly obsolete in England.)
-   No tolerance we show to undeserving rank and splendour;
-   For the higher his position is, the greater the offender.
-               (That’s a maxim that is prevalent in England.)
-   No Peeress at our Drawing-Room before the Presence passes
-   Who wouldn’t be accepted by the lower-middle classes;
-   Each shady dame, whatever be her rank, is bowed out neatly.
+SOCIETY has quite forsaken all her wicked courses,
+Which empties our police courts, and abolishes divorces.
+(Divorce is nearly obsolete in England.)
+No tolerance we show to undeserving rank and splendour;
+For the higher his position is, the greater the offender.
+(That’s a maxim that is prevalent in England.)
+No Peeress at our Drawing-Room before the Presence passes
+Who wouldn’t be accepted by the lower-middle classes;
+Each shady dame, whatever be her rank, is bowed out neatly.
    In short, this happy country has been Anglicised completely!
             It really is surprising
             What a thorough Anglicising
@@ -3306,12 +3118,12 @@ ANGLICISED UTOPIA
             She is England—with improvements,
          Which we dutifully offer to our mother-land!
 
-   Our city we have beautified—we’ve done it willy-nilly—
-   And all that isn’t Belgrave Square is Strand and Piccadilly.
-               (They haven’t any slummeries in England.)
-   We have solved the labour question with discrimination polished,
-   So poverty is obsolete and hunger is abolished—
-               (They are going to abolish it in England.)
+Our city we have beautified—we’ve done it willy-nilly—
+And all that isn’t Belgrave Square is Strand and Piccadilly.
+(They haven’t any slummeries in England.)
+We have solved the labour question with discrimination polished,
+So poverty is obsolete and hunger is abolished—
+(They are going to abolish it in England.)
    The Chamberlain our native stage has purged, beyond a question,
    Of “risky” situation and indelicate suggestion;
    No piece is tolerated if it’s costumed indiscreetly—
@@ -3342,8 +3154,6 @@ ANGLICISED UTOPIA
          Which we dutifully offer to our mother-land!
 
 
-
-
 AN ENGLISH GIRL
 
 
@@ -3351,10 +3161,10 @@ AN ENGLISH GIRL
       In her magnificent comeliness,
       Is an English girl of eleven stone two,
       And five foot ten in her dancing shoe!
-               She follows the hounds, and on she pounds—
-                  The “field” tails off and the muffs diminish—
-               Over the hedges and brooks she bounds—
-                  Straight as a crow, from find to finish.
+She follows the hounds, and on she pounds—
+The “field” tails off and the muffs diminish—
+Over the hedges and brooks she bounds—
+Straight as a crow, from find to finish.
                At cricket, her kin will lose or win—
                   She and her maids, on grass and clover,
                Eleven maids out—eleven maids in—
@@ -3371,9 +3181,9 @@ AN ENGLISH GIRL
                At ball or drum, till small hours come
                   (Chaperon’s fan conceals her yawning),
                She’ll waltz away like a teetotum,
-                  And never go home till daylight’s dawning.
-               Lawn tennis may share her favours fair—
-                  Her eyes a-dance and her cheeks a-glowing—
+And never go home till daylight’s dawning.
+Lawn tennis may share her favours fair—
+Her eyes a-dance and her cheeks a-glowing—
                Down comes her hair, but what does she care?
                   It’s all her own and it’s worth the showing!
    Go search the world and search the sea,
@@ -3388,17 +3198,15 @@ AN ENGLISH GIRL
                Rich in the things contentment brings,
                   In every pure enjoyment wealthy,
                Blithe as a beautiful bird she sings,
-                  For body and mind are hale and healthy.
-               Her eyes they thrill with right goodwill—
-                  Her heart is light as a floating feather—
+For body and mind are hale and healthy.
+Her eyes they thrill with right goodwill—
+Her heart is light as a floating feather—
                As pure and bright as the mountain rill
                   That leaps and laughs in the Highland heather!
    Go search the world and search the sea,
    Then come you home and sing with me
    There’s no such gold and no such pearl
    As a bright and beautiful English girl!
-
-
 
 
 A MANAGER’S PERPLEXITIES
@@ -3436,8 +3244,6 @@ A MANAGER’S PERPLEXITIES
    With wheelers and leaders in order supreme,
    Can govern and rule, with a wave of his fin,
    All Europe and Asia—with Ireland thrown in!
-
-
 
 
 OUT OF SORTS
@@ -3480,8 +3286,6 @@ OUT OF SORTS
                You may make up your mind
                      You are better in bed,
                         For you’re not at all well!
-
-
 
 
 HOW IT’S DONE
@@ -3557,21 +3361,19 @@ HOW IT’S DONE
          English ladies always toss.
 
 
-
-
 A CLASSICAL REVIVAL
 
 
    AT the outset I may mention it’s my sovereign intention
       To revive the classic memories of Athens at its best,
    For my company possesses all the necessary dresses,
-      And a course of quiet cramming will supply us with the rest.
-   We’ve a choir hyporchematic (that is, ballet-operatic)
-      Who respond to the _choreutae_ of that cultivated age,
-   And our clever chorus-master, all but captious criticaster,
-      Would accept as the _choregus_ of the early Attic stage.
-   This return to classic ages is considered in their wages,
-      Which are always calculated by the day or by the week—
+And a course of quiet cramming will supply us with the rest.
+We’ve a choir hyporchematic (that is, ballet-operatic)
+Who respond to the _choreutae_ of that cultivated age,
+And our clever chorus-master, all but captious criticaster,
+Would accept as the _choregus_ of the early Attic stage.
+This return to classic ages is considered in their wages,
+Which are always calculated by the day or by the week—
    And I’ll pay ’em (if they’ll back me) all in _oboloi_ and _drachmae_,
       Which they’ll get (if they prefer it) at the Kalends that are
    Greek!
@@ -3595,10 +3397,10 @@ A CLASSICAL REVIVAL
    But they mixed their wine with water—which I’m sure they didn’t
    oughter—
       And we Anglo-Saxons know a trick worth two of that, I think!
-   Then came rather risky dances (under certain circumstances)
-      Which would shock that worthy gentleman, the Licenser of Plays,
-   Corybantian mani_ac_ kick—Dionysiac or Bacchic—
-      And the Dithyrambic revels of those indecorous days.
+Then came rather risky dances (under certain circumstances)
+Which would shock that worthy gentleman, the Licenser of Plays,
+Corybantian mani_ac_ kick—Dionysiac or Bacchic—
+And the Dithyrambic revels of those indecorous days.
 
       (And perhaps I’d better mention
          Lest alarming you I am,
@@ -3613,14 +3415,14 @@ A CLASSICAL REVIVAL
       Which are not in strict accordance with the habits of our day,
    And when I come to codify, their rules I mean to modify,
       Or Mrs. Grundy, p’r’aps, may have a word or two to say:
-   For they hadn’t macintoshes or umbrellas or goloshes—
-      And a shower with their dresses must have played the very deuce,
-   And it must have been unpleasing when they caught a fit of sneezing,
-      For, it seems, of pocket-handkerchiefs they didn’t know the use.
-   They wore little underclothing—scarcely anything—or no-thing—
-      And their dress of Coan silk was quite transparent in design—
-   Well, in fact, in summer weather, something like the “altogether.”
-      And it’s _there_, I rather fancy, I shall have to draw the line!
+For they hadn’t macintoshes or umbrellas or goloshes—
+And a shower with their dresses must have played the very deuce,
+And it must have been unpleasing when they caught a fit of sneezing,
+For, it seems, of pocket-handkerchiefs they didn’t know the use.
+They wore little underclothing—scarcely anything—or no-thing—
+And their dress of Coan silk was quite transparent in design—
+Well, in fact, in summer weather, something like the “altogether.”
+And it’s _there_, I rather fancy, I shall have to draw the line!
 
       (And again I wish to mention
          That this erudition sham
@@ -3630,8 +3432,6 @@ A CLASSICAL REVIVAL
       If you’ll pardon the possessive,
       Is exceedingly impressive
          When you’re passing an exam.)
-
-
 
 
 THE PRACTICAL JOKER
@@ -3669,13 +3469,13 @@ THE PRACTICAL JOKER
    A good spring gun breeds endless fun, and makes men jump like rockets,
             And turnip-heads on posts
             Make very decent ghosts:
-   Then hornets sting like anything, when placed in waist-coat pockets—
-            Burnt cork and walnut juice
-            Are not without their use.
-   No fun compares with easy chairs whose seats are stuffed with needles—
-   Live shrimps their patience tax
-   When put down people’s backs—
-   Surprising, too, what one can do with fifty fat black beedles—
+Then hornets sting like anything, when placed in waist-coat pockets—
+Burnt cork and walnut juice
+Are not without their use.
+No fun compares with easy chairs whose seats are stuffed with needles—
+Live shrimps their patience tax
+When put down people’s backs—
+Surprising, too, what one can do with fifty fat black beedles—
             And treacle on a chair
             Will make a Quaker swear!
                Then sharp tin tacks
@@ -3688,8 +3488,6 @@ THE PRACTICAL JOKER
                   On open doors—
    Prepared with these cheap properties, amusing tricks to play,
    Upon a friend a man may spend a most delightful day!
-
-
 
 
 THE NATIONAL ANTHEM
@@ -3728,8 +3526,6 @@ THE NATIONAL ANTHEM
                Their King—who would willingly ban them—
          Sits, worry disguising, anathematising
                That Bogie, the National Anthem!
-
-
 
 
 HER TERMS
@@ -3786,8 +3582,6 @@ HER TERMS
                      Except—good morning!
    Though virtue be a husband’s best adorning,
    That won’t pay rates and taxes—so, good morning!
-
-
 
 
 THE INDEPENDENT BEE
@@ -3852,8 +3646,6 @@ THE INDEPENDENT BEE
    All came of trying to swarm alone.
 
 
-
-
 THE DISCONCERTED TENOR
 
 
@@ -3892,15 +3684,13 @@ THE DISCONCERTED TENOR
          It’s no use—I can’t do myself justice!
 
 
-
-
 THE PLAYED-OUT HUMORIST
 
 
-   QUIXOTIC is his enterprise, and hopeless his adventure is,
-      Who seeks for jocularities that haven’t yet been said.
-   The world has joked incessantly for over fifty centuries,
-      And every joke that’s possible has long ago been made.
+QUIXOTIC is his enterprise, and hopeless his adventure is,
+Who seeks for jocularities that haven’t yet been said.
+The world has joked incessantly for over fifty centuries,
+And every joke that’s possible has long ago been made.
    I started as a humorist with lots of mental fizziness,
       But humour is a drug which it’s the fashion to abuse;
    For my stock-in-trade, my fixtures, and the goodwill of the business
@@ -3909,10 +3699,10 @@ THE PLAYED-OUT HUMORIST
                He may circulate the news
       That no reasonable offer I’m likely to refuse.
 
-   Oh happy was that humorist—the first that made a pun at all—
-      Who when a joke occurred to him, however poor and mean,
-   Was absolutely certain that it never had been done at all—
-      How popular at dinners must that humorist have been!
+Oh happy was that humorist—the first that made a pun at all—
+Who when a joke occurred to him, however poor and mean,
+Was absolutely certain that it never had been done at all—
+How popular at dinners must that humorist have been!
 
    Oh the days when some stepfather for the query held a handle out,
       The door-mat from the scraper, is it distant very far?
@@ -3933,369 +3723,3 @@ THE PLAYED-OUT HUMORIST
                Though the notion you may scout,
                I can prove beyond a doubt
       That my mine of jocularity is utterly worked out.
-
-
-
-
-***END OF THE PROJECT GUTENBERG EBOOK SONGS OF A SAVOYARD***
-
-
-******* This file should be named 934-0.txt or 934-0.zip *******
-
-
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/9/3/934
-
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org 
-
-Section 3. Information about the Project Gutenberg Literary 
-Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-

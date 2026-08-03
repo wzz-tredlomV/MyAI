@@ -1,11 +1,14 @@
 """
-models.py - 所有自定义层和 LiteratureTransformer 模型定义（改进版）
+models.py - 所有自定义层和 LiteratureTransformer 模型定义（改进版 v2.1）
 改进点：
-  1. 新增 SinusoidalPositionalEmbedding：可学习位置编码
+  1. 新增 TokenPositionalEmbedding：可学习位置编码（原名修正）
   2. CustomTransformerBlock 新增 Stochastic Depth（随机层丢弃）
   3. CustomMultiHeadAttention 新增输出投影 dropout
   4. LiteratureTransformer 新增 final LayerNorm（Pre-LN 标准架构）
   5. 所有层添加 get_config / from_config 支持 Keras 序列化
+  6. [FIX] RotaryEmbedding tf.repeat 兼容旧版 TF
+  7. [FIX] CustomMultiHeadAttention float16 下 neg_inf 安全处理
+  8. [FIX] TokenPositionalEmbedding 子层显式 build
 """
 import tensorflow as tf
 from tensorflow import keras
@@ -34,7 +37,7 @@ def safe_gelu(x):
 # 位置编码嵌入（新增）
 # ============================================================
 @register_keras_serializable(package="MyAI")
-class SinusoidalPositionalEmbedding(layers.Layer):
+class TokenPositionalEmbedding(layers.Layer):
     """
     Token 嵌入 + 可学习位置嵌入
     替换原来的纯 Embedding，让模型感知词序
@@ -48,6 +51,9 @@ class SinusoidalPositionalEmbedding(layers.Layer):
     def build(self, input_shape):
         self.token_embed = layers.Embedding(self.vocab_size, self.embed_dim, name="token_embedding")
         self.pos_embed = layers.Embedding(self.max_len, self.embed_dim, name="position_embedding")
+        # [FIX] 显式 build 子层，确保在父层 build 阶段权重已创建
+        self.token_embed.build(input_shape)
+        self.pos_embed.build((self.max_len,))
         super().build(input_shape)
 
     def call(self, x):
@@ -98,7 +104,11 @@ class RotaryEmbedding(layers.Layer):
             tf.cast(self.head_dim, tf.float32)
         ))
         angles = tf.einsum('i,j->ij', positions, inv_freq)
-        angles = tf.repeat(angles, repeats=2, axis=-1)
+        # [FIX] 兼容 TF < 2.1：tf.repeat 可能不存在，改用 tile + reshape
+        angles = tf.reshape(
+            tf.tile(tf.expand_dims(angles, -1), [1, 1, 2]),
+            [seq_len, self.head_dim]
+        )
         cos = tf.cos(angles)
         sin = tf.sin(angles)
         cos = tf.cast(cos, x.dtype)
@@ -205,7 +215,11 @@ class CustomMultiHeadAttention(layers.Layer):
             else:
                 combined_mask = tf.logical_or(combined_mask, padding_mask)
         if combined_mask is not None:
-            neg_inf = tf.cast(-1e9, scores.dtype)
+            # [FIX] float16 下 -1e9 会下溢为 -65504，使用 dtype 安全的负无穷
+            neg_inf = tf.cast(
+                tf.float16.min if scores.dtype == tf.float16 else -1e9,
+                scores.dtype
+            )
             scores = tf.where(combined_mask, neg_inf, scores)
         attn_weights = tf.nn.softmax(scores, axis=-1)
         attn_weights = self.dropout(attn_weights, training=training)
@@ -339,7 +353,7 @@ class LiteratureTransformer(keras.Model):
         super().__init__(**kwargs)
         self.config = config
         # ✅ 改进1：使用带位置编码的嵌入
-        self.token_embed = SinusoidalPositionalEmbedding(
+        self.token_embed = TokenPositionalEmbedding(
             config.vocab_size, config.embed_dim, config.max_len
         )
         self.dropout = layers.Dropout(config.dropout)

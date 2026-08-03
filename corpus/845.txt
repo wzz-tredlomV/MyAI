@@ -1,33 +1,3 @@
-The Project Gutenberg EBook of Poems of Henry Timrod, by Henry Timrod
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Poems of Henry Timrod
-
-Author: Henry Timrod
-
-Posting Date: July 26, 2008 [EBook #845]
-Release Date: March, 1997
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK POEMS OF HENRY TIMROD ***
-
-
-
-
-Produced by Alan Light
-
-
-
-
-
 POEMS OF HENRY TIMROD
 
 By Henry Timrod
@@ -36,10 +6,7 @@ By Henry Timrod
 With Memoir
 
 
-
-
 Contents
-
 
 
    Introduction
@@ -97,7 +64,7 @@ Contents
    A Common Thought
 
 
-   Poems Written in War Times
+Poems Written in War Times
 
    Carolina
    A Cry to Arms
@@ -112,26 +79,26 @@ Contents
      at Magnolia Cemetery, Charleston, S.C., 1867
 
 
-   Sonnets
+Sonnets
 
       I    "Poet! If on a Lasting Fame Be Bent"
      II    "Most Men Know Love But as a Part of Life"
     III    "Life Ever Seems as from Its Present Site"
      IV    "They Dub Thee Idler, Smiling Sneeringly"
-      V    "Some Truths There Be Are Better Left Unsaid"
-     VI    "I Scarcely Grieve, O Nature! at the Lot"
-    VII    "Grief Dies Like Joy; the Tears Upon My Cheek"
+V    "Some Truths There Be Are Better Left Unsaid"
+VI    "I Scarcely Grieve, O Nature! at the Lot"
+VII    "Grief Dies Like Joy; the Tears Upon My Cheek"
    VIII    "At Last, Beloved Nature! I Have Met"
      IX    "I Know Not Why, But All This Weary Day"
       X    "Were I the Poet-Laureate of the Fairies"
-     XI    "Which Are the Clouds, and Which the Mountains?  See"
-    XII    "What Gossamer Lures Thee Now?  What Hope, What Name"
-   XIII    "I Thank You, Kind and Best Beloved Friend"
-    XIV    "Are These Wild Thoughts, Thus Fettered in My Rhymes"
-     XV    In Memoriam--Harris Simons
+XI    "Which Are the Clouds, and Which the Mountains?  See"
+XII    "What Gossamer Lures Thee Now?  What Hope, What Name"
+XIII    "I Thank You, Kind and Best Beloved Friend"
+XIV    "Are These Wild Thoughts, Thus Fettered in My Rhymes"
+XV    In Memoriam--Harris Simons
 
 
-  Poems Now First Collected
+Poems Now First Collected
 
   Song Composed for Washington's Birthday, and Respectfully Inscribed
   to the Officers and Members of the Washington Light Infantry of Charleston,
@@ -146,100 +113,37 @@ Contents
   Dedication
 
 
-
-
-
 Introduction
 
 
-
-"A true poet is one of the most precious gifts that can be bestowed on
-a generation." He speaks for it and he speaks to it. Reflecting and
-interpreting his age and its thoughts, feelings, and purposes, he speaks
-for it; and with a love of truth, with a keener moral insight into the
-universal heart of man, and with the intuition of inspiration, he speaks
-to it, and through it to the world. It is thus
+"A true poet is one of the most precious gifts that can be bestowed on a generation." He speaks for it and he speaks to it. Reflecting and interpreting his age and its thoughts, feelings, and purposes, he speaks for it; and with a love of truth, with a keener moral insight into the universal heart of man, and with the intuition of inspiration, he speaks to it, and through it to the world. It is thus
 
     "The poet to the whole wide world belongs,
     Even as the Teacher is the child's."
 
-"Nor is it to the great masters alone that our homage and thankfulness
-are due. Wherever a true child of song strikes his harp, we love to
-listen. All that we ask is that the music be native, born of impassioned
-impulse that will not be denied, heartfelt, like the lark when she soars
-up to greet the morning and pours out her song by the same quivering
-ecstasy that impels her flight." For though the voices be many, the
-oracle is one, for "God gave the poet his song."
+"Nor is it to the great masters alone that our homage and thankfulness are due. Wherever a true child of song strikes his harp, we love to listen. All that we ask is that the music be native, born of impassioned impulse that will not be denied, heartfelt, like the lark when she soars up to greet the morning and pours out her song by the same quivering ecstasy that impels her flight." For though the voices be many, the oracle is one, for "God gave the poet his song."
 
-Such was Henry Timrod, the Southern poet. A child of nature, his song
-is the voice of the Southland. Born in Charleston, S.C., December 8th,
-1829, his life cast in the seething torrent of civil war, his voice was
-also the voice of Carolina, and through her of the South, in all the
-rich glad life poured out in patriotic pride into that fatal struggle,
-in all the valor and endurance of that dark conflict, in all the gloom
-of its disaster, and in all the sacred tenderness that clings about its
-memories. He was the poet of the Lost Cause, the finest interpreter of
-the feelings and traditions of the splendid heroism of a brave people.
-Moreover, by his catholic spirit, his wide range, and world-wide
-sympathies, he is a true American poet.
+Such was Henry Timrod, the Southern poet. A child of nature, his song is the voice of the Southland. Born in Charleston, S.C., December 8th, 1829, his life cast in the seething torrent of civil war, his voice was also the voice of Carolina, and through her of the South, in all the rich glad life poured out in patriotic pride into that fatal struggle, in all the valor and endurance of that dark conflict, in all the gloom of its disaster, and in all the sacred tenderness that clings about its memories. He was the poet of the Lost Cause, the finest interpreter of the feelings and traditions of the splendid heroism of a brave people. Moreover, by his catholic spirit, his wide range, and world-wide sympathies, he is a true American poet.
 
-The purpose of the _TIMROD MEMORIAL ASSOCIATION_ of his native city and
-State, in undertaking this new edition of his poems, is to erect a
-suitable public memorial to the poet, and also to let his own words
-renew and keep his own memory in his land's literature.
+The purpose of the _TIMROD MEMORIAL ASSOCIATION_ of his native city and State, in undertaking this new edition of his poems, is to erect a suitable public memorial to the poet, and also to let his own words renew and keep his own memory in his land's literature.
 
 
-The earliest edition of Timrod's poems was a small volume by Ticknor &
-Fields, of Boston, in 1860, just before the Civil War. This contained
-only the poems of the first eight or nine years previous, and was warmly
-welcomed North and South. The "New York Tribune" then greeted this small
-first volume in these words: "These poems are worthy of a wide audience,
-and they form a welcome offering to the common literature of our
-country."
+The earliest edition of Timrod's poems was a small volume by Ticknor & Fields, of Boston, in 1860, just before the Civil War. This contained only the poems of the first eight or nine years previous, and was warmly welcomed North and South. The "New York Tribune" then greeted this small first volume in these words: "These poems are worthy of a wide audience, and they form a welcome offering to the common literature of our country."
 
-In this first volume was evinced the culture, the lively fancy, the
-delicate and vigorous imagination, and the finished artistic power
-of his mind, even then rejoicing in the fullness and freshness of its
-creations and in the unwearied flow of its natural music. But it fell
-then on the great world of letters almost unheeded, shut out by the war
-cloud that soon broke upon the land, enveloping all in darkness.
+In this first volume was evinced the culture, the lively fancy, the delicate and vigorous imagination, and the finished artistic power of his mind, even then rejoicing in the fullness and freshness of its creations and in the unwearied flow of its natural music. But it fell then on the great world of letters almost unheeded, shut out by the war cloud that soon broke upon the land, enveloping all in darkness.
 
-The edition of his complete poems was not issued until the South was
-recovering from the ravage of war, and was entitled "The Poems of Henry
-Timrod, edited with a sketch of the Poet's life by Paul H. Hayne. E. J.
-Hale & Son, publishers, New York, 1873." And immediately, in 1874, there
-followed a second edition of this volume, which contained the noble
-series of war poems and other lyrics written since the edition of 1860.
-In 1884 an illustrated edition of "Katie" was published by Hale & Son,
-New York. All of these editions were long ago exhausted by an admiring
+The edition of his complete poems was not issued until the South was recovering from the ravage of war, and was entitled "The Poems of Henry Timrod, edited with a sketch of the Poet's life by Paul H. Hayne. E. J. Hale & Son, publishers, New York, 1873." And immediately, in 1874, there followed a second edition of this volume, which contained the noble series of war poems and other lyrics written since the edition of 1860. In 1884 an illustrated edition of "Katie" was published by Hale & Son, New York. All of these editions were long ago exhausted by an admiring
 public.
 
-The present edition contains the poems of all the former editions, and
-also some earlier poems not heretofore published.
+The present edition contains the poems of all the former editions, and also some earlier poems not heretofore published.
 
 
-The name of Timrod has been closely identified with the history of South
-Carolina for over a century. Before the Revolution, Henry Timrod, of
-German birth, the founder of the family in America, was a prominent
-citizen of Charleston, and the president of that historic association,
-the German Friendly Society, still existing, a century and a quarter
-old. We find his name first on the roll of the German Fusiliers of
-Charleston, volunteers formed in May, 1775, for the defense of the
-country, immediately on hearing of the battle of Lexington. Again in
-the succeeding generation, in the Seminole war and in the peril of
-St. Augustine, the German Fusiliers were commanded by his son, Captain
-William Henry Timrod, who was the father of the poet, and who himself
-published a volume of poems in the early part of the century. He was
-the editor of a literary periodical published in Charleston, to which
-he himself largely contributed. He was of strong intellect and delicate
-feelings, and an ardent patriot.
+The name of Timrod has been closely identified with the history of South Carolina for over a century. Before the Revolution, Henry Timrod, of German birth, the founder of the family in America, was a prominent citizen of Charleston, and the president of that historic association, the German Friendly Society, still existing, a century and a quarter old. We find his name first on the roll of the German Fusiliers of Charleston, volunteers formed in May, 1775, for the defense of the country, immediately on hearing of the battle of Lexington. Again in the succeeding generation, in the Seminole war and in the peril of St. Augustine, the German Fusiliers were commanded by his son, Captain William Henry Timrod, who was the father of the poet, and who himself published a volume of poems in the early part of the century. He was the editor of a literary periodical published in Charleston, to which he himself largely contributed. He was of strong intellect and delicate feelings, and an ardent patriot.
 
-Some of the more striking of the poems of the elder Timrod are the
-following. Washington Irving said of these lines that Tom Moore had
-written no finer lyric:--
+Some of the more striking of the poems of the elder Timrod are the following. Washington Irving said of these lines that Tom Moore had written no finer lyric:--
 
 
-        To Time, the Old Traveler
+To Time, the Old Traveler
 
 
     They slander thee, Old Traveler,
@@ -279,7 +183,7 @@ written no finer lyric:--
      DRIES ALL OUR TEARS AWAY!_
 
 
-        The Mocking-Bird
+The Mocking-Bird
 
 
                                   Nor did lack
@@ -299,11 +203,10 @@ written no finer lyric:--
     WHO WOULD BEND DOWN TO GREET HIM!_
 
 
-These lines, addressed to the poet by his father, have a pathetic
-interest:--
+These lines, addressed to the poet by his father, have a pathetic interest:--
 
 
-        To Harry
+To Harry
 
 
     Harry, my little blue-eyed boy,
@@ -352,206 +255,51 @@ interest:--
      _ENJOY, BUT NOT ABUSE!_
 
 
-The poet's mother was the daughter of Mr. Charles Prince, a citizen
-of Charleston, whose parents had come from England just before the
-Revolution. Mr. Prince had married Miss French, daughter of an officer
-in the Revolution, whose family were from Switzerland. It was the
-influence of his mother also that helped to form the poet's character,
-and his intense and passionate love of nature. Her beautiful face and
-form, her purity and goodness, her delight in all the sights and sounds
-of the country, her childish rapture in wood and field, her love of
-flowers and trees, and all the mystery and gladness of nature, are among
-the cherished memories of all her children, and vividly described by the
+The poet's mother was the daughter of Mr. Charles Prince, a citizen of Charleston, whose parents had come from England just before the Revolution. Mr. Prince had married Miss French, daughter of an officer in the Revolution, whose family were from Switzerland. It was the influence of his mother also that helped to form the poet's character, and his intense and passionate love of nature. Her beautiful face and form, her purity and goodness, her delight in all the sights and sounds of the country, her childish rapture in wood and field, her love of flowers and trees, and all the mystery and gladness of nature, are among the cherished memories of all her children, and vividly described by the
 poet's sister.
 
-William Henry Timrod, father of the poet, died of disease contracted
-in the Florida war, and his family thereafter were in straitened
-circumstances. Nevertheless, the early education of his gifted son was
-provided for. Paul H. Hayne, the poet, was one of his earliest friends
-and schoolmates at Charleston's best school. They sat together, and to
-his brother boy-poet he first showed his earliest verses in exulting
-confidence. This friendship and confidence lasted through life, and
-Hayne has tenderly embalmed it in his sketch of the poet. We have this
-faithful picture of him at that time:--
+William Henry Timrod, father of the poet, died of disease contracted in the Florida war, and his family thereafter were in straitened circumstances. Nevertheless, the early education of his gifted son was provided for. Paul H. Hayne, the poet, was one of his earliest friends and schoolmates at Charleston's best school. They sat together, and to his brother boy-poet he first showed his earliest verses in exulting confidence. This friendship and confidence lasted through life, and Hayne has tenderly embalmed it in his sketch of the poet. We have this faithful picture of him at that time:--
 
-"Modest and diffident, with a nervous utterance, but with melody ever in
-his heart and on his lip. Though always slow of speech, he was yet, like
-Burns, quick to learn. The chariot wheels might jar in the gate through
-which he tried to drive his winged steeds, but the horses were of
-celestial temper and the car purest gold."
+"Modest and diffident, with a nervous utterance, but with melody ever in his heart and on his lip. Though always slow of speech, he was yet, like Burns, quick to learn. The chariot wheels might jar in the gate through which he tried to drive his winged steeds, but the horses were of celestial temper and the car purest gold."
 
-His school-fellows remember him as silent and shy, full of quick
-impulse, and with an eager ambition, insatiable in his thirst for books,
-yet mingling freely in all sports, and rejoicing unspeakably in the
-weekly holiday and its long rambles through wood and field. "The sweet
-security of streets" had no charm for him. He rejoiced in Nature and her
-changing scenes and seasons. She was always to him comfort, refreshment,
-balm. She never turned her face from him, and through all his years he
-"leaned on her breast with loving trustfulness as a little child."
+His school-fellows remember him as silent and shy, full of quick impulse, and with an eager ambition, insatiable in his thirst for books, yet mingling freely in all sports, and rejoicing unspeakably in the weekly holiday and its long rambles through wood and field. "The sweet security of streets" had no charm for him. He rejoiced in Nature and her changing scenes and seasons. She was always to him comfort, refreshment, balm. She never turned her face from him, and through all his years he "leaned on her breast with loving trustfulness as a little child."
 
-But he had other teachers. He studied all classic literature. "The
-AEschylean drama had no attraction for him; he reveled in the rich and
-elegant strains of Virgil, and of the many toned lyre of Horace and the
-silver lute of Catullus." From the full and inexhaustible fountain of
-English letters he drank unceasingly. Spenser, Shakespeare, Milton,
-Burns, Wordsworth, and, later, Tennyson were his immediate inspiration.
+But he had other teachers. He studied all classic literature. "The AEschylean drama had no attraction for him; he reveled in the rich and elegant strains of Virgil, and of the many toned lyre of Horace and the silver lute of Catullus." From the full and inexhaustible fountain of English letters he drank unceasingly. Spenser, Shakespeare, Milton, Burns, Wordsworth, and, later, Tennyson were his immediate inspiration.
 
-His college life at the University of Georgia was interrupted by
-sickness and cramped by lack of means, and his literary plans were
-foiled by necessity. Nevertheless, he left his Alma Mater with a mind
-stirred to its depths, and with a large store of learning, and had
-already sounded with clear note those chords which were afterwards so
+His college life at the University of Georgia was interrupted by sickness and cramped by lack of means, and his literary plans were foiled by necessity. Nevertheless, he left his Alma Mater with a mind stirred to its depths, and with a large store of learning, and had already sounded with clear note those chords which were afterwards so
 vocal in melody.
 
-Dr. J. Dickson Bruns has left this graphic description of Timrod's
-personal appearance, and of some prominent traits of his social
-character:--
+Dr. J. Dickson Bruns has left this graphic description of Timrod's personal appearance, and of some prominent traits of his social character:--
 
-"In stature," he says, "Timrod was far below the medium height. He
-had always excelled in boyish sports, and, as he grew to manhood, his
-unusual breadth of shoulder still seemed to indicate a physical vigor
-which the slender wrists, thin, transparent hands, and habitually lax
-attitude but too plainly contradicted.
+"In stature," he says, "Timrod was far below the medium height. He had always excelled in boyish sports, and, as he grew to manhood, his unusual breadth of shoulder still seemed to indicate a physical vigor which the slender wrists, thin, transparent hands, and habitually lax attitude but too plainly contradicted.
 
-"The square jaw was almost stern in its strongly pronounced lines, the
-mouth large, the lips exquisitely sensitive, the gray eyes set deeply
-under massive brows, and full of a melancholy and pleading tenderness,
-which attracted attention to his face at once, as the face of one who
-had thought and suffered much.
+"The square jaw was almost stern in its strongly pronounced lines, the mouth large, the lips exquisitely sensitive, the gray eyes set deeply under massive brows, and full of a melancholy and pleading tenderness, which attracted attention to his face at once, as the face of one who had thought and suffered much.
 
-"His walk was quick and nervous, with an energy in it that betokened
-decision of character, but ill sustained by the stammering speech;
-for in society he was the shyest and most undemonstrative of men. To a
-single friend whom he trusted, he would pour out his inmost heart; but
-let two or three be gathered together, above all, introduce a stranger,
-and he instantly became a quiet, unobtrusive listener, though never a
-moody or uncongenial one!
+"His walk was quick and nervous, with an energy in it that betokened decision of character, but ill sustained by the stammering speech; for in society he was the shyest and most undemonstrative of men. To a single friend whom he trusted, he would pour out his inmost heart; but let two or three be gathered together, above all, introduce a stranger, and he instantly became a quiet, unobtrusive listener, though never a moody or uncongenial one!
 
-"Among men of letters, he was always esteemed as a most sympathetic
-companion; timid, reserved, unready, if taken by surprise, but highly
-cultivated, and still more highly endowed.
+"Among men of letters, he was always esteemed as a most sympathetic companion; timid, reserved, unready, if taken by surprise, but highly cultivated, and still more highly endowed.
 
-"The key to his social character was to be found in the feminine
-gentleness of his temperament. He shrank from noisy debate, and the
-wordy clash of argument, as from a blow. It stunned and bewildered him,
-and left him, in the melee, alike incapable of defense or attack. And
-yet, when some burly protagonist would thrust himself too rudely
-into the ring, and try to bear down opposition by sheer vehemence
-of declamation, from the corner where he sat ensconced in unregarded
-silence, _HE WOULD SUDDENLY SLING OUT SOME SHARP, SWIFT PEBBLE OF
-THOUGHT_, which he had been slowly rounding, and smite with an aim so
-keen and true as rarely failed to bring down the boastful Anakim!"
+"The key to his social character was to be found in the feminine gentleness of his temperament. He shrank from noisy debate, and the wordy clash of argument, as from a blow. It stunned and bewildered him, and left him, in the melee, alike incapable of defense or attack. And yet, when some burly protagonist would thrust himself too rudely into the ring, and try to bear down opposition by sheer vehemence of declamation, from the corner where he sat ensconced in unregarded silence, _HE WOULD SUDDENLY SLING OUT SOME SHARP, SWIFT PEBBLE OF THOUGHT_, which he had been slowly rounding, and smite with an aim so keen and true as rarely failed to bring down the boastful Anakim!"
 
-In Charleston, as a first effort in life, for a brief period Timrod
-attempted the law, but found that jealous mistress unsuited to his life
-work, though he had all the opportunity afforded him in the office of
-his friend, the Hon. J. L. Petigru, the great jurist. Leaving the bar,
-he thenceforward devoted himself to literature and to his art.
+In Charleston, as a first effort in life, for a brief period Timrod attempted the law, but found that jealous mistress unsuited to his life work, though he had all the opportunity afforded him in the office of his friend, the Hon. J. L. Petigru, the great jurist. Leaving the bar, he thenceforward devoted himself to literature and to his art.
 
-Charleston to Timrod was home, and he always returned with kindling
-spirit to the city of his love. There were all his happiest associations
-and the delight of purest friendships,--W. Gilmore Simms and Paul Hayne,
-and the rest of the literary coterie that presided over "Russell's
-Magazine", and Judge Bryan and Dr. Bruns (to whom Hayne dedicated his
-edition of Timrod's poems), and others were of this glad fellowship,
-and his social hours were bright in their intercourse and in the cordial
-appreciation of his genius and the tender love they bore him. These he
-never forgot, and returning after the ravage of war to his impoverished
-and suffering city, he writes, in the last year of his young life, "My
-eyes were blind to everything and everybody but a few old friends."
+Charleston to Timrod was home, and he always returned with kindling spirit to the city of his love. There were all his happiest associations and the delight of purest friendships,--W. Gilmore Simms and Paul Hayne, and the rest of the literary coterie that presided over "Russell's Magazine", and Judge Bryan and Dr. Bruns (to whom Hayne dedicated his edition of Timrod's poems), and others were of this glad fellowship, and his social hours were bright in their intercourse and in the cordial appreciation of his genius and the tender love they bore him. These he never forgot, and returning after the ravage of war to his impoverished and suffering city, he writes, in the last year of his young life, "My eyes were blind to everything and everybody but a few old friends."
 
-Suited by endowment and prepared by special study for a professorship,
-still all his efforts for the academic chair failed, and, finally, he
-was compelled to become a private teacher, an office the sacredness of
-which he profoundly realized. In his leisure hours he now gave himself
-up to deeper study of nature, literature, and man. It was in these few
-years of quiet retreat that he wrote the poems contained in the first
-edition of his works, 1859-60, which, laden with all the poet's longing
-to be heard, were little heeded in the first great shock of war. Indeed,
-in such a storm, what shelter could a poet find? An ardent Carolinian,
-devoted to his native State with an allegiance as to his country,
-he left his books and study, and threw himself into the struggle, a
-volunteer in the army. In the first years of the war he was in and
-near Charleston, and wrote those memorable poems and martial lyrics:
-"Carolina", "A Cry to Arms", "Charleston", "Ripley", "Ethnogenesis",
-and "The Cotton Boll", which deeply stirred the heart of his State, and,
-indeed, of the whole South. His was the voice of his people. Under its
-spell the public response was quick, and promised largest honor and
-world-wide fame for the poet. The project formed by some of the most
-eminent men of the State, late in 1862, was to publish an illustrated
-and highly embellished edition of his works in London. The war
-correspondent of the "London Illustrated News", Vizitelly, himself an
-artist, promised original illustrations, and the future seemed bright
-for the gratification of his heart's desire, to be known and heard
-in the great literary centre of the English-speaking world. But
-disappointment again was his lot. Amid the increasing stress of the
-conflict, every public and private energy in the South was absorbed in
-maintaining the ever weakening struggle; and with all art and literature
-and learning our poet's hopes were buried in the common grave of war;
-not because he was not loved and cherished, and his genius appreciated,
-but because a terrible need was upon his people, and desperate issues
-were draining their life-blood. Then he went to the front. Too weak for
-the field (for the fatal weakness that finally sapped his life was then
-upon him), he was compelled, under medical direction, to retire from
-the battle ranks, and made a last desperate effort to serve the cause he
-loved as a war correspondent. In this capacity he joined the great army
-of the West after the battle of Shiloh. The story of his camp life
-was indeed pathetic. Dr. Bruns writes of him then: "One can scarcely
-conceive of a situation more hopelessly wretched than that of a mere
-child in the world's ways suddenly flung down into the heart of that
-strong retreat, and tossed like a straw on the crest of those refluent
-waves from which he escaped as by a miracle." Home he came, baffled,
-dispirited, and sore hurt, to receive the succor of generous friendship,
-and for a brief time a safe congenial refuge, in 1864, in an editor's
-chair of the "South Carolinian", at the capital of his native State.
-Here his strong pen wrote the stirring editorials of that critical time,
-and there, tempted by the passing hour of comparative calm, he married
-Miss Kate Goodwin, "Katie, the fair Saxon" of his exquisite song. Here
-the war that had broken all his plans, and wrecked his health and hopes,
-and made literature for a time in the South a beggar's vocation, left
-him with wife and child, the "darling Willie" of his verse, dependent
-upon his already sapped and fast failing strength for support. Here he
-saw the capital of his native State, marked for vengeance, pitilessly
-destroyed by fire and sword. Here gaunt ruin stalked and want entered
-his own home, made desolate as all the hearthstones of his people.
-Here the peace that ensued was the peace of the desert! Here the
-army, defeated and broken, came back after the long heroic struggle to
-blackened chimneys, sole vestige of home, and the South, with not even
-bread for her famished children, still stood in solemn silence by those
-deeper furrows watered with blood. The suffering that he endured was the
-common suffering of those around him,--actual physical want and lack of
-the commonest comforts of life, felt most keenly by his sensitive nature
-and delicate constitution. In the midst of this fierce stress, his
-darling boy, the crown of his life, died. All his affections, it seemed,
-were poured out at once, as water spilled upon the ground. He was dying
-of consumption, and earth shadows crowded around him.
+Suited by endowment and prepared by special study for a professorship, still all his efforts for the academic chair failed, and, finally, he was compelled to become a private teacher, an office the sacredness of which he profoundly realized. In his leisure hours he now gave himself up to deeper study of nature, literature, and man. It was in these few years of quiet retreat that he wrote the poems contained in the first edition of his works, 1859-60, which, laden with all the poet's longing to be heard, were little heeded in the first great shock of war. Indeed, in such a storm, what shelter could a poet find? An ardent Carolinian, devoted to his native State with an allegiance as to his country, he left his books and study, and threw himself into the struggle, a volunteer in the army. In the first years of the war he was in and near Charleston, and wrote those memorable poems and martial lyrics: "Carolina", "A Cry to Arms", "Charleston", "Ripley", "Ethnogenesis", and "The Cotton Boll", which deeply stirred the heart of his State, and, indeed, of the whole South. His was the voice of his people. Under its spell the public response was quick, and promised largest honor and world-wide fame for the poet. The project formed by some of the most eminent men of the State, late in 1862, was to publish an illustrated and highly embellished edition of his works in London. The war correspondent of the "London Illustrated News", Vizitelly, himself an artist, promised original illustrations, and the future seemed bright for the gratification of his heart's desire, to be known and heard in the great literary centre of the English-speaking world. But disappointment again was his lot. Amid the increasing stress of the conflict, every public and private energy in the South was absorbed in maintaining the ever weakening struggle; and with all art and literature and learning our poet's hopes were buried in the common grave of war; not because he was not loved and cherished, and his genius appreciated, but because a terrible need was upon his people, and desperate issues were draining their life-blood. Then he went to the front. Too weak for the field (for the fatal weakness that finally sapped his life was then upon him), he was compelled, under medical direction, to retire from the battle ranks, and made a last desperate effort to serve the cause he loved as a war correspondent. In this capacity he joined the great army of the West after the battle of Shiloh. The story of his camp life was indeed pathetic. Dr. Bruns writes of him then: "One can scarcely conceive of a situation more hopelessly wretched than that of a mere child in the world's ways suddenly flung down into the heart of that strong retreat, and tossed like a straw on the crest of those refluent waves from which he escaped as by a miracle." Home he came, baffled, dispirited, and sore hurt, to receive the succor of generous friendship, and for a brief time a safe congenial refuge, in 1864, in an editor's chair of the "South Carolinian", at the capital of his native State. Here his strong pen wrote the stirring editorials of that critical time, and there, tempted by the passing hour of comparative calm, he married Miss Kate Goodwin, "Katie, the fair Saxon" of his exquisite song. Here the war that had broken all his plans, and wrecked his health and hopes, and made literature for a time in the South a beggar's vocation, left him with wife and child, the "darling Willie" of his verse, dependent upon his already sapped and fast failing strength for support. Here he saw the capital of his native State, marked for vengeance, pitilessly destroyed by fire and sword. Here gaunt ruin stalked and want entered his own home, made desolate as all the hearthstones of his people. Here the peace that ensued was the peace of the desert! Here the army, defeated and broken, came back after the long heroic struggle to blackened chimneys, sole vestige of home, and the South, with not even bread for her famished children, still stood in solemn silence by those deeper furrows watered with blood. The suffering that he endured was the common suffering of those around him,--actual physical want and lack of the commonest comforts of life, felt most keenly by his sensitive nature and delicate constitution. In the midst of this fierce stress, his darling boy, the crown of his life, died. All his affections, it seemed, were poured out at once, as water spilled upon the ground. He was dying of consumption, and earth shadows crowded around him.
 
-Though long in feeble health, his last illness was brief. The best
-physicians lovingly gave their skillful ministration, and the State's
-most eminent men, in their common need, tenderly cared for him and his.
-With death before him, he clung passionately to his art, absorbed in
-that alone and in the great Beyond. His latest occupation was correcting
-the proof-sheets of his own poems, and he passed away with them by his
-side, stained with his life-blood.
+Though long in feeble health, his last illness was brief. The best physicians lovingly gave their skillful ministration, and the State's most eminent men, in their common need, tenderly cared for him and his. With death before him, he clung passionately to his art, absorbed in that alone and in the great Beyond. His latest occupation was correcting the proof-sheets of his own poems, and he passed away with them by his side, stained with his life-blood.
 
-In the autumn of 1867 he was laid by his beloved child in Trinity
-churchyard, Columbia, S.C. General Hampton, Governor Thompson, and other
-great Carolinians bore him to the grave,--a grave that, through the
-sackcloth of the Reconstruction period in South Carolina, remained
-without a stone. But as he himself wrote of the host of the Southern
-dead of the war,--
+In the autumn of 1867 he was laid by his beloved child in Trinity churchyard, Columbia, S.C. General Hampton, Governor Thompson, and other great Carolinians bore him to the grave,--a grave that, through the sackcloth of the Reconstruction period in South Carolina, remained without a stone. But as he himself wrote of the host of the Southern dead of the war,--
 
     "In seeds of laurel in the earth
      The blossom of your fame is blown,
     And somewhere waiting for its birth,
      The shaft is in the stone."
 
-In later years loving friends reared a small memorial shaft to mark
-his grave. It was in that dark period that Carl McKinley's genius was
-touched to these fine lines.
+In later years loving friends reared a small memorial shaft to mark his grave. It was in that dark period that Carl McKinley's genius was touched to these fine lines.
 
 
-        At Timrod's Grave.  1877.
+At Timrod's Grave.  1877.
 
 
     Harp of the South! no more, no more
@@ -610,107 +358,42 @@ touched to these fine lines.
      This grave that honors you!
 
 
-The one characteristic above all others that marked the poet's life was
-his unfaltering trust,--the soul's unclouded sky, a quenchless radiance
-of blessed sunlight amid the deep darkness that encompassed him.
+The one characteristic above all others that marked the poet's life was his unfaltering trust,--the soul's unclouded sky, a quenchless radiance of blessed sunlight amid the deep darkness that encompassed him.
 
-As in his poetry there is no false note, no doubtful sentiment, no
-selfish grief, even when he sings with breast against the thorn, so in
-his life do we find no word of bitterness or moaning or complaining.
-Even amid the terrible blight of war and its final utter ruin,
-prophet-like, he speaks in faith and hope and courage. His own
-heart breaking, and life ebbing, he writes of Spring as the true
-Reconstructionist, and pleads her message to his stricken people. It is
-so true and prophetic that we quote the words written in April, 1866.
+As in his poetry there is no false note, no doubtful sentiment, no selfish grief, even when he sings with breast against the thorn, so in his life do we find no word of bitterness or moaning or complaining. Even amid the terrible blight of war and its final utter ruin, prophet-like, he speaks in faith and hope and courage. His own heart breaking, and life ebbing, he writes of Spring as the true Reconstructionist, and pleads her message to his stricken people. It is so true and prophetic that we quote the words written in April, 1866.
 
-"For Spring is a true Reconstructionist,--a reconstructionist in the
-best and most practical sense. There is not a nook in the land in which
-she is not at this moment exerting her influence in preparing a way for
-the restoration of the South. No politician may oppose her; her power
-defies embarrassment; but she is not altogether independent of help. She
-brings us balmy airs and gentle dews, golden suns and silver rains; and
-she says to us, 'These are the materials of the only work in which you
-need be at present concerned; avail yourselves of them to reclothe your
-naked country and feed your impoverished people, and you will find that,
-in the discharge of that task, you have taken the course which will
-most certainly and most peacefully conduct you to the position which you
-desire. Turn not aside to bandy epithets with your enemies; stuff your
-ears, like the princess in the Arabian Nights, against words of insult
-and wrong; pause not to muse over your condition, or to question your
-prospects; but toil on bravely, silently, surely....'
+"For Spring is a true Reconstructionist,--a reconstructionist in the best and most practical sense. There is not a nook in the land in which she is not at this moment exerting her influence in preparing a way for the restoration of the South. No politician may oppose her; her power defies embarrassment; but she is not altogether independent of help. She brings us balmy airs and gentle dews, golden suns and silver rains; and she says to us, 'These are the materials of the only work in which you need be at present concerned; avail yourselves of them to reclothe your naked country and feed your impoverished people, and you will find that, in the discharge of that task, you have taken the course which will most certainly and most peacefully conduct you to the position which you desire. Turn not aside to bandy epithets with your enemies; stuff your ears, like the princess in the Arabian Nights, against words of insult and wrong; pause not to muse over your condition, or to question your prospects; but toil on bravely, silently, surely....'
 
-"Such are the words of wise and kindly counsel, which, if we attend
-rightly, we may all hear in the winds and read in the skies of Spring.
-Nowhere, however, does she speak with so eloquent a voice or so pathetic
-an effect as in this ruined town. She covers our devastated courts with
-images of renovation in the shape of flowers; she hangs once more in our
-blasted gardens the fragrant lamps of the jessamine; in our streets
-she kindles the maple like a beacon; and from amidst the charred and
-blackened ruins of once happy homes she pours, through the mouth of her
-favorite musician, the mocking-bird, a song of hope and joy. What is the
-lesson which she designs by these means to convey? It may be summed in a
-single sentence,--forgetfulness of the past, effort in the present, and
-trust for the future."
+"Such are the words of wise and kindly counsel, which, if we attend rightly, we may all hear in the winds and read in the skies of Spring. Nowhere, however, does she speak with so eloquent a voice or so pathetic an effect as in this ruined town. She covers our devastated courts with images of renovation in the shape of flowers; she hangs once more in our blasted gardens the fragrant lamps of the jessamine; in our streets she kindles the maple like a beacon; and from amidst the charred and blackened ruins of once happy homes she pours, through the mouth of her favorite musician, the mocking-bird, a song of hope and joy. What is the lesson which she designs by these means to convey? It may be summed in a single sentence,--forgetfulness of the past, effort in the present, and trust for the future."
 
-Such was the lofty creed and last hopeful, but dying message to his
-brothers of the South, whose war songs he had written, and the requiem
-of whose martyred hosts he had chanted.
+Such was the lofty creed and last hopeful, but dying message to his brothers of the South, whose war songs he had written, and the requiem of whose martyred hosts he had chanted.
 
-Such was the tragedy that ended in October, 1867, with the hero at the
-age of thirty-seven; glory, genius, anguish, tears, but unconquerable
-faith and heroic fortitude. His larger life scarce begun, his full power
-felt, but only half expressed, he realized deeply--
+Such was the tragedy that ended in October, 1867, with the hero at the age of thirty-seven; glory, genius, anguish, tears, but unconquerable faith and heroic fortitude. His larger life scarce begun, his full power felt, but only half expressed, he realized deeply--
 
-    "The petty done, the vast undone!"
+"The petty done, the vast undone!"
 
-He yearned with passionate longing and hope and conscious might to
-fulfill an even greater mission; but in the infinite providence of God
-the full fruitage of this exquisite soul was for another sphere. He was
-indeed "one of those who stirred us, a friend of man and a lover. In no
-country of this earth could he long have been an alien, and that may now
-be said of his spirit. In no part of this universe could it feel lonely
-or unbefriended; it was in harmony with all that flowers or gives
-perfume in life."
+He yearned with passionate longing and hope and conscious might to fulfill an even greater mission; but in the infinite providence of God the full fruitage of this exquisite soul was for another sphere. He was indeed "one of those who stirred us, a friend of man and a lover. In no country of this earth could he long have been an alien, and that may now be said of his spirit. In no part of this universe could it feel lonely or unbefriended; it was in harmony with all that flowers or gives perfume in life."
 
-The story of his last days, as given by his poet-friend, Paul Hayne,
-at the latter's cottage among the pines, is of tender and peculiar
-interest, and we quote it here, as it was written in 1873:--
+The story of his last days, as given by his poet-friend, Paul Hayne, at the latter's cottage among the pines, is of tender and peculiar interest, and we quote it here, as it was written in 1873:--
 
 
-... In the latter summer-tide of this same year (1867), I again
-persuaded him to visit me. Ah! how sacred now, how sad and sweet, are
-the memories of that rich, clear, prodigal August of '67!
+... In the latter summer-tide of this same year (1867), I again persuaded him to visit me. Ah! how sacred now, how sad and sweet, are the memories of that rich, clear, prodigal August of '67!
 
-We would rest on the hillsides, in the swaying golden shadows, watching
-together the Titanic masses of snow-white clouds which floated slowly
-and vaguely through the sky, suggesting by their form, whiteness, and
-serene motion, despite the season, flotillas of icebergs upon Arctic
-seas. Like Lazzaroni we basked in the quiet noons, sunk into the depths
-of reverie, or perhaps of yet more "charmed sleep". Or we smoked,
-conversing lazily between the puffs,
+We would rest on the hillsides, in the swaying golden shadows, watching together the Titanic masses of snow-white clouds which floated slowly and vaguely through the sky, suggesting by their form, whiteness, and serene motion, despite the season, flotillas of icebergs upon Arctic seas. Like Lazzaroni we basked in the quiet noons, sunk into the depths of reverie, or perhaps of yet more "charmed sleep". Or we smoked, conversing lazily between the puffs,
 
     "Next to some pine whose antique roots just peeped
     From out the crumbling bases of the sand."
 
-But the evenings, with their gorgeous sunsets "rolling down like a
-chorus" and the "gray-eyed melancholy gloaming", were the favorite
-hours of the day with him. He would often apostrophize twilight in the
-language of Wordsworth's sonnet:--
+But the evenings, with their gorgeous sunsets "rolling down like a chorus" and the "gray-eyed melancholy gloaming", were the favorite hours of the day with him. He would often apostrophize twilight in the language of Wordsworth's sonnet:--
 
        "Hail, twilight! sovereign of one peaceful hour!
     Not dull art thou as undiscerning night;
     But only studious to remove from sight
        Day's mutable distinctions."
 
-"Yes," said he, "she is indeed sovereign of _ONE PEACEFUL HOUR!_ In the
-hardest, busiest time one feels the calm, merciful-minded queen stealing
-upon one in the fading light, and 'whispering', as Ford has it (or is it
-Fletcher?),--'_WHISPERING_ tranquillity'."
+"Yes," said he, "she is indeed sovereign of _ONE PEACEFUL HOUR!_ In the hardest, busiest time one feels the calm, merciful-minded queen stealing upon one in the fading light, and 'whispering', as Ford has it (or is it Fletcher?),--'_WHISPERING_ tranquillity'."
 
-When in-doors and disposed to read, he took much pleasure in perusing
-the poems of Robert Buchanan and Miss Ingelow. The latter's "Ballads"
-particularly delighted him. One, written "in the old English manner",
-he quickly learned by heart, repeating it with a relish and fervor
+When in-doors and disposed to read, he took much pleasure in perusing the poems of Robert Buchanan and Miss Ingelow. The latter's "Ballads" particularly delighted him. One, written "in the old English manner", he quickly learned by heart, repeating it with a relish and fervor
 indescribable.
 
 Here is the opening stanza:--
@@ -719,58 +402,31 @@ Here is the opening stanza:--
     Yon crescent moon, a golden boat, hangs dim behind the tree, O!
     The dropping thorn makes white the grass, O! sweetest lass,
       and sweetest lass
-    Come out and smell the ricks of hay adown the croft with me, O!"
+Come out and smell the ricks of hay adown the croft with me, O!"
 
-With but a slight effort of memory I can vividly recall his voice and
-manner in repeating these simple yet beautiful lines.
+With but a slight effort of memory I can vividly recall his voice and manner in repeating these simple yet beautiful lines.
 
 They were the last verses I ever heard from the poet's lips.
 
-Just as the woods were assuming their first delicate autumnal tints,
-Timrod took his leave of us. In a conversation on the night but one
-previous to his departure, we had been speaking of Dr. Parr and other
-literary persons of unusual age, when he observed: "I haven't the
-slightest desire, P----, to be an octogenarian, far less a centenarian,
-like old Parr; but I hope that I may be spared until I am _FIFTY_ or
-fifty-five."
+Just as the woods were assuming their first delicate autumnal tints, Timrod took his leave of us. In a conversation on the night but one previous to his departure, we had been speaking of Dr. Parr and other literary persons of unusual age, when he observed: "I haven't the slightest desire, P----, to be an octogenarian, far less a centenarian, like old Parr; but I hope that I may be spared until I am _FIFTY_ or fifty-five."
 
 "About Shakespeare's age," I suggested.
 
-"Oh!" he replied, smiling, "I was not thinking of _THAT_; but I'm sure
-that after fifty-five I would begin to wither, mind and body, and one
-hates the idea of a mummy, intellectual or physical. Do you remember
-that picture of extreme old age which Charles Reade gives us in 'Never
-Too Late to Mend'? George Fielding, the hero, is about going away from
-England to try his luck in Australia. All his friends and relations are
-around him, expressing their sorrow at his enforced voyage; all but
-his grandfather, aged ninety-two, who sits stolid and mumbling in his
+"Oh!" he replied, smiling, "I was not thinking of _THAT_; but I'm sure that after fifty-five I would begin to wither, mind and body, and one hates the idea of a mummy, intellectual or physical. Do you remember that picture of extreme old age which Charles Reade gives us in 'Never Too Late to Mend'? George Fielding, the hero, is about going away from England to try his luck in Australia. All his friends and relations are around him, expressing their sorrow at his enforced voyage; all but his grandfather, aged ninety-two, who sits stolid and mumbling in his
 armchair.
 
-"'Grandfather!' shouts George into the deafened ears, 'I'm going a long
-journey; mayhap shall never see you again; speak a word to me before I
-go!' Grandfather looks up, brightens for a moment, and cackles feebly
-out: 'George, fetch me some _SNUFF_ from where you're going. See now'
-(half whimpering), 'I'm out of snuff.' A good point in the way of
-illustration, but not a pleasant picture."
+"'Grandfather!' shouts George into the deafened ears, 'I'm going a long journey; mayhap shall never see you again; speak a word to me before I go!' Grandfather looks up, brightens for a moment, and cackles feebly out: 'George, fetch me some _SNUFF_ from where you're going. See now' (half whimpering), 'I'm out of snuff.' A good point in the way of illustration, but not a pleasant picture."
 
-On the 13th of September, ten days after Timrod's return to Columbia, he
-wrote me the following note:--
+On the 13th of September, ten days after Timrod's return to Columbia, he wrote me the following note:--
 
-"Dear P----: I have been too sick to write before, and am still too sick
-to drop you more than a few lines. You will be surprised and pained to
-hear that I have had a severe hemorrhage of the lungs.
+"Dear P----: I have been too sick to write before, and am still too sick to drop you more than a few lines. You will be surprised and pained to hear that I have had a severe hemorrhage of the lungs.
 
-"I did not come home an instant too soon. I found them without money or
-provisions. Fortunately I brought with me a small sum. I won't tell you
-how small, but six dollars of it was from the editor of the 'Opinion'
+"I did not come home an instant too soon. I found them without money or provisions. Fortunately I brought with me a small sum. I won't tell you how small, but six dollars of it was from the editor of the 'Opinion'
 for my last poem.
 
-"I left your climate to my injury. But not only for the sake of my
-health, I begin already to look back with longing regret to 'Copse
-Hill'. You have all made me feel as if I had TWO beloved homes!
+"I left your climate to my injury. But not only for the sake of my health, I begin already to look back with longing regret to 'Copse Hill'. You have all made me feel as if I had TWO beloved homes!
 
-"I wish that I could divide myself between them; or that I had wings, so
-that I might flit from one to other in a moment.
+"I wish that I could divide myself between them; or that I had wings, so that I might flit from one to other in a moment.
 
 "I hope soon to write you at length. Yours," etc.
 
@@ -778,86 +434,42 @@ Again on the 16th I heard from him, thus:--
 
 "Yesterday I had a still more copious hemorrhage!...
 
-"I am lying supine in bed, forbidden to speak or make any exertion
-whatever. But I can't resist the temptation of dropping you a line, in
-the hope of calling forth a score or two from you in return.
+"I am lying supine in bed, forbidden to speak or make any exertion whatever. But I can't resist the temptation of dropping you a line, in the hope of calling forth a score or two from you in return.
 
-"An awkward time this for me to be sick! We are destitute of funds,
-almost of food. But God will provide!
+"An awkward time this for me to be sick! We are destitute of funds, almost of food. But God will provide!
 
-"I send you a Sonnet, written the other day, as an Obituary for Mr.
-Harris Simons. Tell me what you think of it--be sure! Love to your
-mother, wife, and my precious Willie [since the death of his own child
-he had turned with a yearning affection to my boy]. Let me hear from you
-soon--VERY soon! You'll do me more good than medicines!" etc.
+"I send you a Sonnet, written the other day, as an Obituary for Mr. Harris Simons. Tell me what you think of it--be sure! Love to your mother, wife, and my precious Willie [since the death of his own child he had turned with a yearning affection to my boy]. Let me hear from you soon--VERY soon! You'll do me more good than medicines!" etc.
 
-On the 25th of the month confidence in Timrod's recovery was confirmed
-by a letter from Mrs. Goodwin:--
+On the 25th of the month confidence in Timrod's recovery was confirmed by a letter from Mrs. Goodwin:--
 
-"Our brother," she writes, "is decidedly better; and if there be no
-recurrence of the hemorrhage will, I hope, be soon convalescent!"
+"Our brother," she writes, "is decidedly better; and if there be no recurrence of the hemorrhage will, I hope, be soon convalescent!"
 
-A week and upwards passed on in silence. I received no more
-communications from Columbia. But early in October a vaguely threatening
-report reached my ears. On the 9th it was mournfully confirmed.
-Forty-eight hours before, Henry Timrod had expired!
+A week and upwards passed on in silence. I received no more communications from Columbia. But early in October a vaguely threatening report reached my ears. On the 9th it was mournfully confirmed. Forty-eight hours before, Henry Timrod had expired!
 
-On the 7th of October, the mortal remains of the poet, so worn and
-shattered, were buried in the cemetery of Trinity Church, Columbia.
+On the 7th of October, the mortal remains of the poet, so worn and shattered, were buried in the cemetery of Trinity Church, Columbia.
 
-There, in the ruined capital of his native State, whence scholarship,
-culture, and social purity have been banished to give place to the
-orgies of semi-barbarians and the political trickery of adventurers and
-traitors; there, tranquil amid the vulgar turmoil of factions, reposes
-the dust of one of the truest and sweetest singers this country has
+There, in the ruined capital of his native State, whence scholarship, culture, and social purity have been banished to give place to the orgies of semi-barbarians and the political trickery of adventurers and traitors; there, tranquil amid the vulgar turmoil of factions, reposes the dust of one of the truest and sweetest singers this country has
 given to the world.
 
-Nature, kinder to his senseless ashes than ever Fortune had been to the
-living man, is prodigal around his grave--unmarked and unrecorded though
-it be--of her flowers and verdant grasses, of her rains that fertilize,
-and her purifying dews. The peace he loved, and so vainly longed for
-through stormy years, has crept to him at last, but only to fall upon
-the pallid eyelids, closed forever; upon the pulseless limbs, and the
-breathless, broken heart. Still it is good to know that
+Nature, kinder to his senseless ashes than ever Fortune had been to the living man, is prodigal around his grave--unmarked and unrecorded though it be--of her flowers and verdant grasses, of her rains that fertilize, and her purifying dews. The peace he loved, and so vainly longed for through stormy years, has crept to him at last, but only to fall upon the pallid eyelids, closed forever; upon the pulseless limbs, and the breathless, broken heart. Still it is good to know that
 
-    "After life's fitful fever, he sleeps well."
+"After life's fitful fever, he sleeps well."
 
-Yet, from this mere material repose, this quiet of decaying atoms,
-surely the most skeptical of thinkers, in contemplation of SUCH a life
-and SUCH a death, must instinctively look from earth to heaven; from
-the bruised and mouldering clod to the spirit infinitely exalted, and
-radiant in redemption.
+Yet, from this mere material repose, this quiet of decaying atoms, surely the most skeptical of thinkers, in contemplation of SUCH a life and SUCH a death, must instinctively look from earth to heaven; from the bruised and mouldering clod to the spirit infinitely exalted, and radiant in redemption.
 
-    "A calm, a beautiful, a sacred star."
+"A calm, a beautiful, a sacred star."
 
-The poetic creed of Timrod, expressed in his "Vision of Poesy", set
-the impress upon all his work. Conscious of his power, he reverently
-believed in the mission of the poet as prophet and teacher,--
+The poetic creed of Timrod, expressed in his "Vision of Poesy", set the impress upon all his work. Conscious of his power, he reverently believed in the mission of the poet as prophet and teacher,--
 
     "The mission of Genius on Earth!  To uplift,
     Purify, and confirm, by its own gracious gift,
     The world,"--
 
-and he has consecrated his gift to its noblest uses in the discharge of
-that "high and holy debt".
+and he has consecrated his gift to its noblest uses in the discharge of that "high and holy debt".
 
-As lover of man and nature, his sympathy was universal; no theme was too
-humble for his pen. "The same law that moulds a planet forms a drop of
-dew." "Humility is power!" "We may trace the mighty sun above even by
-the shadow of a slender flower." Yet he dealt not with the fleeting;
-that was only the passing form of the abiding. Passionately fond as he
-was of Nature, and nourished and refreshed by her always, he never wrote
-a line of mere descriptive poetry. Nature is only the symbol, the image,
-to interpret his spiritual meaning. He felt with Milton, in his noble
-words, that the abiding work is not raised in the heat of youth or
-the vapors of wine, or by "invocation to dame Memory and her siren
-daughters, but by devout prayer to that Eternal Spirit who can enrich
-with all utterance and knowledge, and send out his seraphim with the
-hallowed fire of his altars to touch and purify the lips of whom He
-pleases."
+As lover of man and nature, his sympathy was universal; no theme was too humble for his pen. "The same law that moulds a planet forms a drop of dew." "Humility is power!" "We may trace the mighty sun above even by the shadow of a slender flower." Yet he dealt not with the fleeting; that was only the passing form of the abiding. Passionately fond as he was of Nature, and nourished and refreshed by her always, he never wrote a line of mere descriptive poetry. Nature is only the symbol, the image, to interpret his spiritual meaning. He felt with Milton, in his noble words, that the abiding work is not raised in the heat of youth or the vapors of wine, or by "invocation to dame Memory and her siren daughters, but by devout prayer to that Eternal Spirit who can enrich with all utterance and knowledge, and send out his seraphim with the hallowed fire of his altars to touch and purify the lips of whom He pleases."
 
-Under that inspiration and revelation the poet is a divine interpreter
-of (in his own words)--
+Under that inspiration and revelation the poet is a divine interpreter of (in his own words)--
 
     "All lovely things, and gentle--the sweet laugh
      Of children, Girlhood's kiss, and Friendship's clasp,
@@ -873,29 +485,16 @@ of (in his own words)--
     Wherever Earth is fair, and Heaven looks down,
     I rear my altars, and I wear my crown."
 
-It was this mission of Poetry that filled his mind and heart and life
-with abiding light, which made him cling passionately to life, not
-because of any physical fear of death, but because in that mission Art
-and Nature were so inexpressibly rich and sweet to him to reveal his
-message to man. In the benediction of his dying words, "Love is sweeter
-than rest!"
+It was this mission of Poetry that filled his mind and heart and life with abiding light, which made him cling passionately to life, not because of any physical fear of death, but because in that mission Art and Nature were so inexpressibly rich and sweet to him to reveal his message to man. In the benediction of his dying words, "Love is sweeter than rest!"
 
-The moral purity of these poems is their distinctive quality, as it
-was of the man. With a universal sympathy for all life, still he moved
-always on the highest planes of thought and feeling and purpose. He
-seemed always to be impressed in his art with the truth of his own
-lines,--
+The moral purity of these poems is their distinctive quality, as it was of the man. With a universal sympathy for all life, still he moved always on the highest planes of thought and feeling and purpose. He seemed always to be impressed in his art with the truth of his own lines,--
 
     "There is no unimpressive spot on earth,
     The beauty of the stars is over all."
 
-His earnestness and deep poetic insight clothed all themes with the
-beauty and light that is in and over all.
+His earnestness and deep poetic insight clothed all themes with the beauty and light that is in and over all.
 
-Timrod's melancholy, the finest test of high poetic quality, when
-purified and spiritualized, has no Byronic bitterness, no selfish
-morbidness, no impenetrable gloom, but in his own exquisite lines it
-is,--
+Timrod's melancholy, the finest test of high poetic quality, when purified and spiritualized, has no Byronic bitterness, no selfish morbidness, no impenetrable gloom, but in his own exquisite lines it is,--
 
     "A shadowy land, where joy and sorrow kiss,
      Each still to each corrective and relief,
@@ -907,33 +506,18 @@ is,--
     A serious angel, with entranced eyes,
      Looking to far off and celestial things."
 
-Again, in all these poems there is a nameless spell of a simplicity,
-fervid yet tender, and an imagination, strong yet delicate, both in its
-perception and expression.
+Again, in all these poems there is a nameless spell of a simplicity, fervid yet tender, and an imagination, strong yet delicate, both in its perception and expression.
 
-His style, "like noble music unto noble words," is elaborate, yet
-perfectly natural. There is no trace of labor; grace guides and power
-impels. So perfect is it at times in its natural power that the mind
-is almost unconscious of the word-symbol in grasping immediately the
+His style, "like noble music unto noble words," is elaborate, yet perfectly natural. There is no trace of labor; grace guides and power impels. So perfect is it at times in its natural power that the mind is almost unconscious of the word-symbol in grasping immediately the
 thought revealed.
 
-There is in the verse a ceaseless melody and perfect finish. At times
-there is "the easy elegance of Catullus", always his delight, and a
-metrical translation of whose poems he had completed.
+There is in the verse a ceaseless melody and perfect finish. At times there is "the easy elegance of Catullus", always his delight, and a metrical translation of whose poems he had completed.
 
-Rare endowment with broad culture is evinced in the high intellectual
-level always maintained; and the evenness of quality that is always of
-the mountain top. He always knows his power, and its range. His song is
-always clear and true.
+Rare endowment with broad culture is evinced in the high intellectual level always maintained; and the evenness of quality that is always of the mountain top. He always knows his power, and its range. His song is always clear and true.
 
-Moreover, with a universality of poetic feeling, he has struck every
-chord, and always with a keen sensibility and delicacy of natural
-instinct. Among the finest poems, how wide is this range and varied this
-power!
+Moreover, with a universality of poetic feeling, he has struck every chord, and always with a keen sensibility and delicacy of natural instinct. Among the finest poems, how wide is this range and varied this power!
 
-"The Vision of Poesy", his longest work, written in youth, essaying the
-mission and the philosophy of the poetic art, has some lofty passages,
-and all the promise of his later power, felicity, and melody.
+"The Vision of Poesy", his longest work, written in youth, essaying the mission and the philosophy of the poetic art, has some lofty passages, and all the promise of his later power, felicity, and melody.
 
 "A Year's Courtship" is in its glow, and grace, and music the perfection
 of classic art.
@@ -941,13 +525,9 @@ of classic art.
 The dainty voluptuousness in a "Serenade" kindles with the luxuriousness
 of the South.
 
-His "Praeceptor Amat" is warm with the breath of rapturous feeling, and
-rich with the fragrance of flowers.
+His "Praeceptor Amat" is warm with the breath of rapturous feeling, and rich with the fragrance of flowers.
 
-"Ethnogenesis", "the birth of the nation", is regarded by some his
-greatest poem. It is prophecy linked with the hope and aspiration of the
-newborn nation of the South. A permanent image of the Southern nature
-and character is thus richly portrayed:--
+"Ethnogenesis", "the birth of the nation", is regarded by some his greatest poem. It is prophecy linked with the hope and aspiration of the newborn nation of the South. A permanent image of the Southern nature and character is thus richly portrayed:--
 
                              "But the type
     Whereby we shall be known in every land
@@ -957,51 +537,26 @@ and character is thus richly portrayed:--
     May sometimes catch upon the softened breeze
     Strange tropic warmth and hints of summer seas."
 
-"The Cotton Boll", in "the snow of Southern summers", is a forerunner
-of Lanier's "Corn". It reveals the mystic spell and kingly power of
-that far-stretching tropic snow, and contains that glowing painting of
-Carolina from sea to mountain, which closes
+"The Cotton Boll", in "the snow of Southern summers", is a forerunner of Lanier's "Corn". It reveals the mystic spell and kingly power of that far-stretching tropic snow, and contains that glowing painting of Carolina from sea to mountain, which closes
 
     "No fairer land hath fired a poet's lays,
     Or given a home to man!"
 
-"Too Long, O Spirit of Storm", is the fused passion of the poet's heart
-appalled at the moral death of stagnation. It has all the intensity and
-subtlety of Shelley.
+"Too Long, O Spirit of Storm", is the fused passion of the poet's heart appalled at the moral death of stagnation. It has all the intensity and subtlety of Shelley.
 
-In "The Lily Confidante", delicate and fanciful as it is, the reply
-of the Lily "is a simple yet sacred melody", hallowing the purity of
+In "The Lily Confidante", delicate and fanciful as it is, the reply of the Lily "is a simple yet sacred melody", hallowing the purity of
 passion.
 
-"The Arctic Voyager" suggests Tennyson's "Ulysses" in its high faith,
-lofty purpose, and sustained power.
+"The Arctic Voyager" suggests Tennyson's "Ulysses" in its high faith, lofty purpose, and sustained power.
 
-"Spring" is the burst of the Southern spring, in its flooding life and
-glory and beauty. There is "a nameless pathos in the air." A wonderful
-revelation is going on before our eyes! No miracle could startle in the
-ever new creation, so strange and rapturous is this joy of sense and
+"Spring" is the burst of the Southern spring, in its flooding life and glory and beauty. There is "a nameless pathos in the air." A wonderful revelation is going on before our eyes! No miracle could startle in the ever new creation, so strange and rapturous is this joy of sense and
 spiritual rebirth.
 
-Nor was his genius only reflective, and creative, and playful; his was a
-trumpet voice also. When the blast of war sounded, his voice rang like
-a clarion in "Carolina" and "Cry to Arms". Beyond their local meaning,
-which kindles and thrills, now as then, the men of the South, they have
-an abiding, universal power from the standpoint of art; for there is
-nothing finer in all the martial strains of the lyric.
+Nor was his genius only reflective, and creative, and playful; his was a trumpet voice also. When the blast of war sounded, his voice rang like a clarion in "Carolina" and "Cry to Arms". Beyond their local meaning, which kindles and thrills, now as then, the men of the South, they have an abiding, universal power from the standpoint of art; for there is nothing finer in all the martial strains of the lyric.
 
-Paul Hayne, his brother poet, speaking of "Carolina", as "lines destined
-perhaps to outlive the political vitality of the State, whose antique
-fame they celebrate," said:--
+Paul Hayne, his brother poet, speaking of "Carolina", as "lines destined perhaps to outlive the political vitality of the State, whose antique fame they celebrate," said:--
 
-"I read them first, and was thrilled by their power and pathos, upon
-a stormy March evening in Fort Sumter! Walking along the battlements,
-under the red light of a tempestuous sunset, the wind steadily and
-loudly blowing from off the bar across the tossing and moaning waste of
-waters, driven inland; with scores of gulls and white sea-birds flying
-and shrieking round me,--those wild voices of Nature mingled strangely
-with the rhythmic roll and beat of the poet's impassioned music. The
-very spirit, or dark genius, of the troubled scene appeared to take up
-and to repeat such verses as--
+"I read them first, and was thrilled by their power and pathos, upon a stormy March evening in Fort Sumter! Walking along the battlements, under the red light of a tempestuous sunset, the wind steadily and loudly blowing from off the bar across the tossing and moaning waste of waters, driven inland; with scores of gulls and white sea-birds flying and shrieking round me,--those wild voices of Nature mingled strangely with the rhythmic roll and beat of the poet's impassioned music. The very spirit, or dark genius, of the troubled scene appeared to take up and to repeat such verses as--
 
     "'I hear a murmur as of waves
     That grope their way through sunless caves,
@@ -1016,92 +571,38 @@ and to repeat such verses as--
     It is the answer of thy sons,
                              Carolina!'"
 
-Profoundly appealing as are Timrod's war strains, for they are the
-heart-cry of a people, still it should be noted that there is scarcely a
-battle ode that does not close with an invocation to peace, such was the
-lofty nature of the poet. War to him was only the drawn sword of right,
-and truth, and justice, which accomplished, the prayer for peace was
-ever on his lips, as witness the noble invocation to Peace, closing his
-"Christmas", that has so often stirred and hushed at once the heart of
+Profoundly appealing as are Timrod's war strains, for they are the heart-cry of a people, still it should be noted that there is scarcely a battle ode that does not close with an invocation to peace, such was the lofty nature of the poet. War to him was only the drawn sword of right, and truth, and justice, which accomplished, the prayer for peace was ever on his lips, as witness the noble invocation to Peace, closing his "Christmas", that has so often stirred and hushed at once the heart of
 the South.
 
-The Ode, written for Memorial Day, April, 1867, of the Confederate
-graves at Charleston, was his last production. He had sung in lofty
-strains each phase of the struggle, its hope, its courage, its fear,
-its despair; he now sings his latest song, a wreath of flowers upon
-the unmarked graves of the Southern dead, and has hallowed these sacred
-mounds to his people in the words,--
+The Ode, written for Memorial Day, April, 1867, of the Confederate graves at Charleston, was his last production. He had sung in lofty strains each phase of the struggle, its hope, its courage, its fear, its despair; he now sings his latest song, a wreath of flowers upon the unmarked graves of the Southern dead, and has hallowed these sacred mounds to his people in the words,--
 
      "There is no holier spot of ground
     Than where defeated valor lies,
      By mourning beauty crowned!"
 
-These poems are written in the life-blood of the poet and his
-generation. The patriotic fire, the devoted sacrifice and splendid
-achievement, that "Carolina", "Cry to Arms", "Unknown Dead", "Carmen
-Triumphale", "Charleston", "Storm and Calm", and the other of the war
-poems celebrate were not only the rushing tide of earnest feeling of a
-noble people then, but are now a part of the glory and heritage of the
-State, of the South, and of the American republic. They were the mighty
-heart-beats of that great epoch. They are now irrevocable history, and
-make these poems a part of the abiding literature of America.
+These poems are written in the life-blood of the poet and his generation. The patriotic fire, the devoted sacrifice and splendid achievement, that "Carolina", "Cry to Arms", "Unknown Dead", "Carmen Triumphale", "Charleston", "Storm and Calm", and the other of the war poems celebrate were not only the rushing tide of earnest feeling of a noble people then, but are now a part of the glory and heritage of the State, of the South, and of the American republic. They were the mighty heart-beats of that great epoch. They are now irrevocable history, and make these poems a part of the abiding literature of America.
 
-"A Common Thought" is the poet's premonition of his end; but he sees
-no vision of the dying glory of sunset, no going out into the dark, no
-presentiment of a vague and gloomy voyage on a homeless sea; but in the
-sunshine, in the growing light of ever broadening day, amid the joy and
-splendor of nature, bright prophecy and intuition of immortality, is to
-come the sudden, solemn mystery of the whisper, "He is gone!" And so
-it was. For as the sun broadened into glad day, and the full radiance
-illumined and animated earth and sea and sky, "as it purpled in the
-zenith, as it brightened on the lawn," this rich young life, in its own
-fresh morning of genius and spiritual sunshine, passed, and in his own
-triumphant words,--
+"A Common Thought" is the poet's premonition of his end; but he sees no vision of the dying glory of sunset, no going out into the dark, no presentiment of a vague and gloomy voyage on a homeless sea; but in the sunshine, in the growing light of ever broadening day, amid the joy and splendor of nature, bright prophecy and intuition of immortality, is to come the sudden, solemn mystery of the whisper, "He is gone!" And so it was. For as the sun broadened into glad day, and the full radiance illumined and animated earth and sea and sky, "as it purpled in the zenith, as it brightened on the lawn," this rich young life, in its own fresh morning of genius and spiritual sunshine, passed, and in his own triumphant words,--
 
          "not dies, no more than Spirit dies;
     But in a change like death was clothed with wings."
 
 
-
-
-
 The Late Judge George S. Bryan
 
 
+It would not be fitting that this memorial edition of Timrod's Poems should go forth to the world without proper recognition, on the part of the TIMROD MEMORIAL ASSOCIATION, of the relation occupied and the services rendered to the poet in his lifetime by the late Hon. George S. Bryan, of Charleston. During the whole of Timrod's career Judge Bryan was his devoted friend, ever ready to assist him materially, morally, and in every other respect.
 
-It would not be fitting that this memorial edition of Timrod's Poems
-should go forth to the world without proper recognition, on the part
-of the TIMROD MEMORIAL ASSOCIATION, of the relation occupied and the
-services rendered to the poet in his lifetime by the late Hon. George
-S. Bryan, of Charleston. During the whole of Timrod's career Judge Bryan
-was his devoted friend, ever ready to assist him materially, morally,
-and in every other respect.
-
-His faith in Timrod's genius never wavered, and but for his early
-assistance, sympathy, and encouragement, much of the fruit of that
-genius would have been lost or wasted. He helped him in adversity,
-cheered him in his hours of anxiety and despondency, and from first to
-last, throughout the literary and spiritual history of the poet, he
-did more than any other friend to keep alive in his heart the steadfast
-flame of faith in his poetic destiny; Judge Bryan's name must always
-be inseparably connected with Henry Timrod's in the literary annals of
+His faith in Timrod's genius never wavered, and but for his early assistance, sympathy, and encouragement, much of the fruit of that genius would have been lost or wasted. He helped him in adversity, cheered him in his hours of anxiety and despondency, and from first to last, throughout the literary and spiritual history of the poet, he did more than any other friend to keep alive in his heart the steadfast flame of faith in his poetic destiny; Judge Bryan's name must always be inseparably connected with Henry Timrod's in the literary annals of
 South Carolina.
 
-  January, 1899.
-
-
-
+January, 1899.
 
 
 POEMS OF HENRY TIMROD
 
 
-
-
-
-
-     Spring
-
+Spring
 
 
      Spring, with that nameless pathos in the air
@@ -1190,10 +691,7 @@ POEMS OF HENRY TIMROD
      Who turn her meads to graves.
 
 
-
-
-     The Cotton Boll
-
+The Cotton Boll
 
 
      While I recline
@@ -1364,13 +862,10 @@ POEMS OF HENRY TIMROD
      Mercy; and we shall grant it, and dictate
      The lenient future of his fate
      There, where some rotting ships and crumbling quays
-     Shall one day mark the Port which ruled the Western seas.
+Shall one day mark the Port which ruled the Western seas.
 
 
-
-
-     Praeceptor Amat
-
+Praeceptor Amat
 
 
      It is time (it was time long ago) I should sever
@@ -1471,10 +966,7 @@ POEMS OF HENRY TIMROD
      On the spot where they fell, and--but here is your book!
 
 
-
-
 The Problem
-
 
 
   Not to win thy favor, maiden, not to steal away thy heart,
@@ -1492,9 +984,9 @@ The Problem
   Yet so beautiful thy errors that I had no heart for blame,
   And thy virtues made thee dearer than my dearest hopes of fame;
   All so blended, that in wishing one peculiar trait removed,
-  We indeed might make thee better, but less lovely and less loved.
-  All my mind was in the study--so two thrilling fortnights passed--
-  All my mind was in the study--till my heart was touched at last.
+We indeed might make thee better, but less lovely and less loved.
+All my mind was in the study--so two thrilling fortnights passed--
+All my mind was in the study--till my heart was touched at last.
   Well! and then the book was finished, the absorbing task was done,
   I awoke as one who had been dreaming in a noon-day sun;
   With a fever on my forehead, and a throbbing in my brain,
@@ -1514,9 +1006,9 @@ The Problem
   But to-night my thoughts flow calmer--in thy room I think I stand,
   See a fair white page before thee, and a pen within thy hand;
   And thy fingers sweep the paper, and a light is in thine eyes,
-  Whilst I read thy secret fancies, whilst I hear thy secret sighs.
-  What they are I will not whisper, those are lovely, these are deep,
-  But one name is left unwritten, that is only breathed in sleep.
+Whilst I read thy secret fancies, whilst I hear thy secret sighs.
+What they are I will not whisper, those are lovely, these are deep,
+But one name is left unwritten, that is only breathed in sleep.
   Is it wonder that my passion bursts at once from out its nest?
   I have bent my knee before thee, and my love is all confessed;
   Though I knew that name unwritten was another name than mine,
@@ -1524,9 +1016,9 @@ The Problem
   Aye! I hear thy haughty answer!  Aye! I see thy proud lip curl!
   "What presumption, and what folly!" why, I only love a girl
   With some very winning graces, with some very noble traits,
-  But no better than a thousand who have bent to humbler fates.
-  That I ask not; I have, maiden, just as haught a soul as thine;
-  If thou think'st thy place above me, thou shalt never stoop to mine.
+But no better than a thousand who have bent to humbler fates.
+That I ask not; I have, maiden, just as haught a soul as thine;
+If thou think'st thy place above me, thou shalt never stoop to mine.
   Yet as long as blood runs redly, yet as long as mental worth
   Is a nobler gift than fortune, is a holier thing than birth,
   I will claim the right to utter, to the high and to the low,
@@ -1534,15 +1026,12 @@ The Problem
   Nor shall any slight unman me; I have yet some little strength,
   Yet my song shall sound as sweetly, yet a power be mine at length!
   Then, oh, then! but moans are idle--hear me, pitying saints above!
-  With a chaplet on my forehead, I will justify my love.
-  And perhaps when thou art leaning on some less devoted breast,
-  Thou shalt murmur, "He was worthier than my blinded spirit guessed."
-
-
+With a chaplet on my forehead, I will justify my love.
+And perhaps when thou art leaning on some less devoted breast,
+Thou shalt murmur, "He was worthier than my blinded spirit guessed."
 
 
 A Year's Courtship
-
 
 
      I saw her, Harry, first, in March--
@@ -1631,10 +1120,7 @@ A Year's Courtship
       And here's to--when thou find'st her--thine!
 
 
-
-
-     Serenade
-
+Serenade
 
 
      Hide, happy damask, from the stars,
@@ -1656,10 +1142,7 @@ A Year's Courtship
       He watches in the lonely street.
 
 
-
-
-     Youth and Manhood
-
+Youth and Manhood
 
 
      Another year! a short one, if it flow
@@ -1733,10 +1216,7 @@ A Year's Courtship
       And let me die!
 
 
-
-
-     Hark to the Shouting Wind
-
+Hark to the Shouting Wind
 
 
      Hark to the shouting Wind!
@@ -1760,10 +1240,7 @@ A Year's Courtship
       A calm blue sky again.
 
 
-
-
-     Too Long, O Spirit of Storm
-
+Too Long, O Spirit of Storm
 
 
      Too long, O Spirit of Storm,
@@ -1792,10 +1269,7 @@ A Year's Courtship
       Which hides ten thousand graves.
 
 
-
-
-     The Lily Confidante
-
+The Lily Confidante
 
 
      Lily! lady of the garden!
@@ -1859,10 +1333,7 @@ A Year's Courtship
       And her woman's soul."
 
 
-
-
-     The Stream is Flowing from the West
-
+The Stream is Flowing from the West
 
 
      The stream is flowing from the west;
@@ -1894,10 +1365,7 @@ A Year's Courtship
      To wish, do everything but--hope.
 
 
-
-
-     Vox et Praeterea Nihil
-
+Vox et Praeterea Nihil
 
 
      I've been haunted all night, I've been haunted all day,
@@ -1925,13 +1393,10 @@ A Year's Courtship
      Not gilded with fancy, nor frigid with art,
      But simple as feeling, and warm as the heart,
      It would murmur my name with so charming a tone,
-     As would almost persuade thee to wish it thine own.
+As would almost persuade thee to wish it thine own.
 
 
-
-
-     Madeline
-
+Madeline
 
 
      O lady! if, until this hour,
@@ -2048,12 +1513,9 @@ A Year's Courtship
       But I should die with less.
 
 
+A Dedication
 
-
-     A Dedication
-
-       To K. S. G.
-
+To K. S. G.
 
 
      Fair Saxon, in my lover's creed,
@@ -2108,10 +1570,7 @@ A Year's Courtship
      We owe to Shakespeare's England yet!
 
 
-
-
-     Katie
-
+Katie
 
 
      It may be through some foreign grace,
@@ -2321,10 +1780,7 @@ A Year's Courtship
      The Southron and his English bride!"
 
 
-
-
-     Why Silent?
-
+Why Silent?
 
 
      Why am I silent from year to year?
@@ -2346,13 +1802,10 @@ A Year's Courtship
              What a poet sings.
 
 
+Two Portraits
 
 
-     Two Portraits
-
-
-
-         I
+I
 
      You say, as one who shapes a life,
      That you will never be a wife,
@@ -2538,7 +1991,7 @@ A Year's Courtship
      Are strengthened by a double power.
 
 
-         II
+II
 
      Here ends my feeble sketch of what
      Might, but will never be your lot;
@@ -2595,7 +2048,7 @@ A Year's Courtship
      It is an earth without a sun.
 
 
-         III
+III
 
      But now, stand forth as sweet as life!
      And let me paint you as a wife.
@@ -2688,10 +2141,7 @@ A Year's Courtship
      The blessing of a full content!
 
 
-
-
-     La Belle Juive
-
+La Belle Juive
 
 
      Is it because your sable hair
@@ -2747,10 +2197,7 @@ A Year's Courtship
      How soon shall I be stretched at yours!
 
 
-
-
-     An Exotic
-
+An Exotic
 
 
      Not in a climate near the sun
@@ -2809,10 +2256,7 @@ A Year's Courtship
       And she was a queen again!
 
 
-
-
-     The Rosebuds
-
+The Rosebuds
 
 
      Yes, in that dainty ivory shrine,
@@ -2852,10 +2296,7 @@ A Year's Courtship
      Hummed like the future in a seer's!
 
 
-
-
-     A Mother's Wail
-
+A Mother's Wail
 
 
      My babe! my tiny babe! my only babe!
@@ -2920,10 +2361,7 @@ A Year's Courtship
      That hide it, lest I madden where I kneel!
 
 
-
-
-     Our Willie
-
+Our Willie
 
 
      'T was merry Christmas when he came,
@@ -3042,12 +2480,9 @@ A Year's Courtship
      In the brief "Here lieth" of the dead!
 
 
+Address Delivered at the Opening of the New Theatre at Richmond
 
-
-     Address Delivered at the Opening of the New Theatre at Richmond
-
-     A Prize Poem
-
+A Prize Poem
 
 
                  A fairy ring
@@ -3181,16 +2616,13 @@ A Year's Courtship
      Rest the dear rights for which we fight and pray.
 
 
+A Vision of Poesy
 
 
-     A Vision of Poesy
+Part I
 
 
-
-       Part I
-
-
-         I
+I
 
      In a far country, and a distant age,
       Ere sprites and fays had bade farewell to earth,
@@ -3485,9 +2917,9 @@ A Year's Courtship
      And onward sweeping slowly through the dark,
       Bursts like a call the night-wind from the woods!
      Low bow the flowers, the trees fling loose their dreams,
-     And through the waving roof a fresher moonlight streams.
+And through the waving roof a fresher moonlight streams.
 
-         XXXIV
+XXXIV
 
      "Mortal!"--the word crept slowly round the place
       As if that wind had breathed it!  From no star
@@ -3521,9 +2953,9 @@ A Year's Courtship
      Unto whom love was yet an innocent dream,
       Shivered and crimsoned with an unknown joy;
      As to the young Spring bounds the passionate South,
-     He could have clasped and kissed her mouth to mouth.
+He could have clasped and kissed her mouth to mouth.
 
-         XXXVIII
+XXXVIII
 
      Yet something checked, that was and was not dread,
       Till in a low sweet voice the maiden spake;
@@ -3757,11 +3189,10 @@ A Year's Courtship
      And read the only hints that yet remain.
 
 
+Part II
 
-       Part II
 
-
-         I
+I
 
      It is not winter yet, but that sweet time
       In autumn when the first cool days are past;
@@ -3867,9 +3298,9 @@ A Year's Courtship
      With something more of lust and less of truth
       She would have sunk all blushes on my breast;
      And--but I must not blame her--in my ear
-     Death whispers! and the end, thank God! draws near!"
+Death whispers! and the end, thank God! draws near!"
 
-         XIII
+XIII
 
      Hist! on the perfect silence of the place
       Comes and dies off a sound like far-off rain
@@ -3921,9 +3352,9 @@ A Year's Courtship
      That on such souls as might have loved thee jarred
       Like an unearthly language; thou didst float
      On a strange water; those who stood on land
-     Gazed, but they could not leave their beaten strand.
+Gazed, but they could not leave their beaten strand.
 
-         XIX
+XIX
 
      "Your elements were different, and apart--
       The world's and thine--and even in those intense
@@ -3993,9 +3424,9 @@ A Year's Courtship
      In thy unmingled scorn of any truce
       With this world's specious falsehoods, often thou
      Hast uttered, through some all unworldly song,
-     Truths that for man might else have slumbered long.
+Truths that for man might else have slumbered long.
 
-         XXVII
+XXVII
 
      "And these not always vainly on the crowd
       Have fallen; some are cherished now, and some,
@@ -4014,10 +3445,7 @@ A Year's Courtship
      Thy life shall bear its flowers in future times."
 
 
-
-
-     The Past
-
+The Past
 
 
      To-day's most trivial act may hold the seed
@@ -4051,10 +3479,7 @@ A Year's Courtship
       Looking to far-off and celestial things.
 
 
-
-
-     Dreams
-
+Dreams
 
 
      Who first said "false as dreams"?  Not one who saw
@@ -4093,10 +3518,7 @@ A Year's Courtship
       That tell us solemn secrets of ourselves.
 
 
-
-
-     The Arctic Voyager
-
+The Arctic Voyager
 
 
      Shall I desist, twice baffled?  Once by land,
@@ -4146,10 +3568,7 @@ A Year's Courtship
      Ye will not leave undone.  The rest is God's!
 
 
-
-
-     Dramatic Fragment
-
+Dramatic Fragment
 
 
      Let the boy have his will!  I tell thee, brother,
@@ -4193,10 +3612,7 @@ A Year's Courtship
      Hath sometimes waked them sooner.
 
 
-
-
-     The Summer Bower
-
+The Summer Bower
 
 
      It is a place whither I've often gone
@@ -4270,10 +3686,7 @@ A Year's Courtship
      Strike like contempt.
 
 
-
-
-     A Rhapsody of a Southern Winter Night
-
+A Rhapsody of a Southern Winter Night
 
 
      Oh! dost thou flatter falsely, Hope?
@@ -4403,10 +3816,7 @@ A Year's Courtship
                  Appear!  Appear!
 
 
-
-
-     Flower-Life
-
+Flower-Life
 
 
      I think that, next to your sweet eyes,
@@ -4466,10 +3876,7 @@ A Year's Courtship
         Nor reason with your tears.
 
 
-
-
-     A Summer Shower
-
+A Summer Shower
 
 
              Welcome, rain or tempest
@@ -4515,10 +3922,7 @@ A Year's Courtship
      And bend a brighter brow beneath thy burning kiss.
 
 
-
-
-     Baby's Age
-
+Baby's Age
 
 
      She came with April blooms and showers;
@@ -4543,10 +3947,7 @@ A Year's Courtship
      We think to date a week with sage!
 
 
-
-
-     The Messenger Rose
-
+The Messenger Rose
 
 
      If you have seen a richer glow,
@@ -4576,10 +3977,7 @@ A Year's Courtship
      From the first sweet night in May.
 
 
-
-
-     On Pressing Some Flowers
-
+On Pressing Some Flowers
 
 
      So, they are dead!  Love! when they passed
@@ -4608,10 +4006,7 @@ A Year's Courtship
       And every leaf should fold its flower.
 
 
-
-
-     1866--Addressed to the Old Year
-
+1866--Addressed to the Old Year
 
 
      Art thou not glad to close
@@ -4660,13 +4055,10 @@ A Year's Courtship
      Now floating to them on this wintry air.
 
 
-
-
-     Stanzas:  A Mother Gazes Upon Her Daughter,
+Stanzas:  A Mother Gazes Upon Her Daughter,
 
      Arrayed for an Approaching Bridal.
      Written in Illustration of a Tableau Vivant
-
 
 
      Is she not lovely!  Oh! when, long ago,
@@ -4715,10 +4107,7 @@ A Year's Courtship
       Unto a lover's and thy mother's eyes!
 
 
-
-
-     Hymn Sung at an Anniversary of the Asylum of Orphans at Charleston
-
+Hymn Sung at an Anniversary of the Asylum of Orphans at Charleston
 
 
      We scarce, O God! could lisp thy name,
@@ -4752,10 +4141,7 @@ A Year's Courtship
       And guide and guard them in the truth!
 
 
-
-
-     To a Captive Owl
-
+To a Captive Owl
 
 
      I should be dumb before thee, feathered sage!
@@ -4799,10 +4185,7 @@ A Year's Courtship
       Munch it, O Owl! with less profound a face.
 
 
-
-
-     Love's Logic
-
+Love's Logic
 
 
      And if I ask thee for a kiss,
@@ -4842,10 +4225,7 @@ A Year's Courtship
       Thou 'lt fancy me--this gentle South.
 
 
-
-
-     Second Love
-
+Second Love
 
 
      Could I reveal the secret joy
@@ -4874,10 +4254,7 @@ A Year's Courtship
       I loved but for thy sake.
 
 
-
-
-     Hymn Sung at the Consecration of Magnolia Cemetery, Charleston, S.C.
-
+Hymn Sung at the Consecration of Magnolia Cemetery, Charleston, S.C.
 
 
      Whose was the hand that painted thee, O Death!
@@ -4901,13 +4278,10 @@ A Year's Courtship
       Where we may rest, and whence we pray to rise.
 
 
+Hymn Sung at a Sacred Concert at Columbia, S.C.
 
 
-     Hymn Sung at a Sacred Concert at Columbia, S.C.
-
-
-
-         I
+I
 
      Faint falls the gentle voice of prayer
      In the wild sounds that fill the air,
@@ -4929,10 +4303,7 @@ A Year's Courtship
      To make Thee hear our cries for peace.
 
 
-
-
-     Lines to R. L.
-
+Lines to R. L.
 
 
      That which we are and shall be is made up
@@ -4970,10 +4341,7 @@ A Year's Courtship
      Made me all rich with the dear name of friend.
 
 
-
-
-     To Whom?
-
+To Whom?
 
 
      Awake upon a couch of pain,
@@ -5004,10 +4372,7 @@ A Year's Courtship
       But kiss me as the breeze does now.
 
 
-
-
-     To Thee
-
+To Thee
 
 
      Draw close the lattice and the door!
@@ -5038,10 +4403,7 @@ A Year's Courtship
       If they COULD feel the beat of thine!
 
 
-
-
-     Storm and Calm
-
+Storm and Calm
 
 
      Sweet are these kisses of the South,
@@ -5086,10 +4448,7 @@ A Year's Courtship
      And rust or rot in idle joy!
 
 
-
-
-     Retirement
-
+Retirement
 
 
      My gentle friend! I hold no creed so false
@@ -5130,10 +4489,7 @@ A Year's Courtship
      With the sweet flowers that blossom at their feet.
 
 
-
-
-     A Common Thought
-
+A Common Thought
 
 
      Somewhere on this earthly planet
@@ -5157,18 +4513,13 @@ A Year's Courtship
       And a whisper, "He is gone!"
 
 
+POEMS WRITTEN IN WAR TIMES
 
 
-     POEMS WRITTEN IN WAR TIMES
+Carolina
 
 
-
-
-     Carolina
-
-
-
-         I
+I
 
      The despot treads thy sacred sands,
      Thy pines give shelter to his bands,
@@ -5274,10 +4625,7 @@ A Year's Courtship
                          Carolina!
 
 
-
-
-     A Cry to Arms
-
+A Cry to Arms
 
 
      Ho! woodsmen of the mountain side!
@@ -5335,10 +4683,7 @@ A Year's Courtship
       And for the Lily's sake!
 
 
-
-
-     Charleston
-
+Charleston
 
 
      Calm as that second summer which precedes
@@ -5397,10 +4742,7 @@ A Year's Courtship
       The triumph or the tomb.
 
 
-
-
-     Ripley
-
+Ripley
 
 
      Rich in red honors, that upon him lie
@@ -5449,16 +4791,13 @@ A Year's Courtship
       The rose of joy shall bloom.
 
 
-
-
-     Ethnogenesis
+Ethnogenesis
 
      Written During the Meeting of the First Southern Congress,
      at Montgomery, February, 1861
 
 
-
-         I
+I
 
      Hath not the morning dawned with added light?
      And shall not evening call another star
@@ -5580,10 +4919,7 @@ A Year's Courtship
      Strange tropic warmth and hints of summer seas.
 
 
-
-
-     Carmen Triumphale
-
+Carmen Triumphale
 
 
      Go forth and bid the land rejoice,
@@ -5652,10 +4988,7 @@ A Year's Courtship
      And speed her to the port of peace!
 
 
-
-
-     The Unknown Dead
-
+The Unknown Dead
 
 
      The rain is plashing on my sill,
@@ -5707,10 +5040,7 @@ A Year's Courtship
      Laughs gayly o'er their burial-place.
 
 
-
-
-     The Two Armies
-
+The Two Armies
 
 
      Two armies stand enrolled beneath
@@ -5759,10 +5089,7 @@ A Year's Courtship
      Gleam softly from the other's eyes.
 
 
-
-
-     Christmas
-
+Christmas
 
 
          How grace this hallowed day?
@@ -5861,15 +5188,12 @@ A Year's Courtship
          And peace in all our hearts!
 
 
+Ode Sung on the Occasion of Decorating the Graves of the Confederate Dead,
+
+at Magnolia Cemetery, Charleston, S.C., 1867
 
 
-     Ode Sung on the Occasion of Decorating the Graves of the Confederate Dead,
-
-     at Magnolia Cemetery, Charleston, S.C., 1867
-
-
-
-         I
+I
 
      Sleep sweetly in your humble graves,
       Sleep, martyrs of a fallen cause;
@@ -5905,17 +5229,10 @@ A Year's Courtship
       By mourning beauty crowned!
 
 
+SONNETS
 
 
-
-     SONNETS
-
-
-
-
-
-        I    "Poet! If on a Lasting Fame Be Bent"
-
+I    "Poet! If on a Lasting Fame Be Bent"
 
 
      Poet! if on a lasting fame be bent
@@ -5934,10 +5251,7 @@ A Year's Courtship
      Truths wide as nations, and as deep as love.
 
 
-
-
-       II    "Most Men Know Love But as a Part of Life"
-
+II    "Most Men Know Love But as a Part of Life"
 
 
      Most men know love but as a part of life;
@@ -5956,10 +5270,7 @@ A Year's Courtship
      Seem then a golden court-way of the Sun!
 
 
-
-
-      III    "Life Ever Seems as from Its Present Site"
-
+III    "Life Ever Seems as from Its Present Site"
 
 
      Life ever seems as from its present site
@@ -5978,10 +5289,7 @@ A Year's Courtship
      Hint of a happier home, far, far away!
 
 
-
-
-       IV    "They Dub Thee Idler, Smiling Sneeringly"
-
+IV    "They Dub Thee Idler, Smiling Sneeringly"
 
 
      They dub thee idler, smiling sneeringly,
@@ -6000,10 +5308,7 @@ A Year's Courtship
      Before some great unutterable thought?
 
 
-
-
-        V    "Some Truths There Be Are Better Left Unsaid"
-
+V    "Some Truths There Be Are Better Left Unsaid"
 
 
      Some truths there be are better left unsaid;
@@ -6022,10 +5327,7 @@ A Year's Courtship
      That will not open to the keys of speech.
 
 
-
-
-       VI    "I Scarcely Grieve, O Nature! at the Lot"
-
+VI    "I Scarcely Grieve, O Nature! at the Lot"
 
 
      I scarcely grieve, O Nature! at the lot
@@ -6044,10 +5346,7 @@ A Year's Courtship
      Looked like a golden mist when morning broke.
 
 
-
-
-      VII    "Grief Dies Like Joy; the Tears Upon My Cheek"
-
+VII    "Grief Dies Like Joy; the Tears Upon My Cheek"
 
 
      Grief dies like joy; the tears upon my cheek
@@ -6066,10 +5365,7 @@ A Year's Courtship
      No grief of mine should ever pass away.
 
 
-
-
-     VIII    "At Last, Beloved Nature! I Have Met"
-
+VIII    "At Last, Beloved Nature! I Have Met"
 
 
      At last, beloved Nature! I have met
@@ -6088,10 +5384,7 @@ A Year's Courtship
      The shadow of a Presence which had passed.
 
 
-
-
-       IX    "I Know Not Why, But All This Weary Day"
-
+IX    "I Know Not Why, But All This Weary Day"
 
 
      I know not why, but all this weary day,
@@ -6110,12 +5403,9 @@ A Year's Courtship
      Like whispers round the body of the dead!
 
 
+X    "Were I the Poet-Laureate of the Fairies"
 
-
-        X    "Were I the Poet-Laureate of the Fairies"
-
-         (Written on a very small sheet of note-paper)
-
+(Written on a very small sheet of note-paper)
 
 
      Were I the poet-laureate of the fairies,
@@ -6134,10 +5424,7 @@ A Year's Courtship
      You'll find one little heart enough to hold it!
 
 
-
-
-       XI    "Which Are the Clouds, and Which the Mountains?  See"
-
+XI    "Which Are the Clouds, and Which the Mountains?  See"
 
 
      Which are the clouds, and which the mountains?  See,
@@ -6156,10 +5443,7 @@ A Year's Courtship
      Lady? or have I wov'n an idle rhyme?
 
 
-
-
-      XII    "What Gossamer Lures Thee Now?  What Hope, What Name"
-
+XII    "What Gossamer Lures Thee Now?  What Hope, What Name"
 
 
      What gossamer lures thee now?  What hope, what name
@@ -6178,10 +5462,7 @@ A Year's Courtship
      FOR THE CALM LIGHTS OF REASON AND OF TRUTH.
 
 
-
-
-      XIII    "I Thank You, Kind and Best Beloved Friend"
-
+XIII    "I Thank You, Kind and Best Beloved Friend"
 
 
      I thank you, kind and best beloved friend,
@@ -6200,10 +5481,7 @@ A Year's Courtship
      I designate as love, without love's flame.
 
 
-
-
-      XIV    "Are These Wild Thoughts, Thus Fettered in My Rhymes"
-
+XIV    "Are These Wild Thoughts, Thus Fettered in My Rhymes"
 
 
      Are these wild thoughts, thus fettered in my rhymes,
@@ -6222,10 +5500,7 @@ A Year's Courtship
      And felt a deeper grief than any later woe.
 
 
-
-
-       XV    In Memoriam--Harris Simons
-
+XV    In Memoriam--Harris Simons
 
 
      True Christian, tender husband, gentle Sire,
@@ -6244,19 +5519,13 @@ A Year's Courtship
      To which thou shalt hereafter welcome us!
 
 
+POEMS NOW FIRST COLLECTED
 
 
+Song Composed for Washington's Birthday,
 
-     POEMS NOW FIRST COLLECTED
-
-
-
-
-     Song Composed for Washington's Birthday,
-
-     and Respectfully Inscribed to the Officers and Members of the
-     Washington Light Infantry of Charleston,  February 22, 1859
-
+and Respectfully Inscribed to the Officers and Members of the
+Washington Light Infantry of Charleston,  February 22, 1859
 
 
      A hundred years and more ago
@@ -6280,10 +5549,7 @@ A Year's Courtship
       Are more than Greece and Rome.
 
 
-
-
-     A Bouquet
-
+A Bouquet
 
 
      Take first a Cowslip, then an Asphodel,
@@ -6298,10 +5564,7 @@ A Year's Courtship
       The name I love beyond all names below.
 
 
-
-
-     Lines:  "I Stooped from Star-Bright Regions"
-
+Lines:  "I Stooped from Star-Bright Regions"
 
 
      I stooped from star-bright regions, where
@@ -6325,10 +5588,7 @@ A Year's Courtship
      And am its proper victim now.
 
 
-
-
-     A Trifle
-
+A Trifle
 
 
      I know not why, but ev'n to me
@@ -6359,10 +5619,7 @@ A Year's Courtship
      Lily may deeper see than I.
 
 
-
-
-     Lines:  "I Saw, or Dreamed I Saw, Her Sitting Lone"
-
+Lines:  "I Saw, or Dreamed I Saw, Her Sitting Lone"
 
 
      I saw, or dreamed I saw, her sitting lone,
@@ -6381,10 +5638,7 @@ A Year's Courtship
      Burned on my forehead--Sa'ra!--'t was my name.
 
 
-
-
-     Sonnet:  "If I Have Graced No Single Song of Mine"
-
+Sonnet:  "If I Have Graced No Single Song of Mine"
 
 
      If I have graced no single song of mine
@@ -6403,10 +5657,7 @@ A Year's Courtship
      I'll lay a poet's tribute at thy feet.
 
 
-
-
-     To Rosa----:  Acrostic
-
+To Rosa----:  Acrostic
 
 
      I took a Rosebud from a certain bower,
@@ -6417,12 +5668,9 @@ A Year's Courtship
      Is spelled a gentle lady's name in sweets.
 
 
+Dedication
 
-
-     Dedication
-
-       To Fairy
-
+To Fairy
 
 
      Do you recall--I know you do--
@@ -6459,369 +5707,3 @@ A Year's Courtship
      But is an affluence of your grace;--
      And when my songs are sweetest, then
      A Dream like you hath touched my pen.
-
-
-
-
-
-End of the Project Gutenberg EBook of Poems of Henry Timrod, by Henry Timrod
-
-*** END OF THIS PROJECT GUTENBERG EBOOK POEMS OF HENRY TIMROD ***
-
-***** This file should be named 845.txt or 845.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/8/4/845/
-
-Produced by Alan Light
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

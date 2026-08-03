@@ -1,37 +1,3 @@
-The Project Gutenberg EBook of Chinese Nightingale, by Vachel Lindsay
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Chinese Nightingale
-
-Author: Vachel Lindsay
-
-Posting Date: September 13, 2008 [EBook #592]
-Release Date: July, 1996
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK CHINESE NIGHTINGALE ***
-
-
-
-
-Produced by A. Light.
-
-
-
-
-
-
-
-
-
 The Chinese Nightingale and Other Poems,
 
 
@@ -43,17 +9,7 @@ Vachel Lindsay.
 [Nicholas Vachel Lindsay, Illinois Poet.  1879-1931.]
 
 
-
-
-
-
-[Note on text:  Italicized words or phrases capitalized.
-Italicized stanzas are indented 5 spaces.  Some errors have been
-corrected.  Lines longer than 78 characters are broken according
-to metre, and the continuation is indented two spaces.]
-
-
-
+[Note on text:  Italicized words or phrases capitalized. Italicized stanzas are indented 5 spaces.  Some errors have been corrected.  Lines longer than 78 characters are broken according to metre, and the continuation is indented two spaces.]
 
 
 The Chinese Nightingale and Other Poems
@@ -63,18 +19,10 @@ By
 
 Vachel Lindsay
 
-Author of "The Congo", "General William Booth Enters Into Heaven",
-"Adventures While Preaching the Gospel of Beauty", etc.
-
-
-
-
+Author of "The Congo", "General William Booth Enters Into Heaven", "Adventures While Preaching the Gospel of Beauty", etc.
 
 
 This Book is Dedicated to Sara Teasdale, Poet
-
-
-
 
 
   Harriet Monroe awarded the Levinson Prize to "The Chinese Nightingale",
@@ -82,21 +30,17 @@ This Book is Dedicated to Sara Teasdale, Poet
   for the year 1915.
 
 
-
-
-
 Table of Contents
 
 
+First Section
 
-    First Section
-
-  The Chinese Nightingale
+The Chinese Nightingale
 
 
-    Second Section
+Second Section
 
-  America Watching the War, August, 1914, to April, 1917
+America Watching the War, August, 1914, to April, 1917
 
   Where Is the Real Non-resistant?
   Here's to the Mice!
@@ -108,9 +52,9 @@ Table of Contents
   The Merciful Hand
 
 
-    Third Section
+Third Section
 
-  America at War with Germany, Beginning April, 1917
+America at War with Germany, Beginning April, 1917
 
   Our Mother Pocahontas
   Concerning Emperors
@@ -120,9 +64,9 @@ Table of Contents
   "This, My Song, is made for Kerensky"
 
 
-    Fourth Section
+Fourth Section
 
-  Tragedies, Comedies, and Dreams
+Tragedies, Comedies, and Dreams
 
   Our Guardian Angels and Their Children
   Epitaphs for Two Players
@@ -141,9 +85,9 @@ Table of Contents
   How I Walked Alone in the Jungles of Heaven
 
 
-    Fifth Section
+Fifth Section
 
-  The Poem Games
+The Poem Games
 
   An Account of the Poem Games
   The King of Yellow Butterflies
@@ -155,22 +99,15 @@ Table of Contents
   How Samson Bore Away the Gates of Gaza
 
 
-
-
 The Chinese Nightingale and Other Poems
 
 
+First Section
 
 
-    First Section
+The Chinese Nightingale
 
-
-
-
-  The Chinese Nightingale
-
-  A Song in Chinese Tapestries
-
+A Song in Chinese Tapestries
 
 
   "How, how," he said.  "Friend Chang," I said,
@@ -427,19 +364,14 @@ The Chinese Nightingale and Other Poems
     Said the Chinese nightingale.
 
 
+Second Section
+
+America Watching the War, August, 1914, to April, 1917
 
 
+Where Is the Real Non-resistant?
 
-
-      Second Section
-
-  America Watching the War, August, 1914, to April, 1917
-
-
-
-  Where Is the Real Non-resistant?
-
-  (Matthew 5:38-48)
+(Matthew 5:38-48)
 
   Who can surrender to Christ, dividing his best with the stranger,
   Giving to each what he asks, braving the uttermost danger
@@ -447,10 +379,10 @@ The Chinese Nightingale and Other Poems
   His words and his works, his house and his lands,
   His eyes and his heart and his breath?
 
-  Who can surrender to Christ?  Many have yearned toward it daily.
-  Yet they surrender to passion, wildly or grimly or gaily;
-  Yet they surrender to pride, counting her precious and queenly;
-  Yet they surrender to knowledge, preening their feathers serenely.
+Who can surrender to Christ?  Many have yearned toward it daily.
+Yet they surrender to passion, wildly or grimly or gaily;
+Yet they surrender to pride, counting her precious and queenly;
+Yet they surrender to knowledge, preening their feathers serenely.
 
   Who can surrender to Christ?  Where is the man so transcendent,
   So heated with love of his kind, so filled with the spirit resplendent
@@ -459,8 +391,7 @@ The Chinese Nightingale and Other Poems
               Surrender, surrender, surrender?
 
 
-
-  Here's to the Mice!
+Here's to the Mice!
 
   (Written with the hope that the socialists might yet
   dethrone Kaiser and Czar.)
@@ -484,8 +415,7 @@ The Chinese Nightingale and Other Poems
   Gnawing away the thrones.
 
 
-
-  When Bryan Speaks
+When Bryan Speaks
 
   When Bryan speaks, the town's a hive.
   From miles around, the autos drive.
@@ -512,22 +442,21 @@ The Chinese Nightingale and Other Poems
   Of many million singing souls
   Who make world-brotherhood their choice.
 
-                                Written in Washington, D.C.
-                                            February, 1915.
+Written in Washington, D.C.
+February, 1915.
 
 
-
-  To Jane Addams at the Hague
+To Jane Addams at the Hague
 
   Two Poems, written on the Sinking of the Lusitania.
   Appearing in the Chicago 'Herald', May 11, 1915.
 
 
-  I.  Speak Now for Peace
+I.  Speak Now for Peace
 
-  Lady of Light, and our best woman, and queen,
-  Stand now for peace, (though anger breaks your heart),
-  Though naught but smoke and flame and drowning is seen.
+Lady of Light, and our best woman, and queen,
+Stand now for peace, (though anger breaks your heart),
+Though naught but smoke and flame and drowning is seen.
 
   Lady of Light, speak, though you speak alone,
   Though your voice may seem as a dove's in this howling flood,
@@ -538,7 +467,7 @@ The Chinese Nightingale and Other Poems
   Back of the smoke is the promise of kindness again.
 
 
-  II.  Tolstoi Is Plowing Yet
+II.  Tolstoi Is Plowing Yet
 
   Tolstoi is plowing yet.  When the smoke-clouds break,
   High in the sky shines a field as wide as the world.
@@ -553,8 +482,7 @@ The Chinese Nightingale and Other Poems
   Forward, across the field, his horses go.
 
 
-
-  The Tale of the Tiger Tree
+The Tale of the Tiger Tree
 
   A Fantasy, dedicated to the little poet Alice Oliver Henderson, ten
   years old.
@@ -565,7 +493,7 @@ The Chinese Nightingale and Other Poems
   is unconquerable and eternal.
 
 
-  I
+I
 
   Peace-of-the-Heart, my own for long,
   Whose shining hair the May-winds fan,
@@ -609,7 +537,7 @@ The Chinese Nightingale and Other Poems
   I am burning with Heaven and Hell.
 
 
-  II
+II
 
   The gray king died in his hour.
   Then we crowned you, the prophetess wise:
@@ -680,10 +608,10 @@ The Chinese Nightingale and Other Poems
   And now the mammoth bows the knee,
   We hew down every Tiger Tree,
   We send each tiger bound in love and glory to his den,
-  Bound in love ... and wisdom ... and glory, ... to his den."
+Bound in love ... and wisdom ... and glory, ... to his den."
 
 
-  III
+III
 
   "Beware of the trumpeting swine,"
   Came the howl from the northward that night.
@@ -717,7 +645,7 @@ The Chinese Nightingale and Other Poems
   The roots of the Tiger Tree reeking with red.
 
 
-  IV
+IV
 
   This is the tale of the Tiger Tree
   A hundred times the height of a man,
@@ -796,7 +724,7 @@ The Chinese Nightingale and Other Poems
   Was a marvellous tune in his ears.
 
 
-  V
+V
 
   This was the end of the battle.
   The tigers poured by in a tide
@@ -841,9 +769,7 @@ The Chinese Nightingale and Other Poems
   Though I walk with Peace-of-the-Heart and rejoice.
 
 
-
-
-  The Merciful Hand
+The Merciful Hand
 
   Written to Miss Alice L. F. Fitzgerald, Edith Cavell memorial nurse,
   going to the front.
@@ -868,28 +794,23 @@ The Chinese Nightingale and Other Poems
                            February, 1916.
 
 
+Third Section
+
+America at War with Germany, Beginning April, 1917
 
 
-      Third Section
+Our Mother Pocahontas
 
-  America at War with Germany, Beginning April, 1917
-
-
-
-
-  Our Mother Pocahontas
-
-  (Note:--Pocahontas is buried at Gravesend, England.)
+(Note:--Pocahontas is buried at Gravesend, England.)
 
   "Pocahontas' body, lovely as a poplar, sweet as a red haw in November
   or a pawpaw in May--did she wonder? does she remember--in
   the dust--in the cool tombs?"
 
-                                          Carl Sandburg.
+Carl Sandburg.
 
 
-
-  I
+I
 
   Powhatan was conqueror,
   Powhatan was emperor.
@@ -927,7 +848,7 @@ The Chinese Nightingale and Other Poems
   Our Mother, Pocahontas.
 
 
-  II
+II
 
   She heard the forest talking,
   Across the sea came walking,
@@ -964,7 +885,7 @@ The Chinese Nightingale and Other Poems
   Our Mother, Pocahontas.
 
 
-  III
+III
 
   We here renounce our Saxon blood.
   Tomorrow's hopes, an April flood
@@ -982,13 +903,10 @@ The Chinese Nightingale and Other Poems
   Our Mother, Pocahontas.
 
 
+Concerning Emperors
 
 
-  Concerning Emperors
-
-
-
-    I.  God Send the Regicide
+I.  God Send the Regicide
 
   Would that the lying rulers of the world
   Were brought to block for tyrannies abhorred.
@@ -1000,25 +918,22 @@ The Chinese Nightingale and Other Poems
   God send the Regicide.
 
 
-    II.  A Colloquial Reply:  To Any Newsboy
+II.  A Colloquial Reply:  To Any Newsboy
 
-  If you lay for Iago at the stage door with a brick
-  You have missed the moral of the play.
-  He will have a midnight supper with Othello and his wife.
+If you lay for Iago at the stage door with a brick
+You have missed the moral of the play.
+He will have a midnight supper with Othello and his wife.
   They will chirp together and be gay.
   But the things Iago stands for must go down into the dust:
   Lying and suspicion and conspiracy and lust.
   And I cannot hate the Kaiser (I hope you understand.)
-  Yet I chase the thing he stands for with a brickbat in my hand.
+Yet I chase the thing he stands for with a brickbat in my hand.
 
 
+Niagara
 
 
-  Niagara
-
-
-
-      I
+I
 
   Within the town of Buffalo
   Are prosy men with leaden eyes.
@@ -1069,7 +984,7 @@ The Chinese Nightingale and Other Poems
   Niagara, Niagara.
 
 
-      II
+II
 
        What marching men of Buffalo
        Flood the streets in rash crusade?
@@ -1081,10 +996,7 @@ The Chinese Nightingale and Other Poems
        The cataract Niagara.
 
 
-
-
-  Mark Twain and Joan of Arc
-
+Mark Twain and Joan of Arc
 
 
   When Yankee soldiers reach the barricade
@@ -1111,10 +1023,7 @@ The Chinese Nightingale and Other Poems
   At bloodshed caused by angels, saints, and men.
 
 
-
-
-  The Bankrupt Peace Maker
-
+The Bankrupt Peace Maker
 
 
   I opened the ink-well and smoke filled the room.
@@ -1173,12 +1082,9 @@ The Chinese Nightingale and Other Poems
   WILL YOU BRING YOUR FINE PEACE TO THE NATIONS TODAY?"
 
 
+"This, My Song, Is Made for Kerensky"
 
-
-  "This, My Song, Is Made for Kerensky"
-
-  (Being a Chant of the American Soap-Box and the Russian Revolution.)
-
+(Being a Chant of the American Soap-Box and the Russian Revolution.)
 
 
   O market square, O slattern place,
@@ -1248,11 +1154,11 @@ The Chinese Nightingale and Other Poems
   Troops in files,
   Generals in uniform,
   Mujiks in their smocks,
-  And holy maiden soldiers who have cut away their locks.
-  All the peoples and the nations in processions mad and great,
-  Are rolling through the Russian Soul as through a city gate:--
-  As though it were a street of stars that paves the shadowy deep.
-  And mighty Tolstoi leads the van along the stairway steep.
+And holy maiden soldiers who have cut away their locks.
+All the peoples and the nations in processions mad and great,
+Are rolling through the Russian Soul as through a city gate:--
+As though it were a street of stars that paves the shadowy deep.
+And mighty Tolstoi leads the van along the stairway steep.
 
   But now the people shout:
   "Hail to Kerensky,
@@ -1272,20 +1178,11 @@ The Chinese Nightingale and Other Poems
                                 August, 1917.
 
 
-
-
-
-
       Fourth Section
   Tragedies, Comedies, and Dreams
 
 
-
-
-
-
-  Our Guardian Angels and Their Children
-
+Our Guardian Angels and Their Children
 
 
   Where a river roars in rapids
@@ -1359,16 +1256,13 @@ The Chinese Nightingale and Other Poems
   Their wings are folded fire.
 
 
+Epitaphs for Two Players
 
 
-  Epitaphs for Two Players
+I.  Edwin Booth
 
-
-
-     I.  Edwin Booth
-
-  An old actor at the Player's Club told me that Edwin Booth
-  first impersonated Hamlet when a barnstormer in California.
+An old actor at the Player's Club told me that Edwin Booth
+first impersonated Hamlet when a barnstormer in California.
   There were few theatres, but the hotels were provided
   with crude assembly rooms for strolling players.
 
@@ -1432,11 +1326,10 @@ The Chinese Nightingale and Other Poems
   He yet resolves to speak aright.
 
 
+II.  John Bunny, Motion Picture Comedian
 
-    II.  John Bunny, Motion Picture Comedian
-
-  In which he is remembered in similitude, by reference to Yorick,
-  the king's jester, who died when Hamlet and Ophelia were children.
+In which he is remembered in similitude, by reference to Yorick,
+the king's jester, who died when Hamlet and Ophelia were children.
 
 
   Yorick is dead.  Boy Hamlet walks forlorn
@@ -1465,16 +1358,13 @@ The Chinese Nightingale and Other Poems
   By some lone turret-stair of Elsinore.
 
 
-
-
-  Mae Marsh, Motion Picture Actress
+Mae Marsh, Motion Picture Actress
 
   In "Man's Genesis", "The Wild Girl of the Sierras", "The Wharf Rat",
   "A Girl of the Paris Streets", etc.
 
 
-
-      I
+I
 
   The arts are old, old as the stones
   From which man carved the sphinx austere.
@@ -1482,7 +1372,7 @@ The Chinese Nightingale and Other Poems
   Ten thousand years of yesteryear.
 
 
-      II
+II
 
   She is madonna in an art
   As wild and young as her sweet eyes:
@@ -1505,10 +1395,7 @@ The Chinese Nightingale and Other Poems
   Tomorrow's years of yesteryear.
 
 
-
-
-  Two Old Crows
-
+Two Old Crows
 
 
   Two old crows sat on a fence rail,
@@ -1537,13 +1424,10 @@ The Chinese Nightingale and Other Poems
   Why?
   B B B B B B B B B B B B B B B B-cause.
   B B B B B B B B B B B B B B B B-cause.
-  "Buzzzzzzzzzzzzzzzz    zzzzzzzzzz    zzzzzzzzzzzzzzz    ZZZZZZZ."
+"Buzzzzzzzzzzzzzzzz    zzzzzzzzzz    zzzzzzzzzzzzzzz    ZZZZZZZ."
 
 
-
-
-  The Drunkard's Funeral
-
+The Drunkard's Funeral
 
 
   "Yes," said the sister with the little pinched face,
@@ -1596,10 +1480,7 @@ The Chinese Nightingale and Other Poems
   You are right, little sister," I said.
 
 
-
-
-  The Raft
-
+The Raft
 
 
   The whole world on a raft!  A King is here,
@@ -1698,10 +1579,7 @@ The Chinese Nightingale and Other Poems
   And the Duke and the King.
 
 
-
-
-  The Ghosts of the Buffaloes
-
+The Ghosts of the Buffaloes
 
 
   Last night at black midnight I woke with a cry,
@@ -1808,10 +1686,7 @@ The Chinese Nightingale and Other Poems
   Good-night, good-night, ... good-night."
 
 
-
-
-  The Broncho that Would Not Be Broken
-
+The Broncho that Would Not Be Broken
 
 
   A little colt--broncho, loaned to the farm
@@ -1832,11 +1707,11 @@ The Chinese Nightingale and Other Poems
   With Greek-footed figures, and Parthenon paces,
   O broncho that would not be broken of dancing.
 
-  The grasshoppers cheered.  "Keep whirling," they said.
-  The insolent sparrows called from the shed
-  "If men will not laugh, make them wish they were dead."
-  But arch were your thoughts, all malice displacing,
-  Though the horse-killers came, with snake-whips advancing.
+The grasshoppers cheered.  "Keep whirling," they said.
+The insolent sparrows called from the shed
+"If men will not laugh, make them wish they were dead."
+But arch were your thoughts, all malice displacing,
+Though the horse-killers came, with snake-whips advancing.
   You bantered and cantered away your last chance.
   And they scourged you, with Hell in their speech and their faces,
   O broncho that would not be broken of dancing.
@@ -1859,15 +1734,12 @@ The Chinese Nightingale and Other Poems
   Then you died on the prairie, and scorned all disgraces,
   O broncho that would not be broken of dancing.
 
-                                Souvenir of Great Bend, Kansas.
+Souvenir of Great Bend, Kansas.
 
 
+The Prairie Battlements
 
-
-  The Prairie Battlements
-
-  (To Edgar Lee Masters, with great respect.)
-
+(To Edgar Lee Masters, with great respect.)
 
 
   Here upon the prairie
@@ -1902,12 +1774,9 @@ The Chinese Nightingale and Other Poems
   But fays upon the stairs.
 
 
+The Flower of Mending
 
-
-  The Flower of Mending
-
-  (To Eudora, after I had had certain dire adventures.)
-
+(To Eudora, after I had had certain dire adventures.)
 
 
   When Dragon-fly would fix his wings,
@@ -1936,10 +1805,7 @@ The Chinese Nightingale and Other Poems
   To cure my heart and mind.
 
 
-
-
-  Alone in the Wind, on the Prairie
-
+Alone in the Wind, on the Prairie
 
 
   I know a seraph who has golden eyes,
@@ -1960,10 +1826,7 @@ The Chinese Nightingale and Other Poems
   And kiss her hair, and sweet throat like the snow.
 
 
-
-
-  To Lady Jane
-
+To Lady Jane
 
 
   Romance was always young.
@@ -2002,10 +1865,7 @@ The Chinese Nightingale and Other Poems
   Your marvellous dark hair.
 
 
-
-
-  How I Walked Alone in the Jungles of Heaven
-
+How I Walked Alone in the Jungles of Heaven
 
 
   Oh, once I walked in Heaven, all alone
@@ -2051,139 +1911,45 @@ The Chinese Nightingale and Other Poems
   That came to spoil my secret, silent lair!
 
 
+Fifth Section
 
 
-      Fifth Section
-
-
-
-  The Poem Games
-
-
+The Poem Games
 
 
 An Account of the Poem Games
 
 
-In the summer of 1916 in the parlor of Mrs. William Vaughn Moody;
-and in the following winter in the Chicago Little Theatre,
-under the auspices of Poetry, A Magazine of Verse; and in Mandel Hall,
-the University of Chicago, under the auspices of the Senior Class,--these
-Poem Games were presented.  Miss Eleanor Dougherty was the dancer
-throughout.The entire undertaking developed through the generous
-cooeperation and advice of Mrs. William Vaughn Moody.  The writer is
-exceedingly grateful to Mrs. Moody and all concerned for making place
-for the idea.  Now comes the test of its vitality.  Can it go on in the
-absence of its initiators?
+In the summer of 1916 in the parlor of Mrs. William Vaughn Moody; and in the following winter in the Chicago Little Theatre, under the auspices of Poetry, A Magazine of Verse; and in Mandel Hall, the University of Chicago, under the auspices of the Senior Class,--these Poem Games were presented.  Miss Eleanor Dougherty was the dancer throughout.The entire undertaking developed through the generous cooeperation and advice of Mrs. William Vaughn Moody.  The writer is exceedingly grateful to Mrs. Moody and all concerned for making place for the idea.  Now comes the test of its vitality.  Can it go on in the absence of its initiators?
 
-Mr. Lewellyn Jones, of the Chicago Evening Post, announced the affair
-as a "rhythmic picnic".  Mr. Maurice Browne of the Chicago Little Theatre
-said Miss Dougherty was at the beginning of the old Greek Tragic Dance.
-Somewhere between lies the accomplishment.
+Mr. Lewellyn Jones, of the Chicago Evening Post, announced the affair as a "rhythmic picnic".  Mr. Maurice Browne of the Chicago Little Theatre said Miss Dougherty was at the beginning of the old Greek Tragic Dance. Somewhere between lies the accomplishment.
 
-In the Congo volume, as is indicated in the margins,
-the meaning of a few of the verses is aided by chanting.
-In the Poem Games the English word is still first in importance,
-the dancer comes second, the chanter third.  The marginal directions
-of King Solomon indicate the spirit in which all the pantomime was
-developed.  Miss Dougherty designed her own costumes, and worked out
-her own stage business for King Solomon, The Potatoes' Dance,
-The King of Yellow Butterflies and Aladdin and the Jinn (The Congo,
-page 140).  In the last, "'I am your slave,' said the Jinn" was repeated
-four times at the end of each stanza.
+In the Congo volume, as is indicated in the margins, the meaning of a few of the verses is aided by chanting. In the Poem Games the English word is still first in importance, the dancer comes second, the chanter third.  The marginal directions of King Solomon indicate the spirit in which all the pantomime was developed.  Miss Dougherty designed her own costumes, and worked out her own stage business for King Solomon, The Potatoes' Dance, The King of Yellow Butterflies and Aladdin and the Jinn (The Congo, page 140).  In the last, "'I am your slave,' said the Jinn" was repeated four times at the end of each stanza.
 
-The Poem Game idea was first indorsed in the Wellesley kindergarten,
-by the children.  They improvised pantomime and dance for the Potatoes'
-Dance, while the writer chanted it, and while Professor Hamilton C.
-Macdougall of the Wellesley musical department followed on the piano
-the outline of the jingle.  Later Professor Macdougall very kindly wrote
-down his piano rendition.  A study of this transcript helps to confirm
-the idea that when the cadences of a bit of verse are a little
-exaggerated, they are tunes, yet of a truth they are tunes which can be
-but vaguely recorded by notation or expressed by an instrument.
-The author of this book is now against instrumental music
-in this type of work.  It blurs the English.
+The Poem Game idea was first indorsed in the Wellesley kindergarten, by the children.  They improvised pantomime and dance for the Potatoes' Dance, while the writer chanted it, and while Professor Hamilton C. Macdougall of the Wellesley musical department followed on the piano the outline of the jingle.  Later Professor Macdougall very kindly wrote down his piano rendition.  A study of this transcript helps to confirm the idea that when the cadences of a bit of verse are a little exaggerated, they are tunes, yet of a truth they are tunes which can be but vaguely recorded by notation or expressed by an instrument. The author of this book is now against instrumental music in this type of work.  It blurs the English.
 
-Professor Macdougall has in various conversations helped the author
-toward a Poem Game theory.  He agrees that neither the dancing
-nor the chanting nor any other thing should be allowed to run away
-with the original intention of the words.  The chanting should not be
-carried to the point where it seeks to rival conventional musical
-composition.  The dancer should be subordinated to the natural rhythms
-of English speech, and not attempt to incorporate bodily all the
-precedents of professional dancing.
+Professor Macdougall has in various conversations helped the author toward a Poem Game theory.  He agrees that neither the dancing nor the chanting nor any other thing should be allowed to run away with the original intention of the words.  The chanting should not be carried to the point where it seeks to rival conventional musical composition.  The dancer should be subordinated to the natural rhythms of English speech, and not attempt to incorporate bodily all the precedents of professional dancing.
 
-Speaking generally, poetic ideas can be conveyed word by word, faster
-than musical feeling.  The repetitions in the Poem Games are to keep
-the singing, the dancing and the ideas at one pace.  The repetitions may
-be  varied according to the necessities of the individual dancer.
-Dancing is slower than poetry and faster than music in developing the
-same thoughts.  In folk dances and vaudeville, the verse, music, and
-dancing are on so simple a basis the time elements can be easily
-combined.  Likewise the rhythms and the other elements.
+Speaking generally, poetic ideas can be conveyed word by word, faster than musical feeling.  The repetitions in the Poem Games are to keep the singing, the dancing and the ideas at one pace.  The repetitions may be  varied according to the necessities of the individual dancer. Dancing is slower than poetry and faster than music in developing the same thoughts.  In folk dances and vaudeville, the verse, music, and dancing are on so simple a basis the time elements can be easily combined.  Likewise the rhythms and the other elements.
 
-Miss Dougherty is particularly illustrative in her pantomime,
-but there were many verses she looked over and rejected because
-they could not be rendered without blurring the original intent.
-Possibly every poem in the world has its dancer somewhere waiting,
-who can dance but that one poem.  Certainly those poems would be
-most successful in games, where the tone color is so close to the
-meaning that any exaggeration of that color by dancing and chanting
-only makes the story clearer.  The writer would like to see some one
-try Dryden's Alexander's Feast, or Swinburne's Atalanta in Calydon.
-Certainly in those poems the decorative rhythm and the meaning
+Miss Dougherty is particularly illustrative in her pantomime, but there were many verses she looked over and rejected because they could not be rendered without blurring the original intent. Possibly every poem in the world has its dancer somewhere waiting, who can dance but that one poem.  Certainly those poems would be most successful in games, where the tone color is so close to the meaning that any exaggeration of that color by dancing and chanting only makes the story clearer.  The writer would like to see some one try Dryden's Alexander's Feast, or Swinburne's Atalanta in Calydon. Certainly in those poems the decorative rhythm and the meaning
 are absolutely one.
 
-With no dancing evolutions, the author of this book
-has chanted John Brown and King Solomon for the last two years
-for many audiences.  It took but a minute to teach the people the
-responses.  As a rule they had no advance notice they were going to sing.
-The versifier sang the parts of the King and Queen in turn,
-and found each audience perfectly willing to be the oxen, the
-sweethearts, the swans, the sons, the shepherds, etc.
+With no dancing evolutions, the author of this book has chanted John Brown and King Solomon for the last two years for many audiences.  It took but a minute to teach the people the responses.  As a rule they had no advance notice they were going to sing. The versifier sang the parts of the King and Queen in turn, and found each audience perfectly willing to be the oxen, the sweethearts, the swans, the sons, the shepherds, etc.
 
-A year ago the writer had the honor of chanting for the Florence
-Fleming Noyes school of dancers.  In one short evening they made the
-first section of the Congo into an incantation, the King Solomon into
-an extraordinarily graceful series of tableaus, and the Potatoes'
-Dance into a veritable whirlwind.  Later came the more elaborately
-prepared Chicago experiment.
+A year ago the writer had the honor of chanting for the Florence Fleming Noyes school of dancers.  In one short evening they made the first section of the Congo into an incantation, the King Solomon into an extraordinarily graceful series of tableaus, and the Potatoes' Dance into a veritable whirlwind.  Later came the more elaborately prepared Chicago experiment.
 
-In the King of Yellow Butterflies and the Potatoes' Dance Miss
-Dougherty occupied the entire eye of the audience and interpreted,
-while the versifier chanted the poems as a semi-invisible orchestra,
-by the side of the curtain.  For Aladdin and for King Solomon
-Miss Dougherty and the writer divided the stage between them,
-but the author was little more than the orchestra.  The main intention
-was carried out, which was to combine the work of the dancer
-with the words of the production and the responses of the audience.
+In the King of Yellow Butterflies and the Potatoes' Dance Miss Dougherty occupied the entire eye of the audience and interpreted, while the versifier chanted the poems as a semi-invisible orchestra, by the side of the curtain.  For Aladdin and for King Solomon Miss Dougherty and the writer divided the stage between them, but the author was little more than the orchestra.  The main intention was carried out, which was to combine the work of the dancer with the words of the production and the responses of the audience.
 
-The present rhymer has no ambitions as a stage manager.  The Poem Game
-idea, in its rhythmic picnic stage, is recommended to amateurs, its
-further development to be on their own initiative.  Informal parties
-might divide into groups of dancers and groups of chanters.  The whole
-might be worked out in the spirit in which children play King William
-was King James' Son, London Bridge, or As We Go Round the Mulberry Bush.
-And the author of this book would certainly welcome the tragic dance,
-if Miss Dougherty will gather a company about her and go forward, using
-any acceptable poems, new or old.  Swinburne's Atalanta in Calydon is
-perhaps the most literal and rhythmic example of the idea we have in
-English, though it may not be available when tried out.
+The present rhymer has no ambitions as a stage manager.  The Poem Game idea, in its rhythmic picnic stage, is recommended to amateurs, its further development to be on their own initiative.  Informal parties might divide into groups of dancers and groups of chanters.  The whole might be worked out in the spirit in which children play King William was King James' Son, London Bridge, or As We Go Round the Mulberry Bush. And the author of this book would certainly welcome the tragic dance, if Miss Dougherty will gather a company about her and go forward, using any acceptable poems, new or old.  Swinburne's Atalanta in Calydon is perhaps the most literal and rhythmic example of the idea we have in English, though it may not be available when tried out.
 
-The main revolution necessary for dancing improvisers, who would go a
-longer way with the Poem Game idea, is to shake off the Isadora Duncan
-and the Russian precedents for a while, and abolish the orchestra and
-piano, replacing all these with the natural meaning and cadences of
-English speech.  The work would come closer to acting, than dancing is
+The main revolution necessary for dancing improvisers, who would go a longer way with the Poem Game idea, is to shake off the Isadora Duncan and the Russian precedents for a while, and abolish the orchestra and piano, replacing all these with the natural meaning and cadences of English speech.  The work would come closer to acting, than dancing is
 now conceived.
 
 
+The King of Yellow Butterflies
 
-
-  The King of Yellow Butterflies
-
-  (A Poem Game.)
-
+(A Poem Game.)
 
 
   The King of Yellow Butterflies,
@@ -2224,15 +1990,12 @@ now conceived.
   And hide them in the hay.
 
 
+The Potatoes' Dance
+
+(A Poem Game.)
 
 
-  The Potatoes' Dance
-
-  (A Poem Game.)
-
-
-
-      I
+I
 
   "Down cellar," said the cricket,
   "Down cellar," said the cricket,
@@ -2264,7 +2027,7 @@ now conceived.
   Who makes potatoes grow.
 
 
-      II
+II
 
   "Potatoes were the waiters,
   Potatoes were the waiters,
@@ -2292,7 +2055,7 @@ now conceived.
   Who makes potatoes prance.
 
 
-      III
+III
 
   "There was just one sweet potato.
   He was golden brown and slim.
@@ -2315,17 +2078,14 @@ now conceived.
   Eyes."
 
 
+The Booker Washington Trilogy
+
+A Memorial to Booker T. Washington
 
 
-  The Booker Washington Trilogy
+I.  Simon Legree
 
-  A Memorial to Booker T. Washington
-
-
-
-     I.  Simon Legree
-
-  A Negro Sermon.  (To be read in your own variety of negro dialect.)
+A Negro Sermon.  (To be read in your own variety of negro dialect.)
 
 
   Legree's big house was white and green.
@@ -2404,8 +2164,7 @@ now conceived.
      DOWN, DOWN WITH THE DEVIL.
 
 
-
-    II.  John Brown
+II.  John Brown
 
   (To be sung by a leader and chorus, the leader singing the body of the
   poem, while the chorus interrupts with the question.)
@@ -2503,19 +2262,18 @@ now conceived.
   Old John Brown.
 
 
+III.  King Solomon and the Queen of Sheba
 
-   III.  King Solomon and the Queen of Sheba
+(A Poem Game.)
 
-  (A Poem Game.)
-
-  "And when the Queen of Sheba heard of the fame of Solomon, ...
-  she came to prove him with hard questions."
+"And when the Queen of Sheba heard of the fame of Solomon, ...
+she came to prove him with hard questions."
 
 
-  <The men's leader rises as he sees the Queen unveiling
-   and approaching a position that gives her half of the stage.>
+<The men's leader rises as he sees the Queen unveiling
+and approaching a position that gives her half of the stage.>
 
-     Men's Leader:    The Queen of Sheba came to see King Solomon.
+Men's Leader:    The Queen of Sheba came to see King Solomon.
   <He bows three times.>
                       I was King Solomon,
                       I was King Solomon,
@@ -2532,20 +2290,20 @@ now conceived.
                       Happy and free
                       For ten thousand years.
 
-  <They stagger forward as though carrying a yoke together.>
-     Both Leaders:    King Solomon he had four hundred oxen.
+<They stagger forward as though carrying a yoke together.>
+Both Leaders:    King Solomon he had four hundred oxen.
 
-     Congregation:    We were the oxen.
+Congregation:    We were the oxen.
 
-  <Here King and Queen pause at the footlights.>
-     Both Leaders:    You shall feel goads no more.
-  <They walk backward, throwing off the yoke and rejoicing.>
+<Here King and Queen pause at the footlights.>
+Both Leaders:    You shall feel goads no more.
+<They walk backward, throwing off the yoke and rejoicing.>
                       Walk dreadful roads no more,
                       Free from your loads
                       For ten thousand years.
 
-  <The men's leader goes forward, the women's leader dances round him.>
-     Both Leaders:    King Solomon he had four hundred sweethearts.
+<The men's leader goes forward, the women's leader dances round him.>
+Both Leaders:    King Solomon he had four hundred sweethearts.
 
   <Here he pauses at the footlights.>
      Congregation:    We were the sweethearts.
@@ -2561,11 +2319,11 @@ now conceived.
                       Wildflowers be found
                       For ten thousand years.
 
-  <He continues to command the congregation, the woman to dance.
-   He goes forward to the footlights.>
-     Both Leaders:    And every sweetheart had four hundred swans.
+<He continues to command the congregation, the woman to dance.
+He goes forward to the footlights.>
+Both Leaders:    And every sweetheart had four hundred swans.
 
-     Congregation:    We were the swans.
+Congregation:    We were the swans.
 
   <The King walks backward.>
      Both Leaders:    You shall spread wings again,
@@ -2595,33 +2353,33 @@ now conceived.
                       Ten thousand years?"
 
      Men's Leader:    King Solomon made answer to the lady,
-  <They bow and confer.  The Queen reserved, but taking cognizance.
-  The King wooing with ornate gestures of respect, and courtly animation.>
-                      Bowing most politely:
-                      "They bloom forever thinking of your beauty,
-                      Your step so queenly and your eyes so lovely.
+<They bow and confer.  The Queen reserved, but taking cognizance.
+The King wooing with ornate gestures of respect, and courtly animation.>
+Bowing most politely:
+"They bloom forever thinking of your beauty,
+Your step so queenly and your eyes so lovely.
                       These keep the roses fair,
                       Young and without a care,
                       Making so sweet the air,
                       Ten thousand years."
 
-  <The two, with a manner almost a cake walk, go forward.>
-     Both Leaders:    King Solomon he had four hundred sons.
+<The two, with a manner almost a cake walk, go forward.>
+Both Leaders:    King Solomon he had four hundred sons.
 
-  <On this line, King and Queen pause before the footlights.>
-     Congregation:    We were the sons.
+<On this line, King and Queen pause before the footlights.>
+Congregation:    We were the sons.
 
-  <Pantomime of crowning the audience.>
-     Both Leaders:    Crowned by the throngs again,
-  <On this line they walk backward, playing great imaginary harps.>
+<Pantomime of crowning the audience.>
+Both Leaders:    Crowned by the throngs again,
+<On this line they walk backward, playing great imaginary harps.>
                       You shall make songs again,
                       Singing along
                       For ten thousand years.
 
-  <They go forward in a pony gallop, then stand pawing.>
-     Both Leaders:    He gave each son four hundred prancing ponies.
+<They go forward in a pony gallop, then stand pawing.>
+Both Leaders:    He gave each son four hundred prancing ponies.
 
-     Congregation:    We were the ponies.
+Congregation:    We were the ponies.
 
   <They nod their heads, starting to walk backward.>
      Both Leaders:    You shall eat hay again,
@@ -2640,17 +2398,17 @@ now conceived.
                       Ten thousand years?"
 
      Women's Leader:  The Queen of Sheba answered like a lady,
-  <They bow to each other, again, with pantomime indicating a forest.>
-                      Bowing most politely:
-                      "It blooms forever thinking of your wisdom,
-                      Your brave heart and the way you rule your kingdom.
+<They bow to each other, again, with pantomime indicating a forest.>
+Bowing most politely:
+"It blooms forever thinking of your wisdom,
+Your brave heart and the way you rule your kingdom.
                       These keep the oak secure,
                       Weaving its leafy lure,
                       Dreaming by fountains pure
                       Ten thousand years."
 
-  <They go to the footlights with a sailor's lurch and hitch.>
-     Both Leaders:    The Queen of Sheba had four hundred sailors.
+<They go to the footlights with a sailor's lurch and hitch.>
+Both Leaders:    The Queen of Sheba had four hundred sailors.
 
   <The King and Queen pause.>
      Congregation:    We were the sailors.
@@ -2683,14 +2441,14 @@ now conceived.
                       King Solomon,
                       King Solomon.
 
-  <They go to the footlights with the greatest possible strut.>
-     Both Leaders:    King Solomon he had four hundred chieftains.
+<They go to the footlights with the greatest possible strut.>
+Both Leaders:    King Solomon he had four hundred chieftains.
 
-     Congregation:    We were the chieftains.
+Congregation:    We were the chieftains.
 
-  <The leaders stand with arms proudly folded.>
-     Both Leaders:    You shall be proud again,
-  <They walk backward haughtily, laughing on the last lines.>
+<The leaders stand with arms proudly folded.>
+Both Leaders:    You shall be proud again,
+<They walk backward haughtily, laughing on the last lines.>
                       Dazzle the crowd again,
                       Laughing aloud
                       For ten thousand years.
@@ -2698,8 +2456,8 @@ now conceived.
   <From here on the whole production to be
    much more solemn, elevated, religious.>
 
-  <The leaders go forward to the footlights carrying imaginary torches.>
-     Both Leaders:    King Solomon he had four hundred shepherds.
+<The leaders go forward to the footlights carrying imaginary torches.>
+Both Leaders:    King Solomon he had four hundred shepherds.
 
   <The man and woman pause at the footlights.>
      Congregation:    We were the shepherds.
@@ -2734,11 +2492,11 @@ now conceived.
      Men's Leader:    King Solomon,
                       King Solomon.
 
-     Both Leaders:    King Solomon he kept the Sabbath holy.
-  <The two stand, commanding the audience.>
-                      And spoke with tongues in prophet words so mighty
-  <The man and woman stamp and whirl with great noise and solemnity.>
-                      We stamped and whirled and wept and shouted:--
+Both Leaders:    King Solomon he kept the Sabbath holy.
+<The two stand, commanding the audience.>
+And spoke with tongues in prophet words so mighty
+<The man and woman stamp and whirl with great noise and solemnity.>
+We stamped and whirled and wept and shouted:--
 
      Congregation Rises and Joins the Song:
                       ....  "Glory."
@@ -2758,12 +2516,9 @@ now conceived.
                       King Solomon.
 
 
+How Samson Bore Away the Gates of Gaza
 
-
-  How Samson Bore Away the Gates of Gaza
-
-  (A Negro Sermon.)
-
+(A Negro Sermon.)
 
 
   Once, in a night as black as ink,
@@ -2857,11 +2612,6 @@ now conceived.
        Into your mind.
 
 
-
-
-
-
-
   ----------------------------------------------
   | The following pages contain advertisements |
   | of other books by the same author          |
@@ -2869,140 +2619,60 @@ now conceived.
   ----------------------------------------------
 
 
-
-
-
-
 By the Same Author
-
 
 
 A Handy Guide for Beggars
     New Edition.  Cloth, 12mo, $1.25
 
-"The Handy Guide for Beggars" is an introduction to all Vachel Lindsay's
-work.  It gives his first adventures afoot.  He walked through Florida,
-Georgia, North Carolina, Tennessee, and Kentucky, in the spring of 1906.
-He walked through New Jersey, Pennsylvania, and on to Hiram, Ohio,
-in the spring of 1908.  He carried on these trips his poems:
-"The Tree of Laughing Bells", "The Heroes of Time", etc.
-He recited them in exchange for food and lodging.  He left copies
-for those who appeared interested.  The book is a record of these
-journeys, and of many pleasing discoveries about American Democracy.
+"The Handy Guide for Beggars" is an introduction to all Vachel Lindsay's work.  It gives his first adventures afoot.  He walked through Florida, Georgia, North Carolina, Tennessee, and Kentucky, in the spring of 1906. He walked through New Jersey, Pennsylvania, and on to Hiram, Ohio, in the spring of 1908.  He carried on these trips his poems: "The Tree of Laughing Bells", "The Heroes of Time", etc. He recited them in exchange for food and lodging.  He left copies for those who appeared interested.  The book is a record of these journeys, and of many pleasing discoveries about American Democracy.
 
-This book serves to introduce the next, "Adventures While Preaching
-the Gospel of Beauty".  In the spring and summer of 1912,
-Mr. Lindsay walked from Springfield, Illinois, west to Colorado,
-and into New Mexico.  He was much more experienced in the road.
-He carried "Rhymes to Be Traded for Bread", "The Village Improvement
-Parade", etc.  As is indicated in the title, he wrestled with a theory
-of American aesthetics.  "Christmas, 1915", the third book in the series,
-appeared, applying the "Gospel of Beauty to the Photoplay".
-The ideas of Art and Democracy that develop in the first two books
-are used as the basic principles in "The Art of the Moving Picture".
-Those who desire a close view of the Lindsay idea will do well
-to read the three works in the order named.  Further particulars
-in the pages following.
-
+This book serves to introduce the next, "Adventures While Preaching the Gospel of Beauty".  In the spring and summer of 1912, Mr. Lindsay walked from Springfield, Illinois, west to Colorado, and into New Mexico.  He was much more experienced in the road. He carried "Rhymes to Be Traded for Bread", "The Village Improvement Parade", etc.  As is indicated in the title, he wrestled with a theory of American aesthetics.  "Christmas, 1915", the third book in the series, appeared, applying the "Gospel of Beauty to the Photoplay". The ideas of Art and Democracy that develop in the first two books are used as the basic principles in "The Art of the Moving Picture". Those who desire a close view of the Lindsay idea will do well to read the three works in the order named.  Further particulars in the pages following.
 
 
 The Congo and Other Poems
-  With a preface by Harriet Monroe, Editor of the 'Poetry Magazine'.
-    Cloth, 12mo, $1.25; leather, $1.60
+With a preface by Harriet Monroe, Editor of the 'Poetry Magazine'.
+Cloth, 12mo, $1.25; leather, $1.60
 
-In the readings which Vachel Lindsay has given for colleges,
-universities, etc., throughout the country, he has won the approbation
-of the critics and of his audiences in general for the new verse-form
-which he is  employing, as well as the manner of his chanting and
-singing, which is peculiarly his own.  He carries in memory all the poems
-in his books, and recites the program made out for him; the wonderful
-effect of sound produced by his lines, their relation to the idea which
-the author seeks to convey, and their marvelous lyrical quality are quite
-beyond the ordinary, and suggest new possibilities and new meanings in
-poetry.  It is his main object to give his already established friends
-a deeper sense of the musical intention of his pieces.
+In the readings which Vachel Lindsay has given for colleges, universities, etc., throughout the country, he has won the approbation of the critics and of his audiences in general for the new verse-form which he is  employing, as well as the manner of his chanting and singing, which is peculiarly his own.  He carries in memory all the poems in his books, and recites the program made out for him; the wonderful effect of sound produced by his lines, their relation to the idea which the author seeks to convey, and their marvelous lyrical quality are quite beyond the ordinary, and suggest new possibilities and new meanings in poetry.  It is his main object to give his already established friends a deeper sense of the musical intention of his pieces.
 
-The book contains the much discussed "War Poem", "Abraham Lincoln Walks
-at Midnight"; it contains among its familiar pieces:  "The Santa Fe
-Trail", "The Firemen's Ball", "The Dirge for a Righteous Kitten",
-"The Griffin's Egg", "The Spice Tree", "Blanche Sweet", "Mary Pickford",
-"The Soul of the City", etc.
+The book contains the much discussed "War Poem", "Abraham Lincoln Walks at Midnight"; it contains among its familiar pieces:  "The Santa Fe Trail", "The Firemen's Ball", "The Dirge for a Righteous Kitten", "The Griffin's Egg", "The Spice Tree", "Blanche Sweet", "Mary Pickford", "The Soul of the City", etc.
 
-Mr. Lindsay received the Levinson Prize for the best poem contributed
-to 'Poetry', a magazine of verse, (Chicago) for 1915.
+Mr. Lindsay received the Levinson Prize for the best poem contributed to 'Poetry', a magazine of verse, (Chicago) for 1915.
 
-"We do not know a young man of any more promise than Mr. Vachel Lindsay
-for the task which he seems to have set himself."--'The Dial'.
-
+"We do not know a young man of any more promise than Mr. Vachel Lindsay for the task which he seems to have set himself."--'The Dial'.
 
 
 General William Booth Enters Into Heaven and Other Poems
-    Price, $1.25; leather, $1.60
+Price, $1.25; leather, $1.60
 
-This book contains among other verses:  "On Reading Omar Khayyam
-during an Anti-Saloon Campaign in Illinois"; "The Wizard Wind";
-"The Eagle Forgotten", a Memorial to John P. Altgeld;
-"The Knight in Disguise", a Memorial to O. Henry; "The Rose and the
-Lotus"; "Michaelangelo"; "Titian"; "What the Hyena Said"; "What Grandpa
-Mouse Said"; "A Net to Snare the Moonlight"; "Springfield Magical";
-"The Proud Farmer"; "The Illinois Village"; "The Building of
+This book contains among other verses:  "On Reading Omar Khayyam during an Anti-Saloon Campaign in Illinois"; "The Wizard Wind"; "The Eagle Forgotten", a Memorial to John P. Altgeld; "The Knight in Disguise", a Memorial to O. Henry; "The Rose and the Lotus"; "Michaelangelo"; "Titian"; "What the Hyena Said"; "What Grandpa Mouse Said"; "A Net to Snare the Moonlight"; "Springfield Magical"; "The Proud Farmer"; "The Illinois Village"; "The Building of
 Springfield".
 
 --------
 
 Comments on the Title Poem:
 
-"This poem, at once so glorious, so touching and poignant
-in its conception and expression ... is perhaps the most remarkable poem
-of a decade--one that defies imitation."--'Review of Reviews'.
+"This poem, at once so glorious, so touching and poignant in its conception and expression ... is perhaps the most remarkable poem of a decade--one that defies imitation."--'Review of Reviews'.
 
-"A sweeping and penetrating vision that works with a naive charm....
-No American poet of to-day is more a people's poet."--'Boston
+"A sweeping and penetrating vision that works with a naive charm.... No American poet of to-day is more a people's poet."--'Boston
 Transcript'.
 
 "One could hardly overpraise 'General Booth'."--'New York Times'.
 
-"Something new in verse, spontaneous, passionate, unmindful of
-conventions in form and theme."--'The Living Age'.
-
+"Something new in verse, spontaneous, passionate, unmindful of conventions in form and theme."--'The Living Age'.
 
 
 Adventures While Preaching the Gospel of Beauty
     Price, $1.00
 
-This is a series of happening afoot while reciting at back-doors in the
-west, and includes some experiences while harvesting in Kansas.
-It includes several proclamations which apply the Gospel of Beauty
-to agricultural conditions.  There are, among other rhymed interludes:
-"The Shield of Faith", "The Flute of the Lonely", "The Rose of Midnight",
-"Kansas", "The Kallyope Yell".
+This is a series of happening afoot while reciting at back-doors in the west, and includes some experiences while harvesting in Kansas. It includes several proclamations which apply the Gospel of Beauty to agricultural conditions.  There are, among other rhymed interludes: "The Shield of Faith", "The Flute of the Lonely", "The Rose of Midnight", "Kansas", "The Kallyope Yell".
 
-    Something to Read
+Something to Read
 
-Vachel Lindsay took a walk from his home in Springfield, Ill.,
-over the prairies to New Mexico.  He was in Kansas in wheat-harvest
-time and he worked as a farmhand, and he tells all about that.
-He tells about his walks and the people he met in a little book,
-"Adventures While Preaching the Gospel of Beauty".
+Vachel Lindsay took a walk from his home in Springfield, Ill., over the prairies to New Mexico.  He was in Kansas in wheat-harvest time and he worked as a farmhand, and he tells all about that. He tells about his walks and the people he met in a little book, "Adventures While Preaching the Gospel of Beauty".
 
-For the conditions of his tramps were that he should keep away
-from cities, money, baggage, and pay his way by reciting his own poems.
-And he did it.  People liked his pieces, and tramp farmhands
-with rough necks and rougher hands left off singing smutty limericks
-and took to "Atalanta in Calydon" apparently because they preferred it.
-Of motor cars, which gave him a lift, he says:  "I still maintain
-that the auto is a carnal institution, to be shunned by the truly
-spiritual, but there are times when I, for one, get tired of being
-spiritual."  His story of the "Five Little Children Eating Mush" (that
-was one night in Colorado, and he recited to them while they ate supper)
-has more beauty and tenderness and jolly tears than all the expensive
-sob stuff theatrical managers ever dreamed of.  Mr. Lindsay doesn't need
-to write verse to be a poet.  His prose is poetry--poetry straight from
-the soil, of America that is, and of a nobler America that is to be.
-You cannot afford--both for your entertainment and for the REAL IDEA
-that this young man has (of which we have said nothing)--to miss this
-book.--Editorial from 'Collier's Weekly'.
-
+For the conditions of his tramps were that he should keep away from cities, money, baggage, and pay his way by reciting his own poems. And he did it.  People liked his pieces, and tramp farmhands with rough necks and rougher hands left off singing smutty limericks and took to "Atalanta in Calydon" apparently because they preferred it. Of motor cars, which gave him a lift, he says:  "I still maintain that the auto is a carnal institution, to be shunned by the truly spiritual, but there are times when I, for one, get tired of being spiritual."  His story of the "Five Little Children Eating Mush" (that was one night in Colorado, and he recited to them while they ate supper) has more beauty and tenderness and jolly tears than all the expensive sob stuff theatrical managers ever dreamed of.  Mr. Lindsay doesn't need to write verse to be a poet.  His prose is poetry--poetry straight from the soil, of America that is, and of a nobler America that is to be. You cannot afford--both for your entertainment and for the REAL IDEA that this young man has (of which we have said nothing)--to miss this book.--Editorial from 'Collier's Weekly'.
 
 
 The Art of the Moving Picture
@@ -3010,34 +2680,17 @@ The Art of the Moving Picture
 
 An effort to apply the Gospel of Beauty to a new art.
 
-The first section has an outline which is proposed as a basis
-for photoplay criticism in America; chapters on:  "The Photoplay of
-Action", "The Intimate Photoplay", "The Picture of Fairy Splendor",
-"The Picture of Crowd Splendor", "The Picture of Patriotic Splendor",
-"The Picture of Religious Splendor", "Sculpture in Motion",
-"Painting in Motion", "Furniture", "Trappings and Inventions in Motion",
-"Architecture in Motion", "Thirty Differences between the Photoplays
-and the Stage", "Hieroglyphics".  The second section is avowedly
-more discursive, being more personal speculations and afterthoughts,
-not brought forward so dogmatically; chapters on:  "The Orchestra
-Conversation and the Censorship", "The Substitute for the Saloon",
-"California and America", "Progress and Endowment",
-"Architects as Crusaders", "On Coming Forth by Day",
-"The Prophet Wizard", "The Acceptable Year of the Lord".
+The first section has an outline which is proposed as a basis for photoplay criticism in America; chapters on:  "The Photoplay of Action", "The Intimate Photoplay", "The Picture of Fairy Splendor", "The Picture of Crowd Splendor", "The Picture of Patriotic Splendor", "The Picture of Religious Splendor", "Sculpture in Motion", "Painting in Motion", "Furniture", "Trappings and Inventions in Motion", "Architecture in Motion", "Thirty Differences between the Photoplays and the Stage", "Hieroglyphics".  The second section is avowedly more discursive, being more personal speculations and afterthoughts, not brought forward so dogmatically; chapters on:  "The Orchestra Conversation and the Censorship", "The Substitute for the Saloon", "California and America", "Progress and Endowment", "Architects as Crusaders", "On Coming Forth by Day", "The Prophet Wizard", "The Acceptable Year of the Lord".
 
-  For Late Reviews of Mr. Lindsay and his contemporaries read:
+For Late Reviews of Mr. Lindsay and his contemporaries read:
 
-'The New Republic':  Articles by Randolph S. Bourne, December 5, 1914,
-on the "Adventures While Preaching"; and Francis Hackett, December 25,
-1915, on "The Art of the Moving Picture".
+'The New Republic':  Articles by Randolph S. Bourne, December 5, 1914, on the "Adventures While Preaching"; and Francis Hackett, December 25, 1915, on "The Art of the Moving Picture".
 
-'The Dial':  Unsigned article by Lucien Carey, October 16, 1914,
-on "The Congo", etc.
+'The Dial':  Unsigned article by Lucien Carey, October 16, 1914, on "The Congo", etc.
 
-'The Yale Review':  Article by H. M. Luquiens, July, 1916,
-on "The Art of the Moving Picture".
+'The Yale Review':  Article by H. M. Luquiens, July, 1916, on "The Art of the Moving Picture".
 
-  General Articles on the Poetry Situation
+General Articles on the Poetry Situation
 
 'The Century Magazine':  "America's Golden Age in Poetry", March, 1916.
 
@@ -3048,417 +2701,20 @@ September, 1915.
 1916.
 
 
-
-
-
-
 [End of original text.]
-
 
 
 Biographical Note:
 
 Nicholas Vachel Lindsay (1879-1931):
-  (Vachel is pronounced Vay-chul, that is, it rhymes with 'Rachel').
+(Vachel is pronounced Vay-chul, that is, it rhymes with 'Rachel').
 
-"The Eagle that is Forgotten" and "The Congo" are two of his best-known
-poems, and appear in his first two volumes of verse, "General William
-Booth Enters into Heaven" (1913) and "The Congo" (1914).
+"The Eagle that is Forgotten" and "The Congo" are two of his best-known poems, and appear in his first two volumes of verse, "General William Booth Enters into Heaven" (1913) and "The Congo" (1914).
 
-As a sidenote, he became close friends with the poet Sara Teasdale
-and his third volume of verse, "The Chinese Nightingale" (1917),
-is dedicated to her.  In turn, she wrote a memorial verse for him
-after he committed suicide in 1931.
+As a sidenote, he became close friends with the poet Sara Teasdale and his third volume of verse, "The Chinese Nightingale" (1917), is dedicated to her.  In turn, she wrote a memorial verse for him after he committed suicide in 1931.
 
 ----
 
 From an anthology of verse by Jessie B. Rittenhouse (1913, 1917):
 
-"Lindsay, Vachel.  Born November 10, 1879.  Educated at Hiram College,
-Ohio.  He took up the study of art and studied at the Art Institute,
-Chicago, 1900-03 and at the New York School of Art, 1904-05.  For a time
-after his technical study, he lectured upon art in its practical relation
-to the community, and returning to his home in Springfield, Illinois,
-issued what one might term his manifesto in the shape of "The Village
-Magazine", divided about equally between prose articles, pertaining to
-beautifying his native city, and poems, illustrated by his own drawings.
-Soon after this, Mr. Lindsay, taking as scrip for the journey, "Rhymes
-to be Traded for Bread", made a pilgrimage on foot through several
-Western States going as far afield as New Mexico.  The story of this
-journey is given in his volume, "Adventures while Preaching the Gospel
-of Beauty".  Mr. Lindsay first attracted attention in poetry by "General
-William Booth Enters into Heaven", a poem which became the title of his
-first volume, in 1913.  His second volume was "The Congo", published in
-1914.  He is attempting to restore to poetry its early appeal as a spoken
-art, and his later work differs greatly from the selections contained
-in this anthology."
-
-
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of Chinese Nightingale, by Vachel Lindsay
-
-*** END OF THIS PROJECT GUTENBERG EBOOK CHINESE NIGHTINGALE ***
-
-***** This file should be named 592.txt or 592.zip *****
-This and all associated files of various formats will be found in:
-        https://www.gutenberg.org/5/9/592/
-
-Produced by A. Light.
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-https://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at https://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at https://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit https://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: https://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     https://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+"Lindsay, Vachel.  Born November 10, 1879.  Educated at Hiram College, Ohio.  He took up the study of art and studied at the Art Institute, Chicago, 1900-03 and at the New York School of Art, 1904-05.  For a time after his technical study, he lectured upon art in its practical relation to the community, and returning to his home in Springfield, Illinois, issued what one might term his manifesto in the shape of "The Village Magazine", divided about equally between prose articles, pertaining to beautifying his native city, and poems, illustrated by his own drawings. Soon after this, Mr. Lindsay, taking as scrip for the journey, "Rhymes to be Traded for Bread", made a pilgrimage on foot through several Western States going as far afield as New Mexico.  The story of this journey is given in his volume, "Adventures while Preaching the Gospel of Beauty".  Mr. Lindsay first attracted attention in poetry by "General William Booth Enters into Heaven", a poem which became the title of his first volume, in 1913.  His second volume was "The Congo", published in 1914.  He is attempting to restore to poetry its early appeal as a spoken art, and his later work differs greatly from the selections contained in this anthology."

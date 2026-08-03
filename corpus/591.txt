@@ -1,36 +1,3 @@
-The Project Gutenberg EBook of Flame and Shadow, by Sara Teasdale
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Flame and Shadow
-
-Author: Sara Teasdale
-
-Posting Date: July 30, 2008 [EBook #591]
-Release Date: July, 1996
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK FLAME AND SHADOW ***
-
-
-
-
-Produced by A. Light.
-
-
-
-
-
-
-
-
 Flame and Shadow
 
 
@@ -39,15 +6,7 @@ By
 Sara Teasdale
 
 
-
-[Note on text:  Italicized stanzas are indented 5 spaces.
-Italicized words or phrases are marked by tildes (~).
-Lines longer than 78 characters are broken according to metre,
-and the continuation is indented two spaces.  Also, some obvious errors
-may have been corrected.]
-
-
-
+[Note on text:  Italicized stanzas are indented 5 spaces. Italicized words or phrases are marked by tildes (~). Lines longer than 78 characters are broken according to metre, and the continuation is indented two spaces.  Also, some obvious errors may have been corrected.]
 
 
 Flame and Shadow
@@ -56,29 +15,21 @@ Flame and Shadow
 By
 
 Sara Teasdale
-
 
 
 Author of "Rivers to the Sea", "Love Songs", etc.
 
 
-
-
-
-  To E.
+To E.
 
   "Recois la flamme ou l'ombre
      De tous mes jours."
 
 
+Contents
 
 
-
-  Contents
-
-
-
-      I
+I
 
   Blue Squills
   Stars
@@ -89,11 +40,10 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   August Moonrise
 
 
+Memories
 
-  Memories
 
-
-      II
+II
 
   Places
   Old Tunes
@@ -104,7 +54,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   The Voice
 
 
-      III
+III
 
   Day and Night
   Compensation
@@ -116,10 +66,9 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   The Mystery
 
 
+In a Hospital
 
-  In a Hospital
-
-      IV
+IV
 
   Open Windows
   The New Moon
@@ -131,7 +80,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   A Prayer
 
 
-      V
+V
 
   Spring Torrents
   "I Know the Stars"
@@ -143,10 +92,9 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   "Let It Be Forgotten"
 
 
+The Dark Cup
 
-  The Dark Cup
-
-      VI
+VI
 
   May Day
   "Since There Is No Escape"
@@ -158,7 +106,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   "If I Must Go"
 
 
-      VII
+VII
 
   In Spring, Santa Barbara
   White Fog
@@ -170,7 +118,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   Lovely Chance
 
 
-      VIII
+VIII
 
   "There Will Come Soft Rains"
   In a Garden
@@ -180,10 +128,9 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   Winter Dusk
 
 
+By the Sea
 
-  By the Sea
-
-      IX
+IX
 
   The Unchanging
   June Night
@@ -195,7 +142,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   If Death Is Kind
 
 
-      X
+X
 
   Thoughts
   Faces
@@ -208,7 +155,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   The Long Hill
 
 
-      XI
+XI
 
   Summer Storm
   In the End
@@ -220,10 +167,9 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   The Storm
 
 
+Songs For Myself
 
-  Songs For Myself
-
-      XII
+XII
 
   The Tree
   At Midnight
@@ -234,17 +180,13 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   The Wind in the Hemlock
 
 
+Flame and Shadow
 
 
-  Flame and Shadow
+I
 
 
-
-
-      I
-
-
-  Blue Squills
+Blue Squills
 
 
   How many million Aprils came
@@ -268,10 +210,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    May bear the scar of you.
 
 
-
-
-  Stars
-
+Stars
 
 
   Alone in the night
@@ -300,10 +239,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Of so much majesty.
 
 
-
-
-  "What Do I Care?"
-
+"What Do I Care?"
 
 
   What do I care, in the dreams and the languor of spring,
@@ -317,10 +253,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    It is my heart that makes my songs, not I.
 
 
-
-
-  Meadowlarks
-
+Meadowlarks
 
 
   In the silver light after a storm,
@@ -334,10 +267,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    And meadowlarks whistling in silver light.
 
 
-
-
-  Driftwood
-
+Driftwood
 
 
   My forefathers gave me
@@ -356,10 +286,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Of colored nights and days.
 
 
-
-
-  "I Have Loved Hours at Sea"
-
+"I Have Loved Hours at Sea"
 
 
   I have loved hours at sea, gray cities,
@@ -378,10 +305,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    I shall be tired and glad to go.
 
 
-
-
-  August Moonrise
-
+August Moonrise
 
 
   The sun was gone, and the moon was coming
@@ -429,20 +353,11 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   For the theft of all of me.
 
 
-
-
-
-
   Memories
       II
 
 
-
-
-
-
-  Places
-
+Places
 
 
   Places I love come back to me like music,
@@ -474,10 +389,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    At midnight, in mid-ocean, hour on hour to me.
 
 
-
-
-  Old Tunes
-
+Old Tunes
 
 
   As the waves of perfume, heliotrope, rose,
@@ -500,10 +412,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   Youth, or perfume or the moon's gold?
 
 
-
-
-  "Only in Sleep"
-
+"Only in Sleep"
 
 
   Only in sleep I see their faces,
@@ -522,10 +431,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    And for them am I too a child?
 
 
-
-
-  Redbirds
-
+Redbirds
 
 
   Redbirds, redbirds,
@@ -549,10 +455,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    On Saxton's Hill?
 
 
-
-
-  Sunset:  St. Louis
-
+Sunset:  St. Louis
 
 
   Hushed in the smoky haze of summer sunset,
@@ -576,10 +479,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Resting in twilight.
 
 
-
-
-  The Coin
-
+The Coin
 
 
   Into my heart's treasury
@@ -592,10 +492,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Of a lovely thing.
 
 
-
-
-  The Voice
-
+The Voice
 
 
   Atoms as old as stars,
@@ -626,19 +523,10 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   Fights with man against Death!"
 
 
+III
 
 
-
-
-      III
-
-
-
-
-
-
-  Day and Night
-
+Day and Night
 
 
   In Warsaw in Poland
@@ -662,10 +550,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Is half the world away."
 
 
-
-
-  Compensation
-
+Compensation
 
 
   I should be glad of loneliness
@@ -678,10 +563,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    On a winter night.
 
 
-
-
-  I Remembered
-
+I Remembered
 
 
   There never was a mood of mine,
@@ -695,10 +577,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    The heart belongs to him who knew it best.
 
 
-
-
-  "Oh You Are Coming"
-
+"Oh You Are Coming"
 
 
   Oh you are coming, coming, coming,
@@ -717,10 +596,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    My dear?
 
 
-
-
-  The Return
-
+The Return
 
 
   He has come, he is here,
@@ -737,10 +613,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   Is dear as my dear!
 
 
-
-
-  Gray Eyes
-
+Gray Eyes
 
 
   It was April when you came
@@ -759,10 +632,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    For the first time at the sea.
 
 
-
-
-  The Net
-
+The Net
 
 
   I made you many and many a song,
@@ -776,10 +646,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Dark splendor of the sea.
 
 
-
-
-  The Mystery
-
+The Mystery
 
 
   Your eyes drink of me,
@@ -803,20 +670,11 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Or you know me?
 
 
-
-
-
-
   In a Hospital
       IV
 
 
-
-
-
-
-  Open Windows
-
+Open Windows
 
 
   Out of the window a sea of green trees
@@ -840,10 +698,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Who speak with Wonder face to face.
 
 
-
-
-  The New Moon
-
+The New Moon
 
 
   Day, you have bruised and beaten me,
@@ -861,10 +716,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   When a maiden moon wakes up in the sky?
 
 
-
-
-  Eight O'Clock
-
+Eight O'Clock
 
 
   Supper comes at five o'clock,
@@ -878,10 +730,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Eight o'clock to me.
 
 
-
-
-  Lost Things
-
+Lost Things
 
 
   Oh, I could let the world go by,
@@ -895,10 +744,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    In silver on the jewel-weeds!
 
 
-
-
-  Pain
-
+Pain
 
 
   Waves are the sea's white daughters,
@@ -912,10 +758,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    But I must stay at home.
 
 
-
-
-  The Broken Field
-
+The Broken Field
 
 
   My soul is a dark ploughed field
@@ -934,10 +777,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    With better grain.
 
 
-
-
-  The Unseen
-
+The Unseen
 
 
   Death went up the hall
@@ -956,10 +796,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    But he entered one.
 
 
-
-
-  A Prayer
-
+A Prayer
 
 
   When I am dying, let me know
@@ -976,19 +813,10 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Loving life for its own sake.
 
 
+V
 
 
-
-
-      V
-
-
-
-
-
-
-  Spring Torrents
-
+Spring Torrents
 
 
   Will it always be like this until I am dead,
@@ -1002,10 +830,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    And cannot answer at all.
 
 
-
-
-  "I Know the Stars"
-
+"I Know the Stars"
 
 
   I know the stars by their names,
@@ -1029,10 +854,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    The thing I long to know.
 
 
-
-
-  Understanding
-
+Understanding
 
 
   I understood the rest too well,
@@ -1046,10 +868,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Ages ago in waters cold.
 
 
-
-
-  Nightfall
-
+Nightfall
 
 
   We will never walk again
@@ -1071,10 +890,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    And stars come out in the skies.
 
 
-
-
-  "It Is Not a Word"
-
+"It Is Not a Word"
 
 
   It is not a word spoken,
@@ -1087,10 +903,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    That sleep so light a sleep.
 
 
-
-
-  "My Heart Is Heavy"
-
+"My Heart Is Heavy"
 
 
   My heart is heavy with many a song
@@ -1104,10 +917,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Take it, no one will know.
 
 
-
-
-  The Nights Remember
-
+The Nights Remember
 
 
   The days remember and the nights remember
@@ -1121,10 +931,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    And found his crown stolen and his throne decayed.
 
 
-
-
-  "Let It Be Forgotten"
-
+"Let It Be Forgotten"
 
 
   Let it be forgotten, as a flower is forgotten,
@@ -1138,20 +945,11 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    In a long forgotten snow.
 
 
-
-
-
-
   The Dark Cup
       VI
 
 
-
-
-
-
-  May Day
-
+May Day
 
 
   A delicate fabric of bird song
@@ -1175,10 +973,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Shining after the rain?
 
 
-
-
-  "Since There Is No Escape"
-
+"Since There Is No Escape"
 
 
   Since there is no escape, since at the end
@@ -1197,10 +992,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    If there is any way to baffle death.
 
 
-
-
-  "The Dreams of My Heart"
-
+"The Dreams of My Heart"
 
 
   The dreams of my heart and my mind pass,
@@ -1214,10 +1006,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Like the rain of yesterday.
 
 
-
-
-  "A Little While"
-
+"A Little While"
 
 
   A little while when I am gone
@@ -1231,10 +1020,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Back to the nothingness that is their home.
 
 
-
-
-  The Garden
-
+The Garden
 
 
   My heart is a garden tired with autumn,
@@ -1248,10 +1034,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    After the stillness, will spring come again?
 
 
-
-
-  The Wine
-
+The Wine
 
 
   I cannot die, who drank delight
@@ -1265,10 +1048,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Of immortality?
 
 
-
-
-  In a Cuban Garden
-
+In a Cuban Garden
 
 
   Hibiscus flowers are cups of fire,
@@ -1282,10 +1062,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    From the great black vulture circling the sky.
 
 
-
-
-  "If I Must Go"
-
+"If I Must Go"
 
 
   If I must go to heaven's end
@@ -1298,19 +1075,10 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Knowing and known unchangeably.
 
 
+VII
 
 
-
-
-      VII
-
-
-
-
-
-
-  In Spring, Santa Barbara
-
+In Spring, Santa Barbara
 
 
   I have been happy two weeks together,
@@ -1329,10 +1097,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    My heart sings only when it breaks.
 
 
-
-
-  White Fog
-
+White Fog
 
 
   Heaven-invading hills are drowned
@@ -1351,10 +1116,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Myself remains to comfort me.
 
 
-
-
-  Arcturus
-
+Arcturus
 
 
   Arcturus brings the spring back
@@ -1368,10 +1130,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    He gives to me to-night.
 
 
-
-
-  Moonlight
-
+Moonlight
 
 
   It will not hurt me when I am old,
@@ -1387,10 +1146,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
       It will not hurt me when I am old.
 
 
-
-
-  Morning Song
-
+Morning Song
 
 
   A diamond of a morning
@@ -1404,10 +1160,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Only the lonely are free.
 
 
-
-
-  Gray Fog
-
+Gray Fog
 
 
   A fog drifts in, the heavy laden
@@ -1426,10 +1179,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    And heavy as the dead.
 
 
-
-
-  Bells
-
+Bells
 
 
   At six o'clock of an autumn dusk
@@ -1448,10 +1198,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Where I can forget that the days go.
 
 
-
-
-  Lovely Chance
-
+Lovely Chance
 
 
   O lovely chance, what can I do
@@ -1474,21 +1221,12 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   And a thin white moon in the pepper tree.
 
 
+VIII
 
 
+"There Will Come Soft Rains"
 
-
-      VIII
-
-
-
-
-
-
-  "There Will Come Soft Rains"
-
-  (War Time)
-
+(War Time)
 
 
   There will come soft rains and the smell of the ground,
@@ -1510,10 +1248,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   Would scarcely know that we were gone.
 
 
-
-
-  In a Garden
-
+In a Garden
 
 
   The world is resting without sound or motion,
@@ -1547,10 +1282,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    And stills herself to sleep.
 
 
-
-
-  Nahant
-
+Nahant
 
 
   Bowed as an elm under the weight of its beauty,
@@ -1569,10 +1301,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Slim in his khaki.
 
 
-
-
-  Winter Stars
-
+Winter Stars
 
 
   I went out at night alone;
@@ -1596,10 +1325,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    The faithful beauty of the stars.
 
 
-
-
-  A Boy
-
+A Boy
 
 
   Out of the noise of tired people working,
@@ -1613,10 +1339,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Yet to have made this boy he must be wise.
 
 
-
-
-  Winter Dusk
-
+Winter Dusk
 
 
   I watch the great clear twilight
@@ -1635,20 +1358,11 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    And thank her that I was born.
 
 
-
-
-
-
   By the Sea
       IX
 
 
-
-
-
-
-  The Unchanging
-
+The Unchanging
 
 
   Sun-swept beaches with a light wind blowing
@@ -1662,10 +1376,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    The heart aches now as then.
 
 
-
-
-  June Night
-
+June Night
 
 
   Oh Earth, you are too dear to-night,
@@ -1679,10 +1390,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Except my body after I die?
 
 
-
-
-  "Like Barley Bending"
-
+"Like Barley Bending"
 
 
   Like barley bending
@@ -1701,10 +1409,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Into song.
 
 
-
-
-  "Oh Day of Fire and Sun"
-
+"Oh Day of Fire and Sun"
 
 
   Oh day of fire and sun,
@@ -1723,10 +1428,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    But you have no returning.
 
 
-
-
-  "I Thought of You"
-
+"I Thought of You"
 
 
   I thought of you and how you love this beauty,
@@ -1740,10 +1442,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Before you hear that sound again with me.
 
 
-
-
-  On the Dunes
-
+On the Dunes
 
 
   If there is any life when death is over,
@@ -1757,10 +1456,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Stand on the sea-ward dunes and call my name.
 
 
-
-
-  Spray
-
+Spray
 
 
   I knew you thought of me all night,
@@ -1776,10 +1472,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Drives inland through the night.
 
 
-
-
-  If Death Is Kind
-
+If Death Is Kind
 
 
   Perhaps if Death is kind, and there can be returning,
@@ -1793,19 +1486,10 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    We shall be happy, for the dead are free.
 
 
+X
 
 
-
-
-      X
-
-
-
-
-
-
-  Thoughts
-
+Thoughts
 
 
   When I am all alone
@@ -1834,10 +1518,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Than women and men.
 
 
-
-
-  Faces
-
+Faces
 
 
   People that I meet and pass
@@ -1861,10 +1542,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    That you know as much of me?
 
 
-
-
-  Evening:  New York
-
+Evening:  New York
 
 
   Blue dust of evening over my city,
@@ -1873,10 +1551,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Bloom from the walls like climbing flowers.
 
 
-
-
-  Snowfall
-
+Snowfall
 
 
   "She can't be unhappy," you said,
@@ -1893,12 +1568,9 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Smothered in snow.
 
 
+The Silent Battle
 
-
-  The Silent Battle
-
-  (In Memory of J. W. T. Jr.)
-
+(In Memory of J. W. T. Jr.)
 
 
   He was a soldier in that fight
@@ -1917,10 +1589,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    His enemy had turned his friend.
 
 
-
-
-  The Sanctuary
-
+The Sanctuary
 
 
   If I could keep my innermost Me
@@ -1935,10 +1604,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   I could look even at God with grave forgiving eyes.
 
 
-
-
-  At Sea
-
+At Sea
 
 
   In the pull of the wind I stand, lonely,
@@ -1952,10 +1618,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    With fear an unhealing wound in my breast.
 
 
-
-
-  Dust
-
+Dust
 
 
   When I went to look at what had long been hidden,
@@ -1969,10 +1632,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Before the years can make it wise.
 
 
-
-
-  The Long Hill
-
+The Long Hill
 
 
   I must have passed the crest a while ago
@@ -1991,19 +1651,10 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    The rest of the way will be only going down.
 
 
+XI
 
 
-
-
-      XI
-
-
-
-
-
-
-  Summer Storm
-
+Summer Storm
 
 
   The panther wind
@@ -2020,10 +1671,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    The wrath of the rain!
 
 
-
-
-  In the End
-
+In the End
 
 
   All that could never be said,
@@ -2042,10 +1690,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Nor heaven be there at our call.
 
 
-
-
-  "It Will Not Change"
-
+"It Will Not Change"
 
 
   It will not change now
@@ -2058,10 +1703,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    When I am gone.
 
 
-
-
-  Change
-
+Change
 
 
   Remember me as I was then;
@@ -2079,10 +1721,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   What other years have done to me.
 
 
-
-
-  Water Lilies
-
+Water Lilies
 
 
   If you have forgotten water lilies floating
@@ -2093,13 +1732,10 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   But if you remember, then turn away forever
    To the plains and the prairies where pools are far apart,
   There you will not come at dusk on closing water lilies,
-   And the shadow of mountains will not fall on your heart.
+And the shadow of mountains will not fall on your heart.
 
 
-
-
-  "Did You Never Know?"
-
+"Did You Never Know?"
 
 
   Did you never know, long ago, how much you loved me--
@@ -2113,10 +1749,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    I know your secret, my dear, my dear.
 
 
-
-
-  The Treasure
-
+The Treasure
 
 
   When they see my songs
@@ -2135,10 +1768,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Where the wind is cold.
 
 
-
-
-  The Storm
-
+The Storm
 
 
   I thought of you when I was wakened
@@ -2152,20 +1782,11 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    You were the wind.
 
 
-
-
-
-
   Songs For Myself
       XII
 
 
-
-
-
-
-  The Tree
-
+The Tree
 
 
   Oh to be free of myself,
@@ -2189,10 +1810,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Its thin black tracery.
 
 
-
-
-  At Midnight
-
+At Midnight
 
 
   Now at last I have come to see what life is,
@@ -2206,10 +1824,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Are not so good as rest.
 
 
-
-
-  Song Making
-
+Song Making
 
 
   My heart cried like a beaten child
@@ -2228,10 +1843,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    That must be paid in song.
 
 
-
-
-  Alone
-
+Alone
 
 
   I am alone, in spite of love,
@@ -2250,10 +1862,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Who are not lonely, having died.
 
 
-
-
-  Red Maples
-
+Red Maples
 
 
   In the last year I have learned
@@ -2275,10 +1884,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
   That is born out of agony?
 
 
-
-
-  Debtor
-
+Debtor
 
 
   So long as my spirit still
@@ -2295,10 +1901,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
    Not life to me?
 
 
-
-
-  The Wind in the Hemlock
-
+The Wind in the Hemlock
 
 
   Steely stars and moon of brass,
@@ -2347,13 +1950,7 @@ Author of "Rivers to the Sea", "Love Songs", etc.
        Rich as my lost eternity.
 
 
-
-
-
-
-  [End of original text.]
-
-
+[End of original text.]
 
 
 Biographical Note:
@@ -2361,393 +1958,10 @@ Biographical Note:
 
 Sara Teasdale (1884-1933):
 
-Teasdale was born in St. Louis, Missouri, where she attended a school
-that was founded by the grandfather of another great poet from St. Louis--
-T. S. Eliot.  She later associated herself more with New York City.
-Her first book of poems was "Sonnets to Duse" (1907),
-but "Helen of Troy" (1911) was the true launch of her career,
-followed by "Rivers to the Sea" (1915), "Love Songs" (1917),
-"Flame and Shadow" (1920) and more.  Her final volume, "Strange Victory",
-is considered by many to be predictive of her suicide in 1933.
+Teasdale was born in St. Louis, Missouri, where she attended a school that was founded by the grandfather of another great poet from St. Louis-- T. S. Eliot.  She later associated herself more with New York City. Her first book of poems was "Sonnets to Duse" (1907), but "Helen of Troy" (1911) was the true launch of her career, followed by "Rivers to the Sea" (1915), "Love Songs" (1917), "Flame and Shadow" (1920) and more.  Her final volume, "Strange Victory", is considered by many to be predictive of her suicide in 1933.
 
 ----
 
 From an anthology of verse by Jessie B. Rittenhouse (1913, 1917):
 
-"Teasdale, Sara (Mrs. Ernst B. Filsinger).  Born in St. Louis, Missouri,
-August 10, 1884.  Educated at private schools.  She is the author
-of "Sonnets to Duse", 1907; "Helen of Troy, and Other Poems", 1911;
-"Rivers to the Sea", 1915; "Love Songs", 1917.  Editor of
-"The Answering Voice:  A Hundred Love Lyrics by Women", 1917.
-Miss Teasdale is a lyric poet of an unusually pure and spontaneous gift."
-
-
-
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of Flame and Shadow, by Sara Teasdale
-
-*** END OF THIS PROJECT GUTENBERG EBOOK FLAME AND SHADOW ***
-
-***** This file should be named 591.txt or 591.zip *****
-This and all associated files of various formats will be found in:
-        https://www.gutenberg.org/5/9/591/
-
-Produced by A. Light.
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-https://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at https://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at https://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit https://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: https://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     https://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+"Teasdale, Sara (Mrs. Ernst B. Filsinger).  Born in St. Louis, Missouri, August 10, 1884.  Educated at private schools.  She is the author of "Sonnets to Duse", 1907; "Helen of Troy, and Other Poems", 1911; "Rivers to the Sea", 1915; "Love Songs", 1917.  Editor of "The Answering Voice:  A Hundred Love Lyrics by Women", 1917. Miss Teasdale is a lyric poet of an unusually pure and spontaneous gift."

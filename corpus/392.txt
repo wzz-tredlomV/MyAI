@@ -1,33 +1,3 @@
-﻿The Project Gutenberg eBook of Jerusalem Delivered, by Torquato Tasso
-
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org. If you are not located in the United States, you
-will have to check the laws of the country where you are located before
-using this eBook.
-
-Title: Jerusalem Delivered
-
-Author: Torquato Tasso
-
-Translator: Edward Fairfax
-
-Release Date: January, 1995 [eBook #392]
-[Most recently updated: August 26, 2021]
-
-Language: English
-
-Character set encoding: UTF-8
-
-Produced by: Douglas B. Killings
-
-*** START OF THE PROJECT GUTENBERG EBOOK JERUSALEM DELIVERED ***
-
-
-
-
 Gerusalemme Liberata
 
 (“Jerusalem Delivered”)
@@ -38,34 +8,31 @@ by Torquato Tasso
 
 Published 1581 in Parma, Italy.
 
-Translated by Edward Fairfax (1560-1635);
-translation first published in London, 1600.
+Translated by Edward Fairfax (1560-1635); translation first published in London, 1600.
 
 
 Contents
 
- BOOK I.
- BOOK II.
- BOOK III.
- BOOK IV.
- BOOK V.
- BOOK VI.
- BOOK VII.
- BOOK VIII.
- BOOK IX.
- BOOK X.
- BOOK XI.
- BOOK XII.
- BOOK XIII.
- BOOK XIV.
- BOOK XV.
- BOOK XVI.
- BOOK XVII.
- BOOK XVIII.
- BOOK XIX.
- BOOK XX.
-
-
+BOOK I.
+BOOK II.
+BOOK III.
+BOOK IV.
+BOOK V.
+BOOK VI.
+BOOK VII.
+BOOK VIII.
+BOOK IX.
+BOOK X.
+BOOK XI.
+BOOK XII.
+BOOK XIII.
+BOOK XIV.
+BOOK XV.
+BOOK XVI.
+BOOK XVII.
+BOOK XVIII.
+BOOK XIX.
+BOOK XX.
 
 
 FIRST BOOK
@@ -301,8 +268,7 @@ And lands possess that wild and barbarous are:
 That for our conquests were too mean a prey,
 To shed our bloods, to work our souls’ decay.
 
-XXIII
-“But this the scope was of our former thought,—
+XXIII “But this the scope was of our former thought,—
 Of Sion’s fort to scale the noble wall,
 The Christian folk from bondage to have brought,
 Wherein, alas, they long have lived thrall,
@@ -357,9 +323,7 @@ Ye times and ages, future, present, past,
 Hear all ye blessed in the heavens that sit,
 The time for this achievement hasteneth fast:
 The longer rest worse will the season fit,
-Our sureties shall with doubt be overcast.
-If we forslow the siege I well foresee
-From Egypt will the Pagans succored be.”
+Our sureties shall with doubt be overcast. If we forslow the siege I well foresee From Egypt will the Pagans succored be.”
 
 XXIX
 This said, the hermit Peter rose and spake,
@@ -411,9 +375,7 @@ Their valors to be guided by his skill;
 This done, Report displays her tell-tale wings,
 And to each ear the news and tidings brings.
 
-XXXIV
-She told the soldiers, who allowed him meet
-And well deserving of that sovereign place.
+XXXIV She told the soldiers, who allowed him meet And well deserving of that sovereign place.
 Their first salutes and acclamations sweet
 Received he, with love and gentle grace;
 After their reverence done with kind regreet
@@ -487,9 +449,7 @@ Whose fortunes good with his great acts agree,
 By his Italian sire, fro the house of Est,
 Well could he bring his noble pedigree,
 A German born with rich possessions blest,
-A worthy branch sprung from the Guelphian tree.
-’Twixt Rhene and Danubie the land contained
-He ruled, where Swaves and Rhetians whilom reigned.
+A worthy branch sprung from the Guelphian tree. ’Twixt Rhene and Danubie the land contained He ruled, where Swaves and Rhetians whilom reigned.
 
 XLII
 His mother’s heritage was this and right,
@@ -497,9 +457,7 @@ To which he added more by conquest got,
 From thence approved men of passing might
 He brought, that death or danger feared not:
 It was their wont in feasts to spend the night,
-And pass cold days in baths and houses hot.
-Five thousand late, of which now scantly are
-The third part left, such is the chance of war.
+And pass cold days in baths and houses hot. Five thousand late, of which now scantly are The third part left, such is the chance of war.
 
 XLIII
 The nation then with crisped locks and fair,
@@ -511,9 +469,7 @@ Their earthen bulwarks ’gainst the ocean flood,
 The flood, elsewhere that ships and barks devours,
 But there drowns cities, countries, towns and towers;
 
-XLIV
-Both in one troop, and but a thousand all,
-Under another Robert fierce they run.
+XLIV Both in one troop, and but a thousand all, Under another Robert fierce they run.
 Then the English squadron, soldiers stout and tall,
 By William led, their sovereign’s younger son,
 These archers be, and with them come withal,
@@ -631,8 +587,7 @@ Achilles, Sforza, and stern Palamede;
 Nor Otton’s shield he conquered in those stowres,
 In which a snake a naked child devours.
 
-LVI
-Guascher and Raiphe in valor like there was.
+LVI Guascher and Raiphe in valor like there was.
 The one and other Guido, famous both,
 Germer and Eberard to overpass,
 In foul oblivion would my Muse be loth,
@@ -731,9 +686,7 @@ Our ready host in haste be all prepared,
 Closely to march to Sion’s noble wall,
 Unseen, unheard, or undescried at all.
 
-LXVI
-“Prepare you then for travel strong and light,
-Fierce to the combat, glad to victory.”
+LXVI “Prepare you then for travel strong and light, Fierce to the combat, glad to victory.”
 And with that word and warning soon was dight,
 Each soldier, longing for near coming glory,
 Impatient be they of the morning bright,
@@ -888,8 +841,7 @@ Foretold the heathen how the Christians came,
 How thitherward the conquering army hies,
 Of every knight it sounds the worth and name,
 Each troop, each band, each squadron it descries,
-And threat’neth death to those, fire, sword and slaughter,
-Who held captived Israel’s fairest daughter.
+And threat’neth death to those, fire, sword and slaughter, Who held captived Israel’s fairest daughter.
 
 LXXXII
 The fear of ill exceeds the evil we fear,
@@ -980,8 +932,6 @@ With mighty bars of long enduring brass,
 The steel-bound doors and iron gates he ties,
 And, lastly, legions armed well provides
 Of subjects born, and hired aid besides.
-
-
 
 
 SECOND BOOK
@@ -1183,9 +1133,7 @@ Until the presence of the king she gained,
 Nor for he swelled with ire was she afraid,
 But his fierce wrath with fearless grace sustained,
 “I come,” quoth she, “but be thine anger stayed,
-And causeless rage ’gainst faultless souls restrained—
-I come to show thee, and to bring thee both,
-The wight whose fact hath made thy heart so wroth.”
+And causeless rage ’gainst faultless souls restrained— I come to show thee, and to bring thee both, The wight whose fact hath made thy heart so wroth.”
 
 XX
 Her molest boldness, and that lightning ray
@@ -1221,11 +1169,7 @@ XXIII
 “My lofty thoughts,” she answered him, “envied
 Another’s hand should work my high desire,
 The thirst of glory can no partner bide,
-With mine own self I did alone conspire.”
-“On thee alone,” the tyrant then replied,
-“Shall fall the vengeance of my wrath and ire.”
-“’Tis just and right,” quoth she, “I yield consent,
-Mine be the honor, mine the punishment.”
+With mine own self I did alone conspire.” “On thee alone,” the tyrant then replied, “Shall fall the vengeance of my wrath and ire.” “’Tis just and right,” quoth she, “I yield consent, Mine be the honor, mine the punishment.”
 
 XXIV
 The wretch of new enraged at the same,
@@ -1233,13 +1177,9 @@ Asked where she hid the image so conveyed:
 “Not hid,” quoth she, “but quite consumed with flame,
 The idol is of that eternal maid,
 For so at least I have preserved the same,
-With hands profane from being eft betrayed.
-My Lord, the thing thus stolen demand no more,
-Here see the thief that scorneth death therefor.
+With hands profane from being eft betrayed. My Lord, the thing thus stolen demand no more, Here see the thief that scorneth death therefor.
 
-XXV
-“And yet no theft was this, yours was the sin,
-I brought again what you unjustly took.”
+XXV “And yet no theft was this, yours was the sin, I brought again what you unjustly took.”
 This heard, the tyrant did for rage begin
 To whet his teeth, and bend his frowning look,
 No pity, youth; fairness, no grace could win;
@@ -1274,8 +1214,7 @@ She durst not, did not, could not so convey
 The massy substance of that idol great,
 What sleight had she the wardens to betray?
 What strength to heave the goddess from her seat?
-No, no, my Lord, she sails but with my wind.”
-Ah, thus he loved, yet was his love unkind!
+No, no, my Lord, she sails but with my wind.” Ah, thus he loved, yet was his love unkind!
 
 XXIX
 He added further: “Where the shining glass,
@@ -1384,8 +1323,7 @@ Her lofty hand would of itself refuse
 To touch the dainty needle or nice thread,
 She hated chambers, closets, secret news,
 And in broad fields preserved her maidenhead:
-Proud were her looks, yet sweet, though stern and stout,
-Her dam a dove, thus brought an eagle out.
+Proud were her looks, yet sweet, though stern and stout, Her dam a dove, thus brought an eagle out.
 
 XL
 While she was young, she used with tender hand
@@ -1473,9 +1411,7 @@ Thy courage great keeps all our foes in awe;
 For thee all actions far unworthy been,
 But such as greatest danger with them draw:
 Be you commandress therefore, Princess, Queen
-Of all our forces: be thy word a law.”
-This said, the virgin gan her beaver vail,
-And thanked him first, and thus began her tale.
+Of all our forces: be thy word a law.” This said, the virgin gan her beaver vail, And thanked him first, and thus began her tale.
 
 XLIX
 “A thing unused, great monarch, may it seem,
@@ -1557,9 +1493,7 @@ How merry were their hearts?  How fresh?  How gay?
 But for the sun inclined fast to west,
 That night there would their chieftain take his rest.
 
-LVII
-Their canvas castles up they quickly rear,
-And build a city in an hour’s space.
+LVII Their canvas castles up they quickly rear, And build a city in an hour’s space.
 When lo, disguised in unusual gear,
 Two barons bold approachen gan the place;
 Their semblance kind, and mild their gestures were,
@@ -1683,9 +1617,7 @@ So plain and easy, enter Fortune’s gate,
 Nor in thy scabbard sheathe that famous blade,
 Till settled by thy kingdom, and estate,
 Till Macon’s sacred doctrine fall and fade,
-Till woeful Asia all lie desolate.
-Sweet words I grant, baits and allurements sweet,
-But greatest hopes oft greatest crosses meet.
+Till woeful Asia all lie desolate. Sweet words I grant, baits and allurements sweet, But greatest hopes oft greatest crosses meet.
 
 LXX
 “For, if thy courage do not blind thine eyes,
@@ -1763,9 +1695,7 @@ If you achieve renown by this emprize:
 For if our fleet your navy chase or take,
 For want of victuals all your camp then dies;
 Of if by land the field you once forsake,
-Then vain by sea were hope of victories.
-Nor could your ships restore your lost estate:
-For steed once stolen, we shut the door too late.
+Then vain by sea were hope of victories. Nor could your ships restore your lost estate: For steed once stolen, we shut the door too late.
 
 LXXVIII
 “In this estate, if thou esteemest light
@@ -1823,9 +1753,7 @@ Enticed us to follow this emprise,
 The Heavenly Father keep his sacred brood
 From foul infection of so great a vice:
 But by our zeal aye be that plague withstood,
-Let not those pleasures us to sin entice.
-His grace, his mercy, and his powerful hand
-Will keep us safe from hurt by sea and land.
+Let not those pleasures us to sin entice. His grace, his mercy, and his powerful hand Will keep us safe from hurt by sea and land.
 
 LXXXIV
 “This is the spur that makes our coursers run;
@@ -1893,9 +1821,7 @@ The soldiers all, “War, war,” at once to cry,
 Nor could they tarry till their chieftain spoke,
 But for the knight was more inflamed hereby,
 His lap he opened and spread forth his cloak:
-“To mortal wars,” he says, “I you defy;”
-And this he uttered with fell rage and hate,
-And seemed of Janus’ church to undo the gate.
+“To mortal wars,” he says, “I you defy;” And this he uttered with fell rage and hate, And seemed of Janus’ church to undo the gate.
 
 XCI
 It seemed fury, discord, madness fell
@@ -1907,11 +1833,7 @@ Again to shake heaven’s everlasting frame,
 Or him that built the tower of Shinaar,
 Which threat’neth battle ’gainst the morning star.
 
-XCII
-Godfredo then: “Depart, and bid your king
-Haste hitherward, or else within short while,—
-For gladly we accept the war you bring,—
-Let him expect us on the banks of Nile.”
+XCII Godfredo then: “Depart, and bid your king Haste hitherward, or else within short while,— For gladly we accept the war you bring,— Let him expect us on the banks of Nile.”
 He entertained them then with banqueting,
 And gifts presented to those Pagans vile;
 Aletes had a helmet, rich and gay,
@@ -1968,8 +1890,6 @@ Each heart attends, each longing eye beholds
 What beam the eastern window first unfolds.
 
 
-
-
 THIRD BOOK
 
 
@@ -2003,10 +1923,7 @@ Than fierce desires of warlike hearts restrain;
 He rules them yet, and ranks them in their haste,
 For well he knows disordered speed makes waste.
 
-III
-Feathered their thoughts, their feet in wings were dight,
-Swiftly they marched, yet were not tired thereby,
-For willing minds make heaviest burdens light.
+III Feathered their thoughts, their feet in wings were dight, Swiftly they marched, yet were not tired thereby, For willing minds make heaviest burdens light.
 But when the gliding sun was mounted high,
 Jerusalem, behold, appeared in sight,
 Jerusalem they view, they see, they spy,
@@ -2033,8 +1950,7 @@ Upon that town where Christ was sold and bought,
 Where for our sins he faultless suffered pain,
 There where he died and where he lived again.
 
-VI
-Soft words, low speech, deep sobs, sweet sighs, salt tears
+VI Soft words, low speech, deep sobs, sweet sighs, salt tears
 Rose from their hearts, with joy and pleasure mixed;
 For thus fares he the Lord aright that fears,
 Fear on devotion, joy on faith is fixed:
@@ -2150,12 +2066,9 @@ As winds tall cedars toss on mountains hoar:
 The king, that wondered at his bravery, spake
 To her, that near him seated was before,
 Who felt her heart with love’s hot fever quake,
-“Well shouldst thou know,” quoth he, “each Christian knight,
-By long acquaintance, though in armor dight.
+“Well shouldst thou know,” quoth he, “each Christian knight, By long acquaintance, though in armor dight.
 
-XVIII
-“Say, who is he shows so great worthiness,
-That rides so rank, and bends his lance so fell?”
+XVIII “Say, who is he shows so great worthiness, That rides so rank, and bends his lance so fell?”
 To this the princess said nor more nor less,
 Her heart with sighs, her eyes with tears, did swell;
 But sighs and tears she wisely could suppress,
@@ -2177,11 +2090,7 @@ XX
 “Tancred he hight, O Macon, would he wear
 My thrall, ere fates him of this life deprive,
 For to his hateful head such spite I bear,
-I would him reave his cruel heart on live.”
-Thus said she, they that her complainings hear
-In other sense her wishes credit give.
-She sighed withal, they construed all amiss,
-And thought she wished to kill, who longed to kiss.
+I would him reave his cruel heart on live.” Thus said she, they that her complainings hear In other sense her wishes credit give. She sighed withal, they construed all amiss, And thought she wished to kill, who longed to kiss.
 
 XXI
 This while forth pricked Clorinda from the throng
@@ -2233,15 +2142,11 @@ For if thou long to see my valor proved,
 Were it not better from this warlike rout
 Withdrawn, somewhere, alone to fight it out?
 
-XXVI
-“So singled, may we both our courage try:”
+XXVI “So singled, may we both our courage try:”
 Clorinda to that motion yielded glad,
 And helmless to the forestward gan hie,
 Whither the prince right pensive wend and sad,
-And there the virgin gan him soon defy.
-One blow she strucken, and he warded had,
-When he cried, “Hold, and ere we prove our might,
-First hear thou some conditions of the fight.”
+And there the virgin gan him soon defy. One blow she strucken, and he warded had, When he cried, “Hold, and ere we prove our might, First hear thou some conditions of the fight.”
 
 XXVII
 She stayed, and desperate love had made him bold;
@@ -2257,11 +2162,7 @@ XXVIII
 “Save with thy grace, or let thine anger kill,
 Love hath disarmed my life of all defence;
 An easy labor harmless blood to spill,
-Strike then, and punish where is none offence.”
-This said the prince, and more perchance had will
-To have declared, to move her cruel sense.
-But in ill time of Pagans thither came
-A troop, and Christians that pursued the same.
+Strike then, and punish where is none offence.” This said the prince, and more perchance had will To have declared, to move her cruel sense. But in ill time of Pagans thither came A troop, and Christians that pursued the same.
 
 XXIX
 The Pagans fled before their valiant foes,
@@ -2270,8 +2171,7 @@ A soldier wild, careless to win or lose,
 Saw where her locks about the damsel flew,
 And at her back he proffereth as he goes
 To strike where her he did disarmed view:
-But Tancred cried, “Oh stay thy cursed hand,”
-And for to ward the blow lift up his brand.
+But Tancred cried, “Oh stay thy cursed hand,” And for to ward the blow lift up his brand.
 
 XXX
 But yet the cutting steel arrived there,
@@ -2383,9 +2283,7 @@ Is Edward and Gildippes, who begun
 Through love the hazard of fierce war to prove,
 Famous for arms, but famous more for love.”
 
-XLI
-While thus they tell their foemen’s worthiness,
-The slaughter rageth in the plain at large.
+XLI While thus they tell their foemen’s worthiness, The slaughter rageth in the plain at large.
 Tancred and young Rinaldo break the press,
 They bruise the helm, and press the sevenfold targe;
 The troop by Dudon led performed no less,
@@ -2478,9 +2376,7 @@ He came and breathed vengeance from his breast
 And being come thus spoke he to the rest,
 “Warriors, why stand you gazing here in vain?
 Pale death our valiant leader had opprest,
-Come wreak his loss, whom bootless you complain.
-Those walls are weak, they keep but cowards out
-No rampier can withstand a courage stout.
+Come wreak his loss, whom bootless you complain. Those walls are weak, they keep but cowards out No rampier can withstand a courage stout.
 
 LI
 “Of double iron, brass or adamant,
@@ -2488,9 +2384,7 @@ Or if this wall were built of flaming fire,
 Yet should the Pagan vile a fortress want
 To shroud his coward head safe from mine ire;
 Come follow then, and bid base fear avaunt,
-The harder work deserves the greater hire;”
-And with that word close to the walls he starts,
-Nor fears he arrows, quarries, stones or darts.
+The harder work deserves the greater hire;” And with that word close to the walls he starts, Nor fears he arrows, quarries, stones or darts.
 
 LII
 Above the waves as Neptune lift his eyes
@@ -2499,8 +2393,7 @@ And with his countenance calmed seas, winds and skies;
 So looked Rinaldo, when he shook his crest
 Before those walls, each Pagan fears and flies
 His dreadful sight, or trembling stayed at least:
-Such dread his awful visage on them cast.
-So seem poor doves at goshawks’ sight aghast.
+Such dread his awful visage on them cast. So seem poor doves at goshawks’ sight aghast.
 
 LIII
 The herald Ligiere now from Godfrey came,
@@ -2568,9 +2461,7 @@ So well the lore he knows of regiment,
 Peerless in fight, in counsel grave and sound,
 The double gift of glory excellent,
 Among these armies is no warrior found
-Graver in speech, bolder in tournament.
-Raymond pardie in counsel match him might;
-Tancred and young Rinaldo like in fight.”
+Graver in speech, bolder in tournament. Raymond pardie in counsel match him might; Tancred and young Rinaldo like in fight.”
 
 LX
 To whom the king: “He likes me well therefore,
@@ -2588,9 +2479,7 @@ He sighed for grief, then said, “Fain would I know
 The man in red, with such a knightly grace,
 A worthy lord he seemeth by his show,
 How like to Godfrey looks he in the face,
-How like in person!  but some-deal more low.”
-“Baldwin,” quoth she, “that noble baron hight,
-By birth his brother, and his match in might.
+How like in person!  but some-deal more low.” “Baldwin,” quoth she, “that noble baron hight, By birth his brother, and his match in might.
 
 LXII
 “Next look on him that seems for counsel fit,
@@ -2628,19 +2517,13 @@ Fore which the duke his glorious ensigns spread,
 For so great compass had that forteress,
 That round it could not be environed
 With narrow siege—nor Babel’s king I guess
-That whilom took it, such an army led—
-But all the ways he kept, by which his foe
-Might to or from the city come or go.
+That whilom took it, such an army led— But all the ways he kept, by which his foe Might to or from the city come or go.
 
 LXVI
 His care was next to cast the trenches deep,
 So to preserve his resting camp by night,
 Lest from the city while his soldiers sleep
-They might assail them with untimely flight.
-This done he went where lords and princes weep
-With dire complaints about the murdered knight,
-Where Dudon dead lay slaughtered on the ground.
-And all the soldiers sat lamenting round.
+They might assail them with untimely flight. This done he went where lords and princes weep With dire complaints about the murdered knight, Where Dudon dead lay slaughtered on the ground. And all the soldiers sat lamenting round.
 
 LXVII
 His wailing friends adorned the mournful bier
@@ -2743,8 +2626,6 @@ Thus fell the trees, with noise the deserts roar;
 The beasts, their caves, the birds, their nests forlore.
 
 
-
-
 FOURTH BOOK
 
 
@@ -2764,9 +2645,7 @@ And reared rams their horned fronts advance,
 The Ancient Foe to man, and mortal seed,
 His wannish eyes upon them bent askance;
 And when he saw their labors well succeed,
-He wept for rage, and threatened dire mischance.
-He choked his curses, to himself he spake,
-Such noise wild bulls that softly bellow make.
+He wept for rage, and threatened dire mischance. He choked his curses, to himself he spake, Such noise wild bulls that softly bellow make.
 
 II
 At last resolving in his damned thought
@@ -2914,9 +2793,7 @@ These western rebels with your power withstand,
 Pluck up these weeds, before they overgrow
 The gentle garden of the Hebrews’ land,
 Quench out this spark, before it kindles so
-That Asia burn, consumed with the brand.
-Use open force, or secret guile unspied;
-For craft is virtue gainst a foe defied.
+That Asia burn, consumed with the brand. Use open force, or secret guile unspied; For craft is virtue gainst a foe defied.
 
 XVII
 “Among the knights and worthies of their train,
@@ -2958,9 +2835,7 @@ The wished ending, or success presage,
 For neither stars above, nor powers of hell,
 Nor skill, nor art, nor charm, nor devil could tell.
 
-XXI
-And yet he thought,—Oh, vain conceit of man,
-Which as thou wishest judgest things to come!—
+XXI And yet he thought,—Oh, vain conceit of man, Which as thou wishest judgest things to come!—
 That the French host to sure destruction ran,
 Condemned quite by Heaven’s eternal doom:
 He thinks no force withstand or vanquish can
@@ -2973,10 +2848,7 @@ But for he held the Frenchmen’s worth in prize,
 And feared the doubtful gain of bloody war,
 He, that was closely false and slyly war,
 Cast how he might annoy them most from far:
-And as he gan upon this point devise,—
-As counsellors in ill still nearest are,—
-At hand was Satan, ready ere men need,
-If once they think, to make them do, the deed.
+And as he gan upon this point devise,— As counsellors in ill still nearest are,— At hand was Satan, ready ere men need, If once they think, to make them do, the deed.
 
 XXIII
 He counselled him how best to hunt his game,
@@ -3014,9 +2886,7 @@ Frame snares of look, strains of alluring speech;
 For if he love, the conquest then thou hast,
 Thus purposed war thou may’st with ease impeach,
 Else lead the other Lords to deserts waste,
-And hold them slaves far from their leader’s reach:”
-Thus taught he her, and for conclusion, saith,
-“All things are lawful for our lands and faith.”
+And hold them slaves far from their leader’s reach:” Thus taught he her, and for conclusion, saith, “All things are lawful for our lands and faith.”
 
 XXVII
 The sweet Armida took this charge on hand,
@@ -3062,10 +2932,7 @@ XXXI
 Her breasts, two hills o’erspread with purest snow,
 Sweet, smooth and supple, soft and gently swelling,
 Between them lies a milken dale below,
-Where love, youth, gladness, whiteness make their dwelling,
-Her breasts half hid, and half were laid to show,
-So was the wanton clad, as if this much
-Should please the eye, the rest unseen, the touch.
+Where love, youth, gladness, whiteness make their dwelling, Her breasts half hid, and half were laid to show, So was the wanton clad, as if this much Should please the eye, the rest unseen, the touch.
 
 XXXII
 As when the sunbeams dive through Tagus’ wave,
@@ -3097,11 +2964,7 @@ With reverence meet the baron low inclined,
 And thus his purpose to the virgin told,
 For youth, use, nature, all had made him bold.
 
-XXXV
-“Lady, if thee beseem a stile so low,
-In whose sweet looks such sacred beauty shine,—
-For never yet did Heaven such grace bestow
-On any daughter born of Adam’s line—
+XXXV “Lady, if thee beseem a stile so low, In whose sweet looks such sacred beauty shine,— For never yet did Heaven such grace bestow On any daughter born of Adam’s line—
 Thy name let us, though far unworthy, know,
 Unfold thy will, and whence thou art in fine,
 Lest my audacious boldness learn too late
@@ -3117,9 +2980,7 @@ My native soil and kingdom thus forego
 To seek Duke Godfrey’s aid, such store men tell
 Of virtuous ruth doth in his bosom dwell.
 
-XXXVII
-“Conduct me then that mighty duke before,
-If you be courteous, sir, as well you seem.”
+XXXVII “Conduct me then that mighty duke before, If you be courteous, sir, as well you seem.”
 “Content,” quoth he, “since of one womb ybore,
 We brothers are, your fortune good esteem
 To encounter me whose word prevaileth more
@@ -3244,8 +3105,7 @@ Alas, how far transformed from the same
 Whose eyes shone erst like Titan’s glorious beam:
 ‘Daughter,’ she says, ‘fly, fly, behold thy dame
 Foreshows the treasons of thy wretched eame,
-Who poison gainst thy harmless life provides:’
-This said, to shapeless air unseen she glides.
+Who poison gainst thy harmless life provides:’ This said, to shapeless air unseen she glides.
 
 L
 “But what avail high walls or bulwarks strong,
@@ -3322,10 +3182,7 @@ LVII
 To poison him I hired had my guide,
 That he despatched, mine unbridled youth
 Might rage at will, in no subjection tied,
-And that each night I slept—O foul untruth!—
-Mine honor lost, by this Arontes’ side:
-But Heaven I pray send down revenging fire,
-When so base love shall change my chaste desire.
+And that each night I slept—O foul untruth!— Mine honor lost, by this Arontes’ side: But Heaven I pray send down revenging fire, When so base love shall change my chaste desire.
 
 LVIII
 “Not that he sitteth on my regal throne,
@@ -3452,10 +3309,7 @@ At this the princess bent her eyes to ground,
 And stood unmoved, though not unmarked, a space,
 The secret bleeding of her inward wound
 Shed heavenly dew upon her angel’s face,
-“Poor wretch,” quoth she, “in tears and sorrows drowned,
-Death be thy peace, the grave thy resting-place,
-Since such thy hap, that lest thou mercy find
-The gentlest heart on earth is proved unkind.
+“Poor wretch,” quoth she, “in tears and sorrows drowned, Death be thy peace, the grave thy resting-place, Since such thy hap, that lest thou mercy find The gentlest heart on earth is proved unkind.
 
 LXXI
 “Where none attends, what boots it to complain?
@@ -3512,10 +3366,7 @@ Thrice twenty Cupids unperceived flew
 To gather up this liquor, ere it fall,
 And of each drop an arrow forged new,
 Else, as it came, snatched up the crystal ball,
-And at rebellious hearts for wildfire threw.
-O wondrous love!  thou makest gain of all;
-For if she weeping sit, or smiling stand,
-She bends thy bow, or kindleth else thy brand.
+And at rebellious hearts for wildfire threw. O wondrous love!  thou makest gain of all; For if she weeping sit, or smiling stand, She bends thy bow, or kindleth else thy brand.
 
 LXXVII
 This forged plaint drew forth unfeigned tears
@@ -3577,11 +3428,7 @@ What I have granted, let her have your aid:
 Yours be the thanks, for yours the danger is,
 If aught succeed, as much I fear, amiss.
 
-LXXXIII
-“But if with you my words may credit find,
-Oh temper then this heat misguides you so!”
-Thus much he said, but they with fancy blind,
-Accept his grant, and let his counsel go.
+LXXXIII “But if with you my words may credit find, Oh temper then this heat misguides you so!” Thus much he said, but they with fancy blind, Accept his grant, and let his counsel go.
 What works not beauty, man’s relenting mind
 Is eath to move with plaints and shows of woe:
 Her lips cast forth a chain of sugared words,
@@ -3617,9 +3464,7 @@ So far the shapes of men, as her eyes spreading
 Altered their hearts, and with her syren’s sound
 In lust, their minds, their hearts, in love she drowned.
 
-LXXXVII
-All wily sleights that subtle women know,
-Hourly she used, to catch some lover new.
+LXXXVII All wily sleights that subtle women know, Hourly she used, to catch some lover new.
 None kenned the bent of her unsteadfast bow,
 For with the time her thoughts her looks renew,
 From some she cast her modest eyes below,
@@ -3716,8 +3561,6 @@ What wonder if Achilles were misled,
 Of great Alcides at their ladies’ sights,
 Since these true champions of the Lord above
 Were thralls to beauty, yielden slaves to lore.
-
-
 
 
 FIFTH BOOK
@@ -3873,9 +3716,7 @@ I will not of my works refuse the hire;
 And much it glads me, that my power and might
 Ypraised is by such a valiant knight.
 
-XV
-“I neither seek it nor refuse the place,
-Which if I get, the praise and thanks be thine.”
+XV “I neither seek it nor refuse the place, Which if I get, the praise and thanks be thine.”
 Eustace, this spoken, hied thence apace
 To know which way his fellows’ hearts incline:
 But Prince Gernando coveted the place,
@@ -4109,14 +3950,9 @@ Nor that it lessened be I now consent;
 Right well know I both when and where I ought
 To give condign reward and punishment,
 Since you are all in like subjection brought,
-Both high and low obey, and be content.”
-This heard, Tancredi wisely stayed his words,
-Such weight the sayings have of kings and lords.
+Both high and low obey, and be content.” This heard, Tancredi wisely stayed his words, Such weight the sayings have of kings and lords.
 
-XXXIX
-Old Raymond praised his speech, for old men think
-They ever wisest seem when most severe,
-“’Tis best,” quoth he, “to make these great ones shrink,
+XXXIX Old Raymond praised his speech, for old men think They ever wisest seem when most severe, “’Tis best,” quoth he, “to make these great ones shrink,
 The people love him whom the nobles fear:
 There must the rule to all disorders sink,
 Where pardons more than punishments appear;
@@ -4229,9 +4065,7 @@ Or other nations that us here confine,
 Godfrey will beaten be with his own wand,
 And feel he wants that valor great of thine,
 Our camp may seem an arm without a hand,
-Amid our troops unless thy eagle shine:”
-With that came Guelpho and those words approved,
-And prayed him go, if him he feared or loved.
+Amid our troops unless thy eagle shine:” With that came Guelpho and those words approved, And prayed him go, if him he feared or loved.
 
 LI
 Their speeches soften much the warrior’s heart,
@@ -4333,11 +4167,7 @@ And western seas felt Titan’s hot impression,
 ’Twixt two old knights, and matrons twain she went,
 Where pitched was her fair and curious tent.
 
-LXI
-But this false queen of craft and sly invention,—
-Whose looks, love’s arrows were; whose eyes his quivers;
-Whose beauty matchless, free from reprehension,
-A wonder left by Heaven to after-livers,—
+LXI But this false queen of craft and sly invention,— Whose looks, love’s arrows were; whose eyes his quivers; Whose beauty matchless, free from reprehension, A wonder left by Heaven to after-livers,—
 Among the Christian lord had bred contention
 Who first should quench his flames in Cupid’s rivers,
 While all her weapons and her darts rehearsed,
@@ -4463,9 +4293,7 @@ Next Gerrard followed, then with tresses hoar
 Old Wenceslaus, that felt Cupid’s rage
 Now in his doating and his dying age.
 
-LXXIV
-Oh how contentment in their foreheads shined!
-Their looks with joy; thoughts swelled with secret pleasure,
+LXXIV Oh how contentment in their foreheads shined! Their looks with joy; thoughts swelled with secret pleasure,
 These three it seemed good success designed
 To make the lords of love and beauty’s treasure:
 Their doubtful fellows at their hap repined,
@@ -4493,9 +4321,7 @@ Things most forbidden, without stay or pause,
 In spite of fortune purposed many a knight
 To follow fair Armida when ’twas night.
 
-LXXVII
-To follow her, by night or else by day,
-And in her quarrel venture life and limb.
+LXXVII To follow her, by night or else by day, And in her quarrel venture life and limb.
 With sighs and tears she gan them softly pray
 To keep that promise, when the skies were dim,
 To this and that knight did she plain and say,
@@ -4533,33 +4359,19 @@ But with the morning he espied the dame,
 That with her guard up from a village rode
 Where she and they that night had made abode.
 
-LXXXI
-Thither he galloped fast, and drawing near
-Rambaldo knew the knight, and loudly cried,
-“Whence comes young Eustace, and what seeks he here?”
-“I come,” quoth he, “to serve the Queen Armide,
-If she accept me, would we all were there
-Where my good-will and faith might best be tried.”
-“Who,” quoth the other, “choseth thee to prove
-This high exploit of hers?”  He answered, “Love.”
+LXXXI Thither he galloped fast, and drawing near Rambaldo knew the knight, and loudly cried, “Whence comes young Eustace, and what seeks he here?” “I come,” quoth he, “to serve the Queen Armide, If she accept me, would we all were there Where my good-will and faith might best be tried.” “Who,” quoth the other, “choseth thee to prove This high exploit of hers?”  He answered, “Love.”
 
-LXXXII
-“Love hath Eustatio chosen, Fortune thee,
-In thy conceit which is the best election?”
+LXXXII “Love hath Eustatio chosen, Fortune thee, In thy conceit which is the best election?”
 “Nay, then, these shifts are vain,” replied he,
 “These titles false serve thee for no protection,
 Thou canst not here for this admitted be
-Our fellow-servant, in this sweet subjection.”
-“And who,” quoth Eustace, angry, “dares deny
-My fellowship?”  Rambaldo answered, “I.”
+Our fellow-servant, in this sweet subjection.” “And who,” quoth Eustace, angry, “dares deny My fellowship?”  Rambaldo answered, “I.”
 
 LXXXIII
 And with that word his cutting sword he drew,
 That glittered bright, and sparkled flaming fire;
 Upon his foe the other champion flew,
-With equal courage, and with equal ire.
-The gentle princess, who the danger knew,
-Between them stepped, and prayed them both retire.
+With equal courage, and with equal ire. The gentle princess, who the danger knew, Between them stepped, and prayed them both retire.
 “Rambald,” quoth she, “why should you grudge or plain,
 If I a champion, you an helper gain?
 
@@ -4567,11 +4379,7 @@ LXXXIV
 “If me you love, why wish you me deprived
 In so great need of such a puissant knight?
 But welcome Eustace, in good time arrived,
-Defender of my state, my life, my right.
-I wish my hapless self no longer lived,
-When I esteem such good assistance light.”
-Thus talked they on, and travelled on their way
-Their fellowship increasing every day.
+Defender of my state, my life, my right. I wish my hapless self no longer lived, When I esteem such good assistance light.” Thus talked they on, and travelled on their way Their fellowship increasing every day.
 
 LXXXV
 From every side they come, yet wist there none
@@ -4652,8 +4460,6 @@ He studied how to feed that mighty host,
 In so great scarceness, and what force provide
 He should against the Egyptian warriors sly,
 And how subdue those thieves of Araby.
-
-
 
 
 SIXTH BOOK
@@ -4825,19 +4631,13 @@ With one or two that dare defend the cause,
 But come the fourth or fifth, come all the rest,
 Come all that will, and all that weapon draws,
 Let him that yields obey the victor’s hest,
-As wills the lore of mighty Mars his laws:”
-This was the challenge that fierce Pagan sent,
-The herald donned his coat-of-arms, and went.
+As wills the lore of mighty Mars his laws:” This was the challenge that fierce Pagan sent, The herald donned his coat-of-arms, and went.
 
 XVII
 And when the man before the presence came
 Of princely Godfrey, and his captains bold:
 “My Lord,” quoth he, “may I withouten blame
-Before your Grace, my message brave unfold?”
-“Thou mayest,” he answered, “we approve the same;
-Withouten fear, be thine ambassage told.”
-“Then,” quoth the herald, “shall your highness see,
-If this ambassage sharp or pleasing be.”
+Before your Grace, my message brave unfold?” “Thou mayest,” he answered, “we approve the same; Withouten fear, be thine ambassage told.” “Then,” quoth the herald, “shall your highness see, If this ambassage sharp or pleasing be.”
 
 XVIII
 The challenge gan he then at large expose,
@@ -4866,8 +4666,7 @@ This combat neither high nor low denies,
 Ten thousand wish to meet you on the green;
 A thousand frowned with angry flaming eyes,
 And shaked for rage their swords and weapons keen;
-The field is safely granted by their guide,”
-This said, the champion for his armor cried.
+The field is safely granted by their guide,” This said, the champion for his armor cried.
 
 XXI
 While he was armed, his heart for ire nigh brake,
@@ -4965,8 +4764,7 @@ As this young champion hasted thitherward,
 Where he attending saw the Pagan strong:
 Tancredi started with the noise he heard,
 As waked from sleep, where he had dreamed long,
-“Oh stay,” he cried, “to me belongs this war!”
-But cried too late, Otho was gone too far.
+“Oh stay,” he cried, “to me belongs this war!” But cried too late, Otho was gone too far.
 
 XXXI
 Then full of fury, anger and despite,
@@ -5143,10 +4941,7 @@ Wrath bore the sway, both art and reason fail,
 Fury new force, and courage new supplies,
 Their armors forged were of metal frail,
 On every side thereof, huge cantels flies,
-The land was strewed all with plate and mail.
-That, on the earth; on that, their warm blood lies.
-And at each rush and every blow they smote
-Thunder the noise, the sparks, seemed lightning hot.
+The land was strewed all with plate and mail. That, on the earth; on that, their warm blood lies. And at each rush and every blow they smote Thunder the noise, the sparks, seemed lightning hot.
 
 XLIX
 The Christian people and the Pagans gazed,
@@ -5332,11 +5127,7 @@ LXVII
 And for her mother had her taught before
 The secret virtue of each herb that springs,
 Besides fit charms for every wound or sore
-Corruption breedeth or misfortune brings,—
-An art esteemed in those times of yore,
-Beseeming daughters of great lords and kings—
-She would herself be surgeon to her knight,
-And heal him with her skill, or with her sight.
+Corruption breedeth or misfortune brings,— An art esteemed in those times of yore, Beseeming daughters of great lords and kings— She would herself be surgeon to her knight, And heal him with her skill, or with her sight.
 
 LXVIII
 Thus would she cure her love, and cure her foe
@@ -5382,11 +5173,7 @@ LXXII
 “Or deem’st thou it a praise of little prize,
 The glorious title of a virgin’s name?
 That thou will gad by night in giglot wise,
-Amid thine armed foes, to seek thy shame.
-O fool, a woman conquers when she flies,
-Refusal kindleth, proffers quench the flame.
-Thy lord will judge thou sinnest beyond measure,
-If vainly thus thou waste so rich a treasure.”
+Amid thine armed foes, to seek thy shame. O fool, a woman conquers when she flies, Refusal kindleth, proffers quench the flame. Thy lord will judge thou sinnest beyond measure, If vainly thus thou waste so rich a treasure.”
 
 LXXIII
 The sly deceiver Cupid thus beguiled
@@ -5634,9 +5421,7 @@ Deep in a vale, Erminia stayed her haste,
 To be recalled she had no cause to fear,
 This foremost hazard had she trimly past;
 But dangers new, tofore unseen, appear,
-New perils she descried, new doubts she cast.
-The way that her desire to quiet brought,
-More difficult now seemed than erst she thought.
+New perils she descried, new doubts she cast. The way that her desire to quiet brought, More difficult now seemed than erst she thought.
 
 XCVIII
 Armed to ride among her angry foes,
@@ -5773,10 +5558,7 @@ Erminia fled, scantly the tender grass
 Her Pegasus with his light footsteps bent,
 Her maiden’s beast for speed did likewise pass;
 Yet divers ways, such was their fear, they went:
-The squire who all too late returned, alas.
-With tardy news from Prince Tancredi’s tent,
-Fled likewise, when he saw his mistress gone,
-It booted not to sojourn there alone.
+The squire who all too late returned, alas. With tardy news from Prince Tancredi’s tent, Fled likewise, when he saw his mistress gone, It booted not to sojourn there alone.
 
 CXII
 But Alicandro wiser than the rest,
@@ -5798,8 +5580,7 @@ And with his soldiers lay in ambush close:
 These news through all the Christian army went,
 In every cabin talked, in every tent.
 
-CXIV
-Tancred, whose thoughts the squire had filled with doubt
+CXIV Tancred, whose thoughts the squire had filled with doubt
 By his sweet words, supposed now hearing this,
 Alas!  the virgin came to seek me out,
 And for my sake her life in danger is;
@@ -5807,8 +5588,6 @@ Himself forthwith he singled from the rout,
 And rode in haste, though half his arms he miss;
 Among those sandy fields and valleys green,
 To seek his love, he galloped fast unseen.
-
-
 
 
 SEVENTH BOOK
@@ -5943,10 +5722,7 @@ And there became the mighty caliph’s man,
 and though I but a simple gardener were,
 Yet could I mark abuses, see and hear.
 
-XIII
-“Enticed on with hope of future gain,
-I suffered long what did my soul displease;
-But when my youth was spent, my hope was vain.
+XIII “Enticed on with hope of future gain, I suffered long what did my soul displease; But when my youth was spent, my hope was vain.
 I felt my native strength at last decrease;
 I gan my loss of lusty years complain,
 And wished I had enjoyed the country’s peace;
@@ -6019,9 +5795,7 @@ XX
 Another day under your shade maybe
 Will come to rest again some lover kind;
 Who if these trophies of my griefs he see,
-Shall feel dear pity pierce his gentle mind;”
-With that she sighed and said, “Too late I prove
-There is no troth in fortune, trust in love.
+Shall feel dear pity pierce his gentle mind;” With that she sighed and said, “Too late I prove There is no troth in fortune, trust in love.
 
 XXI
 “Yet may it be, if gracious heavens attend
@@ -6093,9 +5867,7 @@ As is the guise with us: Tancredi crossed
 His way, and gently prayed the man to say,
 To Godfrey’s camp how he should find the way.
 
-XXVIII
-“Sir,” in the Italian language answered he,
-“I ride where noble Boemond hath me sent:”
+XXVIII “Sir,” in the Italian language answered he, “I ride where noble Boemond hath me sent:”
 The prince thought this his uncle’s man should be,
 And after him his course with speed he bent,
 A fortress stately built at last they see,
@@ -6109,9 +5881,7 @@ The drawbridge was let down by them within:
 “If thou a Christian be,” quoth he, “thou mayest
 Till Phoebus shine again, here take thine inn,
 The County of Cosenza, three days past,
-This castle from the Turks did nobly win.”
-The prince beheld the piece, which site and art
-Impregnable had made on every part.
+This castle from the Turks did nobly win.” The prince beheld the piece, which site and art Impregnable had made on every part.
 
 XXX
 He feared within a pile so fortified
@@ -6143,9 +5913,7 @@ Within this dungeon shalt thou safe abide,
 And never hope again to see the day,
 Or that thy hair for age shall turn to gray;
 
-XXXIII
-“Except thou swear her valiant knights to aid
-Against those traitors of the Christian crew.”
+XXXIII “Except thou swear her valiant knights to aid Against those traitors of the Christian crew.”
 Tancred at this discourse a little stayed,
 His arms, his gesture, and his voice he knew:
 It was Rambaldo, who for that false maid
@@ -6249,9 +6017,7 @@ The dreadful terror of his fierce aspect,
 Against the threatened blow he saw right plain
 No tempered armor could his life protect,
 He leapt aside, the stroke fell down in vain,
-Against a pillar near a bridge erect.
-Thence flaming fire and thousand sparks outstart,
-And kill with fear the coward Pagan’s heart.
+Against a pillar near a bridge erect. Thence flaming fire and thousand sparks outstart, And kill with fear the coward Pagan’s heart.
 
 XLIV
 Toward the bridge the fearful Paynim fled,
@@ -6293,9 +6059,7 @@ But all his forces were employed in vain,
 At last a voice gan to him loudly call,
 “Yield thee,” quoth it, “thou art Armida’s thrall.”
 
-XLVIII
-“Within this dungeon buried shalt thou spend
-The res’due of thy woful days and years;”
+XLVIII “Within this dungeon buried shalt thou spend The res’due of thy woful days and years;”
 The champion list not more with words contend,
 But in his heart kept close his griefs and fears,
 He blamed love, chance gan he reprehend,
@@ -6374,10 +6138,7 @@ And with his foot casts up the sand on height,
 Defying his strong foe to deadly fight:
 
 LVI
-Such was the Pagan’s fury, such his cry.
-A herald called he then, and thus he spake;
-“Go to the camp, and in my name, defy
-The man that combats for his Jesus’ sake;”
+Such was the Pagan’s fury, such his cry. A herald called he then, and thus he spake; “Go to the camp, and in my name, defy The man that combats for his Jesus’ sake;”
 This said, upon his steed he mounted high,
 And with him did his noble prisoner take,
 The town he thus forsook, and on the green
@@ -6423,11 +6184,7 @@ To hazard it even now that wants the heart,
 When this vile Pagan with his glorious boast
 Dishonors and defies Christ’s sacred host.
 
-LXI
-“But let my camp sit still in peace and rest,
-And my life’s hazard at their ease behold.
-Come bring me here my fairest arms and best;”
-And they were brought sooner than could be told.
+LXI “But let my camp sit still in peace and rest, And my life’s hazard at their ease behold. Come bring me here my fairest arms and best;” And they were brought sooner than could be told.
 But gentle Raymond in his aged breast,
 Who had mature advice, and counsel old,
 Than whom in all the camp were none or few
@@ -6513,9 +6270,7 @@ Reserve thyself till greater need us bind,
 And let the rest each one write down his name,
 And see whom Fortune chooseth to this game,—
 
-LXX
-“Or rather see whom God’s high judgement taketh,
-To whom is chance, and fate, and fortune slave.”
+LXX “Or rather see whom God’s high judgement taketh, To whom is chance, and fate, and fortune slave.”
 Raymond his earnest suit not yet forsaketh,
 His name writ with the residue would he have,
 Godfrey himself in his bright helmet shaketh
@@ -6669,9 +6424,7 @@ The Pagan cast a scornful smile and said,
 His looks late seemed to make high heaven afraid;
 But now for dread he is or dead or fled;
 But whe’er earth’s centre or the deep sea made
-His lurking hole, it should not save his head.”
-“Thou liest,” he says, “to say so brave a knight
-Is fled from thee, who thee exceeds in might.”
+His lurking hole, it should not save his head.” “Thou liest,” he says, “to say so brave a knight Is fled from thee, who thee exceeds in might.”
 
 LXXXVI
 The angry Pagan said, “I have not spilt
@@ -6763,8 +6516,7 @@ Unweaponed, still stood he in the field;
 His noble heart esteemed the glory light,
 At such advantage if he slew the knight.
 
-XCV
-“Go fetch,” he would have said, “another blade,”
+XCV “Go fetch,” he would have said, “another blade,”
 When in his heart a better thought arose,
 How for Christ’s glory he was champion made,
 How Godfrey had him to this combat chose,
@@ -6793,9 +6545,7 @@ His wrath, his ire, his great desire to win,
 Against his foe together all he bent,
 And heaven and fortune furthered his intent.
 
-XCVIII
-But he, whose courage for no peril fails,
-Well armed, and better hearted, scorns his power.
+XCVIII But he, whose courage for no peril fails, Well armed, and better hearted, scorns his power.
 Like a tall ship when spent are all her sails,
 Which still resists the rage of storm and shower,
 Whose mighty ribs fast bound with bands and nails,
@@ -6888,10 +6638,7 @@ Argantes nimbly leapt amid the throng,
 And from a soldier wrung an iron mace,
 And breaking through the ranks and ranges long,
 Therewith he passage made himself and place,
-Raymond he sought, the thickest press among.
-To take revenge for late received disgrace,
-A greedy wolf he seemed, and would assuage
-With Raymond’s blood his hunger and his rage.
+Raymond he sought, the thickest press among. To take revenge for late received disgrace, A greedy wolf he seemed, and would assuage With Raymond’s blood his hunger and his rage.
 
 CVIII
 The way he found not easy as he would,
@@ -6979,9 +6726,7 @@ Of shadows dark, was hid from mortal eye,
 And hell’s grim blackness did bright skies assail;
 On every side the fiery lightnings fly,
 The thunders roar, the streaming rain and hail
-Pour down and make that sea which erst was dry.
-The tempests rend the oaks and cedars brake,
-And make not trees but rocks and mountains shake.
+Pour down and make that sea which erst was dry. The tempests rend the oaks and cedars brake, And make not trees but rocks and mountains shake.
 
 CXVII
 The rain, the lightning, and the raging wind,
@@ -7054,8 +6799,6 @@ Wind, thunder, rain, all gave a dreadful sound,
 And with that music deafed the trembling ground.
 
 
-
-
 EIGHTH BOOK
 
 
@@ -7099,11 +6842,7 @@ The English, Switzer, and Italian band,
 Great tumult move, make brawls and quarrels rife,
 Set all the camp on uproar and at strife.
 
-IV
-“This act beseems thee well, and of the deed
-Much may’st thou boast before our lord and king.”
-Thus said the sprite.  Persuasion small did need,
-The monster grants to undertake the thing.
+IV “This act beseems thee well, and of the deed Much may’st thou boast before our lord and king.” Thus said the sprite.  Persuasion small did need, The monster grants to undertake the thing.
 Meanwhile the knight, whose coming thus they dread,
 Before the camp his weary limbs doth bring,
 And well-nigh breathless, “Warriors bold,” he cried,
@@ -7116,8 +6855,7 @@ The man fell lowly down upon his knee,
 And kissed the hand that made proud Babel tremble;
 “Right puissant lord, whose valiant acts,” quoth he,
 “The sands and stars in number best resemble,
-Would God some gladder news I might unfold,”
-And there he paused, and sighed; then thus he told:
+Would God some gladder news I might unfold,” And there he paused, and sighed; then thus he told:
 
 VI
 “Sweno, the King of Denmark’s only heir,
@@ -7179,9 +6917,7 @@ Lest this last work without his help be wrought:
 In this his doubt, in this his danger lies,
 No hazard else he fears, no peril spies.
 
-XII
-“Thus hasting on, he hasted on his death,
-Death that to him and us was fatal guide.
+XII “Thus hasting on, he hasted on his death, Death that to him and us was fatal guide.
 The rising morn appeared yet aneath,
 When he and we were armed, and fit to ride,
 The nearest way seemed best, o’er hold and heath
@@ -7345,9 +7081,7 @@ Upon my corse, with broad our-stretched hand,
 And mumbled hymns and psalms and holy things,
 Which I could neither hear nor understand;
 ‘Arise,’ quoth they, with that as I had wings,
-All whole and sound I leaped up from the land.
-Oh miracle, sweet, gentle, strange and true!
-My limbs new strength received, and vigor new.
+All whole and sound I leaped up from the land. Oh miracle, sweet, gentle, strange and true! My limbs new strength received, and vigor new.
 
 XXIX
 “I gazed on them like one whose heart denieth
@@ -7409,8 +7143,7 @@ That of the Pagans’ blood he drunk his share,
 And blusheth still he could not save his lord,
 Rich, strong and sharp, was never better sword.
 
-XXXV
-“‘Heaven, therefore, will not, though the prince be slain,
+XXXV “‘Heaven, therefore, will not, though the prince be slain,
 Who used erst to wield this precious brand
 That so brave blade unused should remain;
 But that it pass from strong to stronger hand,
@@ -7419,9 +7152,7 @@ And longer shall in grace of fortune stand,
 And with the same shall bitter vengeance take
 On him that Sweno slew, for Sweno’s sake.
 
-XXXVI
-“‘Great Solyman killed Sweno, Solyman
-For Sweno’s sake, upon this sword must die.
+XXXVI “‘Great Solyman killed Sweno, Solyman For Sweno’s sake, upon this sword must die.
 Here, take the blade, and with it haste thee than
 Thither where Godfrey doth encamped lie,
 And fear not thou that any shall or can
@@ -7535,9 +7266,7 @@ A tender pity in each softened mind,
 Behold returned home with all they caught
 The bands that were to forage late assigned,
 And with them in abundance great they brought
-Both flocks and herds of every sort and kind.
-And corn, although not much, and hay to feed
-Their noble steeds and coursers when they need.
+Both flocks and herds of every sort and kind. And corn, although not much, and hay to feed Their noble steeds and coursers when they need.
 
 XLVIII
 They also brought of misadventure sad
@@ -7545,9 +7274,7 @@ Tokens and signs, seemed too apparent true,
 Rinaldo’s armor, frushed and hacked they had,
 Oft pierced through, with blood besmeared new;
 About the camp, for always rumors bad
-Are farthest spread, these woful tidings flew.
-Thither assembled straight both high and low,
-Longing to see what they were loth to know.
+Are farthest spread, these woful tidings flew. Thither assembled straight both high and low, Longing to see what they were loth to know.
 
 XLIX
 His heavy hauberk was both seen and known,
@@ -7609,9 +7336,7 @@ A head but late cut off with murdering blade,
 The face was fair and young, and on the chin
 No sign of heard to bud did yet begin.
 
-LV
-“And how in sindal wrapt away he bore
-That head with him hung at his saddle-bow.
+LV “And how in sindal wrapt away he bore That head with him hung at his saddle-bow.
 And how the murtherers by the arms they wore,
 For soldiers of our camp he well did know;
 The carcass I disarmed and weeping sore,
@@ -7619,9 +7344,7 @@ Because I guessed who should that harness owe,
 Away I brought it, but first order gave,
 That noble body should be laid in grave.
 
-LVI
-“But if it be his trunk whom I believe,
-A nobler tomb his worth deserveth well.”
+LVI “But if it be his trunk whom I believe, A nobler tomb his worth deserveth well.”
 This said, good Aliprando took his leave,
 Of certain troth he had no more to tell,
 Sore sighed the duke, so did these news him grieve,
@@ -7649,8 +7372,7 @@ He filled with blood, and robberies day and night
 Until to Asia’s wars at last he came,
 And boldly there he served, and purchased fame.
 
-LIX
-He closed his eyes at last when day drew near.
+LIX He closed his eyes at last when day drew near.
 Yet slept he not, but senseless lay opprest
 With strange amazedness and sudden fear
 Which false Alecto breathed in his breast,
@@ -7679,9 +7401,7 @@ If in thy strength thou trust, thy strength that ends
 All hard assays, fly not, first with his blood
 Appease my ghost wandering by Lethe flood;
 
-LXII
-“I will thy weapon whet, inflame thine ire,
-Arm thy right hand, and strengthen every part.”
+LXII “I will thy weapon whet, inflame thine ire, Arm thy right hand, and strengthen every part.”
 This said; even while she spake she did inspire
 With fury, rage, and wrath his troubled heart:
 The man awaked, and from his eyes like fire
@@ -7745,9 +7465,7 @@ Will not consent herein we be beguiled,
 This night I saw his murdered sprite appear,
 Pale, sad and wan, with wounds and blood defiled,
 A spectacle full both of grief and fear;
-Godfrey, for murdering him, the ghost reviled.
-I saw it was no dream, before mine eyes,
-Howe’er I look, still, still methinks it flies.
+Godfrey, for murdering him, the ghost reviled. I saw it was no dream, before mine eyes, Howe’er I look, still, still methinks it flies.
 
 LXIX
 “What shall we do?  shall we be governed still
@@ -7773,11 +7491,7 @@ LXXI
 “I will, I will, if your courageous force,
 Dareth so much as it can well perform,
 Tear out his cursed heart without remorse,
-The nest of treason false and guile enorm.”
-Thus spake the angry knight with headlong course;
-The rest him followed with a furious storm,
-“Arm, arm.” they cried, to arms the soldiers ran.
-And as they run, “Arm, arm,” cried every man.
+The nest of treason false and guile enorm.” Thus spake the angry knight with headlong course; The rest him followed with a furious storm, “Arm, arm.” they cried, to arms the soldiers ran. And as they run, “Arm, arm,” cried every man.
 
 LXXII
 Mongst them Alecto strowed wasteful fire,
@@ -7909,17 +7623,12 @@ From which distilling fell the lukewarm blood,
 The blood pardie of many a realm and town,
 Whereon the Lord his wrath had poured down.
 
-LXXXV
-Thus was the tumult, without bloodshed, ended.
-Their arms laid down, strife into exile sent.
-Godfrey his thoughts to greater actions bended.
+LXXXV Thus was the tumult, without bloodshed, ended. Their arms laid down, strife into exile sent. Godfrey his thoughts to greater actions bended.
 And homeward to his rich pavilion went,
 For to assault the fortress he intended
 Before the second or third day were spent;
 Meanwhile his timber wrought he oft surveyed
 Whereof his ram and engines great he made.
-
-
 
 
 NINTH BOOK
@@ -7941,9 +7650,7 @@ Who saw these tumults done and tempest spent,
 Gainst stream of grace who ever strove to swim
 And all her thoughts against Heaven’s wisdom bent,
 Departed now, bright Titan’s beams were dim
-And fruitful lands waxed barren as she went.
-She sought the rest of her infernal crew,
-New storms to raise, new broils, and tumults new.
+And fruitful lands waxed barren as she went. She sought the rest of her infernal crew, New storms to raise, new broils, and tumults new.
 
 II
 She, that well wist her sisters had enticed,
@@ -8041,9 +7748,7 @@ From these ill-armed and worse-hearted bands,
 He thinks this people, used to rob and spoil,
 To such exploit dares not lift up their hands;
 Up then and with thy courage put to foil
-This fearless camp, while thus secure it stands.”
-This said, her poison in his breast she hides,
-And then to shapeless air unseen she glides.
+This fearless camp, while thus secure it stands.” This said, her poison in his breast she hides, And then to shapeless air unseen she glides.
 
 XII
 The Soldan cried, “O thou which in my thought
@@ -8121,9 +7826,7 @@ Into their camp, and on their bodies slain
 We will pass o’er their rampire and their wall;
 This blade, as scythes cut down the fields of grain,
 Shall cut them so, Christ’s kingdom now shall fall,
-Asia her freedom, you shall praise obtain.”
-Thus he inflamed his soldiers to the fight,
-And led them on through silence of the night.
+Asia her freedom, you shall praise obtain.” Thus he inflamed his soldiers to the fight, And led them on through silence of the night.
 
 XX
 The sentinel by starlight, lo, descried
@@ -8251,9 +7954,7 @@ To hold him up stretched forth his friendly arm,
 Oh foolish kindness, and oh pity vain,
 To add our proper loss, to other’s harm!
 The prince let fall his sword, and cut in twain
-About his brother twined, the child’s weak arm.
-Down from their saddles both together slide,
-Together mourned they, and together died.
+About his brother twined, the child’s weak arm. Down from their saddles both together slide, Together mourned they, and together died.
 
 XXXIII
 That done, Sabino’s lance with nimble force
@@ -8415,9 +8116,7 @@ He broke their ranks, behind, beside, before,
 And, where he goes, under his feet he treads
 The armed Saracens, and barbed steeds.
 
-XLIX
-This slaughter-house of angry Mars he passed,
-Where thousands dead, half-dead, and dying were.
+XLIX This slaughter-house of angry Mars he passed, Where thousands dead, half-dead, and dying were.
 The hardy Soldan saw him come in haste,
 Yet neither stepped aside nor shrunk for fear,
 But busked him bold to fight, aloft he cast
@@ -8431,9 +8130,7 @@ For Asia’s mighty empire, who can tell
 With how strange force their cruel blows they drove?
 How sore their combat was?  how fierce, how fell?
 Great deeds they wrought, each other’s harness clove;
-Yet still in darkness, more the ruth, they dwell.
-The night their acts her black veil covered under,
-Their acts whereat the sun, the world might wonder.
+Yet still in darkness, more the ruth, they dwell. The night their acts her black veil covered under, Their acts whereat the sun, the world might wonder.
 
 LI
 The Christians by their guide’s ensample hearted,
@@ -8892,8 +8589,7 @@ But when to climb the other hill they gan,
 Old Aladine came fiercely to their aid:
 On that steep brae Lord Guelpho would not than
 Hazard his folk, but there his soldiers stayed,
-And safe within the city’s walls the king.
-The relics small of that sharp fight did bring:
+And safe within the city’s walls the king. The relics small of that sharp fight did bring:
 
 XCVII
 Meanwhile the Soldan in this latest charge
@@ -8924,8 +8620,6 @@ For, as my wrongs, my wrath etern shall be,
 At every hour the bow of war new bent,
 I will rise again, a foe, fierce, bold,
 Though dead, though slain, though burnt to ashes cold.”
-
-
 
 
 TENTH BOOK
@@ -9035,11 +8729,7 @@ X
 “I am the man of thine intent,” quoth he,
 “And purpose new that sure conjecture hath,
 And better than thou weenest know I thee:
-I proffer thee my service and my faith.
-My speeches therefore sharp and biting be,
-Because quick words the whetstones are of wrath,—
-Accept in gree, my lord, the words I spoke,
-As spurs thine ire and courage to provoke.
+I proffer thee my service and my faith. My speeches therefore sharp and biting be, Because quick words the whetstones are of wrath,— Accept in gree, my lord, the words I spoke, As spurs thine ire and courage to provoke.
 
 XI
 “But now to visit Egypt’s mighty king,
@@ -9057,9 +8747,7 @@ With Christian arms hemmed in on every side,
 Withouten battle, fight, or stroke at all,
 Even at noonday, I will you safely guide,
 Where you delight, rejoice, and glory shall
-In perils great to see your prowess tried.
-That noble town you may preserve and shield,
-Till Egypt’s host come to renew the field.”
+In perils great to see your prowess tried. That noble town you may preserve and shield, Till Egypt’s host come to renew the field.”
 
 XIII
 While thus he parleyed, of this aged guest
@@ -9166,10 +8854,7 @@ XXIII
 Shall overthrown in dust and ashes lie,
 Their woful remnant in an angle strait
 Compassed with sea themselves shall fortify,
-From thee shall spring this lord of war and fate.”
-Whereto great Solyman gan thus reply:
-“O happy man to so great praise ybore!”
-Thus he rejoiced, but yet envied more;
+From thee shall spring this lord of war and fate.” Whereto great Solyman gan thus reply: “O happy man to so great praise ybore!” Thus he rejoiced, but yet envied more;
 
 XXIV
 And said, “Let chance with good or bad aspect
@@ -9177,9 +8862,7 @@ Upon me look as sacred Heaven’s decree,
 This heart to her I never will subject,
 Nor ever conquered shall she look on me;
 The moon her chariot shall awry direct
-Ere from this course I will diverted be.”
-While thus he spake, it seemed he breathed fire,
-So fierce his courage was, so hot his ire.
+Ere from this course I will diverted be.” While thus he spake, it seemed he breathed fire, So fierce his courage was, so hot his ire.
 
 XXV
 Thus talked they, till they arrived been
@@ -9191,8 +8874,7 @@ On that sad book his shame and loss he lead,
 Ah, with what grief his men, his friends he found;
 And standards proud, inglorious lie on ground!
 
-XXVI
-And saw one visage of some well-known friend.
+XXVI And saw one visage of some well-known friend.
 In foul despite, a rascal Frenchman tread,
 And there another ragged peasant rend
 The arms and garments from some champion dead,
@@ -9211,10 +8893,7 @@ Toward a hill on drove the aged sire,
 And hasting forward up the bank they pass,
 Till far behind the Christian leaguer was.
 
-XXVIII
-There they alight and took their way on foot,
-The empty chariot vanished out of sight,
-Yet still the cloud environed them about.
+XXVIII There they alight and took their way on foot, The empty chariot vanished out of sight, Yet still the cloud environed them about.
 At their left hand down went they from the height
 Of Sion’s Hill, till they approached the route
 On that side where to west he looketh right,
@@ -9321,9 +9000,7 @@ To waken up each dull and fearful sprite,
 And make our hearts resolved to all assays,
 To win with honor, or to die with praise.”
 
-XXXIX
-Thus much Argantes said, and said no more,
-As if the case were clear of which he spoke.
+XXXIX Thus much Argantes said, and said no more, As if the case were clear of which he spoke.
 Orcano rose, of princely stem ybore,
 Whose presence ’mongst them bore a mighty stroke,
 A man esteemed well in arms of yore,
@@ -9421,9 +9098,7 @@ And gainst his will wrapt in the cloud he stayed,
 Whom Ismen thus bespake, “How can you bear
 These words, my lord?  or these reproaches hear?”
 
-XLIX
-“Oh, let me speak,” quoth he, “with ire and scorn
-I burn, and gains, my will thus hid I stay!”
+XLIX “Oh, let me speak,” quoth he, “with ire and scorn I burn, and gains, my will thus hid I stay!”
 This said, the smoky cloud was cleft and torn,
 Which like a veil upon them stretched lay,
 And up to open heaven forthwith was borne,
@@ -9636,10 +9311,7 @@ LXX
 Within short while Prince Tancred thither came,
 And was unwares surprised in the trap:
 But there short while we stayed, the wily dame
-In other folds our mischiefs would upwrap.
-From Hidraort an hundred horsemen came,
-Whose guide, a baron bold to Egypt’s king,
-Should us disarmed and bound in fetters bring.
+In other folds our mischiefs would upwrap. From Hidraort an hundred horsemen came, Whose guide, a baron bold to Egypt’s king, Should us disarmed and bound in fetters bring.
 
 LXXI
 “Now on our way, the way to death we ride,
@@ -9647,9 +9319,7 @@ But Providence Divine thus for us wrought,
 Rinaldo, whose high virtue is his guide
 To great exploits, exceeding human thought,
 Met us, and all at once our guard defied,
-And ere he left the fight to earth them brought.
-And in their harness armed us in the place,
-Which late were ours, before our late disgrace.
+And ere he left the fight to earth them brought. And in their harness armed us in the place, Which late were ours, before our late disgrace.
 
 LXXII
 “I and all these the hardy champion knew,
@@ -9711,17 +9381,11 @@ Then lure her home, for on her presence hings
 The happy end of this great enterprise,
 So Heaven decrees, and so command the skies.”
 
-LXXVIII
-These words of his of Prince Rinaldo’s death
-Out of their troubled hearts, the fear had rased;
-In all this joy yet Godfrey smiled uneath.
-In his wise thought such care and heed was placed.
+LXXVIII These words of his of Prince Rinaldo’s death Out of their troubled hearts, the fear had rased; In all this joy yet Godfrey smiled uneath. In his wise thought such care and heed was placed.
 But now from deeps of regions underneath
 Night’s veil arose, and sun’s bright lustre chased,
 When all full sweetly in their cabins slept,
 Save he, whose thoughts his eyes still open kept.
-
-
 
 
 ELEVENTH BOOK
@@ -9753,9 +9417,7 @@ The aid, assistance, and the help obtain
 Of all the blessed of the heavenly rout,
 With whose support you conquest sure may gain;
 First let the priests before thine armies stout
-With sacred hymns their holy voices strain.
-And thou and all thy lords and peers with thee,
-Of godliness and faith examples be.”
+With sacred hymns their holy voices strain. And thou and all thy lords and peers with thee, Of godliness and faith examples be.”
 
 III
 Thus spake the hermit grave in words severe:
@@ -9932,9 +9594,7 @@ And with their cry to arm them all begin.
 Godfrey arose, that day he laid aside
 His hauberk strong he wonts to combat in,
 And donned a breastplate fair, of proof untried,
-Such one as footmen use, light, easy, thin.
-Scantly the warlord thus clothed had his gromes,
-When aged Raymond to his presence comes.
+Such one as footmen use, light, easy, thin. Scantly the warlord thus clothed had his gromes, When aged Raymond to his presence comes.
 
 XXI
 And furnished to us when he the man beheld,
@@ -10006,9 +9666,7 @@ At whose stern looks the French to quake begun,
 Clorinda on the corner tower alone,
 In silver arms like rising Cynthia shone.
 
-XXVIII
-Her rattling quiver at her shoulders hung,
-Therein a flash of arrows feathered weel.
+XXVIII Her rattling quiver at her shoulders hung, Therein a flash of arrows feathered weel.
 In her left hand her bow was bended strong,
 Therein a shaft headed with mortal steel,
 So fit to shoot she singled forth among
@@ -10030,9 +9688,7 @@ XXX
 “O Macon, break in twain the steeled lance
 On wicked Godfrey with thy righteous hands,
 Against thy name he doth his arm advance,
-His rebel blood pour out upon these sands;”
-These cries within his ears no enterance
-Could find, for naught he hears, naught understands.
+His rebel blood pour out upon these sands;” These cries within his ears no enterance Could find, for naught he hears, naught understands.
 While thus the town for her defence ordains,
 His armies Godfrey ordereth on the plains;
 
@@ -10086,9 +9742,7 @@ As from some engine great it had been shot,
 It broke his helm, he tumbled from the height,
 The strong Circassian cast that wondrous weight;
 
-XXXVI
-Not mortal was the blow, yet with the fall
-On earth sore bruised the man lay in a swoon.
+XXXVI Not mortal was the blow, yet with the fall On earth sore bruised the man lay in a swoon.
 Argantes gan with boasting words to call,
 “Who cometh next?  this first is tumbled down,
 Come, hardy soldiers, come, assault this wall,
@@ -10303,8 +9957,7 @@ Courage increased in their adverse part,
 Wrath in their hearts, and vigor in their hands:
 Valor, success, strength, hardiness and art,
 Failed in the princes of the western lands,
-Their swords were blunt, faint was their trumpet’s blast,
-Their sun was set, or else with clouds o’ercast.
+Their swords were blunt, faint was their trumpet’s blast, Their sun was set, or else with clouds o’ercast.
 
 LVIII
 Upon the bulwarks now appeared bold
@@ -10312,9 +9965,7 @@ That fearful band that late for dread was fled!
 The women that Clorinda’s strength behold,
 Their country’s love to war encouraged,
 They weapons got, and fight like men they would,
-Their gowns tucked up, their locks were loose and spread,
-Sharp darts they cast, and without dread or fear,
-Exposed their breasts to save their fortress dear.
+Their gowns tucked up, their locks were loose and spread, Sharp darts they cast, and without dread or fear, Exposed their breasts to save their fortress dear.
 
 LIX
 But that which most dismayed the Christian knights,
@@ -10402,9 +10053,7 @@ Grave exhortations to his bold Latines,
 When of these knights the wondrous acts he spied,
 And saw the champions with their burning pines,
 He left his talk, and thither forthwith hied,
-To stop the rage of those fell Saracines.
-And with such force the fight he there renewed,
-That now they fled and lost who late pursued.
+To stop the rage of those fell Saracines. And with such force the fight he there renewed, That now they fled and lost who late pursued.
 
 LXVIII
 Thus changed the state and fortune of the fray,
@@ -10422,9 +10071,7 @@ Of that unlucky hurt to make him sound,
 And to lay ope the depth thereof to sight,
 He willed them open, search and lance the wound,
 “Send me again,” quoth he, “to end this fight,
-Before the sun be sunken under ground;”
-And leaning on a broken spear, he thrust
-His leg straight out, to him that cure it must.
+Before the sun be sunken under ground;” And leaning on a broken spear, he thrust His leg straight out, to him that cure it must.
 
 LXX
 Erotimus, born on the banks of Po,
@@ -10597,20 +10244,14 @@ A thousand lights about the tower they view,
 And what they wrought all night both saw and knew.
 
 
-
-
 TWELFTH BOOK
 
 
-THE ARGUMENT.
-Clorinda hears her eunuch old report
-Her birth, her offspring, and her native land;
-Disguised she fireth Godfrey’s rolling fort.
+THE ARGUMENT. Clorinda hears her eunuch old report Her birth, her offspring, and her native land; Disguised she fireth Godfrey’s rolling fort.
 The burned piece falls smoking on the sand:
 With Tancred long unknown in desperate sort
 She fights, and falls through pierced with his brand:
-Christened she dies; with sighs, with plaints and tears.
-He wails her death; Argant revengement swears.
+Christened she dies; with sighs, with plaints and tears. He wails her death; Argant revengement swears.
 
 I
 Now in dark night was all the world embarred;
@@ -10646,9 +10287,7 @@ IV
 “On birds and beasts in forests wild that feed
 It were more fit mine arrows to bestow,
 Than for a feeble maid in warlike deed
-With strong and hardy knights herself to show.
-Why take I not again my virgin’s weed,
-And spend my days in secret cell unknow?”
+With strong and hardy knights herself to show. Why take I not again my virgin’s weed, And spend my days in secret cell unknow?”
 Thus thought, thus mused, thus devised the maid,
 And turning to the knight, at last thus said:
 
@@ -10682,9 +10321,7 @@ Behold thy flames and fires tossed in the wind,
 No, no, thy fellow have I been in arms,
 And will be still, in praise, in death, in harms.
 
-VIII
-“This heart of mine death’s bitter stroke despiseth,
-For praise this life, for glory take this breath.”
+VIII “This heart of mine death’s bitter stroke despiseth, For praise this life, for glory take this breath.”
 “My soul and more,” quoth she, “thy friendship prizeth,
 For this thy proffered aid required uneath,
 I but a woman am, no loss ariseth
@@ -10706,9 +10343,7 @@ X
 “Argantes here, this bold and hardy knight,
 Will undertake to burn the wondrous tower,
 And I with him, only we stay till night
-Bury in sleep our foes at deadest hour.”
-The king with that cast up his hands on height,
-The tears for joy upon his cheeks down pour.
+Bury in sleep our foes at deadest hour.” The king with that cast up his hands on height, The tears for joy upon his cheeks down pour.
 “Praised,” quoth he, “be Macon whom we serve,
 This land I see he keeps and will preserve:
 
@@ -10768,9 +10403,7 @@ With ready bands besides the gate attend,
 That when this couple have performed the thing,
 And shall again their footsteps homeward bend,
 From their strong foes upon them following
-Thou may’st them keep, preserve, save and defend:”
-Thus said the king, “The Soldan must consent,”
-Silent remained the Turk, and discontent.
+Thou may’st them keep, preserve, save and defend:” Thus said the king, “The Soldan must consent,” Silent remained the Turk, and discontent.
 
 XVII
 Then Ismen said, “You twain that undertake
@@ -10778,9 +10411,7 @@ This hard attempt, awhile I pray you stay,
 Till I a wildfire of fine temper make,
 That this great engine burn to ashes may;
 Haply the guard that now doth watch and wake,
-Will then lie tumbled sleeping on the lay;”
-Thus they conclude, and in their chambers sit,
-To wait the time for this adventure fit.
+Will then lie tumbled sleeping on the lay;” Thus they conclude, and in their chambers sit, To wait the time for this adventure fit.
 
 XVIII
 Clorinda there her silver arms off rent,
@@ -10809,8 +10440,7 @@ That my weak age, nor tears that down distil,
 Not humble suit, nor plaint, thou list regard;
 Attend awhile, strange things unfold I will,
 Hear both thy birth and high estate declared;
-Follow my counsel, or thy will that done,”
-She sat to hear, the eunuch thus begun:
+Follow my counsel, or thy will that done,” She sat to hear, the eunuch thus begun:
 
 XXI
 “Senapus ruled, and yet perchance doth reign
@@ -10839,8 +10469,7 @@ As white as snow there stood a virgin bound,
 Besides a dragon fierce, a champion bold
 The monster did with poignant spear through wound,
 The gored beast lay dead upon the mould;
-The gentle queen before this image laid.
-She plained, she mourned, she wept, she sighed, she prayed:
+The gentle queen before this image laid. She plained, she mourned, she wept, she sighed, she prayed:
 
 XXIV
 “At last with child she proved, and forth she brought,
@@ -10862,9 +10491,7 @@ She gave thee, ere thou couldest christened be,
 Nor could I since find means thee to baptize,
 In Pagan lands thou knowest it’s not the guise.
 
-XXVI
-“To me she gave thee, and she wept withal,
-To foster thee in some far distant place.
+XXVI “To me she gave thee, and she wept withal, To foster thee in some far distant place.
 Who can her griefs and plaints to reckoning call,
 How oft she swooned at the last embrace:
 Her streaming tears amid her kisses fall,
@@ -10888,9 +10515,7 @@ That sacred virgin from the serpent old,
 If on thine altars I have offerings placed,
 And sacrificed myrrh, frankincense and gold,
 On this poor child thy heavenly looks down cast,
-With gracious eye this silly babe behold;’
-This said, her strength and living sprite was fled,
-She sighed, she groaned, she swooned in her bed.
+With gracious eye this silly babe behold;’ This said, her strength and living sprite was fled, She sighed, she groaned, she swooned in her bed.
 
 XXIX
 “Weeping I took thee, in a little chest,
@@ -10916,11 +10541,7 @@ XXXI
 “Her fearful muzzle full of dreadful threat,
 In thy weak hand thou took’st withouten dread;
 The gentle beast with milk-outstretched teat,
-As nurses’ custom, proffered thee to feed.
-As one that wondereth on some marvel great,
-I stood this while amazed at the deed.
-When thee she saw well filled and satisfied,
-Unto the woods again the tigress hied.
+As nurses’ custom, proffered thee to feed. As one that wondereth on some marvel great, I stood this while amazed at the deed. When thee she saw well filled and satisfied, Unto the woods again the tigress hied.
 
 XXXII
 “She gone, down from the tree I came in haste,
@@ -10972,11 +10593,7 @@ That charge this infant’s mother on thee laid,
 Baptize the child, high Heaven esteems her dear,
 And I her keeper will attend her near:
 
-XXXVII
-“‘I will her keep, defend, save and protect,
-I made the waters mild, the tigress tame,
-O wretch that heavenly warnings dost reject!’
-The warrior vanished having said the same.
+XXXVII “‘I will her keep, defend, save and protect, I made the waters mild, the tigress tame, O wretch that heavenly warnings dost reject!’ The warrior vanished having said the same.
 I rose and journeyed on my way direct
 When blushing morn from Tithon’s bed forth came,
 But for my faith is true and sure I ween,
@@ -10999,8 +10616,7 @@ The self-same vision did again appear,
 With stormy wrathful looks, and thundering sound,
 ‘Villain,’ quoth he, ‘within short while thy dear
 Must change her life, and leave this sinful ground,
-Thine be the loss, the torment, and the care,’
-This said, he fled through skies, through clouds and air.
+Thine be the loss, the torment, and the care,’ This said, he fled through skies, through clouds and air.
 
 XL
 “Hear then my joy, my hope, my darling, hear,
@@ -11008,9 +10624,7 @@ High Heaven some dire misfortune threatened hath,
 Displeased pardie, because I did thee lere
 A lore repugnant to thy parents’ faith;
 Ah, for my sake, this bold attempt forbear;
-Put off these sable arms, appease thy wrath.”
-This said, he wept, she pensive stood and sad,
-Because like dream herself but lately had.
+Put off these sable arms, appease thy wrath.” This said, he wept, she pensive stood and sad, Because like dream herself but lately had.
 
 XLI
 With cheerful smile she answered him at last,
@@ -11039,8 +10653,7 @@ Unseen, unmarked, undescried, until
 Beside the engine close themselves they place,
 New courage there their swelling hearts did fill,
 Rage in their breasts, fury shown in their face,
-They yearned to blow the fire, and draw the sword.
-The watch descried them both, and gave the word.
+They yearned to blow the fire, and draw the sword. The watch descried them both, and gave the word.
 
 XLIV
 Silent they passed on, the watch begun
@@ -11237,10 +10850,7 @@ As Aegean seas when storms be calmed again
 That rolled their tumbling waves with troublous blasts,
 Do yet of tempests past some shows retain,
 And here and there their swelling billows casts;
-So, though their strength were gone and might were vain,
-Of their first fierceness still the fury lasts,
-Wherewith sustained, they to their tackling stood,
-And heaped wound on wound, and blood on blood.
+So, though their strength were gone and might were vain, Of their first fierceness still the fury lasts, Wherewith sustained, they to their tackling stood, And heaped wound on wound, and blood on blood.
 
 LXIV
 But now, alas, the fatal hour arrives
@@ -11299,8 +10909,7 @@ Her looks to heaven she cast, their eyes I trow
 Downward for pity bent both heaven and sun,
 Her naked hand she gave the knight, in show
 Of love and peace, her speech, alas, was done,
-And thus the virgin fell on endless sleep,—
-Love, Beauty, Virtue, for your darling weep!
+And thus the virgin fell on endless sleep,— Love, Beauty, Virtue, for your darling weep!
 
 LXX
 But when he saw her gentle soul was went,
@@ -11359,8 +10968,7 @@ This spiteful ray which still upbraideth me
 With that accursed deed I did this night,
 Ah, coward hand, afraid why should’st thou be;
 Thou instrument of death, shame and despite,
-Why should’st thou fear, with sharp and trenchant knife,
-To cut the thread of this blood-guilty life?
+Why should’st thou fear, with sharp and trenchant knife, To cut the thread of this blood-guilty life?
 
 LXXVI
 “Pierce through this bosom, and my cruel heart
@@ -11432,9 +11040,7 @@ Your pains have end, my torments never cease,
 O hands, O cruel eyes, accursed alike!
 You gave the wound, you gave them light to strike.
 
-LXXXIII
-“But thither now run forth my guilty blood,
-Whither my plaints, my sorrows cannot wend.”
+LXXXIII “But thither now run forth my guilty blood, Whither my plaints, my sorrows cannot wend.”
 He said no more, but, as his passion wood
 Inforced him, he gan to tear and rend
 His hair, his face, his wounds, a purple flood
@@ -11663,8 +11269,6 @@ For underneath his sword this boaster died
 Whom thus he scorned and threatened in his pride.
 
 
-
-
 THIRTEENTH BOOK
 
 
@@ -11754,12 +11358,9 @@ Numbered I give you them and truly told;
 As souls of men in bodies clothed be
 So every plant a sprite shall hide and hold,
 With trembling fear make all the Christians flee,
-When they presume to cut these cedars old:”
-This said, his charms he gan again repeat,
-Which none can say but they that use like feat.
+When they presume to cut these cedars old:” This said, his charms he gan again repeat, Which none can say but they that use like feat.
 
-IX
-At those strange speeches, still night’s splendent fires
+IX At those strange speeches, still night’s splendent fires
 Quenched their lights, and shrunk away for doubt,
 The feeble moon her silver beams retires,
 And wrapt her horns with folding clouds about,
@@ -11794,13 +11395,9 @@ The wizard to his king declared the feat,
 “My lord, let fear, let doubt and sorrow pass,
 Henceforth in safety stands your regal seat,
 Your foe, as he supposed, no mean now has
-To build again his rams and engines great:”
-And then he told at large from part to part,
-All what he late performed by wondrous art.
+To build again his rams and engines great:” And then he told at large from part to part, All what he late performed by wondrous art.
 
-XIII
-“Besides this help, another hap,” quoth he,
-“Will shortly chance that brings not profit small.
+XIII “Besides this help, another hap,” quoth he, “Will shortly chance that brings not profit small.
 Within few days Mars and the Sun I see
 Their fiery beams unite in Leo shall;
 And then extreme the scorching heat will be,
@@ -11945,8 +11542,7 @@ And with bright flames the wood environed all,
 That there no tree nor twist Alcasto got;
 The higher stretched the flames seemed bulwarks tall,
 Castles and turrets full of fiery shot,
-With slings and engines strong of every sort;—
-What mortal wight durst scale so strange a fort?
+With slings and engines strong of every sort;— What mortal wight durst scale so strange a fort?
 
 XXVIII
 Oh what strange monsters on the battlement
@@ -11972,11 +11568,7 @@ XXX
 Godfredo called him, but he found delays
 And causes why he should his cabin keep,
 At length perforce he comes, but naught he says,
-Or talks like those that babble in their sleep.
-His shamefacedness to Godfrey plain bewrays
-His flight, so does his sighs and sadness deep:
-Whereat amazed, “What chance is this?” quoth he.
-“These witchcrafts strange or nature’s wonders be.
+Or talks like those that babble in their sleep. His shamefacedness to Godfrey plain bewrays His flight, so does his sighs and sadness deep: Whereat amazed, “What chance is this?” quoth he. “These witchcrafts strange or nature’s wonders be.
 
 XXXI
 “But if his courage any champion move
@@ -12018,13 +11610,7 @@ To hazard life before me none should be:
 But this exploit of no such weight I hold,
 For it to lose a prince or champion bold.
 
-XXXV
-But if I fly, what will the Pagans say?
-If I retire, who shall cut down this spring?
-Godfredo will attempt it every day.
-What if some other knight perform the thing?
-These flames uprisen to forestall my way
-Perchance more terror far than danger bring.
+XXXV But if I fly, what will the Pagans say? If I retire, who shall cut down this spring? Godfredo will attempt it every day. What if some other knight perform the thing? These flames uprisen to forestall my way Perchance more terror far than danger bring.
 But hap what shall;” this said, he forward stepped,
 And through the fire, oh wondrous boldness, leapt!
 
@@ -12353,9 +11939,7 @@ Tatine, that of this war was weary grown:
 “Why die we here,” quoth he, “slain without fight,
 Killed, not subdued, murdered, not overthrown?
 Upon the Frenchmen let the penance light
-Of Godfrey’s folly, let me save mine own,”
-And as he said, without farewell, the knight
-And all his comet stole away by night.
+Of Godfrey’s folly, let me save mine own,” And as he said, without farewell, the knight And all his comet stole away by night.
 
 LXIX
 His bad example many a troop prepares
@@ -12478,8 +12062,6 @@ Can storms appease, and times and seasons change,
 And conquer fortune, fate, and destiny strange.
 
 
-
-
 FOURTEENTH BOOK
 
 
@@ -12510,8 +12092,7 @@ But he whose Godhead heaven and earth doth sway,
 In his eternal light did watch and wake,
 And bent on Godfrey down the gracious ray
 Of his bright eye, still ope for Godfrey’s sake,
-To whom a silent dream the Lord down sent.
-Which told his will, his pleasure and intent.
+To whom a silent dream the Lord down sent. Which told his will, his pleasure and intent.
 
 III
 Far in the east, the golden gate beside
@@ -12559,9 +12140,7 @@ Lord Hugo smiled, “Not as you think,” quoth he,
 My spirit pure, and naked soul, you see,
 A citizen of this celestial hold:
 This place is heaven, and here a room for thee
-Prepared is among Christ’s champions bold:”
-“Ah when,” quoth he, “these mortal bonds unknit,
-Shall I in peace, in ease and rest there sit?”
+Prepared is among Christ’s champions bold:” “Ah when,” quoth he, “these mortal bonds unknit, Shall I in peace, in ease and rest there sit?”
 
 VIII
 Hugo replied, “Ere many years shall run,
@@ -12733,9 +12312,7 @@ Wher’er thy standard broad her cross outspreads,
 Oh, let his fame and praise spread far and wide,
 Be thou his lord, his teacher and his guidel”
 
-XXV
-Thus he entreated, and the rest approve
-His words, with friendly murmurs whispered low.
+XXV Thus he entreated, and the rest approve His words, with friendly murmurs whispered low.
 Godfrey as though their suit his mind did move
 To that whereon he never thought tell now,
 “How can my heart,” quoth he, “if you I love,
@@ -12899,9 +12476,7 @@ XLI
 And but you brought and guided are by me,
 Her sacred entrails could no wight invade;
 My palace shortly shall you splendent see,
-With glorious light, though built in night and shade.
-A Pagan was I born, but yet the Lord
-To grace, by baptism, hath my soul restored.
+With glorious light, though built in night and shade. A Pagan was I born, but yet the Lord To grace, by baptism, hath my soul restored.
 
 XLII
 “Nor yet by help of devil, or aid from hell,
@@ -12993,9 +12568,7 @@ And kept them since closed up in secret mew,
 Lastly, to Gaza-ward in bonds them sent,
 Whom young Rinaldo rescued as they went.
 
-LI
-“What chanced since I will at large declare,
-To you unknown, a story strange and true.
+LI “What chanced since I will at large declare, To you unknown, a story strange and true.
 When first her prey, got with such pain and care,
 Escaped and gone the witch perceived and knew,
 Her hands she wrung for grief, her clothes she tare,
@@ -13284,8 +12857,6 @@ There glad and full of thoughts he left his guests,
 And in his wonted bed the old man rests.
 
 
-
-
 FIFTEENTH BOOK
 
 
@@ -13355,9 +12926,7 @@ VI
 To which all tempest, storm, and wind obeys,
 All burdens light, benign is stream and tide:
 My lord, that rules your journeys and your ways,
-Hath sent me here, your servant and your guide.”
-This said, her shallop drove she gainst the sand,
-And anchor cast amid the steadfast land.
+Hath sent me here, your servant and your guide.” This said, her shallop drove she gainst the sand, And anchor cast amid the steadfast land.
 
 VII
 They entered in, her anchors she upwound,
@@ -13565,13 +13134,9 @@ Where thousand isles and kingdoms lie unknown,
 Not void of men as some have vainly thought,
 But peopled well, and wonned like your own;
 The land is fertile ground, but scant well wrought,
-Air wholesome, temperate sun, grass proudly grown.”
-“But,” quoth Ubaldo, “dame, I pray thee teach
-Of that hid world, what be the laws and speech?”
+Air wholesome, temperate sun, grass proudly grown.” “But,” quoth Ubaldo, “dame, I pray thee teach Of that hid world, what be the laws and speech?”
 
-XXVIII
-“As diverse be their nations,” answered she,
-“Their tongues, their rites, their laws so different are;
+XXVIII “As diverse be their nations,” answered she, “Their tongues, their rites, their laws so different are;
 Some pray to beasts, some to a stone or tree,
 Some to the earth, the sun, or morning star;
 Their meats unwholesome, vile, and hateful be,
@@ -13695,9 +13260,7 @@ It’s given to pass these seas, and there arrive
 Where in strong prison lies your knight imbarred,
 And of her prey you must the witch deprive:
 If further to aspire you be prepared,
-In vain gainst fate and Heaven’s decree you strive.”
-While thus she said, the first seen isle gave place,
-And high and rough the second showed his face.
+In vain gainst fate and Heaven’s decree you strive.” While thus she said, the first seen isle gave place, And high and rough the second showed his face.
 
 XLI
 They saw how eastward stretched in order long,
@@ -13859,15 +13422,12 @@ The bottom rich, and sands that golden been,
 And on the brims the silken grass aloft
 Proffered them seats, sweet, easy, fresh and soft.
 
-LVII
-“See here the stream of laughter, see the spring,”
+LVII “See here the stream of laughter, see the spring,”
 Quoth they, “of danger and of deadly pain,
 Here fond desire must by fair governing
 Be ruled, our lust bridled with wisdom’s rein,
 Our ears be stopped while these Sirens sing,
-Their notes enticing man to pleasure vain.”
-Thus passed they forward where the stream did make
-An ample pond, a large and spacious lake.
+Their notes enticing man to pleasure vain.” Thus passed they forward where the stream did make An ample pond, a large and spacious lake.
 
 LVIII
 There on a table was all dainty food
@@ -13960,8 +13520,6 @@ While in their stream the damsels dived sad,
 Ashamed, disgraced, for that repulse they had.
 
 
-
-
 SIXTEENTH BOOK
 
 
@@ -13989,11 +13547,7 @@ II
 The knights passed through the castle’s largest gate,
 Though round about an hundred ports there shine,
 The door-leaves framed of carved silver-plate,
-Upon their golden hinges turn and twine.
-They stayed to view this work of wit and state.
-The workmanship excelled the substance fine,
-For all the shapes in that rich metal wrought,
-Save speech, of living bodies wanted naught.
+Upon their golden hinges turn and twine. They stayed to view this work of wit and state. The workmanship excelled the substance fine, For all the shapes in that rich metal wrought, Save speech, of living bodies wanted naught.
 
 III
 Alcides there sat telling tales, and spun
@@ -14261,9 +13815,7 @@ Of their bright harness glistered in his eyes,
 His noble sprite awaked at that sight
 His blood began to warm, his heart to rise,
 Though, drunk with ease, devoid of wonted might
-On sleep till then his weakened virtue lies.
-Ubaldo forward stepped, and to him hield
-Of diamonds clear that pure and precious shield.
+On sleep till then his weakened virtue lies. Ubaldo forward stepped, and to him hield Of diamonds clear that pure and precious shield.
 
 XXX
 Upon the targe his looks amazed he bent,
@@ -14315,9 +13867,7 @@ Whence worthy anger shone, displeasure flamed,
 His nice attire in scorn he rent and tore,
 For of his bondage vile that witness bore;
 
-XXXV
-That done, he hasted from the charmed fort,
-And through the maze passed with his searchers twain.
+XXXV That done, he hasted from the charmed fort, And through the maze passed with his searchers twain.
 Armida of her mount and chiefest port
 Wondered to find the furious keeper slain,
 Awhile she feared, but she knew in short,
@@ -14325,8 +13875,7 @@ That her dear lord was fled, then saw she plain,
 Ah, woful sight!  how from her gates the man
 In haste, in fear, in wrath, in anger ran.
 
-XXXVI
-“Whither, O cruel!  leavest thou me alone?”
+XXXVI “Whither, O cruel!  leavest thou me alone?”
 She would have cried, her grief her speeches stayed,
 So that her woful words are backward gone,
 And in her heart a bitter echo made;
@@ -14465,11 +14014,7 @@ Will spare to strike thee, mine affection known,
 Lest me they wound, nor will sharp vengeance take
 On thee, for this despised beauty’s sake.
 
-L
-“O wretch!  dare I still vaunt, or help invoke
-From this poor beauty, scorned and disdained?”
-She said no more, her tears her speeches broke,
-Which from her eyes like streams from springs down rained:
+L “O wretch!  dare I still vaunt, or help invoke From this poor beauty, scorned and disdained?” She said no more, her tears her speeches broke, Which from her eyes like streams from springs down rained:
 She would have caught him by the hand or cloak,
 But he stepped backward, and himself restrained,
 Conquered his will, his heart ruth softened not,
@@ -14485,9 +14030,7 @@ The springing tears that to his eyes up came;
 But yet even there his plaints repressed were,
 And, as he could, he looked, and feigned cheer.
 
-LII
-“Madam,” quoth he, “for your distress I grieve,
-And would amend it, if I might or could.
+LII “Madam,” quoth he, “for your distress I grieve, And would amend it, if I might or could.
 From your wise heart that fond affection drive:
 I cannot hate nor scorn you though I would,
 I seek no vengeance, wrongs I all forgive,
@@ -14716,8 +14259,6 @@ Till she came there, where all the eastern bands,
 Their kings and princes, lay on Gaza’s sands.
 
 
-
-
 SEVENTEENTH BOOK
 
 
@@ -14801,8 +14342,7 @@ He sheathed his sword and laid aside his shield:
 But yet his warlike mind he laid not down,
 Nor his great thirst of rule, praise and renown,
 
-VIII
-But by his knights still cruel wars maintained.
+VIII But by his knights still cruel wars maintained.
 So wise his words, so quick his wit appears,
 That of the kingdom large o’er which he reigned,
 The charge seemed not too weighty for his years;
@@ -14915,11 +14455,7 @@ XIX
 The naked folk of Barca these succeed,
 Unarmed half, Alarcon led that band,
 That long in deserts lived, in extreme need,
-On spoils and preys purchased by strength of hand.
-To battle strong unfit, their king did lead
-His army next brought from Zumara land.
-Then he of Tripoli, for sudden fight
-And skirmish short, both ready, bold, and light.
+On spoils and preys purchased by strength of hand. To battle strong unfit, their king did lead His army next brought from Zumara land. Then he of Tripoli, for sudden fight And skirmish short, both ready, bold, and light.
 
 XX
 Two captains next brought forth their bands to show
@@ -15127,9 +14663,7 @@ Or harm they threaten against this camp of thine,
 That all that mischief fall upon my head,
 Theirs be the conquest, and the danger mine;
 And let them safe bring home their captain dead,
-Buried in pomp of triumph’s glorious shine.”
-He ceased, and then a murmur loud up went,
-With noise of joy and sound of instrument.
+Buried in pomp of triumph’s glorious shine.” He ceased, and then a murmur loud up went, With noise of joy and sound of instrument.
 
 XLI
 Amid the noise and shout uprose the king,
@@ -15151,8 +14685,7 @@ With stately pace and humble gestures, went;
 And as she could in looks in voice she strove
 Fierce, stern, bold, angry, and severe to prove.
 
-XLIII
-“Great Emperor, behold me here,” she said.
+XLIII “Great Emperor, behold me here,” she said.
 “For thee, my country, and my faith to fight,
 A dame, a virgin, but a royal maid;
 And worthy seems this war a princess hight,
@@ -15221,9 +14754,7 @@ Of thine artillery to feel the might;
 To wreak thine ire behold me prest and fit,
 I will his head cut off, and bring thee it.
 
-L
-“I will his heart with this sharp sword divide,
-And to the vultures cast his carcass out.”
+L “I will his heart with this sharp sword divide, And to the vultures cast his carcass out.”
 Thus threatened he, but Tisapherne envied
 To hear his glorious vaunt and boasting stout,
 And said, “But who art thou, that so great pride
@@ -15247,9 +14778,7 @@ At thy commands these knights should both appease,
 That gainst thy foe their courage hot as fire
 Thou may’st employ, both when and where you please,
 There all their power and force, and what desire
-They have to serve thee, may they show at ease.”
-The monarch held his peace when this was said,
-And they new proffer of their service made.
+They have to serve thee, may they show at ease.” The monarch held his peace when this was said, And they new proffer of their service made.
 
 LIII
 Nor they alone, but all that famous were
@@ -15297,9 +14826,7 @@ From the west shore their steps at last they twined,
 And lo, far off at last their eyes behold
 Something, they wist not what, that clearly shined
 With rays of silver and with beams of gold
-Which the dark folds of night’s black mantle lined.
-Forward they went and marched against the light,
-To see and find the thing that shone so bright.
+Which the dark folds of night’s black mantle lined. Forward they went and marched against the light, To see and find the thing that shone so bright.
 
 LVIII
 High on a tree they saw an armor new,
@@ -15441,11 +14968,7 @@ Oft spoileth right, fortune treads courage down,
 For there he died for his dear country’s sake,
 And of his father’s praise did so partake.
 
-LXXII
-With him died Alforisio, Azzo was
-With his dear brother into exile sent,
-But homeward they in arms again repass—
-The Herule king oppressed—from banishment.
+LXXII With him died Alforisio, Azzo was With his dear brother into exile sent, But homeward they in arms again repass— The Herule king oppressed—from banishment.
 His front through pierced with a dart, alas,
 Next them, of Est the Epaminondas went,
 That smiling seemed to cruel death to yield,
@@ -15537,9 +15060,7 @@ Sprung up as high, and blossomed fair above,
 Fornenst Lord Guelpho, Bertold issued out,
 With the sixth Azzo whom all virtues love;
 This was the pedigree of worthies stout,
-Who seemed in that bright shield to live and move.
-Rinaldo waked up and cheered his face,
-To see these worthies of his house and race.
+Who seemed in that bright shield to live and move. Rinaldo waked up and cheered his face, To see these worthies of his house and race.
 
 LXXXII
 To do like acts his courage wished and sought,
@@ -15702,8 +15223,6 @@ And starting from his throne and kingly seat
 To entertain them, rose Godfredo great.
 
 
-
-
 EIGHTEENTH BOOK
 
 
@@ -15802,10 +15321,7 @@ This said, the knight first with the witch unchaste
 His idle loves and follies vain lamented;
 Then kneeling low with heavy looks downcast,
 His other sins confessed and all repented,
-And meekly pardon craved for first and last.
-The hermit with his zeal was well contented,
-And said, “On yonder hill next morn go pray
-That turns his forehead gainst the morning ray.
+And meekly pardon craved for first and last. The hermit with his zeal was well contented, And said, “On yonder hill next morn go pray That turns his forehead gainst the morning ray.
 
 X
 “That done, march to the wood, whence each one brings
@@ -15914,8 +15430,7 @@ Which reaching out his stretched arms around,
 All the large desert in his bosom held,
 And through the grove one channel passage found;
 That in the wood; in that, the forest dwelled:
-Trees clad the streams; streams green those trees aye made
-And so exchanged their moisture and their shade.
+Trees clad the streams; streams green those trees aye made And so exchanged their moisture and their shade.
 
 XXI
 The knight some way sought out the flood to pass,
@@ -15933,9 +15448,7 @@ Like sudden brooks increased with molten snow,
 The billows fierce that tossed to and fro,
 The whirlpools sucked down to their bosoms low;
 But on he went to search for wonders mo,
-Through the thick trees there high and broad which grow,
-And in that forest huge and desert wide,
-The more he sought, more wonders still he spied.
+Through the thick trees there high and broad which grow, And in that forest huge and desert wide, The more he sought, more wonders still he spied.
 
 XXIII
 Whereso he stepped, it seemed the joyful ground
@@ -16003,9 +15516,7 @@ For love, for love of thee, faint, sick, distressed;
 Late black, late dreadful was this forest thick,
 Fit dwelling for sad folk with grief oppressed,
 See with thy coming how the branches quick
-Revived are, and in new blosoms dressed:”
-This was their song, and after, from it went
-First a sweet sound, and then the myrtle rent.
+Revived are, and in new blosoms dressed:” This was their song, and after, from it went First a sweet sound, and then the myrtle rent.
 
 XXX
 If antique times admired Silenus old
@@ -16033,9 +15544,7 @@ That golden bridge to entertain my foe,
 Nor opened flowers and fountains as you came,
 To welcome him with joy that brings me woe:
 Put off thy helm, rejoice me with the flame
-Of thy bright eyes, whence first my fires did grow.
-Kiss me, embrace me, if you further venture,
-Love keeps the gate, the fort is eath to enter.”
+Of thy bright eyes, whence first my fires did grow. Kiss me, embrace me, if you further venture, Love keeps the gate, the fort is eath to enter.”
 
 XXXIII
 Thus as she woos she rolls her rueful eyes
@@ -16277,9 +15786,7 @@ Naught can be added, from it taken naught:
 Yet this I further wish, that some were sent
 To spy their camp, their secret and intent,
 
-LVII
-“That may their number and their squadrons brave
-Describe, and through their tents disguised mask.”
+LVII “That may their number and their squadrons brave Describe, and through their tents disguised mask.”
 Quoth Tancred, “Lo, a subtle squire I have,
 A person fit to undertake this task,
 A man quick, ready, bold, sly to deceive,
@@ -16287,10 +15794,7 @@ To answer, wise, and well advised to ask;
 Well languaged, and that with time and place,
 Can change his look, his voice, his gait, his grace.”
 
-LVIII
-Sent for, he came, and when his lord him told
-What Godfrey’s pleasure was and what his own,
-He smiled and said forthwith he gladly would.
+LVIII Sent for, he came, and when his lord him told What Godfrey’s pleasure was and what his own, He smiled and said forthwith he gladly would.
 “I go,” quoth he, “careless what chance be thrown,
 And where encamped be these Pagans bold,
 Will walk in every tent a spy unknown,
@@ -16524,8 +16028,7 @@ That her broad side the tower wide open throws,
 Her joints were broke, her rafters cleft and split;
 But yet gainst every hap whence mischief grows,
 Prepared the piece, gainst such extremes made fit,
-Launch forth two scythes, sharp, cutting, long and broad
-And cut the ropes whereon the engine rode:
+Launch forth two scythes, sharp, cutting, long and broad And cut the ropes whereon the engine rode:
 
 LXXXII
 As an old rock, which age or stormy wind
@@ -16667,9 +16170,7 @@ Is clad, and crowned stands in kingly sort,
 Is Bishop Ademare, a blessed spirit,
 Blest for his faith, crowned for his death and merit.
 
-XCVI
-“But higher lift thy happy eyes, and view
-Where all the sacred hosts of Heaven appear.”
+XCVI “But higher lift thy happy eyes, and view Where all the sacred hosts of Heaven appear.”
 He looked, and saw where winged armies flew,
 Innumerable, pure, divine and clear;
 A battle round of squadrons three they show
@@ -16717,9 +16218,7 @@ Floods clap their hands, on mountains dance the pines,
 And Sion’s towers and sacred temples smile
 For their deliverance from that bondage vile.
 
-CI
-And now the armies reared the happy cry
-Of victory, glad, joyful, loud, and shrill.
+CI And now the armies reared the happy cry Of victory, glad, joyful, loud, and shrill.
 The hills resound, the echo showereth high,
 And Tancred bold, that fights and combats still
 With proud Argantes, brought his tower so nigh,
@@ -16763,11 +16262,7 @@ The walls were won, the gates were opened wide,
 Now bruised, broken down, destroyed fall
 The ports and towers that battery durst abide;
 Rageth the sword, death murdereth great and small,
-And proud ’twixt woe and horror sad doth ride.
-Here runs the blood, in ponds there stands the gore,
-And drowns the knights in whom it lived before.
-
-
+And proud ’twixt woe and horror sad doth ride. Here runs the blood, in ponds there stands the gore, And drowns the knights in whom it lived before.
 
 
 NINETEENTH BOOK
@@ -16847,11 +16342,7 @@ VII
 Great was his thirst of praise, great the desire
 That Tancred had the Pagan’s blood to spill,
 Nor could that quench his wrath or calm his ire
-If other hand his foe should foil or kill.
-He saved him with his shield, and cried “Retire!”
-To all he met, “and do this knight none ill:”
-And thus defending gainst his friends his foe,
-Through thousand angry weapons safe they go.
+If other hand his foe should foil or kill. He saved him with his shield, and cried “Retire!” To all he met, “and do this knight none ill:” And thus defending gainst his friends his foe, Through thousand angry weapons safe they go.
 
 VII
 They left the city, and they left behind
@@ -16878,9 +16369,7 @@ The aged Queen of Judah’s ancient land,
 Now lost, now sacked, spoiled and trodden down,
 Whose fall in vain I strived to withstand,
 A small revenge for Sion’s fort o’erthrown,
-That head can be, cut off by my strong hand.”
-This said, together with great heed they flew,
-For each his foe for bold and hardy knew.
+That head can be, cut off by my strong hand.” This said, together with great heed they flew, For each his foe for bold and hardy knew.
 
 XI
 Tancred of body active was and light,
@@ -16936,9 +16425,7 @@ XVI
 With his left foot fast forward gan he stride,
 And with his left the Pagan’s right arm bent,
 With his right hand meanwhile the man’s right side
-He cut, he wounded, mangled, tore and rent.
-“To his victorious teacher,” Tancred cried,
-“His conquered scholar hath this answer sent;”
+He cut, he wounded, mangled, tore and rent. “To his victorious teacher,” Tancred cried, “His conquered scholar hath this answer sent;”
 Argantes chafed, struggled, turned and twined,
 Yet could not so his captive arm unbind:
 
@@ -16992,9 +16479,7 @@ And all awaked his fury, rage and might,
 And said, “Dar’st thou of vantage speak or think,
 Or move Argantes once to yield or shrink?
 
-XXII
-“Use, use thy vantage, thee and fortune both
-I scorn, and punish will thy foolish pride:”
+XXII “Use, use thy vantage, thee and fortune both I scorn, and punish will thy foolish pride:”
 As a hot brand flames most ere it forth go’th,
 And dying blazeth bright on every side;
 So he, when blood was lost, with anger wroth,
@@ -17002,9 +16487,7 @@ Revived his courage when his puissance died,
 And would his latest hour which now drew nigh,
 Illustrate with his end, and nobly die.
 
-XXIII
-He joined his left hand to her sister strong,
-And with them both let fall his weighty blade.
+XXIII He joined his left hand to her sister strong, And with them both let fall his weighty blade.
 Tancred to ward his blow his sword up slung,
 But that it smote aside, nor there it stayed,
 But from his shoulder to his side along
@@ -17032,9 +16515,7 @@ No hurt he proffered him, no blow he strake.
 Meanwhile by stealth the Pagan false him gave
 A sudden wound, threatening with speeches brave:
 
-XXVI
-Herewith Tancredi furious grew, and said,
-“Villain, dost thou my mercy so despise?”
+XXVI Herewith Tancredi furious grew, and said, “Villain, dost thou my mercy so despise?”
 Therewith he thrust and thrust again his blade,
 And through his ventil pierced his dazzled eyes,
 Argantes died, yet no complaint he made,
@@ -17112,9 +16593,7 @@ Of cedar trees, of gold and marble stone;
 Now not so rich, yet strong and sure it was,
 With turrets high, thick walls, and doors of brass.
 
-XXXIV
-The knight arrived where in warklike sort
-The men that ample church had fortified.
+XXXIV The knight arrived where in warklike sort The men that ample church had fortified.
 And closed found each wicket, gate and port,
 And on the top defences ready spied,
 He left his frowning looks, and twice that fort
@@ -17187,9 +16666,7 @@ And courage stout?” the angry Soldan said,
 “Let chance our kingdoms take which erst she gave,
 Yet in our hearts our kingly worth is laid;
 But come, and in this fort your person save,
-Refresh your weary limbs and strength decayed:”
-Thus counselled he, and did to safety bring
-Within that fort the weak and aged king.
+Refresh your weary limbs and strength decayed:” Thus counselled he, and did to safety bring Within that fort the weak and aged king.
 
 XLII
 His iron mace in both his hands he hent,
@@ -17301,9 +16778,7 @@ In some we too much haste to spoil behold,
 But I command no more you spoil and kill,
 And let a trumpet publish forth my will.”
 
-LIII
-This said, he went where Raymond panting lay,
-Waked from the swoon wherein he late had been.
+LIII This said, he went where Raymond panting lay, Waked from the swoon wherein he late had been.
 Nor Solyman with countenance less gay
 Bespake his troops, and kept his grief unseen;
 “My friends, you are unconquered this day,
@@ -17335,11 +16810,7 @@ LVI
 “Meanwhile the highest buildings of this town
 We may shake down with stones about their ears,
 And with our darts and spears from engines thrown,
-Command that hill Christ’s sepulchre that bears:”
-Thus comforts he their hopes and hearts cast down,
-Awakes their valors, and exiles their fears.
-But while the things hapt thus, Vafrino goes
-Unknown, amid ten thousand armed foes.
+Command that hill Christ’s sepulchre that bears:” Thus comforts he their hopes and hearts cast down, Awakes their valors, and exiles their fears. But while the things hapt thus, Vafrino goes Unknown, amid ten thousand armed foes.
 
 LVII
 The sun nigh set had brought to end the day,
@@ -17356,10 +16827,7 @@ Tents infinite, and standards broad he spies,
 This red, that white, that blue, this purple was,
 And hears strange tongues, and stranger harmonies
 Of trumpets, clarions, and well-sounding brass:
-The elephant there brays, the camel cries.
-The horses neigh as to and fro they pass:
-Which seen and heard, he said within his thought,
-Hither all Asia is, all Afric, brought.
+The elephant there brays, the camel cries. The horses neigh as to and fro they pass: Which seen and heard, he said within his thought, Hither all Asia is, all Afric, brought.
 
 LIX
 He viewed the camp awhile, her site and seat,
@@ -17401,11 +16869,7 @@ With whom he parleyed of some haughty deed,
 Godfredo’s name as Vafrine watched he heard,
 Which made him give more heed, take more regard:
 
-LXIII
-Thus spake the chieftain to that surly sir,
-“Art thou so sure that Godfrey shall be slain?”
-“I am,” quoth he, “and swear ne’er to retire,
-Except he first be killed, to court again.
+LXIII Thus spake the chieftain to that surly sir, “Art thou so sure that Godfrey shall be slain?” “I am,” quoth he, “and swear ne’er to retire, Except he first be killed, to court again.
 I will prevent those that with me conspire:
 Nor other guerdon ask I for my pain
 But that I may hang up his harness brave
@@ -17421,11 +16885,7 @@ Pass unrewarded at our sovereign’s hands,
 What thou demandest shall he gladly grant,
 Nor gold nor guerdon shalt thou wish or want.
 
-LXV
-“Those counterfeited armors then prepare,
-Because the day of fight approacheth fast.”
-“They ready are,” quoth he; then both forbare
-From further talk, these speeches were the last.
+LXV “Those counterfeited armors then prepare, Because the day of fight approacheth fast.” “They ready are,” quoth he; then both forbare From further talk, these speeches were the last.
 Vafrine, these great things heard, with grief and care
 Remained astound, and in his thoughts oft cast
 What treason false this was, how feigned were
@@ -17487,19 +16947,9 @@ LXXI
 Cast at your feet ere you expect the thing,
 I will present the head of thy strong foe;
 Else shall this hand his person captive bring
-And cast in prison deep;” he boasted so.
-His rival heard him well, yet answered naught,
-But bit his lips, and grieved in secret thought.
+And cast in prison deep;” he boasted so. His rival heard him well, yet answered naught, But bit his lips, and grieved in secret thought.
 
-LXXII
-To Tisipherne the damsel turning right,
-“And what say you, my noble lord?” quoth she.
-He taunting said, “I that am slow to fight
-Will follow far behind, the worth to see
-Of this your terrible and puissant knight,”
-In scornful words this bitter scoff gave he.
-“Good reason,” quoth the king, “thou come behind,
-Nor e’er compare thee with the Prince of Ind.”
+LXXII To Tisipherne the damsel turning right, “And what say you, my noble lord?” quoth she. He taunting said, “I that am slow to fight Will follow far behind, the worth to see Of this your terrible and puissant knight,” In scornful words this bitter scoff gave he. “Good reason,” quoth the king, “thou come behind, Nor e’er compare thee with the Prince of Ind.”
 
 LXXIII
 Lord Tisiphernes shook his head, and said,
@@ -17517,9 +16967,7 @@ LXXIV
 You are my champions, let that title be
 The bond of love and peace between you both;
 He that displeased is, is displeased with me,
-For which of you is grieved, and I not wroth?”
-Thus warned she them, their hearts, for ire nigh broke,
-In forced peace and rest thus bore love’s yoke.
+For which of you is grieved, and I not wroth?” Thus warned she them, their hearts, for ire nigh broke, In forced peace and rest thus bore love’s yoke.
 
 LXXV
 All this heard Vafrine as he stood beside,
@@ -17557,9 +17005,7 @@ To chose me for her champion, friend and knight,
 Proud Godfrey’s or Rinaldo’s head, I trow,
 Should feel the sharpness of my curtlax bright;
 Ask me the head, fair mistress, of some foe,
-For to your beauty wooed is my might;”
-So he began, and meant in speeches wise
-Further to wade, but thus he broke the ice.
+For to your beauty wooed is my might;” So he began, and meant in speeches wise Further to wade, but thus he broke the ice.
 
 LXXIX
 Therewith he smiled, and smiling gan to frame
@@ -17571,9 +17017,7 @@ But me, on me thy love and service place,
 I take thee for my champion, and apart
 Would reason with thee, if my knight thou art.”
 
-LXXX
-Withdrawn, she thus began, “Vafrine, pardie,
-I know thee well, and me thou knowest of old,”
+LXXX Withdrawn, she thus began, “Vafrine, pardie, I know thee well, and me thou knowest of old,”
 To his last trump this drove the subtle spy,
 But smiling towards her he turned him bold,
 “Ne’er that I wot I saw thee erst with eye,
@@ -17581,9 +17025,7 @@ Yet for thy worth all eyes should thee behold,
 Thus much I know right well, for from the same
 Which erst you gave me different is my name.
 
-LXXXI
-“My mother bore me near Bisertus wall,
-Her name was Lesbine, mine is Almansore!”
+LXXXI “My mother bore me near Bisertus wall, Her name was Lesbine, mine is Almansore!”
 “I knew long since,” quoth she, “what men thee call,
 And thine estate, dissemble it no more,
 From me thy friend hide not thyself at all,
@@ -17635,11 +17077,7 @@ LXXXVI
 And now in deserts waste and wild arrived,
 Far from the camp, far from resort and sight,
 Vafrine began, “Gainst Godfrey’s life contrived
-The false compacts and trains unfold aright:”
-Then she those treasons, from their spring derived,
-Repeats, and brings their hid deceits to light,
-“Eight knights,” she says, “all courtiers brave, there are,
-But Ormond strong the rest surpasseth far:
+The false compacts and trains unfold aright:” Then she those treasons, from their spring derived, Repeats, and brings their hid deceits to light, “Eight knights,” she says, “all courtiers brave, there are, But Ormond strong the rest surpasseth far:
 
 LXXXVII
 “These, whether hate or hope of gain them move,
@@ -17671,11 +17109,7 @@ Within their camp therefore I list not tarry,
 My heart abhors I should this hand defile
 With spot of treason, or with act of guile.
 
-XC
-“This is the cause, but not the cause alone:”
-And there she ceased, and blushed, and on the main
-Cast down her eyes, these last words scant outgone,
-She would have stopped, nor durst pronounce them plain.
+XC “This is the cause, but not the cause alone:” And there she ceased, and blushed, and on the main Cast down her eyes, these last words scant outgone, She would have stopped, nor durst pronounce them plain.
 The squire what she concealed would know, as one
 That from her breast her secret thoughts could strain,
 “Of little faith,” quoth he, “why would’st thou hide
@@ -17701,8 +17135,7 @@ But with my state I lost myself also,
 Ne’er to be found again, for then I lost
 My wit, my sense, my heart, my soul almost.
 
-XCIII
-“Through fire and sword, through blood and death, Vafrine,
+XCIII “Through fire and sword, through blood and death, Vafrine,
 Which all my friends did burn, did kill, did chase,
 Thou know’st I ran to thy dear lord and mine,
 When first he entered had my father’s place,
@@ -17721,11 +17154,7 @@ Pierced my heart, my breast’s weak fortress won,
 Which creeping through my bosom soft became
 A wound, a sickness, and a quenchless flame.
 
-XCV
-“He visits me, with speeches kind and grave
-He sought to ease my grief, and sorrows’ smart.
-He said, ‘I give thee liberty, receive
-All that is thine, and at thy will depart:’
+XCV “He visits me, with speeches kind and grave He sought to ease my grief, and sorrows’ smart. He said, ‘I give thee liberty, receive All that is thine, and at thy will depart:’
 Alas, he robbed me when he thought he gave,
 Free was Erminia, but captived her heart,
 Mine was the body, his the soul and mind,
@@ -17756,10 +17185,7 @@ XCVIII
 For he that made me sick could make me sound:
 But on an ambush I mischanced to light
 Of cruel men, in armour clothed round,
-Hardly I scaped their hand by mature flight.
-And fled to wilderness and desert ground,
-And there I lived in groves and forests wild,
-With gentle grooms and shepherds’ daughters mild.
+Hardly I scaped their hand by mature flight. And fled to wilderness and desert ground, And there I lived in groves and forests wild, With gentle grooms and shepherds’ daughters mild.
 
 XCIX
 “But when hot love which fear had late suppressed,
@@ -17785,11 +17211,7 @@ CI
 “And he that did this chain so surely bind
 About my heart, which none can loose but he,
 Let him not say, ‘Go, wandering damsel, find
-Some other home, thou shalt not bide with me,’
-But let him welcome me with speeches kind,
-And in my wonted prison set me free:”
-Thus spake the princess, thus she and her guide
-Talked day and night, and on their journey ride.
+Some other home, thou shalt not bide with me,’ But let him welcome me with speeches kind, And in my wonted prison set me free:” Thus spake the princess, thus she and her guide Talked day and night, and on their journey ride.
 
 CII
 Through the highways Vafrino would not pass,
@@ -17881,11 +17303,7 @@ That of thy pain her part and portion bears;
 Once look on me, small is the gift I crave,
 The last which thou canst give, or I can have.”
 
-CXI
-Tancred looked up, and closed his eyes again,
-Heavy and dim, and she renewed her woe.
-Quoth Vafrine, “Cure him first, and then complain,
-Medicine is life’s chief friend; plaint her most foe:”
+CXI Tancred looked up, and closed his eyes again, Heavy and dim, and she renewed her woe. Quoth Vafrine, “Cure him first, and then complain, Medicine is life’s chief friend; plaint her most foe:”
 They plucked his armor off, and she each vein,
 Each joint, and sinew felt, and handled so,
 And searched so well each thrust, each cut and wound,
@@ -17911,15 +17329,7 @@ That now his eyes he lifted, turned and twined,
 And saw his squire, and saw that courteous dame
 In habit strange, and wondered whence she came.
 
-CXIV
-He said, “O Vafrine, tell me, whence com’st thou?
-And who this gentle surgeon is, disclose;”
-She smiled, she sighed, she looked she wist not how,
-She wept, rejoiced, she blushed as red as rose.
-“You shall know all,” she says, “your surgeon now
-Commands you silence, rest and soft repose,
-You shall be sound, prepare my guerdon meet,”
-His head then laid she in her bosom sweet.
+CXIV He said, “O Vafrine, tell me, whence com’st thou? And who this gentle surgeon is, disclose;” She smiled, she sighed, she looked she wist not how, She wept, rejoiced, she blushed as red as rose. “You shall know all,” she says, “your surgeon now Commands you silence, rest and soft repose, You shall be sound, prepare my guerdon meet,” His head then laid she in her bosom sweet.
 
 CXV
 Vafrine devised this while how he might bear
@@ -17945,11 +17355,7 @@ CXVII
 “With his dead bones no longer war have I,
 Boldly he died and nobly was he slain,
 Then let us not that honor him deny
-Which after death alonely doth remain:”
-The Pagan dead they lifted up on high,
-And after Tancred bore him through the plain.
-Close by the virgin chaste did Vafrine ride,
-As he that was her squire, her guard, her guide.
+Which after death alonely doth remain:” The Pagan dead they lifted up on high, And after Tancred bore him through the plain. Close by the virgin chaste did Vafrine ride, As he that was her squire, her guard, her guide.
 
 CXVIII
 “Not home,” quoth Tancred, “to my wonted tent,
@@ -17961,9 +17367,7 @@ To heaven perchance may easier make the way,
 And ere I yield to Death’s and Fortune’s rage,
 Performed shall be my vow and pilgrimage.”
 
-CXIX
-Thus to the city was Tancredi borne,
-And fell on sleep, laid on a bed of down.
+CXIX Thus to the city was Tancredi borne, And fell on sleep, laid on a bed of down.
 Vafrino where the damsel might sojourn
 A chamber got, close, secret, near his own;
 That done he came the mighty duke beforn,
@@ -18047,9 +17451,7 @@ The false compact, how it was made and wrought,
 The arms and ensigns feigned, poison close,
 Ormondo’s vaunt, what praise, what thank he sought,
 And what reward, and satisfied all those
-That would demand, inquire, or ask of aught.
-Silence was made awhile, when Godfrey thus,—
-“Raymondo, say, what counsel givest thou us?”
+That would demand, inquire, or ask of aught. Silence was made awhile, when Godfrey thus,— “Raymondo, say, what counsel givest thou us?”
 
 CXXVIII
 “Not as we purposed late, next morn,” quoth he,
@@ -18087,11 +17489,7 @@ Or bide our looks and threats, they are not able,
 And when this army is subdued and slain
 Then is our empire settled, firm and stable,
 The tower shall yield, or but resist in vain,
-For fear her anchor is, despair her cable.”
-Thus he concludes, and rolling down the west
-Fast set the stars, and called them all to rest.
-
-
+For fear her anchor is, despair her cable.” Thus he concludes, and rolling down the west Fast set the stars, and called them all to rest.
 
 
 TWENTIETH BOOK
@@ -18141,11 +17539,7 @@ IV
 Till morning next, for he refused to fight;
 Their haste and heat he bridled, but not brake,
 Nor yet with sudden fray or skirmish light
-Of these new foes would he vain trial make.
-“After so many wars,” he says, “good right
-It is, that one day’s rest at least you take,”
-For thus in his vain foes he cherish would
-The hope which in their strength they have and hold.
+Of these new foes would he vain trial make. “After so many wars,” he says, “good right It is, that one day’s rest at least you take,” For thus in his vain foes he cherish would The hope which in their strength they have and hold.
 
 V
 To see Aurora’s gentle beam appear,
@@ -18262,10 +17656,7 @@ XVI
 Are men half naked, without strength or skill,
 From idleness, or following the plough,
 Late pressed forth to war against their will,
-Their swords are blunt, shields thin, soon pierced through,
-Their banners shake, their bearers shrink, for ill
-Their leaders heard, obeyed, or followed be,
-Their loss, their flight, their death I well foresee.
+Their swords are blunt, shields thin, soon pierced through, Their banners shake, their bearers shrink, for ill Their leaders heard, obeyed, or followed be, Their loss, their flight, their death I well foresee.
 
 XVII
 “Their captain clad in purple, armed in gold,
@@ -18293,9 +17684,7 @@ As you have oft, this day, so win the field,
 Let zeal and honor be your virtue’s sting,
 Your lives, my fame, Christ’s faith defend and shield,
 To earth these Pagans slain and wounded bring,
-Tread on their necks, make them all die or yield,—
-What need I more exhort you?  from your eyes
-I see how victory, how conquest flies.”
+Tread on their necks, make them all die or yield,— What need I more exhort you?  from your eyes I see how victory, how conquest flies.”
 
 XX
 Upon the captain, when his speech was done,
@@ -18311,9 +17700,7 @@ XXI
 Perchance, if man’s proud thought or saucy tongue
 Have leave to judge or guess at heavenly things,
 This was the angel which had kept him long,
-That now came down, and hid him with his wings.
-While thus the Duke bespeaks his armies strong,
-And every troop and band in order brings.
+That now came down, and hid him with his wings. While thus the Duke bespeaks his armies strong, And every troop and band in order brings.
 Lord Emiren his host disposed well,
 And with bold words whet on their courage fell;
 
@@ -18341,15 +17728,9 @@ XXIV
 Thus Emiren his host put in array,
 And rode from band to band, from rank to rank,
 His truchmen now, and now himself, doth say,
-What spoil his folk shall gain, what praise, what thank.
-To him that feared, “Look up, ours is the day,”
-He says, “Vile fear to bold hearts never sank,
-How dareth one against an hundred fight?
-Our cry, our shade, will put them all to flight.”
+What spoil his folk shall gain, what praise, what thank. To him that feared, “Look up, ours is the day,” He says, “Vile fear to bold hearts never sank, How dareth one against an hundred fight? Our cry, our shade, will put them all to flight.”
 
-XXV
-But to the bold, “Go, hardy knight,” he says,
-“His prey out of this lion’s paws go tear:”
+XXV But to the bold, “Go, hardy knight,” he says, “His prey out of this lion’s paws go tear:”
 To some before his thoughts the shape he lays,
 And makes therein the image true appear,
 How his sad country him entreats and prays,
@@ -18364,8 +17745,7 @@ From ravishing my virgins keep, and save
 Thine ancestors’ dead bones and ashes cold!
 To thee thy fathers dear and parents grave
 Show their uncovered heads, white, hoary, old,
-To thee thy wife—her breasts with tears o’erspread—
-Thy sons, their cradles, shows, thy marriage bed.”
+To thee thy wife—her breasts with tears o’erspread— Thy sons, their cradles, shows, thy marriage bed.”
 
 XXVII
 To all the rest, “You for her honor’s sake
@@ -18554,8 +17934,7 @@ But when his colors gold and white he spied,
 And saw the other signs that forged were,
 “See, see, this traitor false!” the captain cried,
 “That like a Frenchman would in show appear,
-Behold how near his mates and he are crept!”
-This said, upon the villain forth he leapt;
+Behold how near his mates and he are crept!” This said, upon the villain forth he leapt;
 
 LXVI
 Deadly he wounded him, and that false knight
@@ -18673,13 +18052,9 @@ On their bold breasts deep wounds and hurts to bear,
 But fled away, and troubled in the chase
 Their ranks disordered be with too much fear:
 Rinaldo followed them from place to place,
-Till quite discomfit and dispersed they were.
-That done, he stays, and all his knights recalls,
-And scorns to strike his foe that flies or falls.
+Till quite discomfit and dispersed they were. That done, he stays, and all his knights recalls, And scorns to strike his foe that flies or falls.
 
-LVIII
-Like as the wind stopped by some wood or hill,
-Grows strong and fierce, tears boughs and trees in twain,
+LVIII Like as the wind stopped by some wood or hill, Grows strong and fierce, tears boughs and trees in twain,
 But with mild blasts, more temperate, gentle, still,
 Blows through the ample field or spacious plain;
 Against the rocks as sea-waves murmur shrill,
@@ -18773,9 +18148,7 @@ By which, to which exchanged, I might find grace?
 For in my knights, and all that take my part,
 I see no help; no hope, no trust I place;
 To his great prowess, might, and valiant heart,
-All strength is weak, all courage vile and base.”
-This said she, for she saw how through the field
-Her champions fly, faint, tremble, fall and yield.
+All strength is weak, all courage vile and base.” This said she, for she saw how through the field Her champions fly, faint, tremble, fall and yield.
 
 LXVIII
 Nor left alone can she her person save,
@@ -18903,9 +18276,7 @@ This blow again upon his forehead light,
 It was the fault and weakness of his eild,
 Age is not fit to bear strokes of such might,
 Each one lift up his sword, advanced his shield,
-Those would destroy, and these defend the knight.
-On went the Soldan, for the man he thought
-Was slain, or easily might be captive brought.
+Those would destroy, and these defend the knight. On went the Soldan, for the man he thought Was slain, or easily might be captive brought.
 
 LXXXI
 Among the rest he ran, he raged, he smote,
@@ -18953,9 +18324,7 @@ And leave your leader to his foes in prey?
 What!  shall these heathen of his armor won,
 In their vile temples hang up trophies gay?
 Go home to Gascoign then, and tell his son
-That where his father died, you ran away:”
-This said, against a thousand armed foes,
-He did his breast weak, naked, sick, oppose.
+That where his father died, you ran away:” This said, against a thousand armed foes, He did his breast weak, naked, sick, oppose.
 
 LXXXVI
 And with his heavy, strong and mighty targe,
@@ -19063,9 +18432,7 @@ A strong, a fierce, a deadly stroke he gave,
 And pierced her armor, pierced her bosom white,
 Worthy no blows, but blows of love to have:
 Her dying hand let go the bridle quite,
-She faints, she falls, ’twixt life and death she strave,
-Her lord to help her came, but came too late,
-Yet was not that his fault, it was his fate.
+She faints, she falls, ’twixt life and death she strave, Her lord to help her came, but came too late, Yet was not that his fault, it was his fate.
 
 XCVII
 What should he do?  to diverse parts him call
@@ -19073,9 +18440,7 @@ Just ire and pity kind, one bids him go
 And succor his dear lady, like to fall,
 The other calls for vengeance on his foe;
 Love biddeth both, love says he must do all,
-And with his ire joins grief, with pity woe.
-What did he then?  with his left hand the knight
-Would hold her up, revenge her with his right.
+And with his ire joins grief, with pity woe. What did he then?  with his left hand the knight Would hold her up, revenge her with his right.
 
 XCVIII
 But to resist against a knight so bold
@@ -19107,11 +18472,7 @@ Is lawful, join their hands, embrace and kiss:
 And thus sharp death their knot of life untied,
 Together fainted they, together died.
 
-CI
-But now swift fame her nimble wings dispread,
-And told eachwhere their chance, their fate, their fall,
-Rinaldo heard the case, by one that fled
-From the fierce Turk and brought him news of all.
+CI But now swift fame her nimble wings dispread, And told eachwhere their chance, their fate, their fall, Rinaldo heard the case, by one that fled From the fierce Turk and brought him news of all.
 Disdain, good-will, woe, wrath the champion led
 To take revenge; shame, grief, for vengeance call;
 But as he went, Adrastus with his blade
@@ -19252,10 +18613,7 @@ The Christian saw the hardy warrior come,
 And leaped forth to undertake the fight,
 The people round about gave place and room,
 And wondered on that fierce and cruel sight,
-Some praised their strength, their skill and courage some,
-Such and so desperate blows struck either knight,
-That all that saw forgot both ire and strife,
-Their wounds, their hurts, forgot both death and life.
+Some praised their strength, their skill and courage some, Such and so desperate blows struck either knight, That all that saw forgot both ire and strife, Their wounds, their hurts, forgot both death and life.
 
 CXVI
 One struck, the other did both strike and wound,
@@ -19353,9 +18711,7 @@ Be strong, mine arrows, cruel, sharp, gainst me,
 Ah, wretch, how is thy chance and fortune cast,
 If placed in these thy good and comfort be?
 But since all hope is vain all help is waste,
-Since hurts ease hurts, wounds must cure wounds in thee;
-Then with thine arrow’s stroke cure stroke of love,
-Death for thy heart must salve and surgeon prove.
+Since hurts ease hurts, wounds must cure wounds in thee; Then with thine arrow’s stroke cure stroke of love, Death for thy heart must salve and surgeon prove.
 
 CXXVI
 “And happy me if, being dead and slain,
@@ -19387,9 +18743,7 @@ He held her up, and lest she tumble down,
 Under her tender side his arm he placed,
 His hand her girdle loosed, her gown unlaced;
 
-CXXIX
-And her fair face, fair bosom he bedews
-With tears, tears of remorse, of ruth, of sorrow.
+CXXIX And her fair face, fair bosom he bedews With tears, tears of remorse, of ruth, of sorrow.
 As the pale rose her color lost renews
 With the fresh drops fallen from the silver morrow,
 So she revives, and cheeks empurpled shows
@@ -19423,9 +18777,7 @@ Unless in chains thou lead a captive dame:
 A dame now ta’en by force, before betrayed,
 This is thy greatest glory, greatest fame:
 Time was that thee of love and life I prayed,
-Let death now end my love, my life, my shame.
-Yet let not thy false hand bereave this breath,
-For if it were thy gift, hateful were death.
+Let death now end my love, my life, my shame. Yet let not thy false hand bereave this breath, For if it were thy gift, hateful were death.
 
 CXXXIII
 “Cruel, myself an hundred ways can find,
@@ -19433,9 +18785,7 @@ To rid me from thy malice, from thy hate,
 If weapons sharp, if poisons of all kind,
 If fire, if strangling fail, in that estate,
 Yet ways enough I know to stop this wind:
-A thousand entries hath the house of fate.
-Ah, leave these flatteries, leave weak hope to move,
-Cease, cease, my hope is dead, dead is my love.”
+A thousand entries hath the house of fate. Ah, leave these flatteries, leave weak hope to move, Cease, cease, my hope is dead, dead is my love.”
 
 CXXXIV
 Thus mourned she, and from her watery eyes
@@ -19462,13 +18812,9 @@ Thus plaineth he, thus prays, and his desire
 Endears with sighs that fly and tears that fall;
 That as against the warmth of Titan’s fire,
 Snowdrifts consume on tops of mountains tall,
-So melts her wrath; but love remains entire.
-“Behold,” she says, “your handmaid and your thrall:
-My life, my crown, my wealth use at your pleasure;”
-Thus death her life became, loss proved her treasure.
+So melts her wrath; but love remains entire. “Behold,” she says, “your handmaid and your thrall: My life, my crown, my wealth use at your pleasure;” Thus death her life became, loss proved her treasure.
 
-CXXXVII
-This while the captain of the Egyptian host,—
+CXXXVII This while the captain of the Egyptian host,—
 That saw his royal standard laid on ground,
 Saw Rimedon, that ensign’s prop and post,
 By Godfrey’s noble hand killed with one wound,
@@ -19503,9 +18849,7 @@ Fled the small remnant that alive remained;
 Godfrey espied as he turned his steed,
 Great Altamore on foot, with blood all stained,
 With half a sword, half helm upon his head,
-Gainst whom a hundred fought, yet not one gained.
-“Cease, cease this strife,” he cried: “and thou, brave knight,
-Yield, I am Godfrey, yield thee to my might!”
+Gainst whom a hundred fought, yet not one gained. “Cease, cease this strife,” he cried: “and thou, brave knight, Yield, I am Godfrey, yield thee to my might!”
 
 CXLI
 He that till then his proud and haughty heart
@@ -19517,9 +18861,7 @@ I am thy prisoner, fortune is thy friend:
 On Altamoro great thy conquest bold
 Of glory shall be rich, and rich of gold:
 
-CXLII
-“My loving queen, my wife and lady kind
-Shall ransom me with jewels, gold and treasure.”
+CXLII “My loving queen, my wife and lady kind Shall ransom me with jewels, gold and treasure.”
 “God shield,” quoth Godfrey, “that my noble mind
 Should praise and virtue so by profit measure,
 All that thou hast from Persia and from Inde
@@ -19546,355 +18888,3 @@ His bloody coat he put not off, but run
 To the high temple with his noble train,
 And there hung up his arms, and there he bows
 His knees, there prayed, and there performed his vows.
-
-
-
-
-*** END OF THE PROJECT GUTENBERG EBOOK JERUSALEM DELIVERED ***
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the
-United States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away--you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country other than the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you will have to check the laws of the country where
-  you are located before using this eBook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm website
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that:
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg-tm trademark. Contact the Foundation as set
-forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-Section 3. Information about the Project Gutenberg Literary
-Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation's website
-and official page at www.gutenberg.org/contact
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without
-widespread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our website which has the main PG search
-facility: www.gutenberg.org
-
-This website includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
-

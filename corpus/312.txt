@@ -1,34 +1,3 @@
-The Project Gutenberg EBook of Young Adventure, by Stephen Vincent Benet
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Young Adventure
-       A Book of Poems
-
-Author: Stephen Vincent Benet
-
-Posting Date: July 12, 2008 [EBook #312]
-Release Date: August, 1995
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK YOUNG ADVENTURE ***
-
-
-
-
-Produced by A. Light, and L. Bowser
-
-
-
-
-
 YOUNG ADVENTURE
 
 A Book of Poems by
@@ -36,36 +5,21 @@ A Book of Poems by
 by Stephen Vincent Benet
 
 
-
-[Stephen Vincent Bene't, American Poet
-and short-story writer -- 1898-1943.]
+[Stephen Vincent Bene't, American Poet and short-story writer -- 1898-1943.]
 
 
-[Note on text:  Italicized stanzas will be indented 5 spaces.
-Italicized words or phrases have been capitalized.
-Lines longer than 77 characters have been broken,
-and the continuation is indented two spaces.]
+[Note on text:  Italicized stanzas will be indented 5 spaces. Italicized words or phrases have been capitalized. Lines longer than 77 characters have been broken, and the continuation is indented two spaces.]
 
 
-[Note:  This etext was transcribed from the 1918 American (original) edition.
-There are some slight differences, such as making the titles in the contents
-conform exactly to the titles of the individual sections, for ease
-of searching, and correction of mistakes which are very obviously mistakes,
-and not merely archaic or unorthodox usage, but great care has been taken
-not to change the text, and hopefully this has been accomplished.]
+[Note:  This etext was transcribed from the 1918 American (original) edition. There are some slight differences, such as making the titles in the contents conform exactly to the titles of the individual sections, for ease of searching, and correction of mistakes which are very obviously mistakes, and not merely archaic or unorthodox usage, but great care has been taken not to change the text, and hopefully this has been accomplished.]
 
 
 Some of these poems were originally printed in various periodicals.
 
 
-
-
-
-
 To W. R. B.
 
 Dedication
-
 
 
      And so, to you, who always were
@@ -83,60 +37,17 @@ Dedication
      And we're together.  There, enough,...!
 
 
-
-
-
 Foreword by Chauncey Brewster Tinker
 
-In these days when the old civilisation is crumbling beneath our feet,
-the thought of poetry crosses the mind like the dear memory of things
-that have long since passed away.  In our passionate desire for the new
-era, it is difficult to refrain oneself from the commonplace practice of
-speculating on the effects of warfare and of prophesying all manner of
-novel rebirths.  But it may be well for us to remember that the era
-which has recently closed was itself marked by a mad idealisation of all
-novelties.  In the literary movements of the last decade --when, indeed,
-any movement at all has been perceptible -- we have witnessed a
-bewildering rise and fall of methods and ideals.  We were captivated for
-a time by the quest of the golden phrase and the accompanying
-cultivation of exotic emotions; and then, wearying of the pretty and the
-temperamental, we plunged into the bloodshot brutalities of naturalism.
+In these days when the old civilisation is crumbling beneath our feet, the thought of poetry crosses the mind like the dear memory of things that have long since passed away.  In our passionate desire for the new era, it is difficult to refrain oneself from the commonplace practice of speculating on the effects of warfare and of prophesying all manner of novel rebirths.  But it may be well for us to remember that the era which has recently closed was itself marked by a mad idealisation of all novelties.  In the literary movements of the last decade --when, indeed, any movement at all has been perceptible -- we have witnessed a bewildering rise and fall of methods and ideals.  We were captivated for a time by the quest of the golden phrase and the accompanying cultivation of exotic emotions; and then, wearying of the pretty and the temperamental, we plunged into the bloodshot brutalities of naturalism.
 
-From the smooth-flowing imitations of Tennyson and Swinburne, we passed
-into a false freedom that had at its heart a repudiation of all law and
-standards, for a parallel to which one turns instinctively to certain
-recent developments in the political world.  We may hope that the eager
-search for novelty of form and subject may have its influence in
-releasing us from our old bondage to the commonplace and in broadening
-the scope of poetry; but we cannot blind ourselves to the fact that it
-has at the same time completed that estrangement between the poet and
-the general public which has been developing for half a century.  The
-great mass of the reading world, to whom the arts should minister, have
-now forgotten that poetry is a consolation in times of doubt and peril,
-a beacon, and "an ever-fixed mark" in a crazed and shifting world.  Our
-poetry --and I am speaking in particular of American poetry -- has been
-centrifugal; our poets have broken up into smaller and ever smaller
-groups. Individualism has triumphed.
+From the smooth-flowing imitations of Tennyson and Swinburne, we passed into a false freedom that had at its heart a repudiation of all law and standards, for a parallel to which one turns instinctively to certain recent developments in the political world.  We may hope that the eager search for novelty of form and subject may have its influence in releasing us from our old bondage to the commonplace and in broadening the scope of poetry; but we cannot blind ourselves to the fact that it has at the same time completed that estrangement between the poet and the general public which has been developing for half a century.  The great mass of the reading world, to whom the arts should minister, have now forgotten that poetry is a consolation in times of doubt and peril, a beacon, and "an ever-fixed mark" in a crazed and shifting world.  Our poetry --and I am speaking in particular of American poetry -- has been centrifugal; our poets have broken up into smaller and ever smaller groups. Individualism has triumphed.
 
-To the general confusion, critics, if they may be said to have existed
-at all, have added by their paltry conception of the art. They have
-deemed it a sufficient denunciation of a poet to accuse him of imitating
-his masters; as though the history of an art were rather a series of
-violent rebellions than a growth and a progressive illumination. Not all
-generations are privileged to see the working of a great creative
-impulse, but the want, keen though it be, furnishes no reason for the
-utter rejection of
+To the general confusion, critics, if they may be said to have existed at all, have added by their paltry conception of the art. They have deemed it a sufficient denunciation of a poet to accuse him of imitating his masters; as though the history of an art were rather a series of violent rebellions than a growth and a progressive illumination. Not all generations are privileged to see the working of a great creative impulse, but the want, keen though it be, furnishes no reason for the utter rejection of
 
-   A tremulous murmur from great days long dead.
+A tremulous murmur from great days long dead.
 
-But this fear of echoing the past may work us a yet greater misfortune.
-In the rejection of the manner of an earlier epoch may be implicit also
-the rejection of the very sources from which springs the life of the
-fair art.  Melody, and a love of the green earth, and a yearning for God
-are of the very fabric of poetry, deny it who will. The Muses still
-reign on Parnassus, wax the heathen never so furious. Poets who love
-poetry better than their own fame in Grub Street will do well to
-remember
+But this fear of echoing the past may work us a yet greater misfortune. In the rejection of the manner of an earlier epoch may be implicit also the rejection of the very sources from which springs the life of the fair art.  Melody, and a love of the green earth, and a yearning for God are of the very fabric of poetry, deny it who will. The Muses still reign on Parnassus, wax the heathen never so furious. Poets who love poetry better than their own fame in Grub Street will do well to remember
 
    The flame, the noble pageant of our life;
    The burning seal that stamps man's high indenture
@@ -144,43 +55,24 @@ remember
    Romance and purple seas, and toppling towns,
    And the wind's valiance crying o'er the downs.
 
-It is a poor business to find in such words only the illusions of youth
-and a new enthusiasm.  The desire for novelty, the passion for force and
-dirt, and the hankering after freakishness of mood, which many have
-attempted to substitute for the older and simpler things, are themselves
-the best evidence of disillusion and jaded nerves.  There is a weariness
-and a disgust in our recent impatience with beauty which indicate too
-clearly the exhaustion of our spiritual resources.  It may well be that
-the rebirth of poetry is to be manifest in a reappearance of the
-obvious, --in a love of the sea and of the beauty of clouds, in the
-adventure of death and the yet more amazing adventure of living, in a
-vital love of colour, whether of the Orient or the drug-shop, in
-childlike love of melody, and the cool cleansing of rain, in strange
-faces and old memories. This, in the past, has been poetry, and this
-will be poetry again. The singer who, out of a full heart, can offer to
-the world his vision of its beauty, and out of a noble mind, his
-conception of its destiny, will bestow upon his time the most precious
-gift which we can now receive, the gift of his healing power.
+It is a poor business to find in such words only the illusions of youth and a new enthusiasm.  The desire for novelty, the passion for force and dirt, and the hankering after freakishness of mood, which many have attempted to substitute for the older and simpler things, are themselves the best evidence of disillusion and jaded nerves.  There is a weariness and a disgust in our recent impatience with beauty which indicate too clearly the exhaustion of our spiritual resources.  It may well be that the rebirth of poetry is to be manifest in a reappearance of the obvious, --in a love of the sea and of the beauty of clouds, in the adventure of death and the yet more amazing adventure of living, in a vital love of colour, whether of the Orient or the drug-shop, in childlike love of melody, and the cool cleansing of rain, in strange faces and old memories. This, in the past, has been poetry, and this will be poetry again. The singer who, out of a full heart, can offer to the world his vision of its beauty, and out of a noble mind, his conception of its destiny, will bestow upon his time the most precious gift which we can now receive, the gift of his healing power.
 
-                                                         C. B. T.
-
-
+C. B. T.
 
 
 Contents
-
 
 
      Dedication
      Foreword by Chauncey Brewster Tinker
 
 
-     I.
+I.
 
-     The Drug-Shop, or, Endymion in Edmonstoun
+The Drug-Shop, or, Endymion in Edmonstoun
 
 
-     II.
+II.
 
      Rain after a Vaudeville Show
      The City Revisited
@@ -216,28 +108,19 @@ Contents
      Elegy for an Enemy
 
 
-
-
-
-
 I. The Drug-Shop, or, Endymion in Edmonstoun
 
 
 Prefatory Note.
 
 
-This poem received the nineteenth award of the prize offered by
-Professor Albert Stanburrough Cook to Yale University for the best
-unpublished verse, the Committee of Award consisting of Professors C. F.
-Tucker Brooke, of Yale University, Robert Frost, of Amherst College, and
-Charles M. Gayley, of the University of California.
+This poem received the nineteenth award of the prize offered by Professor Albert Stanburrough Cook to Yale University for the best unpublished verse, the Committee of Award consisting of Professors C. F. Tucker Brooke, of Yale University, Robert Frost, of Amherst College, and Charles M. Gayley, of the University of California.
 
 
      "Oh yes, I went over to Edmonstoun the other day and saw
      Johnny, mooning around as usual!  He will never make his
      way."
                  --Letter of George Keats, 18--
-
 
 
      Night falls; the great jars glow against the dark,
@@ -321,10 +204,10 @@ Charles M. Gayley, of the University of California.
      And if at first his voice was weak with fear
      And his limbs trembled, it was but a doze,
      And at the high song's close
-     He stood up straight.  His voice rang loud and clear.
+He stood up straight.  His voice rang loud and clear.
 
 
-         The Song.
+The Song.
 
        Last night the quays were lighted;
        Cressets of smoking pine
@@ -767,18 +650,10 @@ Charles M. Gayley, of the University of California.
      She will be fully risen. --  There's his step!
 
 
-
-
-
 II. Miscellaneous.
 
 
-
-
-
-
 Rain after a Vaudeville Show
-
 
 
    The last pose flickered, failed.  The screen's dead white
@@ -813,10 +688,7 @@ Rain after a Vaudeville Show
    I stamped the ground in the strong joy of life!
 
 
-
-
 The City Revisited
-
 
 
    The grey gulls drift across the bay
@@ -881,10 +753,7 @@ The City Revisited
    We have our heaven on earth -- sometimes!
 
 
-
-
 Going Back to School
-
 
 
    The boat ploughed on.  Now Alcatraz was past
@@ -920,10 +789,7 @@ Going Back to School
    "Why it's Miss Nancy!  Come along, you rat!"
 
 
-
-
 Nos Immortales
-
 
 
    Perhaps we go with wind and cloud and sun,
@@ -943,14 +809,11 @@ Nos Immortales
    Spilling its star-dust back to dust again.
 
 
-
-
 Young Blood
 
-   "But, sir," I said, "they tell me the man is like to die!"
-   The Canon shook his head indulgently.  "Young blood, Cousin," he boomed.
-   "Young blood!  Youth will be served!"  -- D'Hermonville's Fabliaux.
-
+"But, sir," I said, "they tell me the man is like to die!"
+The Canon shook his head indulgently.  "Young blood, Cousin," he boomed.
+"Young blood!  Youth will be served!"  -- D'Hermonville's Fabliaux.
 
 
    He woke up with a sick taste in his mouth
@@ -999,10 +862,7 @@ Young Blood
    And bitter loathing crept up all his limbs.
 
 
-
-
 The Quality of Courage
-
 
 
    Black trees against an orange sky,
@@ -1200,16 +1060,13 @@ The Quality of Courage
 
    This in my heart I keep for goad!
    Somewhere, in Heaven she walks that road.
-   Somewhere... in Heaven... she walks... that... road....
-
-
+Somewhere... in Heaven... she walks... that... road....
 
 
 Campus Sonnets:
 
 
-
-     1.  Before an Examination
+1.  Before an Examination
 
 
    The little letters dance across the page,
@@ -1229,8 +1086,7 @@ Campus Sonnets:
    Ring icy-clear from the far deeps of night.
 
 
-
-     2.  Talk
+2.  Talk
 
 
    Tobacco smoke drifts up to the dim ceiling
@@ -1250,8 +1106,7 @@ Campus Sonnets:
    Of all our youth this hour is pure gold.
 
 
-
-     3.  May Morning
+3.  May Morning
 
 
    I lie stretched out upon the window-seat
@@ -1271,10 +1126,9 @@ Campus Sonnets:
    Filled with the divine languor of late spring.
 
 
+4.  Return -- 1917
 
-     4.  Return -- 1917
-
-     "The College will reopen Sept. --."  `Catalogue'.
+"The College will reopen Sept. --."  `Catalogue'.
 
 
    I was just aiming at the jagged hole
@@ -1294,10 +1148,7 @@ Campus Sonnets:
    I dreamed I... AM I... wounded?  "YOU ARE DEAD."
 
 
-
-
 Alexander VI Dines with the Cardinal of Capua
-
 
 
    Next, then, the peacock, gilt
@@ -1371,10 +1222,7 @@ Alexander VI Dines with the Cardinal of Capua
    MhM!  Kiss your poor old father, little rose!
 
 
-
-
 The Breaking Point
-
 
 
    It was not when temptation came,
@@ -1416,10 +1264,7 @@ The Breaking Point
    Tell where you found me yesterday!
 
 
-
-
 Lonely Burial
-
 
 
    There were not many at that lonely place,
@@ -1439,10 +1284,7 @@ Lonely Burial
    The terrible bareness of the soul's last house.
 
 
-
-
 Dinner in a Quick Lunch Room
-
 
 
    Soup should be heralded with a mellow horn,
@@ -1462,15 +1304,12 @@ Dinner in a Quick Lunch Room
    And gorge the sticky mess these fools call food!
 
 
-
-
 The Hemp
 
-   (A Virginia Legend.)
+(A Virginia Legend.)
 
 
-
-     The Planting of the Hemp.
+The Planting of the Hemp.
 
 
         Captain Hawk scourged clean the seas
@@ -1543,7 +1382,7 @@ The Hemp
    And her body he took for his desire.
 
 
-     The Growing of the Hemp.
+The Growing of the Hemp.
 
 
    Sir Henry stood in the manor room,
@@ -1617,7 +1456,7 @@ The Hemp
         The rope made, and the work done.
 
 
-     The Using of the Hemp.
+The Using of the Hemp.
 
 
    Captain Hawk scourged clean the seas
@@ -1693,10 +1532,7 @@ The Hemp
         And blind Fate gathers back her seeds.
 
 
-
-
 Poor Devil!
-
 
 
    Well, I was tired of life; the silly folk,
@@ -1726,10 +1562,7 @@ Poor Devil!
    No further doors to break or bars to burst!
 
 
-
-
 Ghosts of a Lunatic Asylum
-
 
 
    Here, where men's eyes were empty and as bright
@@ -1753,19 +1586,16 @@ Ghosts of a Lunatic Asylum
    The silence of the eight men who were God!
 
 
-
-
 The White Peacock
 
-   (France -- Ancient Regime.)
+(France -- Ancient Regime.)
 
 
+I.
 
-     I.
+Go away!
 
-   Go away!
-
-      Go away; I will not confess to you!
+Go away; I will not confess to you!
 
    His black biretta clings like a hangman's cap; under his twitching fingers
      the beads shiver and click,
@@ -1798,8 +1628,8 @@ The White Peacock
      have you relentlessly measured,
    Yardstick of my stifling shroud?
 
-   I am Aumaury de Montreuil; once quick, soon to be eaten of worms.
-   You hear, Father?  Hsh, he is asleep in the night's cloak.
+I am Aumaury de Montreuil; once quick, soon to be eaten of worms.
+You hear, Father?  Hsh, he is asleep in the night's cloak.
 
    Over me too steals sleep.
    Sleep like a white mist on the rotting paintings of cupids and gods
@@ -1809,24 +1639,24 @@ The White Peacock
    Death.
 
    Father, Father, I must not sleep!
-   It does not hear -- that shadow crouched in the corner...
-   Is it a shadow?
-   One might think so indeed, save for the calm face, yellow as wax,
-     that lifts like the face of a drowned man from the choking darkness.
+It does not hear -- that shadow crouched in the corner...
+Is it a shadow?
+One might think so indeed, save for the calm face, yellow as wax,
+that lifts like the face of a drowned man from the choking darkness.
 
 
-     II.
+II.
 
-   Out of the drowsy fog my body creeps back to me.
-   It is the white time before dawn.
-   Moonlight, watery, pellucid, lifeless, ripples over the world.
-   The grass beneath it is gray; the stars pale in the sky.
+Out of the drowsy fog my body creeps back to me.
+It is the white time before dawn.
+Moonlight, watery, pellucid, lifeless, ripples over the world.
+The grass beneath it is gray; the stars pale in the sky.
    The night dew has fallen;
    An infinity of little drops, crystals from which all light has been taken,
    Glint on the sighing branches.
-   All is purity, without color, without stir, without passion.
+All is purity, without color, without stir, without passion.
 
-   Suddenly a peacock screams.
+Suddenly a peacock screams.
 
    My heart shocks and stops;
    Sweat, cold corpse-sweat
@@ -1920,12 +1750,9 @@ The White Peacock
      and spreads to a pool on the floor.
 
 
-
-
 Colors
 
-   (For D. M. C.)
-
+(For D. M. C.)
 
 
    The little man with the vague beard and guise
@@ -1944,10 +1771,7 @@ Colors
    "We're selling that lot there out cheap!" said he.
 
 
-
-
 A Minor Poet
-
 
 
    I am a shell.  From me you shall not hear
@@ -1967,10 +1791,7 @@ A Minor Poet
    A tremulous murmur from great days long dead.
 
 
-
-
 The Lover in Hell
-
 
 
    Eternally the choking steam goes up
@@ -2044,19 +1865,16 @@ The Lover in Hell
    But what a sense of humor God must have!
 
 
-
-
 Winged Man
-
 
 
    The moon, a sweeping scimitar, dipped in the stormy straits,
    The dawn, a crimson cataract, burst through the eastern gates,
    The cliffs were robed in scarlet, the sands were cinnabar,
-   Where first two men spread wings for flight and dared the hawk afar.
+Where first two men spread wings for flight and dared the hawk afar.
 
-   There stands the cunning workman, the crafty past all praise,
-   The man who chained the Minotaur, the man who built the Maze.
+There stands the cunning workman, the crafty past all praise,
+The man who chained the Minotaur, the man who built the Maze.
    His young son is beside him and the boy's face is a light,
    A light of dawn and wonder and of valor infinite.
 
@@ -2068,19 +1886,19 @@ Winged Man
    He cares no more for warnings, he rushes through the sky,
    Braving the crags of ether, daring the gods on high,
    Black 'gainst the crimson sunset, golden o'er cloudy snows,
-   With all Adventure in his heart the first winged man arose.
+With all Adventure in his heart the first winged man arose.
 
-   Dropping gold, dropping gold, where the mists of morning rolled,
-   On he kept his way undaunted, though his breaths were stabs of cold,
-   Through the mystery of dawning that no mortal may behold.
+Dropping gold, dropping gold, where the mists of morning rolled,
+On he kept his way undaunted, though his breaths were stabs of cold,
+Through the mystery of dawning that no mortal may behold.
 
-   Now he shouts, now he sings in the rapture of his wings,
-   And his great heart burns intenser with the strength of his desire,
-   As he circles like a swallow, wheeling, flaming, gyre on gyre.
+Now he shouts, now he sings in the rapture of his wings,
+And his great heart burns intenser with the strength of his desire,
+As he circles like a swallow, wheeling, flaming, gyre on gyre.
 
-   Gazing straight at the sun, half his pilgrimage is done,
-   And he staggers for a moment, hurries on, reels backward, swerves
-   In a rain of scattered feathers as he falls in broken curves.
+Gazing straight at the sun, half his pilgrimage is done,
+And he staggers for a moment, hurries on, reels backward, swerves
+In a rain of scattered feathers as he falls in broken curves.
 
    Icarus, Icarus, though the end is piteous,
    Yet forever, yea, forever we shall see thee rising thus,
@@ -2088,21 +1906,18 @@ Winged Man
 
    You were Man, you who ran farther than our eyes can scan,
    Man absurd, gigantic, eager for impossible Romance,
-   Overthrowing all Hell's legions with one warped and broken lance.
+Overthrowing all Hell's legions with one warped and broken lance.
 
-   On the highest steeps of Space he will have his dwelling-place,
-   In those far, terrific regions where the cold comes down like Death
-   Gleams the red glint of his pinions, smokes the vapor of his breath.
+On the highest steeps of Space he will have his dwelling-place,
+In those far, terrific regions where the cold comes down like Death
+Gleams the red glint of his pinions, smokes the vapor of his breath.
 
    Floating downward, very clear, still the echoes reach the ear
    Of a little tune he whistles and a little song he sings,
    Mounting, mounting still, triumphant, on his torn and broken wings!
 
 
-
-
 Music
-
 
 
    My friend went to the piano; spun the stool
@@ -2131,15 +1946,12 @@ Music
    And to all courage!  Perilous and sharp
    The last chord shook me as wind shakes a harp!
   ... And my friend swung round on his stool, and from gods we were men,
-   "How pretty!" we said; and went on with our talk again.
-
-
+"How pretty!" we said; and went on with our talk again.
 
 
 The Innovator
 
-   (A Pharaoh Speaks.)
-
+(A Pharaoh Speaks.)
 
 
    I said, "Why should a pyramid
@@ -2167,10 +1979,7 @@ The Innovator
    But -- Lord, how usual!
 
 
-
-
 Love in Twilight
-
 
 
    There is darkness behind the light -- and the pale light drips
@@ -2186,23 +1995,20 @@ Love in Twilight
    Gently she breathes -- and the long limbs lie at ease,
    And the rise and fall of the young, slim, virginal breast
    Is as certain-sweet as the march of slow wind through trees,
-   Or the great soft passage of clouds in a sky at rest.
+Or the great soft passage of clouds in a sky at rest.
 
-   I kneel, and our arms enlace, and we kiss long, long.
-   I am drowned in her as in sleep.  There is no more pain.
-   Only the rustle of flames like a broken song
-   That rings half-heard through the dusty halls of the brain.
+I kneel, and our arms enlace, and we kiss long, long.
+I am drowned in her as in sleep.  There is no more pain.
+Only the rustle of flames like a broken song
+That rings half-heard through the dusty halls of the brain.
 
-   One shaking and fragile moment of ecstasy,
-   While the grey gloom flutters and beats like an owl above.
+One shaking and fragile moment of ecstasy,
+While the grey gloom flutters and beats like an owl above.
    And I would not move or speak for the sea or the sky
    Or the flame-bright wings of the miraculous Dove!
 
 
-
-
 The Fiddling Wood
-
 
 
    Gods, what a black, fierce day!  The clouds were iron,
@@ -2269,10 +2075,7 @@ The Fiddling Wood
    Black, dragon branches whipped below a moon!
 
 
-
-
 Portrait of a Boy
-
 
 
    After the whipping he crawled into bed,
@@ -2299,13 +2102,10 @@ Portrait of a Boy
    Decked out in crimson, gemmed with syenite,
    Hailing their fellows with outrageous names,
    The pirates sat and diced.  Their eyes were moons.
-   "Doubloons!" they said.  The words crashed gold.  "Doubloons!"
-
-
+"Doubloons!" they said.  The words crashed gold.  "Doubloons!"
 
 
 Portrait of a Baby
-
 
 
    He lay within a warm, soft world
@@ -2366,12 +2166,9 @@ Portrait of a Baby
    He entered on man's heritage!
 
 
-
-
 The General Public
 
-   "Ah, did you once see Shelley plain?"  -- Browning.
-
+"Ah, did you once see Shelley plain?"  -- Browning.
 
 
    "Shelley?  Oh, yes, I saw him often then,"
@@ -2420,10 +2217,7 @@ The General Public
    Thrice in the face.  He made good sport that night."
 
 
-
-
 Road and Hills
-
 
 
    I shall go away
@@ -2494,12 +2288,9 @@ Road and Hills
    Here, in this light, there is no end....
 
 
-
-
 Elegy for an Enemy
 
-   (For G. H.)
-
+(For G. H.)
 
 
    Say, does that stupid earth
@@ -2566,387 +2357,9 @@ Elegy for an Enemy
    She and her scorn have found!
 
 
-
-
 Biographical Note:
 
 
+Stephen Vincent Bene't (22 July 1898 - 13 March 1943) was from a family with roots in Florida, which explains the Spanish name.  Although born in Bethlehem, Pennsylvania, his father was a colonel in the U.S. Army, and hence he grew up in California and Georgia.  He attended Yale starting in 1915 and that same year published his first book of poems, `Five Men and Pompey'.  `Young Adventure' (1918) is considered his first mature book of poetry, and he went on to win two Pulitzer Prizes, in 1929 for `John Brown's Body' and in 1944 for `Western Star'.
 
-Stephen Vincent Bene't (22 July 1898 - 13 March 1943) was from a family
-with roots in Florida, which explains the Spanish name.  Although born
-in Bethlehem, Pennsylvania, his father was a colonel in the U.S. Army,
-and hence he grew up in California and Georgia.  He attended Yale
-starting in 1915 and that same year published his first book of poems,
-`Five Men and Pompey'.  `Young Adventure' (1918) is considered his first
-mature book of poetry, and he went on to win two Pulitzer Prizes, in
-1929 for `John Brown's Body' and in 1944 for `Western Star'.
-
-It appears that the whole family had great talents, as his grandfather
-was a Brigadier General, his father a Colonel, and both Stephen and his
-brother William Rose Benet won Pulitzer Prizes for poetry.
-
-
-
-
-
-End of Project Gutenberg's Young Adventure, by Stephen Vincent Benet
-
-*** END OF THIS PROJECT GUTENBERG EBOOK YOUNG ADVENTURE ***
-
-***** This file should be named 312.txt or 312.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/3/1/312/
-
-Produced by A. Light, and L. Bowser
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+It appears that the whole family had great talents, as his grandfather was a Brigadier General, his father a Colonel, and both Stephen and his brother William Rose Benet won Pulitzer Prizes for poetry.

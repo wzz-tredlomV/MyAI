@@ -1,34 +1,3 @@
-The Project Gutenberg EBook of The Bucolics and Eclogues, by Virgil
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The Bucolics and Eclogues
-
-Author: Virgil
-
-Release Date: March 10, 2008 [EBook #230]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE BUCOLICS AND ECLOGUES ***
-
-
-
-
-
-
-
-
-
-
-
-
 37 BC
 
 THE ECLOGUES
@@ -45,23 +14,15 @@ MELIBOEUS
 You, Tityrus, 'neath a broad beech-canopy
 Reclining, on the slender oat rehearse
 Your silvan ditties: I from my sweet fields,
-And home's familiar bounds, even now depart.
-Exiled from home am I; while, Tityrus, you
-Sit careless in the shade, and, at your call,
-"Fair Amaryllis" bid the woods resound.
+And home's familiar bounds, even now depart. Exiled from home am I; while, Tityrus, you Sit careless in the shade, and, at your call, "Fair Amaryllis" bid the woods resound.
 
 TITYRUS
 O Meliboeus, 'twas a god vouchsafed
 This ease to us, for him a god will I
 Deem ever, and from my folds a tender lamb
-Oft with its life-blood shall his altar stain.
-His gift it is that, as your eyes may see,
-My kine may roam at large, and I myself
-Play on my shepherd's pipe what songs I will.
+Oft with its life-blood shall his altar stain. His gift it is that, as your eyes may see, My kine may roam at large, and I myself Play on my shepherd's pipe what songs I will.
 
-MELIBOEUS
-I grudge you not the boon, but marvel more,
-Such wide confusion fills the country-side.
+MELIBOEUS I grudge you not the boon, but marvel more, Such wide confusion fills the country-side.
 See, sick at heart I drive my she-goats on,
 And this one, O my Tityrus, scarce can lead:
 For 'mid the hazel-thicket here but now
@@ -69,8 +30,7 @@ She dropped her new-yeaned twins on the bare flint,
 Hope of the flock- an ill, I mind me well,
 Which many a time, but for my blinded sense,
 The thunder-stricken oak foretold, oft too
-From hollow trunk the raven's ominous cry.
-But who this god of yours? Come, Tityrus, tell.
+From hollow trunk the raven's ominous cry. But who this god of yours? Come, Tityrus, tell.
 
 TITYRUS
 The city, Meliboeus, they call Rome,
@@ -82,8 +42,7 @@ Comparing small with great; but this as far
 Above all other cities rears her head
 As cypress above pliant osier towers.
 
-MELIBOEUS
-And what so potent cause took you to Rome?
+MELIBOEUS And what so potent cause took you to Rome?
 
 TITYRUS
 Freedom, which, though belated, cast at length
@@ -93,10 +52,7 @@ Cast eyes, I say, and, though long tarrying, came,
 Now when, from Galatea's yoke released,
 I serve but Amaryllis: for I will own,
 While Galatea reigned over me, I had
-No hope of freedom, and no thought to save.
-Though many a victim from my folds went forth,
-Or rich cheese pressed for the unthankful town,
-Never with laden hands returned I home.
+No hope of freedom, and no thought to save. Though many a victim from my folds went forth, Or rich cheese pressed for the unthankful town, Never with laden hands returned I home.
 
 MELIBOEUS
 I used to wonder, Amaryllis, why
@@ -110,9 +66,7 @@ TITYRUS
 What could I do? how else from bonds be freed,
 Or otherwhere find gods so nigh to aid?
 There, Meliboeus, I saw that youth to whom
-Yearly for twice six days my altars smoke.
-There instant answer gave he to my suit,
-"Feed, as before, your kine, boys, rear your bulls."
+Yearly for twice six days my altars smoke. There instant answer gave he to my suit, "Feed, as before, your kine, boys, rear your bulls."
 
 MELIBOEUS
 So in old age, you happy man, your fields
@@ -159,14 +113,9 @@ Hang from the bushy rock; my songs are sung;
 Never again will you, with me to tend,
 On clover-flower, or bitter willows, browse.
 
-TITYRUS
-Yet here, this night, you might repose with me,
-On green leaves pillowed: apples ripe have I,
-Soft chestnuts, and of curdled milk enow.
+TITYRUS Yet here, this night, you might repose with me, On green leaves pillowed: apples ripe have I, Soft chestnuts, and of curdled milk enow.
 And, see, the farm-roof chimneys smoke afar,
 And from the hills the shadows lengthening fall!
-
-
 
 
 ECLOGUE II
@@ -178,9 +127,7 @@ For fair Alexis, his own master's joy:
 No room for hope had he, yet, none the less,
 The thick-leaved shadowy-soaring beech-tree grove
 Still would he haunt, and there alone, as thus,
-To woods and hills pour forth his artless strains.
-"Cruel Alexis, heed you naught my songs?
-Have you no pity? you'll drive me to my death.
+To woods and hills pour forth his artless strains. "Cruel Alexis, heed you naught my songs? Have you no pity? you'll drive me to my death.
 Now even the cattle court the cooling shade
 And the green lizard hides him in the thorn:
 Now for tired mowers, with the fierce heat spent,
@@ -209,9 +156,7 @@ Ah! were you but content with me to dwell.
 Some lowly cot in the rough fields our home,
 Shoot down the stags, or with green osier-wand
 Round up the straggling flock! There you with me
-In silvan strains will learn to rival Pan.
-Pan first with wax taught reed with reed to join;
-For sheep alike and shepherd Pan hath care.
+In silvan strains will learn to rival Pan. Pan first with wax taught reed with reed to join; For sheep alike and shepherd Pan hath care.
 Nor with the reed's edge fear you to make rough
 Your dainty lip; such arts as these to learn
 What did Amyntas do?- what did he not?
@@ -246,9 +191,7 @@ What misery have I brought upon my head!-
 Loosed on the flowers Siroces to my bane,
 And the wild boar upon my crystal springs!
 Whom do you fly, infatuate? gods ere now,
-And Dardan Paris, have made the woods their home.
-Let Pallas keep the towers her hand hath built,
-Us before all things let the woods delight.
+And Dardan Paris, have made the woods their home. Let Pallas keep the towers her hand hath built, Us before all things let the woods delight.
 The grim-eyed lioness pursues the wolf,
 The wolf the she-goat, the she-goat herself
 In wanton sport the flowering cytisus,
@@ -264,19 +207,14 @@ Of pliant rush or osier? Scorned by this,
 Elsewhere some new Alexis you will find."
 
 
-
-
 ECLOGUE III
 
 MENALCAS   DAMOETAS   PALAEMON
 
 
-MENALCAS
-Who owns the flock, Damoetas? Meliboeus?
+MENALCAS Who owns the flock, Damoetas? Meliboeus?
 
-DAMOETAS
-Nay, they are Aegon's sheep, of late by him
-Committed to my care.
+DAMOETAS Nay, they are Aegon's sheep, of late by him Committed to my care.
 
 MENALCAS
 
@@ -292,9 +230,7 @@ Hold! not so ready with your jeers at men!
 We know who once, and in what shrine with you-
 The he-goats looked aside- the light nymphs laughed-
 
-MENALCAS
-Ay, then, I warrant, when they saw me slash
-Micon's young vines and trees with spiteful hook.
+MENALCAS Ay, then, I warrant, when they saw me slash Micon's young vines and trees with spiteful hook.
 
 DAMOETAS
 Or here by these old beeches, when you broke
@@ -308,15 +244,11 @@ With thieves so daring, what can masters do?
 Did I not see you, rogue, in ambush lie
 For Damon's goat, while loud Lycisca barked?
 And when I cried, "Where is he off to now?
-Gather your flock together, Tityrus,"
-You hid behind the sedges.
+Gather your flock together, Tityrus," You hid behind the sedges.
 
 DAMOETAS
 
-                          Well, was he
-Whom I had conquered still to keep the goat.
-Which in the piping-match my pipe had won!
-You may not know it, but the goat was mine.
+Well, was he Whom I had conquered still to keep the goat. Which in the piping-match my pipe had won! You may not know it, but the goat was mine.
 
 MENALCAS
 You out-pipe him? when had you ever pipe
@@ -356,8 +288,7 @@ For me too wrought the same Alcimedon
 A pair of cups, and round the handles wreathed
 Pliant acanthus, Orpheus in the midst,
 The forests following in his wake; nor yet
-Have I set lip to them, but lay them by.
-Matched with a heifer, who would prate of cups?
+Have I set lip to them, but lay them by. Matched with a heifer, who would prate of cups?
 
 MENALCAS
 You shall not balk me now; where'er you bid,
@@ -381,121 +312,55 @@ Then you, Menalcas, in alternate strain:
 Alternate strains are to the Muses dear.
 
 
-DAMOETAS
-"From Jove the Muse began; Jove filleth all,
-Makes the earth fruitful, for my songs hath care."
+DAMOETAS "From Jove the Muse began; Jove filleth all, Makes the earth fruitful, for my songs hath care."
 
-MENALCAS
-"Me Phoebus loves; for Phoebus his own gifts,
-Bays and sweet-blushing hyacinths, I keep."
+MENALCAS "Me Phoebus loves; for Phoebus his own gifts, Bays and sweet-blushing hyacinths, I keep."
 
-DAMOETAS
-"Gay Galatea throws an apple at me,
-Then hies to the willows, hoping to be seen."
+DAMOETAS "Gay Galatea throws an apple at me, Then hies to the willows, hoping to be seen."
 
-MENALCAS
-"My dear Amyntas comes unasked to me;
-Not Delia to my dogs is better known."
+MENALCAS "My dear Amyntas comes unasked to me; Not Delia to my dogs is better known."
 
-DAMOETAS
-"Gifts for my love I've found; mine eyes have marked
-Where the wood-pigeons build their airy nests."
+DAMOETAS "Gifts for my love I've found; mine eyes have marked Where the wood-pigeons build their airy nests."
 
-MENALCAS
-"Ten golden apples have I sent my boy,
-All that I could, to-morrow as many more."
+MENALCAS "Ten golden apples have I sent my boy, All that I could, to-morrow as many more."
 
 
-DAMOETAS
-"What words to me, and uttered O how oft,
-Hath Galatea spoke! waft some of them,
-Ye winds, I pray you, for the gods to hear."
+DAMOETAS "What words to me, and uttered O how oft, Hath Galatea spoke! waft some of them, Ye winds, I pray you, for the gods to hear."
 
-MENALCAS
-"It profiteth me naught, Amyntas mine,
-That in your very heart you spurn me not,
-If, while you hunt the boar, I guard the nets."
+MENALCAS "It profiteth me naught, Amyntas mine, That in your very heart you spurn me not, If, while you hunt the boar, I guard the nets."
 
-DAMOETAS
-"Prithee, Iollas, for my birthday guest
-Send me your Phyllis; when for the young crops
-I slay my heifer, you yourself shall come."
+DAMOETAS "Prithee, Iollas, for my birthday guest Send me your Phyllis; when for the young crops I slay my heifer, you yourself shall come."
 
-MENALCAS
-"I am all hers; she wept to see me go,
-And, lingering on the word, 'farewell' she said,
-'My beautiful Iollas, fare you well.'"
+MENALCAS "I am all hers; she wept to see me go, And, lingering on the word, 'farewell' she said, 'My beautiful Iollas, fare you well.'"
 
-DAMOETAS
-"Fell as the wolf is to the folded flock,
-Rain to ripe corn, Sirocco to the trees,
-The wrath of Amaryllis is to me."
+DAMOETAS "Fell as the wolf is to the folded flock, Rain to ripe corn, Sirocco to the trees, The wrath of Amaryllis is to me."
 
-MENALCAS
-"As moisture to the corn, to ewes with young
-Lithe willow, as arbute to the yeanling kids,
-So sweet Amyntas, and none else, to me."
+MENALCAS "As moisture to the corn, to ewes with young Lithe willow, as arbute to the yeanling kids, So sweet Amyntas, and none else, to me."
 
-DAMOETAS
-"My Muse, although she be but country-bred,
-Is loved by Pollio: O Pierian Maids,
-Pray you, a heifer for your reader feed!"
+DAMOETAS "My Muse, although she be but country-bred, Is loved by Pollio: O Pierian Maids, Pray you, a heifer for your reader feed!"
 
- MENALCAS
-"Pollio himself too doth new verses make:
-Feed ye a bull now ripe to butt with horn,
-And scatter with his hooves the flying sand."
+MENALCAS "Pollio himself too doth new verses make: Feed ye a bull now ripe to butt with horn, And scatter with his hooves the flying sand."
 
-DAMOETAS
-"Who loves thee, Pollio, may he thither come
-Where thee he joys beholding; ay, for him
-Let honey flow, the thorn-bush spices bear."
+DAMOETAS "Who loves thee, Pollio, may he thither come Where thee he joys beholding; ay, for him Let honey flow, the thorn-bush spices bear."
 
-MENALCAS
-"Who hates not Bavius, let him also love
-Thy songs, O Maevius, ay, and therewithal
-Yoke foxes to his car, and he-goats milk."
+MENALCAS "Who hates not Bavius, let him also love Thy songs, O Maevius, ay, and therewithal Yoke foxes to his car, and he-goats milk."
 
-DAMOETAS
-"You, picking flowers and strawberries that grow
-So near the ground, fly hence, boys, get you gone!
-There's a cold adder lurking in the grass."
+DAMOETAS "You, picking flowers and strawberries that grow So near the ground, fly hence, boys, get you gone! There's a cold adder lurking in the grass."
 
-MENALCAS
-"Forbear, my sheep, to tread too near the brink;
-Yon bank is ill to trust to; even now
-The ram himself, see, dries his dripping fleece!"
+MENALCAS "Forbear, my sheep, to tread too near the brink; Yon bank is ill to trust to; even now The ram himself, see, dries his dripping fleece!"
 
-DAMOETAS
-"Back with the she-goats, Tityrus, grazing there
-So near the river! I, when time shall serve,
-Will take them all, and wash them in the pool."
+DAMOETAS "Back with the she-goats, Tityrus, grazing there So near the river! I, when time shall serve, Will take them all, and wash them in the pool."
 
-MENALCAS
-"Boys, get your sheep together; if the heat,
-As late it did, forestall us with the milk,
-Vainly the dried-up udders shall we wring."
+MENALCAS "Boys, get your sheep together; if the heat, As late it did, forestall us with the milk, Vainly the dried-up udders shall we wring."
 
 
-DAMOETAS
-"How lean my bull amid the fattening vetch!
-Alack! alack! for herdsman and for herd!
-It is the self-same love that wastes us both."
+DAMOETAS "How lean my bull amid the fattening vetch! Alack! alack! for herdsman and for herd! It is the self-same love that wastes us both."
 
-MENALCAS
-"These truly- nor is even love the cause-
-Scarce have the flesh to keep their bones together
-Some evil eye my lambkins hath bewitched."
+MENALCAS "These truly- nor is even love the cause- Scarce have the flesh to keep their bones together Some evil eye my lambkins hath bewitched."
 
-DAMOETAS
-"Say in what clime- and you shall be withal
-My great Apollo- the whole breadth of heaven
-Opens no wider than three ells to view."
+DAMOETAS "Say in what clime- and you shall be withal My great Apollo- the whole breadth of heaven Opens no wider than three ells to view."
 
-MENALCAS
-"Say in what country grow such flowers as bear
-The names of kings upon their petals writ,
-And you shall have fair Phyllis for your own."
+MENALCAS "Say in what country grow such flowers as bear The names of kings upon their petals writ, And you shall have fair Phyllis for your own."
 
 PALAEMON
 Not mine betwixt such rivals to decide:
@@ -503,8 +368,6 @@ You well deserve the heifer, so does he,
 With all who either fear the sweets of love,
 Or taste its bitterness. Now, boys, shut off
 The sluices, for the fields have drunk their fill.
-
-
 
 
 ECLOGUE IV
@@ -526,10 +389,7 @@ The iron shall cease, the golden race arise,
 Befriend him, chaste Lucina; 'tis thine own
 Apollo reigns. And in thy consulate,
 This glorious age, O Pollio, shall begin,
-And the months enter on their mighty march.
-Under thy guidance, whatso tracks remain
-Of our old wickedness, once done away,
-Shall free the earth from never-ceasing fear.
+And the months enter on their mighty march. Under thy guidance, whatso tracks remain Of our old wickedness, once done away, Shall free the earth from never-ceasing fear.
 He shall receive the life of gods, and see
 Heroes with gods commingling, and himself
 Be seen of them, and with his father's worth
@@ -567,11 +427,7 @@ The sturdy ploughman shall loose yoke from steer,
 Nor wool with varying colours learn to lie;
 But in the meadows shall the ram himself,
 Now with soft flush of purple, now with tint
-Of yellow saffron, teach his fleece to shine.
-While clothed in natural scarlet graze the lambs.
-"Such still, such ages weave ye, as ye run,"
-Sang to their spindles the consenting Fates
-By Destiny's unalterable decree.
+Of yellow saffron, teach his fleece to shine. While clothed in natural scarlet graze the lambs. "Such still, such ages weave ye, as ye run," Sang to their spindles the consenting Fates By Destiny's unalterable decree.
 Assume thy greatness, for the time draws nigh,
 Dear child of gods, great progeny of Jove!
 See how it totters- the world's orbed might,
@@ -594,8 +450,6 @@ For him, on whom his parents have not smiled,
 Gods deem not worthy of their board or bed.
 
 
-
-
 ECLOGUE V
 
 MENALCAS   MOPSUS
@@ -614,8 +468,7 @@ Yon shade that quivers to the changeful breeze,
 Or the cave's shelter. Look you how the cave
 Is with the wild vine's clusters over-laced!
 
-MENALCAS
-None but Amyntas on these hills of ours
+MENALCAS None but Amyntas on these hills of ours
 Can vie with you.
 
 MOPSUS
@@ -637,32 +490,21 @@ On a green beech-tree's rind, playing by turns,
 And marking down the notes; then afterward
 Bid you Amyntas match them if he can.
 
-MENALCAS
-As limber willow to pale olive yields,
-As lowly Celtic nard to rose-buds bright,
-So, to my mind, Amyntas yields to you.
-But hold awhile, for to the cave we come.
+MENALCAS As limber willow to pale olive yields, As lowly Celtic nard to rose-buds bright, So, to my mind, Amyntas yields to you. But hold awhile, for to the cave we come.
 
 MOPSUS
 "For Daphnis cruelly slain wept all the Nymphs-
 Ye hazels, bear them witness, and ye streams-
 When she, his mother, clasping in her arms
 The hapless body of the son she bare,
-To gods and stars unpitying, poured her plaint.
-Then, Daphnis, to the cooling streams were none
-That drove the pastured oxen, then no beast
-Drank of the river, or would the grass-blade touch.
-Nay, the wild rocks and woods then voiced the roar
-Of Afric lions mourning for thy death.
+To gods and stars unpitying, poured her plaint. Then, Daphnis, to the cooling streams were none That drove the pastured oxen, then no beast Drank of the river, or would the grass-blade touch. Nay, the wild rocks and woods then voiced the roar Of Afric lions mourning for thy death.
 Daphnis, 'twas thou bad'st yoke to Bacchus' car
 Armenian tigresses, lead on the pomp
 Of revellers, and with tender foliage wreathe
 The bending spear-wands. As to trees the vine
 Is crown of glory, as to vines the grape,
 Bulls to the herd, to fruitful fields the corn,
-So the one glory of thine own art thou.
-When the Fates took thee hence, then Pales' self,
-And even Apollo, left the country lone.
+So the one glory of thine own art thou. When the Fates took thee hence, then Pales' self, And even Apollo, left the country lone.
 Where the plump barley-grain so oft we sowed,
 There but wild oats and barren darnel spring;
 For tender violet and narcissus bright
@@ -694,10 +536,7 @@ What dearer could I deem? the boy himself
 Was worthy to be sung, and many a time
 Hath Stimichon to me your singing praised.
 
-MENALCAS
-"In dazzling sheen with unaccustomed eyes
-Daphnis stands rapt before Olympus' gate,
-And sees beneath his feet the clouds and stars.
+MENALCAS "In dazzling sheen with unaccustomed eyes Daphnis stands rapt before Olympus' gate, And sees beneath his feet the clouds and stars.
 Wherefore the woods and fields, Pan, shepherd-folk,
 And Dryad-maidens, thrill with eager joy;
 Nor wolf with treacherous wile assails the flock,
@@ -724,10 +563,7 @@ Our yearly vows, and when with lustral rites
 The fields we hallow. Long as the wild boar
 Shall love the mountain-heights, and fish the streams,
 While bees on thyme and crickets feed on dew,
-Thy name, thy praise, thine honour, shall endure.
-Even as to Bacchus and to Ceres, so
-To thee the swain his yearly vows shall make;
-And thou thereof, like them, shalt quittance claim."
+Thy name, thy praise, thine honour, shall endure. Even as to Bacchus and to Ceres, so To thee the swain his yearly vows shall make; And thou thereof, like them, shalt quittance claim."
 
 MOPSUS
 How, how repay thee for a song so rare?
@@ -748,8 +584,6 @@ This shepherd's crook, which, howso hard he begged,
 Antigenes, then worthy to be loved,
 Prevailed not to obtain- with brass, you see,
 And equal knots, Menalcas, fashioned fair!
-
-
 
 
 ECLOGUE VI
@@ -778,10 +612,7 @@ Young Chromis and Mnasyllos chanced to see
 Silenus sleeping, flushed, as was his wont,
 With wine of yesterday. Not far aloof,
 Slipped from his head, the garlands lay, and there
-By its worn handle hung a ponderous cup.
-Approaching- for the old man many a time
-Had balked them both of a long hoped-for song-
-Garlands to fetters turned, they bind him fast.
+By its worn handle hung a ponderous cup. Approaching- for the old man many a time Had balked them both of a long hoped-for song- Garlands to fetters turned, they bind him fast.
 Then Aegle, fairest of the Naiad-band,
 Aegle came up to the half-frightened boys,
 Came, and, as now with open eyes he lay,
@@ -790,10 +621,7 @@ Both brow and temples. Laughing at their guile,
 And crying, "Why tie the fetters? loose me, boys;
 Enough for you to think you had the power;
 Now list the songs you wish for- songs for you,
-Another meed for her" -forthwith began.
-Then might you see the wild things of the wood,
-With Fauns in sportive frolic beat the time,
-And stubborn oaks their branchy summits bow.
+Another meed for her" -forthwith began. Then might you see the wild things of the wood, With Fauns in sportive frolic beat the time, And stubborn oaks their branchy summits bow.
 Not Phoebus doth the rude Parnassian crag
 So ravish, nor Orpheus so entrance the heights
 Of Rhodope or Ismarus: for he sang
@@ -868,8 +696,6 @@ Vesper, advancing, bade the shepherds tell
 Their tale of sheep, and pen them in the fold.
 
 
-
-
 ECLOGUE VII
 
 MELIBOEUS   CORYDON   THYRSIS
@@ -923,12 +749,7 @@ Young Micon offers: if his luck but hold,
 Full-length in polished marble, ankle-bound
 With purple buskin, shall thy statue stand."
 
-THYRSIS
-"A bowl of milk, Priapus, and these cakes,
-Yearly, it is enough for thee to claim;
-Thou art the guardian of a poor man's plot.
-Wrought for a while in marble, if the flock
-At lambing time be filled,stand there in gold."
+THYRSIS "A bowl of milk, Priapus, and these cakes, Yearly, it is enough for thee to claim; Thou art the guardian of a poor man's plot. Wrought for a while in marble, if the flock At lambing time be filled,stand there in gold."
 
 CORYDON
 "Daughter of Nereus, Galatea mine,
@@ -951,12 +772,7 @@ Ward off the solstice from my flock, for now
 Comes on the burning summer, now the buds
 Upon the limber vine-shoot 'gin to swell."
 
-THYRSIS
-"Here is a hearth, and resinous logs, here fire
-Unstinted, and doors black with ceaseless smoke.
-Here heed we Boreas' icy breath as much
-As the wolf heeds the number of the flock,
-Or furious rivers their restraining banks."
+THYRSIS "Here is a hearth, and resinous logs, here fire Unstinted, and doors black with ceaseless smoke. Here heed we Boreas' icy breath as much As the wolf heeds the number of the flock, Or furious rivers their restraining banks."
 
 CORYDON
 "The junipers and prickly chestnuts stand,
@@ -986,12 +802,7 @@ Fir on the mountain-height; but if more oft
 Thou'ldst come to me, fair Lycidas, to thee
 Both forest-ash, and garden-pine should bow."
 
-MELIBOEUS
-These I remember, and how Thyrsis strove
-For victory in vain. From that time forth
-Is Corydon still Corydon with us.
-
-
+MELIBOEUS These I remember, and how Thyrsis strove For victory in vain. From that time forth Is Corydon still Corydon with us.
 
 
 ECLOGUE VIII
@@ -1013,10 +824,7 @@ That day when I thy deeds may celebrate,
 Ever that day when through the whole wide world
 I may renown thy verse- that verse alone
 Of Sophoclean buskin worthy found?
-With thee began, to thee shall end, the strain.
-Take thou these songs that owe their birth to thee,
-And deign around thy temples to let creep
-This ivy-chaplet 'twixt the conquering bays.
+With thee began, to thee shall end, the strain. Take thou these songs that owe their birth to thee, And deign around thy temples to let creep This ivy-chaplet 'twixt the conquering bays.
 
 Scarce had night's chilly shade forsook the sky
 What time to nibbling sheep the dewy grass
@@ -1090,12 +898,9 @@ Yea, be the whole earth to mid-ocean turned!
 Farewell, ye woodlands I from the tall peak
 Of yon aerial rock will headlong plunge
 Into the billows: this my latest gift,
-From dying lips bequeathed thee, see thou keep.
-Cease now, my flute, now cease Maenalian lays."
+From dying lips bequeathed thee, see thou keep. Cease now, my flute, now cease Maenalian lays."
 
-Thus Damon: but do ye, Pierian Maids-
-We cannot all do all things- tell me how
-Alphesiboeus to his strain replied.
+Thus Damon: but do ye, Pierian Maids- We cannot all do all things- tell me how Alphesiboeus to his strain replied.
 
 ALPHESIBOEUS
 "Bring water, and with soft wool-fillet bind
@@ -1117,18 +922,13 @@ I twine about thee, and three times withal
 Around these altars do thine image bear:
 Uneven numbers are the god's delight.
 
-"Draw from the town, my songs, draw Daphnis home.
-Now, Amaryllis, ply in triple knots
-The threefold colours; ply them fast, and say
-This is the chain of Venus that I ply.
+"Draw from the town, my songs, draw Daphnis home. Now, Amaryllis, ply in triple knots The threefold colours; ply them fast, and say This is the chain of Venus that I ply.
 
 "Draw from the town, my songs, draw Daphnis home.
 As by the kindling of the self-same fire
 Harder this clay, this wax the softer grows,
 So by my love may Daphnis; sprinkle meal,
-And with bitumen burn the brittle bays.
-Me Daphnis with his cruelty doth burn,
-I to melt cruel Daphnis burn this bay.
+And with bitumen burn the brittle bays. Me Daphnis with his cruelty doth burn, I to melt cruel Daphnis burn this bay.
 
 "Draw from the town, my songs, draw Daphnis home.
 As when some heifer, seeking for her steer
@@ -1144,9 +944,7 @@ The traitor left me, which, O earth, to thee
 Here on this very threshold I commit-
 Pledges that bind him to redeem the debt.
 
-"Draw from the town, my songs, draw Daphnis home.
-These herbs of bane to me did Moeris give,
-In Pontus culled, where baneful herbs abound.
+"Draw from the town, my songs, draw Daphnis home. These herbs of bane to me did Moeris give, In Pontus culled, where baneful herbs abound.
 With these full oft have I seen Moeris change
 To a wolf's form, and hide him in the woods,
 Oft summon spirits from the tomb's recess,
@@ -1156,8 +954,7 @@ And to new fields transport the standing corn.
 Take ashes, Amaryllis, fetch them forth,
 And o'er your head into the running brook
 Fling them, nor look behind: with these will
-Upon the heart of Daphnis make essay.
-Nothing for gods, nothing for songs cares he.
+Upon the heart of Daphnis make essay. Nothing for gods, nothing for songs cares he.
 
 "Draw from the town, my songs, draw Daphnis home.
 Look, look I the very embers of themselves
@@ -1170,8 +967,6 @@ By their own fancies fooled?
 
                            Give o'er, my songs,
 Daphnis is coming from the town, give o'er."
-
-
 
 
 ECLOGUE IX
@@ -1254,10 +1049,7 @@ Here the white poplar bends above the cave,
 And the lithe vine weaves shadowy covert: come,
 Leave the mad waves to beat upon the shore."
 
-LYCIDAS
-What of the strain I heard you singing once
-On a clear night alone? the notes I still
-Remember, could I but recall the words.
+LYCIDAS What of the strain I heard you singing once On a clear night alone? the notes I still Remember, could I but recall the words.
 
 MOERIS
 "Why, Daphnis, upward gazing, do you mark
@@ -1275,24 +1067,14 @@ And even his voice is failing Moeris now;
 The wolves eyed Moeris first: but at your wish
 Menalcas will repeat them oft enow.
 
-LYCIDAS
-Your pleas but linger out my heart's desire:
-Now all the deep is into silence hushed,
-And all the murmuring breezes sunk to sleep.
-We are half-way thither, for Bianor's tomb
-Begins to show: here, Moeris, where the hinds
-Are lopping the thick leafage, let us sing.
+LYCIDAS Your pleas but linger out my heart's desire: Now all the deep is into silence hushed, And all the murmuring breezes sunk to sleep. We are half-way thither, for Bianor's tomb Begins to show: here, Moeris, where the hinds Are lopping the thick leafage, let us sing.
 Set down the kids, yet shall we reach the town;
 Or, if we fear the night may gather rain
 Ere we arrive, then singing let us go,
 Our way to lighten; and, that we may thus
 Go singing, I will case you of this load.
 
-MOERIS
-Cease, boy, and get we to the work in hand:
-We shall sing better when himself is come.
-
-
+MOERIS Cease, boy, and get we to the work in hand: We shall sing better when himself is come.
 
 
 ECLOGUE X
@@ -1337,10 +1119,7 @@ Of the elder-berry, and with vermilion, dyed.
 "Wilt ever make an end?" quoth he, "behold
 Love recks not aught of it: his heart no more
 With tears is sated than with streams the grass,
-Bees with the cytisus, or goats with leaves."
-"Yet will ye sing, Arcadians, of my woes
-Upon your mountains," sadly he replied-
-"Arcadians, that alone have skill to sing.
+Bees with the cytisus, or goats with leaves." "Yet will ye sing, Arcadians, of my woes Upon your mountains," sadly he replied- "Arcadians, that alone have skill to sing.
 O then how softly would my ashes rest,
 If of my love, one day, your flutes should tell!
 And would that I, of your own fellowship,
@@ -1351,14 +1130,7 @@ Bewitch me- what if swart Amyntas be?
 Dark is the violet, dark the hyacinth-
 Among the willows, 'neath the limber vine,
 Reclining would my love have lain with me,
-Phyllis plucked garlands, or Amyntas sung.
-Here are cool springs, soft mead and grove, Lycoris;
-Here might our lives with time have worn away.
-But me mad love of the stern war-god holds
-Armed amid weapons and opposing foes.
-Whilst thou- Ah! might I but believe it not!-
-Alone without me, and from home afar,
-Look'st upon Alpine snows and frozen Rhine.
+Phyllis plucked garlands, or Amyntas sung. Here are cool springs, soft mead and grove, Lycoris; Here might our lives with time have worn away. But me mad love of the stern war-god holds Armed amid weapons and opposing foes. Whilst thou- Ah! might I but believe it not!- Alone without me, and from home afar, Look'st upon Alpine snows and frozen Rhine.
 Ah! may the frost not hurt thee, may the sharp
 And jagged ice not wound thy tender feet!
 I will depart, re-tune the songs I framed
@@ -1383,8 +1155,7 @@ In the mid-frost should drink of Hebrus' stream,
 And in wet winters face Sithonian snows,
 Or, when the bark of the tall elm-tree bole
 Of drought is dying, should, under Cancer's Sign,
-In Aethiopian deserts drive our flocks.
-Love conquers all things; yield we too to love!"
+In Aethiopian deserts drive our flocks. Love conquers all things; yield we too to love!"
 
 These songs, Pierian Maids, shall it suffice
 Your poet to have sung, the while he sat,
@@ -1397,371 +1168,3 @@ Baneful to singers; baneful is the shade
 Cast by the juniper, crops sicken too
 In shade. Now homeward, having fed your fill--
 Eve's star is rising-go, my she-goats, go.
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of The Bucolics and Eclogues, by Virgil
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE BUCOLICS AND ECLOGUES ***
-
-***** This file should be named 230.txt or 230.zip *****
-This and all associated files of various formats will be found in:
-        https://www.gutenberg.org/2/3/230/
-
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-https://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at https://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at https://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit https://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: https://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     https://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

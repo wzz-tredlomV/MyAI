@@ -1,18 +1,14 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 117 ***
-
 Beethoven's Fifth Symphony, in C-minor, Opus #67
 
 
 by Ludwig van Beethoven
 
 
-
 (C) 1994, 2001 Geof Pawlicki
 (P) 1994, 2001 Geof Pawlicki
 
 
-The accompanying files contain the four movements of the
-symphony as:
+The accompanying files contain the four movements of the symphony as:
 
   117-1.mid
   117-2.mid
@@ -20,12 +16,4 @@ symphony as:
   117-4.mid
 
 
-
-
-
-
-
-End of the Project Gutenberg EBook of Beethoven's Fifth Symphony, in
-C-minor, Opus #67, by Ludwig van Beethoven
-
-*** END OF THE PROJECT GUTENBERG EBOOK 117 ***
+End of the Project Gutenberg EBook of Beethoven's Fifth Symphony, in C-minor, Opus #67, by Ludwig van Beethoven

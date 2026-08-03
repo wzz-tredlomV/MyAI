@@ -1,5 +1,3 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 1035 ***
-
 THE MAN AGAINST THE SKY
 
 A Book of Poems
@@ -7,11 +5,7 @@ A Book of Poems
 by Edwin Arlington Robinson
 
 
-
-[Note on text:  Italicized words or phrases are capitalized.
-Lines longer than 78 characters are broken and the continuation
-is indented two spaces.  Some obvious errors may have been corrected.]
-
+[Note on text:  Italicized words or phrases are capitalized. Lines longer than 78 characters are broken and the continuation is indented two spaces.  Some obvious errors may have been corrected.]
 
 
                To
@@ -19,22 +13,10 @@ is indented two spaces.  Some obvious errors may have been corrected.]
                WILLIAM EDWARD BUTLER
 
 
-
-
-
-Several of the poems included in this book are reprinted
-from American periodicals, as follows:  "The Gift of God",
-"Old King Cole", "Another Dark Lady", and "The Unforgiven";
-"Flammonde" and "The Poor Relation"; "The Clinging Vine";
-"Eros Turannos" and "Bokardo"; "The Voice of Age"; "Cassandra";
-"The Burning Book"; "Theophilus"; "Ben Jonson Entertains
-a Man from Stratford".
-
-
+Several of the poems included in this book are reprinted from American periodicals, as follows:  "The Gift of God", "Old King Cole", "Another Dark Lady", and "The Unforgiven"; "Flammonde" and "The Poor Relation"; "The Clinging Vine"; "Eros Turannos" and "Bokardo"; "The Voice of Age"; "Cassandra"; "The Burning Book"; "Theophilus"; "Ben Jonson Entertains a Man from Stratford".
 
 
 Contents
-
 
 
      Flammonde
@@ -65,17 +47,10 @@ Contents
      The Man against the Sky
 
 
-
-
-
 THE MAN AGAINST THE SKY
 
 
-
-
-
 Flammonde
-
 
 
      The man Flammonde, from God knows where,
@@ -187,10 +162,7 @@ Flammonde
      Horizons for the man Flammonde.
 
 
-
-
 The Gift of God
-
 
 
      Blessed with a joy that only she
@@ -248,10 +220,7 @@ The Gift of God
      Of roses thrown on marble stairs.
 
 
-
-
 The Clinging Vine
-
 
 
      "Be calm?  And was I frantic?
@@ -363,10 +332,7 @@ The Clinging Vine
       And you and I are cold."
 
 
-
-
 Cassandra
-
 
 
      I heard one who said:  "Verily,
@@ -430,10 +396,7 @@ Cassandra
       Moved on.  None heeded, and few heard.
 
 
-
-
 John Gorham
-
 
 
      "Tell me what you're doing over here, John Gorham,
@@ -478,35 +441,32 @@ John Gorham
 
      "Won't you ever see me as I am, John Gorham,
      Leaving out the foolishness and all I never meant?
-     Somewhere in me there's a woman, if you know the way to find her.
-     Will you like me any better if I prove it and repent?"
+Somewhere in me there's a woman, if you know the way to find her.
+Will you like me any better if I prove it and repent?"
 
      "I doubt if I shall ever have the time, Jane Wayland;
      And I dare say all this moonlight lying round us might as well
      Fall for nothing on the shards of broken urns that are forgotten,
-     As on two that have no longer much of anything to tell."
-
-
+As on two that have no longer much of anything to tell."
 
 
 Stafford's Cabin
 
 
+Once there was a cabin here, and once there was a man;
+And something happened here before my memory began.
+Time has made the two of them the fuel of one flame
+And all we have of them is now a legend and a name.
 
-     Once there was a cabin here, and once there was a man;
-     And something happened here before my memory began.
-     Time has made the two of them the fuel of one flame
-     And all we have of them is now a legend and a name.
+All I have to say is what an old man said to me,
+And that would seem to be as much as there will ever be.
+"Fifty years ago it was we found it where it sat."--
+And forty years ago it was old Archibald said that.
 
-     All I have to say is what an old man said to me,
-     And that would seem to be as much as there will ever be.
-     "Fifty years ago it was we found it where it sat."--
-     And forty years ago it was old Archibald said that.
-
-     "An apple tree that's yet alive saw something, I suppose,
-     Of what it was that happened there, and what no mortal knows.
-     Some one on the mountain heard far off a master shriek,
-     And then there was a light that showed the way for men to seek.
+"An apple tree that's yet alive saw something, I suppose,
+Of what it was that happened there, and what no mortal knows.
+Some one on the mountain heard far off a master shriek,
+And then there was a light that showed the way for men to seek.
 
      "We found it in the morning with an iron bar behind,
      And there were chains around it; but no search could ever find,
@@ -516,25 +476,22 @@ Stafford's Cabin
      "Stafford was a likely man with ideas of his own--
      Though I could never like the kind that likes to live alone;
      And when you met, you found his eyes were always on your shoes,
-     As if they did the talking when he asked you for the news.
+As if they did the talking when he asked you for the news.
 
-     "That's all, my son.  Were I to talk for half a hundred years
-     I'd never clear away from there the cloud that never clears.
-     We buried what was left of it,--the bar, too, and the chains;
-     And only for the apple tree there's nothing that remains."
+"That's all, my son.  Were I to talk for half a hundred years
+I'd never clear away from there the cloud that never clears.
+We buried what was left of it,--the bar, too, and the chains;
+And only for the apple tree there's nothing that remains."
 
      Forty years ago it was I heard the old man say,
      "That's all, my son."--And here again I find the place to-day,
      Deserted and told only by the tree that knows the most,
-     And overgrown with golden-rod as if there were no ghost.
-
-
+And overgrown with golden-rod as if there were no ghost.
 
 
 Hillcrest
 
-         (To Mrs. Edward MacDowell)
-
+(To Mrs. Edward MacDowell)
 
 
      No sound of any storm that shakes
@@ -603,10 +560,7 @@ Hillcrest
      No louder now than falling leaves.
 
 
-
-
 Old King Cole
-
 
 
      In Tilbury Town did Old King Cole
@@ -700,10 +654,7 @@ Old King Cole
      That's good.  The sun will soon be rising."
 
 
-
-
 Ben Jonson Entertains a Man from Stratford
-
 
 
      You are a friend then, as I make it out,
@@ -1121,10 +1072,7 @@ Ben Jonson Entertains a Man from Stratford
      Perhaps he does....  O Lord, that House in Stratford!
 
 
-
-
 Eros Turannos
-
 
 
      She fears him, and will always ask
@@ -1182,12 +1130,9 @@ Eros Turannos
       Where down the blind are driven.
 
 
-
-
 Old Trails
 
-         (Washington Square)
-
+(Washington Square)
 
 
      I met him, as one meets a ghost or two,
@@ -1316,10 +1261,7 @@ Old Trails
      I wish the bells in 'Boris' would be quiet.
 
 
-
-
 The Unforgiven
-
 
 
      When he, who is the unforgiven,
@@ -1387,10 +1329,7 @@ The Unforgiven
      There still would seem to be a way.
 
 
-
-
 Theophilus
-
 
 
      By what serene malevolence of names
@@ -1419,10 +1358,7 @@ Theophilus
      Or Cain,--but surely not Theophilus.
 
 
-
-
 Veteran Sirens
-
 
 
      The ghost of Ninon would be sorry now
@@ -1451,10 +1387,7 @@ Veteran Sirens
      So far from Ninon and so near the grave.
 
 
-
-
 Siege Perilous
-
 
 
      Long warned of many terrors more severe
@@ -1483,10 +1416,7 @@ Siege Perilous
      No fury thundered, no flame fell from heaven.
 
 
-
-
 Another Dark Lady
-
 
 
      Think not, because I wonder where you fled,
@@ -1505,10 +1435,7 @@ Another Dark Lady
      That yours are cloven as no beech's are.
 
 
-
-
 The Voice of Age
-
 
 
      She'd look upon us, if she could,
@@ -1548,10 +1475,7 @@ The Voice of Age
      And grown-up children used their eyes.
 
 
-
-
 The Dark House
-
 
 
      Where a faint light shines alone,
@@ -1615,10 +1539,7 @@ The Dark House
      Will be living, having died.
 
 
-
-
 The Poor Relation
-
 
 
      No longer torn by what she knows
@@ -1703,12 +1624,9 @@ The Poor Relation
      From which there will be no more flying.
 
 
-
-
 The Burning Book
 
-       Or the Contented Metaphysician
-
+Or the Contented Metaphysician
 
 
      To the lore of no manner of men
@@ -1748,10 +1666,7 @@ The Burning Book
       Of a dream that is ended.
 
 
-
-
 Fragment
-
 
 
      Faint white pillars that seem to fade
@@ -1782,10 +1697,7 @@ Fragment
      Over the stones where the fountain broke.
 
 
-
-
 Lisette and Eileen
-
 
 
      "When he was here alive, Eileen,
@@ -1834,10 +1746,7 @@ Lisette and Eileen
      He liked your hair and eyes, Eileen."
 
 
-
-
 Llewellyn and the Tree
-
 
 
      Could he have made Priscilla share
@@ -1991,10 +1900,7 @@ Llewellyn and the Tree
       May be as far off as a moral.
 
 
-
-
 Bewick Finzer
-
 
 
      Time was when his half million drew
@@ -2033,10 +1939,7 @@ Bewick Finzer
       And futile as regret.
 
 
-
-
 Bokardo
-
 
 
      Well, Bokardo, here we are;
@@ -2175,10 +2078,7 @@ Bokardo
       The stars look strange.
 
 
-
-
 The Man against the Sky
-
 
 
      Between me and the sunset, like a dome
@@ -2512,34 +2412,20 @@ By the same author
 
 Captain Craig, A Book of Poems
 
-    Revised edition with additional poems, 12mo, cloth, $1.25
+Revised edition with additional poems, 12mo, cloth, $1.25
 
 
-
-"There are few poets writing in English to-day whose work is so
-permeated by individual charm as is Mr. Robinson's. Always one feels the
-presence of a man behind the poet--a man who knows life and people and
-things and writes of them clearly, with a subtle poetic insight that is
-not visible in the work of any other living writer."--'Brooklyn Daily
+"There are few poets writing in English to-day whose work is so permeated by individual charm as is Mr. Robinson's. Always one feels the presence of a man behind the poet--a man who knows life and people and things and writes of them clearly, with a subtle poetic insight that is not visible in the work of any other living writer."--'Brooklyn Daily
 Eagle'.
 
-"The 'Book of Annandale', a splendid poem included in this collection,
-is one of the most moving emotional narratives found in modern poetry."
---'Review of Reviews'.
+"The 'Book of Annandale', a splendid poem included in this collection, is one of the most moving emotional narratives found in modern poetry." --'Review of Reviews'.
 
-"...  His handling of Greek themes reveals him as a lyrical poet of
-inimitable charm and skill."--'Reedy's Mirror'.
+"...  His handling of Greek themes reveals him as a lyrical poet of inimitable charm and skill."--'Reedy's Mirror'.
 
-"A poem that must endure; if things that deserve long life get it."--
-'N. Y. Evening Sun'.
+"A poem that must endure; if things that deserve long life get it."-- 'N. Y. Evening Sun'.
 
-"Wherever you hear people who know speak of American poets... they
-assume that you take the genius and place of Edwin Arlington Robinson as
-granted....  A man with something to say that has value and beauty.
-His thought is deep and his ideas are high and stimulating."--'Boston
+"Wherever you hear people who know speak of American poets... they assume that you take the genius and place of Edwin Arlington Robinson as granted....  A man with something to say that has value and beauty. His thought is deep and his ideas are high and stimulating."--'Boston
 Transcript'.
-
-
 
 
 By the same author--------------
@@ -2549,22 +2435,9 @@ The Porcupine:  A Drama in Three Acts
 Cloth, 12mo, $1.25
 
 
+Edwin Arlington Robinson's comedy "Van Zorn" proved him to be one of the most accomplished of the younger generation of American dramatists. Of this play the 'Boston Transcript' said, "It is an effective presentation of modern life in New York City, in which a poet shows his skill of playwrighting... he brings to the American drama to-day a thing it sadly lacks, and that is character."  In manner and technique Mr. Robinson's new play, "The Porcupine", recalls some of the work of Ibsen. Written adroitly and with the literary cleverness exhibited in "Van Zorn", it tells a story of a domestic entanglement in a dramatic fashion well calculated to hold the reader's attention.
 
-Edwin Arlington Robinson's comedy "Van Zorn" proved him to be one of the
-most accomplished of the younger generation of American dramatists. Of
-this play the 'Boston Transcript' said, "It is an effective presentation
-of modern life in New York City, in which a poet shows his skill of
-playwrighting... he brings to the American drama to-day a thing it
-sadly lacks, and that is character."  In manner and technique Mr.
-Robinson's new play, "The Porcupine", recalls some of the work of Ibsen.
-Written adroitly and with the literary cleverness exhibited in "Van
-Zorn", it tells a story of a domestic entanglement in a dramatic fashion
-well calculated to hold the reader's attention.
-
-"Contains all of the qualities that are said to be conspicuously lacking
-in American Drama."--'N. Y. Evening Sun'.
-
-
+"Contains all of the qualities that are said to be conspicuously lacking in American Drama."--'N. Y. Evening Sun'.
 
 
 Van Zorn:  A Comedy in Three Acts
@@ -2572,31 +2445,20 @@ Van Zorn:  A Comedy in Three Acts
 Cloth, 12mo, $1.25
 
 
-
-Mr. Robinson is known as the leader of present-day American poets. In
-this delightful play he tells with a biting humor the story of the
-salvation of a soul.  By clever arrangement of incident and skillful
-characterization he arouses strongly the reader's curiosity, and the
-suspense is admirably sustained.  The dialogue is bright, and the
-construction of the plot shows the work of one well versed in the
-technique of the drama.
-
-
-
+Mr. Robinson is known as the leader of present-day American poets. In this delightful play he tells with a biting humor the story of the salvation of a soul.  By clever arrangement of incident and skillful characterization he arouses strongly the reader's curiosity, and the suspense is admirably sustained.  The dialogue is bright, and the construction of the plot shows the work of one well versed in the technique of the drama.
 
 
 Notes on the etext:
 
 
-
-   John Gorham:
+John Gorham:
 
      Catches him and let's him go and eats him up for fun."--
        changed to:
      Catches him and lets him go and eats him up for fun."--
 
 
-   Ben Jonson Entertains a Man from Stratford:
+Ben Jonson Entertains a Man from Stratford:
 
      Whatever there be, they'll be no more of that;
        not changed, but noted as possibly incorrect--should it be?:
@@ -2607,45 +2469,15 @@ Notes on the etext:
      Than are as yet a picture in our vision.
 
 
-
-
-
 About the author:  Edwin Arlington Robinson, 1869-1935.
 
 
+From the Biographical Notes of "The Second Book of Modern Verse" (1919, 1920), edited by Jessie B. Rittenhouse:
 
-From the Biographical Notes of "The Second Book of Modern Verse" (1919,
-1920), edited by Jessie B. Rittenhouse:
-
-Robinson, Edwin Arlington.  Born at Head Tide, Maine, Dec. 22, 1869.
-Educated at Harvard University.  Mr. Robinson is a psychological poet of
-great subtlety; his poems are usually studies of types and he has given
-us a remarkable series of portraits.  He is recognized as one of the
-finest and most distinguished poets of our time. His successive volumes
-are:  "Children of the Night", 1897; "Captain Craig", 1902; "The Town
-Down the River", 1910; "The Man against the Sky", 1916; "Merlin", 1917;
-and "Launcelot", 1920. The last-named volume was awarded a prize of five
-hundred dollars, given by The Lyric Society for the best book manuscript
-offered to it in 1919. In addition to his work in poetry, Mr. Robinson
-has written two prose plays, "Van Zorn", and "The Porcupine".
+Robinson, Edwin Arlington.  Born at Head Tide, Maine, Dec. 22, 1869. Educated at Harvard University.  Mr. Robinson is a psychological poet of great subtlety; his poems are usually studies of types and he has given us a remarkable series of portraits.  He is recognized as one of the finest and most distinguished poets of our time. His successive volumes are:  "Children of the Night", 1897; "Captain Craig", 1902; "The Town Down the River", 1910; "The Man against the Sky", 1916; "Merlin", 1917; and "Launcelot", 1920. The last-named volume was awarded a prize of five hundred dollars, given by The Lyric Society for the best book manuscript offered to it in 1919. In addition to his work in poetry, Mr. Robinson has written two prose plays, "Van Zorn", and "The Porcupine".
 
 
-
-In "American Poetry Since 1900", Louis Untermeyer notes, "his name was
-known only to a few of the literati until Theodore Roosevelt...
-acclaimed and aided him."  Rittenhouse's Biographical Notes (above
-quoted) contain this entry immediately before Edwin Arlington
-Robinson's: "Robinson, Corinne Roosevelt....  Mrs. Robinson, who is a
-sister to Col. Theodore Roosevelt,... has written several volumes of
-verse...." It is always interesting to see the coincidence of events
-in history, and it is worth asking if this was not even a causal
-relationship.--A. L.
+In "American Poetry Since 1900", Louis Untermeyer notes, "his name was known only to a few of the literati until Theodore Roosevelt... acclaimed and aided him."  Rittenhouse's Biographical Notes (above quoted) contain this entry immediately before Edwin Arlington Robinson's: "Robinson, Corinne Roosevelt....  Mrs. Robinson, who is a sister to Col. Theodore Roosevelt,... has written several volumes of verse...." It is always interesting to see the coincidence of events in history, and it is worth asking if this was not even a causal relationship.--A. L.
 
 
-
-
-
-End of the Project Gutenberg EBook of The Man Against the Sky, by 
-Edwin Arlington Robinson
-
-*** END OF THE PROJECT GUTENBERG EBOOK 1035 ***
+End of the Project Gutenberg EBook of The Man Against the Sky, by Edwin Arlington Robinson

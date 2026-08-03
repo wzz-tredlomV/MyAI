@@ -1,43 +1,4 @@
-The Project Gutenberg EBook of General William Booth enters into Heaven
-and other Poems, by Vachel Lindsay
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: General William Booth enters into Heaven and other Poems
-
-Author: Vachel Lindsay
-
-Posting Date: July 20, 2008 [EBook #424]
-Release Date: February, 1995
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK GENERAL WILLIAM BOOTH ***
-
-
-
-
-Produced by A. Light and L. Bowser.
-
-
-
-
-
-
-
-
-
-[Note on text:  Italicized stanzas will be indented 5 spaces.
-Italicized AND indented stanzas will be indented 10 spaces.
-Italicized words or phrases will be capitalised.
-Some obvious errors may have been corrected.]
-
+[Note on text:  Italicized stanzas will be indented 5 spaces. Italicized AND indented stanzas will be indented 10 spaces. Italicized words or phrases will be capitalised. Some obvious errors may have been corrected.]
 
 
     +-------------------------------------------------+
@@ -50,8 +11,6 @@ Some obvious errors may have been corrected.]
     +-------------------------------------------------+
 
 
-
-
 General William Booth Enters into Heaven and Other Poems
 
 by
@@ -61,12 +20,7 @@ Vachel Lindsay
 [Nicholas Vachel Lindsay, Illinois Poet--1879-1931]
 
 
-
-
-[This etext has been transcribed from a 1916 reprint (New York)
-of the original 1913 edition.]
-
-
+[This etext has been transcribed from a 1916 reprint (New York) of the original 1913 edition.]
 
 
 This book is dedicated to
@@ -78,8 +32,6 @@ and
 Olive Lindsay Wakefield
 
 Missionaries in China
-
-
 
 
 Contents
@@ -146,15 +98,13 @@ Contents
      On the Building of Springfield
 
 
-
-
-  General William Booth Enters into Heaven
+General William Booth Enters into Heaven
 
   [To be sung to the tune of 'The Blood of the Lamb' with indicated
   instrument]
 
 
-    I
+I
 
    [Bass drum beaten loudly.]
   Booth led boldly with his big bass drum--
@@ -184,7 +134,7 @@ Contents
   (Are you washed in the blood of the Lamb?)
 
 
-    II
+II
 
    [Bass drum slower and softer.]
   Booth died blind and still by Faith he trod,
@@ -230,9 +180,7 @@ Contents
   Are you washed in the blood of the Lamb?
 
 
-
-
-  The Drunkards in the Street
+The Drunkards in the Street
 
 
   The Drunkards in the street are calling one another,
@@ -254,9 +202,7 @@ Contents
   Until the grayness of my soul grows white.
 
 
-
-
-  The City That Will Not Repent
+The City That Will Not Repent
 
 
   Climbing the heights of Berkeley
@@ -327,9 +273,7 @@ Contents
   Dance, tho' he smite you dead!
 
 
-
-
-  The Trap
+The Trap
 
 
   She was taught desire in the street,
@@ -407,9 +351,7 @@ Contents
   When will our wrath begin?
 
 
-
-
-  Where is David, the Next King of Israel?
+Where is David, the Next King of Israel?
 
 
   Where is David? . . .  O God's people,
@@ -453,11 +395,9 @@ Contents
        Singing like a mountain rill!"
 
 
+On Reading Omar Khayyam
 
-
-  On Reading Omar Khayyam
-
-  [During an anti-saloon campaign, in central Illinois.]
+[During an anti-saloon campaign, in central Illinois.]
 
 
   In the midst of the battle I turned,
@@ -509,9 +449,7 @@ Contents
   Leaving the singer asleep.
 
 
-
-
-  The Beggar's Valentine
+The Beggar's Valentine
 
 
   Kiss me and comfort my heart
@@ -585,9 +523,7 @@ Contents
    From the child of God at the gate.
 
 
-
-
-  Honor Among Scamps
+Honor Among Scamps
 
 
   We are the smirched.  Queen Honor is the spotless.
@@ -606,9 +542,7 @@ Contents
   To keep her safe until the better years.
 
 
-
-
-  The Gamblers
+The Gamblers
 
 
   Life's a jail where men have common lot.
@@ -651,9 +585,7 @@ Contents
   GREEN FARMS FOR ALL, AND MEAT AND CORN AND WINE.
 
 
-
-
-  On the Road to Nowhere
+On the Road to Nowhere
 
 
   On the road to nowhere
@@ -709,9 +641,7 @@ Contents
   Wild deeds without recall!
 
 
-
-
-  Upon Returning to the Country Road
+Upon Returning to the Country Road
 
 
   Even the shrewd and bitter,
@@ -740,9 +670,7 @@ Contents
   Turns beggar once again.
 
 
-
-
-  The Angel and the Clown
+The Angel and the Clown
 
 
   I saw wild domes and bowers
@@ -773,9 +701,7 @@ Contents
   In Illinois."
 
 
-
-
-  Springfield Magical
+Springfield Magical
 
 
   In this, the City of my Discontent,
@@ -796,9 +722,7 @@ Contents
   In this, the City of my Discontent!
 
 
-
-
-  Incense
+Incense
 
 
   Think not that incense-smoke has had its day.
@@ -822,9 +746,7 @@ Contents
   Where all Faiths kneel, as brothers, in one place.
 
 
-
-
-  The Wedding of the Rose and the Lotos
+The Wedding of the Rose and the Lotos
 
 
   The wide Pacific waters
@@ -864,11 +786,9 @@ Contents
   To wed the red red rose!
 
 
+King Arthur's Men Have Come Again
 
-
-  King Arthur's Men Have Come Again
-
-  [Written while a field-worker in the Anti-Saloon League of Illinois.]
+[Written while a field-worker in the Anti-Saloon League of Illinois.]
 
 
   King Arthur's men have come again.
@@ -899,9 +819,7 @@ Contents
   AND MAKES THE BATTLE SURE!
 
 
-
-
-  Foreign Missions in Battle Array
+Foreign Missions in Battle Array
 
 
   An endless line of splendor,
@@ -932,9 +850,7 @@ Contents
   The world shall be reborn!
 
 
-
-
-  Star of My Heart
+Star of My Heart
 
 
   Star of my heart, I follow from afar.
@@ -963,9 +879,7 @@ Contents
   And wake, no more to sin.
 
 
-
-
-  Look You, I'll Go Pray
+Look You, I'll Go Pray
 
 
   Look you, I'll go pray,
@@ -978,9 +892,7 @@ Contents
   Thou wine from worlds unseen."
 
 
-
-
-  At Mass
+At Mass
 
 
   No doubt to-morrow I will hide
@@ -999,9 +911,7 @@ Contents
   Has laid temptation low.
 
 
-
-
-  Heart of God
+Heart of God
 
 
   O great heart of God,
@@ -1025,9 +935,7 @@ Contents
   March with the prophets' drum.
 
 
-
-
-  The Empty Boats
+The Empty Boats
 
 
   Why do I see these empty boats, sailing on airy seas?
@@ -1040,9 +948,7 @@ Contents
   O empty boats, we all refuse, that by our windows wait!
 
 
-
-
-  With a Bouquet of Twelve Roses
+With a Bouquet of Twelve Roses
 
 
   I saw Lord Buddha towering by my gate
@@ -1062,9 +968,7 @@ Contents
   In Peace, that once I found in every rose."
 
 
-
-
-  St. Francis of Assisi
+St. Francis of Assisi
 
 
   Would I might wake St. Francis in you all,
@@ -1077,9 +981,7 @@ Contents
   God make us saints, and brave.
 
 
-
-
-  Buddha
+Buddha
 
 
   Would that by Hindu magic we became
@@ -1092,9 +994,7 @@ Contents
   Lord, make us Buddhas, dreaming.
 
 
-
-
-  A Prayer to All the Dead Among Mine Own People
+A Prayer to All the Dead Among Mine Own People
 
 
   Are these your presences, my clan from Heaven?
@@ -1103,9 +1003,7 @@ Contents
   Fly by my path till you have made me whole!
 
 
-
-
-  To Reformers in Despair
+To Reformers in Despair
 
 
   'Tis not too late to build our young land right,
@@ -1114,9 +1012,7 @@ Contents
   Hearths that will recreate the breed called man.
 
 
-
-
-  Why I Voted the Socialist Ticket
+Why I Voted the Socialist Ticket
 
 
   I am unjust, but I can strive for justice.
@@ -1135,8 +1031,6 @@ Contents
   And make us sages with transfigured faces.
 
 
-
-
      The following verses were written on the evening of March the first,
      nineteen hundred and eleven, and printed next morning
      in the Illinois State Register.
@@ -1146,9 +1040,9 @@ Contents
      by a vote of forty-six to forty.
 
 
-  To the United States Senate
+To the United States Senate
 
-  [Revelation 16: Verses 16-19]
+[Revelation 16: Verses 16-19]
 
 
   And must the Senator from Illinois
@@ -1202,17 +1096,15 @@ Contents
   And in this war we choose to live and die."
 
 
-       [So far as the writer knows this is the first use
-       of the popular term Armageddon in present day politics.]
+[So far as the writer knows this is the first use
+of the popular term Armageddon in present day politics.]
 
 
+The Knight in Disguise
 
+[Concerning O. Henry (Sidney Porter)]
 
-  The Knight in Disguise
-
-  [Concerning O. Henry (Sidney Porter)]
-
-       "He could not forget that he was a Sidney."
+"He could not forget that he was a Sidney."
 
 
   Is this Sir Philip Sidney, this loud clown,
@@ -1262,11 +1154,9 @@ Contents
   With valiant cut and thrust, and he was gone.
 
 
+The Wizard in the Street
 
-
-  The Wizard in the Street
-
-  [Concerning Edgar Allan Poe]
+[Concerning Edgar Allan Poe]
 
 
   Who now will praise the Wizard in the street
@@ -1329,20 +1219,18 @@ Contents
   Too slowly came the good Samaritan.
 
 
+The Eagle that is Forgotten
+
+[John P. Altgeld.  Born Dec. 30, 1847; died March 12, 1902]
 
 
-  The Eagle that is Forgotten
+Sleep softly * * * eagle forgotten * * * under the stone.
+Time has its way with you there, and the clay has its own.
 
-  [John P. Altgeld.  Born Dec. 30, 1847; died March 12, 1902]
-
-
-  Sleep softly * * * eagle forgotten * * * under the stone.
-  Time has its way with you there, and the clay has its own.
-
-  "We have buried him now," thought your foes, and in secret rejoiced.
-  They made a brave show of their mourning, their hatred unvoiced.
-  They had snarled at you, barked at you, foamed at you day after day,
-  Now you were ended.  They praised you, * * * and laid you away.
+"We have buried him now," thought your foes, and in secret rejoiced.
+They made a brave show of their mourning, their hatred unvoiced.
+They had snarled at you, barked at you, foamed at you day after day,
+Now you were ended.  They praised you, * * * and laid you away.
 
   The others that mourned you in silence and terror and truth,
   The widow bereft of her crust, and the boy without youth,
@@ -1354,18 +1242,16 @@ Contents
   They call on the names of a hundred high-valiant ones,
   A hundred white eagles have risen the sons of your sons,
   The zeal in their wings is a zeal that your dreaming began
-  The valor that wore out your soul in the service of man.
+The valor that wore out your soul in the service of man.
 
-  Sleep softly, * * * eagle forgotten, * * * under the stone,
-  Time has its way with you there and the clay has its own.
-  Sleep on, O brave hearted, O wise man, that kindled the flame--
-  To live in mankind is far more than to live in a name,
-  To live in mankind, far, far more * * * than to live in a name.
-
-
+Sleep softly, * * * eagle forgotten, * * * under the stone,
+Time has its way with you there and the clay has its own.
+Sleep on, O brave hearted, O wise man, that kindled the flame--
+To live in mankind is far more than to live in a name,
+To live in mankind, far, far more * * * than to live in a name.
 
 
-  Shakespeare
+Shakespeare
 
 
   Would that in body and spirit Shakespeare came
@@ -1378,9 +1264,7 @@ Contents
   Teach us to write, and writing, to be men.
 
 
-
-
-  Michelangelo
+Michelangelo
 
 
   Would I might wake in you the whirl-wind soul
@@ -1393,9 +1277,7 @@ Contents
   God help us to be brave.
 
 
-
-
-  Titian
+Titian
 
 
   Would that such hills and cities round us sang,
@@ -1408,9 +1290,7 @@ Contents
   To colors fairer far, and glories higher.
 
 
-
-
-  Lincoln
+Lincoln
 
 
   Would I might rouse the Lincoln in you all,
@@ -1423,9 +1303,7 @@ Contents
   Fire that freed the slave.
 
 
-
-
-  The Cornfields
+The Cornfields
 
 
   The cornfields rise above mankind,
@@ -1439,9 +1317,7 @@ Contents
   Some beautiful, devout return?
 
 
-
-
-  Sweet Briars of the Stairways
+Sweet Briars of the Stairways
 
 
   We are happy all the time
@@ -1458,8 +1334,8 @@ Contents
   WE, WHO ARE PLAYING TO-NIGHT!
 
   "Dirt is everlasting.-- We never, never fear it.
-  Toil is never ceasing.-- We will play until we near it.
-  Tears are never ending.-- When once real tears have come;
+Toil is never ceasing.-- We will play until we near it.
+Tears are never ending.-- When once real tears have come;
 
   "When we see our people as they are--
   Our fathers--broken, dumb--
@@ -1470,18 +1346,14 @@ Contents
       WE, WHO ARE PLAYING TO-NIGHT."
 
 
+Fantasies and Whims:--
 
 
-  Fantasies and Whims:--
-
-
-
-     The Fairy Bridal Hymn
+The Fairy Bridal Hymn
 
   [This is the hymn to Eleanor, daughter of Mab and a golden drone,
   sung by the Locust choir when the fairy child marries her God,
   the yellow rose]
-
 
 
   This is a song to the white-armed one
@@ -1500,9 +1372,7 @@ Contents
   When the Rose-God drinks her soul at last.
 
 
-
-
-     The Potato's Dance
+The Potato's Dance
 
 
   "Down cellar," said the cricket,
@@ -1552,9 +1422,7 @@ Contents
   Who gives potatoes eyes."
 
 
-
-
-     How a Little Girl Sang
+How a Little Girl Sang
 
 
   Ah, she was music in herself,
@@ -1572,9 +1440,7 @@ Contents
   Tho' still accursed with ears of lead.
 
 
-
-
-     Ghosts in Love
+Ghosts in Love
 
 
   "Tell me, where do ghosts in love
@@ -1590,11 +1456,9 @@ Contents
   Find their bridal veils."
 
 
+The Queen of Bubbles
 
-
-     The Queen of Bubbles
-
-  [Written for a picture]
+[Written for a picture]
 
 
   The Youth speaks:--
@@ -1622,14 +1486,12 @@ Contents
    A fragile child of mine."
 
 
+The Tree of Laughing Bells, or The Wings of the Morning
+
+[A Poem for Aviators]
 
 
-     The Tree of Laughing Bells, or The Wings of the Morning
-
-  [A Poem for Aviators]
-
-
-      How the Wings Were Made
+How the Wings Were Made
 
   From many morning-glories
   That in an hour will fade,
@@ -1641,7 +1503,7 @@ Contents
    Are the Wings of the Morning made.
 
 
-      The Indian Girl Who Made Them
+The Indian Girl Who Made Them
 
   These, the Wings of the Morning,
   An Indian Maiden wove,
@@ -1660,7 +1522,7 @@ Contents
   Beneath her burning song of suns untold.
 
 
-      The Indian Girl Tells the Hero Where to Go to Get the Laughing Bell
+The Indian Girl Tells the Hero Where to Go to Get the Laughing Bell
 
   "To the farthest star of all,
   Go, make a moment's raid.
@@ -1707,7 +1569,7 @@ Contents
   No thought for to-morrow."
 
 
-      The Journey Starts Swiftly
+The Journey Starts Swiftly
 
   A thousand times ten thousand times
   More swift than the sun's swift light
@@ -1718,7 +1580,7 @@ Contents
   To Chaos-night.
 
 
-      He Nears the Goal
+He Nears the Goal
 
   How the red bells rang
   As I neared the Chaos-shore!
@@ -1739,7 +1601,7 @@ Contents
   O wind that wounded sore!
 
 
-      He Climbs the Hill Where the Tree Grows
+He Climbs the Hill Where the Tree Grows
 
   On--
   Thro' the gleaming gray
@@ -1767,7 +1629,7 @@ Contents
   And little choirs did keep.
 
 
-      He Receives the Bells
+He Receives the Bells
 
        Honeyed, small and fair,
        Like flowers, in flowery lands--
@@ -1778,7 +1640,7 @@ Contents
        In the strangling Chaos-air.
 
 
-      He Starts on the Return Journey
+He Starts on the Return Journey
 
   On desperate wings and strong,
   Two bells within my breast,
@@ -1811,7 +1673,7 @@ Contents
   More swift than beams of light.
 
 
-      He Gives What He Won to the Indian Girl
+He Gives What He Won to the Indian Girl
 
   I panted in the grassy wood;
   I kissed the Indian Maid
@@ -1833,12 +1695,10 @@ Contents
   Are the Wings of the Morning made!
 
 
+Sweethearts of the Year
 
 
-     Sweethearts of the Year
-
-
-      Sweetheart Spring
+Sweetheart Spring
 
   Our Sweetheart, Spring, came softly,
   Her gliding hands were fire,
@@ -1855,7 +1715,7 @@ Contents
   He sent His fire and rain.
 
 
-      Sweetheart Summer
+Sweetheart Summer
 
   We prayed not, yet she came to us,
   The silken, shining one,
@@ -1867,7 +1727,7 @@ Contents
   The misty wine of God.
 
 
-      Sweetheart Autumn
+Sweetheart Autumn
 
   The woods were black and crimson,
   The frost-bit flowers were dead,
@@ -1883,7 +1743,7 @@ Contents
   Fruition, Motherhood.
 
 
-      Sweetheart Winter
+Sweetheart Winter
 
   We had done naught of service
   To win our Maker's praise.
@@ -1899,9 +1759,7 @@ Contents
   For baby Christmas trees.
 
 
-
-
-     The Sorceress!
+The Sorceress!
 
 
   I asked her, "Is Aladdin's lamp
@@ -1920,9 +1778,7 @@ Contents
   Aladdin's lamp is there."
 
 
-
-
-     Caught in a Net
+Caught in a Net
 
 
   Upon her breast her hands and hair
@@ -1940,11 +1796,9 @@ Contents
    Amid the black and white.
 
 
+Eden in Winter
 
-
-     Eden in Winter
-
-  [Supposed to be chanted to some rude instrument at a modern fireplace]
+[Supposed to be chanted to some rude instrument at a modern fireplace]
 
 
   Chant we the story now
@@ -2036,9 +1890,7 @@ Contents
   Until the Spring had come.
 
 
-
-
-     Genesis
+Genesis
 
 
   I was but a half-grown boy,
@@ -2101,9 +1953,7 @@ Contents
   That was our bridal night.
 
 
-
-
-     Queen Mab in the Village
+Queen Mab in the Village
 
 
   Once I loved a fairy,
@@ -2218,9 +2068,7 @@ Contents
   We swim the golden sea.
 
 
-
-
-     The Dandelion
+The Dandelion
 
 
   O dandelion, rich and haughty,
@@ -2237,15 +2085,13 @@ Contents
   More golden than before.
 
 
+The Light o' the Moon
+
+[How different people and different animals look upon the moon:
+showing that each creature finds in it his own mood and disposition]
 
 
-     The Light o' the Moon
-
-  [How different people and different animals look upon the moon:
-  showing that each creature finds in it his own mood and disposition]
-
-
-      The Old Horse in the City
+The Old Horse in the City
 
   The moon's a peck of corn.  It lies
   Heaped up for me to eat.
@@ -2263,7 +2109,7 @@ Contents
   For years and years and years.
 
 
-      What the Hyena Said
+What the Hyena Said
 
   The moon is but a golden skull,
   She mounts the heavens now,
@@ -2287,7 +2133,7 @@ Contents
   Yea, rear their brood on earth's dead face.
 
 
-      What the Snow Man Said
+What the Snow Man Said
 
   The Moon's a snowball.  See the drifts
   Of white that cross the sphere.
@@ -2310,7 +2156,7 @@ Contents
   And the glory of the snow!
 
 
-      What the Scare-crow Said
+What the Scare-crow Said
 
   The dim-winged spirits of the night
   Do fear and serve me well.
@@ -2328,7 +2174,7 @@ Contents
   Because I am a King.
 
 
-      What Grandpa Mouse Said
+What Grandpa Mouse Said
 
   The moon's a holy owl-queen.
   She keeps them in a jar
@@ -2351,9 +2197,9 @@ Contents
   And send her birds no more.
 
 
-      The Beggar Speaks
+The Beggar Speaks
 
-    "What Mister Moon Said to Me."
+"What Mister Moon Said to Me."
 
   Come, eat the bread of idleness,
   Come, sit beside the spring:
@@ -2382,7 +2228,7 @@ Contents
   Said Mister Moon to me.
 
 
-      What the Forester Said
+What the Forester Said
 
   The moon is but a candle-glow
   That flickers thro' the gloom:
@@ -2394,11 +2240,9 @@ Contents
   Good shepherds guarding sheep.
 
 
+A Net to Snare the Moonlight
 
-
-     A Net to Snare the Moonlight
-
-  [What the Man of Faith said]
+[What the Man of Faith said]
 
 
   The dew, the rain and moonlight
@@ -2422,11 +2266,9 @@ Contents
   Of dreams when toil is done.
 
 
+Beyond the Moon
 
-
-     Beyond the Moon
-
-  [Written to the Most Beautiful Woman in the World]
+[Written to the Most Beautiful Woman in the World]
 
 
   My Sweetheart is the TRUTH BEYOND THE MOON,
@@ -2450,9 +2292,7 @@ Contents
   Ay, beyond Heaven and Hell, I have a goal!
 
 
-
-
-     The Song of the Garden-Toad
+The Song of the Garden-Toad
 
 
   Down, down beneath the daisy beds,
@@ -2487,21 +2327,18 @@ Contents
   The rose that told him so?
 
 
+A Gospel of Beauty:--
 
 
-  A Gospel of Beauty:--
-
-
-       I recited these three poems more than any others
-       in my late mendicant preaching tour through the West.
+I recited these three poems more than any others
+in my late mendicant preaching tour through the West.
        Taken as a triad, they hold in solution my theory
        of American civilization.
 
 
+The Proud Farmer
 
-     The Proud Farmer
-
-  [In memory of E. S. Frazee, Rush County, Indiana]
+[In memory of E. S. Frazee, Rush County, Indiana]
 
 
   Into the acres of the newborn state
@@ -2544,9 +2381,7 @@ Contents
   And lion-dreams begin to burn within.
 
 
-
-
-     The Illinois Village
+The Illinois Village
 
 
   O you who lose the art of hope,
@@ -2606,9 +2441,7 @@ Contents
   The Artist's town of Bethlehem!
 
 
-
-
-     On the Building of Springfield
+On the Building of Springfield
 
 
   Let not our town be large, remembering
@@ -2679,403 +2512,14 @@ Contents
   While countless generations pass away.
 
 
+[End of original text.]
 
 
+Nicholas Vachel Lindsay (1879-1931): (Vachel is pronounced Vay-chul, that is, it rhymes with 'Rachel').
 
-
-  [End of original text.]
-
-
-
-Nicholas Vachel Lindsay (1879-1931):
-(Vachel is pronounced Vay-chul, that is, it rhymes with 'Rachel').
-
-Vachel Lindsay, of Springfield, Illinois, is best known for his efforts
-to restore the vocal tradition to poetry.  He made a journey on foot
-as far as New Mexico, taking along copies of a pamphlet,
-"Rhymes to be Traded for Bread", for the purpose the title suggests.
-He wrote of this journey in "Adventures while Preaching the Gospel of
+Vachel Lindsay, of Springfield, Illinois, is best known for his efforts to restore the vocal tradition to poetry.  He made a journey on foot as far as New Mexico, taking along copies of a pamphlet, "Rhymes to be Traded for Bread", for the purpose the title suggests. He wrote of this journey in "Adventures while Preaching the Gospel of
 Beauty".
 
-"The Eagle that is Forgotten" and "The Congo" are his best-known poems,
-and appear in his first two volumes of verse, "General William Booth
-Enters into Heaven" (1913) and "The Congo" (1914).
+"The Eagle that is Forgotten" and "The Congo" are his best-known poems, and appear in his first two volumes of verse, "General William Booth Enters into Heaven" (1913) and "The Congo" (1914).
 
-As a sidenote, he became close friends with the poet Sara Teasdale
-(well worth reading in her own right--perhaps the better poet),
-and his third volume of verse, "The Chinese Nightingale" (1917),
-is dedicated to her.  In turn, she wrote a memorial verse for him
-after he committed suicide in 1931.
-
-
-
-
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of General William Booth enters into
-Heaven and other Poems, by Vachel Lindsay
-
-*** END OF THIS PROJECT GUTENBERG EBOOK GENERAL WILLIAM BOOTH ***
-
-***** This file should be named 424.txt or 424.zip *****
-This and all associated files of various formats will be found in:
-        https://www.gutenberg.org/4/2/424/
-
-Produced by A. Light and L. Bowser.
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-https://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at https://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at https://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit https://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: https://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     https://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+As a sidenote, he became close friends with the poet Sara Teasdale (well worth reading in her own right--perhaps the better poet), and his third volume of verse, "The Chinese Nightingale" (1917), is dedicated to her.  In turn, she wrote a memorial verse for him after he committed suicide in 1931.

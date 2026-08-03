@@ -1,5 +1,3 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 1021 ***
-
 THE CONGO AND OTHER POEMS
 
 By Vachel Lindsay
@@ -9,168 +7,53 @@ By Vachel Lindsay
 
 With an introduction by Harriet Monroe Editor of "Poetry"
 
-[Notes:  The 'stage-directions' given in "The Congo" and those
-poems which are meant to be read aloud, are traditionally printed to the
-right side of the first line it refers to.  This is possible, but
-impracticable, to imitate in a simple ASCII text.  Therefore these
-'stage-directions' are given on the line BEFORE the first line they
-refer to, and are furthermore indented 20 spaces and enclosed by #s to
-keep it clear to the reader which parts are text and which parts
-directions.]
+[Notes:  The 'stage-directions' given in "The Congo" and those poems which are meant to be read aloud, are traditionally printed to the right side of the first line it refers to.  This is possible, but impracticable, to imitate in a simple ASCII text.  Therefore these 'stage-directions' are given on the line BEFORE the first line they refer to, and are furthermore indented 20 spaces and enclosed by #s to keep it clear to the reader which parts are text and which parts directions.]
 
-[This electronic text was transcribed from a reprint of the original
-edition, which was first published in New York, in September, 1914. Due
-to a great deal of irregularity between titles in the table of contents
-and in the text of the original, there are some slight differences from
-the original in these matters--with the more complete titles replacing
-cropped ones.  In one case they are different enough that both are
-given, and "Twenty Poems in which...." was originally "Twenty Moon
-Poems" in the table of contents--the odd thing about both these titles
-is that there are actually twenty-TWO moon poems.]
-
-
-
+[This electronic text was transcribed from a reprint of the original edition, which was first published in New York, in September, 1914. Due to a great deal of irregularity between titles in the table of contents and in the text of the original, there are some slight differences from the original in these matters--with the more complete titles replacing cropped ones.  In one case they are different enough that both are given, and "Twenty Poems in which...." was originally "Twenty Moon Poems" in the table of contents--the odd thing about both these titles is that there are actually twenty-TWO moon poems.]
 
 
 THE CONGO AND OTHER POEMS
 
 
-
-
 Introduction.  By Harriet Monroe
 
 
+When 'Poetry, A Magazine of Verse', was first published in Chicago in the autumn of 1912, an Illinois poet, Vachel Lindsay, was, quite appropriately, one of its first discoveries. It may be not quite without significance that the issue of January, 1913, which led off with 'General William Booth Enters into Heaven', immediately followed the number in which the great poet of Bengal, Rabindra Nath Tagore, was first presented to the American public, and that these two antipodal poets soon appeared in person among the earliest visitors to the editor. For the coming together of East and West may prove to be the great event of the approaching era, and if the poetry of the now famous Bengali laureate garners the richest wisdom and highest spirituality of his ancient race, so one may venture to believe that the young Illinois troubadour brings from Lincoln's city an authentic strain of the lyric message of this newer world.
 
-When 'Poetry, A Magazine of Verse', was first published in Chicago in
-the autumn of 1912, an Illinois poet, Vachel Lindsay, was, quite
-appropriately, one of its first discoveries. It may be not quite without
-significance that the issue of January, 1913, which led off with
-'General William Booth Enters into Heaven', immediately followed the
-number in which the great poet of Bengal, Rabindra Nath Tagore, was
-first presented to the American public, and that these two antipodal
-poets soon appeared in person among the earliest visitors to the editor.
-For the coming together of East and West may prove to be the great event
-of the approaching era, and if the poetry of the now famous Bengali
-laureate garners the richest wisdom and highest spirituality of his
-ancient race, so one may venture to believe that the young Illinois
-troubadour brings from Lincoln's city an authentic strain of the lyric
-message of this newer world.
+It is hardly necessary, perhaps, to mention Mr. Lindsay's loyalty to the people of his place and hour, or the training in sympathy with their aims and ideals which he has achieved through vagabondish wanderings in the Middle West.  And we may permit time to decide how far he expresses their emotion.  But it may be opportune to emphasize his plea for poetry as a song art, an art appealing to the ear rather than the eye.  The first section of this volume is especially an effort to restore poetry to its proper place--the audience-chamber, and take it out of the library, the closet.  In the library it has become, so far as the people are concerned, almost a lost art, and perhaps it can be restored to the people only through a renewal of its appeal to the ear.
 
-It is hardly necessary, perhaps, to mention Mr. Lindsay's loyalty to the
-people of his place and hour, or the training in sympathy with their
-aims and ideals which he has achieved through vagabondish wanderings in
-the Middle West.  And we may permit time to decide how far he expresses
-their emotion.  But it may be opportune to emphasize his plea for poetry
-as a song art, an art appealing to the ear rather than the eye.  The
-first section of this volume is especially an effort to restore poetry
-to its proper place--the audience-chamber, and take it out of the
-library, the closet.  In the library it has become, so far as the people
-are concerned, almost a lost art, and perhaps it can be restored to the
-people only through a renewal of its appeal to the ear.
+I am tempted to quote from Mr. Lindsay's explanatory note which accompanied three of these poems when they were first printed in 'Poetry'.  He said:
 
-I am tempted to quote from Mr. Lindsay's explanatory note which
-accompanied three of these poems when they were first printed in
-'Poetry'.  He said:
+"Mr. Yeats asked me recently in Chicago, 'What are we going to do to restore the primitive singing of poetry?'  I find what Mr. Yeats means by 'the primitive singing of poetry' in Professor Edward Bliss Reed's new volume on 'The English Lyric'.  He says in his chapter on the definition of the lyric:  'With the Greeks "song" was an all-embracing term. It included the crooning of the nurse to the child... the half-sung chant of the mower or sailor... the formal ode sung by the poet. In all Greek lyrics, even in the choral odes, music was the handmaid of verse....  The poet himself composed the accompaniment.  Euripides was censured because Iophon had assisted him in the musical setting of some of his dramas.' Here is pictured a type of Greek work which survives in American vaudeville, where every line may be two-thirds spoken and one-third sung, the entire rendering, musical and elocutionary, depending upon the improvising power and sure instinct of the performer.
 
-"Mr. Yeats asked me recently in Chicago, 'What are we going to do to
-restore the primitive singing of poetry?'  I find what Mr. Yeats means
-by 'the primitive singing of poetry' in Professor Edward Bliss Reed's
-new volume on 'The English Lyric'.  He says in his chapter on the
-definition of the lyric:  'With the Greeks "song" was an all-embracing
-term. It included the crooning of the nurse to the child... the
-half-sung chant of the mower or sailor... the formal ode sung by the poet.
-In all Greek lyrics, even in the choral odes, music was the handmaid of
-verse....  The poet himself composed the accompaniment.  Euripides was
-censured because Iophon had assisted him in the musical setting of some
-of his dramas.' Here is pictured a type of Greek work which survives in
-American vaudeville, where every line may be two-thirds spoken and
-one-third sung, the entire rendering, musical and elocutionary, depending
-upon the improvising power and sure instinct of the performer.
+"I respectfully submit these poems as experiments in which I endeavor to carry this vaudeville form back towards the old Greek precedent of the half-chanted lyric.  In this case the one-third of music must be added by the instinct of the reader.  He must be Iophon. And he can easily be Iophon if he brings to bear upon the piece what might be called the Higher Vaudeville imagination....
 
-"I respectfully submit these poems as experiments in which I endeavor to
-carry this vaudeville form back towards the old Greek precedent of the
-half-chanted lyric.  In this case the one-third of music must be added
-by the instinct of the reader.  He must be Iophon. And he can easily be
-Iophon if he brings to bear upon the piece what might be called the
-Higher Vaudeville imagination....
+"Big general contrasts between the main sections should be the rule of the first attempts at improvising.  It is the hope of the writer that after two or three readings each line will suggest its own separate touch of melody to the reader who has become accustomed to the cadences. Let him read what he likes read, and sing what he likes sung."
 
-"Big general contrasts between the main sections should be the rule of
-the first attempts at improvising.  It is the hope of the writer that
-after two or three readings each line will suggest its own separate
-touch of melody to the reader who has become accustomed to the cadences.
-Let him read what he likes read, and sing what he likes sung."
+It was during this same visit in Chicago, at 'Poetry's' banquet on the evening of March first, 1914, that Mr. Yeats honored Mr. Lindsay by addressing his after-dinner talk primarily to him as "a fellow craftsman", and by saying of 'General Booth':
 
-It was during this same visit in Chicago, at 'Poetry's' banquet on the
-evening of March first, 1914, that Mr. Yeats honored Mr. Lindsay by
-addressing his after-dinner talk primarily to him as "a fellow
-craftsman", and by saying of 'General Booth':
+"This poem is stripped bare of ornament; it has an earnest simplicity, a strange beauty, and you know Bacon said, 'There is no excellent beauty without strangeness.'"
 
-"This poem is stripped bare of ornament; it has an earnest simplicity, a
-strange beauty, and you know Bacon said, 'There is no excellent beauty
-without strangeness.'"
+This recognition from the distinguished Irish poet tempts me to hint at the cosmopolitan aspects of such racily local art as Mr. Lindsay's. The subject is too large for a merely introductory word, but the reader may be invited to reflect upon it.  If Mr. Lindsay's poetry should cross the ocean, it would not be the first time that our most indigenous art has reacted upon the art of older nations. Besides Poe--who, though indigenous in ways too subtle for brief analysis, yet passed all frontiers in his swift, sad flight--the two American artists of widest influence, Whitman and Whistler, have been intensely American in temperament and in the special spiritual quality of their art.
 
-This recognition from the distinguished Irish poet tempts me to hint at
-the cosmopolitan aspects of such racily local art as Mr. Lindsay's. The
-subject is too large for a merely introductory word, but the reader may
-be invited to reflect upon it.  If Mr. Lindsay's poetry should cross the
-ocean, it would not be the first time that our most indigenous art has
-reacted upon the art of older nations. Besides Poe--who, though
-indigenous in ways too subtle for brief analysis, yet passed all
-frontiers in his swift, sad flight--the two American artists of widest
-influence, Whitman and Whistler, have been intensely American in
-temperament and in the special spiritual quality of their art.
+If Whistler was the first great artist to accept the modern message in Oriental art, if Whitman was the first great modern poet to discard the limitations of conventional form:  if both were more free, more individual, than their contemporaries, this was the expression of their Americanism, which may perhaps be defined as a spiritual independence and love of adventure inherited from the pioneers. Foreign artists are usually the first to recognize this new tang; one detects the influence of the great dead poet and dead painter in all modern art which looks forward instead of back; and their countrymen, our own contemporary poets and painters, often express indirectly, through French influences, a reaction which they are reluctant to confess directly.
 
-If Whistler was the first great artist to accept the modern message in
-Oriental art, if Whitman was the first great modern poet to discard the
-limitations of conventional form:  if both were more free, more
-individual, than their contemporaries, this was the expression of their
-Americanism, which may perhaps be defined as a spiritual independence
-and love of adventure inherited from the pioneers. Foreign artists are
-usually the first to recognize this new tang; one detects the influence
-of the great dead poet and dead painter in all modern art which looks
-forward instead of back; and their countrymen, our own contemporary
-poets and painters, often express indirectly, through French influences,
-a reaction which they are reluctant to confess directly.
+A lighter phase of this foreign enthusiasm for the American tang is confessed by Signor Marinetti, the Italian "futurist", when in his article on 'Futurism and the Theatre', in 'The Mask', he urges the revolutionary value of "American eccentrics", citing the fundamental primitive quality in their vaudeville art. This may be another statement of Mr. Lindsay's plea for a closer relation between the poet and his audience, for a return to the healthier open-air conditions, and immediate personal contacts, in the art of the Greeks and of primitive nations.  Such conditions and contacts may still be found, if the world only knew it, in the wonderful song-dances of the Hopis and others of our aboriginal tribes.  They may be found, also, in a measure, in the quick response between artist and audience in modern vaudeville. They are destined to a wider and higher influence; in fact, the development of that influence, the return to primitive sympathies between artist and audience, which may make possible once more the assertion of primitive creative power, is recognized as the immediate movement in modern art. It is a movement strong enough to persist in spite of extravagances and absurdities; strong enough, it may be hoped, to fulfil its purpose and revitalize the world.
 
-A lighter phase of this foreign enthusiasm for the American tang is
-confessed by Signor Marinetti, the Italian "futurist", when in his
-article on 'Futurism and the Theatre', in 'The Mask', he urges the
-revolutionary value of "American eccentrics", citing the fundamental
-primitive quality in their vaudeville art. This may be another statement
-of Mr. Lindsay's plea for a closer relation between the poet and his
-audience, for a return to the healthier open-air conditions, and
-immediate personal contacts, in the art of the Greeks and of primitive
-nations.  Such conditions and contacts may still be found, if the world
-only knew it, in the wonderful song-dances of the Hopis and others of
-our aboriginal tribes.  They may be found, also, in a measure, in the
-quick response between artist and audience in modern vaudeville. They
-are destined to a wider and higher influence; in fact, the development
-of that influence, the return to primitive sympathies between artist and
-audience, which may make possible once more the assertion of primitive
-creative power, is recognized as the immediate movement in modern art.
-It is a movement strong enough to persist in spite of extravagances and
-absurdities; strong enough, it may be hoped, to fulfil its purpose and
-revitalize the world.
-
-It is because Mr. Lindsay's poetry seems to be definitely in that
-movement that it is, I think, important.
+It is because Mr. Lindsay's poetry seems to be definitely in that movement that it is, I think, important.
 
 Harriet Monroe.
-
-
-
 
 
 Table of Contents
 
 
+Introduction.  By Harriet Monroe
 
-   Introduction.  By Harriet Monroe
 
+First Section
 
-           First Section
-
-       Poems intended to be read aloud, or chanted.
+Poems intended to be read aloud, or chanted.
 
    The Congo
    The Santa Fe Trail
@@ -184,9 +67,9 @@ Table of Contents
    I Heard Immanuel Singing
 
 
-           Second Section
+Second Section
 
-       Incense
+Incense
 
    An Argument
    A Rhyme about an Electrical Advertising Sign
@@ -208,9 +91,9 @@ Table of Contents
    The North Star Whispers to the Blacksmith's Son
 
 
-           Third Section
+Third Section
 
-       A Miscellany called "the Christmas Tree"
+A Miscellany called "the Christmas Tree"
 
    This Section is a Christmas Tree
    The Sun Says his Prayers
@@ -237,11 +120,11 @@ Table of Contents
      IV.  In Praise of Gloriana's Remarkable Golden Hair
 
 
-           Fourth Section
+Fourth Section
 
-       Twenty Poems in which the Moon is the Principal Figure of Speech
+Twenty Poems in which the Moon is the Principal Figure of Speech
 
-   Once More--To Gloriana
+Once More--To Gloriana
 
      First Section:  Moon Poems for the Children/Fairy-tales for the Children
    I.  Euclid
@@ -283,13 +166,7 @@ Table of Contents
    VII.  Epilogue.  Under the Blessing of Your Psyche Wings
 
 
-
-
-
 First Section ~~ Poems intended to be read aloud, or chanted.
-
-
-
 
 
 The Congo
@@ -297,8 +174,7 @@ The Congo
 A Study of the Negro Race
 
 
-
-       I.  Their Basic Savagery
+I.  Their Basic Savagery
 
    Fat black bucks in a wine-barrel room,
    Barrel-house kings, with feet unstable,
@@ -361,7 +237,7 @@ A Study of the Negro Race
    Mumbo-Jumbo will hoo-doo you."
 
 
-       II.  Their Irrepressible High Spirits
+II.  Their Irrepressible High Spirits
 
                        # Rather shrill and high. #
    Wild crap-shooters with a whoop and a call
@@ -369,11 +245,11 @@ A Study of the Negro Race
    And laughed fit to kill, and shook the town,
    And guyed the policemen and laughed them down
    With a boomlay, boomlay, boomlay, BOOM.
-                       # Read exactly as in first section. #
-   THEN I SAW THE CONGO, CREEPING THROUGH THE BLACK,
-   CUTTING THROUGH THE FOREST WITH A GOLDEN TRACK.
-                       # Lay emphasis on the delicate ideas.
-                         Keep as light-footed as possible. #
+# Read exactly as in first section. #
+THEN I SAW THE CONGO, CREEPING THROUGH THE BLACK,
+CUTTING THROUGH THE FOREST WITH A GOLDEN TRACK.
+# Lay emphasis on the delicate ideas.
+Keep as light-footed as possible. #
    A negro fairyland swung into view,
    A minstrel river
    Where dreams come true.
@@ -435,10 +311,10 @@ A Study of the Negro Race
    That made those glowering witch-men smile.
 
 
-       III.  The Hope of their Religion
+III.  The Hope of their Religion
 
-                       # Heavy bass.  With a literal imitation
-                         of camp-meeting racket, and trance. #
+# Heavy bass.  With a literal imitation
+of camp-meeting racket, and trance. #
    A good old negro in the slums of the town
    Preached at a sister for her velvet gown.
    Howled at a brother for his low-down ways,
@@ -498,37 +374,28 @@ A Study of the Negro Race
    Mumbo... Jumbo... will... hoo-doo... you."
 
 
-
-This poem, particularly the third section, was suggested by an allusion
-in a sermon by my pastor, F. W. Burnham, to the heroic life and death of
-Ray Eldred.  Eldred was a missionary of the Disciples of Christ who
-perished while swimming a treacherous branch of the Congo. See "A Master
-Builder on the Congo", by Andrew F. Hensey, published by Fleming H.
+This poem, particularly the third section, was suggested by an allusion in a sermon by my pastor, F. W. Burnham, to the heroic life and death of Ray Eldred.  Eldred was a missionary of the Disciples of Christ who perished while swimming a treacherous branch of the Congo. See "A Master Builder on the Congo", by Andrew F. Hensey, published by Fleming H.
 Revell.
-
-
 
 
 The Santa Fe Trail
 
-     (A Humoresque)
+(A Humoresque)
 
 
-I asked the old Negro, "What is that bird that sings so well?" He
-answered:  "That is the Rachel-Jane."  "Hasn't it another name, lark, or
-thrush, or the like?"  "No.  Jus' Rachel-Jane."
+I asked the old Negro, "What is that bird that sings so well?" He answered:  "That is the Rachel-Jane."  "Hasn't it another name, lark, or thrush, or the like?"  "No.  Jus' Rachel-Jane."
 
 
-       I.  In which a Racing Auto comes from the East
+I.  In which a Racing Auto comes from the East
 
-                       # To be sung delicately, to an improvised tune. #
+# To be sung delicately, to an improvised tune. #
    This is the order of the music of the morning:--
    First, from the far East comes but a crooning.
    The crooning turns to a sunrise singing.
    Hark to the _calm_-horn, _balm_-horn, _psalm_-horn.
-   Hark to the _faint_-horn, _quaint_-horn, _saint_-horn....
+Hark to the _faint_-horn, _quaint_-horn, _saint_-horn....
 
-                       # To be sung or read with great speed. #
+# To be sung or read with great speed. #
    Hark to the _pace_-horn, _chase_-horn, _race_-horn.
    And the holy veil of the dawn has gone.
    Swiftly the brazen car comes on.
@@ -553,9 +420,9 @@ thrush, or the like?"  "No.  Jus' Rachel-Jane."
    A million men have found you before us._
 
 
-       II.  In which Many Autos pass Westward
+II.  In which Many Autos pass Westward
 
-                       # In an even, deliberate, narrative manner. #
+# In an even, deliberate, narrative manner. #
    I want live things in their pride to remain.
    I will not kill one grasshopper vain
    Though he eats a hole in my shirt like a door.
@@ -622,11 +489,11 @@ thrush, or the like?"  "No.  Jus' Rachel-Jane."
    Here comes the _dice_-horn, here comes the _vice_-horn,
    Here comes the _snarl_-horn, _brawl_-horn, _lewd_-horn,
    Followed by the _prude_-horn, bleak and squeaking:--
-   (Some of them from Kansas, some of them from Kansas.)
-   Here comes the _hod_-horn, _plod_-horn, _sod_-horn,
-   Nevermore-to-_roam_-horn, _loam_-horn, _home_-horn.
-   (Some of them from Kansas, some of them from Kansas.)
-                       # To be read or sung, well-nigh in a whisper. #
+(Some of them from Kansas, some of them from Kansas.)
+Here comes the _hod_-horn, _plod_-horn, _sod_-horn,
+Nevermore-to-_roam_-horn, _loam_-horn, _home_-horn.
+(Some of them from Kansas, some of them from Kansas.)
+# To be read or sung, well-nigh in a whisper. #
       Far away the Rachel-Jane
       Not defeated by the horns
       Sings amid a hedge of thorns:--
@@ -648,11 +515,11 @@ thrush, or the like?"  "No.  Jus' Rachel-Jane."
    And then, in an instant,
    Ye modern men,
    Behold the procession once again,
-                       # With a snapping explosiveness. #
-   Listen to the iron-horns, ripping, racking,
-   Listen to the _wise_-horn, desperate-to-_advise_-horn,
-   Listen to the _fast_-horn, _kill_-horn, _blast_-horn....
-                       # To be sung or read well-nigh in a whisper. #
+# With a snapping explosiveness. #
+Listen to the iron-horns, ripping, racking,
+Listen to the _wise_-horn, desperate-to-_advise_-horn,
+Listen to the _fast_-horn, _kill_-horn, _blast_-horn....
+# To be sung or read well-nigh in a whisper. #
       Far away the Rachel-Jane
       Not defeated by the horns
       Sings amid a hedge of thorns:--
@@ -710,13 +577,10 @@ thrush, or the like?"  "No.  Jus' Rachel-Jane."
       Sweet, sweet, sweet, sweet...."
 
 
-
-
 The Firemen's Ball
 
 
-
-       Section One
+Section One
 
    "Give the engines room,
    Give the engines room."
@@ -805,15 +669,15 @@ The Firemen's Ball
    Of the firemen's ball--
 
 
-       Section Two
+Section Two
 
    "Many's the heart that's breaking
    If we could read them all
    After the ball is over."  (An old song.)
 
 
-                       # To be read or sung slowly and softly,
-                         in the manner of lustful, insinuating music. #
+# To be read or sung slowly and softly,
+in the manner of lustful, insinuating music. #
    Scornfully, gaily
    The bandmaster sways,
    Changing the strain
@@ -903,9 +767,9 @@ The Firemen's Ball
    "NIGHT
    Of Doom,"
    Call the ding-dong doom-bells.
-                       # Sharply interrupting in a very high key. #
-      Hark how the piccolos still make cheer.
-      "'Tis a moonlight night in the spring of the year."
+# Sharply interrupting in a very high key. #
+Hark how the piccolos still make cheer.
+"'Tis a moonlight night in the spring of the year."
                        # Heavy bass. #
    CLANGARANGA, CLANGARANGA,
    CLANG... CLANG... CLANG.
@@ -918,21 +782,15 @@ The Firemen's Ball
    OF... THE... FIREMEN'S... BALL....
 
 
-       Section Three
+Section Three
 
 In Which, contrary to Artistic Custom, the moral of the piece is placed
 before the reader.
 
-(From the first Khandaka of the Mahavagga:  "There Buddha thus addressed
-his disciples:  'Everything, O mendicants, is burning. With what fire is
-it burning?  I declare unto you it is burning with the fire of passion,
-with the fire of anger, with the fire of ignorance. It is burning with
-the anxieties of birth, decay and death, grief, lamentation, suffering
-and despair....  A disciple,... becoming weary of all that,
-divests himself of passion. By absence of passion, he is made free.'")
+(From the first Khandaka of the Mahavagga:  "There Buddha thus addressed his disciples:  'Everything, O mendicants, is burning. With what fire is it burning?  I declare unto you it is burning with the fire of passion, with the fire of anger, with the fire of ignorance. It is burning with the anxieties of birth, decay and death, grief, lamentation, suffering and despair....  A disciple,... becoming weary of all that, divests himself of passion. By absence of passion, he is made free.'")
 
 
-                       # To be intoned after the manner of a priestly service. #
+# To be intoned after the manner of a priestly service. #
    I once knew a teacher,
    Who turned from desire,
    Who said to the young men
@@ -987,17 +845,13 @@ divests himself of passion. By absence of passion, he is made free.'")
    CLANG... CLANG... _CLANG_....
 
 
-
-
 The Master of the Dance
 
 
-
-A chant to which it is intended a group of children shall dance and
-improvise pantomime led by their dancing-teacher.
+A chant to which it is intended a group of children shall dance and improvise pantomime led by their dancing-teacher.
 
 
-       I
+I
 
    A master deep-eyed
    Ere his manhood was ripe,
@@ -1065,7 +919,7 @@ improvise pantomime led by their dancing-teacher.
    Uplifted of heart.
 
 
-       II
+II
 
    We thought to be proud
    Of our fawn everywhere.
@@ -1133,7 +987,7 @@ improvise pantomime led by their dancing-teacher.
    The fawn-footed fool?
 
 
-       III
+III
 
    Now soldiers we seem,
    And night brings a new thing,
@@ -1161,14 +1015,10 @@ improvise pantomime led by their dancing-teacher.
    That never know death!_
 
 
-
-
 The Mysterious Cat
 
 
-
-A chant for a children's pantomime dance, suggested by a picture painted
-by George Mather Richards.
+A chant for a children's pantomime dance, suggested by a picture painted by George Mather Richards.
 
 
    I saw a proud, mysterious cat,
@@ -1200,14 +1050,10 @@ by George Mather Richards.
    Mew... mew... mew.
 
 
-
-
 A Dirge for a Righteous Kitten
 
 
-
-To be intoned, all but the two italicized lines, which are to be spoken
-in a snappy, matter-of-fact way.
+To be intoned, all but the two italicized lines, which are to be spoken in a snappy, matter-of-fact way.
 
 
    Ding-dong, ding-dong, ding-dong.
@@ -1226,16 +1072,10 @@ in a snappy, matter-of-fact way.
    Ding-dong, ding-dong, ding-dong.
 
 
-
-
 Yankee Doodle
 
 
-
-This poem is intended as a description of a sort of Blashfield mural
-painting on the sky.  To be sung to the tune of Yankee Doodle, yet in a
-slower, more orotund fashion.  It is presumably an exercise for an
-entertainment on the evening of Washington's Birthday.
+This poem is intended as a description of a sort of Blashfield mural painting on the sky.  To be sung to the tune of Yankee Doodle, yet in a slower, more orotund fashion.  It is presumably an exercise for an entertainment on the evening of Washington's Birthday.
 
 
    Dawn this morning burned all red
@@ -1301,12 +1141,9 @@ entertainment on the evening of Washington's Birthday.
    While seas roll on in laughter.
 
 
-
-
 The Black Hawk War of the Artists
 
 Written for Lorado Taft's Statue of Black Hawk at Oregon, Illinois
-
 
 
 To be given in the manner of the Indian Oration and the Indian War-Cry.
@@ -1367,19 +1204,12 @@ To be given in the manner of the Indian Oration and the Indian War-Cry.
    Bold in your war-array!
 
 
-
-
 The Jingo and the Minstrel
 
-An Argument for the Maintenance of Peace and Goodwill with the Japanese
-People
+An Argument for the Maintenance of Peace and Goodwill with the Japanese People
 
 
-
-Glossary for the uninstructed and the hasty:  Jimmu Tenno, ancestor of
-all the Japanese Emperors; Nikko, Japan's loveliest shrine; Iyeyasu, her
-greatest statesman; Bushido, her code of knighthood; The Forty-seven
-Ronins, her classic heroes; Nogi, her latest hero; Fuji, her most
+Glossary for the uninstructed and the hasty:  Jimmu Tenno, ancestor of all the Japanese Emperors; Nikko, Japan's loveliest shrine; Iyeyasu, her greatest statesman; Bushido, her code of knighthood; The Forty-seven Ronins, her classic heroes; Nogi, her latest hero; Fuji, her most
 beautiful mountain.
 
 
@@ -1479,25 +1309,19 @@ beautiful mountain.
     On Jimmu Tenno's ground."
 
 
-
-
 I Heard Immanuel Singing
 
 
+(The poem shows the Master, with his work done, singing to free his heart in Heaven.)
 
-(The poem shows the Master, with his work done, singing to free his
-heart in Heaven.)
-
-This poem is intended to be half said, half sung, very softly, to the
-well-known tune:--
+This poem is intended to be half said, half sung, very softly, to the well-known tune:--
 
        "Last night I lay a-sleeping,
        There came a dream so fair,
        I stood in Old Jerusalem
        Beside the temple there,--" etc.
 
-Yet this tune is not to be fitted on, arbitrarily.  It is here given to
-suggest the manner of handling rather than determine it.
+Yet this tune is not to be fitted on, arbitrarily.  It is here given to suggest the manner of handling rather than determine it.
 
 
                        # To be sung. #
@@ -1590,20 +1414,13 @@ suggest the manner of handling rather than determine it.
    With a green hill for his throne?
 
 
-
-
-
 Second Section ~~ Incense
-
-
-
 
 
 An Argument
 
 
-
-       I.  The Voice of the Man Impatient with Visions and Utopias
+I.  The Voice of the Man Impatient with Visions and Utopias
 
    We find your soft Utopias as white
    As new-cut bread, and dull as life in cells,
@@ -1627,7 +1444,7 @@ An Argument
    And Ariel wreak his fancies through the rain.
 
 
-       II.  The Rhymer's Reply.  Incense and Splendor
+II.  The Rhymer's Reply.  Incense and Splendor
 
    Incense and Splendor haunt me as I go.
    Though my good works have been, alas, too few,
@@ -1659,10 +1476,7 @@ An Argument
    Wild was their peace, and dawn-bright their array!
 
 
-
-
 A Rhyme about an Electrical Advertising Sign
-
 
 
    I look on the specious electrical light
@@ -1689,13 +1503,10 @@ A Rhyme about an Electrical Advertising Sign
    The signs in the street and the signs in the skies
    Shall make a new Zodiac, guiding the wise,
    And Broadway make one with that marvellous stair
-   That is climbed by the rainbow-clad spirits of prayer.
-
-
+That is climbed by the rainbow-clad spirits of prayer.
 
 
 In Memory of a Child
-
 
 
    The angels guide him now,
@@ -1719,17 +1530,14 @@ In Memory of a Child
    Sweet with eternal spring.
 
 
-
-
 Galahad, Knight Who Perished
 
      A Poem Dedicated to All Crusaders against the International and Interstate
      Traffic in Young Girls
 
 
-
-   Galahad... soldier that perished... ages ago,
-   Our hearts are breaking with shame, our tears overflow.
+Galahad... soldier that perished... ages ago,
+Our hearts are breaking with shame, our tears overflow.
    Galahad... knight who perished... awaken again,
    Teach us to fight for immaculate ways among men.
    Soldiers fantastic, we pray to the star of the sea,
@@ -1746,10 +1554,7 @@ Galahad, Knight Who Perished
    Let not the weakest be shipwrecked, oh, star of the sea!
 
 
-
-
 The Leaden-eyed
-
 
 
    Let not young souls be smothered out before
@@ -1762,13 +1567,10 @@ The Leaden-eyed
    Not that they die, but that they die like sheep.
 
 
-
-
 An Indian Summer Day on the Prairie
 
 
-
-       (In the Beginning)
+(In the Beginning)
 
    The sun is a huntress young,
    The sun is a red, red joy,
@@ -1776,7 +1578,7 @@ An Indian Summer Day on the Prairie
    Of the tribe of the Illinois.
 
 
-       (Mid-morning)
+(Mid-morning)
 
    The sun is a smouldering fire,
    That creeps through the high gray plain,
@@ -1784,7 +1586,7 @@ An Indian Summer Day on the Prairie
    To blossom with flowers of rain.
 
 
-       (Noon)
+(Noon)
 
    The sun is a wounded deer,
    That treads pale grass in the skies,
@@ -1792,7 +1594,7 @@ An Indian Summer Day on the Prairie
    Flashing his baleful eyes.
 
 
-       (Sunset)
+(Sunset)
 
    The sun is an eagle old,
    There in the windless west.
@@ -1800,10 +1602,7 @@ An Indian Summer Day on the Prairie
    He builds him a crimson nest.
 
 
-
-
 The Hearth Eternal
-
 
 
    There dwelt a widow learned and devout,
@@ -1848,12 +1647,9 @@ The Hearth Eternal
    Has made the town a holy angel's throne.
 
 
-
-
 The Soul of the City Receives the Gift of the Holy Spirit
 
-     A Broadside distributed in Springfield, Illinois
-
+A Broadside distributed in Springfield, Illinois
 
 
    Censers are swinging
@@ -1911,10 +1707,7 @@ The Soul of the City Receives the Gift of the Holy Spirit
    Awake from the dead."
 
 
-
-
 By the Spring, at Sunset
-
 
 
    Sometimes we remember kisses,
@@ -1938,10 +1731,7 @@ By the Spring, at Sunset
    Hers most of all, one little friend most kind.
 
 
-
-
 I Went down into the Desert
-
 
 
    I went down into the desert
@@ -1972,10 +1762,7 @@ I Went down into the Desert
    _The carrion-birds a-wheeling round your head_.
 
 
-
-
 Love and Law
-
 
 
    True Love is founded in rocks of Remembrance
@@ -1989,23 +1776,20 @@ Love and Law
    With Patience its watchword, and Law for its throne.
 
 
-
-
 The Perfect Marriage
 
 
+I
 
-       I
-
-   I hate this yoke; for the world's sake here put it on:
-   Knowing 'twill weigh as much on you till life is gone.
+I hate this yoke; for the world's sake here put it on:
+Knowing 'twill weigh as much on you till life is gone.
    Knowing you love your freedom dear, as I love mine--
    Knowing that love unchained has been our life's great wine:
    Our one great wine (yet spent too soon, and serving none;
    Of the two cups free love at last the deadly one).
 
 
-       II
+II
 
    We grant our meetings will be tame, not honey-sweet
    No longer turning to the tryst with flying feet.
@@ -2017,10 +1801,10 @@ The Perfect Marriage
    Mad or diseased or damned of soul the best may come--
    It matters not how merrily now rolls the drum,
    The fife shrills high, the horn sings loud, till no steps lag--
-   And all adore that silken flame, Desire's great flag.
+And all adore that silken flame, Desire's great flag.
 
 
-       III
+III
 
    We will build strong our tiny fort, strong as we can--
    Holding one inner room beyond the sword of man.
@@ -2039,10 +1823,10 @@ The Perfect Marriage
    Ah, when we need love most, and weep, when all is dark,
    Love is a pinch of ashes gray, with one live spark--
    Yet on the hope to keep alive that treasure strange
-   Hangs all earth's struggle, strife and scorn, and desperate change.
+Hangs all earth's struggle, strife and scorn, and desperate change.
 
 
-       IV
+IV
 
    Love?... we will scarcely love our babes full many a time--
    Knowing their souls and ours too well, and all our grime--
@@ -2056,10 +1840,7 @@ The Perfect Marriage
    True to their battered flag, their faith still undefiled!
 
 
-
-
 Darling Daughter of Babylon
-
 
 
    Too soon you wearied of our tears.
@@ -2108,10 +1889,7 @@ Darling Daughter of Babylon
    And do your flower-mouth too much wrong.
 
 
-
-
 The Amaranth
-
 
 
    Ah, in the night, all music haunts me here....
@@ -2134,10 +1912,7 @@ The Amaranth
    With streets like channels of an incense-sea.
 
 
-
-
 The Alchemist's Petition
-
 
 
    Thou wilt not sentence to eternal life
@@ -2154,15 +1929,12 @@ The Alchemist's Petition
                                            Amen.
 
 
-
-
 Two Easter Stanzas
 
 
+I
 
-       I
-
-     The Hope of the Resurrection
+The Hope of the Resurrection
 
 
    Though I have watched so many mourners weep
@@ -2183,10 +1955,9 @@ Two Easter Stanzas
    "I am the Resurrection and the Life."
 
 
+II
 
-       II
-
-     We meet at the Judgment and I fear it Not
+We meet at the Judgment and I fear it Not
 
 
    Though better men may fear that trumpet's warning,
@@ -2213,13 +1984,9 @@ Two Easter Stanzas
    That blooms to-day to vindicate your throne.
 
 
-
-
 The Traveller-heart
 
-(To a Man who maintained that the Mausoleum is the Stateliest Possible
-Manner of Interment)
-
+(To a Man who maintained that the Mausoleum is the Stateliest Possible Manner of Interment)
 
 
    I would be one with the dark, dark earth:--
@@ -2258,10 +2025,7 @@ Manner of Interment)
    When the sheaves were ripe, and the apples red.
 
 
-
-
 The North Star Whispers to the Blacksmith's Son
-
 
 
    The North Star whispers:  "You are one
@@ -2290,16 +2054,10 @@ The North Star Whispers to the Blacksmith's Son
    And burn a deathless incense here."
 
 
-
-
 Third Section ~~ A Miscellany called "the Christmas Tree"
 
 
-
-
-
 This Section is a Christmas Tree
-
 
 
    This section is a Christmas tree:
@@ -2316,10 +2074,7 @@ This Section is a Christmas Tree
    And I will light the candles now.
 
 
-
-
 The Sun Says his Prayers
-
 
 
    "The sun says his prayers," said the fairy,
@@ -2332,13 +2087,10 @@ The Sun Says his Prayers
    And dawn is his altar to God."
 
 
-
-
 Popcorn, Glass Balls, and Cranberries (As it were)
 
 
-
-     I. The Lion
+I. The Lion
 
 
    The Lion is a kingly beast.
@@ -2352,8 +2104,7 @@ Popcorn, Glass Balls, and Cranberries (As it were)
    And all is family peace again.
 
 
-
-     II.  An Explanation of the Grasshopper
+II.  An Explanation of the Grasshopper
 
 
    The Grasshopper, the grasshopper,
@@ -2362,8 +2113,7 @@ Popcorn, Glass Balls, and Cranberries (As it were)
    The fairies' Kangaroo.
 
 
-
-     III.  The Dangerous Little Boy Fairies
+III.  The Dangerous Little Boy Fairies
 
 
    In fairyland the little boys
@@ -2376,8 +2126,7 @@ Popcorn, Glass Balls, and Cranberries (As it were)
    Repent the day that they were born.
 
 
-
-     IV.  The Mouse that gnawed the Oak-tree Down
+IV.  The Mouse that gnawed the Oak-tree Down
 
 
    The mouse that gnawed the oak-tree down
@@ -2405,8 +2154,7 @@ Popcorn, Glass Balls, and Cranberries (As it were)
    And started on another tree.
 
 
-
-     V.  Parvenu
+V.  Parvenu
 
 
    Where does Cinderella sleep?
@@ -2420,8 +2168,7 @@ Popcorn, Glass Balls, and Cranberries (As it were)
    We, for the day-dream river.
 
 
-
-     VI.  The Spider and the Ghost of the Fly
+VI.  The Spider and the Ghost of the Fly
 
 
    Once I loved a spider
@@ -2438,8 +2185,7 @@ Popcorn, Glass Balls, and Cranberries (As it were)
    I saw her eat my heart.
 
 
-
-     VII.  Crickets on a Strike
+VII.  Crickets on a Strike
 
 
    The foolish queen of fairyland
@@ -2453,8 +2199,6 @@ Popcorn, Glass Balls, and Cranberries (As it were)
    Play sharps and flats in my kitchen floor.
 
 
-
-
 How a Little Girl Danced
 
 Dedicated to Lucy Bates
@@ -2462,9 +2206,8 @@ Dedicated to Lucy Bates
 (Being a reminiscence of certain private theatricals.)
 
 
-
-   Oh, cabaret dancer, _I_ know a dancer,
-   Whose eyes have not looked on the feasts that are vain.
+Oh, cabaret dancer, _I_ know a dancer,
+Whose eyes have not looked on the feasts that are vain.
    _I_ know a dancer, _I_ know a dancer,
    Whose soul has no bond with the beasts of the plain:
    Judith the dancer, Judith the dancer,
@@ -2496,16 +2239,12 @@ Dedicated to Lucy Bates
    I know a dancer, I know a dancer,
    Who lifts us toward peace, from this earth that is vain:
    Judith the dancer, Judith the dancer,
-   With foot like the snow, and with step like the rain.
-
-
+With foot like the snow, and with step like the rain.
 
 
 In Praise of Songs that Die
 
-After having read a Great Deal of Good Current Poetry in the Magazines
-and Newspapers
-
+After having read a Great Deal of Good Current Poetry in the Magazines and Newspapers
 
 
    Ah, they are passing, passing by,
@@ -2524,10 +2263,7 @@ and Newspapers
    You perish, and I love you so!
 
 
-
-
 Factory Windows are always Broken
-
 
 
    Factory windows are always broken.
@@ -2546,14 +2282,11 @@ Factory Windows are always Broken
    _End of the factory-window song_.
 
 
-
-
 To Mary Pickford
 
-     Moving-picture Actress
+Moving-picture Actress
 
 (On hearing she was leaving the moving-pictures for the stage.)
-
 
 
    Mary Pickford, doll divine,
@@ -2594,14 +2327,11 @@ To Mary Pickford
    Elf who must return in state.
 
 
-
-
 Blanche Sweet
 
-     Moving-picture Actress
+Moving-picture Actress
 
 (After seeing the reel called "Oil and Water".)
-
 
 
    Beauty has a throne-room
@@ -2652,12 +2382,9 @@ Blanche Sweet
    Ruler of our pain!
 
 
-
-
 Sunshine
 
 For a Very Little Girl, Not a Year Old.  Catharine Frazee Wakefield.
-
 
 
    The sun gives not directly
@@ -2707,20 +2434,17 @@ For a Very Little Girl, Not a Year Old.  Catharine Frazee Wakefield.
                             Amen.
 
 
-
-
 An Apology for the Bottle Volcanic
-
 
 
    Sometimes I dip my pen and find the bottle full of fire,
    The salamanders flying forth I cannot but admire.
    It's Etna, or Vesuvius, if those big things were small,
-   And then 'tis but itself again, and does not smoke at all.
-   And so my blood grows cold.  I say, "The bottle held but ink,
-   And, if you thought it otherwise, the worser for your think."
-   And then, just as I throw my scribbled paper on the floor,
-   The bottle says, "Fe, fi, fo, fum," and steams and shouts some more.
+And then 'tis but itself again, and does not smoke at all.
+And so my blood grows cold.  I say, "The bottle held but ink,
+And, if you thought it otherwise, the worser for your think."
+And then, just as I throw my scribbled paper on the floor,
+The bottle says, "Fe, fi, fo, fum," and steams and shouts some more.
    O sad deceiving ink, as bad as liquor in its way--
    All demons of a bottle size have pranced from you to-day,
    And seized my pen for hobby-horse as witches ride a broom,
@@ -2728,17 +2452,14 @@ An Apology for the Bottle Volcanic
    And yet when I am extra good and say my prayers at night,
    And mind my ma, and do the chores, and speak to folks polite,
    My bottle spreads a rainbow-mist, and from the vapor fine
-   Ten thousand troops from fairyland come riding in a line.
-   I've seen them on their chargers race around my study chair,
-   They opened wide the window and rode forth upon the air.
+Ten thousand troops from fairyland come riding in a line.
+I've seen them on their chargers race around my study chair,
+They opened wide the window and rode forth upon the air.
    The army widened as it went, and into myriads grew,
    O how the lances shimmered, how the silvery trumpets blew!
 
 
-
-
 When Gassy Thompson Struck it Rich
-
 
 
    He paid a Swede twelve bits an hour
@@ -2787,13 +2508,10 @@ When Gassy Thompson Struck it Rich
    But Gassy Thompson was clean broke.
 
 
-
-
 Rhymes for Gloriana
 
 
-
-     I.  The Doll upon the Topmost Bough
+I.  The Doll upon the Topmost Bough
 
 
    This doll upon the topmost bough,
@@ -2807,8 +2525,7 @@ Rhymes for Gloriana
    The ill the new year promised me.
 
 
-
-     II.  On Suddenly Receiving a Curl Long Refused
+II.  On Suddenly Receiving a Curl Long Refused
 
 
    Oh, saucy gold circle of fairyland silk--
@@ -2827,8 +2544,7 @@ Rhymes for Gloriana
    A thoroughbred, joyous receiving and giving!"
 
 
-
-     III.  On Receiving One of Gloriana's Letters
+III.  On Receiving One of Gloriana's Letters
 
 
    Your pen needs but a ruffle
@@ -2850,8 +2566,7 @@ Rhymes for Gloriana
    All glamour, glee and grace.
 
 
-
-     IV.  In Praise of Gloriana's Remarkable Golden Hair
+IV.  In Praise of Gloriana's Remarkable Golden Hair
 
 
    The gleaming head of one fine friend
@@ -2875,17 +2590,10 @@ Rhymes for Gloriana
    Though walking in the ways of earth!
 
 
-
-
-
 Fourth Section ~~ Twenty Poems in which the Moon is the Principal Figure of Speech
 
 
-
-
-
 Once More--To Gloriana
-
 
 
    Girl with the burning golden eyes,
@@ -2898,13 +2606,10 @@ Once More--To Gloriana
    And red-bird song, and throat so white.
 
 
-
-
 First Section:  Moon Poems for the Children/Fairy-tales for the Children
 
 
-
-   I.  Euclid
+I.  Euclid
 
 
    Old Euclid drew a circle
@@ -2921,10 +2626,9 @@ First Section:  Moon Poems for the Children/Fairy-tales for the Children
    Round pictures of the moon.
 
 
+II.  The Haughty Snail-king
 
-   II.  The Haughty Snail-king
-
-     (What Uncle William told the Children)
+(What Uncle William told the Children)
 
 
    Twelve snails went walking after night.
@@ -2949,8 +2653,7 @@ First Section:  Moon Poems for the Children/Fairy-tales for the Children
    As glistering... as... the moon."
 
 
-
-   III.  What the Rattlesnake Said
+III.  What the Rattlesnake Said
 
 
    The moon's a little prairie-dog.
@@ -2964,10 +2667,9 @@ First Section:  Moon Poems for the Children/Fairy-tales for the Children
    Lest _I_ should spring, and sting.
 
 
+IV.  The Moon's the North Wind's Cooky
 
-   IV.  The Moon's the North Wind's Cooky
-
-     (What the Little Girl Said)
+(What the Little Girl Said)
 
 
    The Moon's the North Wind's cooky.
@@ -2981,10 +2683,9 @@ First Section:  Moon Poems for the Children/Fairy-tales for the Children
    North... Wind... eats... again!_
 
 
+V.  Drying their Wings
 
-   V.  Drying their Wings
-
-     (What the Carpenter Said)
+(What the Carpenter Said)
 
 
    The moon's a cottage with a door.
@@ -3001,8 +2702,7 @@ First Section:  Moon Poems for the Children/Fairy-tales for the Children
    So they again can fly.
 
 
-
-   VI.  What the Gray-winged Fairy Said
+VI.  What the Gray-winged Fairy Said
 
 
    The moon's a gong, hung in the wild,
@@ -3016,10 +2716,9 @@ First Section:  Moon Poems for the Children/Fairy-tales for the Children
    Of dove or whippoorwill.
 
 
+VII.  Yet Gentle will the Griffin Be
 
-   VII.  Yet Gentle will the Griffin Be
-
-     (What Grandpa told the Children)
+(What Grandpa told the Children)
 
 
    The moon?  It is a griffin's egg,
@@ -3036,13 +2735,10 @@ First Section:  Moon Poems for the Children/Fairy-tales for the Children
    And lap it like a cat.
 
 
-
-
 Second Section:  The Moon is a Mirror
 
 
-
-   I.  Prologue.  A Sense of Humor
+I.  Prologue.  A Sense of Humor
 
 
    No man should stand before the moon
@@ -3066,8 +2762,7 @@ Second Section:  The Moon is a Mirror
    Throw kisses through the glass.
 
 
-
-   II.  On the Garden-wall
+II.  On the Garden-wall
 
 
    Oh, once I walked a garden
@@ -3092,8 +2787,7 @@ Second Section:  The Moon is a Mirror
    Was one lone flower--the moon.
 
 
-
-   III.  Written for a Musician
+III.  Written for a Musician
 
 
    Hungry for music with a desperate hunger
@@ -3107,8 +2801,7 @@ Second Section:  The Moon is a Mirror
    With quivering lips, and gleaming, moonlit face.
 
 
-
-   IV.  The Moon is a Painter
+IV.  The Moon is a Painter
 
 
    He coveted her portrait.
@@ -3137,8 +2830,7 @@ Second Section:  The Moon is a Mirror
    For whom he lived and died.
 
 
-
-   V.  The Encyclopaedia
+V.  The Encyclopaedia
 
 
    "If I could set the moon upon
@@ -3151,8 +2843,7 @@ Second Section:  The Moon is a Mirror
    Of whim and glittering dream."
 
 
-
-   VI.  What the Miner in the Desert Said
+VI.  What the Miner in the Desert Said
 
 
    The moon's a brass-hooped water-keg,
@@ -3169,8 +2860,7 @@ Second Section:  The Moon is a Mirror
    And perish in the sand.
 
 
-
-   VII.  What the Coal-heaver Said
+VII.  What the Coal-heaver Said
 
 
    The moon's an open furnace door
@@ -3188,8 +2878,7 @@ Second Section:  The Moon is a Mirror
    And Death into delight.
 
 
-
-   VIII.  What the Moon Saw
+VIII.  What the Moon Saw
 
 
    Two statesmen met by moonlight.
@@ -3206,8 +2895,7 @@ Second Section:  The Moon is a Mirror
    Next day, the deadlock broke.
 
 
-
-   IX.  What Semiramis Said
+IX.  What Semiramis Said
 
 
    The moon's a steaming chalice
@@ -3224,8 +2912,7 @@ Second Section:  The Moon is a Mirror
     Golden, and foaming red.
 
 
-
-   X.  What the Ghost of the Gambler Said
+X.  What the Ghost of the Gambler Said
 
 
    Where now the huts are empty,
@@ -3246,8 +2933,7 @@ Second Section:  The Moon is a Mirror
    And gamble for the sun."
 
 
-
-   XI.  The Spice-tree
+XI.  The Spice-tree
 
 
    This is the song
@@ -3292,10 +2978,9 @@ Second Section:  The Moon is a Mirror
    And one is the kiss you gave to me.
 
 
+XII.  The Scissors-grinder
 
-   XII.  The Scissors-grinder
-
-     (What the Tramp Said)
+(What the Tramp Said)
 
 
    The old man had his box and wheel
@@ -3342,8 +3027,7 @@ Second Section:  The Moon is a Mirror
    I saw the wandering Jew_.
 
 
-
-   XIII.  My Lady in her White Silk Shawl
+XIII.  My Lady in her White Silk Shawl
 
 
    My lady in her white silk shawl
@@ -3372,8 +3056,7 @@ Second Section:  The Moon is a Mirror
     In every worshipper.
 
 
-
-   XIV.  Aladdin and the Jinn
+XIV.  Aladdin and the Jinn
 
 
    "Bring me soft song," said Aladdin.
@@ -3420,10 +3103,9 @@ Second Section:  The Moon is a Mirror
    "I AM YOUR SLAVE," said the Jinn.
 
 
+XV.  The Strength of the Lonely
 
-   XV.  The Strength of the Lonely
-
-     (What the Mendicant Said)
+(What the Mendicant Said)
 
 
    The moon's a monk, unmated,
@@ -3437,20 +3119,14 @@ Second Section:  The Moon is a Mirror
    Only the arching blue.
 
 
-
-
 Fifth Section
 
 War.  September 1, 1914 Intended to be Read Aloud
 
 
-
-
-
 I.  Abraham Lincoln Walks at Midnight
 
-     (In Springfield, Illinois)
-
+(In Springfield, Illinois)
 
 
    It is portentous, and a thing of state
@@ -3494,10 +3170,7 @@ I.  Abraham Lincoln Walks at Midnight
    That he may sleep upon his hill again?
 
 
-
-
 II.  A Curse for Kings
-
 
 
    A curse upon each king who leads his state,
@@ -3556,10 +3229,7 @@ II.  A Curse for Kings
    And plays wild harps.  Those flags march forth to-day!
 
 
-
-
 III.  Who Knows?
-
 
 
    They say one king is mad.  Perhaps.  Who knows?
@@ -3573,10 +3243,7 @@ III.  Who Knows?
    Till every far-off farmstead goes insane?
 
 
-
-
 IV.  To Buddha
-
 
 
    Awake again in Asia, Lord of Peace,
@@ -3589,7 +3256,6 @@ IV.  To Buddha
    Dare they to move against your pride benign,
    Lord of the Law, high chieftain of the mind?
 
-        *****
 
    But what can Europe say, when in your name
    The throats are cut, the lotus-ponds turn red?
@@ -3597,10 +3263,7 @@ IV.  To Buddha
    Old Asia heaps her hecatombs of dead?
 
 
-
-
 V.  The Unpardonable Sin
-
 
 
    This is the sin against the Holy Ghost:--
@@ -3624,10 +3287,7 @@ V.  The Unpardonable Sin
    To set the face, and make the heart a stone.
 
 
-
-
 VI.  Above the Battle's Front
-
 
 
    St. Francis, Buddha, Tolstoi, and St. John--
@@ -3651,10 +3311,7 @@ VI.  Above the Battle's Front
    Thorn-crowned above the water and the land.
 
 
-
-
 VII.  Epilogue.  Under the Blessing of Your Psyche Wings
-
 
 
    Though I have found you like a snow-drop pale,
@@ -3681,49 +3338,20 @@ VII.  Epilogue.  Under the Blessing of Your Psyche Wings
 [End of original text.]
 
 
-
-
 Biographical Note:
 
 Nicholas Vachel Lindsay (1879-1931):
 
 (Vachel is pronounced Vay-chul, that is, it rhymes with 'Rachel').
 
-"The Eagle that is Forgotten" and "The Congo" are two of his best-known
-poems, and appear in his first two volumes of verse, "General William
-Booth Enters into Heaven" (1913) and "The Congo" (1914).
+"The Eagle that is Forgotten" and "The Congo" are two of his best-known poems, and appear in his first two volumes of verse, "General William Booth Enters into Heaven" (1913) and "The Congo" (1914).
 
-Lindsay himself considered his drawings and his prose writings to be as
-important as his verse, all coming together to form a whole. His
-"Collected Poems" (1925) gives a good selection.
+Lindsay himself considered his drawings and his prose writings to be as important as his verse, all coming together to form a whole. His "Collected Poems" (1925) gives a good selection.
 
-*****
 
 From an anthology of verse by Jessie B. Rittenhouse (1913, 1917):
 
-"Lindsay, Vachel.  Born November 10, 1879.  Educated at Hiram College,
-Ohio. He took up the study of art and studied at the Art Institute,
-Chicago, 1900-03 and at the New York School of Art, 1904-05.  For a time
-after his technical study, he lectured upon art in its practical
-relation to the community, and returning to his home in Springfield,
-Illinois, issued what one might term his manifesto in the shape of "The
-Village Magazine", divided about equally between prose articles,
-pertaining to beautifying his native city, and poems, illustrated by his
-own drawings.  Soon after this, Mr. Lindsay, taking as scrip for the
-journey, "Rhymes to be Traded for Bread", made a pilgrimage on foot
-through several Western States going as far afield as New Mexico.  The
-story of this journey is given in his volume, "Adventures while
-Preaching the Gospel of Beauty". Mr. Lindsay first attracted attention
-in poetry by "General William Booth Enters into Heaven", a poem which
-became the title of his first volume, in 1913.  His second volume was
-"The Congo", published in 1914. He is attempting to restore to poetry
-its early appeal as a spoken art, and his later work differs greatly
-from the selections contained in this anthology."
-
-
-
+"Lindsay, Vachel.  Born November 10, 1879.  Educated at Hiram College, Ohio. He took up the study of art and studied at the Art Institute, Chicago, 1900-03 and at the New York School of Art, 1904-05.  For a time after his technical study, he lectured upon art in its practical relation to the community, and returning to his home in Springfield, Illinois, issued what one might term his manifesto in the shape of "The Village Magazine", divided about equally between prose articles, pertaining to beautifying his native city, and poems, illustrated by his own drawings.  Soon after this, Mr. Lindsay, taking as scrip for the journey, "Rhymes to be Traded for Bread", made a pilgrimage on foot through several Western States going as far afield as New Mexico.  The story of this journey is given in his volume, "Adventures while Preaching the Gospel of Beauty". Mr. Lindsay first attracted attention in poetry by "General William Booth Enters into Heaven", a poem which became the title of his first volume, in 1913.  His second volume was "The Congo", published in 1914. He is attempting to restore to poetry its early appeal as a spoken art, and his later work differs greatly from the selections contained in this anthology."
 
 
 End of Project Gutenberg's The Congo and Other Poems, by Vachel Lindsay
-
-*** END OF THE PROJECT GUTENBERG EBOOK 1021 ***

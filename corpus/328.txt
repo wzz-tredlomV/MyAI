@@ -1,44 +1,9 @@
-The Project Gutenberg EBook of A Heap o' Livin', by Edgar A. Guest
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+A Heap o' Livin'
 
 
-Title: A Heap o' Livin'
+by
 
-Author: Edgar A. Guest
-
-Release Date: April 29, 2008 [EBook #328]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK A HEAP O' LIVIN' ***
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  A Heap o' Livin'
-
-
-  by
-
-  Edgar A. Guest
-
-
+Edgar A. Guest
 
 
     To
@@ -49,11 +14,9 @@ Character set encoding: ASCII
     by their Daddy
 
 
-
-
 {11}
 
-        WHEN YOU KNOW A FELLOW
+WHEN YOU KNOW A FELLOW
 
   When you get to know a fellow, know his joys
     and know his cares,
@@ -108,7 +71,7 @@ Character set encoding: ASCII
 
 {13}
 
-        THE ROUGH LITTLE RASCAL
+THE ROUGH LITTLE RASCAL
 
   A smudge on his nose and a smear on his cheek
   And knees that might not have been washed in a week;
@@ -133,7 +96,7 @@ Character set encoding: ASCII
 
 {14}
 
-           IT ISN'T COSTLY
+IT ISN'T COSTLY
 
   Does the grouch get richer quicker than the
      friendly sort of man?
@@ -164,7 +127,7 @@ Character set encoding: ASCII
 
 {15}
 
-           MY CREED
+MY CREED
 
   To live as gently as I can;
   To be, no matter where, a man;
@@ -195,7 +158,7 @@ Character set encoding: ASCII
 
 {16}
 
-              A WISH
+A WISH
 
   I'd like to be a boy again, a care-free prince of
       joy again,
@@ -248,11 +211,11 @@ Character set encoding: ASCII
       soon be changed to men;
   And then, they too will sit, as I, and backward
       turn to look and sigh
-    And share my longing, vain, to be a care-free boy again.
+And share my longing, vain, to be a care-free boy again.
 
 {18}
 
-    WHAT A BABY COSTS
+WHAT A BABY COSTS
 
   "How much do babies cost?" said he
   The other night upon my knee;
@@ -289,7 +252,7 @@ Character set encoding: ASCII
 
 {19}
 
-            MOTHER
+MOTHER
 
   Never a sigh for the cares that she bore for me
     Never a thought of the joys that flew by;
@@ -308,7 +271,7 @@ Character set encoding: ASCII
 
 {20}
 
-             SELFISH
+SELFISH
 
   I am selfish in my wishin' every sort o' joy for
      you;
@@ -338,7 +301,7 @@ Character set encoding: ASCII
 
 {21}
 
-             RICH
+RICH
 
   Who has a troop of romping youth
     About his parlor floor,
@@ -369,7 +332,7 @@ Character set encoding: ASCII
 
 {22}
 
-           MA AND THE AUTO
+MA AND THE AUTO
 
   Before we take an auto ride Pa says to Ma:
      "My dear,
@@ -425,7 +388,7 @@ Character set encoding: ASCII
 
 {24}
 
-      ON GOING HOME FOR CHRISTMAS
+ON GOING HOME FOR CHRISTMAS
 
   He little knew the sorrow that was in his vacant
       chair;
@@ -481,7 +444,7 @@ Character set encoding: ASCII
 
 {26}
 
-       AT SUGAR CAMP
+AT SUGAR CAMP
 
   At Sugar Camp the cook is kind
     And laughs the laugh we knew as boys;
@@ -530,7 +493,7 @@ Character set encoding: ASCII
 
 {28}
 
-             HOME
+HOME
 
   It takes a heap o' livin' in a house t' make it
      home,
@@ -602,7 +565,7 @@ Character set encoding: ASCII
 
 {30}
 
-      THE PATH THAT LEADS TO HOME
+THE PATH THAT LEADS TO HOME
 
   The little path that leads to home,
     That is the road for me,
@@ -651,7 +614,7 @@ Character set encoding: ASCII
 
 {32}
 
-           A FRIEND'S GREETING
+A FRIEND'S GREETING
 
   I'd like to be the sort of friend that you have
       been to me;
@@ -691,7 +654,7 @@ Character set encoding: ASCII
 
 {33}
 
-          A SONG
+A SONG
 
   None knows the day that friends must part
     None knows how near is sorrow;
@@ -709,7 +672,7 @@ Character set encoding: ASCII
 
 {34}
 
-            OLD FRIENDS
+OLD FRIENDS
 
   I do not say new friends are not considerate and
      true,
@@ -776,7 +739,7 @@ Character set encoding: ASCII
 
 {36}
 
-             FOLKS
+FOLKS
 
   We was speakin' of folks, jes' common folks,
     An' we come to this conclusion,
@@ -825,7 +788,7 @@ Character set encoding: ASCII
 
 {38}
 
-       LITTLE MASTER MISCHIEVOUS
+LITTLE MASTER MISCHIEVOUS
 
   Little Master Mischievous, that's the name for you;
   There's no better title that describes the things you do:
@@ -857,7 +820,7 @@ Character set encoding: ASCII
 
 {39}
 
-         OPPORTUNITY
+OPPORTUNITY
 
   So long as men shall be on earth
     There will be tasks for them to do,
@@ -871,7 +834,7 @@ Character set encoding: ASCII
 
 {40}
 
-         THE SORROW TUGS
+THE SORROW TUGS
 
   There's a lot of joy in the smiling world,
      there's plenty of morning sun,
@@ -920,7 +883,7 @@ Character set encoding: ASCII
 
 {42}
 
-            ONLY A DAD
+ONLY A DAD
 
   Only a dad with a tired face,
   Coming home from the daily race,
@@ -952,7 +915,7 @@ Character set encoding: ASCII
 
 {43}
 
-            HARD KNOCKS
+HARD KNOCKS
 
   I'm not the man to say that failure's sweet,
     Nor tell a chap to laugh when things go wrong;
@@ -983,7 +946,7 @@ Character set encoding: ASCII
 
 {44}
 
-          SPRING IN THE TRENCHES
+SPRING IN THE TRENCHES
 
   It's coming time for planting in that little patch of ground,
   Where the lad and I made merry as he followed me around;
@@ -995,18 +958,18 @@ Character set encoding: ASCII
       Pretend that you are blind.
 
   The spring is coming back again, the birds begin to mate;
-  The skies are full of kindness, but the world is full of hate.
-  And it's I that should be bending now in peace above the soil
-  With laughing eyes and little hands about to bless the toil.
+The skies are full of kindness, but the world is full of hate.
+And it's I that should be bending now in peace above the soil
+With laughing eyes and little hands about to bless the toil.
       But it's fight, fight, fight,
       And it's charge at double-quick;
       A soldier thinking thoughts of home
       Is one more soldier sick.
 
   Last year I brought the bulbs to bloom and saw the roses bud;
-  This year I'm ankle deep in mire, and most of it is blood.
-  Last year the mother in the door was glad as she could be;
-  To-day her heart is full of pain, and mine is hurting me.
+This year I'm ankle deep in mire, and most of it is blood.
+Last year the mother in the door was glad as she could be;
+To-day her heart is full of pain, and mine is hurting me.
       But it's shoot, shoot, shoot,
       And when the bullets hiss,
       Don't let the tears fill up your eyes,
@@ -1023,7 +986,7 @@ Character set encoding: ASCII
 
 {46}
 
-           FATHER
+FATHER
 
   Used to wonder just why father
     Never had much time for play,
@@ -1072,7 +1035,7 @@ Character set encoding: ASCII
 
 {48}
 
-         LADDIES
+LADDIES
 
   Show me the boy who never threw
     A stone at someone's cat,
@@ -1094,7 +1057,7 @@ Character set encoding: ASCII
 
 {49}
 
-      THE LIVING BEAUTIES
+THE LIVING BEAUTIES
 
   I never knew, until they went,
   How much their laughter really meant
@@ -1126,39 +1089,39 @@ Character set encoding: ASCII
 
 {50}
 
-           AT BREAKFAST TIME
+AT BREAKFAST TIME
 
   My Pa he eats his breakfast in a funny sort of way:
   We hardly ever see him at the first meal of the day.
   Ma puts his food before him and he settles in his place
   An' then he props the paper up and we can't see his face;
   We hear him blow his coffee and we hear him chew his toast,
-  But it's for the morning paper that he seems to care the most.
+But it's for the morning paper that he seems to care the most.
 
-  Ma says that little children mighty grateful ought to be
-  To the folks that fixed the evening as the proper time for tea.
+Ma says that little children mighty grateful ought to be
+To the folks that fixed the evening as the proper time for tea.
   She says if meals were only served to people once a day,
   An' that was in the morning just before Pa goes away,
   We'd never know how father looked when he was in his place,
-  Coz he'd always have the morning paper stuck before his face.
+Coz he'd always have the morning paper stuck before his face.
 
-  He drinks his coffee steamin' hot, an' passes Ma his cup
-  To have it filled a second time, an' never once looks up.
-  He never has a word to say, but just sits there an' reads,
-  An' when she sees his hand stuck out Ma gives him what he needs.
-  She guesses what it is he wants, coz it's no use to ask:
-  Pa's got to read his paper an' sometimes that's quite a task.
+He drinks his coffee steamin' hot, an' passes Ma his cup
+To have it filled a second time, an' never once looks up.
+He never has a word to say, but just sits there an' reads,
+An' when she sees his hand stuck out Ma gives him what he needs.
+She guesses what it is he wants, coz it's no use to ask:
+Pa's got to read his paper an' sometimes that's quite a task.
 
   One morning we had breakfast an' his features we could see,
   But his face was long an' solemn an' he didn't speak to me,
   An' we couldn't get him laughin' an' we couldn't make him smile,
-  An' he said the toast was soggy an' the coffee simply vile.
-  Then Ma said: "What's the matter?  Why are you so cross an' glum?"
-  An' Pa 'most took her head off coz the paper didn't come.
+An' he said the toast was soggy an' the coffee simply vile.
+Then Ma said: "What's the matter?  Why are you so cross an' glum?"
+An' Pa 'most took her head off coz the paper didn't come.
 
 {52}
 
-              CAN'T
+CAN'T
 
   _Can't_ is the worst word that's written or spoken;
     Doing more harm here than slander and lies;
@@ -1198,7 +1161,7 @@ Character set encoding: ASCII
 
 {54}
 
-         JAMES WHITCOMB RILEY
+JAMES WHITCOMB RILEY
 
       _Written July 22, 1916, when the
       world lost its "Poet of Childhood."_
@@ -1270,7 +1233,7 @@ Character set encoding: ASCII
 
 {56}
 
-      RESULTS AND ROSES
+RESULTS AND ROSES
 
   The man who wants a garden fair,
     Or small or very big,
@@ -1289,7 +1252,7 @@ Character set encoding: ASCII
 
 {57}
 
-           THE OTHER FELLOW
+THE OTHER FELLOW
 
   Are you fond of your wife and your children fair?
     So is the other fellow.
@@ -1320,7 +1283,7 @@ Character set encoding: ASCII
 
 {58}
 
-    OUR DUTY TO OUR FLAG
+OUR DUTY TO OUR FLAG
 
   Less hate and greed
   Is what we need
@@ -1359,7 +1322,7 @@ Character set encoding: ASCII
 
 {59}
 
-          THE HUNTER
+THE HUNTER
 
   Cheek that is tanned to the wind of the north.
     Body that jests at the bite of the cold,
@@ -1382,7 +1345,7 @@ Character set encoding: ASCII
 
 {60}
 
-          IT'S SEPTEMBER
+IT'S SEPTEMBER
 
   It's September, and the orchards are afire with
       red and gold,
@@ -1438,7 +1401,7 @@ Character set encoding: ASCII
 
 {62}
 
-      HOW DO YOU TACKLE YOUR WORK?
+HOW DO YOU TACKLE YOUR WORK?
 
   How do you tackle your work each day?
     Are you scared of the job you find?
@@ -1478,7 +1441,7 @@ Character set encoding: ASCII
 
 {63}
 
-          LIFE
+LIFE
 
   Life is a gift to be used every day,
   Not to be smothered and hidden away;
@@ -1496,7 +1459,7 @@ Character set encoding: ASCII
 
 {64}
 
-          STORY TELLING
+STORY TELLING
 
   Most every night when they're in bed,
   And both their little prayers have said,
@@ -1544,7 +1507,7 @@ Character set encoding: ASCII
 
 {66}
 
-         CANNING TIME
+CANNING TIME
 
   There's a wondrous smell of spices
      In the kitchen,
@@ -1585,7 +1548,7 @@ Character set encoding: ASCII
 
 {67}
 
-             THE DULL ROAD
+THE DULL ROAD
 
   It's the dull road that leads to the gay road;
     The practice that leads to success;
@@ -1609,7 +1572,7 @@ Character set encoding: ASCII
 
 {68}
 
-            THE APPLE TREE
+THE APPLE TREE
 
   When an apple tree is ready for the world to
     come and eat,
@@ -1664,7 +1627,7 @@ Character set encoding: ASCII
 
 {70}
 
-      THE HOME-TOWN
+THE HOME-TOWN
 
   Some folks leave home for money
     And some leave home for fame,
@@ -1704,7 +1667,7 @@ Character set encoding: ASCII
 
 {71}
 
-           TAKE HOME A SMILE
+TAKE HOME A SMILE
 
   Take home a smile; forget the petty cares,
   The dull, grim grind of all the day's affairs;
@@ -1724,7 +1687,7 @@ Character set encoding: ASCII
 
 {72}
 
-          COURAGE
+COURAGE
 
   Courage isn't a brilliant dash,
   A daring deed in a moment's flash;
@@ -1764,7 +1727,7 @@ Character set encoding: ASCII
 
 {73}
 
-          GREATNESS
+GREATNESS
 
   We can be great by helping one another;
     We can be loved for very simple deeds;
@@ -1784,7 +1747,7 @@ Character set encoding: ASCII
 
 {74}
 
-           THE EPICURE
+THE EPICURE
 
   I've sipped a rich man's sparkling wine,
     His silverware I've handled.
@@ -1815,7 +1778,7 @@ Character set encoding: ASCII
 
 {75}
 
-            THE GENTLE GARDENER
+THE GENTLE GARDENER
 
   I'd like to leave but daffodills to mark my little
       way,
@@ -1846,7 +1809,7 @@ Character set encoding: ASCII
 
 {76}
 
-          THE FINEST AGE
+THE FINEST AGE
 
   When he was only nine months old,
     And plump and round and pink of cheek,
@@ -1886,7 +1849,7 @@ Character set encoding: ASCII
 
 {77}
 
-         SUCCESS AND FAILURE
+SUCCESS AND FAILURE
 
   I do not think all failure's undeserved,
     And all success is merely someone's luck;
@@ -1905,7 +1868,7 @@ Character set encoding: ASCII
 
 {78}
 
-           CARE-FREE YOUTH
+CARE-FREE YOUTH
 
   The skies are blue and the sun is out and the
      grass is green and soft
@@ -1961,7 +1924,7 @@ Character set encoding: ASCII
 
 {80}
 
-           MY PAW SAID SO
+MY PAW SAID SO
 
   Foxes can talk if you know how to listen,
      My Paw said so.
@@ -2005,7 +1968,7 @@ Character set encoding: ASCII
 
 {81}
 
-        PREPAREDNESS
+PREPAREDNESS
 
   Right must not live in idleness,
     Nor dwell in smug content;
@@ -2025,7 +1988,7 @@ Character set encoding: ASCII
 
 {82}
 
-      THE PEACEFUL WARRIORS
+THE PEACEFUL WARRIORS
 
   Let others sing their songs of war
     And chant their hymns of splendid death,
@@ -2068,7 +2031,7 @@ Character set encoding: ASCII
 
 {83}
 
-          FAILURES
+FAILURES
 
   'Tis better to have tried in vain,
     Sincerely striving for a goal,
@@ -2087,7 +2050,7 @@ Character set encoding: ASCII
 
 {84}
 
-            RAISIN PIE
+RAISIN PIE
 
   There's a heap of pent-up goodness in the yellow
      bantam corn,
@@ -2129,7 +2092,7 @@ Character set encoding: ASCII
 
 {85}
 
-          LIFE'S TESTS
+LIFE'S TESTS
 
   If never a sorrow came to us, and never a care
       we knew;
@@ -2146,7 +2109,7 @@ Character set encoding: ASCII
 
 {86}
 
-            THE READY ARTISTS
+THE READY ARTISTS
 
   The green is in the meadow and the blue is in
      the sky,
@@ -2201,7 +2164,7 @@ Character set encoding: ASCII
 
 {88}
 
-    THE HAPPIEST DAYS
+THE HAPPIEST DAYS
 
   You do not know it, little man,
   In your summer coat of tan
@@ -2260,7 +2223,7 @@ Character set encoding: ASCII
 
 {90}
 
-      THE REAL BAIT
+THE REAL BAIT
 
   To gentle ways I am inclined;
     I have no wish to kill.
@@ -2300,7 +2263,7 @@ Character set encoding: ASCII
 
 {91}
 
-       TRUE NOBILITY
+TRUE NOBILITY
 
   Who does his task from day to day
   And meets whatever comes his way,
@@ -2319,7 +2282,7 @@ Character set encoding: ASCII
 
 {92}
 
-      THE SULKERS
+THE SULKERS
 
   The world's too busy now to pause
   To listen to a whiner's cause;
@@ -2351,7 +2314,7 @@ Character set encoding: ASCII
 
 {93}
 
-        PURPOSE
+PURPOSE
 
   Not for the sake of the gold,
     Not for the sake of the fame,
@@ -2383,7 +2346,7 @@ Character set encoding: ASCII
 
 {94}
 
-           MOTHER'S GLASSES
+MOTHER'S GLASSES
 
   I've told about the times that Ma can't find
       her pocketbook,
@@ -2438,7 +2401,7 @@ Character set encoding: ASCII
 
 {96}
 
-        THE PRINCESS PAT'S
+THE PRINCESS PAT'S
 
     _Written when the Canadian regiment
      known as the "Princess Pat's,"
@@ -2473,7 +2436,7 @@ Character set encoding: ASCII
 
 {97}
 
-         BE A FRIEND
+BE A FRIEND
 
   Be a friend.  You don't need money;
   Just a disposition sunny;
@@ -2504,7 +2467,7 @@ Character set encoding: ASCII
 
 {98}
 
-            THANKSGIVING
+THANKSGIVING
 
   Thankful for the glory of the old Red, White
      and Blue,
@@ -2560,7 +2523,7 @@ Character set encoding: ASCII
 
 {100}
 
-          MA AND HER CHECK BOOK
+MA AND HER CHECK BOOK
 
   Ma has a dandy little book that's full of narrow
     slips,
@@ -2615,7 +2578,7 @@ Character set encoding: ASCII
 
 {102}
 
-          THE FISHING CURE
+THE FISHING CURE
 
   There's nothing that builds up a toil-weary soul
     Like a day on a stream,
@@ -2655,7 +2618,7 @@ Character set encoding: ASCII
 
 {103}
 
-      THE HAPPY SLOW THINKER
+THE HAPPY SLOW THINKER
 
   Full many a time a thought has come
     That had a bitter meaning in it.
@@ -2674,7 +2637,7 @@ Character set encoding: ASCII
 
 {104}
 
-         OUT-OF-DOORS
+OUT-OF-DOORS
 
   The kids are out-of-doors once more;
   The heavy leggins that they wore,
@@ -2730,7 +2693,7 @@ Character set encoding: ASCII
 
 {106}
 
-          REAL SINGING
+REAL SINGING
 
   You can talk about your music, and your
     operatic airs,
@@ -2761,7 +2724,7 @@ Character set encoding: ASCII
 
 {107}
 
-     THE BUMPS AND BRUISES DOCTOR
+THE BUMPS AND BRUISES DOCTOR
 
   I'm the bumps and bruises doctor;
     I'm the expert that they seek
@@ -2792,7 +2755,7 @@ Character set encoding: ASCII
 
 {108}
 
-          WHEN PA COUNTS
+WHEN PA COUNTS
 
   Pa's not so very big or brave; he can't lift
      weights like Uncle Jim;
@@ -2835,7 +2798,7 @@ Character set encoding: ASCII
 
 {109}
 
-             PEACE
+PEACE
 
   A man must earn his hour of peace,
     Must pay for it with hours of strife and care,
@@ -2853,7 +2816,7 @@ Character set encoding: ASCII
 
 {110}
 
-      NO PLACE TO GO
+NO PLACE TO GO
 
   The happiest nights
     I ever know
@@ -2893,7 +2856,7 @@ Character set encoding: ASCII
 
 {111}
 
-          DEFEAT
+DEFEAT
 
   No one is beat till he quits,
     No one is through till he stops,
@@ -2911,7 +2874,7 @@ Character set encoding: ASCII
 
 {112}
 
-            A PATRIOTIC WISH
+A PATRIOTIC WISH
 
   I'd like to be the sort of man the flag could boast about;
   I'd like to be the sort of man it cannot live without;
@@ -2942,7 +2905,7 @@ Character set encoding: ASCII
 
 {113}
 
-          THE PRICE OF JOY
+THE PRICE OF JOY
 
   You don't begrudge the labor when the roses
     start to bloom;
@@ -2968,7 +2931,7 @@ Character set encoding: ASCII
 
 {114}
 
-      THE THINGS THAT MAKE A SOLDIER GREAT
+THE THINGS THAT MAKE A SOLDIER GREAT
 
   The things that make a soldier great and send
      him out to die,
@@ -3023,7 +2986,7 @@ Character set encoding: ASCII
 
 {116}
 
-      THE JOY OF A DOG
+THE JOY OF A DOG
 
   Ma says no, it's too much care
   An' it will scatter germs an' hair,
@@ -3054,7 +3017,7 @@ Character set encoding: ASCII
 
 {117}
 
-           HOMESICK
+HOMESICK
 
   It's tough when you are homesick in a strange
       and distant place;
@@ -3101,7 +3064,7 @@ Character set encoding: ASCII
 
 {118}
 
-     THE PERFECT DINNER TABLE
+THE PERFECT DINNER TABLE
 
   A table cloth that's slightly soiled
   Where greasy little hands have toiled;
@@ -3149,7 +3112,7 @@ Character set encoding: ASCII
 
 {120}
 
-          TO-MORROW
+TO-MORROW
 
   He was going to be all that a mortal should be
       To-morrow.
@@ -3186,7 +3149,7 @@ Character set encoding: ASCII
 
 {121}
 
-        A PRAYER
+A PRAYER
 
   God grant me kindly thought
     And patience through the day,
@@ -3211,7 +3174,7 @@ Character set encoding: ASCII
 
 {122}
 
-    TO THE LADY IN THE ELECTRIC
+TO THE LADY IN THE ELECTRIC
 
   Lady in the show case carriage,
     Do not think that I'm a bear;
@@ -3260,7 +3223,7 @@ Character set encoding: ASCII
 
 {124}
 
-      THE MAN WHO COULDN'T SAVE
+THE MAN WHO COULDN'T SAVE
 
   He spent what he made, or he gave it away,
   Tried to save money, and would for a day,
@@ -3310,7 +3273,7 @@ Character set encoding: ASCII
 
 {126}
 
-       ANSWERING HIM
+ANSWERING HIM
 
   "When shall I be a man?" he said,
   As I was putting him to bed.
@@ -3359,7 +3322,7 @@ Character set encoding: ASCII
 
 {128}
 
-     FATHER AND SON
+FATHER AND SON
 
   Be more than his dad,
   Be a chum to the lad;
@@ -3414,7 +3377,7 @@ Character set encoding: ASCII
 
 {130}
 
-     THE JUNE COUPLE
+THE JUNE COUPLE
 
   She is fair to see and sweet,
   Dainty from her head to feet,
@@ -3472,7 +3435,7 @@ Character set encoding: ASCII
 
 {132}
 
-        AT THE DOOR
+AT THE DOOR
 
   He wiped his shoes before his door,
   But ere he entered he did more;
@@ -3512,7 +3475,7 @@ Character set encoding: ASCII
 
 {133}
 
-            DUTY
+DUTY
 
   To do your little bit of toil,
     To play life's game with head erect;
@@ -3537,7 +3500,7 @@ Character set encoding: ASCII
 
 {134}
 
-          A BEAR STORY
+A BEAR STORY
 
   There was a bear--his name was Jim,
   An' children weren't askeered of him,
@@ -3596,7 +3559,7 @@ Character set encoding: ASCII
 
 {136}
 
-      AUTUMN AT THE ORCHARD
+AUTUMN AT THE ORCHARD
 
   The sumac's flaming scarlet on the edges o' the
      lake,
@@ -3668,7 +3631,7 @@ Character set encoding: ASCII
 
 {138}
 
-      WHEN PA COMES HOME
+WHEN PA COMES HOME
 
   When Pa comes home, I'm at the door,
   An' then he grabs me off the floor
@@ -3720,7 +3683,7 @@ Character set encoding: ASCII
 
 {140}
 
-          MOTHER'S DAY
+MOTHER'S DAY
 
   Gentle hands that never weary toiling in love's
       vineyard sweet,
@@ -3760,7 +3723,7 @@ Character set encoding: ASCII
 
 {141}
 
-         DIVISION
+DIVISION
 
   You cannot gather every rose,
     Nor every pleasure claim,
@@ -3779,7 +3742,7 @@ Character set encoding: ASCII
 
 {142}
 
-            A MAN
+A MAN
 
   A man doesn't whine at his losses,
     A man doesn't whimper and fret,
@@ -3810,7 +3773,7 @@ Character set encoding: ASCII
 
 {143}
 
-             A VOW
+A VOW
 
   I might not ever scale the mountain heights
     Where all the great men stand in glory now;
@@ -3841,7 +3804,7 @@ Character set encoding: ASCII
 
 {144}
 
-            TREASURES
+TREASURES
 
   Some folks I know, when friends drop in
   To visit for awhile and chin,
@@ -3878,7 +3841,7 @@ Character set encoding: ASCII
 
 {145}
 
-         CHALLENGE
+CHALLENGE
 
   Life is a challenge to the bold,
     It flings its gauntlet down
@@ -3903,7 +3866,7 @@ Character set encoding: ASCII
 
 {146}
 
-      A TOAST TO HAPPINESS
+A TOAST TO HAPPINESS
 
   To happiness I raise my glass,
     The goal of every human,
@@ -3959,7 +3922,7 @@ Character set encoding: ASCII
 
 {148}
 
-          GUESSING TIME
+GUESSING TIME
 
   It's guessing time at our house; every evening
      after tea
@@ -4015,7 +3978,7 @@ Character set encoding: ASCII
 
 {150}
 
-          UNDERSTANDING
+UNDERSTANDING
 
   When I was young and frivolous and never
     stopped to think,
@@ -4082,7 +4045,7 @@ Character set encoding: ASCII
 
 {152}
 
-     PEOPLE LIKED HIM
+PEOPLE LIKED HIM
 
   People liked him, not because
     He was rich or known to fame;
@@ -4131,7 +4094,7 @@ Character set encoding: ASCII
 
 {154}
 
-  WHEN FATHER SHOOK THE STOVE
+WHEN FATHER SHOOK THE STOVE
 
   'Twas not so many years ago,
     Say, twenty-two or three,
@@ -4187,7 +4150,7 @@ Character set encoding: ASCII
 
 {156}
 
-        HOUSE-HUNTING
+HOUSE-HUNTING
 
   Time was when spring returned we went
   To find another home to rent;
@@ -4240,7 +4203,7 @@ Character set encoding: ASCII
 
 {158}
 
-          AN EASY WORLD
+AN EASY WORLD
 
   It's an easy world to live in if you choose to
       make it so;
@@ -4287,7 +4250,7 @@ Character set encoding: ASCII
 
 {160}
 
-          THE STATES
+THE STATES
 
   There is no star within the flag
     That's brighter than its brothers,
@@ -4336,7 +4299,7 @@ Character set encoding: ASCII
 
 {162}
 
-      THE OBLIGATION OF FRIENDSHIP
+THE OBLIGATION OF FRIENDSHIP
 
   You ought to be fine for the sake of the folks
       Who think you are fine.
@@ -4357,11 +4320,11 @@ Character set encoding: ASCII
   It believes in the best of the ones that it loves,
       Whether old man or youth;
   And the stern rule it lays down for me and for you
-  Is to be what our friends think we are, through and through.
+Is to be what our friends think we are, through and through.
 
 {163}
 
-        UNDER THE SKIN OF MEN
+UNDER THE SKIN OF MEN
 
   Did you ever sit down and talk with men
     In a serious sort of a way,
@@ -4392,7 +4355,7 @@ Character set encoding: ASCII
 
 {164}
 
-      THE FINER THOUGHT
+THE FINER THOUGHT
 
   How fine it is at night to say:
   "I have not wronged a soul to-day.
@@ -4441,7 +4404,7 @@ Character set encoding: ASCII
 
 {166}
 
-           STUCK
+STUCK
 
   I'm up against it day by day,
     My ignorance is distressing;
@@ -4478,7 +4441,7 @@ Character set encoding: ASCII
 
 {167}
 
-       ETERNAL FRIENDSHIP
+ETERNAL FRIENDSHIP
 
   Who once has had a friend has found
     The link 'twixt mortal and divine;
@@ -4518,7 +4481,7 @@ Character set encoding: ASCII
 
 {168}
 
-          FAITH
+FAITH
 
   I believe in the world and its bigness and splendor:
   That most of the hearts beating round us are tender;
@@ -4550,7 +4513,7 @@ Character set encoding: ASCII
 
 {170}
 
-           I
+I
 
   Nobody hates me more than I;
     No enemy have I to-day
@@ -4599,7 +4562,7 @@ Character set encoding: ASCII
 
 {172}
 
-    THE THINGS THAT HAVEN'T BEEN DONE BEFORE
+THE THINGS THAT HAVEN'T BEEN DONE BEFORE
 
   The things that haven't been done before,
     Those are the things to try;
@@ -4639,7 +4602,7 @@ Character set encoding: ASCII
 
 {173}
 
-            REVENGE
+REVENGE
 
   If I had hatred in my heart toward my fellow
      man,
@@ -4679,7 +4642,7 @@ Character set encoding: ASCII
 
 {174}
 
-         PROMOTION
+PROMOTION
 
   Promotion comes to him who sticks
   Unto his work and never kicks,
@@ -4722,7 +4685,7 @@ Character set encoding: ASCII
 
 {176}
 
-          EXPECTATION
+EXPECTATION
 
   Most folks, as I've noticed, in pleasure an' strife,
   Are always expecting too much out of life.
@@ -4763,7 +4726,7 @@ Character set encoding: ASCII
 
 {177}
 
-         HARD WORK
+HARD WORK
 
   One day, in ages dark and dim,
     A toiler, weary, worn and faint,
@@ -4803,7 +4766,7 @@ Character set encoding: ASCII
 
 {179}
 
-          GRATITUDE
+GRATITUDE
 
   Be grateful for the kindly friends that walk
      along your way;
@@ -4834,7 +4797,7 @@ Character set encoding: ASCII
 
 {180}
 
-          A REAL MAN
+A REAL MAN
 
   Men are of two kinds, and he
   Was of the kind I'd like to be.
@@ -4888,7 +4851,7 @@ Character set encoding: ASCII
 
 {182}
 
-             THE NEIGHBORLY MAN
+THE NEIGHBORLY MAN
 
   Some are eager to be famous, some are striving
      to be great,
@@ -4942,7 +4905,7 @@ Character set encoding: ASCII
 
 {184}
 
-            ROSES
+ROSES
 
   When God first viewed the rose He'd made
     He smiled, and thought it passing fair;
@@ -4982,7 +4945,7 @@ Character set encoding: ASCII
 
 {185}
 
-        THE JUNK BOX
+THE JUNK BOX
 
   My father often used to say:
   "My boy don't throw a thing away:
@@ -5022,7 +4985,7 @@ Character set encoding: ASCII
 
 {186}
 
-             THE BOY THAT WAS
+THE BOY THAT WAS
 
   When the hair about the temples starts to show
     the signs of gray,
@@ -5065,7 +5028,7 @@ Character set encoding: ASCII
 
 {188}
 
-       AS FALL THE LEAVES
+AS FALL THE LEAVES
 
   As fall the leaves, so drop the days
     In silence from the tree of life;
@@ -5089,9 +5052,7 @@ Character set encoding: ASCII
   That must depart along the way?
 
 
-
-
-  INDEX
+INDEX
 
   Answering Him....................... 126
   Apple Tree, The.....................  68
@@ -5242,9 +5203,7 @@ Character set encoding: ASCII
   When You Know a Fellow..............  11
 
 
-
-
-           INDEX OF FIRST LINES
+INDEX OF FIRST LINES
 
   A man doesn't whine at his losses............. 142
   A man must earn his hour of peace............. 109
@@ -5399,375 +5358,3 @@ Character set encoding: ASCII
   You do not know it, little man................  88
   You don't begrudge the labor.................. 113
   You ought to be fine for the sake of the folks 162
-
-
-
-
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of A Heap o' Livin', by Edgar A. Guest
-
-*** END OF THIS PROJECT GUTENBERG EBOOK A HEAP O' LIVIN' ***
-
-***** This file should be named 328.txt or 328.zip *****
-This and all associated files of various formats will be found in:
-        https://www.gutenberg.org/3/2/328/
-
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-https://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at https://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at https://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit https://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: https://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     https://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

@@ -1,39 +1,4 @@
-﻿The Project Gutenberg eBook, New Poems, by Robert Louis Stevenson
-
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-
-
-
-Title: New Poems
-       and Variant Readings
-
-
-Author: Robert Louis Stevenson
-
-
-
-Release Date: February 12, 2013  [eBook #441]
-[This file was first posted on January 6, 1996]
-
-Language: English
-
-Character set encoding: UTF-8
-
-
-***START OF THE PROJECT GUTENBERG EBOOK NEW POEMS***
-
-
-Transcribed from the 1918 Chatto & Windus edition by David Price, email
 ccx074@pglaf.org
-
-
-
 
 
                                 New Poems
@@ -47,36 +12,19 @@ ccx074@pglaf.org
 
                                   LONDON
                              CHATTO & WINDUS
-                                   1918
-
-
 
 
 PREFACE
 
 
-ALL Stevensonians owe a debt of gratitude to the Bibliophile Society of
-Boston for having discovered the following poems and given them light in
-a privately printed edition, thus making them known, in fact, to the
-world at large.  Otherwise they would have remained scattered and hidden
-indefinitely in the hands of various collectors.  They will be found
-extraordinarily interesting in their self-revelation, and some, indeed,
-are so intimate and personal that one understands why Stevenson withheld
-them from all eyes save his own.  The love-poems in particular, though
-they are of very unequal merit, possess in common a really affecting
-sincerity.  That Stevenson should have preserved these poems through all
-the vicissitudes of his wandering life shows how dearly he must have
-valued them; and shows, too, I think, beyond any contradiction, that he
-meant they should be ultimately published.
+ALL Stevensonians owe a debt of gratitude to the Bibliophile Society of Boston for having discovered the following poems and given them light in a privately printed edition, thus making them known, in fact, to the world at large.  Otherwise they would have remained scattered and hidden indefinitely in the hands of various collectors.  They will be found extraordinarily interesting in their self-revelation, and some, indeed, are so intimate and personal that one understands why Stevenson withheld them from all eyes save his own.  The love-poems in particular, though they are of very unequal merit, possess in common a really affecting sincerity.  That Stevenson should have preserved these poems through all the vicissitudes of his wandering life shows how dearly he must have valued them; and shows, too, I think, beyond any contradiction, that he meant they should be ultimately published.
 
-                                                           LLOYD OSBOURNE.
-
-
+LLOYD OSBOURNE.
 
 
 CONTENTS
 
-                                                          PAGE
+PAGE
 PRAYER                                                       1
 LO! IN THINE HONEST EYES I READ                              2
 THOUGH DEEP INDIFFERENCE SHOULD DROWSE                       2
@@ -239,8 +187,6 @@ PRAYER
       Thou Lord of all.
 
 
-
-
 LO! IN THINE HONEST EYES I READ
 
 
@@ -253,8 +199,6 @@ LO! IN THINE HONEST EYES I READ
    First by the seaworn sailor heard;
    And like road sheltered from life’s sea
    Thine honest heart is unto me.
-
-
 
 
 THOUGH DEEP INDIFFERENCE SHOULD DROWSE
@@ -282,8 +226,6 @@ THOUGH DEEP INDIFFERENCE SHOULD DROWSE
    Crowned with the light of memory.
 
 
-
-
 MY HEART, WHEN FIRST THE BLACK-BIRD SINGS
 
 
@@ -301,8 +243,6 @@ MY HEART, WHEN FIRST THE BLACK-BIRD SINGS
       My pulses thicken fast,
    As when the maddened lake grows black
       And ruffles in the blast.
-
-
 
 
 I DREAMED OF FOREST ALLEYS FAIR
@@ -327,7 +267,6 @@ I.
       Of grim reality.
 
 
-
 II.
 
 
@@ -340,7 +279,6 @@ II.
       Than the white moon there above,
    And dearer than quiet moonshine
       Are the thoughts of her I love.
-
 
 
 III.
@@ -367,7 +305,6 @@ III.
       That grins and mimics me.
 
 
-
 IV.
 
 
@@ -385,8 +322,6 @@ IV.
       Deep sleep and perfect rest.
    Hope’s flutterings now disturb no more
       The quiet of my breast.
-
-
 
 
 ST. MARTIN’S SUMMER
@@ -414,8 +349,6 @@ ST. MARTIN’S SUMMER
       I have not lived in vain.
 
 
-
-
 DEDICATION
 
 
@@ -438,8 +371,6 @@ DEDICATION
    This is my love’s last epitaph and tomb.
    Here the road forks, and I
    Go my way, far from yours.
-
-
 
 
 THE OLD CHIMÆRAS, OLD RECEIPTS
@@ -491,8 +422,6 @@ THE OLD CHIMÆRAS, OLD RECEIPTS
       By my old master’s feet.
 
 
-
-
 PRELUDE
 
 
@@ -517,8 +446,6 @@ PRELUDE
    I left my all to follow the drum.
 
 
-
-
 THE VANQUISHED KNIGHT
 
 
@@ -531,8 +458,6 @@ THE VANQUISHED KNIGHT
       E’en that he hath, when he deserts the strife?
    Life left by all life’s benefits forsaken,
       O keep the promise, Lord, and take the life.
-
-
 
 
 TO THE COMMISSIONERS OF NORTHERN LIGHTS
@@ -574,8 +499,6 @@ TO THE COMMISSIONERS OF NORTHERN LIGHTS
          O’ you mysel’.
 
 
-
-
 THE RELIC TAKEN, WHAT AVAILS THE SHRINE?
 
 
@@ -598,8 +521,6 @@ THE RELIC TAKEN, WHAT AVAILS THE SHRINE?
    Of that companion-thought.  Alone I plough
    The seas of life, and trace
    A separate furrow far from her and grace.
-
-
 
 
 ABOUT THE SHELTERED GARDEN GROUND
@@ -626,8 +547,6 @@ ABOUT THE SHELTERED GARDEN GROUND
       Doth the morning stillness sink.
 
 
-
-
 AFTER READING “ANTONY AND CLEOPATRA”
 
 
@@ -647,8 +566,6 @@ AFTER READING “ANTONY AND CLEOPATRA”
       Than be alive to-night.
 
 
-
-
 I KNOW NOT HOW, BUT AS I COUNT
 
 
@@ -656,8 +573,6 @@ I KNOW NOT HOW, BUT AS I COUNT
       The beads of former years,
    Old laughter catches in my throat
       With the very feel of tears.
-
-
 
 
 SPRING SONG
@@ -679,8 +594,6 @@ SPRING SONG
       A mere affair of weather?
 
 
-
-
 THE SUMMER SUN SHONE ROUND ME
 
 
@@ -700,8 +613,6 @@ THE SUMMER SUN SHONE ROUND ME
       “The winter comes apace.”
 
 
-
-
 YOU LOOKED SO TEMPTING IN THE PEW
 
 
@@ -719,8 +630,6 @@ YOU LOOKED SO TEMPTING IN THE PEW
       And little, little cared,
    Although the parson sermonised,
       The congregation stared.
-
-
 
 
 LOVE’S VICISSITUDES
@@ -746,8 +655,6 @@ LOVE’S VICISSITUDES
       Free stepping, straight and tall—
    Comes singing and lamenting,
       The sweetest pipe of all.
-
-
 
 
 DUDDINGSTONE
@@ -789,8 +696,6 @@ DUDDINGSTONE
       We had been drowned in love.
 
 
-
-
 STOUT MARCHES LEAD TO CERTAIN ENDS
 
 
@@ -815,8 +720,6 @@ STOUT MARCHES LEAD TO CERTAIN ENDS
    A thousand seekers seek the light.
 
 
-
-
 AWAY WITH FUNERAL MUSIC
 
 
@@ -824,8 +727,6 @@ AWAY WITH FUNERAL MUSIC
       The pipe to powerful lips—
    The cup of life’s for him that drinks
       And not for him that sips.
-
-
 
 
 TO SYDNEY
@@ -895,8 +796,6 @@ TO SYDNEY
       To sing themselves.
 
 
-
-
 HAD I THE POWER THAT HAVE THE WILL
 
 
@@ -919,8 +818,6 @@ HAD I THE POWER THAT HAVE THE WILL
       No idle gods for such a land—
    All active Love should take its way
       With active Labour hand in hand.
-
-
 
 
 O DULL COLD NORTHERN SKY
@@ -957,8 +854,6 @@ O DULL COLD NORTHERN SKY
       Of honourable ways.
 
 
-
-
 APOLOGETIC POSTSCRIPT OF A YEAR LATER
 
 
@@ -985,8 +880,6 @@ APOLOGETIC POSTSCRIPT OF A YEAR LATER
    I apologise—regret—
    It was all a jest;—and—yet—
       I do not know.
-
-
 
 
 TO MARCUS
@@ -1035,8 +928,6 @@ TO MARCUS
          We shall succeed.
 
 
-
-
 TO OTTILIE
 
 
@@ -1053,8 +944,6 @@ TO OTTILIE
    And the gray doves unafraid
    Went their morning promenade
       Along the street.
-
-
 
 
 THIS GLOOMY NORTHERN DAY
@@ -1103,8 +992,6 @@ THIS GLOOMY NORTHERN DAY
       Of ages since.
 
 
-
-
 THE WIND IS WITHOUT THERE AND HOWLS IN THE TREES
 
 
@@ -1143,8 +1030,6 @@ THE WIND IS WITHOUT THERE AND HOWLS IN THE TREES
       And if Fortune go cross to my plan,
    Believe me, my friend, tho’ I mourn the design
       I shall never lament for the man.
-
-
 
 
 A VALENTINE’S SONG
@@ -1223,8 +1108,6 @@ A VALENTINE’S SONG
       The King’s highway of choice.
 
 
-
-
 HAIL! CHILDISH SLAVES OF SOCIAL RULES
 
 
@@ -1292,8 +1175,6 @@ HAIL! CHILDISH SLAVES OF SOCIAL RULES
       The stronger swimmers coming after.
 
 
-
-
 SWALLOWS TRAVEL TO AND FRO
 
 
@@ -1323,8 +1204,6 @@ SWALLOWS TRAVEL TO AND FRO
    Severed souls by day and night
    Tremble with the same delight—
       Tremble, half the world apart.
-
-
 
 
 TO MESDAMES ZASSETSKY AND GARSCHINE
@@ -1366,8 +1245,6 @@ TO MESDAMES ZASSETSKY AND GARSCHINE
       This happy lee.
 
 
-
-
 TO MADAME GARSCHINE
 
 
@@ -1375,8 +1252,6 @@ TO MADAME GARSCHINE
       Till Care the graver—Care with cunning hand,
    Etches content thereon and makes it fair,
       Or constancy, and love, and makes it grand?
-
-
 
 
 MUSIC AT THE VILLA MARINA
@@ -1415,8 +1290,6 @@ MUSIC AT THE VILLA MARINA
       O even wings of music, bear my soul!
 
 
-
-
 FEAR NOT, DEAR FRIEND, BUT FREELY LIVE YOUR DAYS
 
 
@@ -1434,8 +1307,6 @@ FEAR NOT, DEAR FRIEND, BUT FREELY LIVE YOUR DAYS
    And we, who have learned greatness from you, we,
       Your lovers, with a still, contented mind,
       See you well anchored in some port of rest.
-
-
 
 
 LET LOVE GO, IF GO SHE WILL
@@ -1468,8 +1339,6 @@ LET LOVE GO, IF GO SHE WILL
       Is ours that nothing can remove;
    And as the King discrowned is still a King,
       The unhappy lover still preserves his love.
-
-
 
 
 I DO NOT FEAR TO OWN ME KIN
@@ -1511,8 +1380,6 @@ I DO NOT FEAR TO OWN ME KIN
    Alone of all things have the power.
 
 
-
-
 I AM LIKE ONE THAT FOR LONG DAYS HAD SATE
 
 
@@ -1545,8 +1412,6 @@ I AM LIKE ONE THAT FOR LONG DAYS HAD SATE
       And now the morn has dawned, the morn has died,
    The day has come and gone; and once more night
       About my lone life settles, wild and wide.
-
-
 
 
 VOLUNTARY
@@ -1593,8 +1458,6 @@ VOLUNTARY
          The hostel door.
 
 
-
-
 ON NOW, ALTHOUGH THE YEAR BE DONE
 
 
@@ -1604,8 +1467,6 @@ ON NOW, ALTHOUGH THE YEAR BE DONE
    Hear me, O loved and cherished one,
       Give me still the hand that led,
          Led me on.
-
-
 
 
 IN THE GREEN AND GALLANT SPRING
@@ -1620,8 +1481,6 @@ IN THE GREEN AND GALLANT SPRING
    Death and the grave and winter drear,
    And I must ponder here aloof
    While the rain is on the roof.
-
-
 
 
 DEATH, TO THE DEAD FOR EVERMORE
@@ -1654,8 +1513,6 @@ DEATH, TO THE DEAD FOR EVERMORE
    Weary with all things, wearies of the years;
    And our sad spirits turn toward the dead;
    And the tired child, the body, longs for bed.
-
-
 
 
 TO CHARLES BAXTER
@@ -1755,8 +1612,6 @@ _On the death of their common friend_, _Mr. John Adam_, _Clerk of court_.
          To’s destination.
 
 
-
-
 I WHO ALL THE WINTER THROUGH
 
 
@@ -1773,9 +1628,7 @@ I WHO ALL THE WINTER THROUGH
    through;
          And my heart springs up anew,
          Bright and confident and true,
-   And my old love comes to meet me in the dawning and the dew.
-
-
+And my old love comes to meet me in the dawning and the dew.
 
 
 LOVE, WHAT IS LOVE?
@@ -1787,8 +1640,6 @@ LOVE, WHAT IS LOVE?
    To see love coming and see love depart.
 
 
-
-
 SOON OUR FRIENDS PERISH
 
 
@@ -1798,8 +1649,6 @@ SOON OUR FRIENDS PERISH
          Soon in December
          Over an ember,
    Lonely we hearken, as loud winds blow.
-
-
 
 
 AS ONE WHO HAVING WANDERED ALL NIGHT LONG
@@ -1831,8 +1680,6 @@ AS ONE WHO HAVING WANDERED ALL NIGHT LONG
       To the last fields of the universe untrod,
    Where is no man, nor any earth, nor sea,
       And the contented soul is all alone with God.
-
-
 
 
 STRANGE ARE THE WAYS OF MEN
@@ -1874,8 +1721,6 @@ STRANGE ARE THE WAYS OF MEN
       The noble road to fame!
 
 
-
-
 THE WIND BLEW SHRILL AND SMART
 
 
@@ -1899,8 +1744,6 @@ THE WIND BLEW SHRILL AND SMART
          For he’s the king of all
          In the tempest and the squall,
    And the ruler of the Ocean wild and wide!
-
-
 
 
 MAN SAILS THE DEEP AWHILE
@@ -1942,8 +1785,6 @@ MAN SAILS THE DEEP AWHILE
          Your colours still shall fly.
 
 
-
-
 THE COCK’S CLEAR VOICE INTO THE CLEARER AIR
 
 
@@ -1971,8 +1812,6 @@ THE COCK’S CLEAR VOICE INTO THE CLEARER AIR
       And sing the morning in;
    For the old days are past
       And new days begin.
-
-
 
 
 NOW WHEN THE NUMBER OF MY YEARS
@@ -2006,8 +1845,6 @@ NOW WHEN THE NUMBER OF MY YEARS
          Bury me low and let me lie.
 
 
-
-
 WHAT MAN MAY LEARN, WHAT MAN MAY DO
 
 
@@ -2031,8 +1868,6 @@ WHAT MAN MAY LEARN, WHAT MAN MAY DO
    Unchanged in the unchanging sun,
    So the eternal march of man
    Goes forth on an eternal plan.
-
-
 
 
 SMALL IS THE TRUST WHEN LOVE IS GREEN
@@ -2069,8 +1904,6 @@ SMALL IS THE TRUST WHEN LOVE IS GREEN
       Your losses and your tears.
 
 
-
-
 KNOW YOU THE RIVER NEAR TO GREZ
 
 
@@ -2099,8 +1932,6 @@ KNOW YOU THE RIVER NEAR TO GREZ
       Go on from grace to grace.
 
 
-
-
 IT’S FORTH ACROSS THE ROARING FOAM
 
 
@@ -2122,9 +1953,7 @@ IT’S FORTH ACROSS THE ROARING FOAM
    I have been near, I have been far, my back’s been at the wall,
    Yet aye and ever shone the star to guide me through it all:
    The love of God, the help of man, they both shall make me bold
-   Against the gates of darkness as beside the Gates of Gold.
-
-
+Against the gates of darkness as beside the Gates of Gold.
 
 
 AN ENGLISH BREEZE
@@ -2149,8 +1978,6 @@ AN ENGLISH BREEZE
    Forth and to travel with the breeze
    While, swift and singing, smooth and strong
    She gallops by the fields along.
-
-
 
 
 AS IN THEIR FLIGHT THE BIRDS OF SONG
@@ -2191,12 +2018,10 @@ AS IN THEIR FLIGHT THE BIRDS OF SONG
    From that poor prospect turned his face away.
 
 
-
-
 THE PIPER
 
 
-   AGAIN I hear you piping, for I know the tune so well,—
+AGAIN I hear you piping, for I know the tune so well,—
       You rouse the heart to wander and be free,
    Tho’ where you learned your music, not the God of song can tell,
       For you pipe the open highway and the sea.
@@ -2213,8 +2038,6 @@ THE PIPER
       By my love, you find me safely sitting here:
    And pipe you ne’er so sweetly, till you pipe the hills away,
       You can never pipe my fancy from my dear.
-
-
 
 
 TO MRS. MACMARLAND
@@ -2257,8 +2080,6 @@ TO MRS. MACMARLAND
       The ashes of a bad cigar.
 
 
-
-
 TO MISS CORNISH
 
 
@@ -2290,8 +2111,6 @@ TO MISS CORNISH
       Miss Cornish, on your natal day.
 
 
-
-
 TALES OF ARABIA
 
 
@@ -2319,8 +2138,6 @@ TALES OF ARABIA
    Since still, in sandy, glittering pleasances,
       Cold, stony fruits, gem-like but quite in-
       Edible, flatter and wholly starve him.
-
-
 
 
 BEHOLD, AS GOBLINS DARK OF MIEN
@@ -2357,8 +2174,6 @@ BEHOLD, AS GOBLINS DARK OF MIEN
       And pure in feature and renown.
 
 
-
-
 STILL I LOVE TO RHYME
 
 
@@ -2381,8 +2196,6 @@ STILL I LOVE TO RHYME
       Trammelled so vilely in verse;
    He who writes but aims at fame and his bread and his butter,
       Won with a groan and a curse.
-
-
 
 
 LONG TIME I LAY IN LITTLE EASE
@@ -2419,8 +2232,6 @@ LONG TIME I LAY IN LITTLE EASE
       Tower, turret, and embrasure.
 
 
-
-
 FLOWER GOD, GOD OF THE SPRING
 
 
@@ -2444,8 +2255,6 @@ FLOWER GOD, GOD OF THE SPRING
    One more touch of the bow, smell of the virginal
       Green—one more, and my bosom
       Feels new life with an ecstasy.
-
-
 
 
 COME, MY BELOVED, HEAR FROM ME
@@ -2485,8 +2294,6 @@ COME, MY BELOVED, HEAR FROM ME
    That whoso hears must hear again.
 
 
-
-
 SINCE YEARS AGO FOR EVERMORE
 
 
@@ -2502,8 +2309,6 @@ SINCE YEARS AGO FOR EVERMORE
    And by the laughing fire I sit,
    Still with the tattered atlas spread
    Interminable roads I tread.
-
-
 
 
 ENVOY FOR “A CHILD’S GARDEN OF VERSES”
@@ -2556,8 +2361,6 @@ ENVOY FOR “A CHILD’S GARDEN OF VERSES”
    That lingers in the garden there.
 
 
-
-
 FOR RICHMOND’S GARDEN WALL
 
 
@@ -2573,8 +2376,6 @@ FOR RICHMOND’S GARDEN WALL
    Time’s chuckled laughter in the lane.
 
 
-
-
 HAIL, GUEST, AND ENTER FREELY!
 
 
@@ -2582,8 +2383,6 @@ HAIL, GUEST, AND ENTER FREELY!
    Is, for your momentary visit, yours; and we
    Who welcome you are but the guests of God,
    And know not our departure.
-
-
 
 
 LO, NOW, MY GUEST
@@ -2597,8 +2396,6 @@ LO, NOW, MY GUEST
    Which is the parent and the child of sleep.
 
 
-
-
 SO LIVE, SO LOVE, SO USE THAT FRAGILE HOUR
 
 
@@ -2606,8 +2403,6 @@ SO LIVE, SO LOVE, SO USE THAT FRAGILE HOUR
    That when the dark hand of the shining power
    Shall one from other, wife or husband, take,
    The poor survivor may not weep and wake.
-
-
 
 
 AD SE IPSUM
@@ -2623,8 +2418,6 @@ AD SE IPSUM
    Support my stumbling footsteps on the hill!
 
 
-
-
 BEFORE THIS LITTLE GIFT WAS COME
 
 
@@ -2636,8 +2429,6 @@ BEFORE THIS LITTLE GIFT WAS COME
    O may our house be still a garrison
    Of smiling children, and for evermore
    The tune of little feet be heard along the floor!
-
-
 
 
 GO, LITTLE BOOK—THE ANCIENT PHRASE
@@ -2686,8 +2477,6 @@ GO, LITTLE BOOK—THE ANCIENT PHRASE
    Our distant faces reappear.
 
 
-
-
 MY LOVE WAS WARM
 
 
@@ -2700,8 +2489,6 @@ MY LOVE WAS WARM
       As still, my love, I trow,
    By what dear name am I to call
       The bond that holds me now
-
-
 
 
 DEDICATORY POEM FOR “UNDERWOODS”
@@ -2741,8 +2528,6 @@ DEDICATORY POEM FOR “UNDERWOODS”
    Still, if you love me, criticise!
 
 
-
-
 FAREWELL
 
 
@@ -2756,8 +2541,6 @@ FAREWELL
    A hopeless sail I spread, too late, too late.
    Why should I from isle to isle
    Sail, a hopeless sailor?
-
-
 
 
 THE FAR-FARERS
@@ -2778,22 +2561,18 @@ THE FAR-FARERS
       Return no more.
 
 
-
-
 COME, MY LITTLE CHILDREN, HERE ARE SONGS FOR YOU
 
 
-   COME, my little children, here are songs for you;
-   Some are short and some are long, and all, all are new.
+COME, my little children, here are songs for you;
+Some are short and some are long, and all, all are new.
    You must learn to sing them very small and clear,
    Very true to time and tune and pleasing to the ear.
 
    Mark the note that rises, mark the notes that fall,
    Mark the time when broken, and the swing of it all.
    So when night is come, and you have gone to bed,
-   All the songs you love to sing shall echo in your head.
-
-
+All the songs you love to sing shall echo in your head.
 
 
 HOME FROM THE DAISIED MEADOWS
@@ -2810,21 +2589,17 @@ HOME FROM THE DAISIED MEADOWS
    Lullaby, slumber, my darling, till morning be bright upon mountain and
    field.
    Long, long the shadows fall.
-   All white and smooth at home your little bed is laid.
-   All round your head be angels.
-
-
+All white and smooth at home your little bed is laid.
+All round your head be angels.
 
 
 EARLY IN THE MORNING I HEAR ON YOUR PIANO
 
 
-   EARLY in the morning I hear on your piano
-   You (at least, I guess it’s you) proceed to learn to play.
-   Mostly little minds should take and tackle their piano
-   While the birds are singing in the morning of the day.
-
-
+EARLY in the morning I hear on your piano
+You (at least, I guess it’s you) proceed to learn to play.
+Mostly little minds should take and tackle their piano
+While the birds are singing in the morning of the day.
 
 
 FAIR ISLE AT SEA
@@ -2834,8 +2609,6 @@ FAIR ISLE AT SEA
    Soft in my ear like music came.
    That sea I loved, and once or twice
    I touched at isles of Paradise.
-
-
 
 
 LOUD AND LOW IN THE CHIMNEY
@@ -2861,8 +2634,6 @@ LOUD AND LOW IN THE CHIMNEY
       Utters the slogan of death.
 
 
-
-
 I LOVE TO BE WARM BY THE RED FIRESIDE
 
 
@@ -2872,8 +2643,6 @@ I LOVE TO BE WARM BY THE RED FIRESIDE
       And leave the doors again.
 
 
-
-
 AT LAST SHE COMES
 
 
@@ -2881,8 +2650,6 @@ AT LAST SHE COMES
    In this dear patience of my pain
    To leave me lonely as before,
    Or leave my soul alone again.
-
-
 
 
 MINE EYES WERE SWIFT TO KNOW THEE
@@ -2900,8 +2667,6 @@ MINE EYES WERE SWIFT TO KNOW THEE
    Deep, swift, and clear, the lilies floated; fish
    Through the shadows ran.  There, thou and I
    Read Kindness in our eyes and closed the match.
-
-
 
 
 FIXED IS THE DOOM
@@ -2930,8 +2695,6 @@ FIXED IS THE DOOM
    So from cool night and woodlands to a feast
    May someone enter, and still breathe of dews,
    And in her eyes still wear the dusky night.
-
-
 
 
 MEN ARE HEAVEN’S PIERS
@@ -2973,8 +2736,6 @@ MEN ARE HEAVEN’S PIERS
    How far a little virtue goes.
 
 
-
-
 THE ANGLER ROSE, HE TOOK HIS ROD
 
 
@@ -2982,8 +2743,6 @@ THE ANGLER ROSE, HE TOOK HIS ROD
    He kneeled and made his prayers to God.
    The living God sat overhead:
    The angler tripped, the eels were fed
-
-
 
 
 SPRING CAROL
@@ -3022,8 +2781,6 @@ SPRING CAROL
    Singing the songs of the meadows.
 
 
-
-
 TO WHAT SHALL I COMPARE HER?
 
 
@@ -3044,8 +2801,6 @@ TO WHAT SHALL I COMPARE HER?
       Flush rosy with new ruth—
    Dreams!  Ah, may these prove truer
       Than the truth.
-
-
 
 
 WHEN THE SUN COMES AFTER RAIN
@@ -3072,8 +2827,6 @@ WHEN THE SUN COMES AFTER RAIN
       Home at last.
 
 
-
-
 LATE, O MILLER
 
 
@@ -3089,8 +2842,6 @@ LATE, O MILLER
    Clothe the land.
 
 
-
-
 TO FRIENDS AT HOME
 
 
@@ -3100,8 +2851,6 @@ TO FRIENDS AT HOME
    These from my blue horizon and green isles,
    These from this pinnacle of distances I,
       The unforgetful, dedicate.
-
-
 
 
 I, WHOM APOLLO SOMETIME VISITED
@@ -3116,22 +2865,18 @@ I, WHOM APOLLO SOMETIME VISITED
    Of generations beat the music down.
 
 
-
-
 TEMPEST TOSSED AND SORE AFFLICTED
 
 
-   TEMPEST tossed and sore afflicted, sin defiled and care oppressed,
-   Come to me, all ye that labour; come, and I will give ye rest.
-   Fear no more, O doubting hearted; weep no more, O weeping eye!
-   Lo, the voice of your redeemer; lo, the songful morning near.
+TEMPEST tossed and sore afflicted, sin defiled and care oppressed,
+Come to me, all ye that labour; come, and I will give ye rest.
+Fear no more, O doubting hearted; weep no more, O weeping eye!
+Lo, the voice of your redeemer; lo, the songful morning near.
 
-   Here one hour you toil and combat, sin and suffer, bleed and die;
-   In my father’s quiet mansion soon to lay your burden by.
-   Bear a moment, heavy laden, weary hand and weeping eye.
-   Lo, the feet of your deliverer; lo, the hour of freedom here.
-
-
+Here one hour you toil and combat, sin and suffer, bleed and die;
+In my father’s quiet mansion soon to lay your burden by.
+Bear a moment, heavy laden, weary hand and weeping eye.
+Lo, the feet of your deliverer; lo, the hour of freedom here.
 
 
 VARIANT FORM OF THE PRECEDING POEM
@@ -3140,12 +2885,10 @@ VARIANT FORM OF THE PRECEDING POEM
    COME to me, all ye that labour; I will give your spirits rest;
    Here apart in starry quiet I will give you rest.
    Come to me, ye heavy laden, sin defiled and care opprest,
-   In your father’s quiet mansions, soon to prove a welcome guest.
-   But an hour you bear your trial, sin and suffer, bleed and die;
-   But an hour you toil and combat here in day’s inspiring eye.
-   See the feet of your deliverer; lo, the hour of freedom nigh.
-
-
+In your father’s quiet mansions, soon to prove a welcome guest.
+But an hour you bear your trial, sin and suffer, bleed and die;
+But an hour you toil and combat here in day’s inspiring eye.
+See the feet of your deliverer; lo, the hour of freedom nigh.
 
 
 I NOW, O FRIEND, WHOM NOISELESSLY THE SNOWS
@@ -3249,8 +2992,6 @@ I NOW, O FRIEND, WHOM NOISELESSLY THE SNOWS
    Followed the car; and I . . .
 
 
-
-
 SINCE THOU HAST GIVEN ME THIS GOOD HOPE, O GOD
 
 
@@ -3270,8 +3011,6 @@ SINCE THOU HAST GIVEN ME THIS GOOD HOPE, O GOD
    I shall be one that has a perfect friend.
    Her heart shall taste my laughter and my tears,
    And her kind eyes shall lead me to the end.
-
-
 
 
 GOD GAVE TO ME A CHILD IN PART
@@ -3296,8 +3035,6 @@ GOD GAVE TO ME A CHILD IN PART
    Immortal among mortal men,
    Sat hand in hand with love, and all day through
    With your dear mother wondered over you.
-
-
 
 
 OVER THE LAND IS APRIL
@@ -3325,8 +3062,6 @@ OVER THE LAND IS APRIL
       Hear you the songs of spring?
 
 
-
-
 LIGHT AS THE LINNET ON MY WAY I START
 
 
@@ -3335,8 +3070,6 @@ LIGHT AS THE LINNET ON MY WAY I START
    Forth on the world without a guide or chart,
    Content to know, through all man’s varying fates,
    The eternal woman by the wayside waits.
-
-
 
 
 COME, HERE IS ADIEU TO THE CITY
@@ -3361,19 +3094,15 @@ COME, HERE IS ADIEU TO THE CITY
       Return to reap and sing.
 
 
-
-
 IT BLOWS A SNOWING GALE
 
 
-   IT blows a snowing gale in the winter of the year;
-   The boats are on the sea and the crews are on the pier.
+IT blows a snowing gale in the winter of the year;
+The boats are on the sea and the crews are on the pier.
    The needle of the vane, it is veering to and fro,
    A flash of sun is on the veering of the vane.
             Autumn leaves and rain,
             The passion of the gale.
-
-
 
 
 NE SIT ANCILLÆ TIBI AMOR PUDOR
@@ -3407,8 +3136,6 @@ NE SIT ANCILLÆ TIBI AMOR PUDOR
       And sometimes catch your eye.
 
 
-
-
 TO ALL THAT LOVE THE FAR AND BLUE
 
 
@@ -3440,12 +3167,10 @@ TO ALL THAT LOVE THE FAR AND BLUE
       The golden city come in view.
 
 
-
-
 THOU STRAINEST THROUGH THE MOUNTAIN FERN
 
 
-                               (A FRAGMENT)
+(A FRAGMENT)
 
    THOU strainest through the mountain fern,
    A most exiguously thin
@@ -3462,8 +3187,6 @@ THOU STRAINEST THROUGH THE MOUNTAIN FERN
    The works of Mr. Robert Burn’
    And William Wordsworth upon Tin-
             Tern!
-
-
 
 
 TO ROSABELLE
@@ -3512,8 +3235,6 @@ TO ROSABELLE
    To each she ran, and took and gave a kiss.
 
 
-
-
 NOW BARE TO THE BEHOLDER’S EYE
 
 
@@ -3549,8 +3270,6 @@ NOW BARE TO THE BEHOLDER’S EYE
    Through comic and through sweet degree,
    In nature’s toilet unsurpassed,
    Forth leaps the laughing girl at last.
-
-
 
 
 THE BOUR-TREE DEN
@@ -3672,8 +3391,6 @@ THE BOUR-TREE DEN
    Bour-tree blossom is fair to see!
 
 
-
-
 SONNETS
 
 
@@ -3696,7 +3413,6 @@ I.
    Whom easy Taste, the golden pilot, steered.
 
 
-
 II.
 
 
@@ -3714,7 +3430,6 @@ II.
    So shalt thou stint the meagre winter thus
    Of his projected triumph, and the rime
    Shall melt before the sunshine in thy book.
-
 
 
 III.
@@ -3736,7 +3451,6 @@ III.
    The best of Heaven and the worst of Hell.
 
 
-
 IV.
 
 
@@ -3754,7 +3468,6 @@ IV.
    And with firm bosom and most steadfast eyes,
    Strong in all high resolve, prepared to tread
    The unlovely path that leads me toward the skies.
-
 
 
 V.
@@ -3776,7 +3489,6 @@ V.
    Stands, coolly buried, to the neck in green.
 
 
-
 VI.
 
 
@@ -3796,7 +3508,6 @@ VI.
    With ineffectual ardour sought to rise.
 
 
-
 VII.
 
 
@@ -3814,7 +3525,6 @@ VII.
    The unlovely web discloses, and strange fear
    Leads him at last to eld’s inclement seat,
    The bitter north of life—a frozen clime.
-
 
 
 VIII.
@@ -3963,8 +3673,6 @@ VIII.
    In roaring tree, round whistling clift.
 
 
-
-
 AIR OF DIABELLI’S
 
 
@@ -4095,8 +3803,6 @@ AIR OF DIABELLI’S
    Love’s own river ripples in the reeds.
 
 
-
-
 EPITAPHIUM EROTII
 
 
@@ -4106,8 +3812,6 @@ EPITAPHIUM EROTII
    To this small spirit annual honours yield!
    Bright be thy hearth, hale be thy babes, I crave
    And this, in thy green farm, the only grave.
-
-
 
 
 DE M. ANTONIO
@@ -4123,12 +3827,10 @@ DE M. ANTONIO
    The past is to have twice enjoyed it all.
 
 
-
-
 AD MAGISTRUM LUDI
 
 
-                           (UNFINISHED DRAFT.)
+(UNFINISHED DRAFT.)
 
    NOW in the sky
    And on the hearth of
@@ -4140,8 +3842,6 @@ AD MAGISTRUM LUDI
       Now sleep till the October ides.
 
    In summer if the boys be well.
-
-
 
 
 AD NEPOTEM
@@ -4170,8 +3870,6 @@ AD NEPOTEM
    For Fathers also may enjoy their nights.
 
 
-
-
 IN CHARIDEMUM
 
 
@@ -4191,8 +3889,6 @@ IN CHARIDEMUM
    And your own mistress hails me for a man.
 
 
-
-
 DE LIGURRA
 
 
@@ -4207,8 +3903,6 @@ DE LIGURRA
    From some blind tap fish forth a drunken barn,
    Who shall with charcoal, on the privy wall,
    Immortalise your name for once and all.
-
-
 
 
 IN LUPUM
@@ -4242,8 +3936,6 @@ IN LUPUM
    Take back your farm and stand me half a gill!
 
 
-
-
 AD QUINTILIANUM
 
 
@@ -4257,8 +3949,6 @@ AD QUINTILIANUM
    Live fountains and rough grass, my line invoke:
    A sturdy slave, not too learned wife,
    Nights filled with slumber, and a quiet life.
-
-
 
 
 DE HORTIS JULII MARTIALIS
@@ -4296,8 +3986,6 @@ DE HORTIS JULII MARTIALIS
    You half imagine all to be your own.
 
 
-
-
 AD MARTIALEM
 
 
@@ -4317,8 +4005,6 @@ AD MARTIALEM
    “Another gone: O when will ye arise?”
 
 
-
-
 IN MAXIMUM
 
 
@@ -4335,13 +4021,11 @@ IN MAXIMUM
    Then, Maximus, then first shalt thou be free.
 
 
-
-
 AD OLUM
 
 
-   CALL me not rebel, though [ here at every word / in what I sing ]
-   If I no longer hail thee [ King and Lord / Lord and King ]
+CALL me not rebel, though [ here at every word / in what I sing ]
+If I no longer hail thee [ King and Lord / Lord and King ]
    I have redeemed myself with all I had,
    And now possess my fortunes poor but glad.
    With all I had I have redeemed myself,
@@ -4353,8 +4037,6 @@ AD OLUM
    Set free thy slave; thou settest free thyself.
 
 
-
-
 DE CŒNATIONE MICÆ
 
 
@@ -4362,8 +4044,6 @@ DE CŒNATIONE MICÆ
    But from my window, lo! great Cæsar’s tomb!
    And the great dead themselves, with jovial breath
    Bid you be merry and remember death.
-
-
 
 
 DE EROTIO PUELLA
@@ -4383,8 +4063,6 @@ DE EROTIO PUELLA
    Her whom the greedy and unequal fates
    On the sixth dawning of her natal day,
    My child-love and my playmate—snatcht away.
-
-
 
 
 AD PISCATOREM
@@ -4411,365 +4089,4 @@ AD PISCATOREM
 
                                 * * * * *
 
-          BILLING AND SONS, LTD., PRINTERS, GUILDFORD, ENGLAND.
-
-
-
-
-***END OF THE PROJECT GUTENBERG EBOOK NEW POEMS***
-
-
-******* This file should be named 441-0.txt or 441-0.zip *******
-
-
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/4/4/441
-
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License available with this file or online at
-  www.gutenberg.org/license.
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation information page at www.gutenberg.org
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
-contact links and up to date contact information can be found at the
-Foundation's web site and official page at www.gutenberg.org/contact
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit:  www.gutenberg.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For forty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-Most people start at our Web site which has the main PG search facility:
-
-     www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+BILLING AND SONS, LTD., PRINTERS, GUILDFORD, ENGLAND.

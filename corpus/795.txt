@@ -1,55 +1,19 @@
-﻿The Project Gutenberg eBook, Ballads and Lyrics of Old France, by Andrew
-Lang
-
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-
-
-
-Title: Ballads and Lyrics of Old France
-       with Other Poems
-
-
-Author: Andrew Lang
-
-
-
-Release Date: November 3, 2012  [eBook #795]
-[This file was first posted on January 31, 1997]
-
-Language: English
-
-Character set encoding: UTF-8
-
-
-***START OF THE PROJECT GUTENBERG EBOOK BALLADS AND LYRICS OF OLD FRANCE***
-
-
-Transcribed from the 1872 Longmans, Green, and Co. edition by David
 Price, email ccx074@pglaf.org
-
-
-
 
 
                             BALLADS AND LYRICS
                               OF OLD FRANCE:
 
 
-                           _WITH OTHER POEMS_.
+_WITH OTHER POEMS_.
 
-                                * * * * *
+* * * * *
 
-                                    BY
+BY
 
-                                 A. LANG.
+A. LANG.
 
-                                * * * * *
+* * * * *
 
                                  LONDON:
                          LONGMANS, GREEN, AND CO.
@@ -64,18 +28,14 @@ Price, email ccx074@pglaf.org
                                 * * * * *
 
 
-
-
 CONTENTS.
 
 
-
-                  _TRANSLATIONS_.
-                                                PAGE
-List of Poets translated                           2
+_TRANSLATIONS_.
+PAGE List of Poets translated                           2
 CHARLES D’ORLEANS:
-       Spring                                      5
-       Rondel                                      6
+Spring                                      5
+Rondel                                      6
 FRANÇOIS VILLON:
        Rondel                                      7
        Arbor Amoris                                8
@@ -86,7 +46,7 @@ DU BELLAY:
        To his Friend in Elysium                   17
        A Sonnet to Heavenly Beauty                18
 REMY BELLEAU:
-       April                                      19
+April                                      19
 RONSARD:
        Roses                                      24
        The Rose                                   25
@@ -98,18 +58,18 @@ RONSARD:
        His Lady’s Death                           33
        His Lady’s Tomb                            34
 JACQUES TAHUREAU:
-       Shadows of his Lady                        35
-       Moonlight                                  36
+Shadows of his Lady                        35
+Moonlight                                  36
 PASSERAT:
-       Love in May                                37
+Love in May                                37
 VICTOR HUGO:
        The Grave and the Rose                     40
        The Genesis of Butterflies                 42
        More Strong than Time                      44
 GÉRARD DE NERVAL:
-       An Old Tune                                46
+An Old Tune                                46
 ALFRED DE MUSSET:
-       Juana                                      48
+Juana                                      48
 HENRI MURGER:
        Spring in the Student’s Quarter            51
        Old Loves                                  53
@@ -122,52 +82,17 @@ BALLADS:
        A Lady of High Degree                      72
        Lost for a Rose’s Sake                     75
 BALLADS OF MODERN GREECE:
-       The Brigand’s Grave                        77
-       The Sudden Bridal                          79
+The Brigand’s Grave                        77
+The Sudden Bridal                          79
 GREEK FOLK SONGS:
        Iannoula                                   85
        The Tell-Tales                             87
                        _AVE_.
-Twilight on Tweed                                 91
-One Flower                                        93
-Metempsychosis                                    94
-Lost in Hades                                     95
-A Star in the Night                               96
-A Sunset on Yarrow                                97
-                   _HESPEROTHEN_.
-The Seekers for Phæacia                          101
-A Song of Phæacia                                104
-The Departure from Phæacia                       107
-A Ballad of Departure                            110
-They hear the Sirens for the Second Time         111
-Circe’s Isle revisited                           114
-The Limit of Lands                               116
-               _VERSES ON PICTURES_.
-Colinette                                        121
-A Sunset of Watteau                              124
-A Nativity of Sandro Botticelli                  127
-                _SONGS AND SONNETS_.
-Two Homes                                        131
-Summer’s Ending                                  133
-Nightingale Weather                              134
-Love and Wisdom                                  136
-Good-bye                                         138
-An Old Prayer                                    140
-Love’s Miracle                                   141
-Dreams                                           142
-Fairy Land                                       143
-Two Sonnets of the Sirens                        146
-À la Belle Hélène                                148
-Sylvie et Aurélie                                150
-A Lost Path                                      152
-The Shade of Helen                               154
-                _SONNETS TO POETS_.
-Jacques Tahureau                                 159
-François Villon                                  160
-Pierre Ronsard                                   161
-Gérard de Nerval                                 162
-The Death of Mirandola                           163
-
+Twilight on Tweed                                 91 One Flower                                        93 Metempsychosis                                    94 Lost in Hades                                     95 A Star in the Night                               96 A Sunset on Yarrow                                97
+_HESPEROTHEN_. The Seekers for Phæacia                          101 A Song of Phæacia                                104 The Departure from Phæacia                       107 A Ballad of Departure                            110 They hear the Sirens for the Second Time         111 Circe’s Isle revisited                           114 The Limit of Lands                               116
+_VERSES ON PICTURES_. Colinette                                        121 A Sunset of Watteau                              124 A Nativity of Sandro Botticelli                  127
+_SONGS AND SONNETS_. Two Homes                                        131 Summer’s Ending                                  133 Nightingale Weather                              134 Love and Wisdom                                  136 Good-bye                                         138 An Old Prayer                                    140 Love’s Miracle                                   141 Dreams                                           142 Fairy Land                                       143 Two Sonnets of the Sirens                        146 À la Belle Hélène                                148 Sylvie et Aurélie                                150 A Lost Path                                      152 The Shade of Helen                               154
+_SONNETS TO POETS_. Jacques Tahureau                                 159 François Villon                                  160 Pierre Ronsard                                   161 Gérard de Nerval                                 162 The Death of Mirandola                           163
 
 
 TRANSLATIONS.
@@ -176,78 +101,22 @@ TRANSLATIONS.
 LIST OF POETS TRANSLATED.
 
 
-I.  CHARLES D’ORLEANS, who has sometimes, for no very obvious reason,
-been styled the father of French lyric poetry, was born in May, 1391.  He
-was the son of Louis D’Orleans, the grandson of Charles V., and the
-father of Louis XII.  Captured at Agincourt, he was kept in England as a
-prisoner from 1415 to 1440, when he returned to France, where he died in
-1465.  His verses, for the most part roundels on two rhymes, are songs of
-love and spring, and retain the allegorical forms of the Roman de la
+I.  CHARLES D’ORLEANS, who has sometimes, for no very obvious reason, been styled the father of French lyric poetry, was born in May, 1391.  He was the son of Louis D’Orleans, the grandson of Charles V., and the father of Louis XII.  Captured at Agincourt, he was kept in England as a prisoner from 1415 to 1440, when he returned to France, where he died in 1465.  His verses, for the most part roundels on two rhymes, are songs of love and spring, and retain the allegorical forms of the Roman de la
 Rose.
 
-II.  FRANÇOIS VILLON, 1431–14-?  Nothing is known of Villon’s birth or
-death, and only too much of his life.  In his poems the ancient forms of
-French verse are animated with the keenest sense of personal emotion, of
-love, of melancholy, of mocking despair, and of repentance for a life
-passed in taverns and prisons.
+II.  FRANÇOIS VILLON, 1431–14-?  Nothing is known of Villon’s birth or death, and only too much of his life.  In his poems the ancient forms of French verse are animated with the keenest sense of personal emotion, of love, of melancholy, of mocking despair, and of repentance for a life passed in taverns and prisons.
 
-III.  JOACHIM DU BELLAY, 1525–1560.  The exact date of Du Bellay’s birth
-is unknown.  He was certainly a little younger than Ronsard, who was born
-in September, 1524, although an attempt has been made to prove that his
-birth took place in 1525, as a compensation from Nature to France for the
-battle of Pavia.  As a poet Du Bellay had the start, by a few mouths, of
-Ronsard; his _Recueil_ was published in 1549.  The question of priority
-in the new style of poetry caused a quarrel, which did not long separate
-the two singers.  Du Bellay is perhaps the most interesting of the
-Pleiad, that company of Seven, who attempted to reform French verse, by
-inspiring it with the enthusiasm of the Renaissance.  His book
-_L’Illustration de la langue Française_ is a plea for the study of
-ancient models and for the improvement of the vernacular.  In this effort
-Du Bellay and Ronsard are the predecessors of Malherbe, and of André
-Chénier, more successful through their frank eagerness than the former,
-less fortunate in the possession of critical learning and appreciative
-taste than the latter.  There is something in Du Bellay’s life, in the
-artistic nature checked by occupation in affairs—he was the secretary of
-Cardinal Du Bellay—in the regret and affection with which Rome depressed
-and allured him, which reminds the English reader of the thwarted career
+III.  JOACHIM DU BELLAY, 1525–1560.  The exact date of Du Bellay’s birth is unknown.  He was certainly a little younger than Ronsard, who was born in September, 1524, although an attempt has been made to prove that his birth took place in 1525, as a compensation from Nature to France for the battle of Pavia.  As a poet Du Bellay had the start, by a few mouths, of Ronsard; his _Recueil_ was published in 1549.  The question of priority in the new style of poetry caused a quarrel, which did not long separate the two singers.  Du Bellay is perhaps the most interesting of the Pleiad, that company of Seven, who attempted to reform French verse, by inspiring it with the enthusiasm of the Renaissance.  His book _L’Illustration de la langue Française_ is a plea for the study of ancient models and for the improvement of the vernacular.  In this effort Du Bellay and Ronsard are the predecessors of Malherbe, and of André Chénier, more successful through their frank eagerness than the former, less fortunate in the possession of critical learning and appreciative taste than the latter.  There is something in Du Bellay’s life, in the artistic nature checked by occupation in affairs—he was the secretary of Cardinal Du Bellay—in the regret and affection with which Rome depressed and allured him, which reminds the English reader of the thwarted career
 of Clough.
 
-IV.  REMY BELLEAU, 1528–1577.  Du Belleau’s life was spent in the
-household of Charles de Lorraine, Marquis d’Elboeuf, and was marked by
-nothing more eventful than the usual pilgrimage to Italy, the sacred land
-and sepulchre of art.
+IV.  REMY BELLEAU, 1528–1577.  Du Belleau’s life was spent in the household of Charles de Lorraine, Marquis d’Elboeuf, and was marked by nothing more eventful than the usual pilgrimage to Italy, the sacred land and sepulchre of art.
 
-V.  PIERRE RONSARD, 1524–1585.  Ronsard’s early years gave little sign of
-his vocation.  He was for some time a page of the court, was in the
-service of James V. of Scotland, and had his share of shipwrecks,
-battles, and amorous adventures.  An illness which produced total
-deafness made him a scholar and poet, as in another age and country it
-might have made him a saint and an ascetic.  With all his industry, and
-almost religious zeal for art, he is one of the poets who make
-themselves, rather than are born singers.  His epic, the Franciade, is as
-tedious as other artificial epics, and his odes are almost unreadable.
-We are never allowed to forget that he is the poet who read the Iliad
-through in three days.  He is, as has been said of Le Brun, more
-mythological than Pindar.  His constant allusion to his grey hair, an
-affectation which may be noticed in Shelley, is borrowed from Anacreon.
-Many of the sonnets in which he ‘petrarquizes,’ retain the faded odour of
-the roses he loved; and his songs have fire and melancholy and a sense as
-of perfume from ‘a closet long to quiet vowed, with mothed and dropping
-arras hung.’  Ronsard’s great fame declined when is Malherbe came to
-‘bind the sweet influences of the Pleiad,’ but he has been duly honoured
-by the newest school of French poetry.
+V.  PIERRE RONSARD, 1524–1585.  Ronsard’s early years gave little sign of his vocation.  He was for some time a page of the court, was in the service of James V. of Scotland, and had his share of shipwrecks, battles, and amorous adventures.  An illness which produced total deafness made him a scholar and poet, as in another age and country it might have made him a saint and an ascetic.  With all his industry, and almost religious zeal for art, he is one of the poets who make themselves, rather than are born singers.  His epic, the Franciade, is as tedious as other artificial epics, and his odes are almost unreadable. We are never allowed to forget that he is the poet who read the Iliad through in three days.  He is, as has been said of Le Brun, more mythological than Pindar.  His constant allusion to his grey hair, an affectation which may be noticed in Shelley, is borrowed from Anacreon. Many of the sonnets in which he ‘petrarquizes,’ retain the faded odour of the roses he loved; and his songs have fire and melancholy and a sense as of perfume from ‘a closet long to quiet vowed, with mothed and dropping arras hung.’  Ronsard’s great fame declined when is Malherbe came to ‘bind the sweet influences of the Pleiad,’ but he has been duly honoured by the newest school of French poetry.
 
-VI.  JACQUES TAHUREAU, 1527–1555.  The amorous poetry of Jacques Tahureau
-has the merit, rare in his, or in any age, of being the real expression
-of passion.  His brief life burned itself away before he had exhausted
-the lyric effusion of his youth.  ‘Le plus beau gentilhomme de son
-siècle, et le plus dextre à toutes sortes de gentillesses,’ died at the
-age of twenty-eight, fulfilling the presentiment which tinges, but
-scarcely saddens his poetry.
+VI.  JACQUES TAHUREAU, 1527–1555.  The amorous poetry of Jacques Tahureau has the merit, rare in his, or in any age, of being the real expression of passion.  His brief life burned itself away before he had exhausted the lyric effusion of his youth.  ‘Le plus beau gentilhomme de son siècle, et le plus dextre à toutes sortes de gentillesses,’ died at the age of twenty-eight, fulfilling the presentiment which tinges, but scarcely saddens his poetry.
 
 VII.  JEAN PASSERAT, 1534–1602.  Better known as a political satirist
 than as a poet.
-
 
 
 POETS OF THE NINETEENTH CENTURY.
@@ -262,30 +131,24 @@ GÉRARD DE NERVAL, 1801–1855.
 HENRI MURGER, 1822–1861.
 
 
-
 BALLADS.
 
 
-The originals of the French folk-songs here translated are to be found in
-the collections of MM. De Puymaigre and Gerard de Nerval, and in the
-report of M. Ampère.
+The originals of the French folk-songs here translated are to be found in the collections of MM. De Puymaigre and Gerard de Nerval, and in the report of M. Ampère.
 
-The verses called a ‘Lady of High Degree’ are imitated from a very early
-_chanson_ in Bartsch’s collection.
+The verses called a ‘Lady of High Degree’ are imitated from a very early _chanson_ in Bartsch’s collection.
 
-The Greek ballads have been translated with the aid of the French
-versions by M. Fauriel.
-
+The Greek ballads have been translated with the aid of the French versions by M. Fauriel.
 
 
 SPRING.
 
 
-                      CHARLES D’ORLEANS, 1391–1465.
+CHARLES D’ORLEANS, 1391–1465.
 
 The new-liveried year.—_Sir Henry Wotton_.
 
-                                * * * * *
+* * * * *
 
    THE year has changed his mantle cold
       Of wind, of rain, of bitter air;
@@ -301,15 +164,14 @@ The new-liveried year.—_Sir Henry Wotton_.
    The year lays down his mantle cold.
 
 
-
 RONDEL.
 
 
-                      CHARLES D’ORLEANS, 1391–1465.
+CHARLES D’ORLEANS, 1391–1465.
 
 To his Mistress, to succour his heart that is beleaguered by jealousy.
 
-                                * * * * *
+* * * * *
 
    STRENGTHEN, my Love, this castle of my heart,
       And with some store of pleasure give me aid,
@@ -326,11 +188,10 @@ To his Mistress, to succour his heart that is beleaguered by jealousy.
    Strengthen, my Love, this castle of my heart.
 
 
-
 RONDEL.
 
 
-                          FRANCOIS VILLON, 1460
+FRANCOIS VILLON, 1460
 
    GOODBYE! the tears are in my eyes;
       Farewell, farewell, my prettiest;
@@ -346,11 +207,10 @@ RONDEL.
    Goodbye! the last of my goodbyes.
 
 
-
 ARBOR AMORIS.
 
 
-                          FRANCOIS VILLON, 1460
+FRANCOIS VILLON, 1460
 
    I HAVE a tree, a graft of Love,
       That in my heart has taken root;
@@ -394,14 +254,12 @@ ARBOR AMORIS.
       Another tree, save this alone.
 
 
-
 BALLAD OF THE GIBBET.
 
 
-An epitaph in the form of a ballad that François Villon wrote of himself
-and his company, they expecting shortly to be hanged.
+An epitaph in the form of a ballad that François Villon wrote of himself and his company, they expecting shortly to be hanged.
 
-                                * * * * *
+* * * * *
 
    BROTHERS and men that shall after us be,
       Let not your hearts be hard to us:
@@ -445,15 +303,14 @@ and his company, they expecting shortly to be hanged.
       Pray God pardon us out of His grace.
 
 
-
 HYMN TO THE WINDS.
 
 
-                             DU BELLAY, 1550.
+DU BELLAY, 1550.
 
 The winds are invoked by the winnowers of corn.
 
-                                * * * * *
+* * * * *
 
    TO you, troop so fleet,
    That with winged wandering feet,
@@ -475,11 +332,10 @@ The winds are invoked by the winnowers of corn.
       In the sun’s heat.
 
 
-
 A VOW TO HEAVENLY VENUS.
 
 
-                             DU BELLAY, 1500
+DU BELLAY, 1500
 
    WE that with like hearts love, we lovers twain,
    New wedded in the village by thy fane,
@@ -493,11 +349,10 @@ A VOW TO HEAVENLY VENUS.
    Bound each to each, like flower to wedded flower.
 
 
-
 TO HIS FRIEND IN ELYSIUM.
 
 
-                             DU BELLAY, 1550.
+DU BELLAY, 1550.
 
    SO long you wandered on the dusky plain,
       Where flit the shadows with their endless cry,
@@ -516,11 +371,10 @@ TO HIS FRIEND IN ELYSIUM.
       About the gate, or labour at the oar.
 
 
-
 A SONNET TO HEAVENLY BEAUTY.
 
 
-                             DU BELLAY, 1550.
+DU BELLAY, 1550.
 
    IF this our little life is but a day
       In the Eternal,—if the years in vain
@@ -539,11 +393,10 @@ A SONNET TO HEAVENLY BEAUTY.
       Thou worshippest the shadow upon earth.
 
 
-
 APRIL.
 
 
-                           REMY BELLEAU, 1560.
+REMY BELLEAU, 1560.
 
    APRIL, pride of woodland ways,
       Of glad days,
@@ -637,11 +490,10 @@ APRIL.
    Sudden light on earth and air.
 
 
-
 ROSES.
 
 
-                              RONSARD, 1550.
+RONSARD, 1550.
 
    I SEND you here a wreath of blossoms blown,
       And woven flowers at sunset gathered,
@@ -660,11 +512,10 @@ ROSES.
    Be therefore kind, my love, whiles thou art fair.
 
 
-
 THE ROSE.
 
 
-                              RONSARD, 1550.
+RONSARD, 1550.
 
    SEE, Mignonne, hath not the Rose,
    That this morning did unclose
@@ -688,11 +539,10 @@ THE ROSE.
       Like roses that were loveliest.
 
 
-
 TO THE MOON.
 
 
-                              RONSARD, 1550.
+RONSARD, 1550.
 
    HIDE this one night thy crescent, kindly Moon;
       So shall Endymion faithful prove, and rest
@@ -710,11 +560,10 @@ TO THE MOON.
    Bethink ye, now ye hold your heavenly place.
 
 
-
 TO HIS YOUNG MISTRESS.
 
 
-                              RONSARD, 1550.
+RONSARD, 1550.
 
    FAIR flower of fifteen springs, that still
       Art scarcely blossomed from the bud,
@@ -745,11 +594,10 @@ TO HIS YOUNG MISTRESS.
          That is more kind, but not so fair.
 
 
-
 DEADLY KISSES.
 
 
-                              RONSARD, 1550.
+RONSARD, 1550.
 
    ALL take these lips away; no more,
       No more such kisses give to me.
@@ -765,11 +613,10 @@ DEADLY KISSES.
    If thou wilt kiss me in such wise.
 
 
-
 OF HIS LADY’S OLD AGE.
 
 
-                              RONSARD, 1550
+RONSARD, 1550
 
    WHEN you are very old, at evening
       You’ll sit and spin beside the fire, and say,
@@ -788,11 +635,10 @@ OF HIS LADY’S OLD AGE.
       And gather roses, while ’tis called to-day.
 
 
-
 ON HIS LADY’S WAKING.
 
 
-                              RONSARD, 1550
+RONSARD, 1550
 
    MY lady woke upon a morning fair,
       What time Apollo’s chariot takes the skies,
@@ -811,11 +657,10 @@ ON HIS LADY’S WAKING.
       With breast as marble cold, as marble pure.
 
 
-
 HIS LADY’S DEATH.
 
 
-                              RONSARD, 1550.
+RONSARD, 1550.
 
    TWAIN that were foes, while Mary lived, are fled;
       One laurel-crowned abides in heaven, and one
@@ -834,11 +679,10 @@ HIS LADY’S DEATH.
       And for Death’s sake, I am in love with Death.
 
 
-
 HIS LADY’S TOMB.
 
 
-                              RONSARD, 1550.
+RONSARD, 1550.
 
    AS in the gardens, all through May, the rose,
       Lovely, and young, and fair apparelled,
@@ -857,11 +701,10 @@ HIS LADY’S TOMB.
       That dead, as living, she may be with roses.
 
 
-
 SHADOWS OF HIS LADY.
 
 
-                       JACQUES TAHUREAU, 1527–1555.
+JACQUES TAHUREAU, 1527–1555.
 
    WITHIN the sand of what far river lies
       The gold that gleams in tresses of my Love?
@@ -880,11 +723,10 @@ SHADOWS OF HIS LADY.
       The far-off splendid semblance of my maid!
 
 
-
 MOONLIGHT.
 
 
-                       JACQUES TAHUREAU, 1527–1555.
+JACQUES TAHUREAU, 1527–1555.
 
    THE high Midnight was garlanding her head
       With many a shining star in shining skies,
@@ -903,11 +745,10 @@ MOONLIGHT.
       Since night has made me such a happy lover.
 
 
-
 LOVE IN MAY.
 
 
-                             PASSERAT, 1580.
+PASSERAT, 1580.
 
    OFF with sleep, love, up from bed,
          This fair morn;
@@ -954,11 +795,10 @@ LOVE IN MAY.
          That will none thereof.
 
 
-
 THE GRAVE AND THE ROSE.
 
 
-                               VICTOR HUGO.
+VICTOR HUGO.
 
    THE Grave said to the Rose,
       ‘What of the dews of dawn,
@@ -979,11 +819,10 @@ THE GRAVE AND THE ROSE.
    The Grave said to the Rose.
 
 
-
 THE GENESIS OF BUTTERFLIES.
 
 
-                               VICTOR HUGO.
+VICTOR HUGO.
 
    THE dawn is smiling on the dew that covers
    The tearful roses; lo, the little lovers
@@ -1007,11 +846,10 @@ THE GENESIS OF BUTTERFLIES.
    Flutter, and float, and change to Butterflies.
 
 
-
 MORE STRONG THAN TIME.
 
 
-                               VICTOR HUGO.
+VICTOR HUGO.
 
    SINCE I have set my lips to your full cup, my sweet,
       Since I my pallid face between your hands have laid,
@@ -1036,14 +874,13 @@ MORE STRONG THAN TIME.
    Your flying wings may smite, but they can never spill
       The cup fulfilled of love, from which my lips are wet;
    My heart has far more fire than you have frost to chill,
-      My soul more love than you can make my soul forget.
-
+My soul more love than you can make my soul forget.
 
 
 AN OLD TUNE.
 
 
-                            GERARD DE NERVAL.
+GERARD DE NERVAL.
 
    THERE is an air for which I would disown
       Mozart’s, Rossini’s, Weber’s melodies,—
@@ -1066,11 +903,10 @@ AN OLD TUNE.
       In some forgotten life, long time gone by.
 
 
-
 JUANA.
 
 
-                            ALFRED DE MUSSET.
+ALFRED DE MUSSET.
 
    AGAIN I see you, ah my queen,
    Of all my old loves that have been,
@@ -1123,11 +959,10 @@ JUANA.
       For you that not remember it.
 
 
-
 SPRING IN THE STUDENT’S QUARTER.
 
 
-                              HENRI MURGER.
+HENRI MURGER.
 
    WINTER is passing, and the bells
       For ever with their silver lay
@@ -1168,11 +1003,10 @@ SPRING IN THE STUDENT’S QUARTER.
       She now might sit to Gavarni.
 
 
-
 OLD LOVES.
 
 
-                              HENRI MURGER.
+HENRI MURGER.
 
    LOUISE, have you forgotten yet
       The corner of the flowery land,
@@ -1211,11 +1045,10 @@ OLD LOVES.
       And I alone remember yet.
 
 
-
 MUSETTE.
 
 
-                           HENRI MURGER.  1850
+HENRI MURGER.  1850
 
    YESTERDAY, watching the swallows’ flight
       That bring the spring and the season fair,
@@ -1270,7 +1103,6 @@ MUSETTE.
       The ashes of all old memories,
    That we find the key of the woodland ways
       That lead to the place of our paradise.
-
 
 
 THE THREE CAPTAINS.
@@ -1339,7 +1171,6 @@ THE THREE CAPTAINS.
       To my mother and to thee.’
 
 
-
 THE BRIDGE OF DEATH.
 
 
@@ -1386,13 +1217,12 @@ THE BRIDGE OF DEATH.
       For the souls of him and her.
 
 
-
 LE PÈRE SÉVÈRE.
 
 
-                          KING LOUIS’ DAUGHTER.
+KING LOUIS’ DAUGHTER.
 
-                      BALLAD OF THE ISLE OF FRANCE.
+BALLAD OF THE ISLE OF FRANCE.
 
    KING LOUIS on his bridge is he,
    He holds his daughter on his knee.
@@ -1437,7 +1267,6 @@ LE PÈRE SÉVÈRE.
 
    ‘’Tis better far the cold to dree
    Than give my true love up for thee.’
-
 
 
 THE MILK WHITE DOE.
@@ -1508,7 +1337,6 @@ THE MILK WHITE DOE.
       On the grass below the hawthorn tree.
 
 
-
 A LADY OF HIGH DEGREE.
 
 
@@ -1567,7 +1395,6 @@ A LADY OF HIGH DEGREE.
       My lady and love to be.’
 
 
-
 LOST FOR A ROSE’S SAKE.
 
 
@@ -1595,8 +1422,6 @@ LOST FOR A ROSE’S SAKE.
       Were still to set,
    That my love Marie
       Might love me yet.
-
-
 
 
 BALLADS OF MODERN GREECE.
@@ -1634,7 +1459,6 @@ THE BRIGAND’S GRAVE.
       And the swallows will bring the spring;
    And all the merry month of May
       The nightingales will sing.
-
 
 
 THE SUDDEN BRIDAL.
@@ -1753,8 +1577,6 @@ THE SUDDEN BRIDAL.
       Shall be my true love still.’
 
 
-
-
 GREEK FOLK SONGS.
 
 
@@ -1782,7 +1604,6 @@ IANNOULA.
       Buds that blossom before the day.’
 
 
-
 THE TELL-TALES.
 
 
@@ -1795,8 +1616,6 @@ THE TELL-TALES.
       To the sea what the green sea has told to the oars,
    And the oars to the sailors, and they of us lovers
       Go singing this song at their mistress’s doors.
-
-
 
 
 AVE.
@@ -1838,7 +1657,6 @@ TWILIGHT ON TWEED.
       That should have welcomed me.
 
 
-
 ONE FLOWER.
 
 
@@ -1864,7 +1682,6 @@ ONE FLOWER.
    In over happy dreams, upon mine eyes.
 
 
-
 METEMPSYCHOSIS.
 
 
@@ -1883,7 +1700,6 @@ METEMPSYCHOSIS.
       Carven and sung, are only shapes of thee;
    Alas, the shadowy shapes! ah, sweet my dear
    Shall life or death bring all thy being near?
-
 
 
 LOST IN HADES.
@@ -1906,7 +1722,6 @@ LOST IN HADES.
       I found you never, dearest, anywhere.
 
 
-
 A STAR IN THE NIGHT.
 
 
@@ -1925,7 +1740,6 @@ A STAR IN THE NIGHT.
       At night our souls are mingled and made one,
    And wait till one night fall, and one dawn rise,
    That brings no noon too splendid for your eyes.
-
 
 
 A SUNSET ON YARROW.
@@ -1950,22 +1764,10 @@ A SUNSET ON YARROW.
       Twain grown one in the solitude.
 
 
-
-
 HESPEROTHEN.
 
 
-BY the example of certain Grecian mariners, who, being safely returned
-from the war about Troy, leave yet again their old lands and gods,
-seeking they know not what, and choosing neither to abide in the fair
-Phæacian island, nor to dwell and die with the Sirens, at length end
-miserably in a desert country by the sea, is set forth the _Vanity of
-Melancholy_.  And by the land of Phæacia is to be understood the place of
-Art and of fair Pleasures; and by Circe’s Isle, the places of bodily
-delights, whereof men, falling aweary, attain to Eld, and to the darkness
-of that age.  Which thing Master Françoys Rabelais feigned, under the
-similitude of the Isle of the Macræones.
-
+BY the example of certain Grecian mariners, who, being safely returned from the war about Troy, leave yet again their old lands and gods, seeking they know not what, and choosing neither to abide in the fair Phæacian island, nor to dwell and die with the Sirens, at length end miserably in a desert country by the sea, is set forth the _Vanity of Melancholy_.  And by the land of Phæacia is to be understood the place of Art and of fair Pleasures; and by Circe’s Isle, the places of bodily delights, whereof men, falling aweary, attain to Eld, and to the darkness of that age.  Which thing Master Françoys Rabelais feigned, under the similitude of the Isle of the Macræones.
 
 
 THE SEEKERS FOR PHÆACIA.
@@ -1975,10 +1777,10 @@ THE SEEKERS FOR PHÆACIA.
          Where the soft night is born, and sunset dies;
       The eastern shores see faint tides fade away,
          That wash the lands where laughter, tears, and sighs,
-   Make life,—the lands beneath the blue of common skies.
+Make life,—the lands beneath the blue of common skies.
 
-      But in the west is a mysterious sea,
-         (What sails have seen it, or what shipmen known?)
+But in the west is a mysterious sea,
+(What sails have seen it, or what shipmen known?)
       With coasts enchanted where the Sirens be,
          With islands where a Goddess walks alone,
    And in the cedar trees the magic winds make moan
@@ -2012,7 +1814,6 @@ THE SEEKERS FOR PHÆACIA.
       But with a mist they hide them wondrously,
          And far the path and dim to where they sleep,—
    The loved, the shadowy lands along the shadowy deep.
-
 
 
 A SONG OF PHÆACIA.
@@ -2064,11 +1865,10 @@ A SONG OF PHÆACIA.
       The rose of the sea and the sky is white.
 
 
-
 THE DEPARTURE FROM PHÆACIA.
 
 
-                               THE PHÆACIANS.
+THE PHÆACIANS.
 
    WHY from the dreamy meadows,
       More fair than any dream,
@@ -2118,7 +1918,6 @@ THE DEPARTURE FROM PHÆACIA.
       And works and days are done.
 
 
-
 A BALLAD OF DEPARTURE. {110}
 
 
@@ -2136,7 +1935,6 @@ A BALLAD OF DEPARTURE. {110}
       Has no more sorrow, and no more love;
    And who sets the same in his garden stead,
       In a little space he is waste and dead.
-
 
 
 THEY HEAR THE SIRENS FOR THE SECOND TIME.
@@ -2179,7 +1977,6 @@ THEY HEAR THE SIRENS FOR THE SECOND TIME.
       Were more than any Siren’s song.
 
 
-
 CIRCE’S ISLE REVISITED.
 
 
@@ -2212,7 +2009,6 @@ CIRCE’S ISLE REVISITED.
    We turned, we fled; the solitude of night
       Was better than the infinite regret,
    In fallen places of our dead delight.
-
 
 
 THE LIMIT OF LANDS.
@@ -2259,8 +2055,6 @@ THE LIMIT OF LANDS.
    Behold how sadder far is this,
    To know that rest is nowise bliss,
       And darkness is the end thereof.
-
-
 
 
 VERSES ON PICTURES.
@@ -2317,11 +2111,10 @@ For a sketch by Mr. G. Leslie, A.R.A.
       New art’s blossom, Colinette.
 
 
-
 A SUNSET OF WATTEAU.
 
 
-                                    LUI.
+LUI.
 
    THE silk sail fills, the soft winds wake,
       Arise and tempt the seas;
@@ -2366,7 +2159,6 @@ A SUNSET OF WATTEAU.
       Blows from the house of Death.
 
 
-
 A NATIVITY OF SANDRO BOTTICELLI.
 
 
@@ -2385,8 +2177,6 @@ A NATIVITY OF SANDRO BOTTICELLI.
    The mother’s love that shone on all of us,
    And maiden rapture that makes luminous
       The brows of Margaret and Catherine.
-
-
 
 
 SONGS AND SONNETS
@@ -2414,7 +2204,6 @@ Sept. 1870.
    Comes to the home that is not made with hands.
 
 
-
 SUMMER’S ENDING.
 
 
@@ -2438,7 +2227,6 @@ SUMMER’S ENDING.
    July and June, and never a lover
    May stay the wings of the Loves that hover,
       As fleet as the light in a sunset sky.
-
 
 
 NIGHTINGALE WEATHER.
@@ -2486,16 +2274,15 @@ NIGHTINGALE WEATHER.
       In the dawn, ’twixt him and me.
 
 
-
 LOVE AND WISDOM.
 
 
    ‘When last we gathered roses in the garden
    I found my wits, but truly you lost yours.’
 
-                                                         THE BROKEN HEART.
+THE BROKEN HEART.
 
-                                * * * * *
+* * * * *
 
    JULY, and June brought flowers and love
    To you, but I would none thereof,
@@ -2524,7 +2311,6 @@ LOVE AND WISDOM.
    Wisdom and love were made at one;
    But love was bitter-bought enough,
    And wisdom light of wing as love.
-
 
 
 GOOD-BYE.
@@ -2567,16 +2353,15 @@ GOOD-BYE.
    Forget not quite, my sweet.
 
 
-
 AN OLD PRAYER.
 
 
     Χαιρέ μοι, ῶ Βασίλεια, διαμπερὲς εἰς ὅ κε γῆρας
     Ἔλθῃ καὶ θάνατος,τὰ τ’ ἐπ’ ἀνθρώποισι πέλονται.
 
-                                                        ODYSSEY, xiii. 59.
+ODYSSEY, xiii. 59.
 
-                                * * * * *
+* * * * *
 
    MY prayer an old prayer borroweth,
    Of ancient love and memory—
@@ -2590,7 +2375,6 @@ AN OLD PRAYER.
    Even as the ancient singer saith,
    ‘Do thou farewell, till Eld and Death,
    That come to all men, come to thee.’
-
 
 
 LOVE’S MIRACLE.
@@ -2613,7 +2397,6 @@ LOVE’S MIRACLE.
    Touch not and heal her, surely she must die.
 
 
-
 DREAMS.
 
 
@@ -2632,7 +2415,6 @@ DREAMS.
    And one is borne on fairy breezes far
    To the bright harbours of a golden star
       Down fragrant fleeting waters rosy pale.
-
 
 
 FAIRY LAND.
@@ -2691,20 +2473,14 @@ FAIRY LAND.
    That I must back to Fairy Land!
 
 
-
 TWO SONNETS OF THE SIRENS.
 
 
-‘Les Sirènes estoient tant intimes amies et fidelles compagnes de
-Proserpine, qu’elles estoient toujours ensemble.  Esmues du juste deuil
-de la perte de leur chère compagne, et enuyées jusques au desespoir,
-elles s’arrestèrent à la mer Sicilienne, où par leurs chants elles
-attiroient les navigans, mais l’unique fin de la volupé de leur musique
-est la Mort.’—PONTUS DE TYARD.  1570.
+‘Les Sirènes estoient tant intimes amies et fidelles compagnes de Proserpine, qu’elles estoient toujours ensemble.  Esmues du juste deuil de la perte de leur chère compagne, et enuyées jusques au desespoir, elles s’arrestèrent à la mer Sicilienne, où par leurs chants elles attiroient les navigans, mais l’unique fin de la volupé de leur musique est la Mort.’—PONTUS DE TYARD.  1570.
 
-                                * * * * *
+* * * * *
 
-                                     I.
+I.
 
    THE Sirens once were maidens innocent
       That through the water-meads with Proserpine
@@ -2739,11 +2515,10 @@ est la Mort.’—PONTUS DE TYARD.  1570.
          His whole life long is slave to her alone.
 
 
-
 A LA BELLE HÉLÈNE.
 
 
-                              AFTER RONSARD.
+AFTER RONSARD.
 
    MORE closely than the clinging vine
       About the wedded tree,
@@ -2775,11 +2550,10 @@ A LA BELLE HÉLÈNE.
       _And August ebbs away_.
 
 
-
 SYLVIE ET AURÉLIE.
 
 
-                      IN MEMORY OF GÉRARD DE NERVAL.
+IN MEMORY OF GÉRARD DE NERVAL.
 
    TWO loves there were, and one was born
       Between the sunset and the rain;
@@ -2814,15 +2588,12 @@ SYLVIE ET AURÉLIE.
    Thy fled soul find her soul again.
 
 
-
 A LOST PATH.
 
 
-Plotinus, the Greek philosopher, had a certain proper mode of ecstasy,
-whereby, as Porphyry saith, his soul, becoming free from his deathly
-flesh, was made one with the Spirit that is in the World.
+Plotinus, the Greek philosopher, had a certain proper mode of ecstasy, whereby, as Porphyry saith, his soul, becoming free from his deathly flesh, was made one with the Spirit that is in the World.
 
-                                * * * * *
+* * * * *
 
    ALAS, the path is lost, we cannot leave
       Our bright, our clouded life, and pass away
@@ -2842,19 +2613,16 @@ flesh, was made one with the Spirit that is in the World.
    And of that long-lost path to the Divine
    We dream, as some Greek shepherd erst might sing,
       Half credulous, of easy Proserpine
-   And of the lands that lie ‘beneath the day’s decline.’
-
+And of the lands that lie ‘beneath the day’s decline.’
 
 
 THE SHADE OF HELEN.
 
 
-Some say that Helen went never to Troy, but abode in Egypt; for the Gods,
-having made in her semblance a woman out of clouds and shadows, sent the
-same to be wife to Paris.  For this shadow then the Greeks and Trojans
+Some say that Helen went never to Troy, but abode in Egypt; for the Gods, having made in her semblance a woman out of clouds and shadows, sent the same to be wife to Paris.  For this shadow then the Greeks and Trojans
 slew each other.
 
-                                * * * * *
+* * * * *
 
    WHY from the quiet hollows of the hills,
    And extreme meeting place of light and shade,
@@ -2906,8 +2674,6 @@ slew each other.
    But _we_ await the dawn of a new day.
 
 
-
-
 SONNETS TO POETS.
 
 
@@ -2927,8 +2693,7 @@ JACQUES TAHUREAU.  1530.
          The first spring days, the sounds and scents thereof;
    So clear thy fire of song, so early chilled,
       So brief, so bright thy life that gaily met
-         Death, for thy Death came hand in hand with Love.
-
+Death, for thy Death came hand in hand with Love.
 
 
 FRANÇOIS VILLON.  1450.
@@ -2951,7 +2716,6 @@ FRANÇOIS VILLON.  1450.
       And prayer that cannot help wears out the soul.
 
 
-
 PIERRE RONSARD.  1560.
 
 
@@ -2970,7 +2734,6 @@ PIERRE RONSARD.  1560.
       And birds’ song in the branches was astir.
    Ah, but thy songs are sad, thy roses wan,
    Thy bees have fed on yews Sardinian.
-
 
 
 GÉRARD DE NERVAL.
@@ -2992,14 +2755,12 @@ GÉRARD DE NERVAL.
    In the new world, where all things are made new?
 
 
-
 THE DEATH OF MIRANDOLA.  1494.
 
 
-‘The Queen of Heaven appeared, comforting him and promising that he
-should not utterly die.’—THOMAS MORE, _Life of Piens, Earl of Mirandola_.
+‘The Queen of Heaven appeared, comforting him and promising that he should not utterly die.’—THOMAS MORE, _Life of Piens, Earl of Mirandola_.
 
-                                * * * * *
+* * * * *
 
    STRANGE lilies came with autumn; new and old
       Were mingling, and the old world passed away,
@@ -3019,12 +2780,10 @@ should not utterly die.’—THOMAS MORE, _Life of Piens, Earl of Mirandola_.
                                 * * * * *
 
                             LONDON: PRINTED BY
-                 SPOTTISWOODE AND CO., NEW-STREET SQUARE
-                          AND PARLIAMENT STREET
+SPOTTISWOODE AND CO., NEW-STREET SQUARE
+AND PARLIAMENT STREET
 
-                                * * * * *
-
-
+* * * * *
 
 
 FOOTNOTES
@@ -3033,364 +2792,3 @@ FOOTNOTES
 {23}  Aphrodite—Avril.
 
 {110}  From the Romaic.
-
-
-
-
-***END OF THE PROJECT GUTENBERG EBOOK BALLADS AND LYRICS OF OLD FRANCE***
-
-
-******* This file should be named 795-0.txt or 795-0.zip *******
-
-
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/7/9/795
-
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License available with this file or online at
-  www.gutenberg.org/license.
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation information page at www.gutenberg.org
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
-contact links and up to date contact information can be found at the
-Foundation's web site and official page at www.gutenberg.org/contact
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit:  www.gutenberg.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For forty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-Most people start at our Web site which has the main PG search facility:
-
-     www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
