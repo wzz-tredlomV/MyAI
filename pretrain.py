@@ -543,27 +543,51 @@ def create_optimizer(lr_schedule, config):
     """
     [FIX] 真正的 Decoupled Weight Decay：
       - weight_decay 由 AdamW 原生实现
-      - exclude_from_weight_decay 自动排除 bias/norm/embed/gamma/beta
+      - 自动排除 bias/norm/embed/gamma/beta 的 weight decay
+      - 兼容 Keras 3.x (TF >= 2.16) 和旧版 API
     """
     try:
-        optimizer_cls = keras.optimizers.AdamW
-    except AttributeError:
-        try:
-            optimizer_cls = keras.optimizers.experimental.AdamW
-            print("  ⚠️ 使用 experimental AdamW（建议升级至 TF >= 2.11）")
-        except AttributeError:
-            raise ImportError(
-                "当前 TensorFlow 版本不支持 AdamW，请升级至 TF >= 2.11"
+        optimizer = keras.optimizers.AdamW(
+            learning_rate=lr_schedule,
+            weight_decay=config.weight_decay,
+            beta_1=0.9,
+            beta_2=0.98,
+            epsilon=1e-6,
+            clipnorm=1.0,
+        )
+        # [FIX] Keras 3.x: exclude_from_weight_decay 改为实例方法调用
+        if hasattr(optimizer, 'exclude_from_weight_decay'):
+            optimizer.exclude_from_weight_decay(
+                var_names=["bias", "gamma", "beta", "embed", "norm"]
             )
-    return optimizer_cls(
-        learning_rate=lr_schedule,
-        weight_decay=config.weight_decay,
-        beta_1=0.9,
-        beta_2=0.98,
-        epsilon=1e-6,
-        clipnorm=1.0,
-        exclude_from_weight_decay=["bias", "gamma", "beta", "embed", "norm"],
-    )
+        return optimizer
+    except TypeError:
+        # 旧版 API (TF < 2.16): 构造函数直接接受 exclude_from_weight_decay
+        try:
+            return keras.optimizers.AdamW(
+                learning_rate=lr_schedule,
+                weight_decay=config.weight_decay,
+                beta_1=0.9,
+                beta_2=0.98,
+                epsilon=1e-6,
+                clipnorm=1.0,
+                exclude_from_weight_decay=["bias", "gamma", "beta", "embed", "norm"],
+            )
+        except AttributeError:
+            try:
+                return keras.optimizers.experimental.AdamW(
+                    learning_rate=lr_schedule,
+                    weight_decay=config.weight_decay,
+                    beta_1=0.9,
+                    beta_2=0.98,
+                    epsilon=1e-6,
+                    clipnorm=1.0,
+                    exclude_from_weight_decay=["bias", "gamma", "beta", "embed", "norm"],
+                )
+            except AttributeError:
+                raise ImportError(
+                    "当前 TensorFlow 版本不支持 AdamW，请升级至 TF >= 2.11"
+                )
 
 
 # ============================================================
