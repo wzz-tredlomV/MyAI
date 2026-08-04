@@ -20,7 +20,7 @@ pretrain.py - 预训练脚本（完整修复与优化版 v2.1）
  13. [FIX] 验证集覆盖率使用实际 token 数，修正 drop_remainder=False 的估算偏差
  14. [FIX] override_steps 强制对齐梯度累积步数，避免 epoch 边界多取 batch
  15. [FIX] TF 版本兼容性检查（AdamW、mixed_precision）
- 16. [FIX] mixed_float16 下 loss_fn / _eval_step 统一 dtype，避免 float16/float32 混用报错
+ 16. [FIX] mixed_float16 下 loss_fn 统一 dtype，避免 float16/float32 混用报错
 """
 import tensorflow as tf
 from tensorflow import keras
@@ -472,19 +472,19 @@ def _eval_step(inputs, model):
     """单步验证，使用 tf.function 优化内存。"""
     x, y = inputs
     logits = model(x, training=False)
+    mask = tf.cast(tf.not_equal(y, 0), tf.float32)
+
     per_token_loss = tf.keras.losses.sparse_categorical_crossentropy(
         y, logits, from_logits=True
     )
-    # [FIX] mixed_float16 下对齐 dtype，避免 float16/float32 混用
-    mask = tf.cast(tf.not_equal(y, 0), per_token_loss.dtype)
     per_token_loss = per_token_loss * mask
     batch_loss = tf.reduce_sum(per_token_loss)
     batch_tokens = tf.reduce_sum(mask)
 
     predictions = tf.argmax(logits, axis=-1, output_type=tf.int32)
-    correct = tf.cast(tf.equal(predictions, y), tf.float32) * tf.cast(mask, tf.float32)
+    correct = tf.cast(tf.equal(predictions, y), tf.float32) * mask
     batch_correct = tf.reduce_sum(correct)
-    batch_valid = tf.reduce_sum(tf.cast(mask, tf.float32))
+    batch_valid = tf.reduce_sum(mask)
 
     return batch_loss, batch_tokens, batch_correct, batch_valid
 
